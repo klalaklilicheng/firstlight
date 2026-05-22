@@ -10,25 +10,23 @@ const CRYPTO_MAP = {
   HYPE: 'hyperliquid',
   ZEC: 'zcash',
   TAO: 'bittensor',
-  SKY: 'sky',
+  SKY: 'maker',
   AAVE: 'aave',
   BNB: 'binancecoin',
 };
 
-const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+const FINNHUB_KEY = process.env.FINNHUB_API_KEY;
 
 async function fetchStock(symbol) {
-  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=2d`;
-  const res = await fetch(url, { headers: { 'User-Agent': UA } });
+  const url = `https://finnhub.io/api/v1/quote?symbol=${symbol}&token=${FINNHUB_KEY}`;
+  const res = await fetch(url);
   if (!res.ok) throw new Error(`${res.status}`);
-  const json = await res.json();
-  const meta = json.chart.result[0].meta;
-  const price = meta.regularMarketPrice;
-  const prev = meta.chartPreviousClose ?? meta.previousClose;
+  const q = await res.json();
+  if (!q.c) throw new Error('no data');
   return {
     symbol,
-    price: +price.toFixed(2),
-    change_pct: prev ? +((price - prev) / prev * 100).toFixed(2) : 0,
+    price: +q.c.toFixed(2),
+    change_pct: +q.dp.toFixed(2),
   };
 }
 
@@ -46,6 +44,11 @@ async function fetchCryptos() {
 }
 
 async function main() {
+  if (!FINNHUB_KEY) {
+    console.error('Missing FINNHUB_API_KEY env var');
+    process.exit(1);
+  }
+
   console.log('Fetching stock data...');
   const stocks = [];
   for (const symbol of STOCKS) {
@@ -57,7 +60,7 @@ async function main() {
       console.error(`  ${symbol}: FAILED - ${e.message}`);
       stocks.push({ symbol, price: 0, change_pct: 0, error: true });
     }
-    await new Promise(r => setTimeout(r, 300));
+    await new Promise(r => setTimeout(r, 200));
   }
 
   console.log('Fetching crypto data...');

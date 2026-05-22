@@ -18,6 +18,8 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/fetch-data.mjs
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
