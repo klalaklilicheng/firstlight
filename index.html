@@ -63,13 +63,15 @@
   .beat { color: #22c55e; }
   .miss { color: #ef4444; }
 
-  /* News list */
-  .news-list { display: flex; flex-direction: column; gap: 8px; }
-  .news-item { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 12px 14px; }
-  .news-item .tags { margin-bottom: 4px; }
-  .news-item .tag { display: inline-block; font-size: 11px; background: #1e293b; color: #94a3b8; padding: 1px 6px; border-radius: 4px; margin-right: 4px; }
-  .news-item .headline { font-size: 14px; color: #e0e0e0; }
-  .news-item .meta { font-size: 11px; color: #555; margin-top: 4px; }
+  /* Mando Minutes */
+  .mando-box { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 20px; }
+  .mando-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px; flex-wrap: wrap; gap: 8px; }
+  .mando-header .title a { font-size: 16px; font-weight: 600; color: #fff; }
+  .mando-header .date { font-size: 12px; color: #666; }
+  .mando-sections { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+  .mando-section { }
+  .mando-section .sec-header { font-size: 14px; font-weight: 600; color: #f59e0b; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .mando-section .sec-item { font-size: 13px; color: #bbb; padding: 3px 0; border-bottom: 1px solid #1a1a1a; line-height: 1.4; }
 
   /* IPO watch */
   .ipo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
@@ -135,8 +137,8 @@
   </section>
 
   <section>
-    <h2>Market News</h2>
-    <div class="news-list" id="news"><div class="loading">Loading...</div></div>
+    <h2>Market News — Mando Minutes</h2>
+    <div class="mando-box" id="mando"><div class="loading">Loading...</div></div>
   </section>
 
   <section>
@@ -228,17 +230,19 @@ function renderFOMC(fomc) {
   return `${nextHtml}<div class="fomc-timeline">${dots}</div>`;
 }
 
-function renderNews(news) {
-  if (!news.length) return '<div class="loading">No news</div>';
-  return news.slice(0, 20).map(n => {
-    const tags = (n.symbols || []).map(s => `<span class="tag">${s}</span>`).join('');
-    const time = new Date(n.datetime * 1000).toLocaleDateString('zh-CN', {month:'short', day:'numeric'});
-    return `<div class="news-item">
-      <div class="tags">${tags}</div>
-      <a class="headline" href="${n.url}" target="_blank">${n.headline}</a>
-      <div class="meta">${n.source} · ${time}</div>
-    </div>`;
+function renderMando(mando) {
+  if (!mando) return '<div class="loading">No data</div>';
+  const date = mando.date ? new Date(mando.date * 1000).toLocaleDateString('zh-CN', {month:'short', day:'numeric'}) : '';
+  const sectionsHtml = mando.sections.map(s => {
+    const hdr = s.header ? `<div class="sec-header">${s.header}</div>` : '';
+    const items = s.items.slice(0, 20).map(i => `<div class="sec-item">${i}</div>`).join('');
+    return `<div class="mando-section">${hdr}${items}</div>`;
   }).join('');
+  return `<div class="mando-header">
+    <div class="title"><a href="${mando.url}" target="_blank">${mando.title} ↗</a></div>
+    <div class="date">${date}</div>
+  </div>
+  <div class="mando-sections">${sectionsHtml}</div>`;
 }
 
 function renderIPO(ipo) {
@@ -281,7 +285,7 @@ async function load() {
     ['btc-score', () => d.btc_score ? renderBTCScore(d.btc_score) : null],
     ['earnings', () => d.earnings ? renderEarnings(d.earnings) : null],
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
-    ['news', () => d.news ? renderNews(d.news) : null],
+    ['mando', () => d.mando ? renderMando(d.mando) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
   ];
   for (const [id, fn] of sections) {

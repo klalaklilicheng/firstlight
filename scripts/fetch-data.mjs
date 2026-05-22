@@ -133,42 +133,50 @@ async function fetchEarnings() {
   return earnings;
 }
 
-// --- News (company + crypto + general) ---
-async function fetchNews() {
-  const today = new Date().toISOString().slice(0, 10);
-  const weekAgo = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
-  const news = [];
+// --- Mando Minutes daily newsletter ---
+function stripHtml(html) {
+  return html
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<br\s*\/?>/gi, '\n')
+    .replace(/<\/?(p|div|h[1-6]|li|tr|td|th)[^>]*>/gi, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#x27;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/\n{3,}/g, '\n\n').trim();
+}
 
-  for (const symbol of STOCKS) {
-    try {
-      const items = await finnhub(`/company-news?symbol=${symbol}&from=${weekAgo}&to=${today}`);
-      for (const n of (items || []).slice(0, 3)) {
-        news.push({ symbols: [symbol], headline: n.headline, summary: (n.summary || '').slice(0, 200),
-          url: n.url, source: n.source, datetime: n.datetime });
-      }
-    } catch (e) {
-      console.error(`  ${symbol} news: ${e.message}`);
-    }
-  }
-
+async function fetchMandoMinutes() {
   try {
-    const crypto = await finnhub('/news?category=crypto');
-    const cryptoSymbols = Object.keys(CRYPTO_MAP);
-    for (const n of (crypto || []).slice(0, 20)) {
-      const text = `${n.headline} ${n.summary}`.toLowerCase();
-      const matched = cryptoSymbols.filter(s =>
-        text.includes(s.toLowerCase()) || text.includes(CRYPTO_MAP[s]));
-      if (matched.length) {
-        news.push({ symbols: matched, headline: n.headline, summary: (n.summary || '').slice(0, 200),
-          url: n.url, source: n.source, datetime: n.datetime });
+    const res = await fetch('https://mandominutes.com/api/getRecentPost');
+    if (!res.ok) throw new Error(`${res.status}`);
+    const d = await res.json();
+    const html = d.content?.free?.rss || '';
+    const text = stripHtml(html);
+
+    // Split into sections by known headers
+    const sections = [];
+    const parts = text.split(/\n(?=Crypto\b|Macro\b|AI & Tech\b)/);
+    for (const part of parts) {
+      const lines = part.split('\n').map(l => l.trim()).filter(Boolean);
+      if (!lines.length) continue;
+      const header = lines[0];
+      if (['Crypto', 'Macro', 'AI & Tech'].some(h => header.startsWith(h))) {
+        sections.push({ header: lines[0], items: lines.slice(1) });
+      } else {
+        sections.push({ header: '', items: lines });
       }
     }
-  } catch (e) {
-    console.error(`  Crypto news: ${e.message}`);
-  }
 
-  news.sort((a, b) => b.datetime - a.datetime);
-  return news.slice(0, 30);
+    return {
+      title: d.subject_line || 'Mando Minutes',
+      url: d.web_url || 'https://mandominutes.com/Latest',
+      date: d.publish_date,
+      sections,
+    };
+  } catch (e) {
+    console.error(`  Mando Minutes: ${e.message}`);
+    return null;
+  }
 }
 
 // --- IPO watch ---
@@ -240,9 +248,9 @@ async function main() {
   console.log('Fetching earnings...');
   const earnings = await fetchEarnings();
 
-  console.log('Fetching news...');
-  const news = await fetchNews();
-  console.log(`  ${news.length} news items`);
+  console.log('Fetching Mando Minutes...');
+  const mando = await fetchMandoMinutes();
+  if (mando) console.log(`  ${mando.title} - ${mando.sections.length} sections`);
 
   console.log('Fetching IPO watch...');
   const ipo_watch = await fetchIPONews();
@@ -256,7 +264,7 @@ async function main() {
   const fomc = buildFOMC();
   console.log(`  Next: ${fomc.next?.date} (${fomc.next?.days_until} days)`);
 
-  const result = { updated_at: new Date().toISOString(), stocks, crypto, earnings, news, ipo_watch, btc_score, fomc };
+  const result = { updated_at: new Date().toISOString(), stocks, crypto, earnings, mando, ipo_watch, btc_score, fomc };
 
   const dataDir = join(process.cwd(), 'data');
   if (!existsSync(dataDir)) mkdirSync(dataDir, { recursive: true });
