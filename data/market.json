@@ -1,118 +1,878 @@
 {
-  "updated_at": "2026-05-22T03:54:31.709Z",
+  "updated_at": "2026-05-22T07:16:08.808Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 682.84,
+      "change_pct": 0.19
     },
     {
       "symbol": "QQQ",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 714.51,
+      "change_pct": 0.19
     },
     {
       "symbol": "QQQM",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 294.21,
+      "change_pct": 0.2
     },
     {
       "symbol": "NVDA",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 219.51,
+      "change_pct": -1.77
     },
     {
       "symbol": "TSLA",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 417.85,
+      "change_pct": 0.14
     },
     {
       "symbol": "GOOG",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 383.47,
+      "change_pct": -0.37
     },
     {
       "symbol": "RKLB",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 125.45,
+      "change_pct": -6.58
     },
     {
       "symbol": "CRCL",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 114.88,
+      "change_pct": 2.92
     },
     {
       "symbol": "PLTR",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 137.41,
+      "change_pct": 0.19
     },
     {
       "symbol": "MSTR",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 164.85,
+      "change_pct": -0.58
     },
     {
       "symbol": "GLD",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 416.99,
+      "change_pct": -0.1
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77698,
-      "change_pct": -0.32
+      "price": 77294,
+      "change_pct": -0.23
     },
     {
       "symbol": "ETH",
-      "price": 2136.07,
-      "change_pct": -0.33
+      "price": 2125.52,
+      "change_pct": 0.06
     },
     {
       "symbol": "SOL",
-      "price": 86.92,
-      "change_pct": 0.29
+      "price": 86.66,
+      "change_pct": 0.39
     },
     {
       "symbol": "HYPE",
-      "price": 57.5,
-      "change_pct": 1.51
+      "price": 57.07,
+      "change_pct": -0.18
     },
     {
       "symbol": "ZEC",
-      "price": 657.57,
-      "change_pct": -2.42
+      "price": 649.03,
+      "change_pct": -2.75
     },
     {
       "symbol": "TAO",
-      "price": 279.95,
-      "change_pct": 0.89
+      "price": 279.73,
+      "change_pct": -1.12
     },
     {
       "symbol": "SKY",
-      "price": 0.070711,
-      "change_pct": 0.09
+      "price": 1652.58,
+      "change_pct": 0.89
     },
     {
       "symbol": "AAVE",
-      "price": 87.99,
-      "change_pct": -2.1
+      "price": 87.74,
+      "change_pct": -1.09
     },
     {
       "symbol": "BNB",
-      "price": 659.27,
-      "change_pct": 0.84
+      "price": 656.08,
+      "change_pct": 0.78
     }
-  ]
+  ],
+  "earnings": {
+    "VOO": {
+      "next": null,
+      "history": []
+    },
+    "QQQ": {
+      "next": null,
+      "history": []
+    },
+    "QQQM": {
+      "next": null,
+      "history": []
+    },
+    "NVDA": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 1,
+          "year": 2027,
+          "actual": 1.87,
+          "estimate": 1.7927,
+          "surprise_pct": 4.3119
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 4,
+          "year": 2026,
+          "actual": 1.62,
+          "estimate": 1.5634,
+          "surprise_pct": 3.6203
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 3,
+          "year": 2026,
+          "actual": 1.3,
+          "estimate": 1.2746,
+          "surprise_pct": 1.9928
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 1.05,
+          "estimate": 1.0281,
+          "surprise_pct": 2.1301
+        }
+      ]
+    },
+    "TSLA": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.41,
+          "estimate": 0.3773,
+          "surprise_pct": 8.6668
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.5,
+          "estimate": 0.4541,
+          "surprise_pct": 10.1079
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.5,
+          "estimate": 0.5586,
+          "surprise_pct": -10.4905
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 0.4,
+          "estimate": 0.4373,
+          "surprise_pct": -8.5296
+        }
+      ]
+    },
+    "GOOG": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 2.62,
+          "estimate": 2.7051,
+          "surprise_pct": -3.1459
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 2.82,
+          "estimate": 2.7063,
+          "surprise_pct": 4.2013
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 3.1,
+          "estimate": 2.3954,
+          "surprise_pct": 29.4147
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 2.31,
+          "estimate": 2.25,
+          "surprise_pct": 2.6667
+        }
+      ]
+    },
+    "RKLB": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": -0.07,
+          "estimate": -0.0815,
+          "surprise_pct": 14.1104
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": -0.09,
+          "estimate": -0.0942,
+          "surprise_pct": 4.4586
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": -0.03,
+          "estimate": -0.1064,
+          "surprise_pct": 71.8045
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": -0.13,
+          "estimate": -0.1167,
+          "surprise_pct": -11.3967
+        }
+      ]
+    },
+    "CRCL": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.21,
+          "estimate": 0.2006,
+          "surprise_pct": 4.6859
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.36,
+          "estimate": 0.251,
+          "surprise_pct": 43.4263
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.2,
+          "estimate": 0.2277,
+          "surprise_pct": -12.1651
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 1.02,
+          "estimate": -0.7067,
+          "surprise_pct": 244.3328
+        }
+      ]
+    },
+    "PLTR": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.33,
+          "estimate": 0.2849,
+          "surprise_pct": 15.8301
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.25,
+          "estimate": 0.2348,
+          "surprise_pct": 6.4736
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.21,
+          "estimate": 0.1718,
+          "surprise_pct": 22.2352
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 0.16,
+          "estimate": 0.1405,
+          "surprise_pct": 13.879
+        }
+      ]
+    },
+    "MSTR": {
+      "next": null,
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": -38.25,
+          "estimate": -4.3945,
+          "surprise_pct": -770.4062
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": -42.93,
+          "estimate": 3.0277,
+          "surprise_pct": -1517.908
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 8.42,
+          "estimate": 8.3144,
+          "surprise_pct": 1.2701
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 32.6,
+          "estimate": -0.0936,
+          "surprise_pct": 34929.0598
+        }
+      ]
+    },
+    "GLD": {
+      "next": null,
+      "history": []
+    }
+  },
+  "news": [
+    {
+      "symbols": [
+        "BTC",
+        "ETH"
+      ],
+      "headline": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
+      "source": "CoinDesk",
+      "datetime": 1779431778
+    },
+    {
+      "symbols": [
+        "BTC"
+      ],
+      "headline": "Bitcoin trades near $77,700 as analysts eye $75,000 support after liquidation wave",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/05/22/bitcoin-trades-near-usd77-700-as-analysts-eye-usd75-000-support-after-liquidation-wave",
+      "source": "CoinDesk",
+      "datetime": 1779428302
+    },
+    {
+      "symbols": [
+        "ETH",
+        "SKY"
+      ],
+      "headline": "Ethereum price analysis today",
+      "summary": "<p>ETHUSD remains vulnerable below 2,155-2,160 as ETF outflows weigh</p><p>Ethereum is trying to stabilize near 2,130, but today’s ETHUSD structure still favors a cautious, bearish-neutral read while ",
+      "url": "https://investinglive.com/Cryptocurrency/ethereum-price-analysis-today-20260522/",
+      "source": "Forexlive",
+      "datetime": 1779427687
+    },
+    {
+      "symbols": [
+        "NVDA"
+      ],
+      "headline": "French quantum firm Alice & Bob wins new investment from Nvidia venture arm",
+      "summary": "French company Alice & Bob has won funding from Nvidia's venture capital arm NVentures, it said on ‌Friday, supporting its development of hardware to make quantum computing less ‌error-prone at a time",
+      "url": "https://finnhub.io/api/news?id=f3658809f721acfef1cd6a85b44e28a962b0257da87f4b7e4c6dc4de61c971cc",
+      "source": "Yahoo",
+      "datetime": 1779426248
+    },
+    {
+      "symbols": [
+        "TSLA"
+      ],
+      "headline": "No, Tesla Doesn't Need E.U. Approval to Sell Full Self-Driving (Supervised) in Europe",
+      "summary": "It can go country by country.",
+      "url": "https://finnhub.io/api/news?id=d35165c1c413f4cce5dea107ecd8e587f4f01524f04c6b388380155230bdd53d",
+      "source": "Yahoo",
+      "datetime": 1779425940
+    },
+    {
+      "symbols": [
+        "GOOG"
+      ],
+      "headline": "Will Deeper Google and Royal Caribbean Integrations Change Affirm Holdings' (AFRM) Narrative",
+      "summary": "Affirm Holdings Inc. recently expanded its collaboration with Google LLC, rolling out its installment payment options into Google Search, AI Mode, the Gemini app, and Google Pay checkout, while also e",
+      "url": "https://finnhub.io/api/news?id=492b75421b3ee633172cd92cc06ed548b61f8197a5a60ee29f3bbf5076c3b6ff",
+      "source": "Yahoo",
+      "datetime": 1779424347
+    },
+    {
+      "symbols": [
+        "GOOG"
+      ],
+      "headline": "SpaceX Will Change the IPO Game Forever. Play at Your Own Risk.",
+      "summary": "The largest U.S. IPOs tend to underperform the market, with a not-insignificant share of those stocks delivering negative returns..",
+      "url": "https://finnhub.io/api/news?id=1159e00e7e19a98431ce9613020f0143253ff441ce7ad22d354c3cdd172475ce",
+      "source": "Yahoo",
+      "datetime": 1779424200
+    },
+    {
+      "symbols": [
+        "PLTR"
+      ],
+      "headline": "SpaceX Will Change the IPO Game Forever. Play at Your Own Risk.",
+      "summary": "The largest U.S. IPOs tend to underperform the market, with a not-insignificant share of those stocks delivering negative returns..",
+      "url": "https://finnhub.io/api/news?id=1159e00e7e19a98431ce9613020f0143253ff441ce7ad22d354c3cdd172475ce",
+      "source": "Yahoo",
+      "datetime": 1779424200
+    },
+    {
+      "symbols": [
+        "BTC",
+        "SKY"
+      ],
+      "headline": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
+      "summary": "Under the American Reserve Modernization Act of 2026, Bitcoin must be held for a minimum of 20 years unless used to slash national debt.",
+      "url": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "datetime": 1779422557
+    },
+    {
+      "symbols": [
+        "GOOG"
+      ],
+      "headline": "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competition",
+      "summary": "TOKYO, May 22, 2026--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that Tadakiyo Seki, an engineer at the company’s Engineering and Development Center in Japan, has been awarded the ti",
+      "url": "https://finnhub.io/api/news?id=07f8595dcd94de6c5133df410b601379c6652322624e8eb2994fbedc8a5dfc5b",
+      "source": "Yahoo",
+      "datetime": 1779418800
+    },
+    {
+      "symbols": [
+        "VOO"
+      ],
+      "headline": "Consumer Delinquencies Remain At Comfortable Levels",
+      "summary": "Consumer delinquencies remain at comfortable levels. Consumer spending comprises 68%-70% of US GDP.",
+      "url": "https://finnhub.io/api/news?id=95bbc889959582a0df2e07a94f3d9c16eaef14756d809dcf49906f4f5e06f60a",
+      "source": "SeekingAlpha",
+      "datetime": 1779418200
+    },
+    {
+      "symbols": [
+        "QQQ"
+      ],
+      "headline": "Consumer Delinquencies Remain At Comfortable Levels",
+      "summary": "Consumer delinquencies remain at comfortable levels. Consumer spending comprises 68%-70% of US GDP.",
+      "url": "https://finnhub.io/api/news?id=95bbc889959582a0df2e07a94f3d9c16eaef14756d809dcf49906f4f5e06f60a",
+      "source": "SeekingAlpha",
+      "datetime": 1779418200
+    },
+    {
+      "symbols": [
+        "TSLA"
+      ],
+      "headline": "Ross Gerber Invokes Netflix, Says Mercedes Made A 'Blockbuster' Error By Letting 10% Tesla Stake Slip Away",
+      "summary": "Ross Gerber, co-founder of Gerber Kawasaki Wealth & Investment Management, agreed Tuesday with a social media post arguing that Mercedes-Benz Group AG’s $50 million investment for nearly 10% of Tesla ",
+      "url": "https://finnhub.io/api/news?id=77c6c24066b36a672f647a39fb745744056dbbf43664c8722fbc9c8ef97875fb",
+      "source": "Yahoo",
+      "datetime": 1779417067
+    },
+    {
+      "symbols": [
+        "NVDA"
+      ],
+      "headline": "Assessing IREN (IREN) Valuation After AI Cloud Pivot And Five Year NVIDIA Contract",
+      "summary": "IREN (NasdaqGS:IREN) is back in focus after a sharp pivot toward AI cloud and data center infrastructure, anchored by a five year AI cloud services contract with NVIDIA and related equity rights. See ",
+      "url": "https://finnhub.io/api/news?id=b7cc62ca7f872a4619c4c1d713cf2822dac9044570af3f21294360955e012e92",
+      "source": "Yahoo",
+      "datetime": 1779416140
+    },
+    {
+      "symbols": [
+        "NVDA"
+      ],
+      "headline": "AMD asking partners to ramp up production, CEO says",
+      "summary": "Advanced ‌Micro Devices ‌CEO Lisa ​Su said on Friday in Taipei ‌that ⁠the company was asking ⁠its partners to ​ramp ​up ​production given ‌strong demand for AI. AMD is a major customer ‌of ​TSMC, ​the",
+      "url": "https://finnhub.io/api/news?id=d79d321c16e5e4c68df0a003f3e6ba71e84dc772870cef7768e2b46a46d093b7",
+      "source": "Yahoo",
+      "datetime": 1779416009
+    },
+    {
+      "symbols": [
+        "BTC"
+      ],
+      "headline": "Bitcoin liquidity balance hints at developing rally toward $80K",
+      "summary": "Data show Bitcoin futures traders are pursuing overhead short positions, raising the chance of a rally to $80,000.",
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidity-imbalance-eyes-a-sharp-rally-to-80k-next-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "datetime": 1779410096
+    },
+    {
+      "symbols": [
+        "TSLA"
+      ],
+      "headline": "Review & Preview: Oily Roller Coaster",
+      "summary": "The Dow clinched another record close today. Plus, the SpaceX IPO filing tells us a lot about Elon Musk’s wealth.",
+      "url": "https://finnhub.io/api/news?id=7fe9e351c535aa94000d36186e83cd133626c4463965de8409a3b5da52dbe99c",
+      "source": "Yahoo",
+      "datetime": 1779407700
+    },
+    {
+      "symbols": [
+        "BTC"
+      ],
+      "headline": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+      "summary": "Data shows Bitcoin traders cutting short positions and going long despite concerning US macroeconomic data emerging. Is a rally toward $82,000 next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "datetime": 1779404833
+    },
+    {
+      "symbols": [
+        "VOO"
+      ],
+      "headline": "The $300,000 Mistake: Financial Advisor Explains Why Waiting to Buy VOO Is Costing You Compounding",
+      "summary": "On a recent episode of Ramsey Everyday Millionaires titled “How Do I Invest When the News Keeps Shaking the Market?”, a caller named Sally explained that she had $300,000 in cash and only $50,000 inve",
+      "url": "https://finnhub.io/api/news?id=bf8c8d08ef69ea2b66e37af9961583e1a50aa65da254f9b310fbdebeac0e9704",
+      "source": "Yahoo",
+      "datetime": 1779404698
+    },
+    {
+      "symbols": [
+        "GLD"
+      ],
+      "headline": "Is The Lumber-Gold Ratio Signaling Caution For Markets?",
+      "summary": "The lumber-gold ratio is a key measure that shows the conflict between economic optimism (building and growing) and financial risk aversion (sequestering capital)",
+      "url": "https://finnhub.io/api/news?id=cbb4b7b898b188f7438fbe1348501e8d8f38af3d2b2ba4f331de82692641c2f4",
+      "source": "SeekingAlpha",
+      "datetime": 1779404400
+    },
+    {
+      "symbols": [
+        "ETH"
+      ],
+      "headline": "Harvard dumps entire ETH position after just one quarter",
+      "summary": "Harvard's endowment fund has become one of the latest high-profile holders to liquidate its ETH as investor sentiment sours during the ongoing bear market.",
+      "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "datetime": 1779400968
+    },
+    {
+      "symbols": [
+        "PLTR"
+      ],
+      "headline": "Palantir (PLTR): One of the AI Stocks That Are About to Explode?",
+      "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the 10 AI Stocks That Are About to Explode. On May 15, Reuters reported that institutional investors increased their exposure to semiconductor and te",
+      "url": "https://finnhub.io/api/news?id=bf9ac24c9aaa64651539578256036092006dbebd7b8ccafd2a5a870d3cb63ac9",
+      "source": "Yahoo",
+      "datetime": 1779397758
+    },
+    {
+      "symbols": [
+        "PLTR"
+      ],
+      "headline": "Amazon.com Shareholders Back Board as Jassy Touts AI, AWS Growth at Annual Meeting",
+      "summary": "Amazon.com (NASDAQ:AMZN) shareholders approved the company’s director nominees, ratified Ernst & Young as independent auditor for fiscal 2026 and backed the company’s executive compensation plan at th",
+      "url": "https://finnhub.io/api/news?id=473db5019724803e8d5b54c9a7dd3a64839648fca2a75e6d53857cd4a3759970",
+      "source": "Yahoo",
+      "datetime": 1779397382
+    },
+    {
+      "symbols": [
+        "BTC"
+      ],
+      "headline": "Chance of new Bitcoin lows ‘extremely slim’ as long-term holders’ supply tops 15M BTC",
+      "summary": "Data suggest Bitcoin’s chance of dropping below $60,000 again is slim to none, thanks to longer-term investors holding more than 71% of the asset’s total supply.",
+      "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "datetime": 1779395994
+    },
+    {
+      "symbols": [
+        "VOO"
+      ],
+      "headline": "An Investor’s Field Guide to ETF Structures",
+      "summary": "ETFs are the preferred investment vehicle for many investors these days, but they’re not all created equal. Don’t miss this deep dive into how an ETF’s legal structure can shape risk, taxes, and retur",
+      "url": "https://finnhub.io/api/news?id=fb42b43582b54d5e4a5db2f560d28cf2e696996ad598c89134fcc62905d0dccf",
+      "source": "Yahoo",
+      "datetime": 1779394742
+    },
+    {
+      "symbols": [
+        "BTC"
+      ],
+      "headline": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
+      "source": "CoinDesk",
+      "datetime": 1779390603
+    },
+    {
+      "symbols": [
+        "BTC",
+        "SOL"
+      ],
+      "headline": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
+      "source": "CoinDesk",
+      "datetime": 1779384616
+    },
+    {
+      "symbols": [
+        "ETH"
+      ],
+      "headline": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community",
+      "source": "CoinDesk",
+      "datetime": 1779382593
+    },
+    {
+      "symbols": [
+        "MSTR"
+      ],
+      "headline": "Michael Saylor Says MSTR Could Buy All Remaining Bitcoin Before 2140: Report",
+      "summary": "In an interview with CNBC, Michael Saylor said Strategy has already purchased more Bitcoin this year than miners have produced.",
+      "url": "https://finnhub.io/api/news?id=2a48d6ee643363e98faf1f26d95171f1901684182e2c4a074a6dc94a9a225ff7",
+      "source": "Yahoo",
+      "datetime": 1779378312
+    },
+    {
+      "symbols": [
+        "QQQ"
+      ],
+      "headline": "Can Markets Continue Their Upward Momentum Despite Growing Macro Risks?",
+      "summary": "Equities continue to hover near record levels, even as geopolitical and policy uncertainty builds beneath the surface. TD Asset Management's Jing Roy discusses the outlook for markets.",
+      "url": "https://finnhub.io/api/news?id=8e0ea52df11ab7dc82f7df06432eda32b4a481cfbcb4ddc609a728780ca5d2d7",
+      "source": "SeekingAlpha",
+      "datetime": 1779378300
+    }
+  ],
+  "ipo_watch": [
+    {
+      "company": "SpaceX",
+      "news": [
+        {
+          "headline": "Will Elon Musk eventually merge SpaceX with Tesla? Speculation is building",
+          "url": "https://www.cnbc.com/2026/05/21/will-elon-musk-eventually-merge-spacex-with-tesla-speculation-builds.html",
+          "datetime": 1779391201
+        },
+        {
+          "headline": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "datetime": 1779387995
+        },
+        {
+          "headline": "Retail investors will get access to SpaceX's IPO—here's what to know before buying",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-ipo-what-retail-investors-need-to-know-before-buying-shares.html",
+          "datetime": 1779373869
+        }
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "news": [
+        {
+          "headline": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "datetime": 1779387995
+        }
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "news": [
+        {
+          "headline": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "datetime": 1779387995
+        }
+      ]
+    },
+    {
+      "company": "Unitree",
+      "news": []
+    },
+    {
+      "company": "LandSpace",
+      "news": []
+    },
+    {
+      "company": "Galactic Energy",
+      "news": []
+    },
+    {
+      "company": "iSpace",
+      "news": []
+    },
+    {
+      "company": "BrainCo",
+      "news": []
+    }
+  ],
+  "btc_score": {
+    "score": 35.4,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
+    "daily_score": 14.2,
+    "weekly_score": 21.2,
+    "btc_price": 77406.8,
+    "fear_greed": 40,
+    "indicators": [
+      {
+        "name": "ETF 每日净流入",
+        "value": -100900000,
+        "score": 43,
+        "weight": 12,
+        "group": "daily"
+      },
+      {
+        "name": "Funding Rate",
+        "value": -0.000709,
+        "score": 45,
+        "weight": 8,
+        "group": "daily"
+      },
+      {
+        "name": "多空比",
+        "value": 1.29,
+        "score": 53,
+        "weight": 5,
+        "group": "daily"
+      },
+      {
+        "name": "恐惧贪婪指数",
+        "value": 40,
+        "score": 40,
+        "weight": 7,
+        "group": "daily"
+      },
+      {
+        "name": "LTH-MVRV",
+        "value": 1.6,
+        "score": 37,
+        "weight": 12,
+        "group": "weekly"
+      },
+      {
+        "name": "NUPL",
+        "value": 0.3,
+        "score": 55,
+        "weight": 11,
+        "group": "weekly"
+      },
+      {
+        "name": "LTH-SOPR",
+        "value": 0.815,
+        "score": 7,
+        "weight": 9,
+        "group": "weekly"
+      },
+      {
+        "name": "STH-SOPR",
+        "value": 1.004,
+        "score": 54,
+        "weight": 8,
+        "group": "weekly"
+      },
+      {
+        "name": "LTH 持有者占比",
+        "value": 81.8,
+        "score": 0,
+        "weight": 7,
+        "group": "weekly"
+      },
+      {
+        "name": "365日均线倍数",
+        "value": 0.82,
+        "score": 21,
+        "weight": 6,
+        "group": "weekly"
+      },
+      {
+        "name": "200周均线倍数",
+        "value": 1.27,
+        "score": 26,
+        "weight": 6,
+        "group": "weekly"
+      },
+      {
+        "name": "周线 RSI",
+        "value": 40.5,
+        "score": 34,
+        "weight": 5,
+        "group": "weekly"
+      },
+      {
+        "name": "成交量变化",
+        "value": -50,
+        "score": 31,
+        "weight": 4,
+        "group": "weekly"
+      }
+    ]
+  },
+  "fomc": {
+    "next": {
+      "date": "2026-06-17",
+      "days_until": 26
+    },
+    "schedule": [
+      "2025-01-29",
+      "2025-03-19",
+      "2025-05-07",
+      "2025-06-18",
+      "2025-07-30",
+      "2025-09-17",
+      "2025-10-29",
+      "2025-12-10",
+      "2026-01-28",
+      "2026-03-18",
+      "2026-04-29",
+      "2026-06-17",
+      "2026-07-29",
+      "2026-09-16",
+      "2026-10-28",
+      "2026-12-09"
+    ]
+  }
 }
