@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Day1 Briefing</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #0a0a0a; color: #e0e0e0; padding: 20px; max-width: 1200px; margin: 0 auto;
+  }
+  header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 32px; flex-wrap: wrap; gap: 8px; }
+  header h1 { font-size: 24px; font-weight: 600; letter-spacing: -0.5px; }
+  header .time { font-size: 13px; color: #666; }
+  h2 { font-size: 16px; font-weight: 500; color: #888; margin-bottom: 12px; letter-spacing: 1px; text-transform: uppercase; }
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px; margin-bottom: 40px;
+  }
+  .card {
+    background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px;
+    transition: border-color 0.2s;
+  }
+  .card:hover { border-color: #333; }
+  .card .symbol { font-size: 14px; font-weight: 600; color: #fff; margin-bottom: 6px; }
+  .card .price { font-size: 20px; font-weight: 600; margin-bottom: 4px; }
+  .card .change { font-size: 13px; font-weight: 500; }
+  .up { color: #22c55e; }
+  .down { color: #ef4444; }
+  .flat { color: #666; }
+  .error { opacity: 0.4; }
+  .tweets-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px; margin-bottom: 40px;
+  }
+  .tweet-col {
+    background: #161616; border: 1px solid #222; border-radius: 10px;
+    padding: 12px; min-height: 400px; overflow: hidden;
+  }
+  .tweet-col .handle { font-size: 13px; color: #888; margin-bottom: 8px; }
+  .loading { text-align: center; color: #444; padding: 60px 0; font-size: 14px; }
+  @media (max-width: 600px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+    .tweets-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Day1 Briefing</h1>
+    <span class="time" id="updated"></span>
+  </header>
+
+  <section>
+    <h2>Stocks & ETF</h2>
+    <div class="grid" id="stocks"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
+    <h2>Crypto</h2>
+    <div class="grid" id="crypto"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
+    <h2>Twitter Feed</h2>
+    <div class="tweets-grid" id="tweets"></div>
+  </section>
+
+<script>
+const TWITTER_HANDLES = ['cburniske', 'QwQiao', 'saylor', 'viktorfischer'];
+
+function renderCard(item) {
+  const cls = item.error ? 'error' : (item.change_pct > 0 ? 'up' : item.change_pct < 0 ? 'down' : 'flat');
+  const sign = item.change_pct > 0 ? '+' : '';
+  const arrow = item.change_pct > 0 ? '▲' : item.change_pct < 0 ? '▼' : '';
+  const priceStr = item.price >= 1000 ? item.price.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})
+    : item.price < 1 ? item.price.toPrecision(4) : item.price.toFixed(2);
+  return `<div class="card ${item.error ? 'error' : ''}">
+    <div class="symbol">${item.symbol}</div>
+    <div class="price ${cls}">$${priceStr}</div>
+    <div class="change ${cls}">${arrow} ${sign}${item.change_pct}%</div>
+  </div>`;
+}
+
+async function load() {
+  try {
+    const res = await fetch('data/market.json');
+    const data = await res.json();
+    document.getElementById('stocks').innerHTML = data.stocks.map(renderCard).join('');
+    document.getElementById('crypto').innerHTML = data.crypto.map(renderCard).join('');
+    const t = new Date(data.updated_at);
+    document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+  } catch (e) {
+    document.getElementById('stocks').innerHTML = '<div class="loading">Failed to load data</div>';
+  }
+}
+
+function renderTweets() {
+  const container = document.getElementById('tweets');
+  container.innerHTML = TWITTER_HANDLES.map(h => `
+    <div class="tweet-col">
+      <div class="handle">@${h}</div>
+      <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent"
+         data-height="500" href="https://twitter.com/${h}">@${h}</a>
+    </div>`).join('');
+  const s = document.createElement('script');
+  s.src = 'https://platform.twitter.com/widgets.js';
+  s.async = true;
+  document.body.appendChild(s);
+}
+
+load();
+renderTweets();
+</script>
+</body>
+</html>
