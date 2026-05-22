@@ -9,19 +9,19 @@
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     background: #0a0a0a; color: #e0e0e0; padding: 20px; max-width: 1200px; margin: 0 auto;
+    line-height: 1.5;
   }
+  a { color: #58a6ff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
   header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 32px; flex-wrap: wrap; gap: 8px; }
   header h1 { font-size: 24px; font-weight: 600; letter-spacing: -0.5px; }
   header .time { font-size: 13px; color: #666; }
-  h2 { font-size: 16px; font-weight: 500; color: #888; margin-bottom: 12px; letter-spacing: 1px; text-transform: uppercase; }
-  .grid {
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 10px; margin-bottom: 40px;
-  }
-  .card {
-    background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px;
-    transition: border-color 0.2s;
-  }
+  h2 { font-size: 15px; font-weight: 500; color: #888; margin-bottom: 12px; letter-spacing: 1px; text-transform: uppercase; }
+  section { margin-bottom: 40px; }
+
+  /* Price cards */
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; }
+  .card { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px; transition: border-color 0.2s; }
   .card:hover { border-color: #333; }
   .card .symbol { font-size: 14px; font-weight: 600; color: #fff; margin-bottom: 6px; }
   .card .price { font-size: 20px; font-weight: 600; margin-bottom: 4px; }
@@ -30,19 +30,54 @@
   .down { color: #ef4444; }
   .flat { color: #666; }
   .error { opacity: 0.4; }
-  .tweets-grid {
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 16px; margin-bottom: 40px;
-  }
-  .tweet-col {
-    background: #161616; border: 1px solid #222; border-radius: 10px;
-    padding: 12px; min-height: 400px; overflow: hidden;
-  }
+
+  /* Earnings */
+  .earnings-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+  .earn-card { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px; }
+  .earn-card .sym { font-size: 14px; font-weight: 600; color: #fff; }
+  .earn-card .next-date { font-size: 12px; color: #f59e0b; margin: 4px 0; }
+  .earn-card .quarters { font-size: 12px; color: #999; margin-top: 6px; }
+  .earn-card .q-row { display: flex; justify-content: space-between; padding: 2px 0; border-bottom: 1px solid #1a1a1a; }
+  .beat { color: #22c55e; }
+  .miss { color: #ef4444; }
+
+  /* News list */
+  .news-list { display: flex; flex-direction: column; gap: 8px; }
+  .news-item { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 12px 14px; }
+  .news-item .tags { margin-bottom: 4px; }
+  .news-item .tag { display: inline-block; font-size: 11px; background: #1e293b; color: #94a3b8; padding: 1px 6px; border-radius: 4px; margin-right: 4px; }
+  .news-item .headline { font-size: 14px; color: #e0e0e0; }
+  .news-item .meta { font-size: 11px; color: #555; margin-top: 4px; }
+
+  /* IPO watch */
+  .ipo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+  .ipo-card { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px; }
+  .ipo-card .name { font-size: 15px; font-weight: 600; color: #fff; margin-bottom: 6px; }
+  .ipo-card .no-news { font-size: 12px; color: #444; }
+  .ipo-card .ipo-news-item { font-size: 13px; color: #ccc; margin-bottom: 4px; }
+  .ipo-card .ipo-news-item .date { color: #666; font-size: 11px; }
+
+  /* FOMC */
+  .fomc-box { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 20px; }
+  .fomc-next { font-size: 18px; font-weight: 600; color: #f59e0b; margin-bottom: 12px; }
+  .fomc-next .days { font-size: 14px; color: #999; font-weight: 400; }
+  .fomc-timeline { display: flex; flex-wrap: wrap; gap: 8px; }
+  .fomc-dot { font-size: 12px; padding: 4px 10px; border-radius: 6px; background: #1a1a1a; color: #666; }
+  .fomc-dot.past { opacity: 0.4; }
+  .fomc-dot.next { background: #422006; color: #f59e0b; font-weight: 600; }
+  .fomc-dot.future { color: #999; }
+
+  /* Twitter */
+  .tweets-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .tweet-col { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 12px; min-height: 400px; overflow: hidden; }
   .tweet-col .handle { font-size: 13px; color: #888; margin-bottom: 8px; }
-  .loading { text-align: center; color: #444; padding: 60px 0; font-size: 14px; }
+
+  .loading { text-align: center; color: #444; padding: 40px 0; font-size: 14px; }
   @media (max-width: 600px) {
     .grid { grid-template-columns: repeat(2, 1fr); }
+    .earnings-grid { grid-template-columns: 1fr; }
     .tweets-grid { grid-template-columns: 1fr; }
+    .ipo-grid { grid-template-columns: 1fr; }
   }
 </style>
 </head>
@@ -63,6 +98,26 @@
   </section>
 
   <section>
+    <h2>Earnings Calendar</h2>
+    <div class="earnings-grid" id="earnings"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
+    <h2>FOMC Calendar</h2>
+    <div class="fomc-box" id="fomc"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
+    <h2>Market News</h2>
+    <div class="news-list" id="news"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
+    <h2>IPO Watch</h2>
+    <div class="ipo-grid" id="ipo"><div class="loading">Loading...</div></div>
+  </section>
+
+  <section>
     <h2>Twitter Feed</h2>
     <div class="tweets-grid" id="tweets"></div>
   </section>
@@ -70,35 +125,80 @@
 <script>
 const TWITTER_HANDLES = ['cburniske', 'QwQiao', 'saylor', 'viktorfischer'];
 
-function renderCard(item) {
+function renderPriceCard(item) {
   const cls = item.error ? 'error' : (item.change_pct > 0 ? 'up' : item.change_pct < 0 ? 'down' : 'flat');
   const sign = item.change_pct > 0 ? '+' : '';
   const arrow = item.change_pct > 0 ? '▲' : item.change_pct < 0 ? '▼' : '';
-  const priceStr = item.price >= 1000 ? item.price.toLocaleString('en-US', {minimumFractionDigits: 2, maximumFractionDigits: 2})
+  const p = item.price >= 1000 ? item.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})
     : item.price < 1 ? item.price.toPrecision(4) : item.price.toFixed(2);
   return `<div class="card ${item.error ? 'error' : ''}">
     <div class="symbol">${item.symbol}</div>
-    <div class="price ${cls}">$${priceStr}</div>
+    <div class="price ${cls}">$${p}</div>
     <div class="change ${cls}">${arrow} ${sign}${item.change_pct}%</div>
   </div>`;
 }
 
-async function load() {
-  try {
-    const res = await fetch('data/market.json');
-    const data = await res.json();
-    document.getElementById('stocks').innerHTML = data.stocks.map(renderCard).join('');
-    document.getElementById('crypto').innerHTML = data.crypto.map(renderCard).join('');
-    const t = new Date(data.updated_at);
-    document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
-  } catch (e) {
-    document.getElementById('stocks').innerHTML = '<div class="loading">Failed to load data</div>';
-  }
+function renderEarnings(earnings) {
+  return Object.entries(earnings).map(([symbol, data]) => {
+    const nextHtml = data.next
+      ? `<div class="next-date">Next: ${data.next.date} (Q${data.next.quarter} ${data.next.year})</div>`
+      : `<div class="next-date" style="color:#444">No upcoming date</div>`;
+    const histHtml = data.history.length
+      ? data.history.slice(0, 4).map(h => {
+          const cls = h.surprise_pct > 0 ? 'beat' : h.surprise_pct < 0 ? 'miss' : '';
+          const surp = h.surprise_pct != null ? `${h.surprise_pct > 0 ? '+' : ''}${h.surprise_pct.toFixed(1)}%` : '-';
+          return `<div class="q-row"><span>Q${h.quarter} ${h.year}</span>
+            <span>EPS: ${h.actual ?? '-'} / ${h.estimate ?? '-'}</span>
+            <span class="${cls}">${surp}</span></div>`;
+        }).join('')
+      : '<div style="color:#444;font-size:12px">No history</div>';
+    return `<div class="earn-card">
+      <div class="sym">${symbol}</div>${nextHtml}
+      <div class="quarters">${histHtml}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderFOMC(fomc) {
+  const today = new Date().toISOString().slice(0, 10);
+  const nextHtml = fomc.next
+    ? `<div class="fomc-next">${fomc.next.date} <span class="days">(${fomc.next.days_until} days)</span></div>`
+    : '';
+  const dots = fomc.schedule.map(d => {
+    const cls = d < today ? 'past' : d === fomc.next?.date ? 'next' : 'future';
+    const label = d.slice(5);
+    return `<span class="fomc-dot ${cls}">${label}</span>`;
+  }).join('');
+  return `${nextHtml}<div class="fomc-timeline">${dots}</div>`;
+}
+
+function renderNews(news) {
+  if (!news.length) return '<div class="loading">No news</div>';
+  return news.slice(0, 20).map(n => {
+    const tags = (n.symbols || []).map(s => `<span class="tag">${s}</span>`).join('');
+    const time = new Date(n.datetime * 1000).toLocaleDateString('zh-CN', {month:'short', day:'numeric'});
+    return `<div class="news-item">
+      <div class="tags">${tags}</div>
+      <a class="headline" href="${n.url}" target="_blank">${n.headline}</a>
+      <div class="meta">${n.source} · ${time}</div>
+    </div>`;
+  }).join('');
+}
+
+function renderIPO(ipo) {
+  return ipo.map(c => {
+    const newsHtml = c.news.length
+      ? c.news.map(n => {
+          const d = new Date(n.datetime * 1000).toLocaleDateString('zh-CN', {month:'short', day:'numeric'});
+          return `<div class="ipo-news-item"><a href="${n.url}" target="_blank">${n.headline}</a> <span class="date">${d}</span></div>`;
+        }).join('')
+      : '<div class="no-news">No recent news</div>';
+    return `<div class="ipo-card"><div class="name">${c.company}</div>${newsHtml}</div>`;
+  }).join('');
 }
 
 function renderTweets() {
-  const container = document.getElementById('tweets');
-  container.innerHTML = TWITTER_HANDLES.map(h => `
+  document.getElementById('tweets').innerHTML = TWITTER_HANDLES.map(h => `
     <div class="tweet-col">
       <div class="handle">@${h}</div>
       <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent"
@@ -108,6 +208,23 @@ function renderTweets() {
   s.src = 'https://platform.twitter.com/widgets.js';
   s.async = true;
   document.body.appendChild(s);
+}
+
+async function load() {
+  try {
+    const res = await fetch('data/market.json');
+    const d = await res.json();
+    document.getElementById('stocks').innerHTML = d.stocks.map(renderPriceCard).join('');
+    document.getElementById('crypto').innerHTML = d.crypto.map(renderPriceCard).join('');
+    if (d.earnings) document.getElementById('earnings').innerHTML = renderEarnings(d.earnings);
+    if (d.fomc) document.getElementById('fomc').innerHTML = renderFOMC(d.fomc);
+    if (d.news) document.getElementById('news').innerHTML = renderNews(d.news);
+    if (d.ipo_watch) document.getElementById('ipo').innerHTML = renderIPO(d.ipo_watch);
+    const t = new Date(d.updated_at);
+    document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+  } catch (e) {
+    document.getElementById('stocks').innerHTML = '<div class="loading">Failed to load data</div>';
+  }
 }
 
 load();
