@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T07:45:53.786Z",
+  "updated_at": "2026-05-24T08:04:51.173Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -60,48 +60,48 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 75189,
-      "change_pct": -2.82
+      "price": 76709,
+      "change_pct": 2.92
     },
     {
       "symbol": "ETH",
-      "price": 2054.39,
-      "change_pct": -3.47
+      "price": 2118.74,
+      "change_pct": 4.68
     },
     {
       "symbol": "SOL",
-      "price": 83.79,
-      "change_pct": -3.71
+      "price": 85.96,
+      "change_pct": 4.88
     },
     {
       "symbol": "HYPE",
-      "price": 55.02,
-      "change_pct": -4.41
+      "price": 61.82,
+      "change_pct": 11.58
     },
     {
       "symbol": "ZEC",
-      "price": 574.53,
-      "change_pct": -12.3
+      "price": 627.17,
+      "change_pct": 8.74
     },
     {
       "symbol": "TAO",
-      "price": 261.16,
-      "change_pct": -8.09
+      "price": 279.16,
+      "change_pct": 8.78
     },
     {
       "symbol": "SKY",
-      "price": 1631.86,
-      "change_pct": -1.43
+      "price": 1638.61,
+      "change_pct": 2.05
     },
     {
       "symbol": "AAVE",
-      "price": 85.19,
-      "change_pct": -3.19
+      "price": 86.52,
+      "change_pct": 3.96
     },
     {
       "symbol": "BNB",
-      "price": 644.63,
-      "change_pct": -2.07
+      "price": 656.01,
+      "change_pct": 3.18
     }
   ],
   "earnings": {
@@ -556,13 +556,13 @@
     }
   ],
   "btc_score": {
-    "score": 35,
+    "score": 33.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.8,
-    "weekly_score": 20.2,
-    "btc_price": 75326.6,
-    "fear_greed": 35,
+    "daily_score": 13.8,
+    "weekly_score": 19.7,
+    "btc_price": 76792.3,
+    "fear_greed": 38,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -573,50 +573,50 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002093,
-        "score": 46,
+        "value": 0.006284,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.55,
-        "score": 70,
+        "value": 1.14,
+        "score": 43,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 35,
-        "score": 35,
+        "value": 38,
+        "score": 38,
         "weight": 7,
         "group": "daily"
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.55,
-        "score": 35,
+        "value": 1.58,
+        "score": 36,
         "weight": 12,
         "group": "weekly"
       },
       {
         "name": "NUPL",
-        "value": 0.301,
-        "score": 55,
+        "value": 0.282,
+        "score": 53,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.919,
-        "score": 9,
+        "value": 0.87,
+        "score": 8,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.996,
-        "score": 46,
+        "value": 0.991,
+        "score": 41,
         "weight": 8,
         "group": "weekly"
       },
@@ -636,22 +636,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.23,
-        "score": 24,
+        "value": 1.25,
+        "score": 25,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 38.5,
-        "score": 31,
+        "value": 39.9,
+        "score": 33,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -51,
-        "score": 31,
+        "value": -57.8,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -660,7 +660,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 25
+      "days_until": 24
     },
     "schedule": [
       "2025-01-29",
