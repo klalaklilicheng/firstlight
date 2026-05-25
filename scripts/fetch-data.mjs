@@ -11,14 +11,14 @@ const CRYPTO_MAP = {
 };
 
 const IPO_WATCHLIST = [
-  { name: 'SpaceX', keywords: ['spacex'] },
-  { name: 'Anthropic', keywords: ['anthropic'] },
-  { name: 'OpenAI', keywords: ['openai'] },
-  { name: 'Unitree', keywords: ['unitree', 'robotics ipo'] },
-  { name: 'LandSpace', keywords: ['landspace', 'zhuque'] },
-  { name: 'Galactic Energy', keywords: ['galactic energy'] },
-  { name: 'iSpace', keywords: ['ispace china', 'interstellar glory'] },
-  { name: 'BrainCo', keywords: ['brainco'] },
+  { name: 'SpaceX', zh: 'SpaceX', keywords: ['spacex'] },
+  { name: 'Anthropic', zh: 'Anthropic', keywords: ['anthropic'] },
+  { name: 'OpenAI', zh: 'OpenAI', keywords: ['openai'] },
+  { name: 'Unitree', zh: '宇树科技', keywords: ['unitree', 'robotics ipo'] },
+  { name: 'LandSpace', zh: '蓝箭航天', keywords: ['landspace', 'zhuque'] },
+  { name: 'Galactic Energy', zh: '星河动力', keywords: ['galactic energy'] },
+  { name: 'iSpace', zh: '星际荣耀', keywords: ['ispace china', 'interstellar glory'] },
+  { name: 'BrainCo', zh: '强脑科技', keywords: ['brainco'] },
 ];
 
 const FOMC_DATES = [
@@ -30,6 +30,29 @@ const FOMC_DATES = [
 
 const FINNHUB_KEY = process.env.FINNHUB_API_KEY;
 const delay = ms => new Promise(r => setTimeout(r, ms));
+
+// --- Translation (Google Translate free endpoint, runs server-side in Actions) ---
+async function translateToZh(texts) {
+  if (!texts.length) return texts;
+  const results = [...texts];
+  for (let i = 0; i < texts.length; i += 5) {
+    const batch = texts.slice(i, i + 5).map(t => (t || '').slice(0, 300));
+    try {
+      const q = batch.join('\n||\n');
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-CN&dt=t&q=${encodeURIComponent(q)}`;
+      const res = await fetch(url);
+      if (!res.ok) continue;
+      const data = await res.json();
+      const full = data[0].map(s => s[0]).join('');
+      const parts = full.split(/\n?\|\|\n?/);
+      if (parts.length === batch.length) {
+        parts.forEach((p, j) => { results[i + j] = p.trim() || results[i + j]; });
+      }
+    } catch { /* keep original on failure */ }
+    await delay(300);
+  }
+  return results;
+}
 
 async function finnhub(path) {
   const sep = path.includes('?') ? '&' : '?';
@@ -148,7 +171,7 @@ async function fetchAllNews() {
 async function fetchMarketNews() {
   try {
     const all = await fetchAllNews();
-    return all.slice(0, 30).map(n => ({
+    const items = all.slice(0, 30).map(n => ({
       headline: n.headline,
       summary: n.summary || '',
       source: n.source || '',
@@ -157,6 +180,13 @@ async function fetchMarketNews() {
       category: n.category || '',
       related: n.related || '',
     }));
+    // Translate headlines and summaries to Chinese
+    console.log('  Translating headlines...');
+    const zhH = await translateToZh(items.map(n => n.headline));
+    console.log('  Translating summaries...');
+    const zhS = await translateToZh(items.map(n => n.summary));
+    items.forEach((n, i) => { n.headline = zhH[i]; n.summary = zhS[i]; });
+    return items;
   } catch (e) {
     console.error(`  Market news: ${e.message}`);
     return [];
@@ -174,7 +204,14 @@ async function fetchIPONews() {
     }).slice(0, 3).map(n => ({
       headline: n.headline, url: n.url, datetime: n.datetime,
     }));
-    ipo.push({ company: company.name, news: matched });
+    ipo.push({ company: company.zh, news: matched });
+  }
+  // Translate matched IPO news headlines
+  const allH = ipo.flatMap(i => i.news.map(n => n.headline));
+  if (allH.length) {
+    const zhH = await translateToZh(allH);
+    let k = 0;
+    for (const i of ipo) for (const n of i.news) n.headline = zhH[k++];
   }
   return ipo;
 }

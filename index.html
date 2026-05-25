@@ -140,17 +140,17 @@
   </section>
 
   <section>
-    <h2>Market News</h2>
+    <h2>市场新闻</h2>
     <div class="news-grid" id="news"><div class="loading">Loading...</div></div>
   </section>
 
   <section>
-    <h2>IPO Watch</h2>
+    <h2>IPO 追踪</h2>
     <div class="ipo-grid" id="ipo"><div class="loading">Loading...</div></div>
   </section>
 
   <section>
-    <h2>Twitter Feed</h2>
+    <h2>推特动态</h2>
     <div class="tweets-grid" id="tweets"></div>
   </section>
 
@@ -239,7 +239,7 @@ function renderNews(news) {
     const time = n.datetime ? new Date(n.datetime * 1000).toLocaleString('zh-CN', {
       timeZone: 'Asia/Shanghai', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
     }) : '';
-    const tag = n.category === 'crypto' ? 'Crypto' : n.related || 'General';
+    const tag = n.category === 'crypto' ? '加密货币' : n.related || '综合';
     const summary = n.summary ? `<div class="news-summary">${n.summary}</div>` : '';
     return `<div class="news-card">
       <div class="news-title"><a href="${n.url}" target="_blank">${n.headline}</a></div>
@@ -259,7 +259,7 @@ function renderIPO(ipo) {
           const d = new Date(n.datetime * 1000).toLocaleDateString('zh-CN', {month:'short', day:'numeric'});
           return `<div class="ipo-news-item"><a href="${n.url}" target="_blank">${n.headline}</a> <span class="date">${d}</span></div>`;
         }).join('')
-      : '<div class="no-news">No recent news</div>';
+      : '<div class="no-news">暂无相关新闻</div>';
     return `<div class="ipo-card"><div class="name">${c.company}</div>${newsHtml}</div>`;
   }).join('');
 }
@@ -269,7 +269,7 @@ function renderTweets() {
     <div class="tweet-col">
       <div class="handle">@${h}</div>
       <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent"
-         data-height="500" href="https://twitter.com/${h}">@${h}</a>
+         data-tweet-limit="5" data-height="500" href="https://twitter.com/${h}">@${h}</a>
     </div>`).join('');
   const s = document.createElement('script');
   s.src = 'https://platform.twitter.com/widgets.js';
