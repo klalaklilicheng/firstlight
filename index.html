@@ -95,8 +95,18 @@
 
   /* Twitter */
   .tweets-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
-  .tweet-col { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 12px; min-height: 400px; overflow: hidden; }
-  .tweet-col .handle { font-size: 13px; color: #888; margin-bottom: 8px; }
+  .tweet-col { background: #161616; border: 1px solid #222; border-radius: 10px; padding: 14px; }
+  .tweet-col .handle { font-size: 14px; font-weight: 600; color: #fff; margin-bottom: 12px; }
+  .tweet-col .handle a { color: #fff; }
+  .tweet-item { padding: 10px 0; border-bottom: 1px solid #1a1a1a; }
+  .tweet-item:last-child { border-bottom: none; }
+  .tweet-item .tweet-text { font-size: 13px; color: #ccc; line-height: 1.5; margin-bottom: 6px; }
+  .tweet-item .tweet-text a { color: #58a6ff; }
+  .tweet-item .tweet-meta { font-size: 11px; color: #555; display: flex; gap: 12px; }
+  .tweet-item .tweet-meta span { display: inline-flex; align-items: center; gap: 3px; }
+  .tweet-item .tweet-meta a { color: #555; }
+  .tweet-item .tweet-meta a:hover { color: #58a6ff; }
+  .tweet-empty { font-size: 12px; color: #444; padding: 20px 0; text-align: center; }
 
   .loading { text-align: center; color: #444; padding: 40px 0; font-size: 14px; }
   @media (max-width: 600px) {
@@ -151,12 +161,10 @@
 
   <section>
     <h2>推特动态</h2>
-    <div class="tweets-grid" id="tweets"></div>
+    <div class="tweets-grid" id="tweets"><div class="loading">Loading...</div></div>
   </section>
 
 <script>
-const TWITTER_HANDLES = ['cburniske', 'QwQiao', 'saylor', 'viktorfischer'];
-
 function renderPriceCard(item) {
   const cls = item.error ? 'error' : (item.change_pct > 0 ? 'up' : item.change_pct < 0 ? 'down' : 'flat');
   const sign = item.change_pct > 0 ? '+' : '';
@@ -265,17 +273,33 @@ function renderIPO(ipo) {
   }).join('');
 }
 
-function renderTweets() {
-  document.getElementById('tweets').innerHTML = TWITTER_HANDLES.map(h => `
-    <div class="tweet-col">
-      <div class="handle">@${h}</div>
-      <a class="twitter-timeline" data-theme="dark" data-chrome="noheader nofooter noborders transparent"
-         data-tweet-limit="5" data-height="500" href="https://twitter.com/${h}">@${h}</a>
-    </div>`).join('');
-  const s = document.createElement('script');
-  s.src = 'https://platform.twitter.com/widgets.js';
-  s.async = true;
-  document.body.appendChild(s);
+function renderTweets(tweets) {
+  if (!tweets) return '<div class="loading">暂无数据</div>';
+  const handles = Object.keys(tweets);
+  if (!handles.length) return '<div class="loading">暂无数据</div>';
+  return handles.map(h => {
+    const list = tweets[h] || [];
+    const tweetsHtml = list.length
+      ? list.map(t => {
+          const time = t.time ? new Date(t.time).toLocaleString('zh-CN', {
+            timeZone: 'Asia/Shanghai', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+          }) : '';
+          const text = t.text.replace(/(https?:\/\/\S+)/g, '<a href="$1" target="_blank">$1</a>');
+          return `<div class="tweet-item">
+            <div class="tweet-text">${text}</div>
+            <div class="tweet-meta">
+              <span>♥ ${t.likes}</span>
+              <span>↻ ${t.retweets}</span>
+              <a href="${t.url}" target="_blank">${time}</a>
+            </div>
+          </div>`;
+        }).join('')
+      : '<div class="tweet-empty">暂无推文</div>';
+    return `<div class="tweet-col">
+      <div class="handle"><a href="https://x.com/${h}" target="_blank">@${h}</a></div>
+      ${tweetsHtml}
+    </div>`;
+  }).join('');
 }
 
 async function load() {
@@ -295,6 +319,7 @@ async function load() {
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
     ['news', () => d.news ? renderNews(d.news) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
+    ['tweets', () => d.tweets ? renderTweets(d.tweets) : null],
   ];
   for (const [id, fn] of sections) {
     try {
@@ -312,7 +337,6 @@ async function load() {
 }
 
 load();
-renderTweets();
 </script>
 </body>
 </html>

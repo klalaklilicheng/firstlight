@@ -247,6 +247,47 @@ function buildFOMC() {
   };
 }
 
+// --- Twitter (server-side fetch via syndication API) ---
+const TWITTER_HANDLES = ['cburniske', 'QwQiao', 'saylor', 'viktorfischer'];
+
+async function fetchTweets() {
+  const result = {};
+  for (const handle of TWITTER_HANDLES) {
+    try {
+      const res = await fetch(
+        `https://syndication.twitter.com/srv/timeline-profile/screen-name/${handle}?showReplies=false`,
+      );
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const html = await res.text();
+      const match = html.match(/<script id="__NEXT_DATA__"[^>]*>([^<]+)<\/script>/);
+      if (!match) throw new Error('no __NEXT_DATA__');
+      const data = JSON.parse(match[1]);
+      const entries = data?.props?.pageProps?.timeline?.entries || [];
+      const tweets = entries
+        .filter(e => e.type === 'tweet' && e.content?.tweet)
+        .map(e => {
+          const t = e.content.tweet;
+          return {
+            text: t.text || t.full_text || '',
+            url: `https://x.com/${handle}/status/${t.id_str}`,
+            time: t.created_at || '',
+            likes: t.favorite_count || 0,
+            retweets: t.retweet_count || 0,
+          };
+        })
+        .sort((a, b) => new Date(b.time) - new Date(a.time))
+        .slice(0, 5);
+      result[handle] = tweets;
+      console.log(`  @${handle}: ${tweets.length} tweets`);
+    } catch (e) {
+      console.error(`  @${handle}: FAILED - ${e.message}`);
+      result[handle] = [];
+    }
+    await delay(1000);
+  }
+  return result;
+}
+
 // --- Main ---
 async function main() {
   if (!FINNHUB_KEY) { console.error('Missing FINNHUB_API_KEY'); process.exit(1); }
@@ -278,7 +319,10 @@ async function main() {
   const fomc = buildFOMC();
   console.log(`  Next: ${fomc.next?.date} (${fomc.next?.days_until} days)`);
 
-  const result = { updated_at: new Date().toISOString(), stocks, crypto, earnings, news, ipo_watch, btc_score, fomc };
+  console.log('Fetching tweets...');
+  const tweets = await fetchTweets();
+
+  const result = { updated_at: new Date().toISOString(), stocks, crypto, earnings, news, ipo_watch, btc_score, fomc, tweets };
 
   const dataDir = join(process.cwd(), 'data');
   if (!existsSync(dataDir)) mkdirSync(dataDir, { recursive: true });
