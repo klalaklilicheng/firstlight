@@ -263,7 +263,7 @@ async function fetchTweets() {
       if (!match) throw new Error('no __NEXT_DATA__');
       const data = JSON.parse(match[1]);
       const entries = data?.props?.pageProps?.timeline?.entries || [];
-      const tweets = entries
+      const allTweets = entries
         .filter(e => e.type === 'tweet' && e.content?.tweet)
         .map(e => {
           const t = e.content.tweet;
@@ -275,10 +275,13 @@ async function fetchTweets() {
             retweets: t.retweet_count || 0,
           };
         })
-        .sort((a, b) => new Date(b.time) - new Date(a.time))
-        .slice(0, 5);
-      result[handle] = tweets;
-      console.log(`  @${handle}: ${tweets.length} tweets`);
+        .sort((a, b) => new Date(b.time) - new Date(a.time));
+      // Debug: log date range
+      if (allTweets.length) {
+        console.log(`  @${handle}: ${allTweets.length} total, newest=${allTweets[0].time}, oldest=${allTweets[allTweets.length-1].time}`);
+      }
+      result[handle] = allTweets.slice(0, 5);
+      console.log(`  @${handle}: showing ${result[handle].length} tweets`);
     } catch (e) {
       console.error(`  @${handle}: FAILED - ${e.message}`);
       result[handle] = [];
