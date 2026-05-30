@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T21:11:47.265Z",
+  "updated_at": "2026-05-30T08:07:02.601Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -60,48 +60,48 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 73626,
-      "change_pct": 0.07
+      "price": 73445,
+      "change_pct": -0.21
     },
     {
       "symbol": "ETH",
-      "price": 2015.94,
-      "change_pct": -0.03
+      "price": 2012.68,
+      "change_pct": 0.32
     },
     {
       "symbol": "SOL",
-      "price": 82.14,
-      "change_pct": -0.31
+      "price": 82.25,
+      "change_pct": 0.04
     },
     {
       "symbol": "HYPE",
-      "price": 65.24,
-      "change_pct": 7.61
+      "price": 66,
+      "change_pct": 4.8
     },
     {
       "symbol": "ZEC",
-      "price": 538.63,
-      "change_pct": -3.32
+      "price": 517.32,
+      "change_pct": -3.9
     },
     {
       "symbol": "TAO",
-      "price": 248,
-      "change_pct": -5.96
+      "price": 250.33,
+      "change_pct": -3.07
     },
     {
       "symbol": "SKY",
-      "price": 1522.07,
-      "change_pct": -1
+      "price": 1520.94,
+      "change_pct": -0.25
     },
     {
       "symbol": "AAVE",
-      "price": 82.56,
-      "change_pct": 1.46
+      "price": 82.49,
+      "change_pct": 0.89
     },
     {
       "symbol": "BNB",
-      "price": 641.74,
-      "change_pct": 0.07
+      "price": 671.92,
+      "change_pct": 5.58
     }
   ],
   "earnings": {
@@ -411,6 +411,60 @@
   },
   "news": [
     {
+      "headline": "随着 ETF 需求降温，比特币、以太币、XRP、狗狗币的股市涨幅落后于连续九周的股市涨幅",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "datetime": 1780119690,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币最大的量子风险可能不是钱包密钥。早期投资者担心更大的事情",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "datetime": 1780118859,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Swan Bitcoin 首席执行官表示，比特币零售情绪仍然很重要",
+      "summary": "Swan Bitcoin 首席执行官 Cory Klippsten 表示，关注围绕比特币的散户情绪非常重要，因为所有权仍远未集中，而且“贝莱德并不拥有比特币”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780117057,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币下跌买家出价 5 亿美元，7 万美元重新测试即将到来",
+      "summary": "超过 5 亿美元的比特币出价目前接近 70,000 美元，而期权交易者和期货头寸则趋于同一水平。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780094733,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "CFTC 撤销 Gemini 和解协议：前主席：“极其不寻常”",
+      "summary": "在 CFTC 和 Gemini 共同寻求法院推翻 2025 年和解协议之际，该机构的一位前主席表示，公众“应该得到更好的解释”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780093690,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "CFTC 支持加密货币永续合约，并发布 24/7 交易咨询",
+      "summary": "CFTC 发布了影响寻求提供加密货币永续期货合约的平台的通知，包括对 Coinbase 的不采取行动立场以及对 Kalshi 的批准。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780087921,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "“银行不会接受”：戴蒙在《清晰法案》辩论中升级了稳定币奖励之争",
       "summary": "",
       "source": "CoinDesk",
@@ -600,7 +654,7 @@
       "related": ""
     },
     {
-      "headline": "FDA 重组后 Replimune 将重新提交两次被拒绝的药物以供批准",
+      "headline": "FDA 改组后 Replimune 将重新提交两次被拒绝的药物以供批准",
       "summary": "Replimune 是批评 FDA 所谓试验和批准指导不一致的制药商之一。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html",
@@ -623,60 +677,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1780056563,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "ICE 首席执行官杰弗里·斯普雷彻 (Jeffrey Sprecher) 表示，超流动性比纳斯达克还大",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders",
-      "datetime": 1780056309,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Arca 高管就 $15B 优先股负担表示，战略形势“失控”",
-      "summary": "随着 Arca 的 Jeff Dorman 强调 150 亿美元的优先股义务以及首席执行官对可能的比特币销售的评论，Strategy 的资本结构可能面临压力。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-situation-out-of-hand-says-arca-cio-15-billion-prefs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780056309,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "德克萨斯州比特币储备计划从 ETF 转向直接 BTC 托管",
-      "summary": "德克萨斯州正在聘请加密货币托管人，将其 1000 万美元的战略比特币储备从贝莱德的 IBIT ETF 转为直接持有的比特币，并建立完整的州级比特币管道。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/texas-plans-shift-bitcoin-reserve-from-etf-to-direct-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780054778,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币表现逊于风险资产，创纪录的 ETF 连续第 9 天流出表明需求减弱",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/05/29/bitcoin-underperforms-risk-assets-as-record-9th-day-of-etf-outflows-signal-waning-demand",
-      "datetime": 1780053300,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "DxSale 因 BNB 链流动性漏洞而损失 730 万美元",
-      "summary": "DxSale 从 BNB Chain 流动性提供商那里被抽走约 730 万美元，引发了人们对旧 DeFi 储物柜合约的新担忧。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/memecoin-platform-dxsale-drained-73m-1400-lps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780051358,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "投资者撤资 28 亿美元，比特币 ETF 资金连续九天流出创历史新高",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/bitcoin-etf-outflows-reach-record-nine-day-streak-as-investors-pull-usd2-8-billion",
-      "datetime": 1780051127,
       "category": "crypto",
       "related": ""
     }
@@ -732,39 +732,39 @@
     }
   ],
   "btc_score": {
-    "score": 31.7,
+    "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14,
-    "weekly_score": 17.7,
-    "btc_price": 73745,
-    "fear_greed": 32,
+    "daily_score": 15.1,
+    "weekly_score": 18.3,
+    "btc_price": 73545,
+    "fear_greed": 33,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -223300000,
-        "score": 35,
+        "value": -125300000,
+        "score": 42,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.005242,
-        "score": 48,
+        "value": 0.004732,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.63,
-        "score": 75,
+        "value": 1.69,
+        "score": 79,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 32,
-        "score": 32,
+        "value": 33,
+        "score": 33,
         "weight": 7,
         "group": "daily"
       },
@@ -798,7 +798,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 82.1,
+        "value": 82,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -812,22 +812,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.2,
+        "value": 1.19,
         "score": 23,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 38.2,
+        "value": 38.1,
         "score": 30,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -72.4,
-        "score": 25,
+        "value": -16,
+        "score": 41,
         "weight": 4,
         "group": "weekly"
       }
@@ -836,7 +836,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 19
+      "days_until": 18
     },
     "schedule": [
       "2025-01-29",
