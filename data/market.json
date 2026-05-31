@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T08:07:02.601Z",
+  "updated_at": "2026-05-31T09:38:00.719Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -60,48 +60,48 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 73445,
-      "change_pct": -0.21
+      "price": 73847,
+      "change_pct": 0.52
     },
     {
       "symbol": "ETH",
-      "price": 2012.68,
-      "change_pct": 0.32
+      "price": 2023.72,
+      "change_pct": 0.52
     },
     {
       "symbol": "SOL",
-      "price": 82.25,
-      "change_pct": 0.04
+      "price": 82.75,
+      "change_pct": 0.67
     },
     {
       "symbol": "HYPE",
-      "price": 66,
-      "change_pct": 4.8
+      "price": 68.5,
+      "change_pct": 3.28
     },
     {
       "symbol": "ZEC",
-      "price": 517.32,
-      "change_pct": -3.9
+      "price": 550.23,
+      "change_pct": 6.42
     },
     {
       "symbol": "TAO",
-      "price": 250.33,
-      "change_pct": -3.07
+      "price": 258.82,
+      "change_pct": 2.71
     },
     {
       "symbol": "SKY",
-      "price": 1520.94,
-      "change_pct": -0.25
+      "price": 1529.53,
+      "change_pct": 0.44
     },
     {
       "symbol": "AAVE",
-      "price": 82.49,
-      "change_pct": 0.89
+      "price": 82.92,
+      "change_pct": 0.22
     },
     {
       "symbol": "BNB",
-      "price": 671.92,
-      "change_pct": 5.58
+      "price": 722.99,
+      "change_pct": 7.56
     }
   ],
   "earnings": {
@@ -411,12 +411,255 @@
   },
   "news": [
     {
+      "headline": "基于 Cosmos 的 Gravity Bridge 在报告价值 540 万美元的漏洞后停止了桥梁",
+      "summary": "Gravity Bridge 因涉嫌签名密钥泄露而损失了约 540 万美元，促使验证者在调查正在进行期间停止该桥。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780217845,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "国防开支、中国在亚洲以及乌克兰的教训：2026年国际战略研究所香格里拉对话的要点",
+      "summary": "世界顶级领导人、国防官员和主要高管将于 5 月 29 日至 31 日齐聚新加坡举行峰会",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/31/takeways-from-the-2026-shangri-la-dialogue-.html",
+      "datetime": 1780216693,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Santiment：比特币情绪达到 2026 年最“不平衡的积极”比率",
+      "summary": "加密货币情绪平台 Santiment 警告称，社交媒体对比特币的两次最大看涨情绪此前都伴随着短期价格回调。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780207325,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币下跌买家抑制抛售，但现货存疑，期货交易量凸显疲软",
+      "summary": "比特币逢低买家出现在区间低点附近，并且在该区域开设了新的杠杆多头，但交易量缺乏扭转下降趋势所需的规模。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-curb-selling-but-questionable-spot-futures-volumes-highlight-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780205847,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "XRP Ledger 的新提案阻止了导致 DeFi 损失数亿美元的闪贷攻击",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+      "datetime": 1780194600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "分析师表示，随着 6.5 万美元的下行风险迫在眉睫，比特币正处于“关键水平”",
+      "summary": "虽然比特币徘徊在 73,000 美元左右，但一位加密货币交易员表示，当前的设置“与 2 月份的崩溃不同”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780189112,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "卢米斯参议员表示，如果 CLARITY 失败，中国将“书写新金融时代的规则”",
+      "summary": "参议院银行委员会于 5 月投票通过了《澄清法案》，但该法案在提交总统办公桌之前仍须获得国会参众两院的通过。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780173945,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Circle 冻结了与隐私协议 Zama 相关的 1260 万美元 USDC",
+      "summary": "据链上侦探 ZachXBT 称，1260 万美元的 USDC 可能因一起正在进行但不相关的民事法庭案件而被冻结。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/circle-freezes-126m-of-usdc-linked-to-privacy-protocol-zama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780168275,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "司法部寻求埃莉诺·罗斯法官回避佐治亚州选举案，理由是有报道称她受到纪律处分",
+      "summary": "美国司法部正在起诉佐治亚州国务卿布拉德·拉芬斯伯格拒绝提供该部门的选举记录。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/doj-seeks-recusal-of-judge-eleanor-ross-in-georgia-election-case.html",
+      "datetime": 1780162156,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "美国证券交易委员会 (SEC) 起诉德克萨斯州一名男子，指控其利用虚假人工智能交易机器人进行加密货币计划，涉案金额高达 1230 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots",
+      "datetime": 1780162054,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "KuCoin首席营销官出席BEYOND Expo：“信任正在成为Web3的新基础设施”",
+      "summary": "澳门，2026 年 5 月 29 日 /美通社/ — 随着加密货币行业超越投机增长周期，KuCoin 认为下一阶段的 Web3 竞争将不是由流量或代币激励来定义，而是由信任基础设施来定义。在澳门 BEYOND Expo 2026 的小组讨论中发言",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/kucoin-cmo-at-beyond-expo-trust-is-becoming-the-new-infrastructure-for-web3/",
+      "datetime": 1780157949,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国表示，随着施压行动的扩大，美国扣押了价值约 10 亿美元的伊朗加密货币",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands",
+      "datetime": 1780156237,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "华尔街的万亿美元困境：为什么人工智能驱动的黑客让大银行远离区块链",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
+      "datetime": 1780153200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "调查发现，当谈到财务焦虑时，净资产比收入更重要",
+      "summary": "一项新的调查发现，与收入较高相比，净资产较高时财务焦虑的下降幅度更大。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/why-higher-income-may-not-reduce-financial-anxiety.html",
+      "datetime": 1780149601,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "SEC 指控德克萨斯州男子使用虚假人工智能交易机器人进行 1230 万美元的加密货币欺诈",
+      "summary": "美国证券交易委员会 (SEC) 指控德克萨斯州男子内森·富勒 (Nathan Fuller) 通过围绕虚假人工智能交易机器人构建的加密货币欺诈计划，从 150 名投资者那里筹集了 1230 万美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-charges-texas-man-with-123m-crypto-fraud-fake-ai-trading-bots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780147800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Grayscale 表示，随着 DeFi 的扩张，Hyperliquid 可能成为“金融服务巨头”",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/30/hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-grayscale",
+      "datetime": 1780146000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "当市场不景气时，我们构建：币安大胆的 2030 年总体规划",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/26/when-the-market-is-bad-we-build-inside-binance-s-bold-2030-master-plan",
+      "datetime": 1780146000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "乔什·布朗（Josh Brown）指望新的动量策略，认为投资者想要的不仅仅是指数基金",
+      "summary": "布朗推出了一个单独管理的账户，该账户以一块优质牛排命名，旨在保存他认为市场上最好的机会。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/josh-brown-thinks-investors-want-more-than-index-funds.html",
+      "datetime": 1780145764,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "推动股市再创新高的 3 个主题以及本月的辉煌表现",
+      "summary": "标准普尔 500 指数将连续上涨势头延长至九周。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/3-themes-that-drove-stocks-to-another-record-week-and-a-banner-month.html",
+      "datetime": 1780145678,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Z 世代会成为复兴电影的一代吗？",
+      "summary": "Z 世代喜欢经济实惠的社交体验，并推动了影院对动漫和视频游戏的需求。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/gen-z-movie-theaters.html",
+      "datetime": 1780142401,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "投资者和唱片公司正在买入美国不断增长的南亚音乐业务。",
+      "summary": "按市场份额计算的第三大音乐品牌华纳音乐集团 (Warner Music Group) 正在通过其最新合资企业 5 Junction 进军南亚音乐运动。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/30/south-asian-music-warner-records-5-junction.html",
+      "datetime": 1780142401,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "Ripple 据称将主导 10 亿美元 XRP 融资：报告",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report",
+      "datetime": 1780140956,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "现货比特币 ETF 连续 10 天流出创纪录，分析师称之为“逆向指标”",
+      "summary": "现货比特币 ETF 创下了创纪录的 10 天连续流出总额近 30 亿美元，而以太坊 ETF 则连续 14 个交易日出现亏损。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780138200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "BSTR 创始人：比特币金库领域仍然有相当一部分“狂欢节叫卖者”",
+      "summary": "BSTR 联合创始人 Sean Bill 表示，许多比特币财务公司缺乏“实际部署比特币的能力”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780133296,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "财政部长称美国已查获近 10 亿美元的伊朗加密货币",
+      "summary": "美国财政部长斯科特·贝森特表示，美国已扣押了约 10 亿美元的伊朗加密资产，是 4 月底披露的数字的两倍。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-has-seized-nearly-1-billion-in-iranian-crypto-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780130296,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "贝森特表示“我们将拭目以待”伊朗制裁的潜在缓解",
+      "summary": "自特朗普总统退出核协议以来，伊朗面临严厉的经济制裁，德黑兰要求将解除制裁作为与美国达成协议的条件",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/bessent-says-we-ll-see-on-iran-sanctions-relief-as-deal-awaits",
+      "datetime": 1780119691,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "随着 ETF 需求降温，比特币、以太币、XRP、狗狗币的股市涨幅落后于连续九周的股市涨幅",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
       "datetime": 1780119690,
       "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "在美国的帮助下，霍尔木兹海峡的船舶过境量正在增加",
+      "summary": "美国中央司令部发言人表示，虽然美国军事资产没有护航船只，但他们正在为该地区的商船提供建议",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/strait-of-hormuz-ship-transits-are-rising-thanks-to-help-from-us",
+      "datetime": 1780119091,
+      "category": "top news",
       "related": ""
     },
     {
@@ -436,249 +679,6 @@
       "datetime": 1780117057,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币下跌买家出价 5 亿美元，7 万美元重新测试即将到来",
-      "summary": "超过 5 亿美元的比特币出价目前接近 70,000 美元，而期权交易者和期货头寸则趋于同一水平。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780094733,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CFTC 撤销 Gemini 和解协议：前主席：“极其不寻常”",
-      "summary": "在 CFTC 和 Gemini 共同寻求法院推翻 2025 年和解协议之际，该机构的一位前主席表示，公众“应该得到更好的解释”。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780093690,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CFTC 支持加密货币永续合约，并发布 24/7 交易咨询",
-      "summary": "CFTC 发布了影响寻求提供加密货币永续期货合约的平台的通知，包括对 Coinbase 的不采取行动立场以及对 Kalshi 的批准。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780087921,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "“银行不会接受”：戴蒙在《清晰法案》辩论中升级了稳定币奖励之争",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
-      "datetime": 1780085032,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "蓝色起源火箭爆炸对亚马逊的卫星野心意味着什么",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/what-the-blue-origin-explosion-means-for-amazons-satellite-ambitions.html",
-      "datetime": 1780080507,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "周四停电后，隋网络再次暂时瘫痪",
-      "summary": "这次中断是由周四破坏协议的同一个网络更新软件错误引起的，导致了近六个小时的停机。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780080410,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "代币还是人类？新的企业权衡",
-      "summary": "人工智能的成本远远超出公司的预期，迫使首席财务官在代币和人类之间进行新的权衡，并带来市场尚未消化的风险。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
-      "datetime": 1780079085,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Coinbase 为美国机构客户带来全球加密货币衍生品市场",
-      "summary": "该交易所与 Deribit 的整合使符合条件的美国机构投资者能够进入全球加密货币期权和永续期货市场。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-regulated-access-global-crypto-perpetual-futures-options-us-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780077393,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "分析师预计比特币价格跌至 7.2 万美元，比特币跌至六周新低",
-      "summary": "由于比特币价格走势继续偏离繁荣的美国股市，比特币创下了自 4 月中旬以来的最低水平。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-plums-new-six-week-lows-as-analyst-eyes-btc-price-dip-end-at-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780074192,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "律师撤诉后，Celsius 前首席执行官提出撤销判决的动议",
-      "summary": "前首席执行官亚历克斯·马辛斯基 (Alex Mashinsky) 提交了文件，寻求撤销 12 年刑期，其中包括涉及 FTX 的指控以及一名被判服刑的前摄氏度高管的“恶意收购”。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/celsius-alex-mashinsky-motion-vacate-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780073930,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着 SpaceX IPO 的临近，交易员认为马斯克几乎肯定会成为第一位万亿富翁",
-      "summary": "随着 SpaceX 破纪录 IPO 的传言，交易员相信埃隆·马斯克将在 2027 年之前晋升为万亿富翁。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/as-spacex-ipo-nears-traders-think-musk-will-be-the-first-trillionaire.html",
-      "datetime": 1780072349,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国监管机构表示 24/7 交易非常适合加密货币，但可能不适合其他行业",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/29/u-s-regulator-says-24-7-trading-is-great-for-crypto-may-not-be-fit-for-other-sectors",
-      "datetime": 1780072182,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "TRUE GLOBAL VENTURES 任命 TAL ELYASHIV 为普通合伙人",
-      "summary": "TGV 深化对湾区的关注，加强美国在旧金山和新加坡的影响力 旧金山和新加坡，2026 年 5 月 28 日 /美通社/ — 全球风险投资公司 True Global Ventures (TGV) 今日宣布，该公司投资于富有远见的创始人，打造定义行业的人工智能优先科技公司",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/true-global-ventures-appoints-tal-elyashiv-as-general-partner/",
-      "datetime": 1780071550,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Kalshi 正在超越预测市场，进入加密货币最大的交易通道之一",
-      "summary": "Kalshi 表示，离岸永续债券的年交易量从 2023 年的 28 万亿美元增长到 2025 年的超过 90 万亿美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/kalshi-is-moving-beyond-prediction-markets-and-into-one-of-cryptos-biggest-trading-lanes.html",
-      "datetime": 1780070331,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "以太坊分析师称“下行压力”依然存在，1800 美元成为关键",
-      "summary": "分析师警告称，随着交易员密切关注 1,800 美元支撑区域的稳定性，以太坊的下行风险仍然很高。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780069808,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CertiK 首席执行官表示，大规模部署人工智能代理是一场即将发生的灾难",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/05/29/mass-deployment-of-ai-agents-is-a-disaster-waiting-to-happen-says-certik-ceo",
-      "datetime": 1780068667,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "布鲁金斯学会研究员表示，《澄清法案》存在缺乏监督的监管风险",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/29/clarity-act-risks-regulation-without-oversight-brookings-fellow-says",
-      "datetime": 1780067695,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "实时市场：比特币摆脱了早期下跌的影响，但两个月的连涨势头面临危险",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/05/29/live-markets-bitcoin-slides-further-putting-two-month-winning-streak-in-jeopardy",
-      "datetime": 1780066250,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币 ETF 连续 9 天流出创纪录亏损 $2.8B",
-      "summary": "现货比特币 ETF 连续九天流出总额达 28.4 亿美元，超过 2025 年 2 月的八个交易日流出记录。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-longest-outflow-streak-institutional-demand-cools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780064432,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国商品期货交易委员会 (CFTC) 在卡尔希 (Kalshi) 首次获得批准，打开加密货币“perp”大门",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm",
-      "datetime": 1780063200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国加密资产永续对加密货币的未来意味着什么",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/05/29/what-american-crypto-asset-perpetuals-mean-for-the-future-of-crypto",
-      "datetime": 1780063200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "为什么Stellar的XLM本周涨幅超过50%？",
-      "summary": "美国金融巨头 DTCC 宣布与 Stellar Network 建立合作伙伴关系后，XLM 上涨，但未来几周仍有大幅下跌的风险。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/why-is-stellars-xlm-up-by-over-50-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780061699,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "纽约证券交易所母公司 ICE 为 24/7 的链上员工提供“公平竞争环境”",
-      "summary": "ICE 首席执行官表示，监管机构需要为推出 24/7 在线永续合约创造一个“公平的竞争环境”，这些合约已经在 Hyperliquid 等交易所进行交易。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/nyse-ice-level-playing-field-247-onchain-perps-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780061120,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CoinDesk 20 业绩更新：Bittensor (TAO) 下跌 4%，领先指数走低",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/05/29/coindesk-20-performance-update-bittensor-tao-drops-4-leading-index-lower",
-      "datetime": 1780060509,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "FDA 改组后 Replimune 将重新提交两次被拒绝的药物以供批准",
-      "summary": "Replimune 是批评 FDA 所谓试验和批准指导不一致的制药商之一。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/29/replimune-resubmit-melanoma-drug-fda-makary.html",
-      "datetime": 1780059066,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "Paxos 获得 SEC 批准在区块链上清算美国股票",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval",
-      "datetime": 1780057704,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币市值跌破 1.5T 美元，跌出全球十大资产行列",
-      "summary": "在人工智能股票和贵金属上涨的背景下，比特币的市值已跌至 1.5 万亿美元以下，将其挤出全球十大资产之列。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-out-of-the-global-top-10-assets-as-its-market-cap-dips-below-15t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780056563,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -691,14 +691,14 @@
           "datetime": 1780072349
         },
         {
+          "headline": "SpaceX IPO 炒作刺激了上市前押注的加密货币影子市场",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-ipo-hype-spurs-crypto-shadow-market-for-pre-listing-bets",
+          "datetime": 1780050933
+        },
+        {
           "headline": "Hyperliquid 首次公开募股前的 SpaceX 合同暴跌 45%，清算 150 万美元",
           "url": "https://www.coindesk.com/markets/2026/05/28/hyperliquid-s-pre-ipo-spacex-contracts-suffers-45-flash-crash-liquidating-usd1-5-million",
           "datetime": 1779989337
-        },
-        {
-          "headline": "Gemini 利用 SpaceXAI 构建个性化预测市场源",
-          "url": "https://www.coindesk.com/tech/2026/05/28/gemini-rolls-out-ai-powered-command-center-for-prediction-markets",
-          "datetime": 1779976800
         }
       ]
     },
@@ -735,10 +735,10 @@
     "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.1,
-    "weekly_score": 18.3,
-    "btc_price": 73545,
-    "fear_greed": 33,
+    "daily_score": 14.7,
+    "weekly_score": 18.7,
+    "btc_price": 73940.7,
+    "fear_greed": 35,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -749,22 +749,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004732,
-        "score": 47,
+        "value": 0.006561,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.69,
-        "score": 79,
+        "value": 1.5,
+        "score": 67,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 33,
-        "score": 33,
+        "value": 35,
+        "score": 35,
         "weight": 7,
         "group": "daily"
       },
@@ -777,22 +777,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.265,
-        "score": 52,
+        "value": 0.263,
+        "score": 51,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.744,
-        "score": 5,
+        "value": 0.848,
+        "score": 8,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.979,
-        "score": 29,
+        "value": 0.987,
+        "score": 37,
         "weight": 8,
         "group": "weekly"
       },
@@ -812,22 +812,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.19,
+        "value": 1.2,
         "score": 23,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 38.1,
-        "score": 30,
+        "value": 38.4,
+        "score": 31,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -16,
-        "score": 41,
+        "value": -55.2,
+        "score": 30,
         "weight": 4,
         "group": "weekly"
       }
@@ -836,7 +836,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 18
+      "days_until": 17
     },
     "schedule": [
       "2025-01-29",
