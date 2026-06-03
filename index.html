@@ -249,15 +249,32 @@
   .link-card .link-name { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
   .link-card .link-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.5; }
 
-  /* === Portfolio placeholder === */
-  .portfolio-placeholder {
-    background: var(--bg-secondary); border: 1px solid var(--border);
-    border-radius: var(--card-radius); padding: 48px 24px;
-    box-shadow: var(--shadow); text-align: center;
+  /* === Portfolio === */
+  .pf-group-title {
+    font-size: 12px; font-weight: 600; color: var(--text-tertiary);
+    letter-spacing: 1px; text-transform: uppercase; margin: 24px 0 12px;
+    padding-bottom: 8px; border-bottom: 1px solid var(--border);
   }
-  .portfolio-placeholder .ph-icon { font-size: 48px; margin-bottom: 16px; }
-  .portfolio-placeholder .ph-title { font-size: 18px; font-weight: 600; color: var(--text); margin-bottom: 8px; }
-  .portfolio-placeholder .ph-desc { font-size: 14px; color: var(--text-secondary); }
+  .pf-group-title:first-child { margin-top: 0; }
+  .pf-table { width: 100%; border-collapse: collapse; }
+  .pf-table th {
+    font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    text-align: left; padding: 8px 12px; letter-spacing: 0.5px; text-transform: uppercase;
+  }
+  .pf-table th:nth-child(2), .pf-table th:nth-child(3) { text-align: right; }
+  .pf-table td { padding: 12px; border-bottom: 1px solid var(--border); font-size: 14px; }
+  .pf-table tr:last-child td { border-bottom: none; }
+  .pf-table tr { transition: background 0.15s; }
+  .pf-table tr:hover { background: var(--bg-tertiary); }
+  .pf-table .pf-sym { font-weight: 700; color: var(--text); }
+  .pf-table .pf-name { font-size: 12px; color: var(--text-tertiary); margin-top: 2px; }
+  .pf-table .pf-price { text-align: right; font-weight: 600; color: var(--text); font-variant-numeric: tabular-nums; }
+  .pf-table .pf-change { text-align: right; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .pf-table .pf-note { font-size: 12px; color: var(--text-tertiary); font-style: italic; }
+  .pf-box {
+    background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: var(--card-radius); padding: 20px; box-shadow: var(--shadow);
+  }
 
   /* === Utilities === */
   .loading { text-align: center; color: var(--text-tertiary); padding: 48px 0; font-size: 14px; }
@@ -328,11 +345,7 @@
   <div class="tab-panel" id="panel-portfolio">
     <section>
       <h2>持仓动态</h2>
-      <div class="portfolio-placeholder">
-        <div class="ph-icon">📊</div>
-        <div class="ph-title">持仓列表即将上线</div>
-        <div class="ph-desc">等待配置持仓数据</div>
-      </div>
+      <div class="pf-box" id="portfolio"><div class="loading">Loading...</div></div>
     </section>
   </div>
 
@@ -401,6 +414,33 @@ document.getElementById('tabBar').addEventListener('click', e => {
 // Restore tab from hash or localStorage
 const initTab = location.hash.slice(1) || localStorage.getItem('activeTab') || 'overview';
 switchTab(initTab);
+
+// === Portfolio Definition ===
+const PORTFOLIO = [
+  { group: '加密货币', items: [
+    { symbol: 'BTC', name: '比特币', type: 'crypto' },
+    { symbol: 'ETH', name: '以太坊', type: 'crypto' },
+    { symbol: 'SOL', name: 'Solana', type: 'crypto' },
+    { symbol: 'JITOSOL', name: 'JitoSOL', type: 'crypto' },
+    { symbol: 'AAVE', name: 'Aave', type: 'crypto' },
+    { symbol: 'DOGE', name: 'Dogecoin', type: 'crypto' },
+    { symbol: 'HYPE', name: 'Hyperliquid', type: 'crypto' },
+    { symbol: 'TAO', name: 'Bittensor', type: 'crypto' },
+    { symbol: 'NEAR', name: 'Near Protocol', type: 'crypto' },
+    { symbol: 'ZEC', name: 'Zcash', type: 'crypto' },
+  ]},
+  { group: '美股', items: [
+    { symbol: 'NVDA', name: '英伟达', type: 'stock' },
+    { symbol: 'GOOG', name: '谷歌', type: 'stock' },
+    { symbol: 'TSLA', name: '特斯拉', type: 'stock' },
+    { symbol: 'CRCL', name: 'Circle', type: 'stock' },
+    { symbol: 'LKNCY', name: '瑞幸咖啡', type: 'stock' },
+  ]},
+  { group: '其他', items: [
+    { symbol: 'SPACEX', name: 'SpaceX Pre-IPO', type: 'other', note: '未上市，无实时价格' },
+    { symbol: '9992.HK', name: '泡泡玛特', type: 'other', note: '港股' },
+  ]},
+];
 
 // === Renderers ===
 function renderPriceCard(item) {
@@ -560,6 +600,37 @@ function renderTweets(tweets) {
   }).join('');
 }
 
+function renderPortfolio(stocks, crypto) {
+  const priceMap = {};
+  (stocks || []).forEach(s => { priceMap[s.symbol] = s; });
+  (crypto || []).forEach(c => { priceMap[c.symbol] = c; });
+
+  return PORTFOLIO.map(group => {
+    const rows = group.items.map(item => {
+      const p = priceMap[item.symbol];
+      if (p && !p.error) {
+        const cls = p.change_pct > 0 ? 'up' : p.change_pct < 0 ? 'down' : 'flat';
+        const sign = p.change_pct > 0 ? '+' : '';
+        const fmt = p.price >= 1000 ? p.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})
+          : p.price < 0.01 ? p.price.toPrecision(4) : p.price.toFixed(2);
+        return `<tr>
+          <td><div class="pf-sym">${item.symbol}</div><div class="pf-name">${item.name}</div></td>
+          <td class="pf-price">$${fmt}</td>
+          <td class="pf-change ${cls}">${sign}${p.change_pct}%</td>
+        </tr>`;
+      }
+      return `<tr>
+        <td><div class="pf-sym">${item.symbol}</div><div class="pf-name">${item.name}</div></td>
+        <td class="pf-price pf-note">${item.note || '—'}</td>
+        <td class="pf-change" style="color:var(--text-tertiary)">—</td>
+      </tr>`;
+    }).join('');
+    return `<div class="pf-group-title">${group.group}</div>
+      <table class="pf-table"><thead><tr><th>标的</th><th>价格</th><th>涨跌</th></tr></thead>
+      <tbody>${rows}</tbody></table>`;
+  }).join('');
+}
+
 // === Load ===
 async function load() {
   let d;
@@ -576,6 +647,7 @@ async function load() {
     ['btc-score', () => d.btc_score ? renderBTCScore(d.btc_score) : null],
     ['earnings', () => d.earnings ? renderEarnings(d.earnings) : null],
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
+    ['portfolio', () => renderPortfolio(d.stocks, d.crypto)],
     ['news', () => d.news ? renderNews(d.news) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
     ['tweets', () => d.tweets ? renderTweets(d.tweets) : null],

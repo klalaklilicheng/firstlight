@@ -1,13 +1,14 @@
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
 
-const STOCKS = ['VOO','QQQ','QQQM','NVDA','TSLA','GOOG','RKLB','CRCL','PLTR','MSTR','GLD'];
+const STOCKS = ['VOO','QQQ','QQQM','NVDA','TSLA','GOOG','RKLB','CRCL','PLTR','MSTR','GLD','LKNCY'];
 const ETFS = new Set(['VOO','QQQ','QQQM','GLD']);
 const EARNINGS_STOCKS = STOCKS.filter(s => !ETFS.has(s));
 
 const CRYPTO_MAP = {
   BTC: 'bitcoin', ETH: 'ethereum', SOL: 'solana', HYPE: 'hyperliquid',
   ZEC: 'zcash', TAO: 'bittensor', SKY: 'maker', AAVE: 'aave', BNB: 'binancecoin',
+  NEAR: 'near', DOGE: 'dogecoin', JITOSOL: 'jito-staked-sol',
 };
 
 const IPO_WATCHLIST = [
