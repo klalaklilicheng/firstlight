@@ -287,6 +287,7 @@
     <button class="tab-btn active" data-tab="overview">宏观总览</button>
     <button class="tab-btn" data-tab="twitter">推特跟踪</button>
     <button class="tab-btn" data-tab="portfolio">持仓动态</button>
+    <button class="tab-btn" data-tab="ipo">IPO 追踪</button>
     <button class="tab-btn" data-tab="news">市场新闻</button>
     <button class="tab-btn" data-tab="links">外部链接</button>
   </nav>
@@ -335,15 +336,19 @@
     </section>
   </div>
 
-  <!-- 4. 市场新闻 -->
+  <!-- 4. IPO 追踪 -->
+  <div class="tab-panel" id="panel-ipo">
+    <section>
+      <h2>IPO 追踪</h2>
+      <div class="ipo-grid" id="ipo"><div class="loading">Loading...</div></div>
+    </section>
+  </div>
+
+  <!-- 5. 市场新闻 -->
   <div class="tab-panel" id="panel-news">
     <section>
       <h2>市场新闻</h2>
       <div class="news-grid" id="news"><div class="loading">Loading...</div></div>
-    </section>
-    <section>
-      <h2>IPO 追踪</h2>
-      <div class="ipo-grid" id="ipo"><div class="loading">Loading...</div></div>
     </section>
   </div>
 
