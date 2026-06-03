@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T22:18:33.357Z",
+  "updated_at": "2026-06-03T23:06:44.153Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -55,53 +55,73 @@
       "symbol": "GLD",
       "price": 407.87,
       "change_pct": -0.99
+    },
+    {
+      "symbol": "LKNCY",
+      "price": 32.53,
+      "change_pct": 0.03
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65119,
-      "change_pct": -2.77
+      "price": 64577,
+      "change_pct": -2.89
     },
     {
       "symbol": "ETH",
-      "price": 1831.29,
-      "change_pct": -2.7
+      "price": 1820.48,
+      "change_pct": -2.5
     },
     {
       "symbol": "SOL",
-      "price": 72.19,
-      "change_pct": -3.56
+      "price": 71.9,
+      "change_pct": -2.1
     },
     {
       "symbol": "HYPE",
-      "price": 74.7,
-      "change_pct": 9.07
+      "price": 74.45,
+      "change_pct": 8.25
     },
     {
       "symbol": "ZEC",
-      "price": 621.54,
-      "change_pct": 4.07
+      "price": 623.22,
+      "change_pct": 5.41
     },
     {
       "symbol": "TAO",
-      "price": 228.4,
-      "change_pct": -2.05
+      "price": 226.53,
+      "change_pct": -0.08
     },
     {
       "symbol": "SKY",
-      "price": 1588.87,
-      "change_pct": 1.81
+      "price": 1579.8,
+      "change_pct": 2.07
     },
     {
       "symbol": "AAVE",
-      "price": 75.21,
-      "change_pct": 1.61
+      "price": 74.76,
+      "change_pct": 2.09
     },
     {
       "symbol": "BNB",
-      "price": 626.93,
-      "change_pct": -4.06
+      "price": 625.83,
+      "change_pct": -3.75
+    },
+    {
+      "symbol": "NEAR",
+      "price": 2.82,
+      "change_pct": 8.07
+    },
+    {
+      "symbol": "DOGE",
+      "price": 0.091773,
+      "change_pct": -0.53
+    },
+    {
+      "symbol": "JITOSOL",
+      "price": 92.07,
+      "change_pct": -2.28
     }
   ],
   "earnings": {
@@ -407,9 +427,106 @@
         }
       ],
       "comment": "上季不及预期 (-770.4%)"
+    },
+    "LKNCY": {
+      "next": {
+        "date": "2026-08-20",
+        "quarter": 2,
+        "year": 2026,
+        "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.24,
+          "estimate": 0.1808,
+          "surprise_pct": 32.7434
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.32,
+          "estimate": 0.3886,
+          "surprise_pct": -17.6531
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.615,
+          "estimate": 0.6928,
+          "surprise_pct": -11.2298
+        },
+        {
+          "period": "2025-06-30",
+          "quarter": 2,
+          "year": 2025,
+          "actual": 0.64,
+          "estimate": 0.5198,
+          "surprise_pct": 23.1243
+        }
+      ],
+      "comment": "上季超预期 (+32.7%)"
     }
   },
   "news": [
+    {
+      "headline": "比特币金库和流动性风险成为焦点 SpaceX目标IPO规模创纪录750亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus",
+      "datetime": 1780525872,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Tom Lee 的 Bitmine 借鉴了 Saylor 的做法，提供 9.5% 的优先股收益率",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million",
+      "datetime": 1780525133,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "怀俄明州指导人工智能数据中心发展的行政命令",
+      "summary": "怀俄明州州长马克·戈登签署了一项支持人工智能数据中心发展的行政命令，以吸引先进计算和技术投资。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wyoming-issues-executive-order-guide-ai-data-center-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780524250,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国财政部长表示比特币储备和澄清法案取得进展",
+      "summary": "斯科特·贝森特 (Scott Bessent) 表示，财政部正在“全速推进”唐纳德·特朗普 (Donald Trump) 的 2025 年行政命令，以建立战略性比特币储备和数字资产储备。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-treasury-secretary-clarity-act-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780523580,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Revolut 美国银行计划将稳定币与 FDIC 保险账户一起使用：报告",
+      "summary": "路透社报道称，随着越来越多的金融科技和加密货币公司寻求联邦银行的批准，Revolut 计划将稳定币整合到其未来的美国银行中。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/revoluts-planned-us-bank-to-offer-stablecoins-alongside-fdic-insured-accounts-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780521948,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "价格预测 6/3：BTC、ETH、BNB、XRP、SOL、HYPE、DOGE、ZEC、ADA、XLM",
+      "summary": "比特币面临跌破 65,000 美元的风险，但随着价格接近关键的 60,000 美元水平，预计买家将采取强有力的防御措施。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/price-predictions-63-btc-eth-bnb-xrp-sol-hype-doge-zec-ada-xlm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1780520756,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "随着以太坊跌破 1,800 美元，Bitmine 的以太坊押注损失接近 90 亿美元",
       "summary": "",
@@ -625,66 +742,18 @@
       "datetime": 1780495200,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "我们正在一家芯片制造商中担任职位，该公司以多种方式受益于人工智能的繁荣",
-      "summary": "我们正在开始对较小规模的股份进行投资，这为我们提供了随着时间的推移扩大规模的空间。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/were-starting-a-position-in-a-chipmaker-that-is-benefiting-from-the-ai-boom-in-multiple-ways.html",
-      "datetime": 1780493504,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "花旗表示，比特币缺乏新投资者比 Strategy 出售更重要",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-lack-of-fresh-investors-matters-more-than-strategy-s-sale-citi-says",
-      "datetime": 1780493385,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitwise 模型将比特币公允价值定为 224,000 美元，作为主权违约对冲",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/03/bitwise-model-puts-bitcoin-fair-value-at-usd224-000-as-sovereign-default-hedge",
-      "datetime": 1780493162,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "英国监管机构警告英超俱乐部未经授权的加密货币赞助商",
-      "summary": "FCA 敦促俱乐部重新考虑与未经授权的加密货币和交易赞助商的交易，并警告球迷可能会损失所有资金，球队面临法律和声誉影响。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fca-warns-premier-league-clubs-over-crypto-trading-sponsors-targeting-fans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1780492289,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CoinDesk 20 业绩更新：比特币现金 (BCH) 下跌 10.7%，领先指数走低",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/03/coindesk-20-performance-update-bitcoin-cash-bch-falls-10-7-leading-index-lower",
-      "datetime": 1780492139,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事",
-      "summary": "与帕洛阿尔托的反应一样，Ulta Beauty 也实现了稳定的季度业绩。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday-.html",
-      "datetime": 1780491942,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": []
+      "news": [
+        {
+          "headline": "比特币金库和流动性风险成为焦点 SpaceX目标IPO规模创纪录750亿美元",
+          "url": "https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus",
+          "datetime": 1780525872
+        }
+      ]
     },
     {
       "company": "Anthropic",
@@ -716,12 +785,12 @@
     }
   ],
   "btc_score": {
-    "score": 27.2,
+    "score": 27.3,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 12.4,
-    "weekly_score": 14.8,
-    "btc_price": 65288.5,
+    "weekly_score": 14.9,
+    "btc_price": 64940.1,
     "fear_greed": 25,
     "indicators": [
       {
@@ -733,7 +802,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003949,
+        "value": 0.003471,
         "score": 47,
         "weight": 8,
         "group": "daily"
@@ -803,15 +872,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.1,
+        "value": 32.9,
         "score": 22,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -55.5,
-        "score": 30,
+        "value": -49.7,
+        "score": 31,
         "weight": 4,
         "group": "weekly"
       }
@@ -936,7 +1005,7 @@
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 862,
+        "likes": 863,
         "retweets": 45
       },
       {
@@ -1003,15 +1072,15 @@
         "text": "₿ack to Work https://t.co/MmDLwySJpn",
         "url": "https://x.com/saylor/status/2062141855702155634",
         "time": "Wed Jun 03 11:58:25 +0000 2026",
-        "likes": 18397,
-        "retweets": 1519
+        "likes": 18673,
+        "retweets": 1538
       },
       {
         "text": "Final week to vote for twice-monthly dividends. If you haven’t voted, please do so now. We believe this upgrade helps make Digital Credit better for $BTC, $MSTR, and $STRC. Please share with other holders. We need your support. https://t.co/0QObDgFH5w",
         "url": "https://x.com/saylor/status/2061765101007286298",
         "time": "Tue Jun 02 11:01:20 +0000 2026",
-        "likes": 5098,
-        "retweets": 589
+        "likes": 5104,
+        "retweets": 590
       },
       {
         "text": "Our goal is to make $STRC the best credit instrument in the world. https://t.co/gMhUlT3jXu",
@@ -1024,14 +1093,14 @@
         "text": "Stretch Dividend Rate maintained at 11.50% for June 2026. $STRC https://t.co/DZ55JRV1RV",
         "url": "https://x.com/saylor/status/2061237787840458985",
         "time": "Mon Jun 01 00:05:59 +0000 2026",
-        "likes": 5448,
+        "likes": 5449,
         "retweets": 503
       },
       {
         "text": "Working ₿etter. https://t.co/VZJRdJKsEC",
         "url": "https://x.com/saylor/status/2061071780026970217",
         "time": "Sun May 31 13:06:19 +0000 2026",
-        "likes": 14457,
+        "likes": 14456,
         "retweets": 1584
       }
     ],
