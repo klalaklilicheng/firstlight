@@ -247,41 +247,78 @@ function buildFOMC() {
   };
 }
 
-// --- Twitter (server-side fetch via syndication API) ---
+// --- Twitter (authenticated via cookies) ---
 const TWITTER_HANDLES = ['cburniske', 'QwQiao', 'saylor', 'viktorfischer'];
+const TW_AUTH = process.env.TWITTER_AUTH_TOKEN;
+const TW_CT0 = process.env.TWITTER_CT0;
+const TW_BEARER = 'AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA';
+
+async function twitterApi(url) {
+  const res = await fetch(url, {
+    headers: {
+      'Authorization': `Bearer ${TW_BEARER}`,
+      'Cookie': `auth_token=${TW_AUTH}; ct0=${TW_CT0}`,
+      'x-csrf-token': TW_CT0,
+      'x-twitter-active-user': 'yes',
+      'x-twitter-auth-type': 'OAuth2Session',
+    },
+  });
+  if (!res.ok) throw new Error(`Twitter API ${res.status}`);
+  return res.json();
+}
+
+async function getUserId(handle) {
+  const vars = JSON.stringify({ screen_name: handle, withSafetyModeUserFields: true });
+  const features = JSON.stringify({ hidden_profile_subscriptions_enabled:true, rweb_tipjar_consumption_enabled:true, responsive_web_graphql_exclude_directive_enabled:true, verified_phone_label_enabled:false, subscriptions_verification_info_is_identity_verified_enabled:true, subscriptions_verification_info_verified_since_enabled:true, highlights_tweets_tab_ui_enabled:true, responsive_web_twitter_article_notes_tab_enabled:true, subscriptions_feature_can_gift_premium:true, creator_subscriptions_tweet_preview_api_enabled:true, responsive_web_graphql_skip_user_profile_image_extensions_enabled:false, responsive_web_graphql_timeline_navigation_enabled:true });
+  const url = `https://x.com/i/api/graphql/xmU6X_CKcnQ5lSrCbAmJsg/UserByScreenName?variables=${encodeURIComponent(vars)}&features=${encodeURIComponent(features)}`;
+  const data = await twitterApi(url);
+  return data?.data?.user?.result?.rest_id;
+}
+
+async function getUserTweets(userId, handle) {
+  const vars = JSON.stringify({ userId, count: 20, includePromotedContent: false, withQuickPromoteEligibilityTweetFields: true, withVoice: true, withV2Timeline: true });
+  const features = JSON.stringify({ rweb_tipjar_consumption_enabled:true, responsive_web_graphql_exclude_directive_enabled:true, verified_phone_label_enabled:false, creator_subscriptions_tweet_preview_api_enabled:true, responsive_web_graphql_timeline_navigation_enabled:true, responsive_web_graphql_skip_user_profile_image_extensions_enabled:false, c9s_tweet_anatomy_moderator_badge_enabled:true, tweetypie_unmention_optimization_enabled:true, responsive_web_edit_tweet_api_enabled:true, graphql_is_translatable_rweb_tweet_is_translatable_enabled:true, view_counts_everywhere_api_enabled:true, longform_notetweets_consumption_enabled:true, responsive_web_twitter_article_tweet_consumption_enabled:true, tweet_awards_web_tipping_enabled:false, freedom_of_speech_not_reach_fetch_enabled:true, standardized_nudges_misinfo:true, tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled:true, rweb_video_timestamps_enabled:true, longform_notetweets_rich_text_read_enabled:true, longform_notetweets_inline_media_enabled:true, responsive_web_enhance_cards_enabled:false });
+  const url = `https://x.com/i/api/graphql/Y4NfwBazXNbFO3AOS8qhpw/UserTweets?variables=${encodeURIComponent(vars)}&features=${encodeURIComponent(features)}`;
+  const data = await twitterApi(url);
+
+  const tweets = [];
+  const instructions = data?.data?.user?.result?.timeline_v2?.timeline?.instructions || [];
+  for (const inst of instructions) {
+    const entries = inst.entries || [];
+    for (const entry of entries) {
+      const result = entry.content?.itemContent?.tweet_results?.result;
+      if (!result) continue;
+      const legacy = result.legacy || result.tweet?.legacy;
+      const core = result.core?.user_results?.result?.legacy || result.tweet?.core?.user_results?.result?.legacy;
+      if (!legacy) continue;
+      // Skip retweets
+      if (legacy.retweeted_status_result) continue;
+      tweets.push({
+        text: legacy.full_text || '',
+        url: `https://x.com/${handle}/status/${legacy.id_str}`,
+        time: legacy.created_at || '',
+        likes: legacy.favorite_count || 0,
+        retweets: legacy.retweet_count || 0,
+      });
+    }
+  }
+  return tweets.sort((a, b) => new Date(b.time) - new Date(a.time)).slice(0, 5);
+}
 
 async function fetchTweets() {
+  if (!TW_AUTH || !TW_CT0) {
+    console.error('  Missing TWITTER_AUTH_TOKEN or TWITTER_CT0');
+    return {};
+  }
   const result = {};
   for (const handle of TWITTER_HANDLES) {
     try {
-      const res = await fetch(
-        `https://syndication.twitter.com/srv/timeline-profile/screen-name/${handle}?showReplies=false`,
-      );
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const html = await res.text();
-      const match = html.match(/<script id="__NEXT_DATA__"[^>]*>([^<]+)<\/script>/);
-      if (!match) throw new Error('no __NEXT_DATA__');
-      const data = JSON.parse(match[1]);
-      const entries = data?.props?.pageProps?.timeline?.entries || [];
-      const allTweets = entries
-        .filter(e => e.type === 'tweet' && e.content?.tweet)
-        .map(e => {
-          const t = e.content.tweet;
-          return {
-            text: t.text || t.full_text || '',
-            url: `https://x.com/${handle}/status/${t.id_str}`,
-            time: t.created_at || '',
-            likes: t.favorite_count || 0,
-            retweets: t.retweet_count || 0,
-          };
-        })
-        .sort((a, b) => new Date(b.time) - new Date(a.time));
-      // Debug: log date range
-      if (allTweets.length) {
-        console.log(`  @${handle}: ${allTweets.length} total, newest=${allTweets[0].time}, oldest=${allTweets[allTweets.length-1].time}`);
-      }
-      result[handle] = allTweets.slice(0, 5);
-      console.log(`  @${handle}: showing ${result[handle].length} tweets`);
+      const userId = await getUserId(handle);
+      if (!userId) throw new Error('user not found');
+      await delay(500);
+      const tweets = await getUserTweets(userId, handle);
+      result[handle] = tweets;
+      console.log(`  @${handle}: ${tweets.length} tweets, newest=${tweets[0]?.time || 'none'}`);
     } catch (e) {
       console.error(`  @${handle}: FAILED - ${e.message}`);
       result[handle] = [];

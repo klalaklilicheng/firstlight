@@ -20,6 +20,8 @@ jobs:
       - run: node scripts/fetch-data.mjs
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
