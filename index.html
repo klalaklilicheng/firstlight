@@ -165,6 +165,25 @@
   .fomc-dot.past { opacity: 0.35; }
   .fomc-dot.next { background: rgba(255,159,10,0.15); color: var(--orange); font-weight: 700; }
   .fomc-dot.future { color: var(--text-secondary); }
+  .fomc-meetings { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
+  .fomc-meeting {
+    display: flex; gap: 16px; padding: 14px 16px;
+    background: var(--bg-tertiary); border-radius: 12px;
+    transition: background 0.2s; align-items: flex-start;
+  }
+  .fomc-meeting:hover { background: var(--bg-hover); }
+  .fomc-meeting .fm-date { min-width: 90px; font-size: 14px; font-weight: 600; color: var(--text); white-space: nowrap; }
+  .fomc-meeting .fm-rate {
+    font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 6px;
+    white-space: nowrap; min-width: 100px; text-align: center;
+  }
+  .fomc-meeting .fm-rate.hold { background: var(--bg-hover); color: var(--text-secondary); }
+  .fomc-meeting .fm-rate.cut { background: rgba(48,209,88,0.15); color: var(--green); }
+  .fomc-meeting .fm-rate.preview { background: rgba(10,132,255,0.12); color: var(--accent); }
+  .fomc-meeting .fm-note { font-size: 13px; color: var(--text-secondary); line-height: 1.5; flex: 1; }
+  .fomc-meeting.is-next { border: 1px solid rgba(255,159,10,0.3); }
+  .fomc-meeting.is-past { opacity: 0.65; }
+  .fomc-divider { font-size: 12px; font-weight: 600; color: var(--accent); padding: 8px 0 4px; letter-spacing: 1px; text-transform: uppercase; }
 
   /* === IPO === */
   .ipo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
@@ -370,15 +389,45 @@ function renderEarnings(earnings) {
 
 function renderFOMC(fomc) {
   const today = new Date().toISOString().slice(0, 10);
+  const notes = fomc.notes || {};
   const nextHtml = fomc.next
     ? `<div class="fomc-next">${fomc.next.date} <span class="days">(${fomc.next.days_until} days)</span></div>`
     : '';
   const dots = fomc.schedule.map(d => {
     const cls = d < today ? 'past' : d === fomc.next?.date ? 'next' : 'future';
-    const label = d.slice(5);
-    return `<span class="fomc-dot ${cls}">${label}</span>`;
+    return `<span class="fomc-dot ${cls}">${d.slice(5)}</span>`;
   }).join('');
-  return `${nextHtml}<div class="fomc-timeline">${dots}</div>`;
+
+  // Split into past and future meetings with notes
+  const past = fomc.schedule.filter(d => d < today && notes[d]);
+  const future = fomc.schedule.filter(d => d >= today && notes[d]);
+
+  let meetingsHtml = '';
+  if (future.length) {
+    meetingsHtml += `<div class="fomc-divider">即将到来</div>`;
+    meetingsHtml += future.map(d => {
+      const n = notes[d];
+      const isNext = d === fomc.next?.date;
+      return `<div class="fomc-meeting ${isNext ? 'is-next' : ''}">
+        <div class="fm-date">${d}</div>
+        <div class="fm-rate ${n.type}">${n.rate}</div>
+        <div class="fm-note">${n.note}</div>
+      </div>`;
+    }).join('');
+  }
+  if (past.length) {
+    meetingsHtml += `<div class="fomc-divider">历史会议</div>`;
+    meetingsHtml += past.reverse().map(d => {
+      const n = notes[d];
+      return `<div class="fomc-meeting is-past">
+        <div class="fm-date">${d}</div>
+        <div class="fm-rate ${n.type}">${n.rate}</div>
+        <div class="fm-note">${n.note}</div>
+      </div>`;
+    }).join('');
+  }
+
+  return `${nextHtml}<div class="fomc-timeline">${dots}</div><div class="fomc-meetings">${meetingsHtml}</div>`;
 }
 
 function renderNews(news) {
