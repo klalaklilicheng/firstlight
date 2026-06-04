@@ -217,9 +217,8 @@ async function fetchIPONews() {
   return ipo;
 }
 
-// --- Portfolio news (headline-only matching for high relevance) ---
+// --- Portfolio news (headline-only matching + Twitter fallback) ---
 const PF_STOCKS = ['NVDA','GOOG','TSLA','CRCL','LKNCY'];
-// Crypto: match ONLY in headline for precision. Use full names to avoid false positives.
 const PF_CRYPTO_HEADLINE = {
   BTC:    ['bitcoin'],
   ETH:    ['ethereum'],
@@ -228,9 +227,18 @@ const PF_CRYPTO_HEADLINE = {
   DOGE:   ['doge', 'dogecoin'],
   HYPE:   ['hyperliquid'],
   TAO:    ['bittensor'],
-  NEAR:   ['near protocol', 'nearprotocol'],
+  NEAR:   ['near protocol', 'nearprotocol', 'near crypto'],
   ZEC:    ['zcash'],
   SPACEX: ['spacex'],
+};
+// Official Twitter accounts for crypto projects — fallback when news is sparse
+const CRYPTO_TWITTER_ACCOUNTS = {
+  SOL:  'solana',
+  NEAR: 'NEARProtocol',
+  AAVE: 'AaveAave',
+  TAO:  'opaboratory',
+  ZEC:  'ElectricCoinCo',
+  DOGE: 'dogecoin',
 };
 
 async function fetchPortfolioNews() {
@@ -252,7 +260,7 @@ async function fetchPortfolioNews() {
     }
   }
 
-  // Crypto: match keywords in HEADLINE ONLY (not summary) for high relevance
+  // Crypto: match keywords in HEADLINE ONLY for high relevance
   const allNews = await fetchAllNews().catch(() => []);
   for (const [symbol, keywords] of Object.entries(PF_CRYPTO_HEADLINE)) {
     news[symbol] = allNews.filter(n => {
@@ -262,6 +270,32 @@ async function fetchPortfolioNews() {
       headline: n.headline, url: n.url, datetime: n.datetime, source: n.source || '',
     }));
     console.log(`  ${symbol}: ${news[symbol].length} news`);
+  }
+
+  // Twitter fallback: for crypto with < 2 news, fetch from official accounts
+  const twAuth = process.env.TWITTER_AUTH_TOKEN;
+  const twCt0 = process.env.TWITTER_CT0;
+  if (twAuth && twCt0) {
+    for (const [symbol, handle] of Object.entries(CRYPTO_TWITTER_ACCOUNTS)) {
+      if ((news[symbol] || []).length >= 2) continue;
+      try {
+        const userId = await getUserId(handle);
+        if (!userId) { console.log(`  ${symbol} twitter @${handle}: user not found`); continue; }
+        await delay(500);
+        const tweets = await getUserTweets(userId, handle);
+        const tweetItems = tweets.slice(0, 3).map(t => ({
+          headline: t.text.replace(/https?:\/\/\S+/g, '').trim().slice(0, 200),
+          url: t.url,
+          datetime: Math.floor(new Date(t.time).getTime() / 1000),
+          source: `@${handle}`,
+        }));
+        news[symbol] = [...(news[symbol] || []), ...tweetItems].slice(0, 5);
+        console.log(`  ${symbol}: +${tweetItems.length} from @${handle} (twitter fallback)`);
+      } catch (e) {
+        console.error(`  ${symbol} twitter @${handle}: ${e.message}`);
+      }
+      await delay(1000);
+    }
   }
 
   // Translate all headlines
