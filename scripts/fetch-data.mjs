@@ -217,38 +217,51 @@ async function fetchIPONews() {
   return ipo;
 }
 
-// --- Portfolio news ---
+// --- Portfolio news (headline-only matching for high relevance) ---
 const PF_STOCKS = ['NVDA','GOOG','TSLA','CRCL','LKNCY'];
-const PF_CRYPTO_KW = { BTC:'bitcoin btc', ETH:'ethereum eth', SOL:'solana sol', AAVE:'aave', DOGE:'doge dogecoin', HYPE:'hyperliquid hype', TAO:'bittensor tao', NEAR:'near protocol', ZEC:'zcash zec', SPACEX:'spacex' };
+// Crypto: match ONLY in headline for precision. Use full names to avoid false positives.
+const PF_CRYPTO_HEADLINE = {
+  BTC:    ['bitcoin'],
+  ETH:    ['ethereum'],
+  SOL:    ['solana'],
+  AAVE:   ['aave'],
+  DOGE:   ['doge', 'dogecoin'],
+  HYPE:   ['hyperliquid'],
+  TAO:    ['bittensor'],
+  NEAR:   ['near protocol', 'nearprotocol'],
+  ZEC:    ['zcash'],
+  SPACEX: ['spacex'],
+};
 
 async function fetchPortfolioNews() {
   const today = new Date().toISOString().slice(0, 10);
-  const monthAgo = new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
+  const weekAgo = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
   const news = {};
 
-  // Stock company news from Finnhub
+  // Stock: Finnhub company-news (already company-specific, very relevant)
   for (const symbol of PF_STOCKS) {
     try {
-      const items = await finnhub(`/company-news?symbol=${symbol}&from=${monthAgo}&to=${today}`);
-      news[symbol] = (items || []).slice(0, 3).map(n => ({
+      const items = await finnhub(`/company-news?symbol=${symbol}&from=${weekAgo}&to=${today}`);
+      news[symbol] = (items || []).slice(0, 5).map(n => ({
         headline: n.headline, url: n.url, datetime: n.datetime, source: n.source || '',
       }));
+      console.log(`  ${symbol}: ${news[symbol].length} news`);
     } catch (e) {
       console.error(`  ${symbol} news: ${e.message}`);
       news[symbol] = [];
     }
   }
 
-  // Crypto news from shared cache, filtered by keywords
+  // Crypto: match keywords in HEADLINE ONLY (not summary) for high relevance
   const allNews = await fetchAllNews().catch(() => []);
-  for (const [symbol, kws] of Object.entries(PF_CRYPTO_KW)) {
-    const kwList = kws.split(' ');
+  for (const [symbol, keywords] of Object.entries(PF_CRYPTO_HEADLINE)) {
     news[symbol] = allNews.filter(n => {
-      const text = `${n.headline} ${n.summary}`.toLowerCase();
-      return kwList.some(kw => text.includes(kw));
-    }).slice(0, 3).map(n => ({
+      const headline = (n.headline || '').toLowerCase();
+      return keywords.some(kw => headline.includes(kw));
+    }).slice(0, 5).map(n => ({
       headline: n.headline, url: n.url, datetime: n.datetime, source: n.source || '',
     }));
+    console.log(`  ${symbol}: ${news[symbol].length} news`);
   }
 
   // Translate all headlines
