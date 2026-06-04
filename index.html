@@ -3,23 +3,25 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Day1 Briefing</title>
+<title>First Light</title>
 <style>
   /* === Theme Variables === */
   :root {
-    --bg: #000; --bg-secondary: #1c1c1e; --bg-tertiary: #2c2c2e; --bg-hover: #3a3a3c;
-    --text: #f5f5f7; --text-secondary: #98989d; --text-tertiary: #636366;
-    --border: rgba(255,255,255,0.08); --shadow: 0 2px 12px rgba(0,0,0,0.4);
-    --accent: #0a84ff; --accent-hover: #409cff;
-    --green: #30d158; --red: #ff453a; --orange: #ff9f0a; --yellow: #ffd60a;
+    --bg: #09090b; --bg-secondary: #18181b; --bg-tertiary: #27272a; --bg-hover: #3f3f46;
+    --text: #fafaf9; --text-secondary: #a1a1aa; --text-tertiary: #71717a;
+    --border: rgba(255,255,255,0.07); --shadow: 0 2px 12px rgba(0,0,0,0.5);
+    --accent: #e8a930; --accent-hover: #f0c050;
+    --glow: linear-gradient(135deg, #e8a930, #f97316, #ec4899);
+    --green: #34d399; --red: #f87171; --orange: #fbbf24; --yellow: #fde68a;
     --card-radius: 16px; --section-gap: 48px;
   }
   [data-theme="light"] {
-    --bg: #f5f5f7; --bg-secondary: #fff; --bg-tertiary: #e8e8ed; --bg-hover: #d1d1d6;
-    --text: #1d1d1f; --text-secondary: #6e6e73; --text-tertiary: #aeaeb2;
-    --border: rgba(0,0,0,0.06); --shadow: 0 2px 16px rgba(0,0,0,0.08);
-    --accent: #0071e3; --accent-hover: #0077ed;
-    --green: #34c759; --red: #ff3b30; --orange: #ff9500; --yellow: #ffcc00;
+    --bg: #fafaf8; --bg-secondary: #fff; --bg-tertiary: #f0ede6; --bg-hover: #e5e2db;
+    --text: #1c1917; --text-secondary: #78716c; --text-tertiary: #a8a29e;
+    --border: rgba(0,0,0,0.06); --shadow: 0 2px 16px rgba(0,0,0,0.06);
+    --accent: #b45309; --accent-hover: #d97706;
+    --glow: linear-gradient(135deg, #d97706, #ea580c, #db2777);
+    --green: #16a34a; --red: #dc2626; --orange: #d97706; --yellow: #ca8a04;
   }
 
   /* === Base === */
@@ -45,8 +47,8 @@
     border-bottom: 1px solid var(--border);
   }
   header h1 {
-    font-size: 28px; font-weight: 700; letter-spacing: -0.8px;
-    background: linear-gradient(135deg, var(--text) 0%, var(--text-secondary) 100%);
+    font-size: 28px; font-weight: 700; letter-spacing: -0.5px;
+    background: var(--glow);
     -webkit-background-clip: text; -webkit-text-fill-color: transparent;
   }
   .header-right { display: flex; align-items: center; gap: 16px; }
@@ -75,10 +77,10 @@
   }
   .tab-btn:hover { color: var(--text); background: var(--bg-tertiary); }
   .tab-btn.active {
-    background: var(--text); color: var(--bg);
-    font-weight: 600; box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    background: var(--accent); color: #fff;
+    font-weight: 600; box-shadow: 0 2px 10px rgba(232,169,48,0.3);
   }
-  [data-theme="light"] .tab-btn.active { background: #1d1d1f; color: #fff; }
+  [data-theme="light"] .tab-btn.active { background: #b45309; color: #fff; box-shadow: 0 2px 10px rgba(180,83,9,0.2); }
 
   /* === Tab Panels === */
   .tab-panel { display: none; }
@@ -184,7 +186,7 @@
     background: var(--bg-tertiary); color: var(--text-tertiary); font-weight: 500; transition: all 0.2s;
   }
   .fomc-dot.past { opacity: 0.35; }
-  .fomc-dot.next { background: rgba(255,159,10,0.15); color: var(--orange); font-weight: 700; }
+  .fomc-dot.next { background: rgba(232,169,48,0.15); color: var(--accent); font-weight: 700; }
   .fomc-dot.future { color: var(--text-secondary); }
   .fomc-meetings { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
   .fomc-meeting {
@@ -245,7 +247,7 @@
     border-radius: var(--card-radius); padding: 20px;
     box-shadow: var(--shadow); transition: all 0.25s ease; text-decoration: none;
   }
-  .link-card:hover { transform: translateY(-2px); border-color: var(--accent); text-decoration: none; box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+  .link-card:hover { transform: translateY(-2px); border-color: var(--accent); text-decoration: none; box-shadow: 0 6px 20px rgba(232,169,48,0.1); }
   .link-card .link-name { font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
   .link-card .link-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.5; }
 
@@ -301,7 +303,7 @@
 </head>
 <body>
   <header>
-    <h1>Day1 Briefing</h1>
+    <h1>First Light</h1>
     <div class="header-right">
       <span class="time" id="updated"></span>
       <button class="theme-toggle" id="themeBtn" title="切换主题"></button>
