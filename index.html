@@ -151,28 +151,52 @@
   .beat { color: var(--green); font-weight: 600; }
   .miss { color: var(--red); font-weight: 600; }
 
-  /* === News (masonry columns for even fill) === */
-  .news-grid { columns: 340px; column-gap: 12px; }
-  .news-card {
+  /* === News — Hero + Feed === */
+  .news-container { }
+  .news-hero {
     background: var(--bg-secondary); border: 1px solid var(--border);
-    border-radius: var(--card-radius); padding: 16px;
-    box-shadow: var(--shadow); transition: all 0.25s ease;
-    break-inside: avoid; margin-bottom: 12px;
+    border-radius: var(--card-radius); padding: 28px 24px;
+    box-shadow: var(--shadow); margin-bottom: 24px; transition: all 0.25s ease;
   }
-  .news-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
-  .news-card .news-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 8px; line-height: 1.5; }
-  .news-card .news-title a { color: var(--text); }
-  .news-card .news-title a:hover { color: var(--accent); }
-  .news-card .news-summary {
-    font-size: 13px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 10px;
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  .news-hero:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+  .news-hero .news-tag {
+    display: inline-block; font-size: 11px; padding: 3px 10px; border-radius: 100px;
+    background: var(--accent); color: #fff; font-weight: 600;
+    letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 12px;
   }
-  .news-card .news-meta { font-size: 12px; color: var(--text-tertiary); display: flex; justify-content: space-between; align-items: center; }
-  .news-card .news-source { color: var(--text-tertiary); }
-  .news-card .news-tag {
-    font-size: 11px; padding: 3px 8px; border-radius: 6px;
-    background: var(--bg-tertiary); color: var(--text-secondary); font-weight: 500;
+  .news-hero .news-title { font-size: 22px; font-weight: 700; color: var(--text); line-height: 1.4; margin-bottom: 12px; letter-spacing: -0.3px; }
+  .news-hero .news-title a { color: var(--text); }
+  .news-hero .news-title a:hover { color: var(--accent); }
+  .news-hero .news-summary { font-size: 15px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 14px; }
+  .news-hero .news-meta { font-size: 13px; color: var(--text-tertiary); }
+
+  .news-feed {
+    background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: var(--card-radius); box-shadow: var(--shadow); overflow: hidden;
   }
+  .news-feed-item {
+    display: flex; align-items: flex-start; gap: 14px;
+    padding: 16px 20px; border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+  }
+  .news-feed-item:last-child { border-bottom: none; }
+  .news-feed-item:hover { background: var(--bg-tertiary); }
+  .news-feed-item .nf-tag {
+    font-size: 10px; padding: 3px 8px; border-radius: 100px; white-space: nowrap;
+    background: var(--bg-tertiary); color: var(--text-secondary); font-weight: 600;
+    letter-spacing: 0.3px; margin-top: 3px; flex-shrink: 0;
+  }
+  .news-feed-item .nf-tag.crypto { background: rgba(232,169,48,0.12); color: var(--accent); }
+  .news-feed-item .nf-body { flex: 1; min-width: 0; }
+  .news-feed-item .nf-title { font-size: 15px; font-weight: 600; color: var(--text); line-height: 1.5; margin-bottom: 4px; }
+  .news-feed-item .nf-title a { color: var(--text); }
+  .news-feed-item .nf-title a:hover { color: var(--accent); }
+  .news-feed-item .nf-summary {
+    font-size: 13px; color: var(--text-tertiary); line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    margin-bottom: 6px;
+  }
+  .news-feed-item .nf-meta { font-size: 12px; color: var(--text-tertiary); }
 
   /* === FOMC === */
   .fomc-box {
@@ -297,7 +321,8 @@
     :root { --section-gap: 36px; }
     .grid { grid-template-columns: repeat(2, 1fr); }
     .earnings-grid, .tweets-grid, .ipo-grid, .links-grid { grid-template-columns: 1fr; }
-    .news-grid { columns: 1; }
+    .news-hero { padding: 20px 16px; }
+    .news-hero .news-title { font-size: 18px; }
     .btc-score-big { font-size: 40px; }
     .tab-btn { padding: 7px 14px; font-size: 13px; }
   }
@@ -374,7 +399,7 @@
   <div class="tab-panel" id="panel-news">
     <section>
       <h2>市场新闻</h2>
-      <div class="news-grid" id="news"><div class="loading">Loading...</div></div>
+      <div class="news-container" id="news"><div class="loading">Loading...</div></div>
     </section>
   </div>
 
@@ -562,22 +587,35 @@ function renderFOMC(fomc) {
 
 function renderNews(news) {
   if (!news || !news.length) return '<div class="loading">No data</div>';
-  return news.map(n => {
-    const time = n.datetime ? new Date(n.datetime * 1000).toLocaleString('zh-CN', {
-      timeZone: 'Asia/Shanghai', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
-    }) : '';
-    const tag = n.category === 'crypto' ? '加密货币' : n.related || '综合';
-    const cleanSummary = (n.summary || '').replace(/<[^>]+>/g, '');
-    const summary = cleanSummary ? `<div class="news-summary">${cleanSummary}</div>` : '';
-    return `<div class="news-card">
-      <div class="news-title"><a href="${n.url}" target="_blank">${n.headline}</a></div>
-      ${summary}
-      <div class="news-meta">
-        <span class="news-source">${n.source} · ${time}</span>
-        <span class="news-tag">${tag}</span>
+  const fmtTime = ts => ts ? new Date(ts * 1000).toLocaleString('zh-CN', {
+    timeZone: 'Asia/Shanghai', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+  }) : '';
+  const getTag = n => n.category === 'crypto' ? '加密货币' : n.related || '综合';
+  const isCrypto = n => n.category === 'crypto';
+  const esc = s => (s || '').replace(/<[^>]*>?/g, '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+
+  // Hero: first article
+  const h = news[0];
+  const hero = `<div class="news-hero">
+    <span class="news-tag">${getTag(h)}</span>
+    <div class="news-title"><a href="${h.url}" target="_blank">${esc(h.headline)}</a></div>
+    ${h.summary ? `<div class="news-summary">${esc(h.summary)}</div>` : ''}
+    <div class="news-meta">${esc(h.source)} · ${fmtTime(h.datetime)}</div>
+  </div>`;
+
+  // Feed: remaining articles
+  const feed = news.slice(1).map(n => {
+    return `<div class="news-feed-item">
+      <span class="nf-tag ${isCrypto(n) ? 'crypto' : ''}">${getTag(n)}</span>
+      <div class="nf-body">
+        <div class="nf-title"><a href="${n.url}" target="_blank">${esc(n.headline)}</a></div>
+        ${n.summary ? `<div class="nf-summary">${esc(n.summary)}</div>` : ''}
+        <div class="nf-meta">${esc(n.source)} · ${fmtTime(n.datetime)}</div>
       </div>
     </div>`;
   }).join('');
+
+  return `${hero}<div class="news-feed">${feed}</div>`;
 }
 
 function renderIPO(ipo) {
