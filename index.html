@@ -151,12 +151,13 @@
   .beat { color: var(--green); font-weight: 600; }
   .miss { color: var(--red); font-weight: 600; }
 
-  /* === News === */
-  .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 12px; }
+  /* === News (masonry columns for even fill) === */
+  .news-grid { columns: 340px; column-gap: 12px; }
   .news-card {
     background: var(--bg-secondary); border: 1px solid var(--border);
     border-radius: var(--card-radius); padding: 16px;
     box-shadow: var(--shadow); transition: all 0.25s ease;
+    break-inside: avoid; margin-bottom: 12px;
   }
   .news-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
   .news-card .news-title { font-size: 15px; font-weight: 600; color: var(--text); margin-bottom: 8px; line-height: 1.5; }
@@ -295,7 +296,8 @@
     header h1 { font-size: 22px; }
     :root { --section-gap: 36px; }
     .grid { grid-template-columns: repeat(2, 1fr); }
-    .earnings-grid, .tweets-grid, .news-grid, .ipo-grid, .links-grid { grid-template-columns: 1fr; }
+    .earnings-grid, .tweets-grid, .ipo-grid, .links-grid { grid-template-columns: 1fr; }
+    .news-grid { columns: 1; }
     .btc-score-big { font-size: 40px; }
     .tab-btn { padding: 7px 14px; font-size: 13px; }
   }
