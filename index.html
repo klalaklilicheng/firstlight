@@ -369,6 +369,88 @@
   /* Pending card */
   .thesis-pending { font-size: 13px; color: var(--text-tertiary); padding: 4px 0; }
 
+  /* === Thesis Editor === */
+  .thesis-toolbar {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+    padding: 10px 16px; background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: 12px; font-size: 13px; flex-wrap: wrap;
+  }
+  .thesis-toolbar .tt-hint { color: var(--text-tertiary); flex: 1; min-width: 120px; }
+  .tt-btn {
+    padding: 6px 14px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--bg-tertiary); color: var(--text-secondary);
+    font-size: 12px; font-weight: 500; cursor: pointer; font-family: inherit; transition: all 0.2s;
+  }
+  .tt-btn:hover { background: var(--bg-hover); color: var(--text); }
+  .thesis-edit-badge {
+    display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+    background: var(--accent); margin-left: 6px; vertical-align: middle;
+  }
+  .thesis-edit-btn {
+    padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border);
+    background: transparent; color: var(--text-tertiary); font-size: 11px;
+    cursor: pointer; font-family: inherit; transition: all 0.2s;
+  }
+  .thesis-edit-btn:hover { background: var(--bg-tertiary); color: var(--text); }
+
+  .thesis-edit-form { padding: 0 24px 24px; }
+  .te-field { margin-bottom: 16px; }
+  .te-label {
+    display: block; font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 6px;
+  }
+  .te-input, .te-textarea, .te-select {
+    width: 100%; padding: 8px 12px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--bg-tertiary);
+    color: var(--text); font-size: 13px; font-family: inherit; transition: border-color 0.2s;
+  }
+  .te-input:focus, .te-textarea:focus, .te-select:focus { outline: none; border-color: var(--accent); }
+  .te-textarea { min-height: 80px; resize: vertical; line-height: 1.6; }
+  .te-select { cursor: pointer; -webkit-appearance: auto; }
+
+  .te-row { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; }
+  .te-row .te-input { flex: 1; }
+  .te-row .te-select { width: 100px; flex-shrink: 0; }
+
+  .te-inline { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+  .te-inline .te-field { margin-bottom: 0; }
+  .te-inline .te-label { font-size: 10px; }
+
+  .te-remove {
+    width: 28px; height: 28px; border-radius: 6px; border: none;
+    background: transparent; color: var(--red); cursor: pointer;
+    font-size: 16px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .te-remove:hover { background: rgba(248,113,113,0.1); }
+  .te-add {
+    padding: 6px 12px; border-radius: 8px; border: 1px dashed var(--border);
+    background: transparent; color: var(--text-tertiary); font-size: 12px;
+    cursor: pointer; font-family: inherit; width: 100%; transition: all 0.2s; margin-top: 4px;
+  }
+  .te-add:hover { border-color: var(--accent); color: var(--accent); }
+
+  .te-metric-row {
+    display: grid; grid-template-columns: 100px 1fr 80px 1fr 28px;
+    gap: 6px; align-items: center; margin-bottom: 6px;
+  }
+  .te-metric-row .te-input, .te-metric-row .te-select { padding: 6px 8px; font-size: 12px; }
+
+  .te-actions {
+    display: flex; gap: 8px; margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--border);
+  }
+  .te-btn-save {
+    padding: 8px 20px; border-radius: 8px; border: none;
+    background: var(--accent); color: #fff; font-size: 13px;
+    font-weight: 600; cursor: pointer; font-family: inherit;
+  }
+  .te-btn-save:hover { opacity: 0.9; }
+  .te-btn-cancel {
+    padding: 8px 20px; border-radius: 8px; border: 1px solid var(--border);
+    background: transparent; color: var(--text-secondary); font-size: 13px;
+    cursor: pointer; font-family: inherit;
+  }
+  .te-btn-cancel:hover { background: var(--bg-tertiary); }
+
   /* === External Links === */
   .links-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
   .link-card {
@@ -433,6 +515,10 @@
     .thesis-body { padding: 0 16px 20px; }
     .fc-table { font-size: 12px; }
     .fc-table .fc-note { display: none; }
+    .thesis-edit-form { padding: 0 16px 20px; }
+    .te-inline { grid-template-columns: 1fr 1fr; }
+    .te-metric-row { grid-template-columns: 80px 1fr 70px 28px; }
+    .te-metric-row .te-m-note { display: none; }
   }
 </style>
 </head>
@@ -500,6 +586,11 @@
   <div class="tab-panel" id="panel-thesis">
     <section>
       <h2>Investment Thesis</h2>
+      <div class="thesis-toolbar" id="thesis-toolbar" style="display:none">
+        <span class="tt-hint">编辑内容保存在浏览器本地</span>
+        <button class="tt-btn" onclick="exportThesisJson()">导出 JSON</button>
+        <button class="tt-btn" onclick="resetThesisEdits()">重置编辑</button>
+      </div>
       <div class="thesis-list" id="thesis"><div class="loading">Loading...</div></div>
     </section>
   </div>
@@ -606,6 +697,7 @@ const PORTFOLIO = [
 
 // === Helpers ===
 const esc = s => (s || '').replace(/<[^>]*>?/g, '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const escVal = s => (s || '').replace(/&/g,'&amp;').replace(/"/g,'&quot;');
 
 // === Renderers ===
 function renderPriceCard(item) {
@@ -823,25 +915,213 @@ function renderPortfolio(stocks, crypto, pfNews) {
 
 // === Thesis ===
 const VERDICT_LABELS = { buy: '买入', hold: '持有', hold_avoid: '持有/回避', avoid: '回避', pending: '待分析' };
-const STATUS_LABELS = { confirmed: '已验证', tracking: '跟踪中', at_risk: '有风险', not_met: '未达标' };
+const THESIS_KEY = 'fl_thesis_edits';
+let _originalThesis = null;
+let _marketStocks = null;
+let _marketCrypto = null;
 
+function getLocalEdits() {
+  try { return JSON.parse(localStorage.getItem(THESIS_KEY)) || {}; } catch { return {}; }
+}
+function saveLocalEdits(edits) { localStorage.setItem(THESIS_KEY, JSON.stringify(edits)); }
+function mergedThesisData() {
+  const base = _originalThesis || { updated_at: '', holdings: {} };
+  const edits = getLocalEdits();
+  const merged = { updated_at: base.updated_at, holdings: { ...base.holdings } };
+  for (const [sym, data] of Object.entries(edits)) merged.holdings[sym] = data;
+  return merged;
+}
+
+// --- Editor form builders ---
+function statusOpts(sel) {
+  return [['confirmed','已验证'],['tracking','跟踪中'],['at_risk','有风险'],['not_met','未达标']]
+    .map(([v,l]) => `<option value="${v}" ${sel===v?'selected':''}>${l}</option>`).join('');
+}
+function vsOpts(sel) {
+  return [['positive','正面'],['neutral','中性'],['negative','负面']]
+    .map(([v,l]) => `<option value="${v}" ${sel===v?'selected':''}>${l}</option>`).join('');
+}
+function fcVerdictOpts(sel) {
+  return [['positive','匹配'],['partial','部分匹配'],['negative','不匹配']]
+    .map(([v,l]) => `<option value="${v}" ${sel===v?'selected':''}>${l}</option>`).join('');
+}
+function verdictOpts(sel) {
+  return [['buy','买入'],['hold','持有'],['hold_avoid','持有/回避'],['avoid','回避'],['pending','待分析']]
+    .map(([v,l]) => `<option value="${v}" ${sel===v?'selected':''}>${l}</option>`).join('');
+}
+
+function buildEditForm(symbol, d) {
+  const v = d.valuation || {};
+  const fc = d.financial_check || {};
+  const assumRows = (d.assumptions||[]).map(a => `<div class="te-row">
+    <input class="te-input te-a-text" value="${escVal(a.text)}" placeholder="假设内容">
+    <select class="te-select te-a-status">${statusOpts(a.status)}</select>
+    <input class="te-input te-a-evidence" value="${escVal(a.evidence)}" placeholder="证据">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`).join('');
+  const metricRows = (fc.metrics||[]).map(m => `<div class="te-metric-row">
+    <input class="te-input te-m-name" value="${escVal(m.name)}" placeholder="指标">
+    <input class="te-input te-m-actual" value="${escVal(m.actual)}" placeholder="实际值">
+    <select class="te-select te-m-vs">${vsOpts(m.vs_thesis)}</select>
+    <input class="te-input te-m-note" value="${escVal(m.note)}" placeholder="备注">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`).join('');
+
+  return `<div class="thesis-edit-form" id="edit-${symbol}">
+    <div class="te-field"><div class="te-label">基本信息</div>
+      <div class="te-inline">
+        <div class="te-field"><div class="te-label">名称</div><input class="te-input" id="te-name-${symbol}" value="${escVal(d.name||'')}"></div>
+        <div class="te-field"><div class="te-label">交易所</div><input class="te-input" id="te-exch-${symbol}" value="${escVal(d.exchange||'')}"></div>
+        <div class="te-field"><div class="te-label">判定</div><select class="te-select" id="te-verdict-${symbol}">${verdictOpts(d.verdict)}</select></div>
+      </div>
+    </div>
+    <div class="te-field"><div class="te-label">投资逻辑</div>
+      <textarea class="te-textarea" id="te-thesis-${symbol}">${esc(d.thesis||'')}</textarea></div>
+    <div class="te-field"><div class="te-label">估值</div>
+      <div class="te-inline">
+        <div class="te-field"><div class="te-label">价值目标</div><input class="te-input" type="number" id="te-vt-${symbol}" value="${v.value_target||''}"></div>
+        <div class="te-field"><div class="te-label">区间下限</div><input class="te-input" type="number" id="te-vrl-${symbol}" value="${(v.value_range||[])[0]||''}"></div>
+        <div class="te-field"><div class="te-label">区间上限</div><input class="te-input" type="number" id="te-vrh-${symbol}" value="${(v.value_range||[])[1]||''}"></div>
+        <div class="te-field"><div class="te-label">成长目标</div><input class="te-input" type="number" id="te-gt-${symbol}" value="${v.growth_target||''}"></div>
+      </div>
+      <div class="te-inline" style="margin-top:8px">
+        <div class="te-field"><div class="te-label">估值方法</div><input class="te-input" id="te-vm-${symbol}" value="${escVal(v.value_method||'')}"></div>
+        <div class="te-field"><div class="te-label">成长情景</div><input class="te-input" id="te-gs-${symbol}" value="${escVal(v.growth_scenario||'')}"></div>
+      </div>
+    </div>
+    <div class="te-field"><div class="te-label">隐含假设</div>
+      <div id="te-assumptions-${symbol}">${assumRows}</div>
+      <button class="te-add" onclick="addAssumRow('${symbol}')" type="button">+ 添加假设</button></div>
+    <div class="te-field"><div class="te-label">财报验证</div>
+      <div class="te-inline" style="margin-bottom:8px">
+        <div class="te-field"><div class="te-label">期间</div><input class="te-input" id="te-fcp-${symbol}" value="${escVal(fc.period||'')}"></div>
+        <div class="te-field"><div class="te-label">判定</div><select class="te-select" id="te-fcv-${symbol}">${fcVerdictOpts(fc.verdict)}</select></div>
+      </div>
+      <div class="te-field"><div class="te-label">总结</div><textarea class="te-textarea" id="te-fcs-${symbol}" style="min-height:50px">${esc(fc.summary||'')}</textarea></div>
+      <div class="te-label" style="margin-top:8px">指标</div>
+      <div id="te-metrics-${symbol}">${metricRows}</div>
+      <button class="te-add" onclick="addMetricRow('${symbol}')" type="button">+ 添加指标</button></div>
+    <div class="te-field"><div class="te-label">主要风险 (每行一条)</div>
+      <textarea class="te-textarea" id="te-risks-${symbol}">${(d.risks||[]).join('\n')}</textarea></div>
+    <div class="te-field"><div class="te-label">关键跟踪指标 (每行一条)</div>
+      <textarea class="te-textarea" id="te-cat-${symbol}">${(d.catalysts||[]).join('\n')}</textarea></div>
+    <div class="te-field"><div class="te-label">数据来源 (每行一条)</div>
+      <textarea class="te-textarea" id="te-src-${symbol}" style="min-height:50px">${(d.sources||[]).join('\n')}</textarea></div>
+    <div class="te-actions">
+      <button class="te-btn-save" onclick="saveEditor('${symbol}')" type="button">保存</button>
+      <button class="te-btn-cancel" onclick="cancelEditor()" type="button">取消</button>
+    </div>
+  </div>`;
+}
+
+function addAssumRow(symbol) {
+  document.getElementById(`te-assumptions-${symbol}`).insertAdjacentHTML('beforeend', `<div class="te-row">
+    <input class="te-input te-a-text" value="" placeholder="假设内容">
+    <select class="te-select te-a-status">${statusOpts('tracking')}</select>
+    <input class="te-input te-a-evidence" value="" placeholder="证据">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`);
+}
+function addMetricRow(symbol) {
+  document.getElementById(`te-metrics-${symbol}`).insertAdjacentHTML('beforeend', `<div class="te-metric-row">
+    <input class="te-input te-m-name" value="" placeholder="指标">
+    <input class="te-input te-m-actual" value="" placeholder="实际值">
+    <select class="te-select te-m-vs">${vsOpts('neutral')}</select>
+    <input class="te-input te-m-note" value="" placeholder="备注">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`);
+}
+
+function openEditor(symbol, name) {
+  const merged = mergedThesisData();
+  const d = merged.holdings[symbol] || {
+    name: name || symbol, exchange: '', verdict: 'pending', thesis: '',
+    valuation: {}, assumptions: [], financial_check: { period: '', verdict: 'partial', summary: '', metrics: [] },
+    risks: [], catalysts: [], sources: [], last_reviewed: ''
+  };
+  const card = document.querySelector(`[data-thesis-sym="${symbol}"]`);
+  if (!card) return;
+  card.classList.add('open');
+  const body = card.querySelector('.thesis-body');
+  body.innerHTML = buildEditForm(symbol, d);
+  body.style.display = 'block';
+}
+
+function saveEditor(symbol) {
+  const val = id => (document.getElementById(id)?.value || '').trim();
+  const num = id => { const v = parseFloat(document.getElementById(id)?.value); return isNaN(v) ? null : v; };
+  const lines = id => val(id).split('\n').map(s => s.trim()).filter(Boolean);
+
+  const assumptions = [...document.querySelectorAll(`#te-assumptions-${symbol} .te-row`)].map(row => ({
+    text: row.querySelector('.te-a-text').value.trim(),
+    status: row.querySelector('.te-a-status').value,
+    evidence: row.querySelector('.te-a-evidence').value.trim()
+  })).filter(a => a.text);
+
+  const metrics = [...document.querySelectorAll(`#te-metrics-${symbol} .te-metric-row`)].map(row => ({
+    name: row.querySelector('.te-m-name').value.trim(),
+    actual: row.querySelector('.te-m-actual').value.trim(),
+    vs_thesis: row.querySelector('.te-m-vs').value,
+    note: row.querySelector('.te-m-note')?.value.trim() || ''
+  })).filter(m => m.name);
+
+  const holding = {
+    name: val(`te-name-${symbol}`), exchange: val(`te-exch-${symbol}`), verdict: val(`te-verdict-${symbol}`),
+    thesis: val(`te-thesis-${symbol}`),
+    valuation: {
+      value_target: num(`te-vt-${symbol}`), value_range: [num(`te-vrl-${symbol}`)||0, num(`te-vrh-${symbol}`)||0],
+      value_method: val(`te-vm-${symbol}`), growth_target: num(`te-gt-${symbol}`), growth_scenario: val(`te-gs-${symbol}`)
+    },
+    assumptions,
+    financial_check: { period: val(`te-fcp-${symbol}`), verdict: val(`te-fcv-${symbol}`), summary: val(`te-fcs-${symbol}`), metrics },
+    risks: lines(`te-risks-${symbol}`), catalysts: lines(`te-cat-${symbol}`), sources: lines(`te-src-${symbol}`),
+    last_reviewed: new Date().toISOString().slice(0, 10)
+  };
+
+  const edits = getLocalEdits();
+  edits[symbol] = holding;
+  saveLocalEdits(edits);
+  reRenderThesis();
+}
+
+function cancelEditor() { reRenderThesis(); }
+
+function reRenderThesis() {
+  const merged = mergedThesisData();
+  document.getElementById('thesis').innerHTML = renderThesis(merged, _marketStocks, _marketCrypto);
+  // Show toolbar if there are local edits
+  const hasEdits = Object.keys(getLocalEdits()).length > 0;
+  document.getElementById('thesis-toolbar').style.display = hasEdits ? 'flex' : 'none';
+}
+
+function exportThesisJson() {
+  const merged = mergedThesisData();
+  const json = JSON.stringify(merged, null, 2);
+  const blob = new Blob([json], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = 'thesis.json';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+}
+
+function resetThesisEdits() {
+  if (!confirm('确定要重置所有本地编辑吗？将恢复到 thesis.json 原始数据。')) return;
+  localStorage.removeItem(THESIS_KEY);
+  reRenderThesis();
+}
+
+// --- Thesis view renderer ---
 function renderThesis(thesisData, stocks, crypto) {
   if (!thesisData || !thesisData.holdings) return '<div class="loading">暂无数据</div>';
-
-  // Build price map for live prices
+  const localEdits = getLocalEdits();
   const priceMap = {};
   (stocks || []).forEach(s => { priceMap[s.symbol] = s.price; });
   (crypto || []).forEach(c => { priceMap[c.symbol] = c.price; });
-
-  // Get all portfolio symbols
   const allSymbols = PORTFOLIO.flatMap(g => g.items.map(i => ({ symbol: i.symbol, name: i.name })));
 
-  // Render cards: first those with thesis, then pending
-  const withThesis = [];
-  const pending = [];
+  const withThesis = [], pending = [];
   allSymbols.forEach(item => {
     const t = thesisData.holdings[item.symbol];
-    if (t) withThesis.push({ ...item, data: t });
+    if (t && t.thesis) withThesis.push({ ...item, data: t });
     else pending.push(item);
   });
 
@@ -850,121 +1130,98 @@ function renderThesis(thesisData, stocks, crypto) {
     const livePrice = priceMap[item.symbol];
     const verdictCls = 'verdict-' + (t.verdict || 'pending');
     const verdictLabel = VERDICT_LABELS[t.verdict] || '待分析';
+    const edited = localEdits[item.symbol] ? '<span class="thesis-edit-badge" title="本地已编辑"></span>' : '';
 
     // Valuation bar
     let valHtml = '';
-    if (t.valuation) {
+    if (t.valuation && t.valuation.value_target) {
       const v = t.valuation;
-      const price = livePrice || v.reference_price;
+      const price = livePrice || v.reference_price || 0;
       const lo = v.value_range ? v.value_range[0] : v.value_target * 0.8;
       const hi = v.growth_target || v.value_target * 2;
-      const range = hi - lo;
+      const range = hi - lo || 1;
       const valuePct = Math.max(0, Math.min(100, ((v.value_target - lo) / range) * 100));
       const growthPct = v.growth_target ? Math.max(0, Math.min(100, ((v.growth_target - lo) / range) * 100)) : null;
-      const pricePct = Math.max(0, Math.min(100, ((price - lo) / range) * 100));
-
+      const pricePct = price ? Math.max(0, Math.min(100, ((price - lo) / range) * 100)) : null;
       valHtml = `<div class="thesis-section"><div class="thesis-section-title">估值</div>
-        <div class="val-bar-wrap">
-          <div class="val-bar">
-            <div class="val-marker" style="left:${valuePct}%;background:var(--green)" title="价值目标 $${v.value_target}"></div>
-            <div class="val-marker" style="left:${pricePct}%;background:var(--text);width:3px" title="当前 $${price}"></div>
-            ${growthPct !== null ? `<div class="val-marker" style="left:${growthPct}%;background:var(--accent)" title="成长目标 $${v.growth_target}"></div>` : ''}
-          </div>
-          <div class="val-labels">
-            <span style="color:var(--green)">价值 $${v.value_target}</span>
-            <span class="val-current">现价 $${price ? price.toFixed(2) : '—'}</span>
-            ${v.growth_target ? `<span style="color:var(--accent)">成长 $${v.growth_target}</span>` : ''}
-          </div>
-        </div>
-        <div style="font-size:12px;color:var(--text-tertiary);margin-top:4px">${v.value_method || ''}</div>
+        <div class="val-bar-wrap"><div class="val-bar">
+          <div class="val-marker" style="left:${valuePct}%;background:var(--green)" title="价值 $${v.value_target}"></div>
+          ${pricePct!==null?`<div class="val-marker" style="left:${pricePct}%;background:var(--text);width:3px" title="现价 $${price}"></div>`:''}
+          ${growthPct!==null?`<div class="val-marker" style="left:${growthPct}%;background:var(--accent)" title="成长 $${v.growth_target}"></div>`:''}
+        </div><div class="val-labels">
+          <span style="color:var(--green)">价值 $${v.value_target}</span>
+          <span class="val-current">现价 $${price?price.toFixed(2):'—'}</span>
+          ${v.growth_target?`<span style="color:var(--accent)">成长 $${v.growth_target}</span>`:''}
+        </div></div>
+        <div style="font-size:12px;color:var(--text-tertiary);margin-top:4px">${v.value_method||''}</div>
       </div>`;
     }
 
     // Assumptions
     let assumHtml = '';
     if (t.assumptions && t.assumptions.length) {
-      const rows = t.assumptions.map(a => `<div class="assumption-row">
-        <span class="assumption-dot dot-${a.status}"></span>
-        <div>
-          <div class="assumption-text">${esc(a.text)}</div>
-          <div class="assumption-evidence">${esc(a.evidence)}</div>
-        </div>
-      </div>`).join('');
-      assumHtml = `<div class="thesis-section"><div class="thesis-section-title">隐含假设</div>${rows}</div>`;
+      assumHtml = `<div class="thesis-section"><div class="thesis-section-title">隐含假设</div>` +
+        t.assumptions.map(a => `<div class="assumption-row">
+          <span class="assumption-dot dot-${a.status}"></span>
+          <div><div class="assumption-text">${esc(a.text)}</div><div class="assumption-evidence">${esc(a.evidence)}</div></div>
+        </div>`).join('') + `</div>`;
     }
 
     // Financial check
     let fcHtml = '';
-    if (t.financial_check) {
+    if (t.financial_check && t.financial_check.period) {
       const fc = t.financial_check;
-      const vCls = fc.verdict === 'positive' ? 'fc-positive' : fc.verdict === 'partial' ? 'fc-partial' : 'fc-negative';
-      const vLabel = fc.verdict === 'positive' ? '匹配' : fc.verdict === 'partial' ? '部分匹配' : '不匹配';
-      const metricsHtml = (fc.metrics || []).map(m => {
-        const sigColor = m.vs_thesis === 'positive' ? 'var(--green)' : m.vs_thesis === 'negative' ? 'var(--red)' : 'var(--orange)';
-        return `<tr>
-          <td class="fc-metric"><span class="fc-signal" style="background:${sigColor}"></span>${m.name}</td>
-          <td class="fc-actual">${m.actual}</td>
-          <td class="fc-note">${esc(m.note)}</td>
-        </tr>`;
+      const vCls = fc.verdict==='positive'?'fc-positive':fc.verdict==='partial'?'fc-partial':'fc-negative';
+      const vLabel = fc.verdict==='positive'?'匹配':fc.verdict==='partial'?'部分匹配':'不匹配';
+      const mHtml = (fc.metrics||[]).map(m => {
+        const c = m.vs_thesis==='positive'?'var(--green)':m.vs_thesis==='negative'?'var(--red)':'var(--orange)';
+        return `<tr><td class="fc-metric"><span class="fc-signal" style="background:${c}"></span>${m.name}</td>
+          <td class="fc-actual">${m.actual}</td><td class="fc-note">${esc(m.note)}</td></tr>`;
       }).join('');
       fcHtml = `<div class="thesis-section"><div class="thesis-section-title">财报验证 · ${esc(fc.period)}</div>
         <div class="fc-summary"><span class="fc-verdict-tag ${vCls}">${vLabel}</span>${esc(fc.summary)}</div>
-        ${metricsHtml ? `<table class="fc-table"><thead><tr><th>指标</th><th>实际</th><th>备注</th></tr></thead><tbody>${metricsHtml}</tbody></table>` : ''}
-      </div>`;
+        ${mHtml?`<table class="fc-table"><thead><tr><th>指标</th><th>实际</th><th>备注</th></tr></thead><tbody>${mHtml}</tbody></table>`:''}</div>`;
     }
 
-    // Risks
-    let risksHtml = '';
-    if (t.risks && t.risks.length) {
-      risksHtml = `<div class="thesis-section"><div class="thesis-section-title">主要风险</div>
-        <ul class="thesis-list-items">${t.risks.map(r => `<li>${esc(r)}</li>`).join('')}</ul></div>`;
-    }
+    // Risks + Catalysts
+    const risksHtml = t.risks?.length ? `<div class="thesis-section"><div class="thesis-section-title">主要风险</div>
+      <ul class="thesis-list-items">${t.risks.map(r=>`<li>${esc(r)}</li>`).join('')}</ul></div>` : '';
+    const catHtml = t.catalysts?.length ? `<div class="thesis-section"><div class="thesis-section-title">关键跟踪指标</div>
+      <ul class="thesis-list-items">${t.catalysts.map(c=>`<li>${esc(c)}</li>`).join('')}</ul></div>` : '';
+    const footerHtml = (t.sources||t.last_reviewed) ? `<div class="thesis-section" style="opacity:0.7">
+      ${t.sources?`<div class="thesis-sources">来源: ${t.sources.map(s=>esc(s)).join(' · ')}</div>`:''}
+      ${t.last_reviewed?`<div class="thesis-reviewed">最后审阅: ${t.last_reviewed}</div>`:''}</div>` : '';
 
-    // Catalysts
-    let catHtml = '';
-    if (t.catalysts && t.catalysts.length) {
-      catHtml = `<div class="thesis-section"><div class="thesis-section-title">关键跟踪指标</div>
-        <ul class="thesis-list-items">${t.catalysts.map(c => `<li>${esc(c)}</li>`).join('')}</ul></div>`;
-    }
-
-    // Sources + reviewed
-    let footerHtml = '';
-    if (t.sources || t.last_reviewed) {
-      footerHtml = `<div class="thesis-section" style="opacity:0.7">
-        ${t.sources ? `<div class="thesis-sources">来源: ${t.sources.map(s => esc(s)).join(' · ')}</div>` : ''}
-        ${t.last_reviewed ? `<div class="thesis-reviewed">最后审阅: ${t.last_reviewed}</div>` : ''}
-      </div>`;
-    }
-
-    return `<div class="thesis-card">
+    return `<div class="thesis-card" data-thesis-sym="${item.symbol}">
       <div class="thesis-header" onclick="this.parentElement.classList.toggle('open')">
-        <span class="thesis-sym">${item.symbol}</span>
-        <span class="thesis-name">${t.name || item.name}</span>
-        ${t.exchange ? `<span class="thesis-exchange">${t.exchange}</span>` : ''}
+        <span class="thesis-sym">${item.symbol}${edited}</span>
+        <span class="thesis-name">${t.name||item.name}</span>
+        ${t.exchange?`<span class="thesis-exchange">${t.exchange}</span>`:''}
         <span class="thesis-verdict ${verdictCls}">${verdictLabel}</span>
+        <button class="thesis-edit-btn" onclick="event.stopPropagation();openEditor('${item.symbol}','${escVal(item.name)}')">编辑</button>
         <span class="thesis-chevron">▸</span>
       </div>
       <div class="thesis-body">
-        <div class="thesis-section"><div class="thesis-section-title">投资逻辑</div>
-          <div class="thesis-text">${esc(t.thesis)}</div>
-        </div>
+        <div class="thesis-section"><div class="thesis-section-title">投资逻辑</div><div class="thesis-text">${esc(t.thesis)}</div></div>
         ${valHtml}${assumHtml}${fcHtml}${risksHtml}${catHtml}${footerHtml}
       </div>
     </div>`;
   });
 
-  // Pending cards
+  // Pending cards (with edit button)
   if (pending.length) {
-    const pendingCards = pending.map(item =>
-      `<div class="thesis-card">
+    cards.push(pending.map(item => {
+      const edited = localEdits[item.symbol] ? '<span class="thesis-edit-badge" title="本地已编辑"></span>' : '';
+      return `<div class="thesis-card" data-thesis-sym="${item.symbol}">
         <div class="thesis-header" style="cursor:default">
-          <span class="thesis-sym">${item.symbol}</span>
+          <span class="thesis-sym">${item.symbol}${edited}</span>
           <span class="thesis-name">${item.name}</span>
           <span class="thesis-verdict verdict-pending">待分析</span>
+          <button class="thesis-edit-btn" onclick="event.stopPropagation();openEditor('${item.symbol}','${escVal(item.name)}')">编辑</button>
         </div>
-      </div>`
-    ).join('');
-    cards.push(pendingCards);
+        <div class="thesis-body"></div>
+      </div>`;
+    }).join(''));
   }
 
   return cards.join('');
@@ -981,12 +1238,18 @@ async function load() {
     return;
   }
 
+  // Store globally for thesis re-render
+  _marketStocks = d.stocks;
+  _marketCrypto = d.crypto;
+
   // Load thesis data
-  let thesisData = null;
   try {
     const tRes = await fetch('data/thesis.json?t=' + Date.now());
-    thesisData = await tRes.json();
-  } catch { /* thesis is optional */ }
+    _originalThesis = await tRes.json();
+  } catch { _originalThesis = { updated_at: '', holdings: {} }; }
+
+  const merged = mergedThesisData();
+  const hasEdits = Object.keys(getLocalEdits()).length > 0;
 
   const sections = [
     ['stocks', () => d.stocks?.map(renderPriceCard).join('')],
@@ -995,7 +1258,7 @@ async function load() {
     ['earnings', () => d.earnings ? renderEarnings(d.earnings) : null],
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
     ['portfolio', () => renderPortfolio(d.stocks, d.crypto, d.portfolio_news)],
-    ['thesis', () => thesisData ? renderThesis(thesisData, d.stocks, d.crypto) : null],
+    ['thesis', () => renderThesis(merged, d.stocks, d.crypto)],
     ['news', () => d.news ? renderNews(d.news) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
     ['tweets', () => d.tweets ? renderTweets(d.tweets) : null],
@@ -1009,6 +1272,7 @@ async function load() {
       document.getElementById(id).innerHTML = `<div class="loading">Error: ${e.message}</div>`;
     }
   }
+  document.getElementById('thesis-toolbar').style.display = hasEdits ? 'flex' : 'none';
   if (d.updated_at) {
     const t = new Date(d.updated_at);
     document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
