@@ -369,6 +369,77 @@
   /* Pending card */
   .thesis-pending { font-size: 13px; color: var(--text-tertiary); padding: 4px 0; }
 
+  /* === Fund Tracking === */
+  .funds-divider {
+    font-size: 13px; font-weight: 600; color: var(--text-secondary);
+    letter-spacing: 1.5px; text-transform: uppercase; margin: 48px 0 16px;
+    padding-top: 24px; border-top: 2px solid var(--border);
+  }
+  .fund-card {
+    background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: var(--card-radius); box-shadow: var(--shadow); overflow: hidden; margin-bottom: 16px;
+  }
+  .fund-header {
+    display: flex; align-items: center; gap: 10px; padding: 20px 24px;
+    cursor: pointer; transition: background 0.15s; flex-wrap: wrap;
+  }
+  .fund-header:hover { background: var(--bg-tertiary); }
+  .fund-name { font-size: 18px; font-weight: 700; color: var(--text); }
+  .fund-manager { font-size: 13px; color: var(--text-secondary); }
+  .fund-meta-pill {
+    font-size: 11px; padding: 2px 8px; border-radius: 6px;
+    background: var(--bg-tertiary); color: var(--text-tertiary); font-weight: 500;
+  }
+  .fund-meta-pill.update-due { background: rgba(248,113,113,0.12); color: var(--red); }
+  .fund-chevron { color: var(--text-tertiary); font-size: 14px; transition: transform 0.25s; margin-left: auto; }
+  .fund-card.open .fund-chevron { transform: rotate(90deg); }
+  .fund-body { display: none; padding: 0 24px 24px; }
+  .fund-card.open .fund-body { display: block; }
+
+  .fund-section { margin-bottom: 20px; }
+  .fund-section:last-child { margin-bottom: 0; }
+  .fund-section-title {
+    font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    letter-spacing: 1px; text-transform: uppercase; margin-bottom: 10px;
+    padding-bottom: 6px; border-bottom: 1px solid var(--border);
+  }
+  .fund-method { font-size: 13px; color: var(--text-secondary); line-height: 1.7; }
+
+  .fund-thesis-item {
+    padding: 10px 0; border-bottom: 1px solid var(--border);
+  }
+  .fund-thesis-item:last-child { border-bottom: none; }
+  .fund-thesis-name { font-size: 14px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+  .fund-thesis-name .ft-status {
+    display: inline-block; font-size: 10px; padding: 1px 6px; border-radius: 4px;
+    font-weight: 600; margin-left: 6px; vertical-align: middle;
+  }
+  .ft-status.active { background: rgba(52,211,153,0.15); color: var(--green); }
+  .ft-status.watching { background: rgba(251,191,36,0.15); color: var(--orange); }
+  .ft-status.closed { background: var(--bg-tertiary); color: var(--text-tertiary); }
+  .fund-thesis-summary { font-size: 13px; color: var(--text-tertiary); line-height: 1.6; }
+
+  .fund-pos-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  .fund-pos-table th {
+    font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    text-align: left; padding: 6px 10px; letter-spacing: 0.3px;
+  }
+  .fund-pos-table td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .fund-pos-table tr:last-child td { border-bottom: none; }
+  .fund-pos-table tr:hover { background: var(--bg-tertiary); }
+  .fund-pos-table .fp-sym { font-weight: 600; color: var(--text); white-space: nowrap; }
+  .fund-pos-table .fp-theme {
+    font-size: 11px; padding: 1px 6px; border-radius: 4px;
+    background: rgba(232,169,48,0.1); color: var(--accent); white-space: nowrap;
+  }
+  .fund-pos-table .fp-logic { color: var(--text-secondary); line-height: 1.5; }
+  .fp-conf { display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-right: 4px; }
+  .fp-conf.high { background: var(--green); }
+  .fp-conf.medium { background: var(--orange); }
+  .fp-conf.low { background: var(--text-tertiary); }
+  .fund-source { font-size: 12px; color: var(--text-tertiary); margin-top: 12px; }
+  .fund-source a { color: var(--accent); }
+
   /* === Thesis Editor === */
   .thesis-toolbar {
     display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
@@ -519,6 +590,9 @@
     .te-inline { grid-template-columns: 1fr 1fr; }
     .te-metric-row { grid-template-columns: 80px 1fr 70px 28px; }
     .te-metric-row .te-m-note { display: none; }
+    .fund-pos-table .fp-logic { font-size: 11px; }
+    .fund-header { padding: 16px; }
+    .fund-body { padding: 0 16px 20px; }
   }
 </style>
 </head>
@@ -592,6 +666,15 @@
         <button class="tt-btn" onclick="resetThesisEdits()">重置编辑</button>
       </div>
       <div class="thesis-list" id="thesis"><div class="loading">Loading...</div></div>
+    </section>
+    <section>
+      <h2 class="funds-divider">基金跟踪</h2>
+      <div class="thesis-toolbar" id="funds-toolbar" style="display:none">
+        <span class="tt-hint">基金编辑保存在浏览器本地</span>
+        <button class="tt-btn" onclick="exportFundsJson()">导出 JSON</button>
+        <button class="tt-btn" onclick="resetFundsEdits()">重置编辑</button>
+      </div>
+      <div id="funds"><div class="loading">Loading...</div></div>
     </section>
   </div>
 
@@ -1109,6 +1192,212 @@ function resetThesisEdits() {
   reRenderThesis();
 }
 
+// === Fund Tracking ===
+const FUNDS_KEY = 'fl_funds_edits';
+let _originalFunds = null;
+
+function getFundsEdits() { try { return JSON.parse(localStorage.getItem(FUNDS_KEY)) || {}; } catch { return {}; } }
+function saveFundsEdits(edits) { localStorage.setItem(FUNDS_KEY, JSON.stringify(edits)); }
+function mergedFundsData() {
+  const base = _originalFunds || { funds: [] };
+  const edits = getFundsEdits();
+  const merged = { ...base, funds: base.funds.map(f => edits[f.id] ? { ...f, ...edits[f.id] } : f) };
+  // Add new funds from edits that don't exist in base
+  for (const [id, data] of Object.entries(edits)) {
+    if (!merged.funds.find(f => f.id === id)) merged.funds.push({ id, ...data });
+  }
+  return merged;
+}
+
+function renderFunds(fundsData) {
+  if (!fundsData || !fundsData.funds || !fundsData.funds.length) return '<div class="loading">暂无基金数据</div>';
+  const edits = getFundsEdits();
+  const today = new Date().toISOString().slice(0, 7); // YYYY-MM
+
+  return fundsData.funds.map(fund => {
+    const edited = edits[fund.id] ? '<span class="thesis-edit-badge" title="本地已编辑"></span>' : '';
+    const isUpdateDue = fund.next_update && fund.next_update <= today;
+    const updateCls = isUpdateDue ? 'update-due' : '';
+
+    // Theses
+    const thesesHtml = (fund.theses || []).map(t => `<div class="fund-thesis-item">
+      <div class="fund-thesis-name">${esc(t.name)} <span class="ft-status ${t.status||'active'}">${t.status==='watching'?'观察中':t.status==='closed'?'已关闭':'活跃'}</span></div>
+      <div class="fund-thesis-summary">${esc(t.summary)}</div>
+    </div>`).join('');
+
+    // Positions table
+    const posHtml = (fund.positions || []).map(p => {
+      const confCls = p.confidence || 'high';
+      const confLabel = confCls === 'high' ? '原文亲述' : confCls === 'medium' ? '媒体转述' : '仅提及';
+      return `<tr>
+        <td class="fp-sym">${p.symbol}</td>
+        <td>${esc(p.name)}</td>
+        <td><span class="fp-theme">${esc(p.theme)}</span></td>
+        <td class="fp-logic">${esc(p.logic)}</td>
+        <td><span class="fp-conf ${confCls}"></span>${confLabel}</td>
+      </tr>`;
+    }).join('');
+
+    return `<div class="fund-card" data-fund-id="${fund.id}">
+      <div class="fund-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="fund-name">${esc(fund.name)}${edited}</span>
+        <span class="fund-manager">${esc(fund.manager || '')}</span>
+        <span class="fund-meta-pill">${esc(fund.update_frequency || '')}</span>
+        <span class="fund-meta-pill ${updateCls}">${isUpdateDue ? '需要更新' : '更新于 '+fund.last_updated}</span>
+        <button class="thesis-edit-btn" onclick="event.stopPropagation();openFundEditor('${fund.id}')">编辑</button>
+        <span class="fund-chevron">▸</span>
+      </div>
+      <div class="fund-body">
+        ${fund.methodology ? `<div class="fund-section"><div class="fund-section-title">方法论</div><div class="fund-method">${esc(fund.methodology)}</div></div>` : ''}
+        ${thesesHtml ? `<div class="fund-section"><div class="fund-section-title">核心 Thesis (${fund.theses.length})</div>${thesesHtml}</div>` : ''}
+        ${posHtml ? `<div class="fund-section"><div class="fund-section-title">持仓标的 (${fund.positions.length})</div>
+          <div style="overflow-x:auto"><table class="fund-pos-table"><thead><tr><th>代码</th><th>名称</th><th>主题</th><th>投资逻辑</th><th>可信度</th></tr></thead>
+          <tbody>${posHtml}</tbody></table></div></div>` : ''}
+        ${fund.source_url || fund.twitter ? `<div class="fund-source">
+          ${fund.source_url ? `来源: <a href="${fund.source_url}" target="_blank">${fund.source_url}</a>` : ''}
+          ${fund.twitter ? ` · <a href="https://x.com/${fund.twitter.replace('@','')}" target="_blank">${fund.twitter}</a>` : ''}
+        </div>` : ''}
+      </div>
+    </div>`;
+  }).join('') + `<div style="margin-top:12px">
+    <button class="te-add" onclick="openFundEditor('__new__')" style="max-width:300px">+ 添加基金</button>
+  </div>`;
+}
+
+function openFundEditor(fundId) {
+  const merged = mergedFundsData();
+  const isNew = fundId === '__new__';
+  const fund = isNew ? {
+    id: '', name: '', manager: '', source_url: '', twitter: '', update_frequency: '季度更新',
+    last_updated: new Date().toISOString().slice(0,10), next_update: '', methodology: '',
+    theses: [], positions: []
+  } : merged.funds.find(f => f.id === fundId);
+  if (!fund) return;
+
+  const card = isNew ? null : document.querySelector(`[data-fund-id="${fundId}"]`);
+
+  // Build theses rows
+  const thesesRows = (fund.theses||[]).map(t => `<div class="te-row" style="align-items:flex-start">
+    <input class="te-input te-ft-name" value="${escVal(t.name)}" placeholder="Thesis名称" style="width:200px;flex:none">
+    <select class="te-select te-ft-status" style="width:80px;flex:none">
+      <option value="active" ${t.status==='active'?'selected':''}>活跃</option>
+      <option value="watching" ${t.status==='watching'?'selected':''}>观察</option>
+      <option value="closed" ${t.status==='closed'?'selected':''}>关闭</option>
+    </select>
+    <input class="te-input te-ft-summary" value="${escVal(t.summary)}" placeholder="摘要">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`).join('');
+
+  // Build positions as textarea (one per line: symbol | name | theme | logic | confidence)
+  const posLines = (fund.positions||[]).map(p => `${p.symbol}\t${p.name}\t${p.theme}\t${p.logic}\t${p.confidence||'high'}`).join('\n');
+
+  const formHtml = `<div class="thesis-edit-form" id="fund-edit-${fundId}">
+    <div class="te-field"><div class="te-label">基本信息</div>
+      <div class="te-inline">
+        ${isNew ? `<div class="te-field"><div class="te-label">ID (英文)</div><input class="te-input" id="fe-id-${fundId}" value=""></div>` : ''}
+        <div class="te-field"><div class="te-label">基金名称</div><input class="te-input" id="fe-name-${fundId}" value="${escVal(fund.name)}"></div>
+        <div class="te-field"><div class="te-label">管理人</div><input class="te-input" id="fe-mgr-${fundId}" value="${escVal(fund.manager||'')}"></div>
+        <div class="te-field"><div class="te-label">更新频率</div><input class="te-input" id="fe-freq-${fundId}" value="${escVal(fund.update_frequency||'')}"></div>
+      </div>
+      <div class="te-inline" style="margin-top:8px">
+        <div class="te-field"><div class="te-label">网站</div><input class="te-input" id="fe-url-${fundId}" value="${escVal(fund.source_url||'')}"></div>
+        <div class="te-field"><div class="te-label">Twitter</div><input class="te-input" id="fe-tw-${fundId}" value="${escVal(fund.twitter||'')}"></div>
+        <div class="te-field"><div class="te-label">下次更新</div><input class="te-input" id="fe-next-${fundId}" value="${escVal(fund.next_update||'')}" placeholder="YYYY-MM"></div>
+      </div>
+    </div>
+    <div class="te-field"><div class="te-label">方法论</div>
+      <textarea class="te-textarea" id="fe-method-${fundId}">${esc(fund.methodology||'')}</textarea></div>
+    <div class="te-field"><div class="te-label">核心 Thesis</div>
+      <div id="fe-theses-${fundId}">${thesesRows}</div>
+      <button class="te-add" onclick="addFundThesisRow('${fundId}')" type="button">+ 添加 Thesis</button></div>
+    <div class="te-field"><div class="te-label">持仓 (Tab分隔: 代码 ⇥ 名称 ⇥ 主题 ⇥ 逻辑 ⇥ 可信度[high/medium/low])</div>
+      <textarea class="te-textarea" id="fe-pos-${fundId}" style="min-height:200px;font-size:12px;font-family:monospace">${posLines}</textarea></div>
+    <div class="te-actions">
+      <button class="te-btn-save" onclick="saveFundEditor('${fundId}',${isNew})" type="button">保存</button>
+      <button class="te-btn-cancel" onclick="reRenderFunds()" type="button">取消</button>
+    </div>
+  </div>`;
+
+  if (isNew) {
+    // Insert form at the end of funds list
+    const container = document.getElementById('funds');
+    container.insertAdjacentHTML('beforeend', `<div class="fund-card open" data-fund-id="__new__">
+      <div class="fund-header" style="cursor:default"><span class="fund-name">新增基金</span></div>
+      <div class="fund-body" style="display:block">${formHtml}</div>
+    </div>`);
+    document.querySelector('[data-fund-id="__new__"]').scrollIntoView({ behavior: 'smooth' });
+  } else {
+    card.classList.add('open');
+    const body = card.querySelector('.fund-body');
+    body.innerHTML = formHtml;
+    body.style.display = 'block';
+  }
+}
+
+function addFundThesisRow(fundId) {
+  document.getElementById(`fe-theses-${fundId}`).insertAdjacentHTML('beforeend', `<div class="te-row" style="align-items:flex-start">
+    <input class="te-input te-ft-name" value="" placeholder="Thesis名称" style="width:200px;flex:none">
+    <select class="te-select te-ft-status" style="width:80px;flex:none">
+      <option value="active" selected>活跃</option><option value="watching">观察</option><option value="closed">关闭</option>
+    </select>
+    <input class="te-input te-ft-summary" value="" placeholder="摘要">
+    <button class="te-remove" onclick="this.parentElement.remove()" type="button">&times;</button>
+  </div>`);
+}
+
+function saveFundEditor(fundId, isNew) {
+  const val = id => (document.getElementById(id)?.value || '').trim();
+  const actualId = isNew ? val(`fe-id-${fundId}`) : fundId;
+  if (!actualId) { alert('请填写基金 ID'); return; }
+
+  const theses = [...document.querySelectorAll(`#fe-theses-${fundId} .te-row`)].map(row => ({
+    name: row.querySelector('.te-ft-name').value.trim(),
+    status: row.querySelector('.te-ft-status').value,
+    summary: row.querySelector('.te-ft-summary').value.trim()
+  })).filter(t => t.name);
+
+  const posText = val(`fe-pos-${fundId}`);
+  const positions = posText.split('\n').map(line => {
+    const parts = line.split('\t');
+    if (parts.length < 2 || !parts[0].trim()) return null;
+    return {
+      symbol: parts[0].trim(), name: parts[1]?.trim() || '',
+      theme: parts[2]?.trim() || '', logic: parts[3]?.trim() || '',
+      confidence: parts[4]?.trim() || 'high'
+    };
+  }).filter(Boolean);
+
+  const fundData = {
+    id: actualId, name: val(`fe-name-${fundId}`), manager: val(`fe-mgr-${fundId}`),
+    source_url: val(`fe-url-${fundId}`), twitter: val(`fe-tw-${fundId}`),
+    update_frequency: val(`fe-freq-${fundId}`), next_update: val(`fe-next-${fundId}`),
+    last_updated: new Date().toISOString().slice(0, 10),
+    methodology: val(`fe-method-${fundId}`), theses, positions
+  };
+
+  const edits = getFundsEdits();
+  edits[actualId] = fundData;
+  saveFundsEdits(edits);
+  reRenderFunds();
+}
+
+function reRenderFunds() {
+  const merged = mergedFundsData();
+  document.getElementById('funds').innerHTML = renderFunds(merged);
+  document.getElementById('funds-toolbar').style.display = Object.keys(getFundsEdits()).length ? 'flex' : 'none';
+}
+
+function exportFundsJson() {
+  const merged = mergedFundsData();
+  const blob = new Blob([JSON.stringify(merged, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'funds.json';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+}
+function resetFundsEdits() {
+  if (!confirm('确定重置所有基金本地编辑？')) return;
+  localStorage.removeItem(FUNDS_KEY); reRenderFunds();
+}
+
 // --- Thesis view renderer ---
 function renderThesis(thesisData, stocks, crypto) {
   if (!thesisData || !thesisData.holdings) return '<div class="loading">暂无数据</div>';
@@ -1242,14 +1531,20 @@ async function load() {
   _marketStocks = d.stocks;
   _marketCrypto = d.crypto;
 
-  // Load thesis data
+  // Load thesis + funds data
   try {
     const tRes = await fetch('data/thesis.json?t=' + Date.now());
     _originalThesis = await tRes.json();
   } catch { _originalThesis = { updated_at: '', holdings: {} }; }
+  try {
+    const fRes = await fetch('data/funds.json?t=' + Date.now());
+    _originalFunds = await fRes.json();
+  } catch { _originalFunds = { funds: [] }; }
 
   const merged = mergedThesisData();
+  const mergedFunds = mergedFundsData();
   const hasEdits = Object.keys(getLocalEdits()).length > 0;
+  const hasFundsEdits = Object.keys(getFundsEdits()).length > 0;
 
   const sections = [
     ['stocks', () => d.stocks?.map(renderPriceCard).join('')],
@@ -1259,6 +1554,7 @@ async function load() {
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
     ['portfolio', () => renderPortfolio(d.stocks, d.crypto, d.portfolio_news)],
     ['thesis', () => renderThesis(merged, d.stocks, d.crypto)],
+    ['funds', () => renderFunds(mergedFunds)],
     ['news', () => d.news ? renderNews(d.news) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
     ['tweets', () => d.tweets ? renderTweets(d.tweets) : null],
@@ -1273,6 +1569,7 @@ async function load() {
     }
   }
   document.getElementById('thesis-toolbar').style.display = hasEdits ? 'flex' : 'none';
+  document.getElementById('funds-toolbar').style.display = hasFundsEdits ? 'flex' : 'none';
   if (d.updated_at) {
     const t = new Date(d.updated_at);
     document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });

@@ -1,0 +1,78 @@
+{
+  "updated_at": "2026-06-09",
+  "funds": [
+    {
+      "id": "citrini",
+      "name": "Citrini Research",
+      "manager": "James van Geelen",
+      "source_url": "https://citriniresearch.com",
+      "twitter": "@Citrini7",
+      "update_frequency": "季度更新",
+      "last_updated": "2026-06-09",
+      "next_update": "2026-09",
+      "methodology": "主题投资 + 二阶思维。核心不是预测,而是「被提前准备好」。四个思维模具: (1) 投瓶颈,不投全局——找卡脖子的那一环; (2) 找被错杀的二阶受益者——市场只盯造 AI 的公司,他找用 AI 受益但估值没反映的; (3) 用筛选器把定性直觉量化——每个主题都构建打分系统(Bureaucracy Score, Oligopoly Score 等),把感觉变成可复制的 z-score 排名; (4) 结构化多空对冲——不裸多一个主题,多A/空B,只留真正想押的变量。",
+      "theses": [
+        {
+          "name": "Token Panic (代币恐慌)",
+          "status": "active",
+          "summary": "AI 叙事拐点。agent 和推理模型 token 消耗数量级增长,OpenAI/Anthropic/Microsoft 同时转向按用量计费——免费AI时代结束。成本和效率越来越重要: 本地推理、小型化、智能路由、可观测性、高效模型架构将增长。开源/折扣模型(Qwen 3.7, DeepSeek V4)便宜10-25倍会抢份额。"
+        },
+        {
+          "name": "Google + TPU 产业链",
+          "status": "active",
+          "summary": "Google 是「最不对称的大型 AI 赢家」。TPU 自研路线 + 先进封装/HBM/PCB/光器件全产业链受益。2025年8月首提后GOOG翻倍。"
+        },
+        {
+          "name": "Bullshit Jobs (狗屁工作)",
+          "status": "active",
+          "summary": "Trade 1/26。与其押造AI的公司,不如押因AI裁员而利润率改善的公司。构建 AI Bureaucracy Alpha 打分——人均净利润低+管理费用率高=官僚臃肿,叠加利润率低于行业。这些公司(如Accenture)被当成AI输家打压,但既能自降本又能帮客户降本,是被错杀的机会。"
+        },
+        {
+          "name": "Inference on Device (端侧推理)",
+          "status": "active",
+          "summary": "Trade 2/26。三支柱: (1) always-on agent 经济性偏端侧; (2) 延迟>200ms则不实用; (3) 硬件快速进步(苹果神经引擎每代~2x)。交易结构: 多手机端推理使能者(联发科/Murata),空被内存涨价烧到的消费电子。衍生: Sims Ltd(废金属回收)——数据中心芯片报废是带时滞的确定性收入。"
+        },
+        {
+          "name": "PTSD (创伤后供给紊乱)",
+          "status": "active",
+          "summary": "Trade 3/26。找曾盲目扩产→崩盘→不敢再扩产的周期性行业。需求回来时不扩产而是涨价。四条件: 寡头结构、近期有惨烈周期、需求反弹、产能按兵不动。案例: 燃气轮机(GEV/Siemens Energy)、内存(MU/SK Hynix)、海上钻井(零新船在建)、锂、铜、卡车运输。"
+        },
+        {
+          "name": "区域 Thesis: 韩国+台湾",
+          "status": "active",
+          "summary": "韩国: 看多KOSPI,绑定财政刺激(此后涨三倍)。台湾: TWSE跑赢QQQ超60%。欧盟: 获利了结。中国: 注意到开源模型极致性价比正改变token经济学。"
+        }
+      ],
+      "positions": [
+        { "symbol": "GOOGL", "name": "Alphabet", "theme": "Google + TPU", "logic": "最不对称的大型AI赢家; TPU自研路线", "confidence": "high" },
+        { "symbol": "2454.TT", "name": "联发科 MediaTek", "theme": "端侧推理", "logic": "手机端推理使能者,估值低于博通(<20x vs >80x),兼有云端TPU上行", "confidence": "high" },
+        { "symbol": "6981.JP", "name": "村田 Murata", "theme": "端侧推理", "logic": "MLCC供应商,单台AI服务器主板用量是矿机10倍", "confidence": "high" },
+        { "symbol": "SGM.AU", "name": "Sims Ltd", "theme": "All Chips Go to Heaven", "logic": "废金属/IT回收,数据中心芯片报废带时滞确定性收入,吃内存涨价红利", "confidence": "high" },
+        { "symbol": "ACN", "name": "Accenture", "theme": "Bullshit Jobs", "logic": "被当成AI输家打压,实为既能自降本又能帮客户降本的错杀标的; 已裁员约1.1万", "confidence": "high" },
+        { "symbol": "CAP.FP", "name": "Capgemini", "theme": "Bullshit Jobs", "logic": "同ACN逻辑,高Bureaucracy Score", "confidence": "high" },
+        { "symbol": "BT/A.LN", "name": "BT Group", "theme": "Bullshit Jobs", "logic": "原计划裁4万,因AI效率拟进一步加码", "confidence": "high" },
+        { "symbol": "CHRW", "name": "CH Robinson", "theme": "Bullshit Jobs / 卡车", "logic": "已在财报电话会大谈AI驱动效率,作为正面样本", "confidence": "high" },
+        { "symbol": "ENR.GR", "name": "西门子能源 Siemens Energy", "theme": "PTSD / 燃气轮机", "logic": "燃气轮机寡头,需求翻倍却只小幅扩产、反提毛利目标; SGT800产品占优", "confidence": "high" },
+        { "symbol": "GEV", "name": "GE Vernova", "theme": "PTSD / 燃气轮机", "logic": "产能20→24GW克制扩张,EBITDA利润率目标14%→20%", "confidence": "high" },
+        { "symbol": "MU", "name": "美光 Micron", "theme": "PTSD / 内存", "logic": "DRAM/NAND三轮崩溃后供给纪律,今年涨170-260%", "confidence": "high" },
+        { "symbol": "000660.KS", "name": "SK海力士 SK Hynix", "theme": "PTSD / 内存", "logic": "放缓产能转换,供给纪律", "confidence": "high" },
+        { "symbol": "WDC", "name": "Western Digital", "theme": "PTSD / 内存", "logic": "同内存组逻辑", "confidence": "high" },
+        { "symbol": "ENS", "name": "EnerSys", "theme": "PTSD / 电池", "logic": "管理层教科书式PTSD: 增回购提分红,15x历史PE", "confidence": "high" },
+        { "symbol": "RIG", "name": "Transocean", "theme": "PTSD / 海上钻井", "logic": "零新钻井船在建,day-rate多年上行", "confidence": "high" },
+        { "symbol": "VAL", "name": "Valaris", "theme": "PTSD / 海上钻井", "logic": "同海上钻井供给极紧逻辑", "confidence": "high" },
+        { "symbol": "NE", "name": "Noble Corp", "theme": "PTSD / 海上钻井", "logic": "供给非弹性", "confidence": "high" },
+        { "symbol": "SQM", "name": "SQM", "theme": "PTSD / 锂", "logic": "锂80%+崩盘后减capex,PTSD早期阶段", "confidence": "high" },
+        { "symbol": "ALB", "name": "雅宝 Albemarle", "theme": "PTSD / 锂", "logic": "同锂供给收缩逻辑", "confidence": "high" },
+        { "symbol": "BHP", "name": "BHP", "theme": "PTSD / 铜", "logic": "铜矿都不敢建新矿,增量供给高度集中", "confidence": "high" },
+        { "symbol": "FCX", "name": "自由港 Freeport", "theme": "PTSD / 铜", "logic": "同铜供给受限", "confidence": "high" },
+        { "symbol": "ODFL", "name": "Old Dominion", "theme": "PTSD / 卡车", "logic": "LTL运输出清后供给收缩,复苏红利归大玩家", "confidence": "high" },
+        { "symbol": "JBHT", "name": "JB Hunt", "theme": "PTSD / 卡车", "logic": "同卡车运输复苏逻辑", "confidence": "high" },
+        { "symbol": "TXN", "name": "德州仪器 TI", "theme": "PTSD / 模拟芯片", "logic": "资本纪律强,7-10年设计绑定,尚待需求复苏", "confidence": "high" },
+        { "symbol": "VWS.DC", "name": "Vestas Wind", "theme": "PTSD 观察", "logic": "高寡头/创伤分,需求正常化但尚无成本纪律,待观察", "confidence": "high" },
+        { "symbol": "TSMC", "name": "台积电", "theme": "TPU 产业链", "logic": "先进封装CoWoS受益于TPU/ASIC放量", "confidence": "medium" },
+        { "symbol": "SHOP", "name": "Shopify", "theme": "新idea", "logic": "6月报告点名,正文在付费墙后,逻辑未公开", "confidence": "low" },
+        { "symbol": "HYPE", "name": "Hyperliquid", "theme": "新idea", "logic": "6月报告点名,加密永续合约DEX,逻辑未公开", "confidence": "low" }
+      ]
+    }
+  ]
+}
