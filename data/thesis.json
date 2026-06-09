@@ -1,0 +1,79 @@
+{
+  "updated_at": "2026-06-09",
+  "holdings": {
+    "CRCL": {
+      "name": "Circle Internet Group",
+      "exchange": "NYSE",
+      "verdict": "hold_avoid",
+      "thesis": "全球第二大稳定币 USDC 的发行方,本质是\"数字美元货币基金\"——约 94% 收入来自储备利息。站在稳定币世代级增长的风口(链上交易量份额已第一 ~63%),但盈利高度依赖利率、且约 60% 经济利益分给分销商 Coinbase。当前价位在价值框架下偏贵;仅在\"10 倍增长 + 份额守住\"的成长剧本下才便宜。高度依赖假设的标的,持有/回避偏向,仅适合高风险成长配置。",
+      "valuation": {
+        "value_target": 50,
+        "value_range": [40, 65],
+        "value_method": "DCF + P/E + P/S + EV/EBITDA 四法综合中值",
+        "growth_target": 168,
+        "growth_scenario": "稳定币市场 10x + 份额不变 + 5年后利率 2%",
+        "reference_price": 92.69,
+        "reference_date": "2026-06"
+      },
+      "assumptions": [
+        {
+          "text": "稳定币总市场 5 年 10 倍至 $3.2T",
+          "status": "tracking",
+          "evidence": "当前 $320B; Citi 基准 $1.9T / 乐观 $4T; GENIUS Act 顺风"
+        },
+        {
+          "text": "USDC 市场份额维持 ~24%",
+          "status": "at_risk",
+          "evidence": "2026 年以来被 Tether 拉开(USDT +2.1% vs USDC +1.4%),份额 25%→24%"
+        },
+        {
+          "text": "Coinbase 分销分成改善(当前 ~62%)",
+          "status": "not_met",
+          "evidence": "协议 2026/8 到期,默认自动续约;Bernstein 预计到 2027 仅\"小幅降至约 50%\""
+        },
+        {
+          "text": "非利息收入规模化(CPN、Arc、Agent Stack)",
+          "status": "tracking",
+          "evidence": "Q1'26 $42M(+100% YoY),FY2026 指引 $150-170M,但仅占总收入 ~6%"
+        },
+        {
+          "text": "利率维持有利水平(储备收益率)",
+          "status": "at_risk",
+          "evidence": "储备收益率同比 −66bps; 美联储降息路径持续; ~94% 收入靠利息"
+        }
+      ],
+      "financial_check": {
+        "period": "Q1 2026",
+        "verdict": "partial",
+        "summary": "收入增长和流通量增长符合预期,但分销成本高企 + 净利环比下降 + 份额压力不减",
+        "metrics": [
+          { "name": "总收入", "actual": "$694M (+20% YoY)", "vs_thesis": "neutral", "note": "增速明显放缓(Q4 +77%)" },
+          { "name": "分销成本占比", "actual": "62.1%", "vs_thesis": "negative", "note": "高于成长模型假设 55%,侵蚀利润" },
+          { "name": "净利润", "actual": "$55.2M (−15% QoQ)", "vs_thesis": "negative", "note": "环比下降,EPS $0.21" },
+          { "name": "调整后 EBITDA", "actual": "$151M (53% 利润率)", "vs_thesis": "positive", "note": "利润率健康,YoY +24%" },
+          { "name": "USDC 流通量", "actual": "$77B (+28% YoY)", "vs_thesis": "positive", "note": "增长但市值份额被 Tether 拉开" },
+          { "name": "资产负债表", "actual": "零有息负债, 净现金 $1.62B", "vs_thesis": "positive", "note": "财务健康" }
+        ]
+      },
+      "risks": [
+        "利率敏感(最大): ~94% 收入靠储备利息,降息直接压缩盈利",
+        "Coinbase 分销经济学: ~50-100% 伙伴端储备利息流向 Coinbase,占比仍升",
+        "竞争与费率压缩: Tether、PayPal PYUSD、Stripe/Bridge、银行稳定币",
+        "业务集中: 单一产品(USDC),加密周期依赖"
+      ],
+      "catalysts": [
+        "利率路径: 美联储降息节奏 + 储备收益率趋势",
+        "Coinbase 续约(2026/8 到期): 是否改善条款",
+        "USDC 市场份额: 能否止跌回升(对抗 Tether)",
+        "非利息收入: CPN(年化 $8.3B)、Arc 主网进展"
+      ],
+      "sources": [
+        "Circle Q1'26 10-Q (SEC EDGAR)",
+        "Circle Q4/FY2025 业绩新闻稿",
+        "Decrypt (Coinbase 分成, S-1)",
+        "Citi Stablecoins 2030 报告"
+      ],
+      "last_reviewed": "2026-06-09"
+    }
+  }
+}

@@ -265,6 +265,110 @@
   .tweet-item .tweet-meta a:hover { color: var(--accent); }
   .tweet-empty { font-size: 13px; color: var(--text-tertiary); padding: 24px 0; text-align: center; }
 
+  /* === Thesis === */
+  .thesis-list { display: flex; flex-direction: column; gap: 16px; }
+  .thesis-card {
+    background: var(--bg-secondary); border: 1px solid var(--border);
+    border-radius: var(--card-radius); box-shadow: var(--shadow); overflow: hidden;
+  }
+  .thesis-header {
+    display: flex; align-items: center; gap: 12px; padding: 20px 24px;
+    cursor: pointer; transition: background 0.15s;
+  }
+  .thesis-header:hover { background: var(--bg-tertiary); }
+  .thesis-sym { font-size: 18px; font-weight: 700; color: var(--text); }
+  .thesis-name { font-size: 14px; color: var(--text-secondary); }
+  .thesis-exchange { font-size: 11px; padding: 2px 8px; border-radius: 6px; background: var(--bg-tertiary); color: var(--text-tertiary); font-weight: 600; }
+  .thesis-verdict {
+    font-size: 11px; padding: 3px 10px; border-radius: 100px; font-weight: 600;
+    letter-spacing: 0.3px; margin-left: auto; white-space: nowrap;
+  }
+  .verdict-buy { background: rgba(52,211,153,0.15); color: var(--green); }
+  .verdict-hold { background: rgba(251,191,36,0.15); color: var(--orange); }
+  .verdict-hold_avoid { background: rgba(248,113,113,0.12); color: var(--red); }
+  .verdict-avoid { background: rgba(248,113,113,0.25); color: var(--red); }
+  .verdict-pending { background: var(--bg-tertiary); color: var(--text-tertiary); }
+  .thesis-chevron { color: var(--text-tertiary); font-size: 14px; transition: transform 0.25s; margin-left: 8px; }
+  .thesis-card.open .thesis-chevron { transform: rotate(90deg); }
+  .thesis-body { display: none; padding: 0 24px 24px; }
+  .thesis-card.open .thesis-body { display: block; }
+
+  .thesis-section { margin-bottom: 20px; }
+  .thesis-section:last-child { margin-bottom: 0; }
+  .thesis-section-title {
+    font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    letter-spacing: 1px; text-transform: uppercase; margin-bottom: 10px;
+    padding-bottom: 6px; border-bottom: 1px solid var(--border);
+  }
+  .thesis-text { font-size: 14px; color: var(--text-secondary); line-height: 1.7; }
+
+  /* Valuation bar */
+  .val-bar-wrap { margin: 12px 0 8px; }
+  .val-bar {
+    position: relative; height: 8px; border-radius: 4px;
+    background: linear-gradient(90deg, var(--green), var(--orange), var(--red));
+    opacity: 0.6;
+  }
+  .val-marker {
+    position: absolute; top: -6px; width: 3px; height: 20px;
+    background: var(--text); border-radius: 2px;
+  }
+  .val-labels { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-tertiary); margin-top: 6px; }
+  .val-labels .val-current { color: var(--text); font-weight: 700; }
+
+  /* Assumptions */
+  .assumption-row { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--border); align-items: flex-start; }
+  .assumption-row:last-child { border-bottom: none; }
+  .assumption-dot {
+    width: 8px; height: 8px; border-radius: 50%; margin-top: 5px; flex-shrink: 0;
+  }
+  .dot-confirmed { background: var(--green); }
+  .dot-tracking { background: var(--orange); }
+  .dot-at_risk { background: #f97316; }
+  .dot-not_met { background: var(--red); }
+  .assumption-text { font-size: 13px; color: var(--text); font-weight: 500; }
+  .assumption-evidence { font-size: 12px; color: var(--text-tertiary); margin-top: 2px; line-height: 1.5; }
+
+  /* Financial check */
+  .fc-summary {
+    font-size: 13px; color: var(--text-secondary); line-height: 1.6;
+    padding: 10px 14px; background: var(--bg-tertiary); border-radius: 10px; margin-bottom: 12px;
+  }
+  .fc-verdict-tag {
+    display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 6px;
+    font-weight: 600; margin-right: 6px;
+  }
+  .fc-positive { background: rgba(52,211,153,0.15); color: var(--green); }
+  .fc-partial { background: rgba(251,191,36,0.15); color: var(--orange); }
+  .fc-negative { background: rgba(248,113,113,0.15); color: var(--red); }
+  .fc-table { width: 100%; border-collapse: collapse; }
+  .fc-table th {
+    font-size: 11px; font-weight: 600; color: var(--text-tertiary);
+    text-align: left; padding: 6px 10px; letter-spacing: 0.3px;
+  }
+  .fc-table td { font-size: 13px; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  .fc-table tr:last-child td { border-bottom: none; }
+  .fc-table .fc-metric { color: var(--text); font-weight: 500; white-space: nowrap; }
+  .fc-table .fc-actual { color: var(--text); font-variant-numeric: tabular-nums; }
+  .fc-table .fc-note { color: var(--text-tertiary); font-size: 12px; }
+  .fc-signal { display: inline-block; width: 6px; height: 6px; border-radius: 50%; margin-right: 6px; }
+
+  /* Risks + Catalysts compact */
+  .thesis-list-items { list-style: none; }
+  .thesis-list-items li {
+    font-size: 13px; color: var(--text-secondary); line-height: 1.6;
+    padding: 4px 0; padding-left: 16px; position: relative;
+  }
+  .thesis-list-items li::before {
+    content: ''; position: absolute; left: 0; top: 11px;
+    width: 5px; height: 5px; border-radius: 50%; background: var(--text-tertiary);
+  }
+  .thesis-sources { font-size: 12px; color: var(--text-tertiary); line-height: 1.6; }
+  .thesis-reviewed { font-size: 12px; color: var(--text-tertiary); margin-top: 8px; }
+
+  /* Pending card */
+  .thesis-pending { font-size: 13px; color: var(--text-tertiary); padding: 4px 0; }
+
   /* === External Links === */
   .links-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
   .link-card {
@@ -325,6 +429,10 @@
     .news-hero .news-title { font-size: 18px; }
     .btc-score-big { font-size: 40px; }
     .tab-btn { padding: 7px 14px; font-size: 13px; }
+    .thesis-header { padding: 16px; }
+    .thesis-body { padding: 0 16px 20px; }
+    .fc-table { font-size: 12px; }
+    .fc-table .fc-note { display: none; }
   }
 </style>
 </head>
@@ -342,6 +450,7 @@
     <button class="tab-btn active" data-tab="overview">宏观总览</button>
     <button class="tab-btn" data-tab="twitter">推特跟踪</button>
     <button class="tab-btn" data-tab="portfolio">持仓动态</button>
+    <button class="tab-btn" data-tab="thesis">投资论点</button>
     <button class="tab-btn" data-tab="ipo">IPO 追踪</button>
     <button class="tab-btn" data-tab="news">市场新闻</button>
     <button class="tab-btn" data-tab="links">外部链接</button>
@@ -387,7 +496,15 @@
     </section>
   </div>
 
-  <!-- 4. IPO 追踪 -->
+  <!-- 4. 投资论点 -->
+  <div class="tab-panel" id="panel-thesis">
+    <section>
+      <h2>Investment Thesis</h2>
+      <div class="thesis-list" id="thesis"><div class="loading">Loading...</div></div>
+    </section>
+  </div>
+
+  <!-- 5. IPO 追踪 -->
   <div class="tab-panel" id="panel-ipo">
     <section>
       <h2>IPO 追踪</h2>
@@ -486,6 +603,9 @@ const PORTFOLIO = [
     { symbol: '9992.HK', name: '泡泡玛特', type: 'other', note: '港股 · Finnhub免费版不支持' },
   ]},
 ];
+
+// === Helpers ===
+const esc = s => (s || '').replace(/<[^>]*>?/g, '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
 // === Renderers ===
 function renderPriceCard(item) {
@@ -592,7 +712,6 @@ function renderNews(news) {
   }) : '';
   const getTag = n => n.category === 'crypto' ? '加密货币' : n.related || '综合';
   const isCrypto = n => n.category === 'crypto';
-  const esc = s => (s || '').replace(/<[^>]*>?/g, '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
   // Hero: first article
   const h = news[0];
@@ -702,6 +821,155 @@ function renderPortfolio(stocks, crypto, pfNews) {
   }).join('');
 }
 
+// === Thesis ===
+const VERDICT_LABELS = { buy: '买入', hold: '持有', hold_avoid: '持有/回避', avoid: '回避', pending: '待分析' };
+const STATUS_LABELS = { confirmed: '已验证', tracking: '跟踪中', at_risk: '有风险', not_met: '未达标' };
+
+function renderThesis(thesisData, stocks, crypto) {
+  if (!thesisData || !thesisData.holdings) return '<div class="loading">暂无数据</div>';
+
+  // Build price map for live prices
+  const priceMap = {};
+  (stocks || []).forEach(s => { priceMap[s.symbol] = s.price; });
+  (crypto || []).forEach(c => { priceMap[c.symbol] = c.price; });
+
+  // Get all portfolio symbols
+  const allSymbols = PORTFOLIO.flatMap(g => g.items.map(i => ({ symbol: i.symbol, name: i.name })));
+
+  // Render cards: first those with thesis, then pending
+  const withThesis = [];
+  const pending = [];
+  allSymbols.forEach(item => {
+    const t = thesisData.holdings[item.symbol];
+    if (t) withThesis.push({ ...item, data: t });
+    else pending.push(item);
+  });
+
+  const cards = withThesis.map(item => {
+    const t = item.data;
+    const livePrice = priceMap[item.symbol];
+    const verdictCls = 'verdict-' + (t.verdict || 'pending');
+    const verdictLabel = VERDICT_LABELS[t.verdict] || '待分析';
+
+    // Valuation bar
+    let valHtml = '';
+    if (t.valuation) {
+      const v = t.valuation;
+      const price = livePrice || v.reference_price;
+      const lo = v.value_range ? v.value_range[0] : v.value_target * 0.8;
+      const hi = v.growth_target || v.value_target * 2;
+      const range = hi - lo;
+      const valuePct = Math.max(0, Math.min(100, ((v.value_target - lo) / range) * 100));
+      const growthPct = v.growth_target ? Math.max(0, Math.min(100, ((v.growth_target - lo) / range) * 100)) : null;
+      const pricePct = Math.max(0, Math.min(100, ((price - lo) / range) * 100));
+
+      valHtml = `<div class="thesis-section"><div class="thesis-section-title">估值</div>
+        <div class="val-bar-wrap">
+          <div class="val-bar">
+            <div class="val-marker" style="left:${valuePct}%;background:var(--green)" title="价值目标 $${v.value_target}"></div>
+            <div class="val-marker" style="left:${pricePct}%;background:var(--text);width:3px" title="当前 $${price}"></div>
+            ${growthPct !== null ? `<div class="val-marker" style="left:${growthPct}%;background:var(--accent)" title="成长目标 $${v.growth_target}"></div>` : ''}
+          </div>
+          <div class="val-labels">
+            <span style="color:var(--green)">价值 $${v.value_target}</span>
+            <span class="val-current">现价 $${price ? price.toFixed(2) : '—'}</span>
+            ${v.growth_target ? `<span style="color:var(--accent)">成长 $${v.growth_target}</span>` : ''}
+          </div>
+        </div>
+        <div style="font-size:12px;color:var(--text-tertiary);margin-top:4px">${v.value_method || ''}</div>
+      </div>`;
+    }
+
+    // Assumptions
+    let assumHtml = '';
+    if (t.assumptions && t.assumptions.length) {
+      const rows = t.assumptions.map(a => `<div class="assumption-row">
+        <span class="assumption-dot dot-${a.status}"></span>
+        <div>
+          <div class="assumption-text">${esc(a.text)}</div>
+          <div class="assumption-evidence">${esc(a.evidence)}</div>
+        </div>
+      </div>`).join('');
+      assumHtml = `<div class="thesis-section"><div class="thesis-section-title">隐含假设</div>${rows}</div>`;
+    }
+
+    // Financial check
+    let fcHtml = '';
+    if (t.financial_check) {
+      const fc = t.financial_check;
+      const vCls = fc.verdict === 'positive' ? 'fc-positive' : fc.verdict === 'partial' ? 'fc-partial' : 'fc-negative';
+      const vLabel = fc.verdict === 'positive' ? '匹配' : fc.verdict === 'partial' ? '部分匹配' : '不匹配';
+      const metricsHtml = (fc.metrics || []).map(m => {
+        const sigColor = m.vs_thesis === 'positive' ? 'var(--green)' : m.vs_thesis === 'negative' ? 'var(--red)' : 'var(--orange)';
+        return `<tr>
+          <td class="fc-metric"><span class="fc-signal" style="background:${sigColor}"></span>${m.name}</td>
+          <td class="fc-actual">${m.actual}</td>
+          <td class="fc-note">${esc(m.note)}</td>
+        </tr>`;
+      }).join('');
+      fcHtml = `<div class="thesis-section"><div class="thesis-section-title">财报验证 · ${esc(fc.period)}</div>
+        <div class="fc-summary"><span class="fc-verdict-tag ${vCls}">${vLabel}</span>${esc(fc.summary)}</div>
+        ${metricsHtml ? `<table class="fc-table"><thead><tr><th>指标</th><th>实际</th><th>备注</th></tr></thead><tbody>${metricsHtml}</tbody></table>` : ''}
+      </div>`;
+    }
+
+    // Risks
+    let risksHtml = '';
+    if (t.risks && t.risks.length) {
+      risksHtml = `<div class="thesis-section"><div class="thesis-section-title">主要风险</div>
+        <ul class="thesis-list-items">${t.risks.map(r => `<li>${esc(r)}</li>`).join('')}</ul></div>`;
+    }
+
+    // Catalysts
+    let catHtml = '';
+    if (t.catalysts && t.catalysts.length) {
+      catHtml = `<div class="thesis-section"><div class="thesis-section-title">关键跟踪指标</div>
+        <ul class="thesis-list-items">${t.catalysts.map(c => `<li>${esc(c)}</li>`).join('')}</ul></div>`;
+    }
+
+    // Sources + reviewed
+    let footerHtml = '';
+    if (t.sources || t.last_reviewed) {
+      footerHtml = `<div class="thesis-section" style="opacity:0.7">
+        ${t.sources ? `<div class="thesis-sources">来源: ${t.sources.map(s => esc(s)).join(' · ')}</div>` : ''}
+        ${t.last_reviewed ? `<div class="thesis-reviewed">最后审阅: ${t.last_reviewed}</div>` : ''}
+      </div>`;
+    }
+
+    return `<div class="thesis-card">
+      <div class="thesis-header" onclick="this.parentElement.classList.toggle('open')">
+        <span class="thesis-sym">${item.symbol}</span>
+        <span class="thesis-name">${t.name || item.name}</span>
+        ${t.exchange ? `<span class="thesis-exchange">${t.exchange}</span>` : ''}
+        <span class="thesis-verdict ${verdictCls}">${verdictLabel}</span>
+        <span class="thesis-chevron">▸</span>
+      </div>
+      <div class="thesis-body">
+        <div class="thesis-section"><div class="thesis-section-title">投资逻辑</div>
+          <div class="thesis-text">${esc(t.thesis)}</div>
+        </div>
+        ${valHtml}${assumHtml}${fcHtml}${risksHtml}${catHtml}${footerHtml}
+      </div>
+    </div>`;
+  });
+
+  // Pending cards
+  if (pending.length) {
+    const pendingCards = pending.map(item =>
+      `<div class="thesis-card">
+        <div class="thesis-header" style="cursor:default">
+          <span class="thesis-sym">${item.symbol}</span>
+          <span class="thesis-name">${item.name}</span>
+          <span class="thesis-verdict verdict-pending">待分析</span>
+        </div>
+      </div>`
+    ).join('');
+    cards.push(pendingCards);
+  }
+
+  return cards.join('');
+}
+
 // === Load ===
 async function load() {
   let d;
@@ -712,6 +980,14 @@ async function load() {
     document.getElementById('stocks').innerHTML = '<div class="loading">Failed to load data</div>';
     return;
   }
+
+  // Load thesis data
+  let thesisData = null;
+  try {
+    const tRes = await fetch('data/thesis.json?t=' + Date.now());
+    thesisData = await tRes.json();
+  } catch { /* thesis is optional */ }
+
   const sections = [
     ['stocks', () => d.stocks?.map(renderPriceCard).join('')],
     ['crypto', () => d.crypto?.map(renderPriceCard).join('')],
@@ -719,6 +995,7 @@ async function load() {
     ['earnings', () => d.earnings ? renderEarnings(d.earnings) : null],
     ['fomc', () => d.fomc ? renderFOMC(d.fomc) : null],
     ['portfolio', () => renderPortfolio(d.stocks, d.crypto, d.portfolio_news)],
+    ['thesis', () => thesisData ? renderThesis(thesisData, d.stocks, d.crypto) : null],
     ['news', () => d.news ? renderNews(d.news) : null],
     ['ipo', () => d.ipo_watch ? renderIPO(d.ipo_watch) : null],
     ['tweets', () => d.tweets ? renderTweets(d.tweets) : null],
