@@ -660,10 +660,9 @@
   <div class="tab-panel" id="panel-thesis">
     <section>
       <h2>Investment Thesis</h2>
-      <div class="thesis-toolbar" id="thesis-toolbar" style="display:none">
-        <span class="tt-hint">编辑内容保存在浏览器本地</span>
-        <button class="tt-btn" onclick="exportThesisJson()">导出 JSON</button>
-        <button class="tt-btn" onclick="resetThesisEdits()">重置编辑</button>
+      <div class="thesis-toolbar" id="thesis-toolbar">
+        <span class="tt-hint" id="thesis-sync-hint">☁️ 已同步</span>
+        <button class="tt-btn" onclick="configGHToken()">⚙️ Token</button>
       </div>
       <div class="thesis-list" id="thesis"><div class="loading">Loading...</div></div>
     </section>
@@ -673,10 +672,9 @@
   <div class="tab-panel" id="panel-funds">
     <section>
       <h2>基金跟踪</h2>
-      <div class="thesis-toolbar" id="funds-toolbar" style="display:none">
-        <span class="tt-hint">基金编辑保存在浏览器本地</span>
-        <button class="tt-btn" onclick="exportFundsJson()">导出 JSON</button>
-        <button class="tt-btn" onclick="resetFundsEdits()">重置编辑</button>
+      <div class="thesis-toolbar" id="funds-toolbar">
+        <span class="tt-hint" id="funds-sync-hint">☁️ 已同步</span>
+        <button class="tt-btn" onclick="configGHToken()">⚙️ Token</button>
       </div>
       <div id="funds"><div class="loading">Loading...</div></div>
     </section>
@@ -1002,6 +1000,47 @@ function renderPortfolio(stocks, crypto, pfNews) {
 
 // === Thesis ===
 const VERDICT_LABELS = { buy: '买入', hold: '持有', hold_avoid: '持有/回避', avoid: '回避', pending: '待分析' };
+// === GitHub Cloud Sync ===
+const GH_REPO = 'klalaklilicheng/firstlight';
+const GH_TOKEN_KEY = 'fl_gh_token';
+
+function configGHToken() {
+  const cur = localStorage.getItem(GH_TOKEN_KEY) || '';
+  const t = prompt('GitHub Personal Access Token\n（Fine-grained PAT，仅需 firstlight 仓库 Contents 读写权限）', cur);
+  if (t !== null) localStorage.setItem(GH_TOKEN_KEY, t);
+}
+
+async function githubSync(filePath, data) {
+  let token = localStorage.getItem(GH_TOKEN_KEY);
+  if (!token) {
+    token = prompt('首次同步需设置 GitHub Token\n（Fine-grained PAT，仅需 Contents 读写权限）');
+    if (!token) return false;
+    localStorage.setItem(GH_TOKEN_KEY, token);
+  }
+  const api = `https://api.github.com/repos/${GH_REPO}/contents/${filePath}`;
+  const headers = { Authorization: `token ${token}` };
+  const meta = await fetch(api, { headers });
+  if (!meta.ok) {
+    if (meta.status === 401) { localStorage.removeItem(GH_TOKEN_KEY); alert('Token 无效，请重新设置'); }
+    return false;
+  }
+  const { sha } = await meta.json();
+  const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2) + '\n')));
+  const res = await fetch(api, {
+    method: 'PUT', headers: { ...headers, 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message: `Update ${filePath} via dashboard`, content, sha })
+  });
+  return res.ok;
+}
+
+function setSyncHint(id, status) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  if (status === 'syncing') { el.textContent = '⏳ 同步中...'; el.style.color = 'var(--orange)'; }
+  else if (status === 'ok') { el.textContent = '✅ 已同步到云端'; el.style.color = 'var(--green)'; }
+  else { el.textContent = '❌ 同步失败（已保存本地）'; el.style.color = 'var(--red)'; }
+}
+
 const THESIS_KEY = 'fl_thesis_edits';
 let _originalThesis = null;
 let _marketStocks = null;
@@ -1169,6 +1208,14 @@ function saveEditor(symbol) {
   edits[symbol] = holding;
   saveLocalEdits(edits);
   reRenderThesis();
+
+  // Cloud sync
+  setSyncHint('thesis-sync-hint', 'syncing');
+  const syncData = mergedThesisData();
+  githubSync('data/thesis.json', syncData).then(ok => {
+    setSyncHint('thesis-sync-hint', ok ? 'ok' : 'fail');
+    if (ok) { _originalThesis = syncData; localStorage.removeItem(THESIS_KEY); }
+  });
 }
 
 function cancelEditor() { reRenderThesis(); }
@@ -1176,24 +1223,6 @@ function cancelEditor() { reRenderThesis(); }
 function reRenderThesis() {
   const merged = mergedThesisData();
   document.getElementById('thesis').innerHTML = renderThesis(merged, _marketStocks, _marketCrypto);
-  // Show toolbar if there are local edits
-  const hasEdits = Object.keys(getLocalEdits()).length > 0;
-  document.getElementById('thesis-toolbar').style.display = hasEdits ? 'flex' : 'none';
-}
-
-function exportThesisJson() {
-  const merged = mergedThesisData();
-  const json = JSON.stringify(merged, null, 2);
-  const blob = new Blob([json], { type: 'application/json' });
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob); a.download = 'thesis.json';
-  document.body.appendChild(a); a.click(); document.body.removeChild(a);
-}
-
-function resetThesisEdits() {
-  if (!confirm('确定要重置所有本地编辑吗？将恢复到 thesis.json 原始数据。')) return;
-  localStorage.removeItem(THESIS_KEY);
-  reRenderThesis();
 }
 
 // === Fund Tracking ===
@@ -1383,23 +1412,19 @@ function saveFundEditor(fundId, isNew) {
   edits[actualId] = fundData;
   saveFundsEdits(edits);
   reRenderFunds();
+
+  // Cloud sync
+  setSyncHint('funds-sync-hint', 'syncing');
+  const syncData = mergedFundsData();
+  githubSync('data/funds.json', syncData).then(ok => {
+    setSyncHint('funds-sync-hint', ok ? 'ok' : 'fail');
+    if (ok) { _originalFunds = syncData; localStorage.removeItem(FUNDS_KEY); }
+  });
 }
 
 function reRenderFunds() {
   const merged = mergedFundsData();
   document.getElementById('funds').innerHTML = renderFunds(merged);
-  document.getElementById('funds-toolbar').style.display = Object.keys(getFundsEdits()).length ? 'flex' : 'none';
-}
-
-function exportFundsJson() {
-  const merged = mergedFundsData();
-  const blob = new Blob([JSON.stringify(merged, null, 2)], { type: 'application/json' });
-  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'funds.json';
-  document.body.appendChild(a); a.click(); document.body.removeChild(a);
-}
-function resetFundsEdits() {
-  if (!confirm('确定重置所有基金本地编辑？')) return;
-  localStorage.removeItem(FUNDS_KEY); reRenderFunds();
 }
 
 // --- Thesis view renderer ---
@@ -1547,8 +1572,6 @@ async function load() {
 
   const merged = mergedThesisData();
   const mergedFunds = mergedFundsData();
-  const hasEdits = Object.keys(getLocalEdits()).length > 0;
-  const hasFundsEdits = Object.keys(getFundsEdits()).length > 0;
 
   const sections = [
     ['stocks', () => d.stocks?.map(renderPriceCard).join('')],
@@ -1572,8 +1595,6 @@ async function load() {
       document.getElementById(id).innerHTML = `<div class="loading">Error: ${e.message}</div>`;
     }
   }
-  document.getElementById('thesis-toolbar').style.display = hasEdits ? 'flex' : 'none';
-  document.getElementById('funds-toolbar').style.display = hasFundsEdits ? 'flex' : 'none';
   if (d.updated_at) {
     const t = new Date(d.updated_at);
     document.getElementById('updated').textContent = t.toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
