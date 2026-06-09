@@ -370,11 +370,6 @@
   .thesis-pending { font-size: 13px; color: var(--text-tertiary); padding: 4px 0; }
 
   /* === Fund Tracking === */
-  .funds-divider {
-    font-size: 13px; font-weight: 600; color: var(--text-secondary);
-    letter-spacing: 1.5px; text-transform: uppercase; margin: 48px 0 16px;
-    padding-top: 24px; border-top: 2px solid var(--border);
-  }
   .fund-card {
     background: var(--bg-secondary); border: 1px solid var(--border);
     border-radius: var(--card-radius); box-shadow: var(--shadow); overflow: hidden; margin-bottom: 16px;
@@ -611,6 +606,7 @@
     <button class="tab-btn" data-tab="twitter">推特跟踪</button>
     <button class="tab-btn" data-tab="portfolio">持仓动态</button>
     <button class="tab-btn" data-tab="thesis">投资论点</button>
+    <button class="tab-btn" data-tab="funds">基金跟踪</button>
     <button class="tab-btn" data-tab="ipo">IPO 追踪</button>
     <button class="tab-btn" data-tab="news">市场新闻</button>
     <button class="tab-btn" data-tab="links">外部链接</button>
@@ -667,8 +663,12 @@
       </div>
       <div class="thesis-list" id="thesis"><div class="loading">Loading...</div></div>
     </section>
+  </div>
+
+  <!-- 4b. 基金跟踪 -->
+  <div class="tab-panel" id="panel-funds">
     <section>
-      <h2 class="funds-divider">基金跟踪</h2>
+      <h2>基金跟踪</h2>
       <div class="thesis-toolbar" id="funds-toolbar" style="display:none">
         <span class="tt-hint">基金编辑保存在浏览器本地</span>
         <button class="tt-btn" onclick="exportFundsJson()">导出 JSON</button>
