@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T23:20:06.694Z",
+  "updated_at": "2026-06-12T02:46:25.333Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 30.3,
-      "change_pct": -2.88
+      "price": 30.75,
+      "change_pct": 1.49
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63341,
-      "change_pct": 3.48
+      "price": 63524,
+      "change_pct": 2.53
     },
     {
       "symbol": "ETH",
-      "price": 1670.91,
-      "change_pct": 3.74
+      "price": 1674.36,
+      "change_pct": 2.6
     },
     {
       "symbol": "SOL",
-      "price": 66.7,
-      "change_pct": 6.67
+      "price": 67.1,
+      "change_pct": 4.11
     },
     {
       "symbol": "HYPE",
-      "price": 58.78,
-      "change_pct": 11.13
+      "price": 59.3,
+      "change_pct": 10.09
     },
     {
       "symbol": "ZEC",
-      "price": 433.72,
-      "change_pct": 6.56
+      "price": 430.89,
+      "change_pct": 4.34
     },
     {
       "symbol": "TAO",
-      "price": 214.12,
-      "change_pct": 7.33
+      "price": 214.07,
+      "change_pct": 4.96
     },
     {
       "symbol": "SKY",
-      "price": 1332.32,
-      "change_pct": 5.41
+      "price": 1328.56,
+      "change_pct": 3.04
     },
     {
       "symbol": "AAVE",
-      "price": 64.09,
-      "change_pct": 5.9
+      "price": 64.53,
+      "change_pct": 3.66
     },
     {
       "symbol": "BNB",
-      "price": 602.61,
-      "change_pct": 3.34
+      "price": 604.82,
+      "change_pct": 2.48
     },
     {
       "symbol": "NEAR",
-      "price": 2.05,
-      "change_pct": 4.91
+      "price": 2.09,
+      "change_pct": 7.1
     },
     {
       "symbol": "DOGE",
-      "price": 0.086234,
-      "change_pct": 4.71
+      "price": 0.086333,
+      "change_pct": 3.13
     },
     {
       "symbol": "SPACEX",
-      "price": 703.93,
-      "change_pct": -0.68
+      "price": 682.02,
+      "change_pct": -1.6
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "大型科技股崩盘、石油波动扰乱市场：比特币能否守住 6 万美元以上？",
+      "summary": "随着 19 亿美元退出现货比特币 ETF 和科技股面临压力，比特币作为对冲工具的失败，并面临跌破 60,000 美元支撑位的风险。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781218732,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "特朗普宣布第 39 次“协议”后，油价下跌。巴甫洛夫的狗遇见了薛定谔的猫。",
       "summary": "<p>我早些时候发帖称，美国总统唐纳德·特朗普取消了原定于周四晚上对伊朗进行的军事打击，并表示谈判已达到伊朗领导层最高层，最终协议可能很快签署。白宫表示达成框架协议",
       "source": "Forexlive",
@@ -733,15 +742,6 @@
       "datetime": 1781182335,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "这不是 SpaceX。比特币 ETF 流出可能是一个套利故事",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo",
-      "datetime": 1781181739,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -814,36 +814,36 @@
     "score": 27.2,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 14.2,
-    "weekly_score": 13,
-    "btc_price": 63413.7,
-    "fear_greed": 14,
+    "daily_score": 14,
+    "weekly_score": 13.2,
+    "btc_price": 63583.5,
+    "fear_greed": 16,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -5300000,
-        "score": 50,
+        "value": -52800000,
+        "score": 47,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": -0.001664,
-        "score": 44,
+        "value": 0.002878,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.59,
-        "score": 73,
+        "value": 1.56,
+        "score": 71,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 14,
-        "score": 14,
+        "value": 16,
+        "score": 16,
         "weight": 7,
         "group": "daily"
       },
@@ -891,22 +891,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 0.99,
-        "score": 16,
+        "value": 1.03,
+        "score": 18,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 34.5,
-        "score": 24,
+        "value": 34.7,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -73.8,
-        "score": 25,
+        "value": -68.7,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -915,7 +915,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 6
+      "days_until": 5
     },
     "schedule": [
       "2025-01-29",
@@ -1024,21 +1024,21 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1442,
+        "likes": 1440,
         "retweets": 77
       },
       {
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 901,
+        "likes": 902,
         "retweets": 46
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 886,
+        "likes": 887,
         "retweets": 48
       },
       {
@@ -1098,36 +1098,36 @@
         "text": "No ₿rakes. https://t.co/eqDwmzVWck",
         "url": "https://x.com/saylor/status/2065115304888353157",
         "time": "Thu Jun 11 16:53:51 +0000 2026",
-        "likes": 8477,
-        "retweets": 619
+        "likes": 9392,
+        "retweets": 705
       },
       {
         "text": "Accretion depends on the metric. Net Assets per Share measures balance sheet strength and residual asset value. BTC per Share measures Bitcoin intensity and long-term equity upside. NAV accretion improves asset coverage. BTC Yield accretion increases Bitcoin per share. $MSTR $BTC",
         "url": "https://x.com/saylor/status/2064981916810375567",
         "time": "Thu Jun 11 08:03:49 +0000 2026",
-        "likes": 4670,
-        "retweets": 611
+        "likes": 4788,
+        "retweets": 674
       },
       {
         "text": "My beliefs: Retweets are notifications, not endorsements. Constructive dialogue leads to better outcomes. Bitcoin is hope and economic empowerment for everyone. Every good-faith effort to strengthen the network should be welcomed.",
         "url": "https://x.com/saylor/status/2064637939447935334",
         "time": "Wed Jun 10 09:16:58 +0000 2026",
-        "likes": 10784,
-        "retweets": 1135
+        "likes": 10849,
+        "retweets": 1141
       },
       {
         "text": "₿usiness is Good. https://t.co/yXuaDxGeay",
         "url": "https://x.com/saylor/status/2064357330599252462",
         "time": "Tue Jun 09 14:41:56 +0000 2026",
         "likes": 14691,
-        "retweets": 1249
+        "retweets": 1250
       },
       {
         "text": "$STRC and $MSTR shareholders have approved the amendment to move $STRC dividends from monthly to semi-monthly. Under the new cadence, the first record date is June 30 and the first payment date is July 15. Thank you to every shareholder who voted. https://t.co/3sIqqF3FCR",
         "url": "https://x.com/saylor/status/2063989759559495774",
         "time": "Mon Jun 08 14:21:20 +0000 2026",
-        "likes": 11429,
-        "retweets": 1112
+        "likes": 11428,
+        "retweets": 1109
       }
     ],
     "viktorfischer": [
@@ -1171,98 +1171,98 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "从 52 周高点下跌 33%，是时候抄底 AST SpaceMobile 了吗？",
-        "url": "https://finnhub.io/api/news?id=b11916666fab9435551c775b27727bab2963939b7ca79966e266a609df1cf5d6",
-        "datetime": 1781207400,
+        "headline": "SpaceX 即将上市。到 2030 年，25,000 美元的投资可能值多少钱。",
+        "url": "https://finnhub.io/api/news?id=7728b19d516b1f911e97109c8f32a1dcda375c25f298f33e4db90ebf7b737f10",
+        "datetime": 1781229000,
         "source": "Yahoo"
       },
       {
-        "headline": "有 1,500 美元吗？这种无形的大趋势使 1 系列复合机成为现在明确的购买选择",
-        "url": "https://finnhub.io/api/news?id=04fd7c09b94bdeea68c60d9728675e3ee9689ff88167e98a2ec5acdd273bb037",
-        "datetime": 1781207178,
+        "headline": "克莱默 (Cramer) 称英特尔为“第一名”且“比 NVIDIA 更重要”。在大规模双重升级后，该股今天飙升。",
+        "url": "https://finnhub.io/api/news?id=810502451109747613486ea49c1ae325c9eab85b28ac3d991ec79720021858cb",
+        "datetime": 1781228838,
         "source": "Yahoo"
       },
       {
-        "headline": "追债人在世界杯上跟踪西班牙国家队",
-        "url": "https://finnhub.io/api/news?id=3e947369cdd19019c216cba42cb941a496e664bd4520c76807cc7a83f1d31a19",
-        "datetime": 1781207005,
+        "headline": "为什么 Navan 股票今天上涨",
+        "url": "https://finnhub.io/api/news?id=ab70d6fbfe22ab47eceb548ea9caeb32b20a826b448afd9921c5882a4f1c3ff2",
+        "datetime": 1781228414,
         "source": "Yahoo"
       },
       {
-        "headline": "历史表明七月份比特币可能会发生什么",
-        "url": "https://finnhub.io/api/news?id=accf088911cb06f25c42462aff548dc5c96a93a34527d8abf7c1465c7c40dcf2",
-        "datetime": 1781206500,
+        "headline": "Alphabet 价值 800 亿美元的 Flex",
+        "url": "https://finnhub.io/api/news?id=b5d0c0f90c690ee1c6ce4622f889b7e37cd5b69083fe69c32a01347deef850a1",
+        "datetime": 1781228233,
         "source": "Yahoo"
       },
       {
-        "headline": "Ripple的XRP即将迎来全新升级。这对 XRP 的价格意味着什么",
-        "url": "https://finnhub.io/api/news?id=a78807a2c651b17380ac59a410a09fc74236400b19a36944a535a3b3e70634c4",
-        "datetime": 1781206482,
+        "headline": "“我感觉又回到了 1999 年。”CNBC 分析师对甲骨文股票发出可怕警告",
+        "url": "https://finnhub.io/api/news?id=11cf0da69cf786042d16c8f4df3484b5802e0b0798266f326d61d923bddf76ba",
+        "datetime": 1781227402,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "行业动态：科技股午后上涨",
-        "url": "https://finnhub.io/api/news?id=58af6d7dadd9d8716f895a019cd5886ce7d3d75864614a68afa0a2fb13909d3f",
-        "datetime": 1781205851,
+        "headline": "Alphabet 价值 800 亿美元的 Flex",
+        "url": "https://finnhub.io/api/news?id=b5d0c0f90c690ee1c6ce4622f889b7e37cd5b69083fe69c32a01347deef850a1",
+        "datetime": 1781228233,
         "source": "Yahoo"
       },
       {
-        "headline": "Adobe Q2：太便宜了，不容忽视",
-        "url": "https://finnhub.io/api/news?id=7e09b7f32fef1512557522bec84e60b73c603cd83b85645d703806ffe9a1ddd3",
-        "datetime": 1781203832,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Waymo 推出 30 美元会员卡，每周 Robotaxi 乘车次数达到 500,000 次",
-        "url": "https://finnhub.io/api/news?id=e6813e5b1415f329a7e0c7858b4d31029be82cc7037871ebeb9ef94024e63ff6",
-        "datetime": 1781203526,
+        "headline": "美国航空 (AAL) 调整治理、股权计划和 Google SAF 交易战略一致吗？",
+        "url": "https://finnhub.io/api/news?id=c824413f367ed639ee234f06f85230596a9eda21a77d3a2126b28c236bec51c9",
+        "datetime": 1781227070,
         "source": "Yahoo"
       },
       {
-        "headline": "贝索斯领导的 Prometheus 融资 120 亿美元，估值 410 亿美元",
-        "url": "https://finnhub.io/api/news?id=b39f00a8557b97354b40706a5eaca0c001efbe181c4fd96a024b11ba8d0d9fb6",
-        "datetime": 1781203446,
+        "headline": "杰夫·贝索斯 (Jeff Bezos) 的 Prometheus 筹集了 12B 美元，为物理世界打造“人工智能通用工程师”",
+        "url": "https://finnhub.io/api/news?id=53947d047e1ce3833a11afc6cb898fbddbd8384e782c87f5e6d5713102ca276f",
+        "datetime": 1781226278,
         "source": "Yahoo"
       },
       {
-        "headline": "Apple 如何利用 Google 的 AI 重建 Siri",
-        "url": "https://finnhub.io/api/news?id=729d9a95f4b09fc4204e3126489ee84086cd888909a05c3e4ac2e7c5493d31b6",
-        "datetime": 1781203377,
+        "headline": "政府欢迎谷歌海底电缆登陆作为对百慕大数字未来的重大投资",
+        "url": "https://finnhub.io/api/news?id=7e6b7a6f8512494c1612090d16859110f33e17659a592f0a50597c59a03218e6",
+        "datetime": 1781225400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "IonQ 因争议和资金冷落而面临审查，考验投资者信任",
+        "url": "https://finnhub.io/api/news?id=465639e0db92d60ead90ff2d16971ef089a01b956c2f4caf432b5c11dd89cb02",
+        "datetime": 1781223813,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "特斯拉在关键领域增加连胜",
-        "url": "https://finnhub.io/api/news?id=00cd1dde2d97a6aea5130b74a4e8b27d3dca2905b35a4ce103569ca4c17ff33e",
-        "datetime": 1781206620,
+        "headline": "SpaceX 即将上市。到 2030 年，25,000 美元的投资可能值多少钱。",
+        "url": "https://finnhub.io/api/news?id=7728b19d516b1f911e97109c8f32a1dcda375c25f298f33e4db90ebf7b737f10",
+        "datetime": 1781229000,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 1.8万亿美元的IPO可能会重置私人市场",
-        "url": "https://finnhub.io/api/news?id=9cb9826fbf3db405069b349ab57dfb36a3c45906ee0d96222307fa607a24fc8f",
-        "datetime": 1781203031,
+        "headline": "SpaceX 第一位员工仍在执行任务：“太空非常重要”",
+        "url": "https://finnhub.io/api/news?id=8aa7e916f73fbe25e3dc763dc5851d80f9ea3d25629dac11427438e712b792ca",
+        "datetime": 1781223915,
         "source": "Yahoo"
       },
       {
-        "headline": "世界上最快的电动汽车充电器不会来到美国",
-        "url": "https://finnhub.io/api/news?id=8a189375744bb2603f3256358832c74ca37be3f8017d5ca1e4383bb7ca4af5af",
-        "datetime": 1781202780,
+        "headline": "SpaceX 首次公开募股：丹·艾夫斯 (Dan Ives) 看到埃隆·马斯克 (Elon Musk) 更广阔的宇宙正在扩展",
+        "url": "https://finnhub.io/api/news?id=0a9e492b318678ba29133a2a6a83fc67775633c0146f43e77e3c8162e1bc6b90",
+        "datetime": 1781223491,
         "source": "Yahoo"
       },
       {
-        "headline": "投资者今天醒悟到“下跌买家的梦想”。但下周的美联储会议意义重大",
-        "url": "https://finnhub.io/api/news?id=3144f135da41a344b685d62af2ed72b44e251142b626cbea506b721affdeed89",
-        "datetime": 1781202644,
+        "headline": "分析师在 SpaceX 首次公开募股前发生冲突，特斯拉与 SpaceX 合并的猜测升温",
+        "url": "https://finnhub.io/api/news?id=75b002b9bd688926e821886f0a40b608842d2048e2a6994844b4648d58bbdbbc",
+        "datetime": 1781223337,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX IPO 预览：将其放在背景中",
-        "url": "https://finnhub.io/api/news?id=3e602479ffe5388c2d30d2c5874746e97a77827b1d2a4b133292adf42e99ed28",
-        "datetime": 1781202211,
-        "source": "SeekingAlpha"
+        "headline": "3大IPO：投资者致富了吗？",
+        "url": "https://finnhub.io/api/news?id=c13e369cc0eb5cadf3d001fc3abc5b94175b92851079f59f85da7a42f23d6bbf",
+        "datetime": 1781218740,
+        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1313,6 +1313,12 @@
     ],
     "BTC": [
       {
+        "headline": "大型科技股崩盘、石油波动扰乱市场：比特币能否守住 6 万美元以上？",
+        "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1781218732,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "比特币价格上涨至 6.32 万美元，比特币价格走势忽略了通货膨胀和伊朗霍尔木兹海峡关闭",
         "url": "https://cointelegraph.com/markets/bitcoin-tags-632k-as-btc-price-action-ignores-new-iran-hormuz-closure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1781185307,
@@ -1334,12 +1340,6 @@
         "headline": "Michael Saylor 和 Jack Mallers 就 Strategy 的比特币报告指标展开针锋相对",
         "url": "https://www.coindesk.com/markets/2026/06/11/michael-saylor-and-jack-mallers-go-toe-to-toe-over-strategy-s-bitcoin-reporting-metrics",
         "datetime": 1781178777,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币进步，保持在以太坊、solana 无法突破的关键技术水平之上",
-        "url": "https://www.coindesk.com/markets/2026/06/11/bitcoin-advances-holds-above-key-technical-level-that-ether-solana-can-t-break-through",
-        "datetime": 1781174705,
         "source": "CoinDesk"
       }
     ],
@@ -1399,6 +1399,12 @@
     ],
     "DOGE": [
       {
+        "headline": "世界杯今天开始🏆 放下你的旗帜，这样我们就知道哪个国家得到的 shibes 最多",
+        "url": "https://x.com/dogecoin/status/2065260276455288837",
+        "datetime": 1781231395,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "只为总督做好事，我们需要更多像克里斯这样的 Shibes",
         "url": "https://x.com/dogecoin/status/2064853463251423344",
         "datetime": 1781134403,
@@ -1408,12 +1414,6 @@
         "headline": "很多公交车。非常太阳能。弗里兹尔女士送孩子们下车后继续直奔月球",
         "url": "https://x.com/dogecoin/status/2064461388685181022",
         "datetime": 1781040925,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "西贝最近很安静\n如果您正在使用 doge 构建某些东西或在您的企业中接受它，请回复我们👇我们将提升最酷的 onez",
-        "url": "https://x.com/dogecoin/status/2064111017777320310",
-        "datetime": 1780957390,
         "source": "@dogecoin"
       }
     ],
