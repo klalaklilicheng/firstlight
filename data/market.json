@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-06-12T19:58:03.123Z",
+  "updated_at": "2026-06-12T21:30:41.008Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 682.11,
-      "change_pct": 0.57
+      "price": 681.95,
+      "change_pct": 0.55
     },
     {
       "symbol": "QQQ",
-      "price": 721.53,
-      "change_pct": 0.61
+      "price": 721.34,
+      "change_pct": 0.59
     },
     {
       "symbol": "QQQM",
-      "price": 297.16,
-      "change_pct": 0.73
+      "price": 297.01,
+      "change_pct": 0.67
     },
     {
       "symbol": "NVDA",
-      "price": 205.03,
-      "change_pct": 0.08
+      "price": 205.19,
+      "change_pct": 0.16
     },
     {
       "symbol": "TSLA",
-      "price": 405.41,
-      "change_pct": 1.57
+      "price": 406.43,
+      "change_pct": 1.82
     },
     {
       "symbol": "GOOG",
-      "price": 358.03,
-      "change_pct": 0.41
+      "price": 358.16,
+      "change_pct": 0.45
     },
     {
       "symbol": "RKLB",
-      "price": 102.09,
-      "change_pct": -11.06
+      "price": 102.39,
+      "change_pct": -10.79
     },
     {
       "symbol": "CRCL",
-      "price": 78.18,
-      "change_pct": -5.39
+      "price": 77.84,
+      "change_pct": -5.8
     },
     {
       "symbol": "PLTR",
-      "price": 128.26,
-      "change_pct": -2.15
+      "price": 127.99,
+      "change_pct": -2.36
     },
     {
       "symbol": "MSTR",
-      "price": 123.79,
-      "change_pct": 3.03
+      "price": 123.97,
+      "change_pct": 3.18
     },
     {
       "symbol": "GLD",
-      "price": 386.34,
-      "change_pct": 0.01
+      "price": 386.54,
+      "change_pct": 0.06
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63594,
-      "change_pct": 0.03
+      "price": 63492,
+      "change_pct": 0.15
     },
     {
       "symbol": "ETH",
-      "price": 1665.44,
-      "change_pct": -0.89
+      "price": 1665.6,
+      "change_pct": -0.68
     },
     {
       "symbol": "SOL",
-      "price": 66.73,
-      "change_pct": -0.2
+      "price": 66.78,
+      "change_pct": -0.16
     },
     {
       "symbol": "HYPE",
-      "price": 60.67,
-      "change_pct": 3.4
+      "price": 61.08,
+      "change_pct": 4.14
     },
     {
       "symbol": "ZEC",
-      "price": 414.3,
-      "change_pct": -4.86
+      "price": 414.28,
+      "change_pct": -5.41
     },
     {
       "symbol": "TAO",
-      "price": 212.35,
-      "change_pct": -0.45
+      "price": 212.7,
+      "change_pct": -0.74
     },
     {
       "symbol": "SKY",
-      "price": 1312.41,
-      "change_pct": -2.66
+      "price": 1318.21,
+      "change_pct": -1.64
     },
     {
       "symbol": "AAVE",
-      "price": 64.92,
-      "change_pct": 0.53
+      "price": 64.63,
+      "change_pct": 0.1
     },
     {
       "symbol": "BNB",
-      "price": 603.58,
-      "change_pct": -0.07
+      "price": 603.49,
+      "change_pct": -0.05
     },
     {
       "symbol": "NEAR",
       "price": 2.01,
-      "change_pct": -1.64
+      "change_pct": -4.17
     },
     {
       "symbol": "DOGE",
-      "price": 0.087383,
-      "change_pct": 1.14
+      "price": 0.087607,
+      "change_pct": 1.45
     },
     {
       "symbol": "SPACEX",
-      "price": 490.14,
-      "change_pct": -27.6
+      "price": 508.28,
+      "change_pct": -27.79
     }
   ],
   "earnings": {
@@ -801,12 +801,12 @@
     }
   ],
   "btc_score": {
-    "score": 28.9,
+    "score": 29.1,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 14,
+    "daily_score": 14.2,
     "weekly_score": 14.9,
-    "btc_price": 63606.7,
+    "btc_price": 63510.9,
     "fear_greed": 16,
     "indicators": [
       {
@@ -818,15 +818,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002221,
-        "score": 46,
+        "value": 0.003544,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.51,
-        "score": 67,
+        "value": 1.54,
+        "score": 69,
         "weight": 5,
         "group": "daily"
       },
@@ -888,14 +888,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.8,
-        "score": 25,
+        "value": 34.6,
+        "score": 24,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -91.4,
+        "value": -89.4,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -1014,8 +1014,8 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1442,
-        "retweets": 78
+        "likes": 1443,
+        "retweets": 76
       },
       {
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
@@ -1088,36 +1088,36 @@
         "text": "Timestamps:\n\n00:00 - The $300T credit opportunity: moving 5–10%, or $15–30T, into bitcoin-backed instruments\n00:49 - The current Bitcoin market: a mild bear market, open capital markets, and continued accumulation\n02:41 - Why Digital Credit matters: reducing volatility and",
         "url": "https://x.com/saylor/status/2065466845549756877",
         "time": "Fri Jun 12 16:10:45 +0000 2026",
-        "likes": 296,
-        "retweets": 30
+        "likes": 336,
+        "retweets": 32
       },
       {
         "text": "Digital Credit. Digital Money. Digital Equity. Digital Treasury.\n\nMy conversation with @ColeMacro at @BTCPrague on the future of capital markets, followed by Q&amp;A on the nuances of Bitcoin-backed securities and corporate finance. https://t.co/tm1yhkVH5N",
         "url": "https://x.com/saylor/status/2065448767306776777",
         "time": "Fri Jun 12 14:58:54 +0000 2026",
-        "likes": 2324,
-        "retweets": 314
+        "likes": 2531,
+        "retweets": 350
       },
       {
         "text": "I haven’t sold a sat. Strategy is still stacking.",
         "url": "https://x.com/saylor/status/2065356654913401141",
         "time": "Fri Jun 12 08:52:53 +0000 2026",
-        "likes": 15609,
-        "retweets": 1171
+        "likes": 16072,
+        "retweets": 1200
       },
       {
         "text": "No ₿rakes. https://t.co/eqDwmzVWck",
         "url": "https://x.com/saylor/status/2065115304888353157",
         "time": "Thu Jun 11 16:53:51 +0000 2026",
-        "likes": 11445,
-        "retweets": 891
+        "likes": 11504,
+        "retweets": 901
       },
       {
         "text": "Accretion depends on the metric. Net Assets per Share measures balance sheet strength and residual asset value. BTC per Share measures Bitcoin intensity and long-term equity upside. NAV accretion improves asset coverage. BTC Yield accretion increases Bitcoin per share. $MSTR $BTC",
         "url": "https://x.com/saylor/status/2064981916810375567",
         "time": "Thu Jun 11 08:03:49 +0000 2026",
-        "likes": 5126,
-        "retweets": 704
+        "likes": 5138,
+        "retweets": 700
       }
     ],
     "viktorfischer": [
@@ -1161,97 +1161,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "寻找周五 S&P500 指数中最活跃的股票？",
-        "url": "https://finnhub.io/api/news?id=943f5ca3b4f6788e79387144385843fbcc0af00d1721cfd0d6576f05d6861754",
-        "datetime": 1781287500,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "华尔街 Tom Lee 表示，在飙升 14,870% 之前值得购买的不可阻挡的加密货币",
-        "url": "https://finnhub.io/api/news?id=a872f1a7a7cd6f0e9b6dafce24cc24a0aec0b6d76cc6cbb05fb1c5e47842d0a5",
-        "datetime": 1781286343,
+        "headline": "畅销书作者：SpaceX 在新兴太空经济中拥有巨大的垄断力量",
+        "url": "https://finnhub.io/api/news?id=d110f3da64836ab775d09e2087085b5077e9a7fa417044ce2bf6a4de23a65b0e",
+        "datetime": 1781293519,
         "source": "Yahoo"
       },
       {
-        "headline": "花旗表示 AMD 不再只是一只 CPU 股票",
-        "url": "https://finnhub.io/api/news?id=22b5dee0ff87e43a298f54058f188cbc6036103d3864f025bff6e7bb9729981d",
-        "datetime": 1781285932,
+        "headline": "今天 SpaceX IPO 投资 1,000 美元的价值以及接下来会发生什么",
+        "url": "https://finnhub.io/api/news?id=d9bab99709e889346485e61a7fd35b2176d58a66000e151c8e3e2b0a1baa56c4",
+        "datetime": 1781293498,
         "source": "Yahoo"
       },
       {
-        "headline": "搬过去，纽约！为什么德克萨斯州正在成为“美国的新重心”",
-        "url": "https://finnhub.io/api/news?id=27fa9df14416b46107ff905045c8da6ebd0f44c7329d6927c4981b8fb55e96a2",
-        "datetime": 1781285894,
+        "headline": "SpaceX 刚刚让埃隆·马斯克成为历史上第一位亿万富翁。你应该购买股票吗？",
+        "url": "https://finnhub.io/api/news?id=cf900a831aec29df77f9fe8f76cb6f81fa8c584f1fa316b018c181e43ff5fb2e",
+        "datetime": 1781293313,
         "source": "Yahoo"
       },
       {
-        "headline": "英特尔今天上涨 8%：它的表现是否优于 AMD 和 NVIDIA 等其他芯片股？",
-        "url": "https://finnhub.io/api/news?id=613976b58b3abfc3bad287f7109fa82c2392de08b8afccf4b4827fd0b87b175a",
-        "datetime": 1781285777,
+        "headline": "为什么 SailPoint 股票本周下跌",
+        "url": "https://finnhub.io/api/news?id=d587454fec79de8b4a4fd5b5dbaf6113b3a3c87401ff1839edefe5bf90088a5f",
+        "datetime": 1781293230,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "市场热议：SpaceX 在遇到技术问题后将数据中心容量出租给 Anthropic",
+        "url": "https://finnhub.io/api/news?id=805ff02426857bb3e84d493eb72bd2de0d54db0341e10e294646977365e4db91",
+        "datetime": 1781293218,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Tigress 表示，Uber 正在发展成为“一切应用程序”，利润率不断扩大",
-        "url": "https://finnhub.io/api/news?id=ebcd71a0913dec30f6c81ebc0cb3188f5ae0a21be84eb126472e3311b41941e2",
-        "datetime": 1781285565,
+        "headline": "SpaceX IPO 是 Anthropic 和 OpenAI 的典范",
+        "url": "https://finnhub.io/api/news?id=059a4f8b5568d7edb1f04177bf005ddcc134dc0ecf383718fb7a49ffbebac039",
+        "datetime": 1781291589,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 在历史性 IPO 中筹集创纪录的 750 亿美元，估值达到 1.8 万亿美元",
-        "url": "https://finnhub.io/api/news?id=0eba09305eea8d323a76443f3065ec28f714641bc2f736bf2f23fa3d06e420e7",
-        "datetime": 1781284221,
+        "headline": "埃隆·马斯克 (Elon Musk) 的万亿富翁飞跃对纳什维尔和孟菲斯来说意义重大",
+        "url": "https://finnhub.io/api/news?id=12b369111bfdcf11775bb2660c6a322d51a9f32cd7dc160c62a87d5216321fd1",
+        "datetime": 1781290691,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX、Anthropic 和 OpenAI IPO 夏季火爆",
-        "url": "https://finnhub.io/api/news?id=4784c398c21991e8eb146a00ac444ba4ed8f5f6da90665d5a425845e23a15535",
-        "datetime": 1781281405,
+        "headline": "亿万富翁布拉德·格斯特纳（Brad Gerstner）抛售了所有字母表，然后买了两只没人预料到的股票",
+        "url": "https://finnhub.io/api/news?id=b4590d01ae042e327265f0ecb19cb11e64ee414775ceb350691c22899de77f35",
+        "datetime": 1781290607,
         "source": "Yahoo"
       },
       {
-        "headline": "随着市场寻求真正的增长，现在最值得买入的两只人工智能股票",
-        "url": "https://finnhub.io/api/news?id=b480d458a99c7b01c311e18234a91f834a74d17159611b50901fe58f54a3ca2a",
-        "datetime": 1781277600,
+        "headline": "SpaceX 在自己的团队使用电脑遇到困难后将其出租",
+        "url": "https://finnhub.io/api/news?id=1873961b31c21bf03bd7f51f86c3c966e5a7c84e557151fd1dc81349a98d8049",
+        "datetime": 1781289050,
         "source": "Yahoo"
       },
       {
-        "headline": "科技股的“烟草大时刻”：关键法律保护之战对 Meta 和谷歌意味着什么",
-        "url": "https://finnhub.io/api/news?id=274f0e8c202df49ffdba014a68068d1e2ca491540c09d33d80be434fd6eece17",
-        "datetime": 1781277366,
+        "headline": "为什么大规模的首次公开募股不会导致市场下跌",
+        "url": "https://finnhub.io/api/news?id=96c2d83bb7403da4a00a8073c122757c064cebde4ed1d70f04f860f88451aeb3",
+        "datetime": 1781286840,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "寻找周五 S&P500 指数中最活跃的股票？",
-        "url": "https://finnhub.io/api/news?id=943f5ca3b4f6788e79387144385843fbcc0af00d1721cfd0d6576f05d6861754",
-        "datetime": 1781287500,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "随着 SpaceX 上市，埃隆·马斯克在纳斯达克寻求市场开放",
-        "url": "https://finnhub.io/api/news?id=b0343e4a29de63d05d253472f8c802a1c212fc96db41d471a96f1d806da9fedb",
-        "datetime": 1781286512,
+        "headline": "SpaceX 首次上市估值飙升至 2 万亿美元",
+        "url": "https://finnhub.io/api/news?id=845aa10390a243e418d079b58ac0c81bb7c8c1d827cde890874aa08bc7dd70bc",
+        "datetime": 1781292814,
         "source": "Yahoo"
       },
       {
-        "headline": "搬过去，纽约！为什么德克萨斯州正在成为“美国的新重心”",
-        "url": "https://finnhub.io/api/news?id=27fa9df14416b46107ff905045c8da6ebd0f44c7329d6927c4981b8fb55e96a2",
-        "datetime": 1781285894,
+        "headline": "SpaceX 总裁格温·肖特韦尔 (Gwynne Shotwell) 刚刚再次暗示与特斯拉合并",
+        "url": "https://finnhub.io/api/news?id=859404de7d9bada00184a9cf6ad01b7df262fdff63e12fa524ddfb5382ab9af9",
+        "datetime": 1781292511,
         "source": "Yahoo"
       },
       {
-        "headline": "随着投资者转向马斯克皇冠上的明珠 SpaceX，特斯拉股价下跌",
-        "url": "https://finnhub.io/api/news?id=a14ffd010a14f2a8a9c377d9c2e8825addbddf5c8e432511c1b8bb8787c0b441",
-        "datetime": 1781285448,
+        "headline": "埃隆·马斯克可能是亿万富翁，但特斯拉到 2026 年仍下跌 11%。特斯拉股票现在已经不堪重负了吗？",
+        "url": "https://finnhub.io/api/news?id=5ecc4230e2a5fe79b9ac2cac6c64f78b7c656e9c19c47677dc7b5dbe7a3ba892",
+        "datetime": 1781291780,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX IPO：纳斯达克是“万亿美元公司”的所在地",
-        "url": "https://finnhub.io/api/news?id=039d27fe8e652e304a079514a19fa6300e9d6b39a1296ce7110d9c9b421222b8",
-        "datetime": 1781285400,
+        "headline": "顶级风险投资人：埃隆·马斯克已经“消除了 Starlink 和 Colossus 背后的所有物理风险”",
+        "url": "https://finnhub.io/api/news?id=0a61ebc2001f35b1bff2538270760e30ca12947d2fe9c145825cf4bb960570a1",
+        "datetime": 1781291224,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "财富专家：SpaceX IPO 可能会让埃隆·马斯克成为世界上第一位亿万富翁",
+        "url": "https://finnhub.io/api/news?id=08d7dc05967008d00fd1dcebd95125e53b04da41e20865a263760acddee90428",
+        "datetime": 1781290176,
         "source": "Yahoo"
       }
     ],
@@ -1357,12 +1357,6 @@
         "url": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
         "datetime": 1781115298,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "量子时钟正在滴答作响：这是比特币的问题，而不是以太坊的问题",
-        "url": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
-        "datetime": 1781107620,
-        "source": "CoinDesk"
       }
     ],
     "SOL": [
@@ -1424,21 +1418,21 @@
     ],
     "NEAR": [
       {
+        "headline": "大多数私人人工智能基础设施都是在信任基础上运行的，你无法验证内部发生的事情是否安全。\n\nVenice AI 在 NEAR AI 基础设施上运行：提示在离开设备之前进行加密并在硬件飞地中解密。",
+        "url": "https://x.com/NEARProtocol/status/2065526416897118677",
+        "datetime": 1781294848,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "查看 @AskVenice 和 NEAR 合作的所有方式 🤝",
+        "url": "https://x.com/NEARProtocol/status/2065526419199795259",
+        "datetime": 1781294848,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "",
         "url": "https://x.com/NEARProtocol/status/2065466263972028440",
         "datetime": 1781280506,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "您最喜欢的资产。\n你最喜欢的罪犯。\n你最喜欢的连锁店。\n\n全部集中在一处 \n\n接下来我们应该添加什么？",
-        "url": "https://x.com/NEARProtocol/status/2065429863951966523",
-        "datetime": 1781271828,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "“意图是区块链的下一个抽象层次。” — @ilblackdragon \n\n每一次技术革命都会消除另一层复杂性。意图消除了考虑执行的需要",
-        "url": "https://x.com/NEARProtocol/status/2065191384592667075",
-        "datetime": 1781214970,
         "source": "@NEARProtocol"
       }
     ],
