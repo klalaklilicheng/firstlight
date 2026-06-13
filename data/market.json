@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:30:31.238Z",
+  "updated_at": "2026-06-13T15:27:58.454Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64176,
-      "change_pct": 1.35
+      "price": 64250,
+      "change_pct": 0.11
     },
     {
       "symbol": "ETH",
-      "price": 1679.21,
-      "change_pct": 0.95
+      "price": 1681.6,
+      "change_pct": -0.06
     },
     {
       "symbol": "SOL",
-      "price": 67.94,
-      "change_pct": 1.72
+      "price": 68.51,
+      "change_pct": 0.25
     },
     {
       "symbol": "HYPE",
-      "price": 59.51,
-      "change_pct": -1.29
+      "price": 60.36,
+      "change_pct": -0.98
     },
     {
       "symbol": "ZEC",
-      "price": 416.88,
-      "change_pct": -3.39
+      "price": 416.93,
+      "change_pct": -2.35
     },
     {
       "symbol": "TAO",
-      "price": 250.56,
-      "change_pct": 17.68
+      "price": 266.15,
+      "change_pct": 22.74
     },
     {
       "symbol": "SKY",
-      "price": 1300.64,
-      "change_pct": -2.29
+      "price": 1304.36,
+      "change_pct": -2.57
     },
     {
       "symbol": "AAVE",
-      "price": 66.83,
-      "change_pct": 3.57
+      "price": 67.38,
+      "change_pct": 3.13
     },
     {
       "symbol": "BNB",
-      "price": 609.06,
-      "change_pct": 0.51
+      "price": 610.01,
+      "change_pct": -0.14
     },
     {
       "symbol": "NEAR",
-      "price": 2.07,
-      "change_pct": -1.12
+      "price": 2.12,
+      "change_pct": 0.83
     },
     {
       "symbol": "DOGE",
-      "price": 0.088274,
-      "change_pct": 1.62
+      "price": 0.088643,
+      "change_pct": -1.11
     },
     {
       "symbol": "SPACEX",
-      "price": 638.55,
-      "change_pct": -11.35
+      "price": 616.41,
+      "change_pct": -8.3
     }
   ],
   "earnings": {
@@ -474,6 +474,60 @@
   },
   "news": [
     {
+      "headline": "Anthropic 的 Mythos AI 在 Zcash 中没有发现更多“严重”错误：Wilcox",
+      "summary": "Zcash 创始人 Zooko Wilcox 表示，Anthropic 的 Mythos AI 模型在修补之前发现的伪造错误后，没有在隐私协议中发现更多“严重错误”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781361943,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "这位 28 岁的女子靠卖贴纸和涂色书还清了法学院贷款",
+      "summary": "Elyse Burns 18 岁时开始在 Etsy 上出售她的艺术品。现在她已经还清了学生贷款，去年赚了近 500 万美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/13/paid-off-law-school-student-loans-art-business.html",
+      "datetime": 1781359201,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "永续期货可能成为加密货币的下一个 ETF 时刻",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
+      "datetime": 1781359200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Saylor 表示，比特币销售对于 Strategy 的数字信贷业务是必要的",
+      "summary": "Strategy 最近的比特币销售似乎与 Saylor 的“永不出售”口号相冲突，但他表示此举反映了该公司数字信贷业务的运作方式。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781359104,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Saylor 对 Musk：多亏了你，25% 的“Mag8”公司现在持有比特币",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
+      "datetime": 1781355940,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "LMAX 首席执行官表示，加密货币应该采用最好的中心化方式",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+      "datetime": 1781355600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Morpho 的 1.75 亿美元融资表明了加密货币风险投资资金的流向",
       "summary": "Morpho 最近筹集了 1.75 亿美元，反映出随着稳定币采用的扩大，投资者对链上信贷基础设施的押注不断增加。",
       "source": "Cointelegraph",
@@ -688,60 +742,6 @@
       "datetime": 1781278260,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "美国一些州仍然不知道世界杯是否会给他们带来经济利益——看看新泽西州就知道了",
-      "summary": "北美地区预计将有数百万人观看 2026 年世界杯比赛。对于至少一个主办州新泽西州来说，这项赛事也带来了不断增加的成本。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/12/2026-world-cup-host-states-new-jersey-costs-financial-benefits.html",
-      "datetime": 1781277129,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "FTX 的 Sam Bankman-Fried 对欺诈和共谋指控的刑事定罪上诉失败",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges",
-      "datetime": 1781273620,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "XRP 情绪跌至 8 个月低点，这之前一直是买入信号",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
-      "datetime": 1781273283,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "波兰总统在 MiCA 截止日期前第三次否决加密货币法案",
-      "summary": "就在欧盟加密框架过渡期结束前几周，波兰总统 Karol Nawrocki 第三次否决了实施 MiCA 的法案。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1781270753,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CoinDesk 20 业绩更新：以太坊 (ETH) 因指数走低而下跌 1%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower",
-      "datetime": 1781269886,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "投资者称 KuCoin 尚未支付与退市代币纠纷相关的 200 万美元赔偿金",
-      "summary": "塞舌尔一家法院表示，KuCoin 不能将未提取的代币视为“废弃”，并判给瑞士投资者超过 200 万美元。他表示交易所仍未付款，并计划再次提起诉讼。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kucoin-yet-pay-seychelles-court-order-2m-token-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1781269403,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -769,6 +769,11 @@
       "company": "Anthropic",
       "news": [
         {
+          "headline": "Anthropic 的 Mythos AI 在 Zcash 中没有发现更多“严重”错误：Wilcox",
+          "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1781361943
+        },
+        {
           "headline": "由于美国政府关闭其最强大的人工智能模型，Anthropic 的首次公开募股前股价下跌",
           "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
           "datetime": 1781330525
@@ -777,11 +782,6 @@
           "headline": "Anthropic 援引美国指令暂停访问《神鬼寓言 5》、《神话 5》",
           "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1781318260
-        },
-        {
-          "headline": "Anthropic、OpenAI、谷歌高管计划出席 G7 峰会",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit",
-          "datetime": 1781254957
         }
       ]
     },
@@ -817,12 +817,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.1,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.9,
+    "score": 30,
+    "level": "恐慌",
+    "suggestion": "市场低估，适合分批建仓或加仓",
+    "daily_score": 14.8,
     "weekly_score": 15.2,
-    "btc_price": 64202.2,
+    "btc_price": 64275.5,
     "fear_greed": 18,
     "indicators": [
       {
@@ -834,15 +834,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002915,
+        "value": 0.001153,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.48,
-        "score": 65,
+        "value": 1.43,
+        "score": 62,
         "weight": 5,
         "group": "daily"
       },
@@ -904,14 +904,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.6,
+        "value": 35.7,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -67.1,
+        "value": -63.8,
         "score": 27,
         "weight": 4,
         "group": "weekly"
@@ -1104,36 +1104,36 @@
         "text": "Congratulations @ElonMusk and $SPCX on a historic IPO.\n\nThanks to you, 25% of the Mag8 now holds Bitcoin on the balance sheet.",
         "url": "https://x.com/saylor/status/2065740287779987630",
         "time": "Sat Jun 13 10:17:18 +0000 2026",
-        "likes": 13617,
-        "retweets": 1049
+        "likes": 18228,
+        "retweets": 1369
       },
       {
         "text": "Timestamps:\n\n00:00 - The $300T credit opportunity: moving 5–10%, or $15–30T, into bitcoin-backed instruments\n00:49 - The current Bitcoin market: a mild bear market, open capital markets, and continued accumulation\n02:41 - Why Digital Credit matters: reducing volatility and",
         "url": "https://x.com/saylor/status/2065466845549756877",
         "time": "Fri Jun 12 16:10:45 +0000 2026",
-        "likes": 438,
-        "retweets": 49
+        "likes": 448,
+        "retweets": 55
       },
       {
         "text": "Digital Credit. Digital Money. Digital Equity. Digital Treasury.\n\nMy conversation with @ColeMacro at @BTCPrague on the future of capital markets, followed by Q&amp;A on the nuances of Bitcoin-backed securities and corporate finance. https://t.co/tm1yhkVH5N",
         "url": "https://x.com/saylor/status/2065448767306776777",
         "time": "Fri Jun 12 14:58:54 +0000 2026",
-        "likes": 3337,
-        "retweets": 462
+        "likes": 3401,
+        "retweets": 474
       },
       {
         "text": "I haven’t sold a sat. Strategy is still stacking.",
         "url": "https://x.com/saylor/status/2065356654913401141",
         "time": "Fri Jun 12 08:52:53 +0000 2026",
-        "likes": 18176,
-        "retweets": 1395
+        "likes": 18381,
+        "retweets": 1400
       },
       {
         "text": "No ₿rakes. https://t.co/eqDwmzVWck",
         "url": "https://x.com/saylor/status/2065115304888353157",
         "time": "Thu Jun 11 16:53:51 +0000 2026",
-        "likes": 11887,
-        "retweets": 941
+        "likes": 11949,
+        "retweets": 949
       }
     ],
     "viktorfischer": [
@@ -1177,37 +1177,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Solana 目前处于 2023 年 12 月以来的最低水平，是买入、卖出还是持有？",
-        "url": "https://finnhub.io/api/news?id=f126bc3c32b19f980aa18f1f00465d6a13da08d7dc1c7169a0ef003ac8bc5b0c",
-        "datetime": 1781351220,
+        "headline": "星巴克股票接近 52 周高点：买入、卖出还是持有？",
+        "url": "https://finnhub.io/api/news?id=d154c29ced2846be3a202f8567b4e353844fcfbc087f632dd8e3fe11a0dff83d",
+        "datetime": 1781358973,
         "source": "Yahoo"
       },
       {
-        "headline": "预测：SoFi Technologies 股票将在一年内翻倍",
-        "url": "https://finnhub.io/api/news?id=10df0d29abcd5b9b6a31c4934316f9f8b106c9d2e19c542dcc16e818e29cca30",
-        "datetime": 1781351160,
+        "headline": "Anthropic 最大的竞争优势刚刚变成了巨大的负担",
+        "url": "https://finnhub.io/api/news?id=87787684655d9f14f733fd3427d7a13b1dace47ced5874be5510e7ff18cd7a63",
+        "datetime": 1781358504,
         "source": "Yahoo"
       },
       {
-        "headline": "如果您讨厌（或喜欢）“Mag 7”，那么可以通过 ETF 获利",
-        "url": "https://finnhub.io/api/news?id=8f4d721f030f34e0f5ee3e7bc6510c7f99eab86bdcd44589aad727371edc96fc",
-        "datetime": 1781351138,
+        "headline": "哈佛大学喜欢这只顶级人工智能股票",
+        "url": "https://finnhub.io/api/news?id=5725c694a42e1a63bd1cafc98bc58e1ed9a47ed043ab163c9d6dc7ce2112d3d4",
+        "datetime": 1781357897,
         "source": "Yahoo"
       },
       {
-        "headline": "Nebius 的收入刚刚增长了 684%。未来还有更多增长，该股值得买入。",
-        "url": "https://finnhub.io/api/news?id=317eb93d92752ec0b5d0364b07b98b67c4583b4225817f9503c585d1e63285f0",
-        "datetime": 1781351100,
+        "headline": "我会告诉任何处于这种情况的人停止为 IRA 或 401(k) 提供资金",
+        "url": "https://finnhub.io/api/news?id=d4dce55e376e6f0291a378c13627870cd0821653e20cfdfc2f3f63c402cfbbf3",
+        "datetime": 1781357880,
         "source": "Yahoo"
       },
       {
-        "headline": "Lumentum Nvidia 交易凸显 AI 光学增长和估值机会",
-        "url": "https://finnhub.io/api/news?id=bf8f2ffbb931dd829e588ea8d72614a6632f7502c39384109aa76d48c467c4c4",
-        "datetime": 1781349164,
+        "headline": "6 月份值得购买的 3 只极其便宜的医疗保健股票",
+        "url": "https://finnhub.io/api/news?id=e009683d22a2f708130a5a7f1e8f34b36945fe0ae449a6835641fcb15e2f529d",
+        "datetime": 1781357428,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "尽管人工智能资本支出存在担忧，哈佛大学仍喜欢 Meta (META) 股票",
+        "url": "https://finnhub.io/api/news?id=246d69f8f982177b3b460df530d192839d23e93a3a037cbb0d38eacb9683f5cc",
+        "datetime": 1781358064,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "哈佛大学喜欢这只顶级人工智能股票",
+        "url": "https://finnhub.io/api/news?id=5725c694a42e1a63bd1cafc98bc58e1ed9a47ed043ab163c9d6dc7ce2112d3d4",
+        "datetime": 1781357897,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet 股票在过去一年中上涨了近 100%。仍然是买入吗？",
+        "url": "https://finnhub.io/api/news?id=b53819e6a63a85a600ee86e0e5482a2158bce7f41b437f94ac1e0401b24a152e",
+        "datetime": 1781355900,
+        "source": "Yahoo"
+      },
       {
         "headline": "特朗普牛市即将结束吗？证据越来越多，信息也非常明确。",
         "url": "https://finnhub.io/api/news?id=02238a2490833356849de0656cc451b8db3c47a3134f5dfb26e19738dd2ba4c9",
@@ -1219,27 +1237,21 @@
         "url": "https://finnhub.io/api/news?id=f263f704e1547b10166f6b29b5fb07cd9cd484ce74e789d9a6c596214e2adad1",
         "datetime": 1781344824,
         "source": "Yahoo"
-      },
-      {
-        "headline": "这个“乐一通”市场需要二阶思维：这是我的想法",
-        "url": "https://finnhub.io/api/news?id=3db7c3ac15ce2d7a0af0a7b6ee984528b4109ccc03e543ce9d61e624a4a0c76e",
-        "datetime": 1781339400,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "无论人工智能是否存在泡沫，这些股息 ETF 都受益于资本支出瀑布",
-        "url": "https://finnhub.io/api/news?id=42b39ee5b06b4adbab4fa2176b8f8ba710ab9dded4c8b1b2bbc9bf5ff5dc8729",
-        "datetime": 1781338500,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "MANGOS：让我们跟随大钱（为什么我是 30% 现金）",
-        "url": "https://finnhub.io/api/news?id=1dcad0b532500c45c8d7fe138b5891e06444de695daeb2352e30639daecdfd99",
-        "datetime": 1781337600,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "加里·布莱克 (Gary Black) 预测特斯拉将在 SpaceX IPO 之前出售——罗斯·格伯 (Ross Gerber) 表示投资者将其视为“免费资金”",
+        "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
+        "datetime": 1781353876,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "随着电动汽车试验实现核心货运目标，ArcBest 扩大 Tesla Semi 车队",
+        "url": "https://finnhub.io/api/news?id=6661171b2fcfe6ca9a7ee03a03caca6021542db497d781fc3f1d61fdc8780ca3",
+        "datetime": 1781352655,
+        "source": "Yahoo"
+      },
       {
         "headline": "7级？芒果？ SpaceX 迫使华尔街重新考虑科技股的名称",
         "url": "https://finnhub.io/api/news?id=4cc56e7fa2d80d688d8612768fdde33fbd0af2972c78645fd937bb49f23d05f7",
@@ -1257,18 +1269,6 @@
         "url": "https://finnhub.io/api/news?id=eae5fd1a33f64dc42f4217730acdb9d3b293d5e8ae399ffbb9e2511833829d0d",
         "datetime": 1781309700,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "回顾与预览：1 人聚会",
-        "url": "https://finnhub.io/api/news?id=e200da375d0abb4e492e9be4645b3c4a9df7619ef00a9d4fb35675db7eb7de10",
-        "datetime": 1781308500,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "随着 SpaceX 首次公开募股，特斯拉股价回升，收盘上涨近 2%",
-        "url": "https://finnhub.io/api/news?id=f73444db2a21e0cc28530d3b6a0ba823cd821db065cc10a12634e8ac21ee202a",
-        "datetime": 1781304260,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1325,6 +1325,18 @@
     ],
     "BTC": [
       {
+        "headline": "Saylor 表示，比特币销售对于 Strategy 的数字信贷业务是必要的",
+        "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1781359104,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Saylor 对 Musk：多亏了你，25% 的“Mag8”公司现在持有比特币",
+        "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
+        "datetime": 1781355940,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "顶级密码学家无法就比特币最大的量子问题达成一致",
         "url": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
         "datetime": 1781330820,
@@ -1341,18 +1353,6 @@
         "url": "https://cointelegraph.com/markets/bitcoins-calm-top-challenges-old-bottom-targets-what-traders-need-to-know?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1781311896,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "订单结构凸显交易者信心，比特币涨至 7 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1781307732,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币本周创出新高，但有所回落",
-        "url": "https://investinglive.com/Cryptocurrency/bitcoin-trades-to-new-highs-for-the-week-but-backs-off-20260612/",
-        "datetime": 1781290604,
-        "source": "Forexlive"
       }
     ],
     "ETH": [
@@ -1446,7 +1446,14 @@
         "source": "@NEARProtocol"
       }
     ],
-    "ZEC": [],
+    "ZEC": [
+      {
+        "headline": "Anthropic 的 Mythos AI 在 Zcash 中没有发现更多“严重”错误：Wilcox",
+        "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1781361943,
+        "source": "Cointelegraph"
+      }
+    ],
     "SPACEX": [
       {
         "headline": "SpaceX IPO 争夺揭示了股票代币化和获得股票之间的区别",
