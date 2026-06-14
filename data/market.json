@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T05:25:55.409Z",
+  "updated_at": "2026-06-14T09:21:21.923Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64327,
-      "change_pct": 1.21
+      "price": 64315,
+      "change_pct": 0.81
     },
     {
       "symbol": "ETH",
-      "price": 1676.48,
-      "change_pct": 0.75
+      "price": 1670,
+      "change_pct": -0.21
     },
     {
       "symbol": "SOL",
-      "price": 68.36,
-      "change_pct": 2.37
+      "price": 68.01,
+      "change_pct": 0.88
     },
     {
       "symbol": "HYPE",
-      "price": 60.01,
-      "change_pct": 4.6
+      "price": 60.08,
+      "change_pct": 2.2
     },
     {
       "symbol": "ZEC",
-      "price": 425.09,
-      "change_pct": 3.27
+      "price": 425.22,
+      "change_pct": 2.47
     },
     {
       "symbol": "TAO",
-      "price": 275.57,
-      "change_pct": 26.75
+      "price": 265.67,
+      "change_pct": 9.68
     },
     {
       "symbol": "SKY",
-      "price": 1303.11,
-      "change_pct": -0.68
+      "price": 1304.62,
+      "change_pct": -0.63
     },
     {
       "symbol": "AAVE",
-      "price": 66.27,
-      "change_pct": 1.77
+      "price": 66.07,
+      "change_pct": -0.45
     },
     {
       "symbol": "BNB",
-      "price": 609.02,
-      "change_pct": 1.49
+      "price": 609.73,
+      "change_pct": 1.05
     },
     {
       "symbol": "NEAR",
-      "price": 2.11,
-      "change_pct": 5.65
+      "price": 2.09,
+      "change_pct": 3.4
     },
     {
       "symbol": "DOGE",
-      "price": 0.087471,
-      "change_pct": 1.66
+      "price": 0.086899,
+      "change_pct": -0.43
     },
     {
       "symbol": "SPACEX",
-      "price": 608.89,
-      "change_pct": -1.26
+      "price": 591.58,
+      "change_pct": -5.66
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "英国军队登上受制裁的俄罗斯影子舰队油轮",
+      "summary": "英国国防部表示，SMYRTOS 位于英吉利海峡，在调查期间将被扣留在南海岸附近。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/14/uk-forces-board-sanctioned-russian-shadow-fleet-oil-tanker.html",
+      "datetime": 1781426542,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "特朗普称伊朗和平协议将于周日签署，与德黑兰相矛盾",
+      "summary": "加密货币分析师 Michaël van de Poppe 表示，一项将重新开放霍尔木兹海峡的和平协议可能会将流动性带回加密货币等风险资产。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781413651,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "亚马逊警告引发美国对人择人工智能模型的打击：报告",
       "summary": "周五，亚马逊首席执行官安迪·贾西 (Andy Jassy) 和其他科技公司的电话促使特朗普政府暂停外国公司访问 Anthropic 的《神鬼寓言 5》和《神话 5》人工智能模型。",
       "source": "Cointelegraph",
@@ -724,24 +742,6 @@
       "datetime": 1781287746,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "联邦快递多年来的扭亏为盈在执行重大催化剂后面临重大考验",
-      "summary": "投资者现在想知道回报是否最终到来。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/12/fedexs-yearslong-turnaround-is-facing-a-big-test-after-executing-on-a-major-catalyst.html",
-      "datetime": 1781287612,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "比特币的最新暴跌再次引发了关于拥有它的争论——以及它是否只是“加密货币就是加密货币”",
-      "summary": "加密货币最近的抛售迫使投资者重新审视比特币在投资组合中应该扮演什么角色（如果有的话）。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/12/bitcoins-price-drop-is-forcing-investors-to-revisit-why-they-own-it.html",
-      "datetime": 1781287315,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -817,12 +817,12 @@
     }
   ],
   "btc_score": {
-    "score": 31,
+    "score": 31.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.6,
-    "weekly_score": 16.4,
-    "btc_price": 64350.1,
+    "daily_score": 14.7,
+    "weekly_score": 16.6,
+    "btc_price": 64339.5,
     "fear_greed": 20,
     "indicators": [
       {
@@ -834,8 +834,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.005859,
-        "score": 42,
+        "value": -0.004279,
+        "score": 43,
         "weight": 8,
         "group": "daily"
       },
@@ -855,8 +855,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.29,
-        "score": 26,
+        "value": 1.31,
+        "score": 27,
         "weight": 12,
         "group": "weekly"
       },
@@ -883,7 +883,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 82.9,
+        "value": 83.1,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -911,8 +911,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -57.5,
-        "score": 29,
+        "value": -47.8,
+        "score": 32,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,7 +1030,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1440,
+        "likes": 1439,
         "retweets": 76
       },
       {
@@ -1101,39 +1101,39 @@
     ],
     "saylor": [
       {
+        "text": "BPS measures Bitcoin per common share before senior claims. CEBE BPS measures Bitcoin per common share after senior claims. CEBE is the conservative risk metric. BPS is the common equity growth metric. BTC Yield measures BPS execution.",
+        "url": "https://x.com/saylor/status/2066069710689444235",
+        "time": "Sun Jun 14 08:06:19 +0000 2026",
+        "likes": 1164,
+        "retweets": 125
+      },
+      {
+        "text": "The shorter the liability duration, the more CEBE matters. The longer the duration, the more BPS matters. If claims came due today, CEBE BPS would be the more relevant metric. If BTC outpaces dividend obligations, BPS better captures common equity upside.",
+        "url": "https://x.com/saylor/status/2066069712392319010",
+        "time": "Sun Jun 14 08:06:19 +0000 2026",
+        "likes": 263,
+        "retweets": 18
+      },
+      {
         "text": "Congratulations @ElonMusk and $SPCX on a historic IPO.\n\nThanks to you, 25% of the Mag8 now holds Bitcoin on the balance sheet.",
         "url": "https://x.com/saylor/status/2065740287779987630",
         "time": "Sat Jun 13 10:17:18 +0000 2026",
-        "likes": 26617,
-        "retweets": 1974
+        "likes": 27305,
+        "retweets": 2024
       },
       {
         "text": "Timestamps:\n\n00:00 - The $300T credit opportunity: moving 5–10%, or $15–30T, into bitcoin-backed instruments\n00:49 - The current Bitcoin market: a mild bear market, open capital markets, and continued accumulation\n02:41 - Why Digital Credit matters: reducing volatility and",
         "url": "https://x.com/saylor/status/2065466845549756877",
         "time": "Fri Jun 12 16:10:45 +0000 2026",
-        "likes": 476,
-        "retweets": 65
+        "likes": 481,
+        "retweets": 66
       },
       {
         "text": "Digital Credit. Digital Money. Digital Equity. Digital Treasury.\n\nMy conversation with @ColeMacro at @BTCPrague on the future of capital markets, followed by Q&amp;A on the nuances of Bitcoin-backed securities and corporate finance. https://t.co/tm1yhkVH5N",
         "url": "https://x.com/saylor/status/2065448767306776777",
         "time": "Fri Jun 12 14:58:54 +0000 2026",
-        "likes": 3624,
+        "likes": 3651,
         "retweets": 508
-      },
-      {
-        "text": "I haven’t sold a sat. Strategy is still stacking.",
-        "url": "https://x.com/saylor/status/2065356654913401141",
-        "time": "Fri Jun 12 08:52:53 +0000 2026",
-        "likes": 19180,
-        "retweets": 1443
-      },
-      {
-        "text": "No ₿rakes. https://t.co/eqDwmzVWck",
-        "url": "https://x.com/saylor/status/2065115304888353157",
-        "time": "Thu Jun 11 16:53:51 +0000 2026",
-        "likes": 12029,
-        "retweets": 958
       }
     ],
     "viktorfischer": [
@@ -1177,37 +1177,43 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "SoundHound AI 下跌 72%，你应该买入吗？",
+        "url": "https://finnhub.io/api/news?id=7cb2f2d2ee019dd839553dc964ea2ea6cda5d967f015d3ac1f26038938841ca4",
+        "datetime": 1781422500,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "老年人刚刚对社会保障 2027 年可乐有了重要线索",
+        "url": "https://finnhub.io/api/news?id=4040ea5fc0655d79d865676a932f14bd92fb7d7766e0e6f3c5a63fe1b71f6df6",
+        "datetime": 1781422080,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet 正在筹集 847.5 亿美元以赢得人工智能战争。投资者应该庆祝还是担心？",
+        "url": "https://finnhub.io/api/news?id=44e8aaf59b6c88a67b4f054fe7281ca1268996871ea74a2b957069461a4e563b",
+        "datetime": 1781421900,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "SpaceX、Anthropic 或 OpenAI：哪一个 IPO 更值得买入？",
+        "url": "https://finnhub.io/api/news?id=0e038bdcfdecdfa757f6d0d2d65ae9c45e5ea5230eebc333ffb491342b9ca76e",
+        "datetime": 1781414400,
+        "source": "Yahoo"
+      },
+      {
         "headline": "从长远来看，Rivian 能否击败特斯拉？",
         "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
         "datetime": 1781405580,
         "source": "Yahoo"
-      },
-      {
-        "headline": "想要一生的被动收入吗？六月购买可口可乐，永不出售。",
-        "url": "https://finnhub.io/api/news?id=ad50a1a10fe7e6b72a885efc9d5e5bc2bbddf2b8a0c1b385122e2c09fa32b304",
-        "datetime": 1781405167,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "英伟达股票值得买入吗？",
-        "url": "https://finnhub.io/api/news?id=7ed751a212d768901c2f5783d8020e4e0322599c05fcb953f32e4e6c16fbbb3f",
-        "datetime": 1781403660,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "甲骨文的股价暴跌。这是机遇还是危险信号？",
-        "url": "https://finnhub.io/api/news?id=482c278ae0c9f81c48462afbf0bbec10fd76dc0bf995e69208939eff8d1a68af",
-        "datetime": 1781401860,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "除非这种情况发生，否则美国人正在考虑将社会保障税提高 40%",
-        "url": "https://finnhub.io/api/news?id=764cdad737f70a0f6af3cc44f0655dd66c0e1c5de9283a8b58ee0f4180516fdf",
-        "datetime": 1781398200,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet 正在筹集 847.5 亿美元以赢得人工智能战争。投资者应该庆祝还是担心？",
+        "url": "https://finnhub.io/api/news?id=44e8aaf59b6c88a67b4f054fe7281ca1268996871ea74a2b957069461a4e563b",
+        "datetime": 1781421900,
+        "source": "Yahoo"
+      },
       {
         "headline": "目前华尔街最热门的争论是：大型IPO和新股的大量涌入是否预示着未来的低迷？这取决于",
         "url": "https://finnhub.io/api/news?id=31ddb53d01eb1bf6856577859c7918195aeeae1f4afac68293320f8a109ba3d4",
@@ -1230,12 +1236,6 @@
         "headline": "Alphabet (GOOGL) 向英特尔下了订单，将于 2028 年生产超过 300 万个张量处理单元",
         "url": "https://finnhub.io/api/news?id=7cbe6470878287e3d821b8b846aea46188c7f0da54e6a040ad8cf4f992fc897c",
         "datetime": 1781373587,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "RBC Capital 维持 Zillow Group (ZG) 跑赢大市的评级",
-        "url": "https://finnhub.io/api/news?id=f925a3935187e838fc7756ec8cb9e95da6d1202cec76a30c050bde75cd7d6a71",
-        "datetime": 1781364533,
         "source": "Yahoo"
       }
     ],
