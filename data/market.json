@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T00:02:34.031Z",
+  "updated_at": "2026-06-14T05:25:55.409Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64406,
-      "change_pct": 1.33
+      "price": 64327,
+      "change_pct": 1.21
     },
     {
       "symbol": "ETH",
-      "price": 1680.02,
-      "change_pct": 0.89
+      "price": 1676.48,
+      "change_pct": 0.75
     },
     {
       "symbol": "SOL",
-      "price": 68.85,
-      "change_pct": 3.07
+      "price": 68.36,
+      "change_pct": 2.37
     },
     {
       "symbol": "HYPE",
-      "price": 60.65,
-      "change_pct": 2.38
+      "price": 60.01,
+      "change_pct": 4.6
     },
     {
       "symbol": "ZEC",
-      "price": 420.53,
-      "change_pct": 2.27
+      "price": 425.09,
+      "change_pct": 3.27
     },
     {
       "symbol": "TAO",
-      "price": 262.81,
-      "change_pct": 23.68
+      "price": 275.57,
+      "change_pct": 26.75
     },
     {
       "symbol": "SKY",
-      "price": 1302.92,
-      "change_pct": -1.02
+      "price": 1303.11,
+      "change_pct": -0.68
     },
     {
       "symbol": "AAVE",
-      "price": 67.06,
-      "change_pct": 4.49
+      "price": 66.27,
+      "change_pct": 1.77
     },
     {
       "symbol": "BNB",
-      "price": 609.43,
-      "change_pct": 0.99
+      "price": 609.02,
+      "change_pct": 1.49
     },
     {
       "symbol": "NEAR",
-      "price": 2.13,
-      "change_pct": 5.96
+      "price": 2.11,
+      "change_pct": 5.65
     },
     {
       "symbol": "DOGE",
-      "price": 0.087811,
-      "change_pct": 2.26
+      "price": 0.087471,
+      "change_pct": 1.66
     },
     {
       "symbol": "SPACEX",
-      "price": 632.7,
-      "change_pct": 20.44
+      "price": 608.89,
+      "change_pct": -1.26
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "亚马逊警告引发美国对人择人工智能模型的打击：报告",
+      "summary": "周五，亚马逊首席执行官安迪·贾西 (Andy Jassy) 和其他科技公司的电话促使特朗普政府暂停外国公司访问 Anthropic 的《神鬼寓言 5》和《神话 5》人工智能模型。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781408209,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "加密货币下一个价值数十亿美元的黑客可能会以超人的速度行动",
       "summary": "",
       "source": "CoinDesk",
@@ -733,15 +742,6 @@
       "datetime": 1781287315,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "山姆·班克曼-弗里德 (Sam Bankman-Fried) 推翻 25 年监禁上诉失败",
-      "summary": "联邦上诉法院维持了对 FTX 前首席执行官的定罪，而他向唐纳德·特朗普总统寻求宽大处理的努力似乎面临着巨大的政治困难。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sam-bankman-fried-loses-appeal-to-overturn-25-year-prison-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1781282356,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -769,6 +769,11 @@
       "company": "Anthropic",
       "news": [
         {
+          "headline": "亚马逊警告引发美国对人择人工智能模型的打击：报告",
+          "url": "https://cointelegraph.com/news/amazon-warning-triggered-us-crackdown-on-anthropic-ai-models-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1781408209
+        },
+        {
           "headline": "Anthropic 的 Mythos AI 在 Zcash 中没有发现更多“严重”错误：Wilcox",
           "url": "https://cointelegraph.com/news/anthropic-mythos-audit-no-serious-bugs-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1781361943
@@ -777,11 +782,6 @@
           "headline": "由于美国政府关闭其最强大的人工智能模型，Anthropic 的首次公开募股前股价下跌",
           "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
           "datetime": 1781330525
-        },
-        {
-          "headline": "Anthropic 援引美国指令暂停访问《神鬼寓言 5》、《神话 5》",
-          "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "datetime": 1781318260
         }
       ]
     },
@@ -817,13 +817,13 @@
     }
   ],
   "btc_score": {
-    "score": 30.9,
+    "score": 31,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 14.6,
-    "weekly_score": 16.3,
-    "btc_price": 64438.5,
-    "fear_greed": 18,
+    "weekly_score": 16.4,
+    "btc_price": 64350.1,
+    "fear_greed": 20,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -834,22 +834,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.00451,
-        "score": 43,
+        "value": -0.005859,
+        "score": 42,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.46,
-        "score": 64,
+        "value": 1.43,
+        "score": 62,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 18,
-        "score": 18,
+        "value": 20,
+        "score": 20,
         "weight": 7,
         "group": "daily"
       },
@@ -897,22 +897,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.03,
+        "value": 1.04,
         "score": 18,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 35.9,
-        "score": 27,
+        "value": 35.8,
+        "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -68.6,
-        "score": 26,
+        "value": -57.5,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1104,36 +1104,36 @@
         "text": "Congratulations @ElonMusk and $SPCX on a historic IPO.\n\nThanks to you, 25% of the Mag8 now holds Bitcoin on the balance sheet.",
         "url": "https://x.com/saylor/status/2065740287779987630",
         "time": "Sat Jun 13 10:17:18 +0000 2026",
-        "likes": 25200,
-        "retweets": 1864
+        "likes": 26617,
+        "retweets": 1974
       },
       {
         "text": "Timestamps:\n\n00:00 - The $300T credit opportunity: moving 5–10%, or $15–30T, into bitcoin-backed instruments\n00:49 - The current Bitcoin market: a mild bear market, open capital markets, and continued accumulation\n02:41 - Why Digital Credit matters: reducing volatility and",
         "url": "https://x.com/saylor/status/2065466845549756877",
         "time": "Fri Jun 12 16:10:45 +0000 2026",
-        "likes": 465,
-        "retweets": 64
+        "likes": 476,
+        "retweets": 65
       },
       {
         "text": "Digital Credit. Digital Money. Digital Equity. Digital Treasury.\n\nMy conversation with @ColeMacro at @BTCPrague on the future of capital markets, followed by Q&amp;A on the nuances of Bitcoin-backed securities and corporate finance. https://t.co/tm1yhkVH5N",
         "url": "https://x.com/saylor/status/2065448767306776777",
         "time": "Fri Jun 12 14:58:54 +0000 2026",
-        "likes": 3555,
-        "retweets": 501
+        "likes": 3624,
+        "retweets": 508
       },
       {
         "text": "I haven’t sold a sat. Strategy is still stacking.",
         "url": "https://x.com/saylor/status/2065356654913401141",
         "time": "Fri Jun 12 08:52:53 +0000 2026",
-        "likes": 18933,
-        "retweets": 1429
+        "likes": 19180,
+        "retweets": 1443
       },
       {
         "text": "No ₿rakes. https://t.co/eqDwmzVWck",
         "url": "https://x.com/saylor/status/2065115304888353157",
         "time": "Thu Jun 11 16:53:51 +0000 2026",
-        "likes": 12015,
-        "retweets": 957
+        "likes": 12029,
+        "retweets": 958
       }
     ],
     "viktorfischer": [
@@ -1177,37 +1177,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "NVIDIA 通过澳大利亚 GPU 扩展测试循环 AI 数据中心模型",
-        "url": "https://finnhub.io/api/news?id=34b95f509b3220ed8055d18dff619307b3b9f70cfab9b48bbbb660f787eb7974",
-        "datetime": 1781392358,
+        "headline": "从长远来看，Rivian 能否击败特斯拉？",
+        "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
+        "datetime": 1781405580,
         "source": "Yahoo"
       },
       {
-        "headline": "Palantir 股票反弹时机成熟了吗？",
-        "url": "https://finnhub.io/api/news?id=6d3a158f02667e4e744409b998d90c5473488d8b219326da48f9fe9b38983107",
-        "datetime": 1781389800,
+        "headline": "想要一生的被动收入吗？六月购买可口可乐，永不出售。",
+        "url": "https://finnhub.io/api/news?id=ad50a1a10fe7e6b72a885efc9d5e5bc2bbddf2b8a0c1b385122e2c09fa32b304",
+        "datetime": 1781405167,
         "source": "Yahoo"
       },
       {
-        "headline": "美光科技将于 6 月 24 日公布收益报告。这是一个可能决定该股走势的数字。",
-        "url": "https://finnhub.io/api/news?id=3863521d3c466475d91dfca36cfba5bb90f8635200b80f32d60c99201081c060",
-        "datetime": 1781387760,
+        "headline": "英伟达股票值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=7ed751a212d768901c2f5783d8020e4e0322599c05fcb953f32e4e6c16fbbb3f",
+        "datetime": 1781403660,
         "source": "Yahoo"
       },
       {
-        "headline": "这是我现在唯一愿意购买的两种加密货币",
-        "url": "https://finnhub.io/api/news?id=52c15eed3b45965efa0a65ac309341587be7e1d1e8ba69dbd7dd6cd462ded1f3",
-        "datetime": 1781387220,
+        "headline": "甲骨文的股价暴跌。这是机遇还是危险信号？",
+        "url": "https://finnhub.io/api/news?id=482c278ae0c9f81c48462afbf0bbec10fd76dc0bf995e69208939eff8d1a68af",
+        "datetime": 1781401860,
         "source": "Yahoo"
       },
       {
-        "headline": "美国每年的利息支出刚刚达到 1.6 万亿美元。彼得希夫警告称，美元危机将在触及 2 万亿美元时到来。",
-        "url": "https://finnhub.io/api/news?id=38e5fcf5847619c4ed0459bf3103ad834b3b6578d02047c92151b89ec4ce4aba",
-        "datetime": 1781386366,
+        "headline": "除非这种情况发生，否则美国人正在考虑将社会保障税提高 40%",
+        "url": "https://finnhub.io/api/news?id=764cdad737f70a0f6af3cc44f0655dd66c0e1c5de9283a8b58ee0f4180516fdf",
+        "datetime": 1781398200,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "目前华尔街最热门的争论是：大型IPO和新股的大量涌入是否预示着未来的低迷？这取决于",
+        "url": "https://finnhub.io/api/news?id=31ddb53d01eb1bf6856577859c7918195aeeae1f4afac68293320f8a109ba3d4",
+        "datetime": 1781393000,
+        "source": "Yahoo"
+      },
       {
         "headline": "Alphabet 在 SpaceX 的新曝光为其故事增添了新的维度",
         "url": "https://finnhub.io/api/news?id=97cc33a0479d496fc94b782377b423d5bee4ffbd46a25141926fb0f2edc9fbc7",
@@ -1231,15 +1237,21 @@
         "url": "https://finnhub.io/api/news?id=f925a3935187e838fc7756ec8cb9e95da6d1202cec76a30c050bde75cd7d6a71",
         "datetime": 1781364533,
         "source": "Yahoo"
-      },
-      {
-        "headline": "人工智能需求旺盛，台积电 5 月营收飙升 30%。 TSM 股票在这里仍然被低估。",
-        "url": "https://finnhub.io/api/news?id=da4dee15b994c17a2d5807d06b78240ffd96798ff944f469f3d77e0bb1417fbd",
-        "datetime": 1781362803,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "从长远来看，Rivian 能否击败特斯拉？",
+        "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
+        "datetime": 1781405580,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "埃隆·马斯克现在是世界上第一位亿万富翁。对于特斯拉股东来说，更重要的问题是接下来会发生什么。",
+        "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651",
+        "datetime": 1781400660,
+        "source": "Yahoo"
+      },
       {
         "headline": "特斯拉前董事会成员就 SpaceX 股票发出坦诚信息",
         "url": "https://finnhub.io/api/news?id=89ea8a4a799deb704e6ef6289cd199041caa496234aea3a3b32728dec23edca2",
@@ -1256,18 +1268,6 @@
         "headline": "Strategy 的 Michael Saylor 表示，SpaceX 在纳斯达克的首次亮相将比特币纳入“Mag8”资产负债表的 25%",
         "url": "https://finnhub.io/api/news?id=5075c6f014886d3e3fabbb9d0538b49f4a1d9bece2b9650d8793a7ed0288dfde",
         "datetime": 1781362091,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "马克·库班曾经比埃隆·马斯克和杰夫·贝佐斯的财富加起来还要多——但他“不在乎”的原因会让你感到惊讶：“我试图赢得胜利……”",
-        "url": "https://finnhub.io/api/news?id=9040fe14894cc484e2f70f3f52b73e5787af5d3f27b93ea1799e3e452c2ca6fc",
-        "datetime": 1781361072,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "加里·布莱克 (Gary Black) 预测特斯拉将在 SpaceX IPO 之前出售——罗斯·格伯 (Ross Gerber) 表示投资者将其视为“免费资金”",
-        "url": "https://finnhub.io/api/news?id=f2fa5ac61a70cc91460298e48ed740c5250cf110e0e48a11989cc3d76579a39a",
-        "datetime": 1781353876,
         "source": "Yahoo"
       }
     ],
