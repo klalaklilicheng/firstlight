@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T13:44:51.204Z",
+  "updated_at": "2026-06-14T15:45:01.507Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64306,
-      "change_pct": 0.25
+      "price": 64008,
+      "change_pct": -0.36
     },
     {
       "symbol": "ETH",
-      "price": 1666.11,
-      "change_pct": -0.76
+      "price": 1661.93,
+      "change_pct": -1.12
     },
     {
       "symbol": "SOL",
-      "price": 67.62,
-      "change_pct": -0.75
+      "price": 67.44,
+      "change_pct": -1.52
     },
     {
       "symbol": "HYPE",
-      "price": 61,
-      "change_pct": 2.71
+      "price": 60.44,
+      "change_pct": 0.96
     },
     {
       "symbol": "ZEC",
-      "price": 427.39,
-      "change_pct": 2.6
+      "price": 423.09,
+      "change_pct": 1.55
     },
     {
       "symbol": "TAO",
-      "price": 261.5,
-      "change_pct": 4.39
+      "price": 261.07,
+      "change_pct": -1.47
     },
     {
       "symbol": "SKY",
-      "price": 1313.59,
-      "change_pct": 0.94
+      "price": 1314.54,
+      "change_pct": 0.49
     },
     {
       "symbol": "AAVE",
-      "price": 65.84,
-      "change_pct": -1.54
+      "price": 65.54,
+      "change_pct": -2.61
     },
     {
       "symbol": "BNB",
-      "price": 611.29,
-      "change_pct": 0.34
+      "price": 607.02,
+      "change_pct": -0.48
     },
     {
       "symbol": "NEAR",
-      "price": 2.09,
-      "change_pct": 1.76
+      "price": 2.08,
+      "change_pct": -2.24
     },
     {
       "symbol": "DOGE",
-      "price": 0.086371,
-      "change_pct": -2.14
+      "price": 0.086042,
+      "change_pct": -2.88
     },
     {
       "symbol": "SPACEX",
-      "price": 583.35,
-      "change_pct": -5.65
+      "price": 577.54,
+      "change_pct": -8.85
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "美国证券交易委员会为明确代币化道路而做出的重大转变不太可能获得全面规则的恢复力",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+      "datetime": 1781445600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以太坊的 Kohaku 负责人表示，以太坊只需 7 美分即可实现量子证明",
+      "summary": "SPHINCS-提案旨在降低以太坊上后量子签名验证的成本，同时网络致力于寻求长期解决方案。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781444988,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着代币化国债市场规模达到 146 亿美元，华尔街和加密货币正在相互碰撞",
       "summary": "",
       "source": "CoinDesk",
@@ -627,6 +645,15 @@
       "related": ""
     },
     {
+      "headline": "“狂躁的冲动”推动了 SpaceX 推动的零售风险复合体",
+      "summary": "结果是市场难以确定单一的叙述，投资者在宏观经济发展和投机交易之间摇摆不定",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street",
+      "datetime": 1781363606,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "Anthropic 的 Mythos AI 在 Zcash 中没有发现更多“严重”错误：Wilcox",
       "summary": "Zcash 创始人 Zooko Wilcox 表示，Anthropic 的 Mythos AI 模型在修补之前发现的伪造错误后，没有在隐私协议中发现更多“严重错误”。",
       "source": "Cointelegraph",
@@ -715,33 +742,6 @@
       "datetime": 1781330820,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "由于美国政府关闭其最强大的人工智能模型，Anthropic 的首次公开募股前股价下跌",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
-      "datetime": 1781330525,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币稳定在 63,000 美元以上，这是几个月来最糟糕的一周，得到了后期的宏观救援",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-      "datetime": 1781329598,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "SpaceX IPO 争夺揭示了股票代币化和获得股票之间的区别",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
-      "datetime": 1781327770,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -759,9 +759,9 @@
           "datetime": 1781368562
         },
         {
-          "headline": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到震惊",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "datetime": 1781354626
+          "headline": "“狂躁的冲动”推动了 SpaceX 推动的零售风险复合体",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street",
+          "datetime": 1781363606
         }
       ]
     },
@@ -817,12 +817,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.3,
+    "score": 31.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 14.6,
-    "weekly_score": 16.7,
-    "btc_price": 64308.1,
+    "weekly_score": 17.1,
+    "btc_price": 64048.7,
     "fear_greed": 20,
     "indicators": [
       {
@@ -834,15 +834,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.004863,
+        "value": -0.003954,
         "score": 43,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.41,
-        "score": 61,
+        "value": 1.4,
+        "score": 60,
         "weight": 5,
         "group": "daily"
       },
@@ -862,22 +862,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.158,
-        "score": 41,
+        "value": 0.169,
+        "score": 42,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.776,
-        "score": 6,
+        "value": 0.993,
+        "score": 11,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.999,
-        "score": 49,
+        "value": 0.996,
+        "score": 46,
         "weight": 8,
         "group": "weekly"
       },
@@ -904,15 +904,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.7,
+        "value": 35.4,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -38.1,
-        "score": 35,
+        "value": -31.7,
+        "score": 36,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,7 +1030,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1439,
+        "likes": 1440,
         "retweets": 76
       },
       {
@@ -1075,7 +1075,7 @@
         "url": "https://x.com/QwQiao/status/2062858719826686295",
         "time": "Fri Jun 05 11:26:59 +0000 2026",
         "likes": 898,
-        "retweets": 96
+        "retweets": 95
       },
       {
         "text": "the lion is bidding",
@@ -1104,36 +1104,36 @@
         "text": "Still adding dots. https://t.co/MXVOYPUnYb",
         "url": "https://x.com/saylor/status/2066139784997699672",
         "time": "Sun Jun 14 12:44:46 +0000 2026",
-        "likes": 6335,
-        "retweets": 690
+        "likes": 10963,
+        "retweets": 1144
       },
       {
         "text": "Not all liabilities are equal. Short-duration, high-cost liabilities can turn amplification into risk and underperformance. Long-duration, low-cost liabilities can turn amplification into common equity upside. If BTC ARR exceeds the cost of capital, a well-capitalized Bitcoin",
         "url": "https://x.com/saylor/status/2066090698164588560",
         "time": "Sun Jun 14 09:29:43 +0000 2026",
-        "likes": 738,
-        "retweets": 52
+        "likes": 972,
+        "retweets": 65
       },
       {
         "text": "The difference between BPS and CEBE BPS is Amplification. With no debt or preferreds, BPS = CEBE BPS and a Bitcoin Treasury Company should track BTC like an ETF. As liabilities increase, BPS and CEBE diverge, creating the potential to outperform BTC.",
         "url": "https://x.com/saylor/status/2066090103982731750",
         "time": "Sun Jun 14 09:27:21 +0000 2026",
-        "likes": 569,
-        "retweets": 30
+        "likes": 681,
+        "retweets": 37
       },
       {
         "text": "BPS measures Bitcoin per common share before senior claims. CEBE BPS measures Bitcoin per common share after senior claims. CEBE is the conservative risk metric. BPS is the common equity growth metric. BTC Yield measures BPS execution.",
         "url": "https://x.com/saylor/status/2066069710689444235",
         "time": "Sun Jun 14 08:06:19 +0000 2026",
-        "likes": 2585,
-        "retweets": 253
+        "likes": 2959,
+        "retweets": 288
       },
       {
         "text": "Congratulations @ElonMusk and $SPCX on a historic IPO.\n\nThanks to you, 25% of the Mag8 now holds Bitcoin on the balance sheet.",
         "url": "https://x.com/saylor/status/2065740287779987630",
         "time": "Sat Jun 13 10:17:18 +0000 2026",
-        "likes": 28174,
-        "retweets": 2070
+        "likes": 28528,
+        "retweets": 2094
       }
     ],
     "viktorfischer": [
@@ -1177,37 +1177,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "2只估值低廉且派息不断增长的能源股利股票",
-        "url": "https://finnhub.io/api/news?id=dd6cf66f5a62fa3d96c2b9c1f3526e341b986e215ecf71f3eb83b23daca1bead",
-        "datetime": 1781437500,
+        "headline": "6 月份将重点关注的 3 只云计算股票",
+        "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
+        "datetime": 1781443821,
         "source": "Yahoo"
       },
       {
-        "headline": "Anthropic 的新寓言模型让这 4 只人工智能股票有上涨空间",
-        "url": "https://finnhub.io/api/news?id=515b00056278716ff6db91a49efa287c9ec646d16f479c9ca80174a0c80fe722",
-        "datetime": 1781437020,
+        "headline": "真是一场噩梦！社会保障的财务前景恶化速度快于预期。",
+        "url": "https://finnhub.io/api/news?id=daa3e65818952a953f89d7ad7fc9454d46c1f96e9c52875df5077cd4d2467697",
+        "datetime": 1781443560,
         "source": "Yahoo"
       },
       {
-        "headline": "社会保障资金将比之前预期更快耗尽，特朗普总统负有部分责任",
-        "url": "https://finnhub.io/api/news?id=30d2ce2440a94b862b1059a7feea54243d812b414dc2b89153878c12ae319418",
-        "datetime": 1781436000,
+        "headline": "可口可乐创 52 周高点：买入、卖出还是持有？",
+        "url": "https://finnhub.io/api/news?id=cc60518de12ff5a6a7cf1755ae5d5c3b31b122068602a8537cc237f22d48ecba",
+        "datetime": 1781443530,
         "source": "Yahoo"
       },
       {
-        "headline": "股市即将发生自 1871 年以来从未被观察到的事情——就连华尔街分析师也感到担忧",
-        "url": "https://finnhub.io/api/news?id=22135fb36a9d9e353a2aeca3aa3e211d1034b31da9b01004ca0b7aeed5c8fd60",
-        "datetime": 1781434560,
+        "headline": "发挥高盛 2027 年 1 万亿美元人工智能支出预测的 3 种不为人知的方式",
+        "url": "https://finnhub.io/api/news?id=7de034d9e971cac47889ac01bf984461c5b8b0210a5c75c55f169c53963b0c15",
+        "datetime": 1781443500,
         "source": "Yahoo"
       },
       {
-        "headline": "Marvell 科技股为何本周飙升",
-        "url": "https://finnhub.io/api/news?id=feaf6069f87d146ff4944578eb4768a3668a9a78d61f6f0a1d2ce672264017cb",
-        "datetime": 1781434500,
+        "headline": "鉴于 WWDC 的消息，沃伦·巴菲特出售苹果股票是否正确？",
+        "url": "https://finnhub.io/api/news?id=e117f59c52474840f3951e90f881e01b561c354becbe0f5831538d5a0d96c0f2",
+        "datetime": 1781442300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "6 月份将重点关注的 3 只云计算股票",
+        "url": "https://finnhub.io/api/news?id=4e2bdf904df8815968b37e9605aa24c14071c8293dbfc0f17d6c18a4eccdba95",
+        "datetime": 1781443821,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "发挥高盛 2027 年 1 万亿美元人工智能支出预测的 3 种不为人知的方式",
+        "url": "https://finnhub.io/api/news?id=7de034d9e971cac47889ac01bf984461c5b8b0210a5c75c55f169c53963b0c15",
+        "datetime": 1781443500,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "高盛在 WWDC 后重置苹果股票预测",
+        "url": "https://finnhub.io/api/news?id=4df3d9e6c6766193b06df8468bfa494189291674cd5a862f21da89f963919c1a",
+        "datetime": 1781438580,
+        "source": "Yahoo"
+      },
       {
         "headline": "这个市场处于“a 10”：在人工智能驱动的股市中，华尔街正在考虑创纪录的 SpaceX IPO",
         "url": "https://finnhub.io/api/news?id=2f722834bb7079e2705a6abbd3481e4e27cd56bd2ab8aa0421f9175eb8d8d235",
@@ -1215,31 +1233,19 @@
         "source": "Yahoo"
       },
       {
-        "headline": "看看壮观的 Vanguard ETF，它最早可能在 6 月 19 日购买 SpaceX 股票",
-        "url": "https://finnhub.io/api/news?id=4cf2ad0f0329a7129d929b06b4b6c26fd02834df088dfb815576fce76281b91f",
-        "datetime": 1781431500,
+        "headline": "谷歌透露为何拒绝特朗普政府的量子资助协议：“在这个具体案例中……”",
+        "url": "https://finnhub.io/api/news?id=f4e0594d5937e93cbeefb0c3729fdf84cd8a52f958f4e1ca16e351cd19e7bded",
+        "datetime": 1781436627,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Booking如何赢得在线旅行？能否赢得人工智能旅行？",
-        "url": "https://finnhub.io/api/news?id=5dee81ae6891b5adea2566657d0edf39b48a7812ebaf75092fee563f2e12b4a6",
-        "datetime": 1781425617,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 正在筹集 847.5 亿美元以赢得人工智能战争。投资者应该庆祝还是担心？",
-        "url": "https://finnhub.io/api/news?id=44e8aaf59b6c88a67b4f054fe7281ca1268996871ea74a2b957069461a4e563b",
-        "datetime": 1781421900,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Meta 市盈率为 17 倍：投资并没有变得更容易",
-        "url": "https://finnhub.io/api/news?id=3a615536cf2aa9978251873e519d1b30717dbd985a77f5ce80fe9fc64031d750",
-        "datetime": 1781414723,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "OpenAI 刚刚成立了机器人部门。特斯拉投资者应该担心吗？",
+        "url": "https://finnhub.io/api/news?id=972d21e4d72ef560b0fd2b495899f7d01989a625a61005f18c20bf63460932f0",
+        "datetime": 1781438700,
+        "source": "Yahoo"
+      },
       {
         "headline": "我买的 3 只天才股票，而不是 SpaceX IPO",
         "url": "https://finnhub.io/api/news?id=fff634b31b368b7066fd705ba8a6cf5af8145f0a82d5f0fafa4cd1ab550613d1",
@@ -1262,12 +1268,6 @@
         "headline": "从长远来看，Rivian 能否击败特斯拉？",
         "url": "https://finnhub.io/api/news?id=c3fc80201d1a6273146f33b342ea56ed489a06340a28b3075586f9e229159aac",
         "datetime": 1781405580,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "埃隆·马斯克现在是世界上第一位亿万富翁。对于特斯拉股东来说，更重要的问题是接下来会发生什么。",
-        "url": "https://finnhub.io/api/news?id=d18131bc6fc8e58d8a0800d52243c23318c7d2b4a39212a25b280c3b4de0e651",
-        "datetime": 1781400660,
         "source": "Yahoo"
       }
     ],
@@ -1357,6 +1357,12 @@
     ],
     "ETH": [
       {
+        "headline": "以太坊的 Kohaku 负责人表示，以太坊只需 7 美分即可实现量子证明",
+        "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1781444988,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Etherealize 创始人表示，华尔街正在超越加密货币试点，深入以太坊",
         "url": "https://www.coindesk.com/business/2026/06/13/wall-street-is-moving-past-crypto-pilots-and-deeper-into-ethereum-says-etherealize-founder",
         "datetime": 1781366400,
@@ -1434,21 +1440,21 @@
     ],
     "NEAR": [
       {
+        "headline": "亲自查看",
+        "url": "https://x.com/NEARProtocol/status/2066172490057924785",
+        "datetime": 1781448883,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "最好的基础设施消失在后台。\n\nNEAR Intents 支持跨钱包、聚合器和交易接口的交换，通过一个统一网络连接来自 35 多个链的流动性",
+        "url": "https://x.com/NEARProtocol/status/2066172290677592332",
+        "datetime": 1781448836,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "以下是 @near_ai 如何为用户拥有的人工智能奠定基础。",
         "url": "https://x.com/NEARProtocol/status/2065922506649694386",
         "datetime": 1781389283,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "每一个限制都让我们想起同一件事：\n\n如果访问权可以立即被剥夺，那么它就永远不是真正属于您的。\n\n人工智能的未来需要开放网络、开放基础设施和用户拥有的代理。",
-        "url": "https://x.com/NEARProtocol/status/2065922503646625909",
-        "datetime": 1781389282,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "未来不再是用户管理数十条链上的数十个钱包。\n\n未来需要代理、用户和企业通过单一帐户在任何地方进行操作。\n\n链签名是技术",
-        "url": "https://x.com/NEARProtocol/status/2065836751558443154",
-        "datetime": 1781368837,
         "source": "@NEARProtocol"
       }
     ],
@@ -1474,6 +1480,12 @@
         "source": "CNBC"
       },
       {
+        "headline": "“狂躁的冲动”推动了 SpaceX 推动的零售风险复合体",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street",
+        "datetime": 1781363606,
+        "source": "Bloomberg"
+      },
+      {
         "headline": "SpaceX IPO 争夺揭示了股票代币化和获得股票之间的区别",
         "url": "https://www.coindesk.com/tech/2026/06/13/spacex-ipo-scramble-reveals-difference-between-tokenizing-a-stock-and-getting-one",
         "datetime": 1781327770,
@@ -1484,12 +1496,6 @@
         "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1781317075,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "高盛为 SpaceX 首次公开募股带来了丰厚的回报。另外，是什么推动了本周的赢家和输家",
-        "url": "https://www.cnbc.com/2026/06/12/goldman-nets-a-big-payday-for-spacex-ipo-plus-what-drove-our-winners-and-losers-this-week.html",
-        "datetime": 1781290330,
-        "source": "CNBC"
       }
     ]
   }
