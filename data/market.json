@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T22:12:23.162Z",
+  "updated_at": "2026-06-16T00:25:18.523Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 66416,
-      "change_pct": 1.89
+      "price": 66285,
+      "change_pct": 0.95
     },
     {
       "symbol": "ETH",
-      "price": 1811.25,
-      "change_pct": 5.18
+      "price": 1792.7,
+      "change_pct": 4
     },
     {
       "symbol": "SOL",
-      "price": 74.53,
-      "change_pct": 6.41
+      "price": 73.95,
+      "change_pct": 3.42
     },
     {
       "symbol": "HYPE",
-      "price": 68.22,
-      "change_pct": 8.41
+      "price": 66.85,
+      "change_pct": 4.3
     },
     {
       "symbol": "ZEC",
-      "price": 522.71,
-      "change_pct": 14.46
+      "price": 513.5,
+      "change_pct": 8.6
     },
     {
       "symbol": "TAO",
-      "price": 264.84,
-      "change_pct": -2.4
+      "price": 266.14,
+      "change_pct": -0.55
     },
     {
       "symbol": "SKY",
-      "price": 1339.8,
-      "change_pct": 0.48
+      "price": 1328.25,
+      "change_pct": -0.75
     },
     {
       "symbol": "AAVE",
-      "price": 73.96,
-      "change_pct": 9.27
+      "price": 73.81,
+      "change_pct": 8.02
     },
     {
       "symbol": "BNB",
-      "price": 619.62,
-      "change_pct": 0.97
+      "price": 617.25,
+      "change_pct": 0.18
     },
     {
       "symbol": "NEAR",
-      "price": 2.46,
-      "change_pct": 12.41
+      "price": 2.4,
+      "change_pct": 7.51
     },
     {
       "symbol": "DOGE",
-      "price": 0.088865,
-      "change_pct": 0.69
+      "price": 0.087986,
+      "change_pct": -1.02
     },
     {
       "symbol": "SPACEX",
-      "price": 688.51,
-      "change_pct": 19.58
+      "price": 686.8,
+      "change_pct": 19.84
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "特朗普加密公司的 1 美元稳定币支持 UFC 赛事奖金",
+      "summary": "民主党全国委员会发言人谴责此举是“利用总统权力让[特朗普]及其家人变得更加富有的机会”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1781561400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "英伟达 200 亿美元的债务热潮加强了比特币矿商的人工智能转型",
       "summary": "英伟达计划的债券发行强化了人工智能基础设施需求的蓬勃发展，增强了比特币矿商转向人工智能数据中心的理由。",
       "source": "Cointelegraph",
@@ -733,15 +742,6 @@
       "datetime": 1781522341,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "中东停火，美联储利率决定：加密货币周未来",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
-      "datetime": 1781518489,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -822,39 +822,39 @@
     }
   ],
   "btc_score": {
-    "score": 32.9,
+    "score": 31.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.6,
+    "daily_score": 13.2,
     "weekly_score": 18.3,
-    "btc_price": 66465.4,
-    "fear_greed": 23,
+    "btc_price": 66287,
+    "fear_greed": 25,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 85900000,
-        "score": 56,
+        "value": -116400000,
+        "score": 42,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": -0.00248,
+        "value": -0.001172,
         "score": 44,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.32,
-        "score": 55,
+        "value": 1.35,
+        "score": 57,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 23,
-        "score": 23,
+        "value": 25,
+        "score": 25,
         "weight": 7,
         "group": "daily"
       },
@@ -902,22 +902,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.06,
+        "value": 1.07,
         "score": 19,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 36.6,
-        "score": 28,
+        "value": 36.4,
+        "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -86,
-        "score": 21,
+        "value": -83.1,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -926,7 +926,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 2
+      "days_until": 1
     },
     "schedule": [
       "2025-01-29",
@@ -1056,7 +1056,7 @@
         "text": "Bitcoin is the most honest macro asset -- in its design, it serves as a forward looking mirror -- I wonder all the time about what it's trying to tell us lays ahead.",
         "url": "https://x.com/cburniske/status/2054753557484908758",
         "time": "Thu May 14 02:39:58 +0000 2026",
-        "likes": 803,
+        "likes": 802,
         "retweets": 48
       },
       {
@@ -1072,8 +1072,8 @@
         "text": "- a tam greater than any individual public company (non-sovereign sov)\n\n- a team as mission-driven, capable, and resilient as anyone (a decade in the making)\n\n- confluence of strong tailwinds (surveillance, wealth tax, quantum, reduced supply inflation)\n\n- going thru a",
         "url": "https://x.com/QwQiao/status/2066498380902072686",
         "time": "Mon Jun 15 12:29:42 +0000 2026",
-        "likes": 298,
-        "retweets": 40
+        "likes": 308,
+        "retweets": 42
       },
       {
         "text": "launching rectoandverso, an experiment where i write (very long form) essays the same way i write software.\n\ni architect, outline, then fire off a bunch of agents to research, write, and review. after the first draft is done, i iterate with ai line by line, paragraph by",
@@ -1086,7 +1086,7 @@
         "text": "zcash is starting to feel exactly like the early days of bitcoin. some of the smartest ppl contributing to the project. some of the biggest midwits on the other side. bugs and existential threats. vomit-inducing price volatility. but also insanely asymmetric upside if it catches",
         "url": "https://x.com/QwQiao/status/2062858719826686295",
         "time": "Fri Jun 05 11:26:59 +0000 2026",
-        "likes": 988,
+        "likes": 990,
         "retweets": 107
       },
       {
@@ -1109,35 +1109,35 @@
         "text": "Bitcoin Capitalism — my keynote from @BTCPrague 2026.\n\nDigital Capital is the foundation for Digital Credit, Digital Money, Digital Yield, Digital Equity, and a universe of Bitcoin-backed products and services.\n\nTimestamps:\n\n01:37 - The Four Bitcoin Ideologies and the case for https://t.co/lhy7y8DwTa",
         "url": "https://x.com/saylor/status/2066558321394426082",
         "time": "Mon Jun 15 16:27:53 +0000 2026",
-        "likes": 2714,
-        "retweets": 383
+        "likes": 2972,
+        "retweets": 427
       },
       {
         "text": "Strategy has acquired 1,587 BTC for $100 million to increase our $BTC Reserve to ₿846,842. We have also increased our USD Reserve by $100 million to $1.1 billion. $MSTR $STRC https://t.co/27PYXJN7GD",
         "url": "https://x.com/saylor/status/2066491610863419722",
         "time": "Mon Jun 15 12:02:48 +0000 2026",
-        "likes": 15818,
-        "retweets": 1959
+        "likes": 16250,
+        "retweets": 2011
       },
       {
         "text": "Another Orange Star\nhttps://t.co/vqf4a32OhX",
         "url": "https://x.com/saylor/status/2066440264554516777",
         "time": "Mon Jun 15 08:38:46 +0000 2026",
-        "likes": 8898,
-        "retweets": 604
+        "likes": 9108,
+        "retweets": 620
       },
       {
         "text": "Still adding dots. https://t.co/MXVOYPUnYb",
         "url": "https://x.com/saylor/status/2066139784997699672",
         "time": "Sun Jun 14 12:44:46 +0000 2026",
-        "likes": 19023,
-        "retweets": 1854
+        "likes": 19086,
+        "retweets": 1859
       },
       {
         "text": "Not all liabilities are equal. Short-duration, high-cost liabilities can turn amplification into risk and underperformance. Long-duration, low-cost liabilities can turn amplification into common equity upside. If BTC ARR exceeds the cost of capital, a well-capitalized Bitcoin",
         "url": "https://x.com/saylor/status/2066090698164588560",
         "time": "Sun Jun 14 09:29:43 +0000 2026",
-        "likes": 1358,
+        "likes": 1359,
         "retweets": 98
       }
     ],
@@ -1182,98 +1182,98 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "行业动态：科技股午后上涨",
-        "url": "https://finnhub.io/api/news?id=8cc59c4de0e79dd049dc8eeb32e8adf6b38e51d0edcc00ad5acb95c8883176dc",
-        "datetime": 1781552759,
+        "headline": "为什么美光科技股价今天飙升至历史新高",
+        "url": "https://finnhub.io/api/news?id=38b6bc132ea5914bd1da9846215308644dac7be29090b88b9742e04136040013",
+        "datetime": 1781567423,
         "source": "Yahoo"
       },
       {
-        "headline": "AMD vs 英特尔：两者都致力于人工智能数据中心的增长，但只有一个赢家",
-        "url": "https://finnhub.io/api/news?id=61b4fe95d535b47f02975764e887949445b5ebac142bca731cb410f9e9c2848e",
-        "datetime": 1781552372,
+        "headline": "SpaceX 首次公开募股后：15 天内可能会发生大事。这就是它对您的意义。",
+        "url": "https://finnhub.io/api/news?id=7317710c7045c62af3c952d9687a844a81bb330165f0c69b05024ed4e0af0a66",
+        "datetime": 1781566200,
         "source": "Yahoo"
       },
       {
-        "headline": "雪佛龙股票以 11 倍远期市盈率绝对值得买入",
-        "url": "https://finnhub.io/api/news?id=7af3c0cbafcf59f043d1372efa7513a4a371f6ffe1604bc0fe7ab50e51010c90",
-        "datetime": 1781552254,
+        "headline": "Roku 股票触及 52 周新高：值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=d5af4431ff66aedd5fd1bc11ef7b7ed8f86b49ecaec8e6f2d48dbdfd4c3aed98",
+        "datetime": 1781566001,
         "source": "Yahoo"
       },
       {
-        "headline": "哈萨克斯坦与 Firebird 签署价值高达 100 亿美元的人工智能协议",
-        "url": "https://finnhub.io/api/news?id=06ffa9a5a520ef41a51e0706a89c72b00034f4a7b4637db2bc24d7f415c4ea48",
-        "datetime": 1781551927,
+        "headline": "AMD 的 MEXT 交易和 Ryzen AI Halo 加剧了人工智能估值争论",
+        "url": "https://finnhub.io/api/news?id=1dba3393b0d31d541c8b4e76bd277c29235361a10276d6f339673180a4a567d1",
+        "datetime": 1781565433,
         "source": "Yahoo"
       },
       {
-        "headline": "这就是霍尼韦尔股票今天上涨的原因",
-        "url": "https://finnhub.io/api/news?id=47c3868cdf22086f467dcf4858a06ad37f86e7e8d53759b580155b9fc1c19fa8",
-        "datetime": 1781551774,
+        "headline": "渣打银行表示，随着华尔街转向链上，UNI 可能会达到 100 美元",
+        "url": "https://finnhub.io/api/news?id=02b013ae770d6833b19c02d01bb195fc9f0a743cbc3623eb1e8c3073fca056f3",
+        "datetime": 1781565120,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "您是根据过去还是未来为亚马逊股票定价？",
-        "url": "https://finnhub.io/api/news?id=be90078861288489a42ddca95b34ed0106da679cc7174931afcd4a3f1567a1de",
-        "datetime": 1781550929,
+        "headline": "Roku 股价接近高点，值得吗？",
+        "url": "https://finnhub.io/api/news?id=a97646115a7c4d325432d5bea93200853c4c15d0e6e958c366690a451ce3042c",
+        "datetime": 1781562631,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta、Snap 和 YouTube 面临新压力",
-        "url": "https://finnhub.io/api/news?id=827e493041aa520d2b9db127db480fad4f0d930ae5d67d0cd9936b56e7124a59",
-        "datetime": 1781550164,
+        "headline": "Alphabet (GOOGL) 股票在经历了 109% 的年涨幅和人工智能头条新闻后，其定价仍然合理吗",
+        "url": "https://finnhub.io/api/news?id=c5414cc6779b66dcbf93411ff4ecae3371efb9a9c168e0980e7562008b871e57",
+        "datetime": 1781562081,
         "source": "Yahoo"
       },
       {
-        "headline": "市场对 CoreWeave 股票的定价是否完全错误？",
-        "url": "https://finnhub.io/api/news?id=562cff1796c6f34247c2e5a4ca94cbe5e9316b5dde11d1e9eb2ea59d3005d9f7",
-        "datetime": 1781549881,
+        "headline": "Alphabet Inc. (GOOG) 的涨幅高于市场：主要事实",
+        "url": "https://finnhub.io/api/news?id=7a16a489e8b007fd3e9ef9273bfb4d7220f838fdb7753eb565724369e9a00302",
+        "datetime": 1781559905,
         "source": "Yahoo"
       },
       {
-        "headline": "英伟达五年来首次涉足债券市场",
-        "url": "https://finnhub.io/api/news?id=303f5f021937cefba2382e847811fa6b080dd940602617c55453be2a61362b4a",
-        "datetime": 1781549202,
+        "headline": "Alphabet (GOOGL) 的涨幅超过股市：您应该知道什么",
+        "url": "https://finnhub.io/api/news?id=323fae9063c70ad5ac940fae7bbed5996091e9efd488730616b6e0a8354fc3ee",
+        "datetime": 1781559905,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌与三星会谈凸显台积电产能紧缩",
-        "url": "https://finnhub.io/api/news?id=77714aae5328dd01af24da507806d4f011f57d4d67fbe8c493c8a84afa902d93",
-        "datetime": 1781546460,
+        "headline": "英国提议禁止青少年使用社交媒体。为什么 Meta Stock 没有面临风险。",
+        "url": "https://finnhub.io/api/news?id=0c3d322abf08c6af70ea41fb450d728bcd9c02a0261293f37426e8716ca397b9",
+        "datetime": 1781557860,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "SpaceX 持有 12 亿美元的比特币对投资者意味着什么",
-        "url": "https://finnhub.io/api/news?id=ba14e1a3cefd3bd71f8a0b061e900a9e15c48fb8aa978d72f5a7822e91011e0d",
-        "datetime": 1781550900,
+        "headline": "SpaceX 首次公开募股后：15 天内可能会发生大事。这就是它对您的意义。",
+        "url": "https://finnhub.io/api/news?id=7317710c7045c62af3c952d9687a844a81bb330165f0c69b05024ed4e0af0a66",
+        "datetime": 1781566200,
         "source": "Yahoo"
       },
       {
-        "headline": "ChargePoint数据显示，高油价促使更多美国人选择电动汽车",
-        "url": "https://finnhub.io/api/news?id=c6ebcf0cc96b5edaf3f72ca6fce90d1a4246c47af45a2a61aae8c3b0c7159561",
-        "datetime": 1781550680,
+        "headline": "渣打银行表示，随着华尔街转向链上，UNI 可能会达到 100 美元",
+        "url": "https://finnhub.io/api/news?id=02b013ae770d6833b19c02d01bb195fc9f0a743cbc3623eb1e8c3073fca056f3",
+        "datetime": 1781565120,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉 FSD 数据面临欧盟审查",
-        "url": "https://finnhub.io/api/news?id=6fb46b1c57d7f360bb3e7f099a5b4b78b1d25e256794bf3f12925d72571241f7",
-        "datetime": 1781550063,
+        "headline": "SpaceX 已成为全球 10 家最有价值的公司之一。这就是股票的走势。",
+        "url": "https://finnhub.io/api/news?id=63d69f91f64f1fd09a0af74897bf994b7801acc879a76979240e79dcae50896c",
+        "datetime": 1781558580,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood 斥资 4.44 亿美元收购 SpaceX，抛售特斯拉和 AMD",
-        "url": "https://finnhub.io/api/news?id=2eb9008c0c75fde2377bdc8102768ddf0295f03db0d1ef77aeca8382c6fb44bd",
-        "datetime": 1781549288,
+        "headline": "SpaceX 在 IPO 当天的市值超过了博通、Meta Platform 和特斯拉。接下来它能挑战亚马逊的市值吗？",
+        "url": "https://finnhub.io/api/news?id=a14cbc6167c2563dcaa6dc9a498c1eadf1ffedc45ad1668313f09c5a8449198a",
+        "datetime": 1781556684,
         "source": "Yahoo"
       },
       {
-        "headline": "今天的交易时段发生了什么：S&P500 最活跃的股票",
-        "url": "https://finnhub.io/api/news?id=ffb495457c7ace7bd7d1fbce7d8ccc9f2122149a8f2be6ac484661f719d789b3",
-        "datetime": 1781546700,
-        "source": "ChartMill"
+        "headline": "今日股市：道琼斯指数因特朗普与伊朗协议而上涨；埃隆·马斯克 (Elon Musk) 的 SpaceX 火箭，特斯拉做到了这一点",
+        "url": "https://finnhub.io/api/news?id=b1b6117176c91dc26e6f2fe139c6c0d96914ae426428325606c68dfec307464f",
+        "datetime": 1781556196,
+        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1294,18 +1294,6 @@
         "url": "https://finnhub.io/api/news?id=fc9e335f80314d1a30236428adfdf5474d36fd46a05cb959a122413714886352",
         "datetime": 1780974600,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "秘密行动：Hess Midstream、Gorilla Technology、Vertiv Holdings 等",
-        "url": "https://finnhub.io/api/news?id=25c6804fe2c3f5a7da4cd0ab0c00d2fda29dbc72cde8084400dbc2bd79d213f8",
-        "datetime": 1780962600,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "比特币跌破 60,000 美元为该 ETF 带来 80% 的意外收获",
-        "url": "https://finnhub.io/api/news?id=c5cd998e4a65d2d9f430ed2717faa941150cb333d35c3dbc0cc2ad494a23332d",
-        "datetime": 1780930822,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [
