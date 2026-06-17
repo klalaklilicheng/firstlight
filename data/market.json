@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:50:32.039Z",
+  "updated_at": "2026-06-17T00:12:06.242Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65639,
-      "change_pct": -0.89
+      "price": 65676,
+      "change_pct": -1.02
     },
     {
       "symbol": "ETH",
-      "price": 1790.5,
-      "change_pct": 0.02
+      "price": 1793.35,
+      "change_pct": -0.16
     },
     {
       "symbol": "SOL",
       "price": 73.61,
-      "change_pct": -0.37
+      "change_pct": -0.63
     },
     {
       "symbol": "HYPE",
-      "price": 72.98,
-      "change_pct": 9.26
+      "price": 73.62,
+      "change_pct": 9.82
     },
     {
       "symbol": "ZEC",
-      "price": 507,
-      "change_pct": -1.91
+      "price": 504.64,
+      "change_pct": -2.59
     },
     {
       "symbol": "TAO",
-      "price": 254.99,
-      "change_pct": -3.19
+      "price": 256.76,
+      "change_pct": -3.84
     },
     {
       "symbol": "SKY",
-      "price": 1326.36,
-      "change_pct": 0.52
+      "price": 1328.37,
+      "change_pct": -0.15
     },
     {
       "symbol": "AAVE",
-      "price": 76.35,
-      "change_pct": 3.83
+      "price": 75.89,
+      "change_pct": 2.74
     },
     {
       "symbol": "BNB",
-      "price": 605.3,
-      "change_pct": -1.88
+      "price": 605.39,
+      "change_pct": -2.13
     },
     {
       "symbol": "NEAR",
-      "price": 2.32,
-      "change_pct": -3.75
+      "price": 2.31,
+      "change_pct": -3.6
     },
     {
       "symbol": "DOGE",
-      "price": 0.087213,
-      "change_pct": -0.91
+      "price": 0.087142,
+      "change_pct": -1.18
     },
     {
       "symbol": "SPACEX",
-      "price": 623.19,
-      "change_pct": -9.16
+      "price": 634.84,
+      "change_pct": -4.01
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "克莱默的闪电轮：购买卡瓦酒",
+      "summary": "《疯狂金钱》主持人吉姆·克莱默敲响了闪电般的铃声，这意味着他正在快速回答来电者的股票问题。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/cramers-lightning-round-buy-cava.html",
+      "datetime": 1781650561,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "美伊和平协议后比特币突破 6.7 万美元：这是牛市陷阱吗？",
+      "summary": "尽管比特币衍生品数据凸显了交易员的怀疑态度，尽管比特币短暂反弹至 67,000 美元以上。多头正在步入陷阱吗？",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1781648920,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Databricks 销售额增长超过 80%，但人工智能代理群导致利润率不断缩水",
       "summary": "随着人工智能代理协助数据分析，Databricks 出现了更高的增长，但所有这些活动都显着增加了成本。",
       "source": "CNBC",
@@ -724,24 +742,6 @@
       "datetime": 1781620234,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "随着早期交易的到来，期权“教父”认为 SpaceX 超越英伟达和特斯拉",
-      "summary": "SpaceX 的选项已正式列出，并且即将开始竞争。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/16/godfather-of-options-sees-spacex-surpassing-nvidia-tesla-as-early-trades-come-in.html",
-      "datetime": 1781620060,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "道富银行通过新的货币市场基金瞄准稳定币储备繁荣",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund",
-      "datetime": 1781620046,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -817,13 +817,13 @@
     }
   ],
   "btc_score": {
-    "score": 31.7,
+    "score": 31.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.5,
+    "daily_score": 14.3,
     "weekly_score": 17.2,
-    "btc_price": 65688.1,
-    "fear_greed": 25,
+    "btc_price": 65767.7,
+    "fear_greed": 24,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -834,8 +834,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003567,
-        "score": 47,
+        "value": 0.001965,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
@@ -848,8 +848,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 25,
-        "score": 25,
+        "value": 24,
+        "score": 24,
         "weight": 7,
         "group": "daily"
       },
@@ -904,14 +904,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
+        "value": 35.6,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -90,
+        "value": -89.3,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -921,7 +921,7 @@
   "fomc": {
     "next": {
       "date": "2026-06-17",
-      "days_until": 1
+      "days_until": 0
     },
     "schedule": [
       "2025-01-29",
@@ -1067,7 +1067,7 @@
         "text": "- a tam greater than any individual public company (non-sovereign sov)\n\n- a team as mission-driven, capable, and resilient as anyone (a decade in the making)\n\n- confluence of strong tailwinds (surveillance, wealth tax, quantum, reduced supply inflation)\n\n- going thru a",
         "url": "https://x.com/QwQiao/status/2066498380902072686",
         "time": "Mon Jun 15 12:29:42 +0000 2026",
-        "likes": 346,
+        "likes": 347,
         "retweets": 45
       },
       {
@@ -1104,36 +1104,36 @@
         "text": "Bitcoin has already won as Digital Capital.\n\nThe next wave is Digital Credit, Digital Money, Digital Yield, and Bitcoin-backed capital markets — products that can bring trillions of dollars of traditional credit and money market capital onto Bitcoin.\n\nMy interview with https://t.co/tSxdg4BRuy",
         "url": "https://x.com/saylor/status/2066945726861492262",
         "time": "Tue Jun 16 18:07:17 +0000 2026",
-        "likes": 2661,
-        "retweets": 343
+        "likes": 2854,
+        "retweets": 362
       },
       {
         "text": "₿uild them a product they’re allowed to buy.\n\nBitcoin Capitalism — in 2 minutes. https://t.co/1sPfIlMRPA",
         "url": "https://x.com/saylor/status/2066888546212872454",
         "time": "Tue Jun 16 14:20:05 +0000 2026",
-        "likes": 5522,
-        "retweets": 623
+        "likes": 5745,
+        "retweets": 651
       },
       {
         "text": "Digital Money should be stable, liquid, digital, and yield-bearing. Bitcoin-backed credit makes that possible. The next wave is not just stablecoins — it is stable-value money with yield, built on Bitcoin. $BTC",
         "url": "https://x.com/saylor/status/2066836220747903414",
         "time": "Tue Jun 16 10:52:09 +0000 2026",
-        "likes": 4198,
-        "retweets": 561
+        "likes": 4287,
+        "retweets": 574
       },
       {
         "text": "https://t.co/vpJ4mVDwhn",
         "url": "https://x.com/saylor/status/2066770709569798353",
         "time": "Tue Jun 16 06:31:50 +0000 2026",
-        "likes": 2691,
-        "retweets": 435
+        "likes": 2717,
+        "retweets": 440
       },
       {
         "text": "Bitcoin Capitalism — my keynote from @BTCPrague 2026.\n\nDigital Capital is the foundation for Digital Credit, Digital Money, Digital Yield, Digital Equity, and a universe of Bitcoin-backed products and services.\n\nTimestamps:\n\n01:37 - The Four Bitcoin Ideologies and the case for https://t.co/lhy7y8DwTa",
         "url": "https://x.com/saylor/status/2066558321394426082",
         "time": "Mon Jun 15 16:27:53 +0000 2026",
-        "likes": 4141,
-        "retweets": 621
+        "likes": 4167,
+        "retweets": 624
       }
     ],
     "viktorfischer": [
@@ -1141,7 +1141,7 @@
         "text": "Of course. Because it's generating uncorrelated 6.15% yield 💡 https://t.co/tWi7p3ejph",
         "url": "https://x.com/viktorfischer/status/2066889588124140017",
         "time": "Tue Jun 16 14:24:13 +0000 2026",
-        "likes": 13,
+        "likes": 15,
         "retweets": 2
       },
       {
@@ -1289,12 +1289,6 @@
         "url": "https://finnhub.io/api/news?id=c5935df31d9b44bd5212cd112fcf83d6ca0e94f3874a5dd675a678ec6775d0cb",
         "datetime": 1781094619,
         "source": "Benzinga"
-      },
-      {
-        "headline": "IPO管道和下一阶段的证券借贷需求",
-        "url": "https://finnhub.io/api/news?id=fc9e335f80314d1a30236428adfdf5474d36fd46a05cb959a122413714886352",
-        "datetime": 1780974600,
-        "source": "SeekingAlpha"
       }
     ],
     "LKNCY": [
@@ -1319,6 +1313,12 @@
     ],
     "BTC": [
       {
+        "headline": "美伊和平协议后比特币突破 6.7 万美元：这是牛市陷阱吗？",
+        "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "datetime": 1781648920,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "VanEck 表示，比特币矿工的人工智能支点面临 500 亿美元的现实检验",
         "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-miners-ai-pivot-faces-usd50-billion-reality-check-says-vaneck",
         "datetime": 1781643498,
@@ -1340,12 +1340,6 @@
         "headline": "比特币股票背离回归，比特币跌至 6.6 万美元，而油价则跌至 78 美元以下",
         "url": "https://cointelegraph.com/markets/bitcoin-stocks-divergence-returns-as-btc-drops-to-66k-while-nasdaq-adds-3?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "datetime": 1781619499,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着日本加息，比特币可能会再次跌向 6 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-selloff-toward-60k-may-resume-as-japan-hikes-interest-rates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "datetime": 1781613426,
         "source": "Cointelegraph"
       }
     ],
@@ -1435,6 +1429,12 @@
     ],
     "NEAR": [
       {
+        "headline": "未来谁应该控制人工智能的访问：用户还是平台？\n\n明天加入我们的 The Off Switch: User-Owned AI After Mythos 5。关于隐私、可验证的 AI 和构建系统的现场讨论",
+        "url": "https://x.com/NEARProtocol/status/2067026977190470132",
+        "datetime": 1781652609,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "来自您已使用的账户的加密货币中最深层的流动性。 \n\n没有新的链条。没有新的应用程序。犯人，上",
         "url": "https://x.com/NEARProtocol/status/2066974540895322224",
         "datetime": 1781640107,
@@ -1444,12 +1444,6 @@
         "headline": "NEAR 逐层进行了独特的架构，以确保用户在代理经济中控制自己的资产、数据和选择权。\n\n以下是 NEAR 是如何为用户拥有的人工智能提供支持的，以及证明",
         "url": "https://x.com/NEARProtocol/status/2066912426897842541",
         "datetime": 1781625298,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR Intents 的总潜在市场（保守估计）：",
-        "url": "https://x.com/NEARProtocol/status/2066871630882607425",
-        "datetime": 1781615572,
         "source": "@NEARProtocol"
       }
     ],
