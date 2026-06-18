@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T22:42:02.467Z",
+  "updated_at": "2026-06-18T00:10:39.621Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64302,
-      "change_pct": -2.08
+      "price": 64532,
+      "change_pct": -1.74
     },
     {
       "symbol": "ETH",
-      "price": 1741.9,
-      "change_pct": -2.77
+      "price": 1751.82,
+      "change_pct": -2.35
     },
     {
       "symbol": "SOL",
-      "price": 71.77,
-      "change_pct": -2.67
+      "price": 72.12,
+      "change_pct": -1.89
     },
     {
       "symbol": "HYPE",
-      "price": 71.02,
-      "change_pct": -3.03
+      "price": 71.53,
+      "change_pct": -2.87
     },
     {
       "symbol": "ZEC",
-      "price": 482.07,
-      "change_pct": -5.29
+      "price": 480.06,
+      "change_pct": -4.87
     },
     {
       "symbol": "TAO",
-      "price": 246.68,
-      "change_pct": -3.41
+      "price": 246.93,
+      "change_pct": -3.91
     },
     {
       "symbol": "SKY",
-      "price": 1326.28,
-      "change_pct": -0.11
+      "price": 1329.06,
+      "change_pct": 0.05
     },
     {
       "symbol": "AAVE",
-      "price": 73.73,
-      "change_pct": -3.7
+      "price": 73.99,
+      "change_pct": -2.49
     },
     {
       "symbol": "BNB",
-      "price": 599.34,
-      "change_pct": -1.06
+      "price": 601.96,
+      "change_pct": -0.54
     },
     {
       "symbol": "NEAR",
-      "price": 2.23,
-      "change_pct": -4.01
+      "price": 2.19,
+      "change_pct": -5.32
     },
     {
       "symbol": "DOGE",
-      "price": 0.085713,
-      "change_pct": -1.8
+      "price": 0.086093,
+      "change_pct": -1.19
     },
     {
       "symbol": "SPACEX",
-      "price": 664.04,
-      "change_pct": 6.56
+      "price": 656.55,
+      "change_pct": 3.42
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "Warsh FOMC、特朗普伊朗评论后，加密货币市场如履薄冰",
+      "summary": "特朗普总统对伊朗和平协议的评论不一，美联储主席凯文·沃什暗示美联储将采取新的方向，导致市场波动。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1781739929,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "博彩组织敦促国会在《清晰法案》中禁止预测市场体育博彩",
       "summary": "博彩业团体希望美国参议院介入，澄清商品期货交易委员会无权监督预测市场。",
       "source": "Cointelegraph",
@@ -733,15 +742,6 @@
       "datetime": 1781705529,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "用户报告，Ready USDC 卡在发卡机构变更后停止非 EEA 服务",
-      "summary": "用户报告称，在卡提供商变更引发快速停用通知后，在欧洲经济区之外无法使用 Ready 的 USDC 卡。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1781705294,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -801,39 +801,39 @@
     }
   ],
   "btc_score": {
-    "score": 31.9,
+    "score": 31.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
+    "daily_score": 15,
     "weekly_score": 16.6,
-    "btc_price": 64374.6,
-    "fear_greed": 24,
+    "btc_price": 64609.5,
+    "fear_greed": 22,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -11400000,
-        "score": 49,
+        "value": -54900000,
+        "score": 46,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.001244,
+        "value": 0.002889,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.71,
-        "score": 81,
+        "value": 1.77,
+        "score": 85,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 24,
-        "score": 24,
+        "value": 22,
+        "score": 22,
         "weight": 7,
         "group": "daily"
       },
@@ -874,7 +874,7 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.69,
+        "value": 0.7,
         "score": 13,
         "weight": 6,
         "group": "weekly"
@@ -888,15 +888,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.5,
+        "value": 33.9,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -65.8,
-        "score": 27,
+        "value": -63.1,
+        "score": 28,
         "weight": 4,
         "group": "weekly"
       }
@@ -904,8 +904,8 @@
   },
   "fomc": {
     "next": {
-      "date": "2026-06-17",
-      "days_until": 0
+      "date": "2026-07-29",
+      "days_until": 41
     },
     "schedule": [
       "2025-01-29",
@@ -1014,14 +1014,14 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 833,
-        "retweets": 48
+        "likes": 846,
+        "retweets": 50
       },
       {
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1449,
+        "likes": 1450,
         "retweets": 77
       },
       {
@@ -1035,14 +1035,14 @@
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 887,
+        "likes": 888,
         "retweets": 48
       },
       {
         "text": "Bitcoin is the most honest macro asset -- in its design, it serves as a forward looking mirror -- I wonder all the time about what it's trying to tell us lays ahead.",
         "url": "https://x.com/cburniske/status/2054753557484908758",
         "time": "Thu May 14 02:39:58 +0000 2026",
-        "likes": 803,
+        "likes": 804,
         "retweets": 48
       }
     ],
@@ -1088,36 +1088,36 @@
         "text": "The hardest thing in business is not seeing the future. It is surviving long enough to build it.\n\nMy fireside chat with @Julian_Liniger at @BTCPrague on focus, endurance, corporate transformation, and how entrepreneurs can use Bitcoin, AI, and digital finance to create the next https://t.co/0wOsUrZBY3",
         "url": "https://x.com/saylor/status/2067234930946408752",
         "time": "Wed Jun 17 13:16:29 +0000 2026",
-        "likes": 3383,
-        "retweets": 435
+        "likes": 3481,
+        "retweets": 449
       },
       {
         "text": "$STRC now pays dividends twice per month.\n\nWhat is the clearest way to describe this?",
         "url": "https://x.com/saylor/status/2067191797466452260",
         "time": "Wed Jun 17 10:25:05 +0000 2026",
-        "likes": 1742,
-        "retweets": 152
+        "likes": 1794,
+        "retweets": 156
       },
       {
         "text": "Bitcoin has already won as Digital Capital.\n\nThe next wave is Digital Credit, Digital Money, Digital Yield, and Bitcoin-backed capital markets — products that can bring trillions of dollars of traditional credit and money market capital onto Bitcoin.\n\nMy interview with https://t.co/tSxdg4BRuy",
         "url": "https://x.com/saylor/status/2066945726861492262",
         "time": "Tue Jun 16 18:07:17 +0000 2026",
-        "likes": 4274,
-        "retweets": 617
+        "likes": 4309,
+        "retweets": 624
       },
       {
         "text": "₿uild them a product they’re allowed to buy.\n\nBitcoin Capitalism — in 2 minutes. https://t.co/1sPfIlMRPA",
         "url": "https://x.com/saylor/status/2066888546212872454",
         "time": "Tue Jun 16 14:20:05 +0000 2026",
-        "likes": 7527,
-        "retweets": 909
+        "likes": 7590,
+        "retweets": 922
       },
       {
         "text": "Digital Money should be stable, liquid, digital, and yield-bearing. Bitcoin-backed credit makes that possible. The next wave is not just stablecoins — it is stable-value money with yield, built on Bitcoin. $BTC",
         "url": "https://x.com/saylor/status/2066836220747903414",
         "time": "Tue Jun 16 10:52:09 +0000 2026",
-        "likes": 4993,
-        "retweets": 775
+        "likes": 5012,
+        "retweets": 776
       }
     ],
     "viktorfischer": [
@@ -1125,7 +1125,7 @@
         "text": "Yesterday was the largest day for tokenized equities in crypto.\n\nOver $142m in spot volume, with 97% of this happening on @solana.",
         "url": "https://x.com/viktorfischer/status/2067330358786371810",
         "time": "Wed Jun 17 19:35:41 +0000 2026",
-        "likes": 23,
+        "likes": 26,
         "retweets": 2
       },
       {
@@ -1267,12 +1267,6 @@
         "url": "https://finnhub.io/api/news?id=3e198cb05de99bacb12024c376979c01f857d284ed998583869cdf2d88eadb63",
         "datetime": 1781526882,
         "source": "Benzinga"
-      },
-      {
-        "headline": "随着稳定币的流行，威胁向量也随之增加",
-        "url": "https://finnhub.io/api/news?id=c5935df31d9b44bd5212cd112fcf83d6ca0e94f3874a5dd675a678ec6775d0cb",
-        "datetime": 1781094619,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [
@@ -1280,18 +1274,6 @@
         "headline": "Black Rock 咖啡吧：管理层表示到 2035 年将开设 1,000 个门店，我相信他们",
         "url": "https://finnhub.io/api/news?id=8ce4e7be02bb49689526ccc00088cc9db61c16b8accc30a2ffbc813f66bf97d9",
         "datetime": 1781259339,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "星巴克：市场对成功的定价太快了",
-        "url": "https://finnhub.io/api/news?id=351b6be6b687094bac68b0af09367780c741881ef06621fa1c64ef6af8ee1745",
-        "datetime": 1781108693,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "瑞幸咖啡：评级上调至持有，竞争活力增强，但结构性阻力依然存在",
-        "url": "https://finnhub.io/api/news?id=e14b04f516ae973376293203d561fab179edb4cd123982ea66db6633d16d8998",
-        "datetime": 1781057101,
         "source": "SeekingAlpha"
       }
     ],
