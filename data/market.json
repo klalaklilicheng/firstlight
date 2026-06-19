@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:03:27.870Z",
+  "updated_at": "2026-06-19T22:46:42.349Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63157,
-      "change_pct": 0.2
+      "price": 63259,
+      "change_pct": 0.77
     },
     {
       "symbol": "ETH",
-      "price": 1706.66,
-      "change_pct": -0.16
+      "price": 1706.71,
+      "change_pct": 0.18
     },
     {
       "symbol": "SOL",
-      "price": 69.16,
-      "change_pct": -0.89
+      "price": 69.29,
+      "change_pct": -0.09
     },
     {
       "symbol": "HYPE",
-      "price": 70.22,
-      "change_pct": 2.12
+      "price": 70.04,
+      "change_pct": 3.24
     },
     {
       "symbol": "ZEC",
-      "price": 452.07,
-      "change_pct": -0.71
+      "price": 461.73,
+      "change_pct": 1.17
     },
     {
       "symbol": "TAO",
-      "price": 224.68,
-      "change_pct": -4.65
+      "price": 226.41,
+      "change_pct": -3.38
     },
     {
       "symbol": "SKY",
-      "price": 1338.57,
-      "change_pct": 0.69
+      "price": 1338.05,
+      "change_pct": 0.32
     },
     {
       "symbol": "AAVE",
-      "price": 72.61,
-      "change_pct": -2.15
+      "price": 72.73,
+      "change_pct": -1.7
     },
     {
       "symbol": "BNB",
-      "price": 581.08,
-      "change_pct": 0.29
+      "price": 580.38,
+      "change_pct": 0.26
     },
     {
       "symbol": "NEAR",
       "price": 2.15,
-      "change_pct": -2.9
+      "change_pct": -2.11
     },
     {
       "symbol": "DOGE",
-      "price": 0.083125,
-      "change_pct": -0.31
+      "price": 0.083052,
+      "change_pct": -0.15
     },
     {
       "symbol": "SPACEX",
-      "price": 573.84,
-      "change_pct": -4.58
+      "price": 576.28,
+      "change_pct": -4.95
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "嘉信理财将押注标普 500 指数进入预测市场：《华尔街日报》",
+      "summary": "据报道，这家金融服务公司的报价仅包括对标普 500 指数收盘价高于还是低于目标价的“是或否”押注。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1781903467,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "13B 美元比特币期权即将到期：多头会在 6 月份承受更多痛苦吗？",
+      "summary": "比特币空头在即将到来的比特币期权到期时占据上风，这可能是比特币可能出现更多下行空间的早期警告。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1781902669,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "WhiteBIT 在 7 月 1 日欧盟截止日期前获得奥地利 MiCA 许可证",
       "summary": "奥地利的授权使 WhiteBIT 能够访问欧盟统一的加密框架，这将要求交易所持有 MiCA 许可证，否则将在 7 月 1 日之后停止为客户提供服务。",
       "source": "Cointelegraph",
@@ -724,24 +742,6 @@
       "datetime": 1781848610,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Algorand 计划到 2027 年实现“广泛的量子弹性”",
-      "summary": "Algorand 正在规划新的账户和共识机制，旨在抵御量子计算机的密码破解威胁。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1781848284,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "微软警告用户“Crypto Clipper”恶意软件通过 USB 驱动器传播",
-      "summary": "微软表示，该恶意软件将数据窃取与远程代码执行相结合，“将出于经济动机的窃取者变成了轻量级后门”。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1781847186,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -807,7 +807,7 @@
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 15.1,
     "weekly_score": 14.1,
-    "btc_price": 63167.3,
+    "btc_price": 63326.5,
     "fear_greed": 20,
     "indicators": [
       {
@@ -819,7 +819,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006883,
+        "value": 0.00646,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -889,14 +889,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 32.3,
-        "score": 20,
+        "value": 32.4,
+        "score": 21,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -94.3,
+        "value": -93,
         "score": 19,
         "weight": 4,
         "group": "weekly"
@@ -1089,35 +1089,35 @@
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 18206,
-        "retweets": 1167
+        "likes": 18608,
+        "retweets": 1198
       },
       {
         "text": "Building on ₿846,842. https://t.co/JFnBXMLuDM",
         "url": "https://x.com/saylor/status/2067573786698805279",
         "time": "Thu Jun 18 11:42:59 +0000 2026",
-        "likes": 7021,
-        "retweets": 674
+        "likes": 7061,
+        "retweets": 677
       },
       {
         "text": "The hardest thing in business is not seeing the future. It is surviving long enough to build it.\n\nMy fireside chat with @Julian_Liniger at @BTCPrague on focus, endurance, corporate transformation, and how entrepreneurs can use Bitcoin, AI, and digital finance to create the next https://t.co/0wOsUrZBY3",
         "url": "https://x.com/saylor/status/2067234930946408752",
         "time": "Wed Jun 17 13:16:29 +0000 2026",
-        "likes": 4759,
+        "likes": 4761,
         "retweets": 609
       },
       {
         "text": "$STRC now pays dividends twice per month.\n\nWhat is the clearest way to describe this?",
         "url": "https://x.com/saylor/status/2067191797466452260",
         "time": "Wed Jun 17 10:25:05 +0000 2026",
-        "likes": 2723,
-        "retweets": 241
+        "likes": 2724,
+        "retweets": 242
       },
       {
         "text": "Bitcoin has already won as Digital Capital.\n\nThe next wave is Digital Credit, Digital Money, Digital Yield, and Bitcoin-backed capital markets — products that can bring trillions of dollars of traditional credit and money market capital onto Bitcoin.\n\nMy interview with https://t.co/tSxdg4BRuy",
         "url": "https://x.com/saylor/status/2066945726861492262",
         "time": "Tue Jun 16 18:07:17 +0000 2026",
-        "likes": 4719,
+        "likes": 4720,
         "retweets": 689
       }
     ],
@@ -1162,37 +1162,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "现在购买这三只成长型股票，忽略噪音，稍后感谢自己",
-        "url": "https://finnhub.io/api/news?id=98738545987a0f600eed4c30fb3a345c67626cd280f5bc111ce823d0e4be1e3d",
-        "datetime": 1781898060,
+        "headline": "超越万亿美元俱乐部：现在值得购买的 3 只高增长科技股",
+        "url": "https://finnhub.io/api/news?id=f403ba02cfb950b44f492befac6b23485b8f8a3ea679f57f4538ac23f4a5a7c0",
+        "datetime": 1781905260,
         "source": "Yahoo"
       },
       {
-        "headline": "随着人工智能广告技术故事的反弹，AppLovin 可能会达到 600 美元以上，上涨 28%",
-        "url": "https://finnhub.io/api/news?id=a3678efeb1325757ea7e590f578668f46e926a232ba4ff7d898bcd21b9f944ed",
-        "datetime": 1781898007,
+        "headline": "内存繁荣是美光科技的一份礼物。对于苹果来说，这正在成为一个问题。或者是吗？",
+        "url": "https://finnhub.io/api/news?id=1a5a010fed01dc1cb77c6ffba068f19e246876a83e1ac21360a6455ba56cecf5",
+        "datetime": 1781905073,
         "source": "Yahoo"
       },
       {
-        "headline": "1 股利王股票下跌 25%，立即买入",
-        "url": "https://finnhub.io/api/news?id=251c3497c8dae7ff10182f29fb31d618cc4968ba09c66054dc6d10deef508d39",
-        "datetime": 1781897220,
+        "headline": "为什么 Gildan Activewear 股票本周下跌 11%",
+        "url": "https://finnhub.io/api/news?id=2f35d601ec4073c27a4921cca582d7a4759c08a4c53ebf1d303b323a8f6694b7",
+        "datetime": 1781904795,
         "source": "Yahoo"
       },
       {
-        "headline": "预测：礼来公司当天交易价格为 1,200 美元",
-        "url": "https://finnhub.io/api/news?id=e3e16aa7f24416a0493777b2da0e4f86f257a000ea41b00b60a8b5c1989b5fd5",
-        "datetime": 1781896548,
+        "headline": "赚六位数的钱却把一切都押在美股上？ AVUV 解决了这个问题",
+        "url": "https://finnhub.io/api/news?id=0afbebec5abf734da03c9f244eec5833f0669930a170b3801fffc82e0b4fd09d",
+        "datetime": 1781904635,
         "source": "Yahoo"
       },
       {
-        "headline": "阿彻航空股票：买入、卖出还是持有？",
-        "url": "https://finnhub.io/api/news?id=11beb075b52d043731b800d5a1a3055fd9082e49fa6207f5c5df0d4b8916e03f",
-        "datetime": 1781896500,
+        "headline": "在被称为下一个万亿美元人工智能股票并加入标准普尔 500 指数之后，Marvell 首席财务官刚刚申请抛售 6500 万美元的股票。这就是为什么。",
+        "url": "https://finnhub.io/api/news?id=f9c79dffd676f7e113aacba4a410aa399a51eac2436bc96ea9d2e587d090c093",
+        "datetime": 1781904420,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "赚六位数的钱却把一切都押在美股上？ AVUV 解决了这个问题",
+        "url": "https://finnhub.io/api/news?id=0afbebec5abf734da03c9f244eec5833f0669930a170b3801fffc82e0b4fd09d",
+        "datetime": 1781904635,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "如果您年满 38 岁并节省了 50 万美元，AVUV 可以修复您的科技型投资组合",
+        "url": "https://finnhub.io/api/news?id=e8fc056ff649d401d396d8fa6fe82e6b162182048e8f9bf55c67ea32eb9f59d5",
+        "datetime": 1781903412,
+        "source": "Yahoo"
+      },
       {
         "headline": "SpaceX 股票加入人工智能债券热潮",
         "url": "https://finnhub.io/api/news?id=773da44d54d110b7ad818a794c8785dffed431b9d33af9d031297108d324ddd3",
@@ -1210,21 +1222,21 @@
         "url": "https://finnhub.io/api/news?id=1fee8ae374d09e753b6a9043aa0d2aa63295ddd1c2c4315b37f2cf5db0b1e6c8",
         "datetime": 1781892667,
         "source": "Yahoo"
-      },
-      {
-        "headline": "这种金属对于人工智能至关重要，但供应短缺。以下是三只值得买入的顶级矿业股，以利用迫在眉睫的赤字。",
-        "url": "https://finnhub.io/api/news?id=6a3996fc6f6adf2dd2b7aee32939e027fd0df66940650f588cd71aa9c19a3efb",
-        "datetime": 1781892000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌以大胆的新人工智能芯片战略挑战英伟达",
-        "url": "https://finnhub.io/api/news?id=ee1a80dcf558660694fe9bdf7a1fed36abffa25adb54b1bb127e27b0794ea7d7",
-        "datetime": 1781891305,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "尽管现金紧缩，华尔街预计特斯拉竞争对手股价仍将飙升 90%",
+        "url": "https://finnhub.io/api/news?id=a72a0c50469d155a6f0f45449f595de4b77584d861667976b66adeb4f6524821",
+        "datetime": 1781899620,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "如果您 10 年前在特斯拉投资 10,000 美元，那么您今天会拥有多少钱",
+        "url": "https://finnhub.io/api/news?id=d84dce23e4d4d6dcde64204da6fbb708290e2e6bfd06b4415225cb66027cc092",
+        "datetime": 1781899440,
+        "source": "Yahoo"
+      },
       {
         "headline": "Cathie Wood 大胆押注特斯拉，抛售 7700 万美元 Roku 股票",
         "url": "https://finnhub.io/api/news?id=e72d4881c32a358ad6b35a5cdd4197192ca11872ea175e72a91e593ac7510f02",
@@ -1232,28 +1244,16 @@
         "source": "Yahoo"
       },
       {
+        "headline": "随着 SpaceX 重返地球，熊市 ETF 飞向星空",
+        "url": "https://finnhub.io/api/news?id=0d0470c163eb481538f01cf2f664c42eced35ac5e7b1db546bcaec0987fe05a3",
+        "datetime": 1781886859,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Rivian 首席执行官将在人形机器人领域与埃隆·马斯克较量",
         "url": "https://finnhub.io/api/news?id=f09f7782cbfc65838ca822c7df4366ad69fdb8bbfab712e14c7b38e725cbb02c",
         "datetime": 1781881219,
         "source": "Yahoo"
-      },
-      {
-        "headline": "特朗普让英特尔股价上涨 10%，但市场正在对冲",
-        "url": "https://finnhub.io/api/news?id=568511f12c4407db14d0e0cc8d0b14be60fd6651bd691627e053c3e6ed0db8f5",
-        "datetime": 1781873862,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "专家警告：随着亿万富翁逃离，加州税收损害了“该州的大财富驱动者”",
-        "url": "https://finnhub.io/api/news?id=a54db60cdc2494aea5a441b3c6367a850cff0d90572c0501df46a1e96909c2d9",
-        "datetime": 1781873185,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "OpenAI、Anthropic 和 SpaceX 与 Nvidia 一起提交新的 ProShares“FAB 10”ETF 申请",
-        "url": "https://finnhub.io/api/news?id=be25d8fef5cf2a9d6bae4c96264becad299957375ad648c965e2e798ba88dfaf",
-        "datetime": 1781873180,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1264,7 +1264,7 @@
         "source": "Benzinga"
       },
       {
-        "headline": "今日股市：随着美国与伊朗协议重新启动霍尔木兹海峡，纳斯达克 100 指数上涨，油价下跌 5%",
+        "headline": "今日股市：纳斯达克 100 指数上涨，油价下跌 5%，因美国与伊朗协议重新开启霍尔木兹海峡",
         "url": "https://finnhub.io/api/news?id=3e198cb05de99bacb12024c376979c01f857d284ed998583869cdf2d88eadb63",
         "datetime": 1781526882,
         "source": "Benzinga"
@@ -1279,6 +1279,12 @@
       }
     ],
     "BTC": [
+      {
+        "headline": "13B 美元比特币期权即将到期：多头会在 6 月份承受更多痛苦吗？",
+        "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "datetime": 1781902669,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "比特币交易员预计将创新低，但数据警告不要过度看跌偏见",
         "url": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -1301,12 +1307,6 @@
         "headline": "GoMining 用围绕比特币设计的支付系统挑战 Jack Dorsey's Square",
         "url": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
         "datetime": 1781872200,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "富兰克林邓普顿提出新的 ETF，将公司股息转化为比特币",
-        "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-        "datetime": 1781868479,
         "source": "CoinDesk"
       }
     ],
@@ -1332,10 +1332,10 @@
     ],
     "SOL": [
       {
-        "headline": "穆迪在代币化资产推广中推出 Solana 信用评级",
-        "url": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
-        "datetime": 1781712794,
-        "source": "CoinDesk"
+        "headline": "代理经济现在有一个城镇广场。\n\n在 Tiny Place 中，代理可以互相交谈、寻找工作、接受赏金并通过 @x402 使用 USDC 进行支付。\n\n由 @tiny humansai 的 OpenHuman 和 compatib 提供支持",
+        "url": "https://x.com/solana/status/2068081343850840440",
+        "datetime": 1781903990,
+        "source": "@solana"
       },
       {
         "headline": "了解有关该计划的更多信息并查看您是否有资格获得 VIP 级别：\nhttp://",
@@ -1347,12 +1347,6 @@
         "headline": "边境交易场所\n\n- 与 @Raydium、@orca_so 和 @MeteoraAG 进行现货交易和深度流动性\n- 通过@sunrisedefi 获取加密及其他新资产的流动市场\n- 智能路由和聚合",
         "url": "https://x.com/solana/status/2068026963374293286",
         "datetime": 1781891024,
-        "source": "@solana"
-      },
-      {
-        "headline": "Frontier Traders 奖励 Solana 上的交易。\n\n在任何地方进行交易，赚取回扣，解锁优先基础设施，并帮助塑造您交易的市场结构。\n\nVIP 计划的详细信息以及哪些内容",
-        "url": "https://x.com/solana/status/2068026909733388298",
-        "datetime": 1781891012,
         "source": "@solana"
       }
     ],
