@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T15:30:34.140Z",
+  "updated_at": "2026-06-20T17:18:18.805Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64125,
-      "change_pct": 1.78
+      "price": 63849,
+      "change_pct": 1.33
     },
     {
       "symbol": "ETH",
-      "price": 1740.59,
-      "change_pct": 2.52
+      "price": 1727.87,
+      "change_pct": 1.75
     },
     {
       "symbol": "SOL",
-      "price": 72.1,
-      "change_pct": 4.49
+      "price": 71.38,
+      "change_pct": 3.74
     },
     {
       "symbol": "HYPE",
-      "price": 70.84,
-      "change_pct": 2.82
+      "price": 69.73,
+      "change_pct": -0.02
     },
     {
       "symbol": "ZEC",
-      "price": 483.2,
-      "change_pct": 6.88
+      "price": 469.87,
+      "change_pct": 4.99
     },
     {
       "symbol": "TAO",
-      "price": 232.72,
-      "change_pct": 4
+      "price": 229.62,
+      "change_pct": 3.11
     },
     {
       "symbol": "SKY",
-      "price": 1340.69,
-      "change_pct": 0.4
+      "price": 1331.92,
+      "change_pct": -1.49
     },
     {
       "symbol": "AAVE",
-      "price": 75.71,
-      "change_pct": 3.65
+      "price": 74.75,
+      "change_pct": 2.57
     },
     {
       "symbol": "BNB",
-      "price": 587.1,
-      "change_pct": 1.78
+      "price": 585.12,
+      "change_pct": 1.21
     },
     {
       "symbol": "NEAR",
-      "price": 2.16,
-      "change_pct": 0.5
+      "price": 2.17,
+      "change_pct": 1.2
     },
     {
       "symbol": "DOGE",
-      "price": 0.083869,
-      "change_pct": 1.05
+      "price": 0.083264,
+      "change_pct": 0.3
     },
     {
       "symbol": "SPACEX",
-      "price": 580.71,
-      "change_pct": 0.5
+      "price": 581.81,
+      "change_pct": 0.05
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "/更正 — Guarda 钱包/",
+      "summary": "Guarda 钱包于 2026 年 6 月 16 日通过美通社发布了《Guarda 钱包解决了 Tron 上 USDT 交易对 TRX 的需求》的新闻稿，该公司的代表告知我们已添加了超链接。完整、更正的版本如下：Guarda 钱包解决了 f 的需求",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/c-o-r-r-e-c-t-i-o-n-guarda-wallet/",
+      "datetime": 1781972348,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "人工智能正在使加密安全变得更便宜、更快、更难以忽视",
       "summary": "",
       "source": "CoinDesk",
@@ -623,15 +632,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/crypto-biz-ai-exit-strategy-bitcoin-miners?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "datetime": 1781888620,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "KCS开启库币九周年篇章，推进代币实用性作为价值参与层",
-      "summary": "升级后的KCS体验将交易效率、奖励、支付优势和生态系统特权整合到一个统一的用户旅程中。特克斯和凯科斯群岛普罗维登夏莱斯，2026 年 6 月 19 日 /CNW/ — 全球领先的基于信任的加密货币平台 KuCoin 今天宣布升级 KCS 体验",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/kcs-opens-kucoins-ninth-anniversary-chapter-advancing-token-utility-as-a-value-participation-layer/",
-      "datetime": 1781885950,
       "category": "crypto",
       "related": ""
     },
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.3,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.5,
-    "weekly_score": 15.8,
-    "btc_price": 64212.7,
+    "score": 29.5,
+    "level": "恐慌",
+    "suggestion": "市场低估，适合分批建仓或加仓",
+    "daily_score": 14.4,
+    "weekly_score": 15.1,
+    "btc_price": 63932,
     "fear_greed": 20,
     "indicators": [
       {
@@ -819,15 +819,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003302,
+        "value": 0.004805,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.73,
-        "score": 82,
+        "value": 1.69,
+        "score": 79,
         "weight": 5,
         "group": "daily"
       },
@@ -889,15 +889,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.2,
+        "value": 32.9,
         "score": 22,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -31.6,
-        "score": 36,
+        "value": -91.1,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1015,7 +1015,7 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 895,
+        "likes": 896,
         "retweets": 53
       },
       {
@@ -1089,35 +1089,35 @@
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 11912,
-        "retweets": 1233
+        "likes": 13629,
+        "retweets": 1407
       },
       {
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 20325,
-        "retweets": 1346
+        "likes": 20450,
+        "retweets": 1352
       },
       {
         "text": "Building on ₿846,842. https://t.co/JFnBXMLuDM",
         "url": "https://x.com/saylor/status/2067573786698805279",
         "time": "Thu Jun 18 11:42:59 +0000 2026",
-        "likes": 7326,
+        "likes": 7333,
         "retweets": 713
       },
       {
         "text": "The hardest thing in business is not seeing the future. It is surviving long enough to build it.\n\nMy fireside chat with @Julian_Liniger at @BTCPrague on focus, endurance, corporate transformation, and how entrepreneurs can use Bitcoin, AI, and digital finance to create the next https://t.co/0wOsUrZBY3",
         "url": "https://x.com/saylor/status/2067234930946408752",
         "time": "Wed Jun 17 13:16:29 +0000 2026",
-        "likes": 4792,
+        "likes": 4794,
         "retweets": 611
       },
       {
         "text": "$STRC now pays dividends twice per month.\n\nWhat is the clearest way to describe this?",
         "url": "https://x.com/saylor/status/2067191797466452260",
         "time": "Wed Jun 17 10:25:05 +0000 2026",
-        "likes": 2743,
+        "likes": 2744,
         "retweets": 244
       }
     ],
@@ -1148,7 +1148,7 @@
         "url": "https://x.com/viktorfischer/status/2067554616749756846",
         "time": "Thu Jun 18 10:26:48 +0000 2026",
         "likes": 7,
-        "retweets": 2
+        "retweets": 3
       },
       {
         "text": "When bringing RWA on-chain, at @RockawayX we  independently monitor off-chain positions and capital flows without relying on data provided by the protocol. Safety first 🦺🚀 https://t.co/KlFsXUPw4W",
@@ -1162,37 +1162,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "令人惊讶的退休提款策略可能会让您以后拥有更多钱",
-        "url": "https://finnhub.io/api/news?id=0a6af3bb1b199819c1272dc8ba1815703df452287a2ac70defbd15442a41d1f4",
-        "datetime": 1781963760,
+        "headline": "道琼斯期货：伊朗关闭霍尔木兹海峡； Nvidia 接近买入点，关注 SpaceX 的举动",
+        "url": "https://finnhub.io/api/news?id=b9528065c2716b361d6f7d2ca989d07822773d4ec7a7c490e978891bd896b52d",
+        "datetime": 1781970507,
         "source": "Yahoo"
       },
       {
-        "headline": "吉姆·克莱默 (Jim Cramer) 重点介绍高盛投资银行活动的爆炸式增长",
-        "url": "https://finnhub.io/api/news?id=9de9f10fbc619d7ab45d88541bcf69626318b2e1d538fc3f5e46216c44a01852",
-        "datetime": 1781962803,
+        "headline": "我称之为：GE Vernova (GEV) 是在这种催化剂下跌之前买入的",
+        "url": "https://finnhub.io/api/news?id=eb584090d6270cac8f0f18d97503db5413e1c1bd24f21e3e21992bc61a16998b",
+        "datetime": 1781969574,
         "source": "Yahoo"
       },
       {
-        "headline": "美联储最新通胀前景让华尔街数月来首次松一口气",
-        "url": "https://finnhub.io/api/news?id=8791ec66d18e92d2e82a527d4cdc7d6271b200bad09a29f68ea3a15a31783b44",
-        "datetime": 1781962560,
+        "headline": "预测：戴尔今年能否突破 500 美元？",
+        "url": "https://finnhub.io/api/news?id=f93c67b09945f128f01f413fd14ab2f8c9ae5ca40a40d82f87af34671ab84056",
+        "datetime": 1781969458,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta 的首席执行官刚刚承诺超级智能。他认为每个人都会拥有它",
-        "url": "https://finnhub.io/api/news?id=de407523d40ad0ddebc2ea408fd98b8d338e8ecb486368e5baa8bc76a7092a23",
-        "datetime": 1781962249,
+        "headline": "预测：Netflix 今日股价将达到 100 美元",
+        "url": "https://finnhub.io/api/news?id=f294e9d837dfa42bd21df3e9ce684a33676099297d7908f55a8d5d11001ec3f7",
+        "datetime": 1781969432,
         "source": "Yahoo"
       },
       {
-        "headline": "XRP ETF 与 HYPE ETF：现在买哪个更好？",
-        "url": "https://finnhub.io/api/news?id=d0e69773aff4b8133fc051f91dbf515c27e863f2cd540fffcdab788976c4ae23",
-        "datetime": 1781962204,
+        "headline": "超微涨逾10%。 AI服务器制造商终于迎来转机了吗？",
+        "url": "https://finnhub.io/api/news?id=8ead5d2ec053d5258fb1a131cf4eeffddf48cb825ab300e4d0b6099f95cd0f49",
+        "datetime": 1781969160,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "谷歌失去顶级人工智能高管是“年度最重大的人工智能人才流动”。是时候出售 Alphabet 股票了吗？",
+        "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6",
+        "datetime": 1781968565,
+        "source": "Yahoo"
+      },
       {
         "headline": "为什么唐纳德·特朗普喜欢 Marvell 技术 (MRVL)？",
         "url": "https://finnhub.io/api/news?id=1bc9c768239349be136299a4a9e88c4b701315017c659c40111be842205296cb",
@@ -1216,15 +1222,15 @@
         "url": "https://finnhub.io/api/news?id=006823b1dfb76b129fd3b822f04e56ec450cc895c81c5b2825f3ca6e65aefd9f",
         "datetime": 1781954611,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet：为什么我要稀释我最大的头寸（评级下调）",
-        "url": "https://finnhub.io/api/news?id=a9c7d4e201207747df0957804b18840df93d4ae13bf3c0b8cfbb7b4603eea6d6",
-        "datetime": 1781909520,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "能源专家：电动汽车是下一个大趋势的“基石物种”。特斯拉的股价会大幅上涨吗？",
+        "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51",
+        "datetime": 1781966467,
+        "source": "Yahoo"
+      },
       {
         "headline": "预测：SpaceX 禁售期对散户投资者来说绝对是一场灾难",
         "url": "https://finnhub.io/api/news?id=a7ef817b339d4352e4321c6c6aab7a7716822b566cb6bc256da7bdda0ef0e2cf",
@@ -1248,12 +1254,6 @@
         "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
         "datetime": 1781956926,
         "source": "Yahoo"
-      },
-      {
-        "headline": "TSLQ：了解这只专为激进的 Telsa Bears 打造的 ETF",
-        "url": "https://finnhub.io/api/news?id=0fb40745b7b31ae758e0fb3cbdbdd269a92e8e8a3c19bf7fb44e94327e52a617",
-        "datetime": 1781950018,
-        "source": "SeekingAlpha"
       }
     ],
     "CRCL": [
@@ -1264,7 +1264,7 @@
         "source": "Benzinga"
       },
       {
-        "headline": "今日股市：随着美国与伊朗协议重新启动霍尔木兹海峡，纳斯达克 100 指数上涨，油价下跌 5%",
+        "headline": "今日股市：纳斯达克 100 指数上涨，油价下跌 5%，因美国与伊朗协议重新开启霍尔木兹海峡",
         "url": "https://finnhub.io/api/news?id=3e198cb05de99bacb12024c376979c01f857d284ed998583869cdf2d88eadb63",
         "datetime": 1781526882,
         "source": "Benzinga"
