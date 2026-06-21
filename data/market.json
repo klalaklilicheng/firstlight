@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T09:39:24.553Z",
+  "updated_at": "2026-06-21T12:07:30.085Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64096,
-      "change_pct": 0.82
+      "price": 64127,
+      "change_pct": 0.66
     },
     {
       "symbol": "ETH",
-      "price": 1730,
-      "change_pct": 0.19
+      "price": 1723.41,
+      "change_pct": -0.26
     },
     {
       "symbol": "SOL",
-      "price": 73.8,
-      "change_pct": 3.35
+      "price": 73.12,
+      "change_pct": 1.87
     },
     {
       "symbol": "HYPE",
-      "price": 68.02,
-      "change_pct": -3.67
+      "price": 67.66,
+      "change_pct": -5.07
     },
     {
       "symbol": "ZEC",
-      "price": 456.69,
-      "change_pct": -3.2
+      "price": 452.7,
+      "change_pct": -3.98
     },
     {
       "symbol": "TAO",
-      "price": 235.53,
-      "change_pct": 1.63
+      "price": 233.72,
+      "change_pct": 1.19
     },
     {
       "symbol": "SKY",
-      "price": 1357.92,
-      "change_pct": 0.35
+      "price": 1361.92,
+      "change_pct": 1.02
     },
     {
       "symbol": "AAVE",
-      "price": 74.71,
-      "change_pct": 0.21
+      "price": 73.94,
+      "change_pct": -1.2
     },
     {
       "symbol": "BNB",
-      "price": 589.42,
-      "change_pct": 0.55
+      "price": 587.39,
+      "change_pct": 0.17
     },
     {
       "symbol": "NEAR",
-      "price": 2.26,
-      "change_pct": 5.38
+      "price": 2.23,
+      "change_pct": 4.21
     },
     {
       "symbol": "DOGE",
-      "price": 0.083112,
-      "change_pct": -1.16
+      "price": 0.082977,
+      "change_pct": -1.06
     },
     {
       "symbol": "SPACEX",
-      "price": 583.48,
-      "change_pct": 1.09
+      "price": 578.27,
+      "change_pct": 2.44
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "自 STRC 推出以来，比特币价格已下跌超过 40%：策略“好吗”？",
+      "summary": "STRC 的跌破标准让批评者更加大胆，减缓了 Strategy 的比特币购买速度，并引发了关于 Michael Saylor 的 BTC 飞轮是否仍然正常的争论。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782036957,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "日本企业养老基金计划分配 1% 的加密货币：日经指数",
       "summary": "一家为约 1,200 家中小企业提供服务的日本企业养老基金计划将其资产的约 1% 分配给加密货币，作为货币多元化战略的一部分。",
       "source": "Cointelegraph",
@@ -502,7 +511,7 @@
     },
     {
       "headline": "加密货币冬季寒冷，比特币 ETF 在 30 天内损失了创纪录的 $6.4B",
-      "summary": "美国上市的现货比特币交易所交易基金出现了自 2024 年推出以来最大的 30 天净流出，而比特币在过去一个月下跌了 17%。",
+      "summary": "在美国上市的现货比特币交易所交易基金出现了自 2024 年推出以来最大的 30 天净流出，而比特币在过去一个月下跌了 17%。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "datetime": 1782016200,
@@ -733,15 +742,6 @@
       "datetime": 1781876674,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "币安的 MiCA 之争引发了对欧洲央行影响力的质疑",
-      "summary": "律师表示，MiCA 规则并不禁止欧洲央行在申请过程中与国家监管机构沟通，尽管加密货币许可决定权仍由成员国决定。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1781876280,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 29.8,
-    "level": "恐慌",
-    "suggestion": "市场低估，适合分批建仓或加仓",
+    "score": 30.1,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
     "daily_score": 14.3,
-    "weekly_score": 15.5,
-    "btc_price": 64165.4,
+    "weekly_score": 15.8,
+    "btc_price": 64235.2,
     "fear_greed": 22,
     "indicators": [
       {
@@ -819,15 +819,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004377,
-        "score": 47,
+        "value": 0.005073,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.63,
-        "score": 75,
+        "value": 1.59,
+        "score": 73,
         "weight": 5,
         "group": "daily"
       },
@@ -889,15 +889,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.2,
+        "value": 33.3,
         "score": 22,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -62.8,
-        "score": 28,
+        "value": -31.4,
+        "score": 36,
         "weight": 4,
         "group": "weekly"
       }
@@ -1089,36 +1089,36 @@
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
         "url": "https://x.com/saylor/status/2068585855136997745",
         "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 5178,
-        "retweets": 478
+        "likes": 7440,
+        "retweets": 677
       },
       {
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 18547,
-        "retweets": 1940
+        "likes": 18865,
+        "retweets": 1968
       },
       {
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 21036,
-        "retweets": 1405
+        "likes": 21049,
+        "retweets": 1406
       },
       {
         "text": "Building on ₿846,842. https://t.co/JFnBXMLuDM",
         "url": "https://x.com/saylor/status/2067573786698805279",
         "time": "Thu Jun 18 11:42:59 +0000 2026",
-        "likes": 7355,
-        "retweets": 718
+        "likes": 7357,
+        "retweets": 719
       },
       {
         "text": "The hardest thing in business is not seeing the future. It is surviving long enough to build it.\n\nMy fireside chat with @Julian_Liniger at @BTCPrague on focus, endurance, corporate transformation, and how entrepreneurs can use Bitcoin, AI, and digital finance to create the next https://t.co/0wOsUrZBY3",
         "url": "https://x.com/saylor/status/2067234930946408752",
         "time": "Wed Jun 17 13:16:29 +0000 2026",
-        "likes": 4813,
-        "retweets": 615
+        "likes": 4818,
+        "retweets": 616
       }
     ],
     "viktorfischer": [
@@ -1162,33 +1162,33 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Bitdeer 挖出了 921 个比特币，因为比特币藏量较小，引发了 AI 枢轴问题",
-        "url": "https://finnhub.io/api/news?id=fab4f757b88d1e852a73bc07c981ff261d145af8550bc53590fbd4eb1dfb2115",
-        "datetime": 1782026820,
+        "headline": "2027 年社会保障 COLA 预估将受到“特朗普冲击”：以下是您可以获得的额外金额",
+        "url": "https://finnhub.io/api/news?id=76b0e47a3afcbea04c36201af81975fb307616ecdfdeeb75edea4b659aaf6498",
+        "datetime": 1782034020,
         "source": "Yahoo"
       },
       {
-        "headline": "未来10年值得持有的3只巨额股息股票",
-        "url": "https://finnhub.io/api/news?id=62ce7ccadd2e5290f5fb96204f7e5d98ce2436a138365b42df6945ff5336a534",
-        "datetime": 1782026700,
+        "headline": "目前 Costco 股票的 1 大催化剂",
+        "url": "https://finnhub.io/api/news?id=e8c2a73ede19346afe52ecc223f16e0f7dc65f071f33e4a49babb6fc24e53d8a",
+        "datetime": 1782033900,
         "source": "Yahoo"
       },
       {
-        "headline": "更好的 S&P 500 ETF：VOO 与 SPY",
-        "url": "https://finnhub.io/api/news?id=e578a087af6d2189dce62b0c05f5dba2fd28dcd9aa66fd9f7971837f8fcca2cc",
-        "datetime": 1782026400,
+        "headline": "预测：到 2026 年底 SpaceX 的市值将是多少",
+        "url": "https://finnhub.io/api/news?id=77576e69603d4def069c0e1da6b1dd5607bffb447d0a7607ac51903c5a7b81a4",
+        "datetime": 1782032640,
         "source": "Yahoo"
       },
       {
-        "headline": "这只国防股在经历了大涨之后仍然是最明智的买入吗？",
-        "url": "https://finnhub.io/api/news?id=74b4cff9c0977608c4aaf3a825a696914036f580e53f7b70cc918aaa17bd492d",
-        "datetime": 1782022800,
+        "headline": "想以 50 万美元退休吗？ 3只可买入但切勿卖出的股票",
+        "url": "https://finnhub.io/api/news?id=5474811a1e89f556ebcdb196884bcbf2c7b6de725ddad7205039c3e317bbe3bf",
+        "datetime": 1782031440,
         "source": "Yahoo"
       },
       {
-        "headline": "下一只热门量子股也是人工智能数据中心股",
-        "url": "https://finnhub.io/api/news?id=83b00fa6fc7f88b541f861bf188d54ccd6811aa38bb58a237735a71d5bf10b7c",
-        "datetime": 1782021600,
+        "headline": "社会保障福利削减仅需 6 年时间，部分归功于唐纳德·特朗普总统",
+        "url": "https://finnhub.io/api/news?id=9614efe210eb0affba1def32edc4e2910e02bf3da6d7c8752fc1b97cea77a05d",
+        "datetime": 1782030360,
         "source": "Yahoo"
       }
     ],
@@ -1273,6 +1273,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "自 STRC 推出以来，比特币价格已下跌超过 40%：策略“好吗”？",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "datetime": 1782036957,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "霍尔木兹威胁再次笼罩美伊停火谈判，比特币维持在 64,000 美元附近",
         "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
         "datetime": 1782024388,
@@ -1294,12 +1300,6 @@
         "headline": "13B 美元比特币期权即将到期：多头会在 6 月份承受更多痛苦吗？",
         "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "datetime": 1781902669,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币交易员预计将创新低，但数据警告不要过度看跌偏见",
-        "url": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "datetime": 1781890689,
         "source": "Cointelegraph"
       }
     ],
@@ -1331,6 +1331,12 @@
     ],
     "SOL": [
       {
+        "headline": "",
+        "url": "https://x.com/solana/status/2068666561540583629",
+        "datetime": 1782043516,
+        "source": "@solana"
+      },
+      {
         "headline": "如果你不在这里，也会感觉很协调。\n\n如果你在这里，你就一直都知道。",
         "url": "https://x.com/solana/status/2068424246305366494",
         "datetime": 1781985744,
@@ -1340,12 +1346,6 @@
         "headline": "Solana 每周代币化股票交易量达 10 亿美元\n\n在我看来更高",
         "url": "https://x.com/solana/status/2068349198487912877",
         "datetime": 1781967851,
-        "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2068321726677872974",
-        "datetime": 1781961301,
         "source": "@solana"
       }
     ],
