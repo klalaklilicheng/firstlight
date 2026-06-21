@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T00:12:24.010Z",
+  "updated_at": "2026-06-21T05:55:45.175Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64187,
-      "change_pct": 1.2
+      "price": 64179,
+      "change_pct": 0.93
     },
     {
       "symbol": "ETH",
-      "price": 1736.19,
-      "change_pct": 1.69
+      "price": 1730.65,
+      "change_pct": 0.44
     },
     {
       "symbol": "SOL",
-      "price": 73.09,
-      "change_pct": 4.93
+      "price": 72.96,
+      "change_pct": 1.87
     },
     {
       "symbol": "HYPE",
-      "price": 70.52,
-      "change_pct": 1.23
+      "price": 69.37,
+      "change_pct": -1.23
     },
     {
       "symbol": "ZEC",
-      "price": 469.96,
-      "change_pct": -0.76
+      "price": 466.43,
+      "change_pct": -0.59
     },
     {
       "symbol": "TAO",
-      "price": 230.99,
-      "change_pct": 1.43
+      "price": 236.19,
+      "change_pct": 1.83
     },
     {
       "symbol": "SKY",
-      "price": 1343.62,
-      "change_pct": -0.43
+      "price": 1342.13,
+      "change_pct": -0.98
     },
     {
       "symbol": "AAVE",
-      "price": 75.89,
-      "change_pct": 3.44
+      "price": 75.62,
+      "change_pct": 1.57
     },
     {
       "symbol": "BNB",
-      "price": 587.73,
-      "change_pct": 1.19
+      "price": 589.3,
+      "change_pct": 1.32
     },
     {
       "symbol": "NEAR",
-      "price": 2.19,
-      "change_pct": 0.63
+      "price": 2.2,
+      "change_pct": 1.3
     },
     {
       "symbol": "DOGE",
-      "price": 0.083594,
-      "change_pct": 0.22
+      "price": 0.08314,
+      "change_pct": -0.67
     },
     {
       "symbol": "SPACEX",
-      "price": 576.55,
-      "change_pct": -3.92
+      "price": 584.22,
+      "change_pct": 2.19
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "加密货币冬季寒冷，比特币 ETF 在 30 天内损失了创纪录的 $6.4B",
+      "summary": "美国上市的现货比特币交易所交易基金出现了自 2024 年推出以来最大的 30 天净流出，而比特币在过去一个月下跌了 17%。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782016200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "臭名昭著的“三明治攻击”机器人 Jaredfromsubway.eth 被利用价值 750 万美元",
+      "summary": "Jaredfromsubway.eth 负责 2024 年 11 月至 2025 年 10 月期间以太坊上 70% 的三明治攻击。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782000287,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "比特币向山寨币的轮换崩溃：山寨币“消失”了吗？",
       "summary": "比特币的加密货币市场主导地位保持在关键支撑位之上，这表明比特币可能会继续从山寨币中吸收资金，并推迟更广泛的山寨季。",
       "source": "Cointelegraph",
@@ -724,24 +742,6 @@
       "datetime": 1781871320,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "富兰克林邓普顿提出新的 ETF，将公司股息转化为比特币",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin",
-      "datetime": 1781868479,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "鲍勃·艾格回顾上海迪士尼乐园十年来不顾中国撤资的消息",
-      "summary": "据该公司称，到2025年，上海迪士尼乐园累计游客量将突破1亿人次。这是迪士尼历史上相对较新但重要的立足点。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
-      "datetime": 1781866801,
-      "category": "business",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 29.7,
+    "score": 29.8,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 14.5,
-    "weekly_score": 15.2,
-    "btc_price": 64268.5,
+    "weekly_score": 15.3,
+    "btc_price": 64260,
     "fear_greed": 22,
     "indicators": [
       {
@@ -819,15 +819,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001004,
-        "score": 46,
+        "value": 0.004165,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.69,
-        "score": 79,
+        "value": 1.67,
+        "score": 78,
         "weight": 5,
         "group": "daily"
       },
@@ -882,8 +882,8 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.02,
-        "score": 17,
+        "value": 1.03,
+        "score": 18,
         "weight": 6,
         "group": "weekly"
       },
@@ -896,8 +896,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -85.6,
-        "score": 21,
+        "value": -80.4,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1015,7 +1015,7 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 896,
+        "likes": 897,
         "retweets": 53
       },
       {
@@ -1089,35 +1089,35 @@
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 16808,
-        "retweets": 1756
+        "likes": 17920,
+        "retweets": 1887
       },
       {
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 20774,
-        "retweets": 1385
+        "likes": 20984,
+        "retweets": 1401
       },
       {
         "text": "Building on ₿846,842. https://t.co/JFnBXMLuDM",
         "url": "https://x.com/saylor/status/2067573786698805279",
         "time": "Thu Jun 18 11:42:59 +0000 2026",
-        "likes": 7345,
-        "retweets": 715
+        "likes": 7350,
+        "retweets": 718
       },
       {
         "text": "The hardest thing in business is not seeing the future. It is surviving long enough to build it.\n\nMy fireside chat with @Julian_Liniger at @BTCPrague on focus, endurance, corporate transformation, and how entrepreneurs can use Bitcoin, AI, and digital finance to create the next https://t.co/0wOsUrZBY3",
         "url": "https://x.com/saylor/status/2067234930946408752",
         "time": "Wed Jun 17 13:16:29 +0000 2026",
-        "likes": 4805,
-        "retweets": 615
+        "likes": 4812,
+        "retweets": 616
       },
       {
         "text": "$STRC now pays dividends twice per month.\n\nWhat is the clearest way to describe this?",
         "url": "https://x.com/saylor/status/2067191797466452260",
         "time": "Wed Jun 17 10:25:05 +0000 2026",
-        "likes": 2751,
+        "likes": 2757,
         "retweets": 246
       }
     ],
@@ -1162,37 +1162,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "辉瑞公司的股息收益率是礼来公司的 10 倍。这是否使它成为收入投资者更好的股票？",
-        "url": "https://finnhub.io/api/news?id=922d1ee0357bc72cba465c5f026126ab7efaa0de930a5a46da88c4c295923d1a",
-        "datetime": 1781991300,
+        "headline": "SK 海力士 (KOSE:A000660) 向 AI 客户发货 HBM4E DRAM",
+        "url": "https://finnhub.io/api/news?id=cdd029160ab160dedb089cb011a2be0fcf3e6303316f0b8643efb2f366a2a193",
+        "datetime": 1782011613,
         "source": "Yahoo"
       },
       {
-        "headline": "福特可以从人工智能中赚取 5 亿美元。现在是买入时机吗？",
-        "url": "https://finnhub.io/api/news?id=b149f939299b3d4c81ae2a41818ab649986aa938c149055b3b993e7af347da89",
-        "datetime": 1781990700,
+        "headline": "道琼斯期货：伊朗表示霍尔木兹海峡已关闭，但新的谈判即将开始； Nvidia、SpaceX 值得关注",
+        "url": "https://finnhub.io/api/news?id=ad48eccc18120f1905f0fc3416d7d91b63bdca885c9fc879739ec41018ddc62f",
+        "datetime": 1782009485,
         "source": "Yahoo"
       },
       {
-        "headline": "这家公司可能成为人工智能推理领域的英伟达",
-        "url": "https://finnhub.io/api/news?id=d0aaaca5f9447eb81ca5fa1c34c37ed770a6ab0353c7357dc2b7925b15f9962b",
-        "datetime": 1781990400,
+        "headline": "在人工智能热潮中，英伟达、甲骨文和 SpaceX 正在借贷数十亿美元。这是一个警告信号吗？",
+        "url": "https://finnhub.io/api/news?id=a4c85abb42268e834d1eaf869f1bb6653a7978b6132dc80928583a4fab40c38d",
+        "datetime": 1782009180,
         "source": "Yahoo"
       },
       {
-        "headline": "忘记您的 401(k) 余额。这是真正重要的数字。",
-        "url": "https://finnhub.io/api/news?id=506028d1f332a9c4f3b06c07bacb9a8a98e6016a5516f1e669dfb007ca712864",
-        "datetime": 1781988960,
+        "headline": "预测：Solana 将取代以太坊成为第一大山寨币",
+        "url": "https://finnhub.io/api/news?id=aa64f11468e0ba363aaca4e900a6a60ebf709405b4074ad54ada1b74246ecf7d",
+        "datetime": 1782009060,
         "source": "Yahoo"
       },
       {
-        "headline": "您每天都在观看人工智能头条新闻。以下是如何立即掌握整个趋势",
-        "url": "https://finnhub.io/api/news?id=77edba3782492e7ed4b4d729e5416a244d18a845c8e125b47b506cf63c329fd7",
-        "datetime": 1781988903,
+        "headline": "5年后美光科技会走向何方？",
+        "url": "https://finnhub.io/api/news?id=b52519a1cc557d0e7caa4e9967247fead10875d9a43abf837e43f8bd342e9c60",
+        "datetime": 1782002580,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "5年后Alphabet股票将走向何方？",
+        "url": "https://finnhub.io/api/news?id=238ec9df5d90a66e3923c4dbdb86ae5731a237774bba2836c50d30c4f182ede9",
+        "datetime": 1781998380,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "谁需要降息？就连美联储新任主席也承认，在股市和债务狂潮中，企业可以轻松地在金融市场筹集资金",
+        "url": "https://finnhub.io/api/news?id=9497e343f61334a7c656daf604f29103d61f58d4343a6c50baf318b2e52d239b",
+        "datetime": 1781982962,
+        "source": "Yahoo"
+      },
       {
         "headline": "Google Cloud 的这一指标证明今年 1850 亿美元的资本支出是值得的",
         "url": "https://finnhub.io/api/news?id=edf76375c02b1680db680bf93cbe5761b5a67757503fcca0c807e5edacbefb36",
@@ -1210,21 +1222,15 @@
         "url": "https://finnhub.io/api/news?id=2e15607cc63e435a22a1087527567ac20e00bc741c85647199d23bc42ef9aa19",
         "datetime": 1781976000,
         "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌失去顶级人工智能高管是“年度最重大的人工智能人才流动”。是时候出售 Alphabet 股票了吗？",
-        "url": "https://finnhub.io/api/news?id=5bbb5d41c0de20be489761f7c10056b6d3029fdc1f68602e147d64a8f841a9e6",
-        "datetime": 1781968565,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么唐纳德·特朗普喜欢 Marvell 技术 (MRVL)？",
-        "url": "https://finnhub.io/api/news?id=1bc9c768239349be136299a4a9e88c4b701315017c659c40111be842205296cb",
-        "datetime": 1781962301,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "埃隆·马斯克在行使股票期权后，在特斯拉的投票权接近 20%",
+        "url": "https://finnhub.io/api/news?id=accef81a09c80cae0d4b08b7511d0543f1147025d3a3f71b9b65ab1c512620ca",
+        "datetime": 1781998271,
+        "source": "Yahoo"
+      },
       {
         "headline": "能源专家：电动汽车是下一个大趋势的“基石物种”。特斯拉的股价会大幅上涨吗？",
         "url": "https://finnhub.io/api/news?id=7195170147f7601c728b0821c7feebc2dd9e24d0c5e7085ce9143d4000849e51",
@@ -1248,12 +1254,6 @@
         "url": "https://finnhub.io/api/news?id=e264f337f7cfe64af4e9a269cda20ad967ceaf412754d0aef5019126e5eee9e7",
         "datetime": 1781959500,
         "source": "Yahoo"
-      },
-      {
-        "headline": "继英伟达和特斯拉之后，特朗普确认苹果已同意在美国制造业推动下与英特尔合作生产芯片：“最后一次是什么时候……”",
-        "url": "https://finnhub.io/api/news?id=d6cbf0f8116967b9b381e81bc0ea15e05dfe32dea70a416106a7ed48fa416248",
-        "datetime": 1781956926,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1272,6 +1272,12 @@
     ],
     "LKNCY": [],
     "BTC": [
+      {
+        "headline": "加密货币冬季寒冷，比特币 ETF 在 30 天内损失了创纪录的 $6.4B",
+        "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+        "datetime": 1782016200,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "比特币向山寨币的轮换崩溃：山寨币“消失”了吗？",
         "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -1294,12 +1300,6 @@
         "headline": "Andrew Tate 因多头和空头比特币损失近 86,000 美元",
         "url": "https://cointelegraph.com/markets/andrew-tate-loses-nearly-86000-longing-and-shorting-bitcoin?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "datetime": 1781881510,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "7 月美联储加息概率接近 40%，比特币在 6 月 10 日触及 6.3 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-taps-63k-on-juneteenth-as-july-fed-rate-hike-odds-near-40?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "datetime": 1781879500,
         "source": "Cointelegraph"
       }
     ],
