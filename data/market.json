@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T23:03:42.369Z",
+  "updated_at": "2026-06-22T02:56:55.849Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63600,
-      "change_pct": -0.96
+      "price": 64226,
+      "change_pct": 0.06
     },
     {
       "symbol": "ETH",
-      "price": 1711.39,
-      "change_pct": -1.73
+      "price": 1736.35,
+      "change_pct": 0.1
     },
     {
       "symbol": "SOL",
-      "price": 72.88,
-      "change_pct": -0.84
+      "price": 73.76,
+      "change_pct": 0.73
     },
     {
       "symbol": "HYPE",
-      "price": 67.17,
-      "change_pct": -4.92
+      "price": 68.23,
+      "change_pct": -2.45
     },
     {
       "symbol": "ZEC",
-      "price": 445.05,
-      "change_pct": -6.01
+      "price": 445.87,
+      "change_pct": -4.61
     },
     {
       "symbol": "TAO",
-      "price": 230.9,
-      "change_pct": -0.68
+      "price": 230.97,
+      "change_pct": 0.06
     },
     {
       "symbol": "SKY",
-      "price": 1358.38,
-      "change_pct": 0.75
+      "price": 1373.07,
+      "change_pct": 2.38
     },
     {
       "symbol": "AAVE",
-      "price": 73.81,
-      "change_pct": -3.56
+      "price": 75.52,
+      "change_pct": -0.16
     },
     {
       "symbol": "BNB",
-      "price": 585.62,
-      "change_pct": -0.32
+      "price": 591.12,
+      "change_pct": 0.41
     },
     {
       "symbol": "NEAR",
-      "price": 2.11,
-      "change_pct": -3.81
+      "price": 2.17,
+      "change_pct": -0.13
     },
     {
       "symbol": "DOGE",
-      "price": 0.082687,
-      "change_pct": -1.31
+      "price": 0.083333,
+      "change_pct": -0.24
     },
     {
       "symbol": "SPACEX",
-      "price": 559.21,
-      "change_pct": -4.62
+      "price": 554.93,
+      "change_pct": -4.91
     }
   ],
   "earnings": {
@@ -610,7 +610,7 @@
     },
     {
       "headline": "加密货币冬季寒冷，比特币 ETF 在 30 天内损失了创纪录的 $6.4B",
-      "summary": "美国上市的现货比特币交易所交易基金出现了自 2024 年推出以来最大的 30 天净流出，而比特币在过去一个月下跌了 17%。",
+      "summary": "在美国上市的现货比特币交易所交易基金出现了自 2024 年推出以来最大的 30 天净流出，而比特币在过去一个月下跌了 17%。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "datetime": 1782016200,
@@ -727,7 +727,7 @@
     },
     {
       "headline": "13B 美元比特币期权即将到期：多头会在 6 月份承受更多痛苦吗？",
-      "summary": "比特币空头在即将到来的比特币期权到期时占据上风，这可能是比特币可能出现更多下行空间的早期警告。",
+      "summary": "在即将到来的比特币期权到期中，比特币空头占据上风，这可能是比特币可能出现更多下行空间的早期警告。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "datetime": 1781902669,
@@ -807,13 +807,13 @@
     }
   ],
   "btc_score": {
-    "score": 29.5,
-    "level": "恐慌",
-    "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 14.3,
-    "weekly_score": 15.2,
-    "btc_price": 63682.4,
-    "fear_greed": 22,
+    "score": 33.5,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
+    "daily_score": 14.1,
+    "weekly_score": 19.4,
+    "btc_price": 64540.5,
+    "fear_greed": 21,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -824,8 +824,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007302,
-        "score": 49,
+        "value": 0.005041,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -838,8 +838,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 22,
-        "score": 22,
+        "value": 21,
+        "score": 21,
         "weight": 7,
         "group": "daily"
       },
@@ -852,22 +852,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.158,
+        "value": 0.155,
         "score": 41,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.714,
-        "score": 5,
+        "value": 2.665,
+        "score": 48,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.992,
-        "score": 42,
+        "value": 0.995,
+        "score": 45,
         "weight": 8,
         "group": "weekly"
       },
@@ -887,22 +887,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.03,
-        "score": 18,
+        "value": 1.02,
+        "score": 17,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 33,
-        "score": 22,
+        "value": 34,
+        "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -92.5,
-        "score": 20,
+        "value": -80.2,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -911,7 +911,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 38
+      "days_until": 37
     },
     "schedule": [
       "2025-01-29",
@@ -1020,7 +1020,7 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 899,
+        "likes": 900,
         "retweets": 53
       },
       {
@@ -1034,14 +1034,14 @@
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 906,
+        "likes": 904,
         "retweets": 45
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 887,
+        "likes": 888,
         "retweets": 48
       },
       {
@@ -1057,7 +1057,7 @@
         "text": "- a tam greater than any individual public company (non-sovereign sov)\n\n- a team as mission-driven, capable, and resilient as anyone (a decade in the making)\n\n- confluence of strong tailwinds (surveillance, wealth tax, quantum, reduced supply inflation)\n\n- going thru a",
         "url": "https://x.com/QwQiao/status/2066498380902072686",
         "time": "Mon Jun 15 12:29:42 +0000 2026",
-        "likes": 354,
+        "likes": 353,
         "retweets": 48
       },
       {
@@ -1071,8 +1071,8 @@
         "text": "zcash is starting to feel exactly like the early days of bitcoin. some of the smartest ppl contributing to the project. some of the biggest midwits on the other side. bugs and existential threats. vomit-inducing price volatility. but also insanely asymmetric upside if it catches",
         "url": "https://x.com/QwQiao/status/2062858719826686295",
         "time": "Fri Jun 05 11:26:59 +0000 2026",
-        "likes": 1001,
-        "retweets": 109
+        "likes": 999,
+        "retweets": 108
       },
       {
         "text": "the lion is bidding",
@@ -1094,36 +1094,36 @@
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 15079,
-        "retweets": 1530
+        "likes": 15865,
+        "retweets": 1608
       },
       {
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
         "url": "https://x.com/saylor/status/2068585855136997745",
         "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 12162,
-        "retweets": 1196
+        "likes": 12708,
+        "retweets": 1249
       },
       {
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 19808,
-        "retweets": 2100
+        "likes": 20013,
+        "retweets": 2119
       },
       {
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 21098,
-        "retweets": 1411
+        "likes": 21067,
+        "retweets": 1409
       },
       {
         "text": "Building on ₿846,842. https://t.co/JFnBXMLuDM",
         "url": "https://x.com/saylor/status/2067573786698805279",
         "time": "Thu Jun 18 11:42:59 +0000 2026",
-        "likes": 7377,
-        "retweets": 723
+        "likes": 7362,
+        "retweets": 720
       }
     ],
     "viktorfischer": [
@@ -1167,97 +1167,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "特朗普与伊朗达成协议后，油价跌至三个月低点。对通货膨胀意味着什么",
-        "url": "https://finnhub.io/api/news?id=b025ecd0001a97a168caaf90febb17f2a314b5a127929bcf1c0ef53d6697f6ba",
-        "datetime": 1782073894,
+        "headline": "电动汽车股会在 2026 年卷土重来吗？",
+        "url": "https://finnhub.io/api/news?id=9049c7f013ee8cdd1fc4fd881e619edc6419ee12539aa7de0793d9d80f6549c8",
+        "datetime": 1782091426,
         "source": "Yahoo"
       },
       {
-        "headline": "在美联储维持利率稳定的情况下，这是现在以 1,000 美元购买的最明智的股息股票",
-        "url": "https://finnhub.io/api/news?id=a5eb047d4ebb4200f8caf597e0bd2040ae2d04a414e3fbecd580794aa833569f",
-        "datetime": 1782073500,
+        "headline": "今天是 SpaceX 首次公开募股日！",
+        "url": "https://finnhub.io/api/news?id=8c595bf87285ed46ea2f7543d9b410541175f0da592a3bb8086ae5b0722426fb",
+        "datetime": 1782090366,
         "source": "Yahoo"
       },
       {
-        "headline": "1 只相对不为人知的能源股，您不容错过",
-        "url": "https://finnhub.io/api/news?id=9530eb75d445268388d2adea6e0467e715cfdf15c943d92e480d9f137bcd22d0",
-        "datetime": 1782073500,
+        "headline": "人工智能军备竞赛不是关于技术，而是关于电力",
+        "url": "https://finnhub.io/api/news?id=16e198847bdf27bd31d0be061a3b210c679ba657fda3ee72c92bf05303812c22",
+        "datetime": 1782086400,
         "source": "Yahoo"
       },
       {
-        "headline": "整个微米投资论点都归结为这个数字",
-        "url": "https://finnhub.io/api/news?id=ab25f99357e768e2fd77476dd51ab3f90cf3f4e7af9dc0e8250e72e8bc434ac6",
-        "datetime": 1782073200,
+        "headline": "你还不能购买 Anthropic 股票，但你可以购买这 4 只人工智能股票",
+        "url": "https://finnhub.io/api/news?id=1faabf1b6276d5b35f97673c8970ad9b7eb24f59cd4c7626621e0bf6f3cf3a95",
+        "datetime": 1782084000,
         "source": "Yahoo"
       },
       {
-        "headline": "决定 XLV 最终能否在 2026 年跻身标准普尔 500 指数的 2 个因素",
-        "url": "https://finnhub.io/api/news?id=038182b20706846a8396b0e55102890345a59ae8195727fb4930bad0bb58f9f0",
-        "datetime": 1782073047,
+        "headline": "CoreWeave 即将加入纳斯达克 100 指数。该股票值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=e664dcc00acd9b475f257e06d534ff33df877140ad56c0137a0956ec6b3dd1e3",
+        "datetime": 1782081000,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "摩根士丹利让谷歌股票投资者有理由重新考虑人工智能支出",
-        "url": "https://finnhub.io/api/news?id=6be6b4b48a6e164ff92d85a699eb8c33bf17ef333c4ad7c5c980c3263728400b",
-        "datetime": 1782063180,
+        "headline": "科技、加密货币公司帮助打击非法野生动物贸易",
+        "url": "https://finnhub.io/api/news?id=50cf9efed0edaac4554a662337d91ac13836c8adc6a19761cea6397f3404f266",
+        "datetime": 1782083122,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet是最好的“七雄”AI股票吗？",
-        "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
-        "datetime": 1782063180,
+        "headline": "晨星公司表示 SpaceX 的市值可能还不到其 1.75 万亿美元 IPO 价格的一半",
+        "url": "https://finnhub.io/api/news?id=5b92932889e08358f395ac10fd9755cab624fac2fc1077ab0e52da2a62c6ba58",
+        "datetime": 1782080527,
         "source": "Yahoo"
       },
       {
-        "headline": "苹果即将上任的首席执行官在人工智能上划清界限：工具为产品服务，而不是相反",
-        "url": "https://finnhub.io/api/news?id=60553907ebd7888356972ebc059dc32d042c2ec122c88b8692466420e181b838",
-        "datetime": 1782045055,
+        "headline": "3只股票将推动人工智能和数据中心的繁荣",
+        "url": "https://finnhub.io/api/news?id=0c7be6ef288726423c7b530e1af50302a423f956fc4179cc4068361023baddb9",
+        "datetime": 1782078656,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "独家：拒绝 OpenAI 的创始人表示，在 AI-Agent 时代，谷歌和 Meta 可能损失最大",
+        "url": "https://finnhub.io/api/news?id=6878d6efa3e3182f44c1974c08630d715c11731313e948bc2b596ac69ab27bc8",
+        "datetime": 1782077549,
         "source": "Yahoo"
       },
       {
-        "headline": "忘记广告：Alphabet 首席执行官表示这是现在最大的增长动力",
-        "url": "https://finnhub.io/api/news?id=619dadbbea4fff68530bc9c7583eb922bf0d497ce276d886bf2471e17cc0c738",
-        "datetime": 1782041429,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "伯克希尔·哈撒韦公司 (Berkshire Hathaway) 的格雷格·阿贝尔 (Greg Abel) 抛弃了亚马逊，转而收购 Alphabet。这是更好的选择吗？",
-        "url": "https://finnhub.io/api/news?id=b3ffd09f305bb60be372c6bc053567f21046f29ecf453cc4d069d6c0d8585465",
-        "datetime": 1782037920,
+        "headline": "为什么台积电甚至不需要赢得人工智能竞赛",
+        "url": "https://finnhub.io/api/news?id=aee782874eebb4e450df1350d9c808c14f9ac9c23d746a87e4a8c52c64b0144e",
+        "datetime": 1782070613,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "3只股票将推动人工智能和数据中心的繁荣",
+        "url": "https://finnhub.io/api/news?id=0c7be6ef288726423c7b530e1af50302a423f956fc4179cc4068361023baddb9",
+        "datetime": 1782078656,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Cathie Wood 增持 SpaceX 股票。她押注马斯克的人工智能愿景将会得到回报。",
+        "url": "https://finnhub.io/api/news?id=8eb331e5da8218d1a396a258d35118d4b8021b6dc2945d01a0405decb812685e",
+        "datetime": 1782070202,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Alphabet是最好的“七雄”AI股票吗？",
         "url": "https://finnhub.io/api/news?id=bd461c5cab11e9313f1352915880f9db75fbf5e6e669a0bf17d396f5e54e819c",
         "datetime": 1782063180,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "元平台似乎一切都不顺利。如何在这里玩 META 股票。",
+        "url": "https://finnhub.io/api/news?id=d8bd42cc938499ec84c78775db51fab82ea070579dfdf7921681b5e6a44e1f3e",
+        "datetime": 1782063002,
         "source": "Yahoo"
       },
       {
         "headline": "特斯拉在德克萨斯州只有 69 辆机器人出租车——但价格便宜",
         "url": "https://finnhub.io/api/news?id=90e68f737fe921450736c55bc5f2abc3a80212c36188cfa88f385c927e61787f",
         "datetime": 1782055905,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么这只巨型股票可能是我们拥有的最好的崩盘警告",
-        "url": "https://finnhub.io/api/news?id=04d1822b566b728825af199a55485710b2ed63d04f4069dac2859d511c0aa39f",
-        "datetime": 1782054002,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 与特斯拉合并可打造价值 5 万亿美元的巨头：市场预测如下",
-        "url": "https://finnhub.io/api/news?id=d902a6d7f0543979bb6612b2557092980bb5272fe01bb74df71f33fcdd43b3db",
-        "datetime": 1782048673,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "投资者应对埃隆·马斯克 (Elon Musk) 为 SpaceX 制定的收入目标持高度怀疑态度",
-        "url": "https://finnhub.io/api/news?id=33edf505c73a90ddf323d9aa06ac7c1c581d686d79c68a741798f8fafd0c89e2",
-        "datetime": 1782046802,
         "source": "Yahoo"
       }
     ],
@@ -1336,21 +1336,21 @@
     ],
     "SOL": [
       {
+        "headline": "雨伞出门了☂️",
+        "url": "https://x.com/solana/status/2068882806256930879",
+        "datetime": 1782095073,
+        "source": "@solana"
+      },
+      {
+        "headline": "世界扑克系列赛继续进行决赛桌 $50K PLO 豪客赛",
+        "url": "https://x.com/solana/status/2068869088567275944",
+        "datetime": 1782091803,
+        "source": "@solana"
+      },
+      {
         "headline": "在@Collector_Crypt、@phygitals、@Slabzapp（以及许多其他平台）等平台上收集难以捉摸的耿鬼或全息喷火龙\n\n6 月份迄今为止，Solana 上的 TGC 平台占据了 73% 的市场份额 👀",
         "url": "https://x.com/solana/status/2068762645851729940",
         "datetime": 1782066425,
-        "source": "@solana"
-      },
-      {
-        "headline": "索拉纳满座。\n\n本周，穆迪、AWS、Kraken 等公司都坐到了谈判桌前。不同的行业。一网。没人弃牌。\n\n这是发货的内容：\n\n📰 头条新闻\n\n- 穆迪",
-        "url": "https://x.com/solana/status/2068680345936142657",
-        "datetime": 1782046803,
-        "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2068666561540583629",
-        "datetime": 1782043516,
         "source": "@solana"
       }
     ],
