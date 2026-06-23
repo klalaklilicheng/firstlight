@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:26:37.164Z",
+  "updated_at": "2026-06-23T23:02:30.592Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62453,
-      "change_pct": -2.77
+      "price": 62481,
+      "change_pct": -2.2
     },
     {
       "symbol": "ETH",
-      "price": 1664.07,
-      "change_pct": -3.91
+      "price": 1661.75,
+      "change_pct": -3.53
     },
     {
       "symbol": "SOL",
-      "price": 69.06,
-      "change_pct": -4.89
+      "price": 69.47,
+      "change_pct": -3.5
     },
     {
       "symbol": "HYPE",
       "price": 62.21,
-      "change_pct": -7.15
+      "change_pct": -6.04
     },
     {
       "symbol": "ZEC",
-      "price": 417.32,
-      "change_pct": -6.75
+      "price": 417.31,
+      "change_pct": -5.81
     },
     {
       "symbol": "TAO",
-      "price": 219.44,
-      "change_pct": -5.35
+      "price": 219.95,
+      "change_pct": -4.3
     },
     {
       "symbol": "SKY",
-      "price": 1288.94,
-      "change_pct": -5.93
+      "price": 1293.83,
+      "change_pct": -4.9
     },
     {
       "symbol": "AAVE",
-      "price": 72.42,
-      "change_pct": -3.55
+      "price": 72.6,
+      "change_pct": -2.97
     },
     {
       "symbol": "BNB",
-      "price": 576.18,
-      "change_pct": -2.41
+      "price": 576.82,
+      "change_pct": -2.08
     },
     {
       "symbol": "NEAR",
-      "price": 2,
-      "change_pct": -6.58
+      "price": 1.98,
+      "change_pct": -4.07
     },
     {
       "symbol": "DOGE",
-      "price": 0.078515,
-      "change_pct": -4.97
+      "price": 0.078905,
+      "change_pct": -3.95
     },
     {
       "symbol": "SPACEX",
-      "price": 524.93,
-      "change_pct": -2.43
+      "price": 523.01,
+      "change_pct": -1.66
     }
   ],
   "earnings": {
@@ -474,6 +474,42 @@
   },
   "news": [
     {
+      "headline": "随着加密货币市场暴跌，1.7 亿美元的以太多头被清算：以太坊注定要失败吗？",
+      "summary": "随着新一轮清算浪潮给山寨币带来压力，以及比特币难以守住 62,000 美元的溢出效应影响投资者情绪，ETH 价格悬而未决。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782252920,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "斯塔默辞职：安迪·伯纳姆 (Andy Burnham) 对英国加密货币意味着什么",
+      "summary": "伯纳姆（Burnham）为英国加密货币行业带来了一剂乐观情绪，此前他曾担任曼彻斯特市长，支持区块链行业。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782252000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密评论家鲁比尼通过链上“Technodollar”加入代币化热潮",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
+      "datetime": 1782251650,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "马克·扎克伯格命令 Meta 员工开发无钱预测市场：纽约时报",
+      "summary": "据报道，Meta 首席执行官计划该公司推出一个独立于其他应用程序的预测市场，允许用户使用积分系统而不是金钱下注。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782248492,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "CFTC 就针对预测市场的行为起诉肯塔基州，使其成为第一个面临联邦审查的红州",
       "summary": "该委员会现已总共起诉了九个州，以捍卫其所认为的监管赛事合同的专有权利。",
       "source": "CNBC",
@@ -627,7 +663,7 @@
       "related": ""
     },
     {
-      "headline": "德意志银行：比特币最近跌破 60,000 美元表明美联储、ETF 和人工智能面临压力",
+      "headline": "德意志银行：比特币近期跌破 60,000 美元表明美联储、ETF 和人工智能面临压力",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
@@ -706,42 +742,6 @@
       "datetime": 1782219600,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "前 Robinhood Crypto 首席运营官 Tanya Denisova 加入稳定币发行商 Agora 担任运营主管",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
-      "datetime": 1782219600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "卡尔希将印度添加到不断增长的受限制司法管辖区名单中",
-      "summary": "在印度当局警告 VPN 提供商停止为访问这些平台提供便利几个月后，Kalshi 将印度添加到了 55 个受限制司法管辖区的名单中。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-adds-india-restricted-jurisdictions?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1782218413,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "赢得欧洲议会关键投票后，数字欧元向前迈出了一大步",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "datetime": 1782218240,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "富兰克林邓普顿完成 250 Digital 收购交易并成立新的 Franklin Crypto 部门",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division",
-      "datetime": 1782218157,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -795,31 +795,31 @@
     }
   ],
   "btc_score": {
-    "score": 31.9,
+    "score": 32.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.7,
+    "daily_score": 16.4,
     "weekly_score": 16.2,
-    "btc_price": 62549.2,
+    "btc_price": 62594.5,
     "fear_greed": 21,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -68300000,
-        "score": 45,
+        "value": 8900000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.005336,
-        "score": 48,
+        "value": 0.004129,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.11,
+        "value": 2.08,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -889,7 +889,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -92.1,
+        "value": -90.1,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -1082,15 +1082,15 @@
         "text": "Strategy has increased its USD Reserve by $300 million to $1.4 billion and plans to continue replenishing it to support the credit quality of its Digital Credit securities. We also acquired 520 BTC for $35 million, increasing our $BTC Reserve to ₿847,363. $MSTR $STRC",
         "url": "https://x.com/saylor/status/2069028571880845340",
         "time": "Mon Jun 22 12:03:46 +0000 2026",
-        "likes": 16305,
-        "retweets": 1967
+        "likes": 16357,
+        "retweets": 1973
       },
       {
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 18231,
-        "retweets": 1848
+        "likes": 18230,
+        "retweets": 1850
       },
       {
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
@@ -1103,14 +1103,14 @@
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 20539,
+        "likes": 20538,
         "retweets": 2171
       },
       {
         "text": "Markets are closed today.\nVolatility is never easy.\nBitcoin keeps working.\nSo do we.\nThank you for your support.",
         "url": "https://x.com/saylor/status/2067861414069375418",
         "time": "Fri Jun 19 06:45:54 +0000 2026",
-        "likes": 21125,
+        "likes": 21126,
         "retweets": 1420
       }
     ],
@@ -1155,97 +1155,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Infleqtion (INFQ)：社交媒体最受欢迎的量子股票，潜力高达 10 倍",
-        "url": "https://finnhub.io/api/news?id=14fc85496852a0fe5acce0bb777f737ec7782bd338b183c8363c20fe8cd24fa9",
-        "datetime": 1782244486,
+        "headline": "谷歌母公司 Alphabet 将取代 Verizon 加入道琼斯工业平均指数",
+        "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
+        "datetime": 1782251433,
         "source": "Yahoo"
       },
       {
-        "headline": "科技股连续第二天下跌。这就是抛售背后的原因。",
-        "url": "https://finnhub.io/api/news?id=cc76a6e438fe7b859bce6fc9182101bb61fb9bb6b3c1de783faa3e2e9d9df524",
-        "datetime": 1782244127,
+        "headline": "亿万富翁对冲基金经理：随着我们进入“智能时代”，人工智能可以催生第一家价值 10 万亿美元的公司",
+        "url": "https://finnhub.io/api/news?id=4bac489d8f54e57094a16a5c643187b3f0410301d7a140c03851b13736fc8dc4",
+        "datetime": 1782250758,
         "source": "Yahoo"
       },
       {
-        "headline": "IREN (IREN) 是具有 10 倍潜力的最佳人工智能股票吗？",
-        "url": "https://finnhub.io/api/news?id=6da0299e2eced11eb49868ba48d2ae101cb021cba0c66da97c5bada64091adcf",
-        "datetime": 1782244077,
+        "headline": "市场策略师表示，人工智能抛售“只是获利了结”，而不是一个破碎的故事",
+        "url": "https://finnhub.io/api/news?id=806688ee440146a6b89efe5420b1718850dbdf3e369a858834c283b148ec8425",
+        "datetime": 1782249647,
         "source": "Yahoo"
       },
       {
-        "headline": "Nebius Group (NBIS) 有更多上涨空间吗？",
-        "url": "https://finnhub.io/api/news?id=72f171de9f0a846650ccb9b153ea1624dddc45852c7133b160071400e480c979",
-        "datetime": 1782244054,
+        "headline": "更新：随着芯片股下滑，纳斯达克指数出现两周来最大跌幅",
+        "url": "https://finnhub.io/api/news?id=58f1af7bc1b14c462e0fcc21be491cbe5d15701d4a8f7849f7ce8a29f657d2bb",
+        "datetime": 1782248341,
         "source": "Yahoo"
       },
       {
-        "headline": "Nu Holdings 不断以惊人的速度增加客户。金融科技仍然划算吗？",
-        "url": "https://finnhub.io/api/news?id=05708c0bb7978eeedb168da7017c11b5b4b268324f5e9fa1fabb16d77826e45a",
-        "datetime": 1782243604,
+        "headline": "华尔街关注 4.2% 的通胀率：这是我不断重复积累的 1 个不可阻挡的人工智能大佬",
+        "url": "https://finnhub.io/api/news?id=b830f1eea966fe8abda4355728aea9c8bd069e2f95452c064f9ace4e750182c8",
+        "datetime": 1782248321,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Google 将金融广告检查范围扩大到 24 个欧洲市场",
-        "url": "https://finnhub.io/api/news?id=89c1c1dc226addf2badd12ffe489952ed7038986f7cfaedcd0ab47ddcd318be8",
-        "datetime": 1782241402,
+        "headline": "谷歌母公司 Alphabet 将取代 Verizon 加入道琼斯工业平均指数",
+        "url": "https://finnhub.io/api/news?id=6b33e3ccd0dea34fae22f3a766aaf9fdb39dfba51805e056bf3026a468f2c509",
+        "datetime": 1782251433,
         "source": "Yahoo"
       },
       {
-        "headline": "周二 Alphabet 股票发生了什么",
-        "url": "https://finnhub.io/api/news?id=d1398eee28519778348387be0f0ab5c5545ada10281714f15cd80f7d09a1f9b6",
-        "datetime": 1782241308,
+        "headline": "纳斯达克跌破支撑后道琼斯期货上涨；联邦快递 (FedEx) 和 Cerebras 因美光到期而延迟上市",
+        "url": "https://finnhub.io/api/news?id=1a366c879029c742124a44835692a40d9f21eeee5c31af94f5ff76e1230166e9",
+        "datetime": 1782250910,
         "source": "Yahoo"
       },
       {
-        "headline": "特朗普希望积极快速推进量子计算项目",
-        "url": "https://finnhub.io/api/news?id=4edbea4d9c5a3489981af7c240be8be938ee352bbaae5d21fb4445f1df8431a5",
-        "datetime": 1782240705,
+        "headline": "亿万富翁对冲基金经理：随着我们进入“智能时代”，人工智能可以催生第一家价值 10 万亿美元的公司",
+        "url": "https://finnhub.io/api/news?id=4bac489d8f54e57094a16a5c643187b3f0410301d7a140c03851b13736fc8dc4",
+        "datetime": 1782250758,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能行业正在摇摆不定。伯克希尔哈撒韦公司就是为这样的市场而建的。",
-        "url": "https://finnhub.io/api/news?id=cf6727d5ad3452e356bfa9422ecb93261ba522190f9763341da92743761a9def",
-        "datetime": 1782240687,
+        "headline": "Meta推出更便宜的AI智能眼镜，但竞争正在升温",
+        "url": "https://finnhub.io/api/news?id=33583d982dd5cb309b90fa33eeb55bf6287d17e41fe19fefbeb148c02a499faa",
+        "datetime": 1782247815,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能股票暴跌引发了一个问题：投资者是只是获利了结还是变得非常紧张",
-        "url": "https://finnhub.io/api/news?id=555070f65e98a3cacb6d3a01ccc201d702ad634508b953c1054ae4c18d1836e8",
-        "datetime": 1782238710,
+        "headline": "可穿戴技术公司可以从 FitBit 中吸取教训",
+        "url": "https://finnhub.io/api/news?id=83d4b78e372e0a1b3a10030a965d1cf542bcea79d5d36408a4f73ca50703608a",
+        "datetime": 1782247485,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "Lemonade (LMND) Stock Is Up, What You Need To Know",
+        "url": "https://finnhub.io/api/news?id=ec2b8e5e6b8d47e8e7afc41fc724204daaad68c342cf22c030217303d33e787a",
+        "datetime": 1782249646,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "TSLA Stock: Tesla Doubles EU Registrations In May But BYD Still Leads With Over 26K Units",
+        "url": "https://finnhub.io/api/news?id=1227652340b8f1a59d20270d1247201294933ce2e8ac60fc3a4bed9eeff1f73a",
+        "datetime": 1782247255,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 预测，除非第三次世界大战，到 2036 年全球经济将增长 10 倍，但吉姆·查诺斯 (Jim Chanos) 并不买账",
+        "url": "https://finnhub.io/api/news?id=d7e768a4ce59d84356db08eb36a953fa4d9ec7deda766aa58e1d945ee822d0ab",
+        "datetime": 1782246674,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉股价为何周二下跌",
+        "url": "https://finnhub.io/api/news?id=2ca9fe4b3878d6194f3882b79afc773ddfb0e76bffa6e5ce33389ab6f7a1096d",
+        "datetime": 1782244842,
+        "source": "Yahoo"
+      },
+      {
         "headline": "为什么特斯拉 (TSLA) 股价今天下跌",
         "url": "https://finnhub.io/api/news?id=ee844d4bd4d9bd2a729b50fb54caa6e6986ce39e016d8aecd3c6cde5f21dd2b9",
         "datetime": 1782243406,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉股价因德克萨斯州住宅致命车祸的新调查而暴跌",
-        "url": "https://finnhub.io/api/news?id=838d1b34e1e368bf6b0427aab85e1e5255ed0e25b6f275f715a7188a7a86f700",
-        "datetime": 1782241980,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "随着经济复苏势头增强，特斯拉欧洲注册量猛增 57%",
-        "url": "https://finnhub.io/api/news?id=8c64f0dddc6756eabb97f484635af021c141268b290f77198f4807278db012c7",
-        "datetime": 1782241368,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "探索周二的 S&P500 指数，找出今天交易中最活跃的股票。",
-        "url": "https://finnhub.io/api/news?id=38bcd9ac167f2f6b077abe8cdb9298c530469406740fc8f36cab4cd646da5bbe",
-        "datetime": 1782237900,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "SPCX：你应该逢低买入吗？",
-        "url": "https://finnhub.io/api/news?id=f6a3053316a018653373ca793ea15d12244a6bf5224840ee0037ff3adbf9dd5c",
-        "datetime": 1782236940,
         "source": "Yahoo"
       }
     ],
@@ -1291,7 +1291,7 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "德意志银行：比特币最近跌破 60,000 美元表明美联储、ETF 和人工智能面临压力",
+        "headline": "德意志银行：比特币近期跌破 60,000 美元表明美联储、ETF 和人工智能面临压力",
         "url": "https://www.coindesk.com/markets/2026/06/23/bitcoin-s-recent-drop-below-usd60-000-signals-fed-etf-and-ai-pressures-deutsche-bank",
         "datetime": 1782226457,
         "source": "CoinDesk"
@@ -1418,6 +1418,12 @@
     ],
     "NEAR": [
       {
+        "headline": "Q 代表量子。\n\nNEAR 的准备工作如下：",
+        "url": "https://x.com/NEARProtocol/status/2069534500418130190",
+        "datetime": 1782250449,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "ICYMI：@ilblackdragon 加入@MarketBubble 来解开互联网的下一个演变。\n\n私人人工智能。靠近代理市场。保密意图。\n\nNEAR 正在构建用户拥有的未来。了解如何👇",
         "url": "https://x.com/NEARProtocol/status/2069506303517426040",
         "datetime": 1782243726,
@@ -1427,12 +1433,6 @@
         "headline": "做多、做空或对冲您已持有的资产。\n\n设置你的盈亏护栏并让它运行。\n\n一切都在超液体上。全部来自您的帐户。",
         "url": "https://x.com/NEARProtocol/status/2069433480115568725",
         "datetime": 1782226364,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR@3.33 将参与变成可衡量的事情。\n\n持有超过 100 美元的机密余额并至少进行一次机密交换。\n\n当机密意图达到 7000 万美元 TVL 时，快照为",
-        "url": "https://x.com/NEARProtocol/status/2069400493374189959",
-        "datetime": 1782218499,
         "source": "@NEARProtocol"
       }
     ],
