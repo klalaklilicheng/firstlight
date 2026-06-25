@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T22:10:02.089Z",
+  "updated_at": "2026-06-25T00:01:35.381Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 60967,
-      "change_pct": -2.67
+      "price": 60991,
+      "change_pct": -2.72
     },
     {
       "symbol": "ETH",
-      "price": 1620.11,
-      "change_pct": -2.9
+      "price": 1619.85,
+      "change_pct": -2.82
     },
     {
       "symbol": "SOL",
-      "price": 68.1,
-      "change_pct": -1.8
+      "price": 67.98,
+      "change_pct": -2.36
     },
     {
       "symbol": "HYPE",
-      "price": 63.13,
-      "change_pct": 1.57
+      "price": 63.88,
+      "change_pct": 2.81
     },
     {
       "symbol": "ZEC",
-      "price": 416.81,
-      "change_pct": -0.27
+      "price": 415.89,
+      "change_pct": 0.08
     },
     {
       "symbol": "TAO",
-      "price": 218.17,
-      "change_pct": -0.89
+      "price": 219.16,
+      "change_pct": -0.58
     },
     {
       "symbol": "SKY",
-      "price": 1243.46,
-      "change_pct": -4.19
+      "price": 1235.01,
+      "change_pct": -5.09
     },
     {
       "symbol": "AAVE",
-      "price": 78.58,
-      "change_pct": 8.34
+      "price": 79.67,
+      "change_pct": 10.01
     },
     {
       "symbol": "BNB",
-      "price": 563.34,
-      "change_pct": -2.39
+      "price": 563.71,
+      "change_pct": -2.4
     },
     {
       "symbol": "NEAR",
-      "price": 1.97,
-      "change_pct": -1.32
+      "price": 1.96,
+      "change_pct": -0.89
     },
     {
       "symbol": "DOGE",
-      "price": 0.076103,
-      "change_pct": -3.4
+      "price": 0.076021,
+      "change_pct": -3.55
     },
     {
       "symbol": "SPACEX",
-      "price": 517.34,
-      "change_pct": -1.45
+      "price": 507.76,
+      "change_pct": -3.26
     }
   ],
   "earnings": {
@@ -130,8 +130,8 @@
         "date": "2026-08-25",
         "quarter": 2,
         "year": 2027,
-        "eps_estimate": 2.1227,
-        "revenue_estimate": 93483809451
+        "eps_estimate": 2.124,
+        "revenue_estimate": 93501734064
       },
       "history": [
         {
@@ -300,11 +300,10 @@
     },
     "CRCL": {
       "next": {
-        "date": "2026-08-10",
+        "date": "2026-08-20",
         "quarter": 2,
         "year": 2026,
-        "eps_estimate": 0.2327,
-        "revenue_estimate": 753369195
+        "is_estimate": true
       },
       "history": [
         {
@@ -474,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "HYPE从历史高位下跌22%：现货需求会重振上升趋势吗？",
+      "summary": "HYPE 价格在关键支撑区域附近下跌，其中抛售压力减弱与期货市场活动萎缩相冲突。山寨币会恢复60美元以上的上涨趋势吗？",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/hype-down-22-from-record-highs-can-spot-demand-retain-the-uptrend?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782338905,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "FTX 高管的妻子计划于 11 月因竞选财务指控受审",
       "summary": "一名曼哈顿法官下令米歇尔·邦德的刑事审判于 11 月开始，此前米歇尔·邦德拒绝了一项驳回起诉书的动议，理由是检察官在指控中误导了她丈夫。",
       "source": "Cointelegraph",
@@ -538,7 +546,7 @@
     },
     {
       "headline": "比特币突破6万美元跌至20个月低点",
-      "summary": "<p>请关注比特币图表，因为它突破了 60,000 美元。它已经突破了这一水平，并触及 6 月 5 日底部 59,125 美元下方。</p><p>这是 2024 年 9 月以来的新低。</p><p>在目前的水平上，尽管美国采取了一系列对加密货币友好的政策，但特朗普 2.0 的整个反弹已经被抹去。",
+      "summary": "<p>Keep an eye on the bitcoin chart as it breaks $60,000. It's gone through that level and touched below the June 5 bottom of $59,125.</p><p>This is a fresh low since September 2024.</p><p>At current levels, the entire Trump 2.0 rally is already wiped out despite a host of crypto-friendly US policie",
       "source": "Forexlive",
       "url": "https://investinglive.com/Cryptocurrency/bitcoin-breaks-60000-and-falls-to-a-20-month-low-20260624/",
       "datetime": 1782323491,
@@ -733,15 +741,6 @@
       "datetime": 1782308551,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "高通与人工智能初创公司 Modular 达成交易，以加强软件堆栈和数据中心建设",
-      "summary": "随着人工智能需求的飙升，高通正在寻求扩大其在数据中心市场的地位。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-      "datetime": 1782307763,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -801,31 +800,31 @@
     }
   ],
   "btc_score": {
-    "score": 30.1,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.5,
+    "score": 29.9,
+    "level": "恐慌",
+    "suggestion": "市场低估，适合分批建仓或加仓",
+    "daily_score": 15.3,
     "weekly_score": 14.6,
-    "btc_price": 61089.8,
+    "btc_price": 61063.1,
     "fear_greed": 20,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -30700000,
-        "score": 48,
+        "value": -81400000,
+        "score": 45,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": -0.005496,
-        "score": 42,
+        "value": -0.001423,
+        "score": 44,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.64,
+        "value": 2.56,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -895,7 +894,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -48.8,
+        "value": -46.5,
         "score": 32,
         "weight": 4,
         "group": "weekly"
@@ -905,7 +904,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 35
+      "days_until": 34
     },
     "schedule": [
       "2025-01-29",
@@ -1028,14 +1027,14 @@
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 907,
+        "likes": 909,
         "retweets": 45
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 913,
+        "likes": 915,
         "retweets": 51
       },
       {
@@ -1066,7 +1065,7 @@
         "url": "https://x.com/QwQiao/status/2062858719826686295",
         "time": "Fri Jun 05 11:26:59 +0000 2026",
         "likes": 999,
-        "retweets": 108
+        "retweets": 109
       },
       {
         "text": "the lion is bidding",
@@ -1088,36 +1087,36 @@
         "text": "Digital Credit is income for investors who believe in Bitcoin. $STRC https://t.co/FbHgQJLfSY",
         "url": "https://x.com/saylor/status/2069682624956612731",
         "time": "Wed Jun 24 07:22:45 +0000 2026",
-        "likes": 6126,
-        "retweets": 520
+        "likes": 6310,
+        "retweets": 538
       },
       {
         "text": "Strategy has increased its USD Reserve by $300 million to $1.4 billion and plans to continue replenishing it to support the credit quality of its Digital Credit securities. We also acquired 520 BTC for $35 million, increasing our $BTC Reserve to ₿847,363. $MSTR $STRC",
         "url": "https://x.com/saylor/status/2069028571880845340",
         "time": "Mon Jun 22 12:03:46 +0000 2026",
-        "likes": 16773,
-        "retweets": 2029
+        "likes": 16775,
+        "retweets": 2030
       },
       {
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 18269,
-        "retweets": 1854
+        "likes": 18288,
+        "retweets": 1856
       },
       {
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
         "url": "https://x.com/saylor/status/2068585855136997745",
         "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 14389,
-        "retweets": 1422
+        "likes": 14392,
+        "retweets": 1424
       },
       {
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 20525,
-        "retweets": 2190
+        "likes": 20542,
+        "retweets": 2193
       }
     ],
     "viktorfischer": [
@@ -1161,97 +1160,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "预测：到 2027 年底，这将是 Nvidia 的股价（提示：未来将大幅上涨！）",
-        "url": "https://finnhub.io/api/news?id=d8c64299b22a7d63c64f5a6563e97d42a58a0c8d5b3483735bf41bf582551979",
-        "datetime": 1782330660,
+        "headline": "美光创纪录季度业绩，芯片股盘后飙升",
+        "url": "https://finnhub.io/api/news?id=1c4ec36a1f089b908bccfaf2ec91a3e0ba375178d8e2f78ed09b5f0f48502b82",
+        "datetime": 1782337920,
         "source": "Yahoo"
       },
       {
-        "headline": "热门：OpenAI、博通瞄准英伟达 AI 芯片主导地位； Wendy's 看到 meme 股票上涨",
-        "url": "https://finnhub.io/api/news?id=0322678cd48c48ca5f60b2b6a022294541a0a484f9bd52068393d774708064be",
-        "datetime": 1782330442,
+        "headline": "博通股票的真实价格在两年后被隐藏",
+        "url": "https://finnhub.io/api/news?id=b2b5232a5e09e82fd1a3d102fbf558307d3ee04f5622693fbd64e2a939efc96a",
+        "datetime": 1782336690,
         "source": "Yahoo"
       },
       {
-        "headline": "更好买：SpaceX 还是“七侠”？",
-        "url": "https://finnhub.io/api/news?id=6c3294e9ddf2cc16defbc9e14e693be0181f9e2a15f3345d5dcabc8a00d2168a",
-        "datetime": 1782330120,
+        "headline": "这只 ETF 正在享受 SpaceX 股票的盛宴。这也是对特斯拉可能收购的一次尝试。",
+        "url": "https://finnhub.io/api/news?id=90585ee55b4221d5c16cdf2f2966b76d7918cadf90caf342c3354d8e702d5f1d",
+        "datetime": 1782336300,
         "source": "Yahoo"
       },
       {
-        "headline": "五星级分析师设定了令人瞠目结舌的 AMD 股价目标",
-        "url": "https://finnhub.io/api/news?id=37fcf3176d433a4b70f8e208b8b594d73c5ff2fb99781ff1f34c9392fb3e6a2a",
-        "datetime": 1782329820,
+        "headline": "为什么图标股票周三大跌",
+        "url": "https://finnhub.io/api/news?id=a645c411a72af7e02f0a31d0d087af0d05915edb5afc8218e51058d43d08067b",
+        "datetime": 1782336153,
         "source": "Yahoo"
       },
       {
-        "headline": "您可以出售杠杆 ETF 的备兑看涨期权以获得收入吗？是的，但收益有风险",
-        "url": "https://finnhub.io/api/news?id=a4d2283ce309286a4c5daf9a249df763d9f46b934180e2c9ad5f24dd3eac1364",
-        "datetime": 1782329712,
+        "headline": "今日股市，6 月 24 日：纳斯达克止跌，美光盘后飙升",
+        "url": "https://finnhub.io/api/news?id=bb688fcccd26858c2da7212adae16c1ba8ffa3f557a9a4c3d855b594015541e4",
+        "datetime": 1782336058,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Bitdeer Technologies (BTDR)：态势感知产品组合中的顶级加密货币和人工智能游戏",
+        "url": "https://finnhub.io/api/news?id=f1a1561d844e73111febcf4b4b6f09e3f659a3ea2aca9b1a9e7e2ef725b9f88f",
+        "datetime": 1782335391,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "美光在业绩井喷后股价上涨，预测远高于华尔街预期",
+        "url": "https://finnhub.io/api/news?id=1aa1b952ef2ffe11852c5fd97882f5f7fc2381ee47662bac49ccc169079fcb1a",
+        "datetime": 1782333852,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "随着 SpaceX 和 Tesla 股价下跌，埃隆·马斯克 (Elon Musk) 失去了万亿富翁地位",
+        "url": "https://finnhub.io/api/news?id=ff5f12809b40dfa57b4ca2a622f1cb3486b021ff7a8f64edbd4415bbf197615e",
+        "datetime": 1782331353,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "纳斯达克指数继续下滑，领先美光科技财报",
+        "url": "https://finnhub.io/api/news?id=bef2070a91334fa084746ec2654b666e69c381e38bbf31d505520ab08796b8ec",
+        "datetime": 1782331274,
+        "source": "Yahoo"
+      },
+      {
         "headline": "GOOGL 股票：谷歌失去更多人工智能人才，据报道两名专家跳槽至 Anthropic",
         "url": "https://finnhub.io/api/news?id=455acc4a6a2756d39bc60bc08f2056ee11ac163fe3fb4610e50715cea4a32873",
         "datetime": 1782330379,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "行业动态：科技股午后下跌",
-        "url": "https://finnhub.io/api/news?id=cd0025e0636aa6d7afdba4dd2d7a5a647874cb7a63cfcdf250fe803e6f02b944",
-        "datetime": 1782329278,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 股价下跌让埃隆·马斯克 (Elon Musk) 失去了亿万富翁的头衔",
-        "url": "https://finnhub.io/api/news?id=ce95b106428c6ca22b8e8ad8c5a5a64b3cb82f8ae66c9ad72b811de4e1930c7b",
-        "datetime": 1782328920,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "资深分析师对英伟达股票发出严厉警告",
-        "url": "https://finnhub.io/api/news?id=ae0d84ca7a835f759348ac56b514f202b0e82f759be410f84de34c9b3a907b7c",
-        "datetime": 1782328664,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "随着 Gemini 重量级人物叛逃到 Anthropic，谷歌人才流失加剧",
-        "url": "https://finnhub.io/api/news?id=d48142fbfe4fcb227a3d83efb4772e897b79a32aee7a8e601186b5492c545bfe",
-        "datetime": 1782327600,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "Sunrun (RUN) 股价飙升，您需要知道什么",
+        "url": "https://finnhub.io/api/news?id=376e87757ad4e452ba19498f42bb8fc965f41be3d0a7b4dcf744565c8797a4c6",
+        "datetime": 1782337465,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "这只 ETF 正在享受 SpaceX 股票的盛宴。这也是对特斯拉可能收购的一次尝试。",
+        "url": "https://finnhub.io/api/news?id=90585ee55b4221d5c16cdf2f2966b76d7918cadf90caf342c3354d8e702d5f1d",
+        "datetime": 1782336300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "随着 SpaceX 和 Tesla 股价下跌，埃隆·马斯克 (Elon Musk) 失去了万亿富翁地位",
+        "url": "https://finnhub.io/api/news?id=ff5f12809b40dfa57b4ca2a622f1cb3486b021ff7a8f64edbd4415bbf197615e",
+        "datetime": 1782331353,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Sunrun 股价因与特斯拉达成协议并翻新房屋为数据中心供电而上涨",
+        "url": "https://finnhub.io/api/news?id=5debe86e8188a8d3c4e346c86cc2e7e1ccfe05d0edba529401fa817562a0034a",
+        "datetime": 1782331015,
+        "source": "Yahoo"
+      },
+      {
         "headline": "更好买：SpaceX 还是“七侠”？",
         "url": "https://finnhub.io/api/news?id=6c3294e9ddf2cc16defbc9e14e693be0181f9e2a15f3345d5dcabc8a00d2168a",
         "datetime": 1782330120,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉因德克萨斯州撞车事故被起诉",
-        "url": "https://finnhub.io/api/news?id=c0755182b2ea2336f5a77030180b4973384b1730496b2ddddc374559e4cbd969",
-        "datetime": 1782329519,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "未来 5 年全球可再生能源年度投资可能达到 2.9 万亿美元。这是值得买入的一只顶级可再生能源股票。",
-        "url": "https://finnhub.io/api/news?id=753c7add4a062e762c8003b183a657054cd992c817a88e73cb64d2e02f37cb5e",
-        "datetime": 1782329100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "太阳能股因与特斯拉签订人工智能数据中心电力协议而飙升",
-        "url": "https://finnhub.io/api/news?id=f0f15e922d1b485066ad79aa3c79f0744e78161c7b08e781520cb90cbedb06ac",
-        "datetime": 1782326087,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "埃隆·马斯克 (Elon Musk) 表示同意，英伟达认为人工智能数据中心并不是许多人认为的排水口：“数字可能会让你感到惊讶”",
-        "url": "https://finnhub.io/api/news?id=2889c5b9b672675f97ec53a551d7d6b80aa01b734215a9499fef4c89f0dbdfa1",
-        "datetime": 1782325857,
         "source": "Yahoo"
       }
     ],
@@ -1343,7 +1342,13 @@
     ],
     "SOL": [
       {
-        "headline": "@ExponentFinance 上的第一个风险分级市场现已在 @onrefinance 上上线\n\n您现在可以将 ONyc 分为两部分，以便您可以根据您的风险状况进行分配",
+        "headline": "首次在广播电视上与 Solana 打交道，从 7 月开始，在 8 月黄金时段直播👀",
+        "url": "https://x.com/solana/status/2069917248785916302",
+        "datetime": 1782341703,
+        "source": "@solana"
+      },
+      {
+        "headline": "The first risk-tranching market on @ExponentFinance is now live for @onrefinance\n\nYou can now split ONyc into two tranches so you can allocate based on your risk profile",
         "url": "https://x.com/solana/status/2069879933816463711",
         "datetime": 1782332807,
         "source": "@solana"
@@ -1352,12 +1357,6 @@
         "headline": "",
         "url": "https://x.com/solana/status/2069862036818014692",
         "datetime": 1782328540,
-        "source": "@solana"
-      },
-      {
-        "headline": "第四个验证器客户端已连接网络（测试中）。\n\n秘银来了👀",
-        "url": "https://x.com/solana/status/2069816430430765255",
-        "datetime": 1782317667,
         "source": "@solana"
       }
     ],
@@ -1383,7 +1382,7 @@
     ],
     "DOGE": [
       {
-        "headline": "罗·卡纳 (Ro Khanna) 挑战埃隆·马斯克 (Elon Musk) 在线 DOGE 之战后进行电视辩论",
+        "headline": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle",
         "url": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
         "datetime": 1782170542,
         "source": "CNBC"
@@ -1424,7 +1423,7 @@
         "source": "@NEARProtocol"
       },
       {
-        "headline": "NEAR 长达十年的代理经济建设幕后花絮： \n\nNEAR 的完整历史：",
+        "headline": "NEAR 长达十年的代理经济建设幕后花絮： \n\nThe full history of NEAR:",
         "url": "https://x.com/NEARProtocol/status/2069879679931101343",
         "datetime": 1782332746,
         "source": "@NEARProtocol"
