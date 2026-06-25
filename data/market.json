@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T04:58:37.438Z",
+  "updated_at": "2026-06-25T08:22:48.608Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 61220,
-      "change_pct": -2.37
+      "price": 61654,
+      "change_pct": -1.55
     },
     {
       "symbol": "ETH",
-      "price": 1629.21,
-      "change_pct": -2.3
+      "price": 1649.78,
+      "change_pct": -1.16
     },
     {
       "symbol": "SOL",
-      "price": 68.14,
-      "change_pct": -1.95
-    },
-    {
-      "symbol": "HYPE",
-      "price": 63.57,
-      "change_pct": 3.56
-    },
-    {
-      "symbol": "ZEC",
-      "price": 412.64,
+      "price": 69.08,
       "change_pct": -0.27
     },
     {
+      "symbol": "HYPE",
+      "price": 63.82,
+      "change_pct": 2.88
+    },
+    {
+      "symbol": "ZEC",
+      "price": 417.96,
+      "change_pct": 0.93
+    },
+    {
       "symbol": "TAO",
-      "price": 219.47,
-      "change_pct": -0.23
+      "price": 221.93,
+      "change_pct": 0.6
     },
     {
       "symbol": "SKY",
-      "price": 1249.91,
-      "change_pct": -2.84
+      "price": 1257.07,
+      "change_pct": -2.1
     },
     {
       "symbol": "AAVE",
-      "price": 83.58,
-      "change_pct": 16.33
+      "price": 81.68,
+      "change_pct": 14.3
     },
     {
       "symbol": "BNB",
-      "price": 567.1,
-      "change_pct": -1.71
+      "price": 568.61,
+      "change_pct": -1.36
     },
     {
       "symbol": "NEAR",
-      "price": 1.94,
-      "change_pct": -1.17
+      "price": 1.96,
+      "change_pct": 0.13
     },
     {
       "symbol": "DOGE",
-      "price": 0.076321,
-      "change_pct": -3.48
+      "price": 0.077105,
+      "change_pct": -2.29
     },
     {
       "symbol": "SPACEX",
-      "price": 514.85,
-      "change_pct": -8.37
+      "price": 512.34,
+      "change_pct": -8.39
     }
   ],
   "earnings": {
@@ -473,6 +473,78 @@
   },
   "news": [
     {
+      "headline": "美国仲裁巨头为代理商务推出“法律层”",
+      "summary": "随着代理人工智能交易的增加，“我们需要知道如果出现问题会发生什么，有一个明确的答案，”Hedera 联合创始人曼斯·哈蒙 (Mance Harmon) 说。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ai-is-getting-a-legal-layer-as-agentic-commerce-accelerates?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782368789,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时市场：人工智能交易持续进行，比特币、以太币导致清算损失 10 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
+      "datetime": 1782367267,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "众议院民主党人寻求 SEC 关于人工智能投资顾问的答案",
+      "summary": "众议院民主党人就提供人工智能代理顾问“代表散户投资者做出重大投资决策”的交易平台向美国证券交易委员会提出质疑。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/dems-want-secs-answers-on-ai-investment-advisors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "datetime": 1782366441,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "MemeCore 的 M 代币在没有明确触发的情况下突然暴跌 80%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
+      "datetime": 1782365743,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Ripple 的 RLUSD 稳定币在监管部门批准后在日本上线",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+      "datetime": 1782363754,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币已经划出了一条新线。周四的核心PCE可能会对其进行压力测试。",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it",
+      "datetime": 1782363211,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "XRP 下跌 2.8%，疲软反弹使 1 美元支撑成为焦点",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/xrp-slides-2-8-as-weak-bounce-keeps-usd1-support-in-focus",
+      "datetime": 1782361920,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着人工智能股票阶段性反弹，比特币重回 60,000 美元上方，ETH、SOL 收复损失",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
+      "datetime": 1782361743,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着 MIM 稳定币脱钩恶化，Abracadabra 采取紧急行动",
       "summary": "该协议正在提高所有大锅的利率，以鼓励偿还债务并减少供应。",
       "source": "Cointelegraph",
@@ -669,78 +741,6 @@
       "datetime": 1782315771,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "前 FCA 政策内部人士解释了英国加密货币雄心中的“巨大分歧”",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-      "datetime": 1782314587,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "特朗普取消签署带有 CBDC 禁令的住房法案",
-      "summary": "《21 世纪住房之路法案》包括一项规定，即美联储在 2030 年之前不得发行或创建 CBDC，但某些稳定币除外。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1782314287,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "交易排序不可能完全公平",
-      "summary": "为什么异步网络无法实现完美的公平性，以及不同的区块链如何对公平性采取不同的放宽措施。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1782313200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币刚刚跌破其著名的彩虹图底部，进入“BTC已死”区域",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-just-broke-below-the-floor-of-its-famous-rainbow-chart-into-the-btc-is-dead-zone",
-      "datetime": 1782312475,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "银行游说团体对稳定币和社区银行的看法是错误的",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
-      "datetime": 1782312450,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "模因币营销如何从网上投机转向现实世界的风险",
-      "summary": "从酗酒挑战到剃头挑战，模因币活动正在将参与变成剥削。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1782311400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "由于市场低迷和创纪录的黑客活动，2026 年 DeFi TVL 下降 39%",
-      "summary": "由于更广泛的市场低迷以及包括 Kelp DAO 黑客攻击在内的重大漏洞的影响对该行业造成压力，2026 年 DeFi TVL 下降了 39%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "datetime": 1782310479,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Polymarket 支持的平台增加资金以根除预测市场上的内幕交易",
-      "summary": "Polymarket 支持的平台在一轮融资中筹集了 150 万美元，以帮助构建检测可疑交易活动的工具。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/24/polymarket-backed-platform-boosts-funding-to-root-out-insider-trading-on-prediction-markets.html",
-      "datetime": 1782309764,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -800,12 +800,12 @@
     }
   ],
   "btc_score": {
-    "score": 26.9,
+    "score": 26.8,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 12.1,
-    "weekly_score": 14.8,
-    "btc_price": 61371.9,
+    "weekly_score": 14.7,
+    "btc_price": 61796.5,
     "fear_greed": 18,
     "indicators": [
       {
@@ -817,14 +817,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000983,
-        "score": 45,
+        "value": -0.001616,
+        "score": 44,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.35,
+        "value": 2.24,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -838,8 +838,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.26,
-        "score": 25,
+        "value": 1.22,
+        "score": 24,
         "weight": 12,
         "group": "weekly"
       },
@@ -887,15 +887,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 31.2,
+        "value": 31.5,
         "score": 19,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -38.1,
-        "score": 35,
+        "value": -29.1,
+        "score": 37,
         "weight": 4,
         "group": "weekly"
       }
@@ -1087,35 +1087,35 @@
         "text": "Digital Credit is income for investors who believe in Bitcoin. $STRC https://t.co/FbHgQJLfSY",
         "url": "https://x.com/saylor/status/2069682624956612731",
         "time": "Wed Jun 24 07:22:45 +0000 2026",
-        "likes": 6743,
-        "retweets": 573
+        "likes": 6895,
+        "retweets": 593
       },
       {
         "text": "Strategy has increased its USD Reserve by $300 million to $1.4 billion and plans to continue replenishing it to support the credit quality of its Digital Credit securities. We also acquired 520 BTC for $35 million, increasing our $BTC Reserve to ₿847,363. $MSTR $STRC",
         "url": "https://x.com/saylor/status/2069028571880845340",
         "time": "Mon Jun 22 12:03:46 +0000 2026",
-        "likes": 16779,
+        "likes": 16785,
         "retweets": 2032
       },
       {
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 18290,
+        "likes": 18294,
         "retweets": 1859
       },
       {
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
         "url": "https://x.com/saylor/status/2068585855136997745",
         "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 14415,
+        "likes": 14417,
         "retweets": 1427
       },
       {
         "text": "When I gave this speech in October 2022, Bitcoin traded near $20,000, Strategy held 130,000 BTC worth about $2.6 billion, and $MSTR was ~$24 split-adjusted. Weeks later, after Bitcoin fell below $16,000, our debt exceeded the combined value of our BTC and cash reserves by ~$300 https://t.co/nWl9YlN11s",
         "url": "https://x.com/saylor/status/2068278654455488789",
         "time": "Sat Jun 20 10:23:52 +0000 2026",
-        "likes": 20575,
+        "likes": 20581,
         "retweets": 2199
       }
     ],
@@ -1160,65 +1160,65 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "每个投资者现在都需要听到沃伦·巴菲特的 13 句话",
-        "url": "https://finnhub.io/api/news?id=459e64ce91f2a86e51b4c2d718366de98400b506898f4af1994c80cd3a9fe4b8",
-        "datetime": 1782359400,
+        "headline": "甲骨文能成为价值1万亿美元的公司吗？",
+        "url": "https://finnhub.io/api/news?id=243bb76751eda3f96d9f405b4e512f8388ead282ebe4b7005051e60627b96084",
+        "datetime": 1782373800,
         "source": "Yahoo"
       },
       {
-        "headline": "美光刚刚公布第四财季收入达到惊人的 500 亿美元。这对人工智能行业意味着什么。",
-        "url": "https://finnhub.io/api/news?id=ed6df461bd8c09a241645f3a75af62b0897182faf09aa7658f9eb3aa8e9814ca",
-        "datetime": 1782357060,
+        "headline": "这种能源库存正在帮助解决人工智能的最大限制",
+        "url": "https://finnhub.io/api/news?id=2d2b3c09abfd0082e7469a787e163e58fd2a0b7a0c9a0df47bca9b162b663b14",
+        "datetime": 1782372300,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 股票能让你成为百万富翁吗？这是简单的答案",
-        "url": "https://finnhub.io/api/news?id=eb0e21e0615ca628b07f4596f1f03b4e7880512ce600c0c371c3d14adf392357",
-        "datetime": 1782355800,
+        "headline": "英伟达会继续在人工智能领域占据主导地位吗？这个数字提供了一个非常明确的答案。",
+        "url": "https://finnhub.io/api/news?id=2adfd89179db8070f26d6d1d3795543805c21cb9fd8fe70f19bb918afc8518c4",
+        "datetime": 1782371700,
         "source": "Yahoo"
       },
       {
-        "headline": "美国银行重置 Marvell 股价目标",
-        "url": "https://finnhub.io/api/news?id=71af69f4587582bfe642bc19c041f0351f69b7459b96c22457c84e944af1248c",
-        "datetime": 1782354780,
+        "headline": "今年，这只势不可挡的 ETF 已使标准普尔 500 指数翻倍。现在是买入吗？",
+        "url": "https://finnhub.io/api/news?id=c7093f9f46fdfafe8f7db2952e682abb5307b02cf93a2f3edbb82eaf3cb34a15",
+        "datetime": 1782370200,
         "source": "Yahoo"
       },
       {
-        "headline": "纳斯达克、标准普尔 500 指数、道琼斯指数期货上涨，美光科技、高通平息人工智能恐慌：为何 WEN、SPCX、NVDA 股票也成为焦点",
-        "url": "https://finnhub.io/api/news?id=f699482746515c968954379e8ae7f848dd44a33d922a7787e68e779585a34238",
-        "datetime": 1782352747,
+        "headline": "现在购买 Costco 的 3 个理由，以及避免购买 Costco 的 1 个理由",
+        "url": "https://finnhub.io/api/news?id=1c5bd7bf6140ca9b40f504a79791d3da44ec7f586950fd3d733bc2876462bfee",
+        "datetime": 1782369300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Etsy、ACV Auctions 和 EverQuote 股价飙升，你需要知道什么",
-        "url": "https://finnhub.io/api/news?id=c579dd52ec1cc635a434524022b69ead7e12f5e5ec49fdfbee011185ed96ae6b",
-        "datetime": 1782358105,
+        "headline": "我正确预测 Alphabet 将在 6 月份加入道琼斯工业平均指数。以下是指数调整对投资者的意义。",
+        "url": "https://finnhub.io/api/news?id=21986ae9af25a11eee7673aec99b583a70f5c5efa78dc819a2cbda193cf33191",
+        "datetime": 1782364800,
         "source": "Yahoo"
       },
       {
-        "headline": "标准普尔 500 指数和纳斯达克指数因科技股疲软而收低，但盘后因美光科技盈利强劲而回升——MU、AVGO、GOOGL 成为焦点",
-        "url": "https://finnhub.io/api/news?id=7fae973942e40553c863d0377f9820d34aa88257f0b102b0fb76172cd9aeb69e",
-        "datetime": 1782341154,
+        "headline": "MercadoLibre (MELI) 股价飙升，您需要知道什么",
+        "url": "https://finnhub.io/api/news?id=bdba91fd9d67457e5dbb8ed7faf30fd455997f84d949596934e0bf28c59ce82c",
+        "datetime": 1782362425,
         "source": "Yahoo"
       },
       {
-        "headline": "伯克希尔 100 亿美元的字母表押注和科技倾斜是否需要伯克希尔哈撒韦 (BRK.A) 投资者采取行动？",
-        "url": "https://finnhub.io/api/news?id=c5de9135c1f6c3a06ffb65fed8e2155a4871017d34d65fb9e0b1e2ea58ebad70",
-        "datetime": 1782339469,
+        "headline": "DoorDash (DASH) 股票交易上涨，原因如下",
+        "url": "https://finnhub.io/api/news?id=f7f57b4b4714726f46ee4f510bc864f69d8ebb4edaa93afe85a0c1376614bb56",
+        "datetime": 1782361945,
         "source": "Yahoo"
       },
       {
-        "headline": "Verizon 刚刚被踢出道琼斯指数，但其 6% 的股息收益率看起来仍然稳健",
-        "url": "https://finnhub.io/api/news?id=7f28640fe41565093e130f47d04c9cdec825d786f09775b03da68a03db03a7ee",
-        "datetime": 1782337200,
+        "headline": "Upwork 和 Yelp 股价飙升，你需要知道什么",
+        "url": "https://finnhub.io/api/news?id=2ae43699536e293bbc7b73a8cd277113cd700d336875f76842a4b818d6ec1ea9",
+        "datetime": 1782361465,
         "source": "Yahoo"
       },
       {
-        "headline": "Bitdeer Technologies (BTDR)：态势感知产品组合中的顶级加密货币和人工智能游戏",
-        "url": "https://finnhub.io/api/news?id=f1a1561d844e73111febcf4b4b6f09e3f659a3ea2aca9b1a9e7e2ef725b9f88f",
-        "datetime": 1782335391,
+        "headline": "Pinterest (PINS) 股票交易上涨，原因如下",
+        "url": "https://finnhub.io/api/news?id=296ebcd208ad70d0e39c1406a4f1508f49c012e7da8d432a9ecaf3b626a22bb2",
+        "datetime": 1782360985,
         "source": "Yahoo"
       }
     ],
@@ -1284,6 +1284,24 @@
     ],
     "BTC": [
       {
+        "headline": "实时市场：人工智能交易持续进行，比特币、以太币导致清算损失 10 亿美元",
+        "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
+        "datetime": 1782367267,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币已经划出了一条新线。周四的核心PCE可能会对其进行压力测试。",
+        "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it",
+        "datetime": 1782363211,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "随着人工智能股票阶段性反弹，比特币重回 60,000 美元上方，ETH、SOL 收复损失",
+        "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
+        "datetime": 1782361743,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "随着 DXY 飙升，比特币几乎损失了 5.9 万美元：交易者是否准备好迎接更多痛苦？",
         "url": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "datetime": 1782334708,
@@ -1294,24 +1312,6 @@
         "url": "https://investinglive.com/Cryptocurrency/bitcoin-breaks-60000-and-falls-to-a-20-month-low-20260624/",
         "datetime": 1782323491,
         "source": "Forexlive"
-      },
-      {
-        "headline": "比特币跌破 6 万美元，但交易员预计反弹 15%",
-        "url": "https://cointelegraph.com/markets/bitcoin-hits-2-week-lows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "datetime": 1782320806,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币暴跌至 6 万美元，开辟了新的 5.3 亿美元需求区：多头会买入吗？",
-        "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-        "datetime": 1782318112,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着人工智能交易继续吸引投资者的兴趣和资本，比特币跌至 60,000 美元",
-        "url": "https://www.coindesk.com/markets/2026/06/24/bitcoin-falls-to-usd60-000-as-ai-trade-continues-to-draw-investor-interest-and-capital",
-        "datetime": 1782316862,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
