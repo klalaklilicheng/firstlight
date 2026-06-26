@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T20:29:28.359Z",
+  "updated_at": "2026-06-26T22:05:38.957Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 59672,
-      "change_pct": 0.19
+      "price": 59765,
+      "change_pct": -0.58
     },
     {
       "symbol": "ETH",
-      "price": 1576.01,
-      "change_pct": 0.63
+      "price": 1570.13,
+      "change_pct": -0.54
     },
     {
       "symbol": "SOL",
-      "price": 72.73,
-      "change_pct": 9.2
+      "price": 71.82,
+      "change_pct": 7.02
     },
     {
       "symbol": "HYPE",
-      "price": 64.43,
-      "change_pct": 0.69
+      "price": 63.8,
+      "change_pct": -0.91
     },
     {
       "symbol": "ZEC",
-      "price": 420.25,
-      "change_pct": 3.99
+      "price": 420.07,
+      "change_pct": 1.4
     },
     {
       "symbol": "TAO",
-      "price": 213.67,
-      "change_pct": 0.91
+      "price": 213.25,
+      "change_pct": 0.3
     },
     {
       "symbol": "SKY",
-      "price": 1162.29,
-      "change_pct": -3.61
+      "price": 1162.39,
+      "change_pct": -3.38
     },
     {
       "symbol": "AAVE",
-      "price": 94.41,
-      "change_pct": 15.07
+      "price": 92.92,
+      "change_pct": 13.31
     },
     {
       "symbol": "BNB",
-      "price": 565.91,
-      "change_pct": 1.81
+      "price": 565.96,
+      "change_pct": 1.05
     },
     {
       "symbol": "NEAR",
-      "price": 1.82,
-      "change_pct": -0.02
+      "price": 1.79,
+      "change_pct": -2.12
     },
     {
       "symbol": "DOGE",
-      "price": 0.075672,
-      "change_pct": 2.44
+      "price": 0.075322,
+      "change_pct": 0.84
     },
     {
       "symbol": "SPACEX",
-      "price": 526.32,
-      "change_pct": 1.82
+      "price": 534.77,
+      "change_pct": 2.37
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "随着人工智能融资担忧升级，甲骨文股价遭遇 2001 年互联网泡沫破灭以来最糟糕的一周",
+      "summary": "甲骨文激增的支出、负自由现金流和 1,300 亿美元的债务正在给该股带来压力。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+      "datetime": 1782505269,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "随着比特币稳定在 60,000 美元附近，Aave、Solana 生态系统代币引领加密货币反弹",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+      "datetime": 1782504903,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "可能很快将担任关键委员会主席的美国众议院民主党人在 401(k)s 中谴责加密货币",
       "summary": "",
       "source": "CoinDesk",
@@ -608,7 +626,7 @@
       "related": ""
     },
     {
-      "headline": "随着代币化公司即将上市，Securitize 预计筹集 4 亿美元资金",
+      "headline": "随着代币化公司即将上市，Securitize 预计将筹集 4 亿美元资金",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
@@ -723,24 +741,6 @@
       "datetime": 1782473761,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币从 58,000 美元反弹，衍生品预示着更多痛苦",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/26/bitcoin-bounces-from-usd58-000-as-derivatives-signal-more-pain-in-the-pipeline",
-      "datetime": 1782471800,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "所有人都关注 Strategy 6 月 30 日的除息日和每月 STRC 股息率重置",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
-      "datetime": 1782469704,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -811,7 +811,7 @@
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 10.6,
     "weekly_score": 11.6,
-    "btc_price": 59770.9,
+    "btc_price": 59910.1,
     "fear_greed": 16,
     "indicators": [
       {
@@ -823,14 +823,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009841,
+        "value": 0.01,
         "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.08,
+        "value": 2.11,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -893,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 30.1,
+        "value": 30.2,
         "score": 17,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -86.1,
-        "score": 21,
+        "value": -83.5,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1047,7 +1047,7 @@
         "text": "Bitcoin is the most honest macro asset -- in its design, it serves as a forward looking mirror -- I wonder all the time about what it's trying to tell us lays ahead.",
         "url": "https://x.com/cburniske/status/2054753557484908758",
         "time": "Thu May 14 02:39:58 +0000 2026",
-        "likes": 806,
+        "likes": 804,
         "retweets": 48
       }
     ],
@@ -1070,7 +1070,7 @@
         "text": "zcash is starting to feel exactly like the early days of bitcoin. some of the smartest ppl contributing to the project. some of the biggest midwits on the other side. bugs and existential threats. vomit-inducing price volatility. but also insanely asymmetric upside if it catches",
         "url": "https://x.com/QwQiao/status/2062858719826686295",
         "time": "Fri Jun 05 11:26:59 +0000 2026",
-        "likes": 1002,
+        "likes": 1001,
         "retweets": 109
       },
       {
@@ -1093,35 +1093,35 @@
         "text": "Volatility tests every capital structure. Strategy remains focused on Bitcoin, disciplined capital allocation, credit quality, and long-term value creation. We appreciate our investors and will continue to execute with transparency and resolve. $MSTR",
         "url": "https://x.com/saylor/status/2070420835358183827",
         "time": "Fri Jun 26 08:16:08 +0000 2026",
-        "likes": 16995,
-        "retweets": 1413
+        "likes": 17515,
+        "retweets": 1452
       },
       {
         "text": "Digital Credit is income for investors who believe in Bitcoin. $STRC https://t.co/FbHgQJLfSY",
         "url": "https://x.com/saylor/status/2069682624956612731",
         "time": "Wed Jun 24 07:22:45 +0000 2026",
-        "likes": 8164,
+        "likes": 8173,
         "retweets": 737
       },
       {
         "text": "Strategy has increased its USD Reserve by $300 million to $1.4 billion and plans to continue replenishing it to support the credit quality of its Digital Credit securities. We also acquired 520 BTC for $35 million, increasing our $BTC Reserve to ₿847,363. $MSTR $STRC",
         "url": "https://x.com/saylor/status/2069028571880845340",
         "time": "Mon Jun 22 12:03:46 +0000 2026",
-        "likes": 16878,
+        "likes": 16877,
         "retweets": 2043
       },
       {
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 18341,
-        "retweets": 1866
+        "likes": 18334,
+        "retweets": 1867
       },
       {
         "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
         "url": "https://x.com/saylor/status/2068585855136997745",
         "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 14510,
+        "likes": 14505,
         "retweets": 1443
       }
     ],
@@ -1236,7 +1236,7 @@
         "source": "ChartMill"
       },
       {
-        "headline": "价值 24,955 美元的电动皮卡？贝佐斯支持的公司准备好挑战特斯拉",
+        "headline": "价值 24,955 美元的电动皮卡？贝索斯支持的公司准备好挑战特斯拉",
         "url": "https://finnhub.io/api/news?id=f7c16cd62c90836abd2b7aa19b3cafc9b01258530532ec316dee26e1d279a723",
         "datetime": 1782496872,
         "source": "Yahoo"
@@ -1302,6 +1302,12 @@
     ],
     "BTC": [
       {
+        "headline": "随着比特币稳定在 60,000 美元附近，Aave、Solana 生态系统代币引领加密货币反弹",
+        "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+        "datetime": 1782504903,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "随着科技股进入“深度熊市”，比特币自 2024 年第三季度以来首次收于 6 万美元以下",
         "url": "https://cointelegraph.com/markets/bitcoin-sees-first-close-below-60k-since-q3-2024-with-tech-stocks-in-deep-bear-market-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1782489356,
@@ -1322,12 +1328,6 @@
       {
         "headline": "随着 BTC 跌破 6 万美元，比特币 ETF 创下 6 月份最大单日流出量",
         "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1782466594,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着 BTC 跌破 6 万美元，比特币 ETF 创下 6 月份最大单日流出量",
-        "url": "https://cointelegraph.com/news/bitcoin-etfs-biggest-outflows-june-btc-below-60k?utm_source=rss&utm_medium=rss&utm_campaign=rss",
         "datetime": 1782466594,
         "source": "Cointelegraph"
       }
@@ -1354,6 +1354,18 @@
     ],
     "SOL": [
       {
+        "headline": "随着比特币稳定在 60,000 美元附近，Aave、Solana 生态系统代币引领加密货币反弹",
+        "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+        "datetime": 1782504903,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "“如果您对这些产品的实际使用和实际应用感兴趣，我认为 Solana 绝对处于领先地位”\n\n– @hadisworld，@gachasports 联合创始人",
+        "url": "https://x.com/solana/status/2070619939350741005",
+        "datetime": 1782509238,
+        "source": "@solana"
+      },
+      {
         "headline": ".@useKled 是最大的人力数据收集工作之一，在 Solana 上分配奖励",
         "url": "https://x.com/solana/status/2070572255713579341",
         "datetime": 1782497869,
@@ -1364,15 +1376,15 @@
         "url": "https://x.com/solana/status/2070561407892967747",
         "datetime": 1782495283,
         "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2070548708890960135",
-        "datetime": 1782492255,
-        "source": "@solana"
       }
     ],
     "AAVE": [
+      {
+        "headline": "随着比特币稳定在 60,000 美元附近，Aave、Solana 生态系统代币引领加密货币反弹",
+        "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+        "datetime": 1782504903,
+        "source": "CoinDesk"
+      },
       {
         "headline": "CoinDesk 20 业绩更新：AAVE 上涨 8.9%，领先指数走高",
         "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
