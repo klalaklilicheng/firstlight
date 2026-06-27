@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T06:24:54.089Z",
+  "updated_at": "2026-06-27T09:25:09.358Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 60111,
-      "change_pct": 0.26
+      "price": 60240,
+      "change_pct": 0.36
     },
     {
       "symbol": "ETH",
-      "price": 1576.03,
-      "change_pct": 1.21
+      "price": 1577.84,
+      "change_pct": 1.23
     },
     {
       "symbol": "SOL",
-      "price": 71.69,
-      "change_pct": 4.04
+      "price": 71.66,
+      "change_pct": 2.83
     },
     {
       "symbol": "HYPE",
-      "price": 63.35,
-      "change_pct": 1.1
+      "price": 62.85,
+      "change_pct": -0.84
     },
     {
       "symbol": "ZEC",
-      "price": 408.37,
-      "change_pct": -0.59
+      "price": 405.57,
+      "change_pct": 0.35
     },
     {
       "symbol": "TAO",
-      "price": 212.77,
-      "change_pct": 1.19
+      "price": 212.56,
+      "change_pct": 0.13
     },
     {
       "symbol": "SKY",
-      "price": 1134.25,
-      "change_pct": -4.65
+      "price": 1137.25,
+      "change_pct": -4.78
     },
     {
       "symbol": "AAVE",
-      "price": 93.38,
-      "change_pct": 11.35
+      "price": 95.42,
+      "change_pct": 12.05
     },
     {
       "symbol": "BNB",
-      "price": 564.21,
-      "change_pct": 0.51
+      "price": 563.52,
+      "change_pct": -0.57
     },
     {
       "symbol": "NEAR",
-      "price": 1.8,
-      "change_pct": -0.42
+      "price": 1.79,
+      "change_pct": -1.13
     },
     {
       "symbol": "DOGE",
-      "price": 0.075468,
-      "change_pct": 2.02
+      "price": 0.07523,
+      "change_pct": 1.26
     },
     {
       "symbol": "SPACEX",
-      "price": 523.91,
-      "change_pct": 1.96
+      "price": 524.02,
+      "change_pct": 2.78
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "欧盟立法者敦促评估 DeFi、质押、NFT 监管",
+      "summary": "这份不具约束力的报告概述了议会对未来欧盟加密货币监管的愿景，并对国家 MiCA 规则提出警告。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1782548464,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于人工智能股票吸引买家，狗狗币和 Hyperliquid 的炒作导致每周加密货币损失",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+      "datetime": 1782546238,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Securitize 预计在首次公开募股前筹集 4 亿美元资金",
       "summary": "Securitize 表示，在公开收购的收购公司中，只有不到 30% 的股东选择赎回，这使得该公司在即将上市时预计将获得 4 亿美元的收益。",
       "source": "Cointelegraph",
@@ -723,24 +741,6 @@
       "datetime": 1782479421,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "高盛表示，华尔街的首次公开募股复苏尚未达到互联网泡沫般的兴奋水平",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
-      "datetime": 1782476736,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "澳大利亚监管机构延长加密货币许可的不采取行动期限",
-      "summary": "随着企业过渡到该国的许可制度，澳大利亚金融监管机构将数字资产企业的临时执法救济期限延长至 9 月 30 日。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/australia-asic-extends-crypto-licensing-relief-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1782476071,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 24.3,
+    "score": 24.5,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 12.4,
-    "weekly_score": 11.9,
-    "btc_price": 60222.3,
+    "daily_score": 12.5,
+    "weekly_score": 12,
+    "btc_price": 60351.5,
     "fear_greed": 16,
     "indicators": [
       {
@@ -823,14 +823,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003875,
-        "score": 47,
+        "value": 0.005419,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.06,
+        "value": 2,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -893,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 30.4,
-        "score": 17,
+        "value": 30.5,
+        "score": 18,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -73.9,
-        "score": 25,
+        "value": -70.4,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -1090,39 +1090,39 @@
     ],
     "saylor": [
       {
+        "text": "Bitcoin is working today. So are we.",
+        "url": "https://x.com/saylor/status/2070778349622808768",
+        "time": "Sat Jun 27 07:56:46 +0000 2026",
+        "likes": 4805,
+        "retweets": 419
+      },
+      {
         "text": "Volatility tests every capital structure. Strategy remains focused on Bitcoin, disciplined capital allocation, credit quality, and long-term value creation. We appreciate our investors and will continue to execute with transparency and resolve. $MSTR",
         "url": "https://x.com/saylor/status/2070420835358183827",
         "time": "Fri Jun 26 08:16:08 +0000 2026",
-        "likes": 18980,
-        "retweets": 1578
+        "likes": 19224,
+        "retweets": 1599
       },
       {
         "text": "Digital Credit is income for investors who believe in Bitcoin. $STRC https://t.co/FbHgQJLfSY",
         "url": "https://x.com/saylor/status/2069682624956612731",
         "time": "Wed Jun 24 07:22:45 +0000 2026",
-        "likes": 8200,
-        "retweets": 737
+        "likes": 8212,
+        "retweets": 738
       },
       {
         "text": "Strategy has increased its USD Reserve by $300 million to $1.4 billion and plans to continue replenishing it to support the credit quality of its Digital Credit securities. We also acquired 520 BTC for $35 million, increasing our $BTC Reserve to ₿847,363. $MSTR $STRC",
         "url": "https://x.com/saylor/status/2069028571880845340",
         "time": "Mon Jun 22 12:03:46 +0000 2026",
-        "likes": 16886,
-        "retweets": 2044
+        "likes": 16892,
+        "retweets": 2045
       },
       {
         "text": "Looks better with more dots. https://t.co/saEtZTgFGH",
         "url": "https://x.com/saylor/status/2068667168930074957",
         "time": "Sun Jun 21 12:07:41 +0000 2026",
-        "likes": 18338,
+        "likes": 18342,
         "retweets": 1867
-      },
-      {
-        "text": "Bitcoiners agree on the 99% that matters. We shouldn’t let the 1% divide us while nearly all global capital has yet to enter Bitcoin’s monetary network. The opportunity is bigger than the argument.",
-        "url": "https://x.com/saylor/status/2068585855136997745",
-        "time": "Sun Jun 21 06:44:34 +0000 2026",
-        "likes": 14510,
-        "retweets": 1443
       }
     ],
     "viktorfischer": [
@@ -1166,33 +1166,33 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "几乎没有人谈论英伟达股价面临的最大风险",
+        "url": "https://finnhub.io/api/news?id=6dd6b94e5d6a4f93f04196bc71b4f4345d5be64dc68fb336e31e5fec616a4b3f",
+        "datetime": 1782544800,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "3只Surefire股票逢低买入并持有十年",
+        "url": "https://finnhub.io/api/news?id=3fe09eabbf8ee7b17146d0a1693086797c612bb6ea9f8b1bf1d953d32fe095d8",
+        "datetime": 1782543000,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "这1个投资错误正在悄然毁掉你的长期回报。以下是该怎么做。",
+        "url": "https://finnhub.io/api/news?id=0b4e3ed06c124b9e8b44c87382e2a04bc5a0e40fdb4b0f3e6d68bed66ae2a87d",
+        "datetime": 1782541200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "2026 年及以后 XRP（瑞波币）的 1 个全新大绿旗",
+        "url": "https://finnhub.io/api/news?id=2bfdcd10d7d3a9e2bc6a4e5370cd4975190b132e95d9b393c9fd7500e157b392",
+        "datetime": 1782539400,
+        "source": "Yahoo"
+      },
+      {
         "headline": "不投资 SpaceX 的 2 个原因以及该买什么",
         "url": "https://finnhub.io/api/news?id=758fc3bf72a39807acbd3895341b64da4d54ae17e069c32e8fbeeaa9bd6ad793",
         "datetime": 1782537600,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Nvidia 的市值刚刚跌破 5 万亿美元。这就是为什么这是一个购买机会",
-        "url": "https://finnhub.io/api/news?id=bea7fb78d91dda0c6f48ae02ad85e62cea3adad3c5d299ec86cc77b6e33393b1",
-        "datetime": 1782534300,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "3只值得考虑在抛售中买入的遭受重创的人工智能芯片股",
-        "url": "https://finnhub.io/api/news?id=143333aad286e0a0b1214a155e21ad546324094cce48b15184b571e6606de704",
-        "datetime": 1782532200,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "从 135 美元到 154 美元：追踪 SpaceX 上市后第一周的股票波动情况",
-        "url": "https://finnhub.io/api/news?id=2912925c6b1634398b0d2b65cb19201863f43b54132011ccae71ed5168b35f43",
-        "datetime": 1782531180,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "韦德布什在科技股中发现了明显的投资者机会",
-        "url": "https://finnhub.io/api/news?id=a49dbd303a019635168b2a7f8e786fa1e9430a60880e75e5ae2c76e3cac61634",
-        "datetime": 1782529620,
         "source": "Yahoo"
       }
     ],
@@ -1202,6 +1202,12 @@
         "url": "https://finnhub.io/api/news?id=448ddfff4ebb455651a189fb3c1d3dfc42359e90f38deee89b8183b5f0225cfa",
         "datetime": 1782534490,
         "source": "Yahoo"
+      },
+      {
+        "headline": "人工智能的故事发生了变异和分裂",
+        "url": "https://finnhub.io/api/news?id=e60c0840a20c103651aebd4d1389620e0060b3ddf9c91c8ee7fb76b912145919",
+        "datetime": 1782531900,
+        "source": "SeekingAlpha"
       },
       {
         "headline": "ASIC 与 GPU 的对峙",
@@ -1219,12 +1225,6 @@
         "headline": "Alphabet (GOOGL) 失去了更多 Gemini 人才，让给 Anthropic 和 OpenAI",
         "url": "https://finnhub.io/api/news?id=fee96d0ccc7005a6cd8455019b41a724e52575668855f672d814fe998363a9b9",
         "datetime": 1782519333,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "美国航空 (AAL) 为 500 架飞机配备 Starlink 并签署 Google 燃油协议",
-        "url": "https://finnhub.io/api/news?id=427656317649a9aab82e8947aff2608b5aea782750ad13cd131834dbb75906ab",
-        "datetime": 1782515247,
         "source": "Yahoo"
       }
     ],
@@ -1361,6 +1361,12 @@
       },
       {
         "headline": "",
+        "url": "https://x.com/solana/status/2070780301123649762",
+        "datetime": 1782547471,
+        "source": "@solana"
+      },
+      {
+        "headline": "",
         "url": "https://x.com/solana/status/2070681850654150697",
         "datetime": 1782523999,
         "source": "@solana"
@@ -1369,12 +1375,6 @@
         "headline": "“如果您对这些产品的实际使用和实际应用感兴趣，我认为 Solana 绝对处于领先地位”\n\n– @hadisworld，@gachasports 联合创始人",
         "url": "https://x.com/solana/status/2070619939350741005",
         "datetime": 1782509238,
-        "source": "@solana"
-      },
-      {
-        "headline": ".@useKled 是最大的人力数据收集工作之一，在 Solana 上分配奖励",
-        "url": "https://x.com/solana/status/2070572255713579341",
-        "datetime": 1782497869,
         "source": "@solana"
       }
     ],
@@ -1406,31 +1406,25 @@
     ],
     "DOGE": [
       {
+        "headline": "由于人工智能股票吸引买家，狗狗币和 Hyperliquid 的炒作导致每周加密货币损失",
+        "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+        "datetime": 1782546238,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "随着科技股暴跌，以太坊、瑞波币和狗狗币引领加密货币大范围抛售",
         "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
         "datetime": 1782452511,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "PSST，企业：代码 MuchDoge 让您今天接受 doge 👀",
-        "url": "https://x.com/dogecoin/status/2070602638073237852",
-        "datetime": 1782505113,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "为 shibes 解决这个问题：你还能扔得更远吗？",
-        "url": "https://x.com/dogecoin/status/2070244539688730742",
-        "datetime": 1782419736,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "有人需要告诉图表停止做下犬式",
-        "url": "https://x.com/dogecoin/status/2069878225925218684",
-        "datetime": 1782332400,
-        "source": "@dogecoin"
       }
     ],
     "HYPE": [
+      {
+        "headline": "由于人工智能股票吸引买家，狗狗币和 Hyperliquid 的炒作导致每周加密货币损失",
+        "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+        "datetime": 1782546238,
+        "source": "CoinDesk"
+      },
       {
         "headline": "Hyperliquid 被列入新加坡投资者警报名单",
         "url": "https://cointelegraph.com/news/hyperliquid-singapore-mas-investor-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
