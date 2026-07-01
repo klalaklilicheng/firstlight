@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T04:20:42.222Z",
+  "updated_at": "2026-07-01T08:46:08.683Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 59058,
-      "change_pct": -0.56
+      "price": 58645,
+      "change_pct": -0.87
     },
     {
       "symbol": "ETH",
-      "price": 1590.13,
-      "change_pct": 0.47
+      "price": 1572.88,
+      "change_pct": -0.34
     },
     {
       "symbol": "SOL",
-      "price": 75.3,
-      "change_pct": 1.87
+      "price": 74.64,
+      "change_pct": 1.56
     },
     {
       "symbol": "HYPE",
-      "price": 65.41,
-      "change_pct": -0.74
+      "price": 63.55,
+      "change_pct": -2.76
     },
     {
       "symbol": "ZEC",
-      "price": 399.94,
-      "change_pct": 0.34
+      "price": 399.17,
+      "change_pct": 0.52
     },
     {
       "symbol": "TAO",
-      "price": 202.63,
-      "change_pct": -1.38
+      "price": 197.43,
+      "change_pct": -3.14
     },
     {
       "symbol": "SKY",
-      "price": 1220.23,
-      "change_pct": -0.28
+      "price": 1214.34,
+      "change_pct": -1.55
     },
     {
       "symbol": "AAVE",
-      "price": 87.19,
-      "change_pct": -3.06
+      "price": 85.75,
+      "change_pct": -4.04
     },
     {
       "symbol": "BNB",
-      "price": 550.1,
-      "change_pct": -0.38
+      "price": 544.95,
+      "change_pct": -0.76
     },
     {
       "symbol": "NEAR",
-      "price": 1.84,
-      "change_pct": -0.56
+      "price": 1.78,
+      "change_pct": -3.29
     },
     {
       "symbol": "DOGE",
-      "price": 0.072309,
-      "change_pct": 0.1
+      "price": 0.07102,
+      "change_pct": -1.44
     },
     {
       "symbol": "SPACEX",
-      "price": 547.5,
-      "change_pct": 0.49
+      "price": 620.78,
+      "change_pct": 14.68
     }
   ],
   "earnings": {
@@ -473,6 +473,51 @@
   },
   "news": [
     {
+      "headline": "台湾立法机关通过加密货币、稳定币法规",
+      "summary": "台湾立法部门通过了该国首个加密货币和稳定币规则，旨在将台湾与全球加密货币市场融为一体。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1782886548,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国解除出口管制后，Anthropic 将回归《神鬼寓言 5》",
+      "summary": "Claude Fable 5 将重新部署一组新的分类器，旨在识别和阻止更广泛的网络安全相关任务。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1782886472,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着网络活动改善，杠杆冲刷后 XRP 保持在 1 美元以上",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves",
+      "datetime": 1782883816,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "台湾全面的加密法提高了许可、储备授权和严厉处罚的门槛",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties",
+      "datetime": 1782882254,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "文件显示，到 2025 年，特朗普从加密货币中获得的收入将超过房地产",
+      "summary": "去年，Memecoin 的销售和特许权使用费为特朗普带来了最多的收入，超过了他所有高尔夫球杆的总和。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-earned-more-from-crypto-than-real-estate-in-2025-filings-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1782878469,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "《47 Ronin》导演将 Netflix 资金押注于加密货币，被判 30 个月监禁",
       "summary": "卡尔·林什 (Carl Rinsch) 因收受 Netflix 节目的资金用于购买狗狗币、股票和奢侈品而将入狱两年半。",
       "source": "Cointelegraph",
@@ -528,7 +573,7 @@
     },
     {
       "headline": "法院裁决后，马萨诸塞州股份公司就体育博彩对卡尔希提起修改后的诉讼",
-      "summary": "周二，一名法官批准了修改后的申诉，其中包括指控 Kalshi 通过社交媒体和大学校园营销针对 21 岁以下的用户。",
+      "summary": "周二，一名法官批准了修改后的申诉，其中包括指控 Kalshi 通过社交媒体和大学校园营销来针对 21 岁以下的用户。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1782855888,
@@ -696,51 +741,6 @@
       "datetime": 1782837271,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "曾与特朗普战略家有联系的中国流亡者因诈骗10亿美元被判30年徒刑",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
-      "datetime": 1782837106,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "特朗普政府扩大了受更高借款限额限制的研究生学位名单",
-      "summary": "法院上周做出裁决后，许多研究生将面临比之前预期更高的联邦学生贷款上限。以下是需要了解的内容。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/student-loan-borrowers-subject-to-higher-borrowing-caps-than-expected.html",
-      "datetime": 1782832664,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "杰富瑞警告加密货币市场波动，澄清法案面临参议院考验",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-      "datetime": 1782830519,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "我们正在出售抛物线移动者的一些股票，这使我们的资金增加了三倍多",
-      "summary": "这是今年迄今为止标准普尔 500 指数中排名第八的最佳股票。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/30/were-selling-some-shares-of-a-parabolic-mover-more-than-tripling-our-money.html",
-      "datetime": 1782830459,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "随着 Stripe、Coinbase 和 BlackRock 支持竞争对手稳定币网络，Circle 下跌 13%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
-      "datetime": 1782829953,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -750,7 +750,13 @@
     },
     {
       "company": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "headline": "美国解除出口管制后，Anthropic 将回归《神鬼寓言 5》",
+          "url": "https://cointelegraph.com/news/anthropic-reactivates-newest-ai-models-after-us-govt-lifts-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1782886472
+        }
+      ]
     },
     {
       "company": "OpenAI",
@@ -781,9 +787,9 @@
     "score": 27.4,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 14.1,
-    "weekly_score": 13.3,
-    "btc_price": 59167.2,
+    "daily_score": 14,
+    "weekly_score": 13.4,
+    "btc_price": 58660.3,
     "fear_greed": 16,
     "indicators": [
       {
@@ -795,14 +801,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003957,
-        "score": 47,
+        "value": 0.001917,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.42,
+        "value": 2.41,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -816,8 +822,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.21,
-        "score": 24,
+        "value": 1.18,
+        "score": 23,
         "weight": 12,
         "group": "weekly"
       },
@@ -830,15 +836,15 @@
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.642,
+        "value": 0.614,
         "score": 3,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.983,
-        "score": 33,
+        "value": 0.984,
+        "score": 34,
         "weight": 8,
         "group": "weekly"
       },
@@ -865,15 +871,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 29.8,
+        "value": 29.4,
         "score": 16,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -63.4,
-        "score": 28,
+        "value": -51.1,
+        "score": 31,
         "weight": 4,
         "group": "weekly"
       }
@@ -1005,7 +1011,7 @@
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 910,
+        "likes": 909,
         "retweets": 45
       },
       {
@@ -1065,36 +1071,36 @@
         "text": "Income. Twice a month. $STRC https://t.co/PdpvwdQ0Vr",
         "url": "https://x.com/saylor/status/2071950453160431891",
         "time": "Tue Jun 30 13:34:17 +0000 2026",
-        "likes": 9257,
-        "retweets": 814
+        "likes": 9667,
+        "retweets": 860
       },
       {
         "text": "Stronger credit. Stronger equity. More Bitcoin.",
         "url": "https://x.com/saylor/status/2071891299926511778",
         "time": "Tue Jun 30 09:39:14 +0000 2026",
-        "likes": 14693,
-        "retweets": 1144
+        "likes": 15085,
+        "retweets": 1182
       },
       {
         "text": "Strategy expects to remain disciplined in its use of $MSTR issuance, particularly when the stock trades at or near 1x mNAV.",
         "url": "https://x.com/saylor/status/2071565174360756349",
         "time": "Mon Jun 29 12:03:20 +0000 2026",
-        "likes": 2720,
-        "retweets": 165
+        "likes": 2724,
+        "retweets": 166
       },
       {
         "text": "With $2.55B of USD Reserve and $1.25B of BTC monetization capacity for reserve-building, Strategy has $3.80B of dividend coverage, representing 25.9 months.",
         "url": "https://x.com/saylor/status/2071565171718230383",
         "time": "Mon Jun 29 12:03:19 +0000 2026",
-        "likes": 2783,
-        "retweets": 225
+        "likes": 2790,
+        "retweets": 227
       },
       {
         "text": "Strategy announces a Digital Credit Capital Framework designed to strengthen Digital Credit, enhance liquidity, preserve long-term Bitcoin exposure, and support long-term value creation. $MSTR $STRC https://t.co/AUoUCtem53",
         "url": "https://x.com/saylor/status/2071565162377568377",
         "time": "Mon Jun 29 12:03:17 +0000 2026",
-        "likes": 11574,
-        "retweets": 1518
+        "likes": 11609,
+        "retweets": 1531
       }
     ],
     "viktorfischer": [
@@ -1102,7 +1108,7 @@
         "text": "15% APY",
         "url": "https://x.com/viktorfischer/status/2072045039455215936",
         "time": "Tue Jun 30 19:50:08 +0000 2026",
-        "likes": 3,
+        "likes": 4,
         "retweets": 0
       },
       {
@@ -1138,37 +1144,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "SpaceX 于 7 月 7 日加入纳斯达克 100 指数。这对指数基金投资者意味着什么",
-        "url": "https://finnhub.io/api/news?id=7d4a12cc207c8043b4441f2d8cb29aa0990136b5c3a1717d1f3b009c123a2dba",
-        "datetime": 1782876300,
+        "headline": "这是 Oklo 5 年后的发展方向（以及为什么您应该立即购买）",
+        "url": "https://finnhub.io/api/news?id=a8cb846d7050f3a06973252e41196151ddd53c8b18615eaf85e5839302a06314",
+        "datetime": 1782892140,
         "source": "Yahoo"
       },
       {
-        "headline": "交易员关注重要的美国就业数据，亚洲股市波动",
-        "url": "https://finnhub.io/api/news?id=74432e06f32c60a6011b47fff858dd19f3796daf37d88d39060d49ebaa7c75dd",
-        "datetime": 1782872844,
+        "headline": "D-Wave 的下跌是机遇还是危险信号？",
+        "url": "https://finnhub.io/api/news?id=75ace6e717f29b3f6cb495488f25a7cb832d9418458d534bfd5a5a0ed106dcde",
+        "datetime": 1782891540,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 Unusual Machines 股票今天上涨",
-        "url": "https://finnhub.io/api/news?id=b7ca835d925633038742d72543fa0518a0a83e19b95436ee26845780533ba52a",
-        "datetime": 1782872719,
+        "headline": "该能源股名列我七月买入名单之首",
+        "url": "https://finnhub.io/api/news?id=9ddd7a28e6064af6d0c196ceaa916055d9fbdf1b56b94539e025aaa67c38a81e",
+        "datetime": 1782890700,
         "source": "Yahoo"
       },
       {
-        "headline": "今天购买荷兰兄弟股票能让你的生活受益吗？",
-        "url": "https://finnhub.io/api/news?id=27e0bf4eb004ba22a868eaf437a98fa52696d11aa92680c1eff9e37c2a0ecd45",
-        "datetime": 1782871860,
+        "headline": "Lam Research 能否成为下一个价值 1 万亿美元的公司？",
+        "url": "https://finnhub.io/api/news?id=e7d9938c8e94d742e36ab53e58903b82bdc2d54099077f8ad5d42d19023635ea",
+        "datetime": 1782889020,
         "source": "Yahoo"
       },
       {
-        "headline": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
-        "url": "https://finnhub.io/api/news?id=97f6bf71aa11ef6319e8aa63758e33db0564c61dcad25966367738a673716254",
-        "datetime": 1782871480,
+        "headline": "Sezzle 目前的水平看起来仍然有吸引力",
+        "url": "https://finnhub.io/api/news?id=9ee262708b3c2eaaa0970edbf8461f3dcad65c1826acc01357207d6f0659d954",
+        "datetime": 1782887100,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "SpaceX (SPCX) 斥资 600 亿美元打造人工智能基础设施业务",
+        "url": "https://finnhub.io/api/news?id=b59295aeabe8f7f1071cb7de19757691004f39f65d3257420733fbb4ad906ac0",
+        "datetime": 1782882453,
+        "source": "Yahoo"
+      },
       {
         "headline": "韩国贸易监管机构指控谷歌滥用其在 Android 应用商店中的地位",
         "url": "https://finnhub.io/api/news?id=b24e2add5b4878f69bcdae76a3283aa079a9df8947061993cf1463692a08438d",
@@ -1176,7 +1188,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "随着云容量紧张，Alphabet (GOOGL) 限制 Gemini 人工智能访问",
+        "headline": "随着云容量紧张，Alphabet (GOOGL) 正在限制 Gemini AI 访问",
         "url": "https://finnhub.io/api/news?id=4114a0172c018d5df8405c4b168a22dddea4d0d1fa1969ed5aea6252baa31aaa",
         "datetime": 1782871691,
         "source": "Yahoo"
@@ -1192,15 +1204,15 @@
         "url": "https://finnhub.io/api/news?id=18ec5e7aa553c65291b40a0f96c96690976bc0d59a76822cc67266edbf07996d",
         "datetime": 1782859463,
         "source": "Yahoo"
-      },
-      {
-        "headline": "“七雄”对决：长期投资者是亚马逊还是Alphabet？",
-        "url": "https://finnhub.io/api/news?id=c6c25e6c6229b87304245c741f88989ec2ec0129a6903405cbb26d5faa723fac",
-        "datetime": 1782858000,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "福特和法拉利在 H1 中将特斯拉、Rivian 和其他所有汽车竞争对手远远甩在身后——他们是如何做到的",
+        "url": "https://finnhub.io/api/news?id=37d6b408325ffd969a965fc9ef93e445383c744ffa25355ed7b23685b8a98536",
+        "datetime": 1782879382,
+        "source": "Yahoo"
+      },
       {
         "headline": "Lemonade (LMND) 扩大承保范围并改善再保险条款后上涨 12.4% - 有何变化",
         "url": "https://finnhub.io/api/news?id=6615b38e85ffbbe6655015ecbc9b404ac46cda4f4cacf965cbe7a91b376a4d4b",
@@ -1223,12 +1235,6 @@
         "headline": "特斯拉聘请英特尔资深人士领导埃隆·马斯克雄心勃勃的 Terafab 项目",
         "url": "https://finnhub.io/api/news?id=946ba2195c40a4904a0cdd73e572584d32cc6df49b2111353fa4a93f3983e332",
         "datetime": 1782865411,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Rivian Automotive 与 Tesla：2026 年哪只汽车股更值得买入？",
-        "url": "https://finnhub.io/api/news?id=bcc23b7e4f6748014a1abba0857ebf5386119c0e47275b0c7c1523a3e990af02",
-        "datetime": 1782861061,
         "source": "Yahoo"
       }
     ],
@@ -1291,7 +1297,7 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "比特币平静的 59,000 美元至 60,000 美元区间开始显得危险",
+        "headline": "比特币安静的 59,000 美元至 60,000 美元区间开始看起来很危险",
         "url": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-quiet-usd59-000-usd60-000-range-is-starting-to-look-dangerous",
         "datetime": 1782820534,
         "source": "CoinDesk"
