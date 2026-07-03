@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T17:16:13.250Z",
+  "updated_at": "2026-07-03T19:05:51.831Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62177,
-      "change_pct": 0.68
+      "price": 62176,
+      "change_pct": 0.94
     },
     {
       "symbol": "ETH",
-      "price": 1734.53,
-      "change_pct": 2.09
+      "price": 1738.34,
+      "change_pct": 2.3
     },
     {
       "symbol": "SOL",
-      "price": 81.6,
-      "change_pct": 1.01
+      "price": 82.1,
+      "change_pct": 1.42
     },
     {
       "symbol": "HYPE",
-      "price": 70.19,
-      "change_pct": 6.96
+      "price": 70.4,
+      "change_pct": 5.51
     },
     {
       "symbol": "ZEC",
-      "price": 457.85,
-      "change_pct": 4.72
+      "price": 461.29,
+      "change_pct": 4.8
     },
     {
       "symbol": "TAO",
-      "price": 215.3,
-      "change_pct": 1.61
+      "price": 214.7,
+      "change_pct": 2.05
     },
     {
       "symbol": "SKY",
-      "price": 1353.28,
-      "change_pct": 3.03
+      "price": 1356.82,
+      "change_pct": 1.78
     },
     {
       "symbol": "AAVE",
-      "price": 88.77,
-      "change_pct": 1.44
+      "price": 87.48,
+      "change_pct": 0.3
     },
     {
       "symbol": "BNB",
-      "price": 567.28,
-      "change_pct": 0.95
+      "price": 567.95,
+      "change_pct": 1.53
     },
     {
       "symbol": "NEAR",
-      "price": 2.02,
-      "change_pct": 5.26
+      "price": 2.01,
+      "change_pct": 3.37
     },
     {
       "symbol": "DOGE",
-      "price": 0.076551,
-      "change_pct": 3.2
+      "price": 0.076847,
+      "change_pct": 3.52
     },
     {
       "symbol": "SPACEX",
-      "price": 555.12,
-      "change_pct": -1.45
+      "price": 554.39,
+      "change_pct": -2.67
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "唐纳德·特朗普 (Donald Trump) 表示，在任期间获得 1.4B 美元的加密货币意外之财“没有错”",
+      "summary": "美国总统透露，在国会讨论数字资产市场结构法案以及等待他办公桌的禁止 CBDC 的立法期间，他从加密货币企业中获得了超过 10 亿美元的收入。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783097846,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "ESMA警告许多预测市场事件合约已面临欧盟零售禁令",
       "summary": "欧洲监管机构表示，公司不能通过将二元式产品作为事件合约而非衍生品进行营销来规避欧盟金融规则。",
       "source": "Cointelegraph",
@@ -681,7 +690,7 @@
     },
     {
       "headline": "青少年“分散蜘蛛”嫌疑人因 800 万美元加密赎金被引渡到美国",
-      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国因涉​​嫌参与黑客组织未成功的 800 万美元加密货币赎金计划而受到指控。",
+      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国被指控涉嫌参与黑客组织 800 万美元的加密货币赎金计划，但未成功。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1783059500,
@@ -732,15 +741,6 @@
       "datetime": 1783049917,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "STRC事件后，比特币策略将变得“不那么重要”：Bitwise",
-      "summary": "Bitwise 的 Matt Hougan 表示，Strategy 的 STRC 提供的高收益和低波动性始终不适合购买比特币，因为加密货币两者都不具备。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783048324,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -789,12 +789,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.8,
+    "score": 32.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.9,
+    "daily_score": 16.8,
     "weekly_score": 15.9,
-    "btc_price": 62219.3,
+    "btc_price": 62164.6,
     "fear_greed": 21,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003784,
+        "value": 0.004513,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.66,
-        "score": 77,
+        "value": 1.62,
+        "score": 75,
         "weight": 5,
         "group": "daily"
       },
@@ -876,14 +876,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34,
+        "value": 33.9,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -98.3,
+        "value": -96.4,
         "score": 18,
         "weight": 4,
         "group": "weekly"
@@ -1076,36 +1076,36 @@
         "text": "Brand, legal, political, technical, institutional, cultural, and physical power can influence Bitcoin debate, but not settle consensus. They exert second-order influence by persuading, coordinating, constraining, or mobilizing nodes, miners, and holders.",
         "url": "https://x.com/saylor/status/2073035450390888758",
         "time": "Fri Jul 03 13:25:41 +0000 2026",
-        "likes": 1159,
-        "retweets": 102
+        "likes": 1273,
+        "retweets": 110
       },
       {
         "text": "Bitcoin’s future is shaped by dynamic consensus among nodes, miners, and holders. Influence is weighted by power: nodes by transaction power, miners by computer power, holders by economic power. Protocol changes prevail when validation, security, and capital align. $BTC",
         "url": "https://x.com/saylor/status/2073035448402710842",
         "time": "Fri Jul 03 13:25:40 +0000 2026",
-        "likes": 5142,
-        "retweets": 501
+        "likes": 5854,
+        "retweets": 562
       },
       {
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 8098,
-        "retweets": 849
+        "likes": 8259,
+        "retweets": 878
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
-        "likes": 5736,
-        "retweets": 520
+        "likes": 5797,
+        "retweets": 527
       },
       {
         "text": "As Strategy disclosed Monday: our corporate objective is for $STRC to trade over time at $99–$100.",
         "url": "https://x.com/saylor/status/2072368915460899184",
         "time": "Wed Jul 01 17:17:06 +0000 2026",
-        "likes": 8693,
-        "retweets": 735
+        "likes": 8697,
+        "retweets": 737
       }
     ],
     "viktorfischer": [
@@ -1149,97 +1149,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Costco 会在 2026 年派发特别股息吗？这是历史所说的。",
-        "url": "https://finnhub.io/api/news?id=a92373f6dad9016fb10b7b49c057530abd4e868c4720566c3512ff51f0cd1aef",
-        "datetime": 1783092300,
+        "headline": "资深技术分析师：市场错误地让软件在人工智能轮回中死去",
+        "url": "https://finnhub.io/api/news?id=ed3df89e212a9c6edbe4cec930c117ad23991b5a5eb2272c25060130f6ae32b1",
+        "datetime": 1783100115,
         "source": "Yahoo"
       },
       {
-        "headline": "Rivian 内幕交易背后的真相",
-        "url": "https://finnhub.io/api/news?id=f414c54dc086597d61179c1af92b948c1c8aea95680269f5332233e80b504302",
-        "datetime": 1783092025,
+        "headline": "2026 年这只科技 ETF 的表现悄然跑赢 QQQ——还有时间买入吗？",
+        "url": "https://finnhub.io/api/news?id=9dd7c87cfb178b328fd1ef0da84675b911e4ee7330821c4f1f41eee234b0a682",
+        "datetime": 1783100100,
         "source": "Yahoo"
       },
       {
-        "headline": "沃尔玛的防御性吸引力和 89% 的分析师支持率预示着 17% 的上涨空间",
-        "url": "https://finnhub.io/api/news?id=95cffde83504606c6b9bcd1486b025a1a07d11ef5263167eb647f07caa2f2694",
-        "datetime": 1783091717,
+        "headline": "退休人员如何通过这只股息股票将 100,000 美元变成稳定的月收入",
+        "url": "https://finnhub.io/api/news?id=72247d4b43066d04530898eb9c57d661465bcbc91c4b0b8c8edd3970ef059bf8",
+        "datetime": 1783099830,
         "source": "Yahoo"
       },
       {
-        "headline": "哪只机器人供应链股票在 2026 年占据主导地位：Ouster、Aeva 还是 Vishay Precision Group？",
-        "url": "https://finnhub.io/api/news?id=63b1e92dd9ccee2e8ad3f2428ebfd9280086b026bc741247bd85c1b518c022e5",
-        "datetime": 1783091221,
+        "headline": "FDA 以 9 比 0 的投票结果后，Moderna 在一个月内上涨了 70% 以上。华尔街的平均价格目标称应下跌 44%。带来什么？",
+        "url": "https://finnhub.io/api/news?id=d4da7690014aec5ca3d6621051a6b421f5efe051d0949a3619f68c2596f13244",
+        "datetime": 1783099620,
         "source": "Yahoo"
       },
       {
-        "headline": "2 受软件创新数十亿美元推动的股票可能会飙升。提示：它们甚至不是科技股。",
-        "url": "https://finnhub.io/api/news?id=e0daaa2f15649b6130e27bcd8e31a75505768d92f658c790ecc08e42083f9918",
-        "datetime": 1783091100,
+        "headline": "立即以 1,000 美元买入并在未来 20 年持有的 3 个核心人工智能 (AI) 市场领导者",
+        "url": "https://finnhub.io/api/news?id=dae891707159843fd05836a455bb3e8dbf27059e0fad77a6347226115191f8a8",
+        "datetime": 1783098360,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Meta 的人工智能回报时间表看起来更混乱",
+        "url": "https://finnhub.io/api/news?id=9a5d67994cf92da0dc6ab886a897b075b8b29095d09dcf4071371aa8ec888d6b",
+        "datetime": 1783097898,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉 vs. SpaceX：到 7 月底，这将超越其他公司",
+        "url": "https://finnhub.io/api/news?id=00d56d2adb28053a34ed7947cccdfd2d217ae29f5fb55bf528721dec8997833a",
+        "datetime": 1783096499,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "市场迎来 2020 年以来最强劲的季度——这 3 只股票仍有巨大的运行空间",
+        "url": "https://finnhub.io/api/news?id=6774f2ddf2eaa5c4909c7eacb1d20749fcaa9856635417289055c2789bf8b723",
+        "datetime": 1783096138,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "6 月份仅增加 57,000 个就业岗位后，经济正在失去动力——但我仍然看好这 3 只势不可挡的人工智能股票",
+        "url": "https://finnhub.io/api/news?id=5e4107688a8bf5be90cab8164930e31439b0c20e955b5a2fbc05e1e83d9b4803",
+        "datetime": 1783096073,
+        "source": "Yahoo"
+      },
+      {
         "headline": "特斯拉在迈阿密推出机器人出租车服务",
         "url": "https://finnhub.io/api/news?id=acc0eb26b08d8633c71057236ac6043c38ec732cd31caf00131458ab475fd738",
         "datetime": 1783090753,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "当谷歌人工智能为沃尔玛结账提供支持时，哪些股票会获胜？",
-        "url": "https://finnhub.io/api/news?id=5d2f51e4ba0467d4897e72bff677bb9aaa90d59a18382faee25bf8a90b8103a4",
-        "datetime": 1783087510,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 瞄准恶意网络流量",
-        "url": "https://finnhub.io/api/news?id=9ef48a4cd78a87de72d8e8297a37271f2e1b02f3cb29d8aa1ae5d33dbe147dce",
-        "datetime": 1783083768,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "华尔街对 Meta 的秘密云举措存在分歧，一侧是非常错误的",
-        "url": "https://finnhub.io/api/news?id=06892519f5af73c728aca8e1eb5559517f594d5e029d4659dedf8998e2108c60",
-        "datetime": 1783083116,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "今日云人工智能——人工智能编排平台将实现大规模市场扩张",
-        "url": "https://finnhub.io/api/news?id=ec37f867cf1c3fad6a407ac39f9ac1fb0b7868f179e529a23bb060985506967f",
-        "datetime": 1783082319,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "来认识一下主要的人工智能 (AI) CPU 玩家，他们刚刚加入 Nvidia、Tesla 和 Palantir 的行列，成为 Robinhood 上最受欢迎的股票之一",
+        "url": "https://finnhub.io/api/news?id=9396aadbda353e75df74740995ebcb9c370d18dd35d7f0fcc6f68b566b6e754d",
+        "datetime": 1783096500,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉 vs. SpaceX：到 7 月底，这将超越其他公司",
+        "url": "https://finnhub.io/api/news?id=00d56d2adb28053a34ed7947cccdfd2d217ae29f5fb55bf528721dec8997833a",
+        "datetime": 1783096499,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "埃隆·马斯克 (Elon Musk) 重返 Mojo，特斯拉交付量猛增",
+        "url": "https://finnhub.io/api/news?id=f924e2a7af2e44a933dc8ee6c472494a8fabd767d6016f899777d3f9f39595cb",
+        "datetime": 1783096183,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉限制员工人工智能支出",
+        "url": "https://finnhub.io/api/news?id=ca687ec4fc195196064cc163c2a6af6989e5f4963426c68d80bcf76701370da0",
+        "datetime": 1783095710,
+        "source": "Yahoo"
+      },
+      {
         "headline": "道琼斯期货：特斯拉、Sandisk、人工智能股跳水后科技股反弹；苹果、Robinhood 发出买入信号",
         "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf",
         "datetime": 1783094066,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉在迈阿密推出机器人出租车服务",
-        "url": "https://finnhub.io/api/news?id=acc0eb26b08d8633c71057236ac6043c38ec732cd31caf00131458ab475fd738",
-        "datetime": 1783090753,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "1 只值得持有数十年的工业股，2 只值得我们质疑",
-        "url": "https://finnhub.io/api/news?id=1cc33e9b1dc16aa5572f8a5609392ac49acca7a702881b0417b3cdb8ce5873fa",
-        "datetime": 1783084446,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉销量飙升 25% 迹象表明其困境可能正在缓解",
-        "url": "https://finnhub.io/api/news?id=dd62ba2db77d3eba695a4bf4965dd80b8770e99ca50d664119b225e71045ea9c",
-        "datetime": 1783084405,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉透露了一些“酷消息”——股票需要它",
-        "url": "https://finnhub.io/api/news?id=a09b11b59c9e5ab7c0312f56c7131bd449bec5629039baaf30234f3b07452830",
-        "datetime": 1783082160,
         "source": "Yahoo"
       }
     ],
@@ -1417,6 +1417,12 @@
     ],
     "NEAR": [
       {
+        "headline": "⬛ 直播：大揭秘\n\n您的企业的黑匣子里有什么？\n\n敬请于美国东部时间 7 月 7 日上午 11 点通过 @ilblackdragon 和 @AlexAuroraDev 进行现场直播。\n\n在 X 和 YouTube 上流式传输。",
+        "url": "https://x.com/NEARProtocol/status/2073105015225418084",
+        "datetime": 1783101726,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Fogo Chain刚刚保密⚫️ \n\n将 100 多个代币秘密地交换到 FOGO 并交换回来\n\n金额隐藏。路线隐藏。钱包隐藏。 \n\n你的交易。你的事。",
         "url": "https://x.com/NEARProtocol/status/2073068502160720193",
         "datetime": 1783093021,
@@ -1426,12 +1432,6 @@
         "headline": "在此实时仪表板上查看 NEAR 的关键指标：",
         "url": "https://x.com/NEARProtocol/status/2073030610377961760",
         "datetime": 1783083987,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "映射到整个漏斗的三个数字：\n\n- 通过意图路由的卷 = 轨道工作。\n- 机密 TVL = 人们重视机密性。\n- 30d 表达意图的唯一用户 = 需求",
-        "url": "https://x.com/NEARProtocol/status/2073030607731384694",
-        "datetime": 1783083986,
         "source": "@NEARProtocol"
       }
     ],
