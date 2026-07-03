@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:58:07.798Z",
+  "updated_at": "2026-07-03T02:43:55.559Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 61510,
-      "change_pct": 2.55
+      "price": 61290,
+      "change_pct": 1.61
     },
     {
       "symbol": "ETH",
-      "price": 1698.27,
-      "change_pct": 5.59
+      "price": 1700.01,
+      "change_pct": 4.9
     },
     {
       "symbol": "SOL",
-      "price": 80.63,
-      "change_pct": 4.21
+      "price": 80.82,
+      "change_pct": 3.12
     },
     {
       "symbol": "HYPE",
-      "price": 66.83,
-      "change_pct": 7.16
+      "price": 66.5,
+      "change_pct": 5.72
     },
     {
       "symbol": "ZEC",
-      "price": 434.32,
-      "change_pct": 4.3
+      "price": 431.5,
+      "change_pct": 2.89
     },
     {
       "symbol": "TAO",
-      "price": 209.18,
-      "change_pct": 3.32
+      "price": 212.98,
+      "change_pct": 3.63
     },
     {
       "symbol": "SKY",
-      "price": 1365.05,
-      "change_pct": 11.61
+      "price": 1377.49,
+      "change_pct": 12.68
     },
     {
       "symbol": "AAVE",
-      "price": 86.21,
-      "change_pct": 3.69
+      "price": 85.95,
+      "change_pct": 0.9
     },
     {
       "symbol": "BNB",
-      "price": 558.05,
-      "change_pct": 1.46
+      "price": 559.81,
+      "change_pct": 1.66
     },
     {
       "symbol": "NEAR",
-      "price": 1.94,
-      "change_pct": 7.54
+      "price": 1.95,
+      "change_pct": 3.37
     },
     {
       "symbol": "DOGE",
-      "price": 0.074081,
-      "change_pct": 2.67
+      "price": 0.074498,
+      "change_pct": 2.62
     },
     {
       "symbol": "SPACEX",
-      "price": 549.42,
-      "change_pct": -3.87
+      "price": 534.7,
+      "change_pct": -5.79
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "美国就业数据报告后，比特币维持在 6.1 万美元，人工智能行业疲软：比特币触底了吗？",
+      "summary": "在疲弱的美国就业数据缓解加息担忧以及资本寻求转向比特币和黄金之后，比特币多头可能会冲向 70,000 美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783036861,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "比特币即将涨至 6.5 万美元吗？ Sharplink 购买 1600 万美元 ETH：市场走势",
       "summary": "分析师对比特币的下一步走势存在分歧，但最终还是有一些希望。与此同时，SharpLink 在暂停八周后恢复购买以太币以及其他市场消息。",
       "source": "Cointelegraph",
@@ -732,15 +741,6 @@
       "datetime": 1782995401,
       "category": "business",
       "related": ""
-    },
-    {
-      "headline": "一家陷入困境的纳斯达克上市公司试图复制塞勒的比特币策略，彻底放弃加密货币，转向人工智能",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
-      "datetime": 1782994215,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -800,18 +800,18 @@
     }
   ],
   "btc_score": {
-    "score": 30.7,
+    "score": 32.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 14.8,
-    "btc_price": 61571.9,
-    "fear_greed": 18,
+    "daily_score": 17.7,
+    "weekly_score": 14.9,
+    "btc_price": 61340.9,
+    "fear_greed": 21,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 91800000,
-        "score": 56,
+        "value": 263900000,
+        "score": 67,
         "weight": 12,
         "group": "daily"
       },
@@ -824,15 +824,15 @@
       },
       {
         "name": "多空比",
-        "value": 1.68,
-        "score": 79,
+        "value": 1.74,
+        "score": 83,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 18,
-        "score": 18,
+        "value": 21,
+        "score": 21,
         "weight": 7,
         "group": "daily"
       },
@@ -880,22 +880,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 0.96,
-        "score": 15,
+        "value": 0.98,
+        "score": 16,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 33,
-        "score": 22,
+        "value": 32.6,
+        "score": 21,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -83.2,
-        "score": 22,
+        "value": -70.4,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -904,7 +904,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 27
+      "days_until": 26
     },
     "schedule": [
       "2025-01-29",
@@ -1013,7 +1013,7 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 920,
+        "likes": 921,
         "retweets": 54
       },
       {
@@ -1087,36 +1087,36 @@
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 5273,
-        "retweets": 505
+        "likes": 6067,
+        "retweets": 600
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
-        "likes": 4956,
-        "retweets": 439
+        "likes": 5139,
+        "retweets": 455
       },
       {
         "text": "As Strategy disclosed Monday: our corporate objective is for $STRC to trade over time at $99–$100.",
         "url": "https://x.com/saylor/status/2072368915460899184",
         "time": "Wed Jul 01 17:17:06 +0000 2026",
-        "likes": 8479,
-        "retweets": 711
+        "likes": 8515,
+        "retweets": 716
       },
       {
         "text": "Credit on the Bitcoin Standard. https://t.co/uORQP4urtm",
         "url": "https://x.com/saylor/status/2072304368695812219",
         "time": "Wed Jul 01 13:00:37 +0000 2026",
-        "likes": 5133,
-        "retweets": 506
+        "likes": 5158,
+        "retweets": 515
       },
       {
         "text": "Income. Twice a month. $STRC https://t.co/PdpvwdQ0Vr",
         "url": "https://x.com/saylor/status/2071950453160431891",
         "time": "Tue Jun 30 13:34:17 +0000 2026",
-        "likes": 10910,
-        "retweets": 991
+        "likes": 10911,
+        "retweets": 993
       }
     ],
     "viktorfischer": [
@@ -1160,69 +1160,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么 Rivian 股票今天暴涨",
-        "url": "https://finnhub.io/api/news?id=88e41e9495a71f145b92b746b41bed73e291896cde9bce99264e31682992fe24",
-        "datetime": 1783026154,
+        "headline": "Meta 希望进入云领域。亚马逊股票仍然值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=58b15272319f6ff1bc70492ed59291a23db1185492573db0e5c7a615343ab7c4",
+        "datetime": 1783043280,
         "source": "Yahoo"
       },
       {
-        "headline": "更新：道琼斯指数上涨，华尔街录得每周涨幅",
-        "url": "https://finnhub.io/api/news?id=2dc999544ae627ac5200255528c37418a68bf149c76db7e49c47c48047eec1f1",
-        "datetime": 1783025878,
+        "headline": "英伟达揭示了其长期战略中缺失的一块拼图",
+        "url": "https://finnhub.io/api/news?id=c4eb2058a33b6cf7d564db316ec1591d0fb40acf65847318f86b8b50719d7927",
+        "datetime": 1783042620,
         "source": "Yahoo"
       },
       {
-        "headline": "有 1,000 美元可投资吗？立即购买这两只股票并持有数十年。",
-        "url": "https://finnhub.io/api/news?id=2d1b20786fb86cc8eeea3905a4d28109c998c259b4b1ade352d107df49fa97ff",
-        "datetime": 1783025852,
+        "headline": "OpenAI 目前正在考虑 2027 年进行 IPO，估值为 1 万亿美元。投资者是否应该期待与 SpaceX IPO 相同的波动性？",
+        "url": "https://finnhub.io/api/news?id=2ec02e7479bfec6a1f50c7346a6d1d414be86e942a04d5222cdfd8c487447fae",
+        "datetime": 1783042380,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么富兰克林柯维股票今天暴跌",
-        "url": "https://finnhub.io/api/news?id=b50122082838c84667e98a07c1961938c7009c9047ce40de679ae47f5d6921a1",
-        "datetime": 1783025552,
+        "headline": "微米日来了！",
+        "url": "https://finnhub.io/api/news?id=3edd282c021d88f5cf639af5476a6f3a8ba8cc74168bc12140f6dc2867b80c9e",
+        "datetime": 1783039999,
         "source": "Yahoo"
       },
       {
-        "headline": "一年后 SpaceX 的股票会走向何方？",
-        "url": "https://finnhub.io/api/news?id=3b51ba3f23a521a5d06495bbdee62ab800bdd0fd47a6605fbda71d991aad6ea6",
-        "datetime": 1783025400,
+        "headline": "Tilray 是教科书式的价值陷阱，还是市场上最被低估的大麻股票？",
+        "url": "https://finnhub.io/api/news?id=05f3b83a857d72f5d6fb9678dc348f3478e7a5b1457c12428c2f9890b0ff8091",
+        "datetime": 1783039800,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Reddit (RDDT) 是最值得购买的廉价人工智能股票吗？",
-        "url": "https://finnhub.io/api/news?id=17be62e66a56262485036b3ff6a4d46bc3faaf7b10ff91c1932b962db0fb045e",
-        "datetime": 1783027737,
+        "headline": "Meta 希望进入云领域。亚马逊股票仍然值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=58b15272319f6ff1bc70492ed59291a23db1185492573db0e5c7a615343ab7c4",
+        "datetime": 1783043280,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta 刚刚与亚马逊的摇钱树发起了一场战斗",
-        "url": "https://finnhub.io/api/news?id=8913f628eee6b11fdbc2d9bb1b36cc8f1d8b90229a83eed8dd62e3d09f4ef299",
-        "datetime": 1783022820,
+        "headline": "微米日来了！",
+        "url": "https://finnhub.io/api/news?id=3edd282c021d88f5cf639af5476a6f3a8ba8cc74168bc12140f6dc2867b80c9e",
+        "datetime": 1783039999,
         "source": "Yahoo"
       },
       {
-        "headline": "法国巴黎银行就 CoreWeave 和 Nebius 股票发出新消息",
-        "url": "https://finnhub.io/api/news?id=d89b4982ef5ef40d50559dae2c14613c08b8bef6a3225bbbce4f37310f03e489",
-        "datetime": 1783021210,
+        "headline": "谷歌风投出人意料地在 SpaceX 时代下注 3000 万美元",
+        "url": "https://finnhub.io/api/news?id=da1116c99370ee7db9ffe94c0e9e79dfb7f9065216c953397fa80fab2b74799d",
+        "datetime": 1783036980,
         "source": "Yahoo"
       },
       {
-        "headline": "行业动态：科技股午后下跌",
-        "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
-        "datetime": 1783020573,
+        "headline": "Coinbase (COIN) 股票上涨，你需要知道什么",
+        "url": "https://finnhub.io/api/news?id=98e7ab45067d041306c92e0aa4de09d52deb63b69f645649b993eda48137d7a7",
+        "datetime": 1783033704,
         "source": "Yahoo"
       },
       {
-        "headline": "老牌银行调整 2026 年剩余时间的 Alphabet 价格目标",
-        "url": "https://finnhub.io/api/news?id=c507f4c5a22a4ce19552b913d7f97e2affb75ae7fbb0c1903918d375def77df6",
-        "datetime": 1783020174,
+        "headline": "市场热议：克鲁索正在洽谈以约 300 亿美元估值筹集约 30 亿美元资金",
+        "url": "https://finnhub.io/api/news?id=99aad7d1105f655544d32e2f648eb78db84fe9d921748701b8413de11a8d8bc0",
+        "datetime": 1783032750,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "第二季度交付量超出预期后，特斯拉股价遭遇 11 个月来最糟糕的一天——投资者和专家发表评论",
+        "url": "https://finnhub.io/api/news?id=51314b51cc23dd5fb6832ba656663f653924e7feab8ef17d6aa8293ef57d0d63",
+        "datetime": 1783038696,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么特斯拉（TSLA）的股票今天被抹掉",
+        "url": "https://finnhub.io/api/news?id=471f6f5b6536d815712338979a54e5d5c2007fede57abc621b3831fc9fd7c65d",
+        "datetime": 1783037544,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "受欢迎的特斯拉投资者将比特币崩盘归咎于特朗普",
+        "url": "https://finnhub.io/api/news?id=75cc4447fc339ed841814f6a58b1dde271941c267e25a1b26f0fac7f67a6d702",
+        "datetime": 1783035567,
+        "source": "Yahoo"
+      },
       {
         "headline": "道琼斯期货：道琼斯指数触及高位，但人工智能指数下跌；苹果、Robinhood 被收购，而特斯拉、Sandisk 则纷纷下注",
         "url": "https://finnhub.io/api/news?id=00d99cf43ca34d8c0a02ba974d1fd52012fa46be6d172bb7ebb2a6d6a0a34310",
@@ -1233,24 +1251,6 @@
         "headline": "7 月 2 日今日股市：Rivian 因上调 2026 年交割指引而上涨",
         "url": "https://finnhub.io/api/news?id=d08b43c9a761de08c3b33a61140610007c6bf74737d54cdeb6a00de49a6abd5f",
         "datetime": 1783028107,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "今日股市：道琼斯指数上涨 590 点，创出新高，但元、芯片、光学股遭遇重挫",
-        "url": "https://finnhub.io/api/news?id=3b674938115048840a15d92c2b6216c892d29831d83a8bf099f29179daccf517",
-        "datetime": 1783026126,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "更新：道琼斯指数上涨，华尔街录得每周涨幅",
-        "url": "https://finnhub.io/api/news?id=2dc999544ae627ac5200255528c37418a68bf149c76db7e49c47c48047eec1f1",
-        "datetime": 1783025878,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "更新：由于就业数据疲弱，美国股指涨跌互现，引发成长型股票的抛售",
-        "url": "https://finnhub.io/api/news?id=f137306bd53012e590a9d15e300a11bc22bd424de0ef33517feadc8bdf52953c",
-        "datetime": 1783024695,
         "source": "Yahoo"
       }
     ],
@@ -1289,6 +1289,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "美国就业数据报告后，比特币维持在 6.1 万美元，人工智能行业疲软：比特币触底了吗？",
+        "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783036861,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "比特币即将涨至 6.5 万美元吗？ Sharplink 购买 1600 万美元 ETH：市场走势",
         "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783034267,
@@ -1310,12 +1316,6 @@
         "headline": "摩根大通表示Strategy的比特币销售政策给加密市场增加了“双向风险”",
         "url": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
         "datetime": 1782997882,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "一家陷入困境的纳斯达克上市公司试图复制塞勒的比特币策略，彻底放弃加密货币，转向人工智能",
-        "url": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
-        "datetime": 1782994215,
         "source": "CoinDesk"
       }
     ],
