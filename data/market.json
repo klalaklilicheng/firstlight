@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T15:04:10.615Z",
+  "updated_at": "2026-07-03T17:16:13.250Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62135,
-      "change_pct": 0.87
+      "price": 62177,
+      "change_pct": 0.68
     },
     {
       "symbol": "ETH",
-      "price": 1737.01,
-      "change_pct": 2.31
+      "price": 1734.53,
+      "change_pct": 2.09
     },
     {
       "symbol": "SOL",
-      "price": 81.64,
-      "change_pct": 1.6
+      "price": 81.6,
+      "change_pct": 1.01
     },
     {
       "symbol": "HYPE",
-      "price": 70.41,
-      "change_pct": 7.8
+      "price": 70.19,
+      "change_pct": 6.96
     },
     {
       "symbol": "ZEC",
-      "price": 461.82,
-      "change_pct": 5.71
-    },
-    {
-      "symbol": "TAO",
-      "price": 217.08,
-      "change_pct": 1.99
-    },
-    {
-      "symbol": "SKY",
-      "price": 1354.53,
+      "price": 457.85,
       "change_pct": 4.72
     },
     {
+      "symbol": "TAO",
+      "price": 215.3,
+      "change_pct": 1.61
+    },
+    {
+      "symbol": "SKY",
+      "price": 1353.28,
+      "change_pct": 3.03
+    },
+    {
       "symbol": "AAVE",
-      "price": 90.42,
-      "change_pct": 4.82
+      "price": 88.77,
+      "change_pct": 1.44
     },
     {
       "symbol": "BNB",
-      "price": 565.58,
-      "change_pct": 0.76
+      "price": 567.28,
+      "change_pct": 0.95
     },
     {
       "symbol": "NEAR",
-      "price": 2.08,
-      "change_pct": 9.19
+      "price": 2.02,
+      "change_pct": 5.26
     },
     {
       "symbol": "DOGE",
-      "price": 0.076698,
-      "change_pct": 3.17
+      "price": 0.076551,
+      "change_pct": 3.2
     },
     {
       "symbol": "SPACEX",
-      "price": 556.75,
-      "change_pct": 5.08
+      "price": 555.12,
+      "change_pct": -1.45
     }
   ],
   "earnings": {
@@ -473,6 +473,42 @@
   },
   "news": [
     {
+      "headline": "ESMA警告许多预测市场事件合约已面临欧盟零售禁令",
+      "summary": "欧洲监管机构表示，公司不能通过将二元式产品作为事件合约而非衍生品进行营销来规避欧盟金融规则。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783097660,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Mantle 2026 年上半年：全力构建现实世界资产的金融体系",
+      "summary": "Mantle 的链上 TVL 超过 10 亿美元，同时扩大了代币化股票、机构流动性和代理金融的基础。阿联酋迪拜，2026 年 7 月 2 日 /美通社/ — 连接传统金融和链上流动性的首要分配层 Mantle 今天分享了其 2026 年上半年的收入",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/mantle-h1-2026-building-the-financial-system-in-full-force-for-real-world-assets/",
+      "datetime": 1783095552,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Crypto Biz：比特币极端主义符合资本市场的现实",
+      "summary": "战略授权比特币销售，Open USD 挑战 USDT 和 USDC，富达捍卫比特币安全，加密货币增加 2026 年政治支出。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783094621,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "全球股市创历史新高后，比特币价格创下 6.23 万美元九日高点",
+      "summary": "在美国独立日假期前，道琼斯指数和全球股市市值创下历史新高后，比特币创下 7 月新高。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783091490,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着 MiCA 过渡结束，欧盟加密规则手册面临执行挑战",
       "summary": "律师和行业高管预计欧盟监管机构将以不同的方式执行 MiCA，因为未经授权的加密货币公司必须停止运营。",
       "source": "Cointelegraph",
@@ -645,7 +681,7 @@
     },
     {
       "headline": "青少年“分散蜘蛛”嫌疑人因 800 万美元加密赎金被引渡到美国",
-      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国被指控涉嫌参与黑客组织 800 万美元的加密货币赎金计划，但未成功。",
+      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国因涉​​嫌参与黑客组织未成功的 800 万美元加密货币赎金计划而受到指控。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1783059500,
@@ -680,15 +716,6 @@
       "related": ""
     },
     {
-      "headline": "比特币修复保持不变，因此多头稍好一些，但尚未得到证实",
-      "summary": "<p>今日比特币期货分析：BTC 修复得以维持，但多头仍需 6.27 万美元确认</p><p>比特币期货已从 6 月下旬的较低价值区域修复，但目前走势停滞在第一个主要每日确认区域下方。短期结构不再偏空，BTC h",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/Cryptocurrency/bitcoin-repair-holds-so-bulls-are-slightly-better-but-not-confirmed-20260703/",
-      "datetime": 1783056060,
-      "category": "crypto",
-      "related": ""
-    },
-    {
       "headline": "随着空头挤压将比特币推向 62,000 美元，以太坊和 solana 扩大涨幅",
       "summary": "",
       "source": "CoinDesk",
@@ -712,33 +739,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/strategy-will-be-less-important-in-bitcoin-after-strc-incident-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1783048324,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "通过 Solana、Avalanche 上的代币化股票，将纽约证券交易所首次亮相的收益证券化",
-      "summary": "Securitize 已在 Solana 和 Avalanche 上发行了其股票的代币化版本，这标志着新上市公司首次在首次亮相时这样做。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783046134,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国就业数据报告后，比特币维持在 6.1 万美元，人工智能行业疲软：比特币触底了吗？",
-      "summary": "在疲弱的美国就业数据缓解加息担忧以及资本寻求转向比特币和黄金之后，比特币多头可能会冲向 70,000 美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-61k-after-us-jobs-data-report-ai-sector-weakness-did-btc-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783036861,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币即将涨至 6.5 万美元吗？ Sharplink 购买 1600 万美元 ETH：市场走势",
-      "summary": "分析师对比特币的下一步走势存在分歧，但最终还是有一些希望。与此同时，SharpLink 在暂停八周后恢复购买以太币以及其他市场消息。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783034267,
       "category": "crypto",
       "related": ""
     }
@@ -789,12 +789,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.4,
+    "score": 32.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.9,
-    "weekly_score": 16.5,
-    "btc_price": 62195,
+    "weekly_score": 15.9,
+    "btc_price": 62219.3,
     "fear_greed": 21,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005387,
-        "score": 48,
+        "value": 0.003784,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.64,
-        "score": 76,
+        "value": 1.66,
+        "score": 77,
         "weight": 5,
         "group": "daily"
       },
@@ -876,15 +876,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.9,
+        "value": 34,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -39.6,
-        "score": 34,
+        "value": -98.3,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,7 +1030,7 @@
         "text": "Bitcoin is the most honest macro asset -- in its design, it serves as a forward looking mirror -- I wonder all the time about what it's trying to tell us lays ahead.",
         "url": "https://x.com/cburniske/status/2054753557484908758",
         "time": "Thu May 14 02:39:58 +0000 2026",
-        "likes": 810,
+        "likes": 811,
         "retweets": 49
       }
     ],
@@ -1076,36 +1076,36 @@
         "text": "Brand, legal, political, technical, institutional, cultural, and physical power can influence Bitcoin debate, but not settle consensus. They exert second-order influence by persuading, coordinating, constraining, or mobilizing nodes, miners, and holders.",
         "url": "https://x.com/saylor/status/2073035450390888758",
         "time": "Fri Jul 03 13:25:41 +0000 2026",
-        "likes": 844,
-        "retweets": 72
+        "likes": 1159,
+        "retweets": 102
       },
       {
         "text": "Bitcoin’s future is shaped by dynamic consensus among nodes, miners, and holders. Influence is weighted by power: nodes by transaction power, miners by computer power, holders by economic power. Protocol changes prevail when validation, security, and capital align. $BTC",
         "url": "https://x.com/saylor/status/2073035448402710842",
         "time": "Fri Jul 03 13:25:40 +0000 2026",
-        "likes": 3547,
-        "retweets": 357
+        "likes": 5142,
+        "retweets": 501
       },
       {
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 7909,
-        "retweets": 826
+        "likes": 8098,
+        "retweets": 849
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
-        "likes": 5647,
-        "retweets": 506
+        "likes": 5736,
+        "retweets": 520
       },
       {
         "text": "As Strategy disclosed Monday: our corporate objective is for $STRC to trade over time at $99–$100.",
         "url": "https://x.com/saylor/status/2072368915460899184",
         "time": "Wed Jul 01 17:17:06 +0000 2026",
-        "likes": 8664,
-        "retweets": 731
+        "likes": 8693,
+        "retweets": 735
       }
     ],
     "viktorfischer": [
@@ -1149,37 +1149,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "这就是 Viking Therapeutics 股票六月份飙升的原因",
-        "url": "https://finnhub.io/api/news?id=570bbb3b7612cc003af58247147d83f6864848d84ec833834a2195433c105740",
-        "datetime": 1783086339,
+        "headline": "Costco 会在 2026 年派发特别股息吗？这是历史所说的。",
+        "url": "https://finnhub.io/api/news?id=a92373f6dad9016fb10b7b49c057530abd4e868c4720566c3512ff51f0cd1aef",
+        "datetime": 1783092300,
         "source": "Yahoo"
       },
       {
-        "headline": "65 年的股息连续记录几乎被打破。这就是它不断上涨的原因",
-        "url": "https://finnhub.io/api/news?id=3a6350364417de84f30b3c6a3d05eb1b73231fa4794696a8f002f6616371395b",
-        "datetime": 1783086327,
+        "headline": "Rivian 内幕交易背后的真相",
+        "url": "https://finnhub.io/api/news?id=f414c54dc086597d61179c1af92b948c1c8aea95680269f5332233e80b504302",
+        "datetime": 1783092025,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 真的能颠覆电信业吗？",
-        "url": "https://finnhub.io/api/news?id=af15efc67c3613124eb9b7949c66dc6ddde30fddbed72461dbea4904b5b07836",
-        "datetime": 1783085747,
+        "headline": "沃尔玛的防御性吸引力和 89% 的分析师支持率预示着 17% 的上涨空间",
+        "url": "https://finnhub.io/api/news?id=95cffde83504606c6b9bcd1486b025a1a07d11ef5263167eb647f07caa2f2694",
+        "datetime": 1783091717,
         "source": "Yahoo"
       },
       {
-        "headline": "忘掉惠普企业吧：一家股息丰富的科技巨头将在结构性支点上交出拳头收购",
-        "url": "https://finnhub.io/api/news?id=d842ba4b25d55910a13c3536c73f2dfab6450133be532addc7e3fe20b99a0f2e",
-        "datetime": 1783085742,
+        "headline": "哪只机器人供应链股票在 2026 年占据主导地位：Ouster、Aeva 还是 Vishay Precision Group？",
+        "url": "https://finnhub.io/api/news?id=63b1e92dd9ccee2e8ad3f2428ebfd9280086b026bc741247bd85c1b518c022e5",
+        "datetime": 1783091221,
         "source": "Yahoo"
       },
       {
-        "headline": "你应该逢低买入 SpaceX 的股票吗？",
-        "url": "https://finnhub.io/api/news?id=58f07bab2cd5a56c90e7ea18844f169e4171689688da1554c5ca4baf8ab1c0c5",
-        "datetime": 1783085700,
+        "headline": "2 受软件创新数十亿美元推动的股票可能会飙升。提示：它们甚至不是科技股。",
+        "url": "https://finnhub.io/api/news?id=e0daaa2f15649b6130e27bcd8e31a75505768d92f658c790ecc08e42083f9918",
+        "datetime": 1783091100,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "特斯拉在迈阿密推出机器人出租车服务",
+        "url": "https://finnhub.io/api/news?id=acc0eb26b08d8633c71057236ac6043c38ec732cd31caf00131458ab475fd738",
+        "datetime": 1783090753,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "当谷歌人工智能为沃尔玛结账提供支持时，哪些股票会获胜？",
+        "url": "https://finnhub.io/api/news?id=5d2f51e4ba0467d4897e72bff677bb9aaa90d59a18382faee25bf8a90b8103a4",
+        "datetime": 1783087510,
+        "source": "Yahoo"
+      },
       {
         "headline": "Alphabet 瞄准恶意网络流量",
         "url": "https://finnhub.io/api/news?id=9ef48a4cd78a87de72d8e8297a37271f2e1b02f3cb29d8aa1ae5d33dbe147dce",
@@ -1197,21 +1209,21 @@
         "url": "https://finnhub.io/api/news?id=ec37f867cf1c3fad6a407ac39f9ac1fb0b7868f179e529a23bb060985506967f",
         "datetime": 1783082319,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Palantir Stock：一款不同的引擎，而不是更安静的引擎",
-        "url": "https://finnhub.io/api/news?id=867ed610051c6deb5d75b07dadf5153f49da35e7fc86f15ba2bcd92a202dd686",
-        "datetime": 1783081585,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌母公司 Alphabet 于 2015 年 1 月向 SpaceX 投资 9 亿美元——以下是这笔投资如今的价值",
-        "url": "https://finnhub.io/api/news?id=248737f2781bd12b0bf6ff707fa05c056e2415b7262da3747543215b5cd1ec45",
-        "datetime": 1783081560,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "道琼斯期货：特斯拉、Sandisk、人工智能股跳水后科技股反弹；苹果、Robinhood 发出买入信号",
+        "url": "https://finnhub.io/api/news?id=f29bf872ce4e799318dc82aba51e8c24832d308a23477a31b577e35fd3d81aaf",
+        "datetime": 1783094066,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉在迈阿密推出机器人出租车服务",
+        "url": "https://finnhub.io/api/news?id=acc0eb26b08d8633c71057236ac6043c38ec732cd31caf00131458ab475fd738",
+        "datetime": 1783090753,
+        "source": "Yahoo"
+      },
       {
         "headline": "1 只值得持有数十年的工业股，2 只值得我们质疑",
         "url": "https://finnhub.io/api/news?id=1cc33e9b1dc16aa5572f8a5609392ac49acca7a702881b0417b3cdb8ce5873fa",
@@ -1228,18 +1240,6 @@
         "headline": "特斯拉透露了一些“酷消息”——股票需要它",
         "url": "https://finnhub.io/api/news?id=a09b11b59c9e5ab7c0312f56c7131bd449bec5629039baaf30234f3b07452830",
         "datetime": 1783082160,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉 13% 的上涨在第二季度交付数据之前建立了平衡的风险回报",
-        "url": "https://finnhub.io/api/news?id=a294fe20fc434e09ae331a09e6bc7368edef6ccdfe0a73c81bccb2746e9daae6",
-        "datetime": 1783081851,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉第二季度交付量较去年增长 25%",
-        "url": "https://finnhub.io/api/news?id=f9a886a8f4a7427e648bd58c5099bdae99f03d53919d6511b2ff9801ae478093",
-        "datetime": 1783080659,
         "source": "Yahoo"
       }
     ],
@@ -1278,6 +1278,18 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Crypto Biz：比特币极端主义符合资本市场的现实",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783094621,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "全球股市创历史新高后，比特币价格创下 6.23 万美元九日高点",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783091490,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "比特币鲸鱼在两周内购买了 167 亿美元的比特币，尽管 ETF 的亏损创纪录的 40 亿美元",
         "url": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
         "datetime": 1783079133,
@@ -1293,18 +1305,6 @@
         "headline": "期权市场显示，比特币、以太坊交易者并未完全买入反弹",
         "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
         "datetime": 1783078064,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "被告提出驳回寻求 39,069 个比特币钱包所有权的纽约诉讼",
-        "url": "https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783077024,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "内存和半导体股票失去动力，比特币反弹，表明投资者焦点发生变化",
-        "url": "https://www.coindesk.com/markets/2026/07/03/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign-of-changing-investor-focus",
-        "datetime": 1783075312,
         "source": "CoinDesk"
       }
     ],
@@ -1331,12 +1331,6 @@
         "headline": "EthLabs 成立之际，以太坊经历了多年来最大的领导层换届",
         "url": "https://www.coindesk.com/tech/2026/07/01/ethlabs-launches-as-ethereum-undergoes-its-biggest-leadership-transition-in-years",
         "datetime": 1782914996,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "以太坊成立了一个新的非营利组织，专注于机构采用",
-        "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
-        "datetime": 1782913304,
         "source": "CoinDesk"
       }
     ],
@@ -1423,21 +1417,21 @@
     ],
     "NEAR": [
       {
+        "headline": "Fogo Chain刚刚保密⚫️ \n\n将 100 多个代币秘密地交换到 FOGO 并交换回来\n\n金额隐藏。路线隐藏。钱包隐藏。 \n\n你的交易。你的事。",
+        "url": "https://x.com/NEARProtocol/status/2073068502160720193",
+        "datetime": 1783093021,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "在此实时仪表板上查看 NEAR 的关键指标：",
         "url": "https://x.com/NEARProtocol/status/2073030610377961760",
         "datetime": 1783083987,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "映射到整个漏斗的三个数字：\n\n- 通过意图路由的卷 = 轨道工作。\n- 机密 TVL = 人们重视机密性。\n- 表达意图的 30d 个唯一用户 = 需求",
+        "headline": "映射到整个漏斗的三个数字：\n\n- 通过意图路由的卷 = 轨道工作。\n- 机密 TVL = 人们重视机密性。\n- 30d 表达意图的唯一用户 = 需求",
         "url": "https://x.com/NEARProtocol/status/2073030607731384694",
         "datetime": 1783083986,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "人工智能代理正在成为经济参与者。\n\n他们运行的基础设施将决定谁获得价值。\n\n@near_ai 正在构建一个堆栈，用户可以在其中拥有自己的数据、代理和优势。",
-        "url": "https://x.com/NEARProtocol/status/2072794894901420250",
-        "datetime": 1783027788,
         "source": "@NEARProtocol"
       }
     ],
