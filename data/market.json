@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T20:55:39.483Z",
+  "updated_at": "2026-07-03T21:59:47.521Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62750,
-      "change_pct": 2.24
+      "price": 62700,
+      "change_pct": 1.94
     },
     {
       "symbol": "ETH",
-      "price": 1766.65,
-      "change_pct": 4.02
+      "price": 1762.78,
+      "change_pct": 3.85
     },
     {
       "symbol": "SOL",
-      "price": 82.69,
-      "change_pct": 2.29
+      "price": 82.63,
+      "change_pct": 2.46
     },
     {
       "symbol": "HYPE",
-      "price": 70.7,
-      "change_pct": 6.67
+      "price": 70.95,
+      "change_pct": 7.77
     },
     {
       "symbol": "ZEC",
-      "price": 464.3,
-      "change_pct": 7.08
+      "price": 466.34,
+      "change_pct": 7.84
     },
     {
       "symbol": "TAO",
-      "price": 216.79,
-      "change_pct": 3.22
+      "price": 216.42,
+      "change_pct": 3.39
     },
     {
       "symbol": "SKY",
-      "price": 1371.32,
-      "change_pct": 1.43
+      "price": 1374.91,
+      "change_pct": 1.72
     },
     {
       "symbol": "AAVE",
-      "price": 87.31,
-      "change_pct": 0.65
+      "price": 87.79,
+      "change_pct": 1.57
     },
     {
       "symbol": "BNB",
-      "price": 572.73,
-      "change_pct": 2.8
+      "price": 573.59,
+      "change_pct": 2.94
     },
     {
       "symbol": "NEAR",
-      "price": 2.03,
-      "change_pct": 5.17
+      "price": 2.05,
+      "change_pct": 6.71
     },
     {
       "symbol": "DOGE",
-      "price": 0.077867,
-      "change_pct": 5.17
+      "price": 0.078187,
+      "change_pct": 5.73
     },
     {
       "symbol": "SPACEX",
-      "price": 553.1,
-      "change_pct": -2.88
+      "price": 554.3,
+      "change_pct": -0.73
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "SOL 随着 Solana memecoin 上涨，预测市场活动激增：多头回来了吗？",
+      "summary": "人们对 Solana 网络 memecoin 和预测市场的兴趣不断上升，随之而来的是 SOL 价格的上涨。这种势头会持续下去吗？",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783114562,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国参议员呼吁禁止民选官员发行模因币",
       "summary": "参议员克尔斯滕·吉利布兰德提出的限制将禁止国会议员、美国总统及其配偶“发行或赞助自己的数字资产”。",
       "source": "Cointelegraph",
@@ -708,7 +717,7 @@
     },
     {
       "headline": "青少年“分散蜘蛛”嫌疑人因 800 万美元加密赎金被引渡到美国",
-      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国因涉​​嫌参与黑客组织未成功的 800 万美元加密货币赎金计划而受到指控。",
+      "summary": "19 岁的彼得·斯托克斯 (Peter Stokes) 在美国被指控涉嫌参与黑客组织 800 万美元的加密货币赎金计划，但未成功。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/teen-scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1783059500,
@@ -730,15 +739,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/07/03/finally-usd221-million-flow-into-bitcoin-etfs-ending-a-painful-10-day-outflow-streak",
       "datetime": 1783058091,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着代币上涨 4%，XRP 多头测试重返 1.10 美元的路径",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
-      "datetime": 1783056540,
       "category": "crypto",
       "related": ""
     }
@@ -789,12 +789,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.9,
+    "score": 32.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
+    "daily_score": 16.7,
     "weekly_score": 16.1,
-    "btc_price": 62651,
+    "btc_price": 62741.7,
     "fear_greed": 21,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005761,
-        "score": 48,
+        "value": 0.008932,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.6,
-        "score": 73,
+        "value": 1.57,
+        "score": 71,
         "weight": 5,
         "group": "daily"
       },
@@ -876,14 +876,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.6,
-        "score": 24,
+        "value": 34.7,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -88.7,
+        "value": -86.4,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1076,35 +1076,35 @@
         "text": "Brand, legal, political, technical, institutional, cultural, and physical power can influence Bitcoin debate, but not settle consensus. They exert second-order influence by persuading, coordinating, constraining, or mobilizing nodes, miners, and holders.",
         "url": "https://x.com/saylor/status/2073035450390888758",
         "time": "Fri Jul 03 13:25:41 +0000 2026",
-        "likes": 1349,
-        "retweets": 119
+        "likes": 1381,
+        "retweets": 123
       },
       {
         "text": "Bitcoin’s future is shaped by dynamic consensus among nodes, miners, and holders. Influence is weighted by power: nodes by transaction power, miners by computer power, holders by economic power. Protocol changes prevail when validation, security, and capital align. $BTC",
         "url": "https://x.com/saylor/status/2073035448402710842",
         "time": "Fri Jul 03 13:25:40 +0000 2026",
-        "likes": 6426,
-        "retweets": 615
+        "likes": 6703,
+        "retweets": 640
       },
       {
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 8336,
-        "retweets": 885
+        "likes": 8407,
+        "retweets": 888
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
-        "likes": 5848,
-        "retweets": 532
+        "likes": 5873,
+        "retweets": 537
       },
       {
         "text": "As Strategy disclosed Monday: our corporate objective is for $STRC to trade over time at $99–$100.",
         "url": "https://x.com/saylor/status/2072368915460899184",
         "time": "Wed Jul 01 17:17:06 +0000 2026",
-        "likes": 8699,
+        "likes": 8700,
         "retweets": 737
       }
     ],
@@ -1219,7 +1219,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "担心特斯拉第二季度交付量下滑 7%？抓住这些 ETF",
+        "headline": "担心特斯拉第二季度交付量大幅下滑 7%？抓住这些 ETF",
         "url": "https://finnhub.io/api/news?id=d1f3b349ccd2ac8776e61eaad56d3b6fb192662b5013cd1d2efeff26c79c6d94",
         "datetime": 1783100460,
         "source": "Yahoo"
@@ -1251,6 +1251,12 @@
         "source": "Benzinga"
       },
       {
+        "headline": "Circle Internet Group 将额外出售 6750 万枚 ARC 代币",
+        "url": "https://finnhub.io/api/news?id=063e54df3cb500c2eaeb20421c2cfee5f81fabb0187906a0df57024f0115424f",
+        "datetime": 1783012214,
+        "source": "Benzinga"
+      },
+      {
         "headline": "欧洲有 3,167 家加密货币公司，现在有 244 家：MiCA 截止日期对 Coinbase、Robinhood 和 Circle 意味着什么",
         "url": "https://finnhub.io/api/news?id=5c8d6a460fbe26dee494a3e3435c5868adf12ca014f676b2744406c1148e85dc",
         "datetime": 1783004596,
@@ -1266,12 +1272,6 @@
         "headline": "Rivian Automotive、Tenax Therapeutics、Robinhood 和其他大型股票周四走高",
         "url": "https://finnhub.io/api/news?id=f09c8c1698e312770965c7fd176ba6bff3c2ec9b9b64abbd72a6c7b76eea81ab",
         "datetime": 1782987887,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "高盛维持对 Circle Internet Group 的中性评级，并将目标股价下调至 96 美元",
-        "url": "https://finnhub.io/api/news?id=23611ab9e073698c0190445b6a6e280a03881df8651822a4393fb17cb703c271",
-        "datetime": 1782987716,
         "source": "Benzinga"
       }
     ],
@@ -1330,6 +1330,12 @@
     ],
     "SOL": [
       {
+        "headline": "SOL 随着 Solana memecoin 上涨，预测市场活动激增：多头回来了吗？",
+        "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783114562,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "随着空头挤压将比特币推向 62,000 美元，以太坊和 solana 扩大涨幅",
         "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
         "datetime": 1783055938,
@@ -1352,12 +1358,6 @@
         "url": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1782989690,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Solana 推出链上治理并将入场费设定为 100,000 SOL",
-        "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
-        "datetime": 1782976521,
-        "source": "CoinDesk"
       }
     ],
     "AAVE": [
@@ -1382,6 +1382,12 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "",
+        "url": "https://x.com/dogecoin/status/2073163674076750216",
+        "datetime": 1783115712,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "但是 DoGeCo1n 没有开发人员？！\n\n我们向所有过去和现在的建设者致敬🫡",
         "url": "https://x.com/dogecoin/status/2070764284649582603",
         "datetime": 1782543653,
@@ -1391,12 +1397,6 @@
         "headline": "PSST，企业：代码 MuchDoge 让您今天接受 doge 👀",
         "url": "https://x.com/dogecoin/status/2070602638073237852",
         "datetime": 1782505113,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "为 shibes 解决这个问题：你还能扔得更远吗？",
-        "url": "https://x.com/dogecoin/status/2070244539688730742",
-        "datetime": 1782419736,
         "source": "@dogecoin"
       }
     ],
