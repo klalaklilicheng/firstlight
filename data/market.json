@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T14:59:57.467Z",
+  "updated_at": "2026-07-04T16:05:31.079Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62616,
-      "change_pct": 0.79
+      "price": 62865,
+      "change_pct": 1.57
     },
     {
       "symbol": "ETH",
-      "price": 1769.58,
-      "change_pct": 1.91
+      "price": 1787.73,
+      "change_pct": 3.35
     },
     {
       "symbol": "SOL",
-      "price": 81.68,
-      "change_pct": 0.2
+      "price": 82.15,
+      "change_pct": 1.23
     },
     {
       "symbol": "HYPE",
-      "price": 70.57,
-      "change_pct": 0.48
+      "price": 70.56,
+      "change_pct": 0.8
     },
     {
       "symbol": "ZEC",
-      "price": 464.74,
-      "change_pct": 0.69
+      "price": 464.93,
+      "change_pct": 1.12
     },
     {
       "symbol": "TAO",
-      "price": 213.57,
-      "change_pct": -1.39
+      "price": 214.89,
+      "change_pct": -0.06
     },
     {
       "symbol": "SKY",
-      "price": 1347.92,
-      "change_pct": -0.53
+      "price": 1353.65,
+      "change_pct": 0.01
     },
     {
       "symbol": "AAVE",
-      "price": 88.9,
-      "change_pct": -1.09
+      "price": 89.57,
+      "change_pct": 0.85
     },
     {
       "symbol": "BNB",
-      "price": 574.07,
-      "change_pct": 1.54
+      "price": 576.07,
+      "change_pct": 1.93
     },
     {
       "symbol": "NEAR",
-      "price": 2.02,
-      "change_pct": -2.84
+      "price": 2.03,
+      "change_pct": 0
     },
     {
       "symbol": "DOGE",
-      "price": 0.077482,
-      "change_pct": 1.08
+      "price": 0.078375,
+      "change_pct": 2.75
     },
     {
       "symbol": "SPACEX",
-      "price": 552.94,
-      "change_pct": -0.69
+      "price": 552.31,
+      "change_pct": -0.61
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "欧洲在加密货币监管方面处于领先地位。现在实施必须与雄心相匹配",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+      "datetime": 1783173600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "欧盟采取措施阻止散户投资者参与数十亿美元预测市场的爆炸性繁荣",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+      "datetime": 1783173387,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "布林线创建者认为比特币熊市结束，“W”形反转",
       "summary": "鉴于比特币反弹，约翰·布林格 (John Bollinger) 表示，如果逆转模式完成，比特币价格走强可能会“打破”整个下降趋势。",
       "source": "Cointelegraph",
@@ -723,24 +741,6 @@
       "datetime": 1783077690,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着美国加息风险消退，加密货币多头站稳脚跟",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-      "datetime": 1783077099,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "被告提出驳回寻求 39,069 个比特币钱包所有权的纽约诉讼",
-      "summary": "一名拥有其中一个休眠比特币钱包的被告提出驳回纽约案件，该案件寻求对被视为丢失的价值 2290 亿美元的比特币的所有权。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/defendant-dismiss-new-york-lawsuit-bitcoin-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783077024,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -789,12 +789,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.3,
+    "score": 33.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
-    "weekly_score": 16.5,
-    "btc_price": 62696.4,
+    "daily_score": 17,
+    "weekly_score": 16.1,
+    "btc_price": 62948.9,
     "fear_greed": 25,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008734,
-        "score": 49,
+        "value": 0.009427,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.51,
-        "score": 67,
+        "value": 1.52,
+        "score": 68,
         "weight": 5,
         "group": "daily"
       },
@@ -876,15 +876,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.7,
+        "value": 35,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -55.8,
-        "score": 30,
+        "value": -99.8,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1076,36 +1076,36 @@
         "text": "Happy ₿irthday, America. 🇺🇸https://t.co/a3vuJckd2X",
         "url": "https://x.com/saylor/status/2073288724234792980",
         "time": "Sat Jul 04 06:12:06 +0000 2026",
-        "likes": 8538,
-        "retweets": 543
+        "likes": 9367,
+        "retweets": 594
       },
       {
         "text": "Brand, legal, political, technical, institutional, cultural, and physical power can influence Bitcoin debate, but not settle consensus. They exert second-order influence by persuading, coordinating, constraining, or mobilizing nodes, miners, and holders.",
         "url": "https://x.com/saylor/status/2073035450390888758",
         "time": "Fri Jul 03 13:25:41 +0000 2026",
-        "likes": 1584,
+        "likes": 1592,
         "retweets": 141
       },
       {
         "text": "Bitcoin’s future is shaped by dynamic consensus among nodes, miners, and holders. Influence is weighted by power: nodes by transaction power, miners by computer power, holders by economic power. Protocol changes prevail when validation, security, and capital align. $BTC",
         "url": "https://x.com/saylor/status/2073035448402710842",
         "time": "Fri Jul 03 13:25:40 +0000 2026",
-        "likes": 8435,
-        "retweets": 805
+        "likes": 8498,
+        "retweets": 810
       },
       {
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 8928,
-        "retweets": 951
+        "likes": 8972,
+        "retweets": 954
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
         "likes": 6189,
-        "retweets": 576
+        "retweets": 575
       }
     ],
     "viktorfischer": [
