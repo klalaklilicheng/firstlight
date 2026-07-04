@@ -1,45 +1,53 @@
 {
-  "updated_at": "2026-07-04T16:05:31.079Z",
+  "updated_at": "2026-07-04T18:06:34.881Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 684.84,
-      "change_pct": -0.09
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "QQQ",
-      "price": 712.6,
-      "change_pct": -1.73
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "QQQM",
-      "price": 293.42,
-      "change_pct": -1.74
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "NVDA",
-      "price": 194.83,
-      "change_pct": -1.39
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "TSLA",
-      "price": 393.45,
-      "change_pct": -7.49
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "GOOG",
-      "price": 356.18,
-      "change_pct": -0.48
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "RKLB",
-      "price": 100.46,
-      "change_pct": 0.39
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "CRCL",
-      "price": 64.62,
-      "change_pct": 4.31
+      "price": 0,
+      "change_pct": 0,
+      "error": true
     },
     {
       "symbol": "PLTR",
@@ -65,63 +73,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62865,
-      "change_pct": 1.57
+      "price": 63186,
+      "change_pct": 1.79
     },
     {
       "symbol": "ETH",
-      "price": 1787.73,
-      "change_pct": 3.35
+      "price": 1797.25,
+      "change_pct": 3.52
     },
     {
       "symbol": "SOL",
-      "price": 82.15,
-      "change_pct": 1.23
+      "price": 82.42,
+      "change_pct": 0.94
     },
     {
       "symbol": "HYPE",
-      "price": 70.56,
-      "change_pct": 0.8
+      "price": 70.49,
+      "change_pct": -0.12
     },
     {
       "symbol": "ZEC",
-      "price": 464.93,
-      "change_pct": 1.12
+      "price": 468.17,
+      "change_pct": 3.11
     },
     {
       "symbol": "TAO",
-      "price": 214.89,
-      "change_pct": -0.06
+      "price": 218,
+      "change_pct": 1.57
     },
     {
       "symbol": "SKY",
-      "price": 1353.65,
-      "change_pct": 0.01
+      "price": 1341.03,
+      "change_pct": -0.96
     },
     {
       "symbol": "AAVE",
-      "price": 89.57,
-      "change_pct": 0.85
+      "price": 90.03,
+      "change_pct": 2.13
     },
     {
       "symbol": "BNB",
-      "price": 576.07,
-      "change_pct": 1.93
+      "price": 577.57,
+      "change_pct": 1.8
     },
     {
       "symbol": "NEAR",
-      "price": 2.03,
-      "change_pct": 0
+      "price": 2.02,
+      "change_pct": 0.42
     },
     {
       "symbol": "DOGE",
-      "price": 0.078375,
-      "change_pct": 2.75
+      "price": 0.078947,
+      "change_pct": 2.78
     },
     {
       "symbol": "SPACEX",
-      "price": 552.31,
-      "change_pct": -0.61
+      "price": 561.87,
+      "change_pct": 1.22
     }
   ],
   "earnings": {
@@ -473,6 +481,42 @@
   },
   "news": [
     {
+      "headline": "世界杯刺激预测市场，Kalshi 六月交易量创历史新高",
+      "summary": "DefiLlama 数据显示，随着 FIFA 世界杯的扩大推动了预测市场活动，Kalshi 的月交易量创历史新高。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783183647,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "人工智能是加密货币的新入口——它正在挑选赢家。 2026 年 5W 加密货币信任指数根据人工智能对待 25 个品牌的方式对其进行评分。",
+      "summary": "Coinbase 是人工智能引擎最常向首次购买者推荐的品牌。五个品牌在倒闭多年后受到积极警告，包括 FTX、Celsius 和 Terra/Luna。  迈阿密，2026 年 7 月 2 日 /美通社/ — AI 通信公司 5W 今天发布了 2026 年加密货币信任指数 — 研究",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/ai-is-the-new-crypto-on-ramp-and-it-is-picking-winners-5w-crypto-trust-index-2026-scores-25-brands-by-how-ai-treats-them/",
+      "datetime": 1783181949,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "为什么比特币与创纪录高位股票的脱节不会持续下去",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+      "datetime": 1783180800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "区块链数据显示，特朗普的加密代币买家减少了 38 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
+      "datetime": 1783179052,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "欧洲在加密货币监管方面处于领先地位。现在实施必须与雄心相匹配",
       "summary": "",
       "source": "CoinDesk",
@@ -626,15 +670,6 @@
       "related": ""
     },
     {
-      "headline": "Mantle 2026 年上半年：全力构建现实世界资产的金融体系",
-      "summary": "Mantle 的链上 TVL 超过 10 亿美元，同时扩大了代币化股票、机构流动性和代理金融的基础。阿联酋迪拜，2026 年 7 月 2 日 /美通社/ — 连接传统金融和链上流动性的首要分配层 Mantle 今天分享了其 2026 年上半年的收入",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/mantle-h1-2026-building-the-financial-system-in-full-force-for-real-world-assets/",
-      "datetime": 1783095552,
-      "category": "crypto",
-      "related": ""
-    },
-    {
       "headline": "Crypto Biz：比特币极端主义符合资本市场的现实",
       "summary": "战略授权比特币销售，Open USD 挑战 USDT 和 USDC，富达捍卫比特币安全，加密货币增加 2026 年政治支出。",
       "source": "Cointelegraph",
@@ -714,33 +749,6 @@
       "datetime": 1783079133,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着熊市持续，比特币供应指标自 2022 年底以来首次发出“买入”信号",
-      "summary": "自 2022 年 11 月以来首次发出“买入”信号后，比特币供应动态表明 2026 年熊市即将结束，但分析警告称，比特币价格仍可能走低。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783078444,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "期权市场显示，比特币、以太坊交易者并未完全买入反弹",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-      "datetime": 1783078064,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Zcash 的 Ironwood 升级可能因基础设施准备就绪而面临延迟",
-      "summary": "Shielded Labs 表示，交易所、矿池和钱包可能需要更多时间来完成 Zcash 的 Z3 软件迁移并为 Ironwood 做好安全准备。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783077690,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -789,12 +797,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.1,
+    "score": 33.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17,
-    "weekly_score": 16.1,
-    "btc_price": 62948.9,
+    "weekly_score": 16.2,
+    "btc_price": 63282.8,
     "fear_greed": 25,
     "indicators": [
       {
@@ -806,15 +814,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009427,
+        "value": 0.009323,
         "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.52,
-        "score": 68,
+        "value": 1.53,
+        "score": 69,
         "weight": 5,
         "group": "daily"
       },
@@ -876,15 +884,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35,
-        "score": 25,
+        "value": 35.5,
+        "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -99.8,
-        "score": 18,
+        "value": -94.4,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1076,36 +1084,36 @@
         "text": "Happy ₿irthday, America. 🇺🇸https://t.co/a3vuJckd2X",
         "url": "https://x.com/saylor/status/2073288724234792980",
         "time": "Sat Jul 04 06:12:06 +0000 2026",
-        "likes": 9367,
-        "retweets": 594
+        "likes": 10343,
+        "retweets": 672
       },
       {
         "text": "Brand, legal, political, technical, institutional, cultural, and physical power can influence Bitcoin debate, but not settle consensus. They exert second-order influence by persuading, coordinating, constraining, or mobilizing nodes, miners, and holders.",
         "url": "https://x.com/saylor/status/2073035450390888758",
         "time": "Fri Jul 03 13:25:41 +0000 2026",
-        "likes": 1592,
+        "likes": 1602,
         "retweets": 141
       },
       {
         "text": "Bitcoin’s future is shaped by dynamic consensus among nodes, miners, and holders. Influence is weighted by power: nodes by transaction power, miners by computer power, holders by economic power. Protocol changes prevail when validation, security, and capital align. $BTC",
         "url": "https://x.com/saylor/status/2073035448402710842",
         "time": "Fri Jul 03 13:25:40 +0000 2026",
-        "likes": 8498,
-        "retweets": 810
+        "likes": 8592,
+        "retweets": 823
       },
       {
         "text": "This week at Goldman Sachs’ Digital Assets Conference in London, I discussed Bitcoin, Digital Credit, and the future of capital markets. Extraordinary venue. Exceptional audience. https://t.co/z5Ji66WbYu",
         "url": "https://x.com/saylor/status/2072760137840779609",
         "time": "Thu Jul 02 19:11:41 +0000 2026",
-        "likes": 8972,
-        "retweets": 954
+        "likes": 9022,
+        "retweets": 962
       },
       {
         "text": "Which stock is MoST inteResting? $MSTR https://t.co/QhFtCHFyoH",
         "url": "https://x.com/saylor/status/2072668325553815888",
         "time": "Thu Jul 02 13:06:51 +0000 2026",
-        "likes": 6189,
-        "retweets": 575
+        "likes": 6190,
+        "retweets": 577
       }
     ],
     "viktorfischer": [
@@ -1149,37 +1157,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "卖空者认为，英伟达公司（NVDA）是最值得买入的机器人股票吗？",
-        "url": "https://finnhub.io/api/news?id=44470e468766e97ad222b455616f317d7d560768cce1b03be7bdcb13528060be",
-        "datetime": 1783172864,
+        "headline": "Nebius 股价为何在 6 月份暴涨 20%？",
+        "url": "https://finnhub.io/api/news?id=5a8735bfe092f5c0e1bc048a1e410abe2dc3f137c4f8365fd5e89ec20a8e0d07",
+        "datetime": 1783179711,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊 (AMZN) 是现在最值得购买的人工智能和科技股票之一吗？",
-        "url": "https://finnhub.io/api/news?id=e7fb9ff81d9114c33ec41f20767cab6358e7f5c70b935d17269c2a2e6d791317",
-        "datetime": 1783172636,
+        "headline": "预测：随着成本削减和销量恢复推动股价走高，Coinbase 的上涨空间超过 100%",
+        "url": "https://finnhub.io/api/news?id=3dec2165d2092ba6a046d8fb7cc237f0169bc331d2470f14c052246ec432db5e",
+        "datetime": 1783178783,
         "source": "Yahoo"
       },
       {
-        "headline": "Netflix VS.华特迪士尼：Netflix 印刷冷硬现金，而迪士尼则流血资助公园和线性电缆遗迹",
-        "url": "https://finnhub.io/api/news?id=0fa0aaeb3131897dd7d4c317128e0efab46d4298cdc0785a66f1c66ada41492b",
-        "datetime": 1783172350,
+        "headline": "Green Thumb 股票是否超卖？ 100% 上涨空间的案例。",
+        "url": "https://finnhub.io/api/news?id=85d89358cb95ca1f13d418c3970a71e0989dc7a9c6e9e9187811ff5551b90590",
+        "datetime": 1783178400,
         "source": "Yahoo"
       },
       {
-        "headline": "7500亿美元的人工智能支出浪潮：你应该购买这3只人工智能基础设施股票吗？",
-        "url": "https://finnhub.io/api/news?id=eeb8eedeb778679846aee311ee4889590aac1de3e973e5abeba2ed93f19ba160",
-        "datetime": 1783171799,
+        "headline": "一种新的稳定币瞄准了 Circle 的 USDC。以下是投资者需要了解的内容。",
+        "url": "https://finnhub.io/api/news?id=f7e540a5b75f3de88115b966aeed7cde57307f3af6d0168808e4898d944c9078",
+        "datetime": 1783177860,
         "source": "Yahoo"
       },
       {
-        "headline": "这是 SpaceX 内部人士向散户投资者抛售股票的准确时间表",
-        "url": "https://finnhub.io/api/news?id=ddef51ed7e66def8bbc774f01d33dbf5318255185da1229772e1b69548100bee",
-        "datetime": 1783171560,
+        "headline": "Palantir 与 Nvidia 人工智能联盟加倍致力于国家安全",
+        "url": "https://finnhub.io/api/news?id=137f950a215d4c4db756b5742a161fc6f5a90c3cb0cdb17bd14c4534d976dc5d",
+        "datetime": 1783177620,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "它去年悄悄退出了比特币挖矿——现在这家 Meta 的人工智能供应商正在追逐 300 亿美元的估值",
+        "url": "https://finnhub.io/api/news?id=204734aaccabaabe0fa55c7547a75d20a3288f05120c61b2486b74ca51916ad4",
+        "datetime": 1783178478,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "阿格斯维持 Alphabet (GOOGL) 股票的买入评级",
+        "url": "https://finnhub.io/api/news?id=4ac527c85dddc20021667347dd690f7b4c31d2268bff317adf6ca6e3eda67834",
+        "datetime": 1783174136,
+        "source": "Yahoo"
+      },
       {
         "headline": "为什么 Alphabet Inc (GOOGL) 为客户配给 Gemini 访问权限",
         "url": "https://finnhub.io/api/news?id=12489a8216f4305be0f75161566ebfc80cae7cb13c665d74842ba7aa180e6079",
@@ -1196,18 +1216,6 @@
         "headline": "FactSet 与 Google Cloud (GOOGL) 合作将 Gemini AI 集成到金融平台",
         "url": "https://finnhub.io/api/news?id=15d53ebfb01c7a60e511b6f5876f24f2a01c602c7817124c3d786775bf77cea3",
         "datetime": 1783169637,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet Inc-CL C（纳斯达克股票代码：GOOG）成为具有良好技术设置的强劲增长股票",
-        "url": "https://finnhub.io/api/news?id=8914326b7ca6d8cc669316ef84e56e299f6eaf59042fb1da53c8e7ff289fd088",
-        "datetime": 1783167628,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "Alphabet 正式加入道琼斯指数。这 3 只道指股息股票是 7 月份更值得买入的股票。",
-        "url": "https://finnhub.io/api/news?id=7ba284b8deb516f2d21052297424cf0fb9c34a1dee5460aefc9063b7cf634ff1",
-        "datetime": 1783163040,
         "source": "Yahoo"
       }
     ],
@@ -1278,6 +1286,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "为什么比特币与创纪录高位股票的脱节不会持续下去",
+        "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+        "datetime": 1783180800,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "布林线创建者认为比特币熊市结束，“W”形反转",
         "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783170556,
@@ -1300,22 +1314,9 @@
         "url": "https://cointelegraph.com/markets/bitcoin-ether-extend-relief-rallies-as-extreme-fear-meets-renewed-etf-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783137258,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币损益率跌至 43 个月低点",
-        "url": "https://cointelegraph.com/news/bitcoin-realized-profit-loss-ratio-falls-to-lowest-level-since-2022-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783130643,
-        "source": "Cointelegraph"
       }
     ],
-    "ETH": [
-      {
-        "headline": "以太坊机构的推出得到了整个以太坊生态系统的支持",
-        "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
-        "datetime": 1782940404,
-        "source": "CoinDesk"
-      }
-    ],
+    "ETH": [],
     "SOL": [
       {
         "headline": "SOL 随着 Solana memecoin 上涨，预测市场活动激增：多头回来了吗？",
