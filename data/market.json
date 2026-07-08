@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T05:15:19.419Z",
+  "updated_at": "2026-07-08T08:12:02.467Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62761,
-      "change_pct": -0.15
+      "price": 62783,
+      "change_pct": -0.45
     },
     {
       "symbol": "ETH",
-      "price": 1755.8,
-      "change_pct": -0.18
+      "price": 1755.33,
+      "change_pct": -0.89
     },
     {
       "symbol": "SOL",
-      "price": 78.65,
-      "change_pct": -2.62
+      "price": 78.28,
+      "change_pct": -3.79
     },
     {
       "symbol": "HYPE",
-      "price": 68.32,
-      "change_pct": -2.08
+      "price": 68.26,
+      "change_pct": -3.28
     },
     {
       "symbol": "ZEC",
-      "price": 482.83,
-      "change_pct": 8.51
+      "price": 477.59,
+      "change_pct": 5.29
     },
     {
       "symbol": "TAO",
-      "price": 208.83,
-      "change_pct": -0.38
+      "price": 207.82,
+      "change_pct": -2.06
     },
     {
       "symbol": "SKY",
-      "price": 1237.86,
-      "change_pct": -2.8
+      "price": 1233.28,
+      "change_pct": -4.98
     },
     {
       "symbol": "AAVE",
-      "price": 88.56,
-      "change_pct": -2.9
+      "price": 89.01,
+      "change_pct": -4.77
     },
     {
       "symbol": "BNB",
-      "price": 569.27,
-      "change_pct": -1.43
+      "price": 567.67,
+      "change_pct": -1.58
     },
     {
       "symbol": "NEAR",
-      "price": 1.92,
-      "change_pct": -3.78
+      "price": 1.91,
+      "change_pct": -5.55
     },
     {
       "symbol": "DOGE",
-      "price": 0.072645,
-      "change_pct": -2.57
+      "price": 0.072416,
+      "change_pct": -3.22
     },
     {
       "symbol": "SPACEX",
-      "price": 559.6,
-      "change_pct": -1.21
+      "price": 560.7,
+      "change_pct": -0.37
     }
   ],
   "earnings": {
@@ -473,6 +473,51 @@
   },
   "news": [
     {
+      "headline": "欧盟再次投票延长“聊天控制”规则",
+      "summary": "欧盟可能会恢复所谓的“聊天控制”规则，立法者将于周四再次对该立法进行投票。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783492426,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "StarkWare 首席执行官建议比特币年通胀率达到 4%，以取代 2100 万上限",
+      "summary": "StarkWare 首席执行官 Eli Ben-Sasson 认为，比特币私钥会随着时间的推移而丢失，这意味着可用的比特币数量会随着时间的推移而减少。许多人不同意。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783489722,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Swyftx 在获得澳大利亚牌照后着眼于加密支付",
+      "summary": "Swyftx 临时联席首席执行官 Andrea Yuen 表示，在获得允许提供支付服务的许可证后，该公司“未来不会成为纯粹的加密货币现货交易所”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/swyftx-eyes-crypto-payments-space-after-securing-australian-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783488603,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时市场：日本日元贬值正推动企业转向比特币和 XRP",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+      "datetime": 1783488556,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美伊局势升级提振油价，比特币承压",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
+      "datetime": 1783485024,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Secret Network 在拟议的 Arbitrum 举措中引用了人工智能利用风险",
       "summary": "“安全风险是我们最重视的部分，”该团队表示，并引用了旧代码和人工智能利用风险。",
       "source": "Cointelegraph",
@@ -696,51 +741,6 @@
       "datetime": 1783437205,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币契约第 3 部分：SIGHASH_ANYPREVOUT",
-      "summary": "APO 让比特币签名授权任何兼容的 UTXO，而不是一个固定的出点。它允许针对闪电网络、保险库和第 2 层协议进行可重新绑定的预签名交易，而无需新的密钥管理开销。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-3-sighash-anyprevout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783436400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "链上资本如何惠及欧洲服务不足的中小企业",
-      "summary": "RWA 代币化的新模式可以让中小企业使用有形资产作为抵押品获得信贷。一份新的 Cointelegraph 研究报告提出了一个案例研究。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/research/how-onchain-capital-can-reach-europes-underserved-smes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783436400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "我们正在削减轮换获胜者并添加令人兴奋的新股票",
-      "summary": "我们最新一只股票的尾盘反转为我们提供了购买更多股票的机会。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/07/were-trimming-a-rotation-winner-and-adding-to-an-exciting-new-stock-.html",
-      "datetime": 1783435381,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "随着 IPO 后研究的开始，分析师认为 SpaceX 有更多上涨空间",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins",
-      "datetime": 1783435164,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "先锋集团开始寻找数字资产领导者，这是加密战略不断发展的迹象",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
-      "datetime": 1783434517,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -805,12 +805,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.8,
+    "score": 32,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
-    "weekly_score": 16.5,
-    "btc_price": 62804.3,
+    "daily_score": 15.4,
+    "weekly_score": 16.6,
+    "btc_price": 62806.4,
     "fear_greed": 28,
     "indicators": [
       {
@@ -822,15 +822,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000166,
+        "value": 0.00077,
         "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.58,
-        "score": 72,
+        "value": 1.63,
+        "score": 75,
         "weight": 5,
         "group": "daily"
       },
@@ -843,7 +843,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.29,
+        "value": 1.27,
         "score": 26,
         "weight": 12,
         "group": "weekly"
@@ -899,8 +899,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -65.8,
-        "score": 27,
+        "value": -58.9,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1025,7 +1025,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1464,
+        "likes": 1465,
         "retweets": 77
       },
       {
@@ -1055,8 +1055,8 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 566,
-        "retweets": 33
+        "likes": 580,
+        "retweets": 35
       },
       {
         "text": "last world cup final was the greatest *final* of all time\n\nthis world cup is already turning out to be the greatest *world cup* of all time full stop",
@@ -1092,36 +1092,36 @@
         "text": "One of the most misunderstood $MSTR metrics is BTC Breakeven ARR. If BTC appreciates faster than 3.3% over time, BTC capital gains can fund $STRC dividends indefinitely.",
         "url": "https://x.com/saylor/status/2074565734651277735",
         "time": "Tue Jul 07 18:46:29 +0000 2026",
-        "likes": 5370,
-        "retweets": 519
+        "likes": 5703,
+        "retweets": 578
       },
       {
         "text": "These were the Q2 quarterly dividends on $STRF, $STRE, $STRK, and $STRD, and the full monthly dividend for June on $STRC.",
         "url": "https://x.com/saylor/status/2074101857610268746",
         "time": "Mon Jul 06 12:03:12 +0000 2026",
-        "likes": 1991,
+        "likes": 1994,
         "retweets": 102
       },
       {
         "text": "Strategy has sold 3,588 $BTC for $216 million to fund dividends on our Digital Credit securities. As of 7/5/2026, we hodl ₿843,775 in our BTC Reserves and $2.55 billion in our USD Reserves. https://t.co/Cssgz29Psj",
         "url": "https://x.com/saylor/status/2074101854875656316",
         "time": "Mon Jul 06 12:03:11 +0000 2026",
-        "likes": 20385,
-        "retweets": 2503
+        "likes": 20464,
+        "retweets": 2520
       },
       {
         "text": "Bitcoin will evolve by changing less at the protocol layer and mattering more everywhere else.\n\nThe base layer will harden.\nThe capital markets will deepen.\nDigital Credit will expand.\n\nThe world will build on Bitcoin. $BTC",
         "url": "https://x.com/saylor/status/2073996875523338746",
         "time": "Mon Jul 06 05:06:02 +0000 2026",
-        "likes": 6430,
-        "retweets": 765
+        "likes": 6432,
+        "retweets": 766
       },
       {
         "text": "Bitcoin is Digital Energy. https://t.co/6j1RasOjs5",
         "url": "https://x.com/saylor/status/2073739030659760261",
         "time": "Sun Jul 05 12:01:27 +0000 2026",
         "likes": 16113,
-        "retweets": 1765
+        "retweets": 1764
       }
     ],
     "viktorfischer": [
@@ -1165,6 +1165,24 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "标准普尔 500 指数在 2026 年上半年回报了 10%。这对于历史上所说的接下来会发生的事情来说是个好消息。",
+        "url": "https://finnhub.io/api/news?id=cf47f8acf87b0934cd67a0d71b1b77693f5d1b37f6d75947f3fa65131850aae0",
+        "datetime": 1783488120,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "你现在应该购买 SpaceX 股票吗？",
+        "url": "https://finnhub.io/api/news?id=5e5379f88d6de244122caee0898ea404f8f2b1e02b8db52d51511f518a9c5602",
+        "datetime": 1783486200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Netflix 股价为何在 6 月份下跌 17%",
+        "url": "https://finnhub.io/api/news?id=86810b20984d5728a737276b22588e4a7f7a1d0d632cf82212223a41e1d135fe",
+        "datetime": 1783484400,
+        "source": "Yahoo"
+      },
+      {
         "headline": "为何 Meta 平台 6 月份收盘下跌 11%",
         "url": "https://finnhub.io/api/news?id=d15b1e9deb0c99bbe612802035d9b72ea3eed1e8e250bea91988cb20885f398c",
         "datetime": 1783481700,
@@ -1175,27 +1193,27 @@
         "url": "https://finnhub.io/api/news?id=b41fefdad013a03f064cf0678a488c23051e8ccf264f74d11beba5bc943475a2",
         "datetime": 1783480800,
         "source": "Yahoo"
-      },
-      {
-        "headline": "指数投资者：这就是为什么下一波科技 IPO 可能重塑您的被动策略",
-        "url": "https://finnhub.io/api/news?id=a22fd0c491a9d496e4c6314481231bb0c7fb19bf4ac0a94782e17f315a1e930b",
-        "datetime": 1783479000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "罗斯·格伯 (Ross Gerber) 表示，即使 SK 海力士 (SK Hynix) 美国首秀临近，奇普 (Chip) 仍为那些想要退休的人出售“一份礼物”：“被非常短视的思维所俘获”",
-        "url": "https://finnhub.io/api/news?id=71d798d967c74e1fdc0e617d25f73aac542dd77cad4715a7fb0e9868b1b709e5",
-        "datetime": 1783478849,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "更好的买入：SpaceX 与这两只人工智能股票",
-        "url": "https://finnhub.io/api/news?id=b99e31ae56ca16bb23e73f24ab3073df2c6983e02be86c1ed46110d826c016d5",
-        "datetime": 1783477200,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "未来十年您可以购买并持有的 2 只科技股",
+        "url": "https://finnhub.io/api/news?id=cd7f64dad894bfc165c9dc9765be8612541ab2a0a14b0323388cf7f9c4d91119",
+        "datetime": 1783496100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Meta 首席执行官马克·扎克伯格刚刚为投资者带来了好消息",
+        "url": "https://finnhub.io/api/news?id=67ac577b37c462e291eeace6aab6c9cf863e728cf5e8f14f05aee62661121dbd",
+        "datetime": 1783493100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "对冲正在消失。这是一个巨大的市场风险。",
+        "url": "https://finnhub.io/api/news?id=28742dc02f05cb5f701efa894d5f07037bee5e2fc8ba009262712d0b279722a7",
+        "datetime": 1783488600,
+        "source": "Yahoo"
+      },
       {
         "headline": "2026 年 Meta 有多少员工？其员工、地点和裁员情况解释",
         "url": "https://finnhub.io/api/news?id=e23624e23f3fb0214f8c6c8d3ee1843119bd0e8e98f59d754d65043d5c348975",
@@ -1206,24 +1224,6 @@
         "headline": "NFLX、DIS、YouTube 希望获得 FIFA 的世界杯美国转播权——为何一场 20 亿美元的竞购战正在酝酿之中",
         "url": "https://finnhub.io/api/news?id=46debb4b53d798cfb5246d562adcdf72edae717599cf40d8b812dcbeea860134",
         "datetime": 1783469458,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "IAA MOBILITY 2027 现已开放报名 - 需求破纪录 - 一半以上的建筑面积已占满",
-        "url": "https://finnhub.io/api/news?id=7b159a0fbc920c8885c7f886babfb1276c0f91659d1a4bb78b32042843a10bd9",
-        "datetime": 1783468800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Netflix、迪士尼和 YouTube 目标是为下一届世界杯提供 20 亿美元的国际足联转播权 - CNBC",
-        "url": "https://finnhub.io/api/news?id=7a72e954b2a0d5a28e70623756a767238643c9cb2d87caede9e4c9b36ccb1901",
-        "datetime": 1783463595,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "最值得购买的通信服务股票",
-        "url": "https://finnhub.io/api/news?id=a410e690f2ecd63647f8fb5e9e026520d3035eec6e49ab0efa5ee1101e82efd8",
-        "datetime": 1783462502,
         "source": "Yahoo"
       }
     ],
@@ -1294,6 +1294,24 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "StarkWare 首席执行官建议比特币年通胀率达到 4%，以取代 2100 万上限",
+        "url": "https://cointelegraph.com/news/starkware-ceo-suggests-4-annual-bitcoin-inflation-to-replace-21m-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783489722,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "实时市场：日本日元贬值正推动企业转向比特币和 XRP",
+        "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+        "datetime": 1783488556,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "美伊局势升级提振油价，比特币承压",
+        "url": "https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil",
+        "datetime": 1783485024,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Strike在熊市期间推出“防波动”比特币贷款，但付出了代价",
         "url": "https://cointelegraph.com/news/strike-launches-volatility-proof-bitcoin-loans-amid-bear-market-but-at-what-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783478413,
@@ -1303,24 +1321,6 @@
         "headline": "新罕布什尔州立法者将就 1 亿美元比特币债券举行听证会",
         "url": "https://cointelegraph.com/news/new-hampshire-hearing-bitcoin-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783457129,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着区块链金融在拉丁美洲的扩张，Tether 投资了 Mercado Bitcoin",
-        "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783442587,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "美光科技股价因美国芯片抛售而下跌 10%，比特币多头争夺 6.3 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-bulls-battle-for-63k-as-micron-stock-eyes-10-drop-in-us-chip-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783437205,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币契约第 3 部分：SIGHASH_ANYPREVOUT",
-        "url": "https://cointelegraph.com/research/bitcoin-covenants-part-3-sighash-anyprevout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783436400,
         "source": "Cointelegraph"
       }
     ],
