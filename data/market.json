@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T22:06:11.815Z",
+  "updated_at": "2026-07-09T00:02:43.459Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62221,
-      "change_pct": -1.82
+      "price": 62238,
+      "change_pct": -1.75
     },
     {
       "symbol": "ETH",
-      "price": 1738.95,
-      "change_pct": -1.99
+      "price": 1742.12,
+      "change_pct": -1.66
     },
     {
       "symbol": "SOL",
-      "price": 77.25,
-      "change_pct": -4.18
+      "price": 77.75,
+      "change_pct": -3.53
     },
     {
       "symbol": "HYPE",
-      "price": 67.12,
-      "change_pct": -2.97
+      "price": 67.63,
+      "change_pct": -2.21
     },
     {
       "symbol": "ZEC",
-      "price": 464.72,
-      "change_pct": -3.7
+      "price": 465.49,
+      "change_pct": -3.76
     },
     {
       "symbol": "TAO",
-      "price": 203.72,
-      "change_pct": -3.88
+      "price": 204.56,
+      "change_pct": -3.12
     },
     {
       "symbol": "SKY",
-      "price": 1300.6,
-      "change_pct": 2.86
+      "price": 1299.02,
+      "change_pct": 3.43
     },
     {
       "symbol": "AAVE",
-      "price": 88.35,
-      "change_pct": -2.47
+      "price": 88.2,
+      "change_pct": -1.9
     },
     {
       "symbol": "BNB",
-      "price": 566.82,
-      "change_pct": -1.97
+      "price": 568.26,
+      "change_pct": -1.42
     },
     {
       "symbol": "NEAR",
-      "price": 1.88,
-      "change_pct": -4.96
+      "price": 1.89,
+      "change_pct": -4.44
     },
     {
       "symbol": "DOGE",
-      "price": 0.072581,
-      "change_pct": -1.82
+      "price": 0.072329,
+      "change_pct": -2.47
     },
     {
       "symbol": "SPACEX",
-      "price": 532.06,
-      "change_pct": -5.09
+      "price": 536.96,
+      "change_pct": -3.81
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "比特币跌回 6 万美元关键支撑位：抛售压力背后是什么？",
+      "summary": "由于油价飙升、日本经济蔓延风险以及Strategy的新一轮抛售，比特币面临新的抛售压力。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783547717,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "代币化股票转让一个月内飙升 105% 至 $8.4B",
       "summary": "行业数据显示，随着加密货币公司和传统金融机构扩大代币化股权计划，交易活动和市场价值不断加速。",
       "source": "Cointelegraph",
@@ -546,7 +555,7 @@
     },
     {
       "headline": "PlayChange 宣布全国电子游戏日“第一轮”，标志着运动员拥有的游戏进入下一阶段",
-      "summary": "协调发布包括 8 月演示版本、CryptoBoxers 路线图、社区会员资格、在线商店、独立艺术家计划和社区资助活动 亚特兰大，2026 年 7 月 7 日 /美通社/ — 为了庆祝全国视频游戏日，PlayChange.io 宣布了第一轮，这是一项重大成就",
+      "summary": "Coordinated Launch Includes August Demo Release, CryptoBoxers Roadmap, Community Memberships, Online Store, Independent Artist Initiative, and Community Funding Campaign ATLANTA, July 7, 2026 /PRNewswire/ — In celebration of National Video Game Day, PlayChange.io has announced Round One, a major lau",
       "source": "Cryptocurrency News",
       "url": "https://cryptocurrencynews.com/crypto/playchange-announces-round-one-for-national-video-game-day-marking-next-phase-of-athlete-owned-gaming/",
       "datetime": 1783527547,
@@ -732,15 +741,6 @@
       "datetime": 1783510831,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "移动应用程序Toss和区块链乐观地进行韩元稳定币POC：报告",
-      "summary": "据报道，Toss 已与 Optimism 和 Sunnyside Labs 合作，对基于韩元的稳定币支付的可行性进行概念验证。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783510391,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -800,32 +800,32 @@
     }
   ],
   "btc_score": {
-    "score": 33.1,
+    "score": 32.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.4,
-    "weekly_score": 16.7,
-    "btc_price": 62231.4,
+    "daily_score": 15.9,
+    "weekly_score": 16.8,
+    "btc_price": 62301.4,
     "fear_greed": 28,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 21500000,
-        "score": 51,
+        "value": -10900000,
+        "score": 49,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.009234,
-        "score": 50,
+        "value": 0.00616,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.79,
-        "score": 86,
+        "value": 1.78,
+        "score": 85,
         "weight": 5,
         "group": "daily"
       },
@@ -873,7 +873,7 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.69,
+        "value": 0.7,
         "score": 13,
         "weight": 6,
         "group": "weekly"
@@ -894,8 +894,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -48.1,
-        "score": 32,
+        "value": -42.5,
+        "score": 33,
         "weight": 4,
         "group": "weekly"
       }
@@ -904,7 +904,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 21
+      "days_until": 20
     },
     "schedule": [
       "2025-01-29",
@@ -1050,7 +1050,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 614,
+        "likes": 616,
         "retweets": 38
       },
       {
@@ -1087,35 +1087,35 @@
         "text": "After a decade of blockspace fears and non-monetary-use panics, Bitcoin still has no spam problem. Fees are 1 sat/vB: anyone can move any amount globally with immediate processing for ~$0.30. The free market has always solved Bitcoin’s blockspace challenges. $BTC https://t.co/EpHk6p7A6D",
         "url": "https://x.com/saylor/status/2074887855868915781",
         "time": "Wed Jul 08 16:06:29 +0000 2026",
-        "likes": 5652,
-        "retweets": 675
+        "likes": 6209,
+        "retweets": 756
       },
       {
         "text": "$BTC is Digital Capital. \n$STRC is Digital Credit. \n$MSTR is Digital Equity. \nDifferent instruments for different investors. \nOne Bitcoin Strategy.",
         "url": "https://x.com/saylor/status/2074802924224479545",
         "time": "Wed Jul 08 10:28:59 +0000 2026",
-        "likes": 7477,
-        "retweets": 756
+        "likes": 7698,
+        "retweets": 781
       },
       {
         "text": "One of the most misunderstood $MSTR metrics is BTC Breakeven ARR. If BTC appreciates faster than 3.3% over time, BTC capital gains can fund $STRC dividends indefinitely.",
         "url": "https://x.com/saylor/status/2074565734651277735",
         "time": "Tue Jul 07 18:46:29 +0000 2026",
-        "likes": 6528,
-        "retweets": 711
+        "likes": 6569,
+        "retweets": 719
       },
       {
         "text": "These were the Q2 quarterly dividends on $STRF, $STRE, $STRK, and $STRD, and the full monthly dividend for June on $STRC.",
         "url": "https://x.com/saylor/status/2074101857610268746",
         "time": "Mon Jul 06 12:03:12 +0000 2026",
         "likes": 2000,
-        "retweets": 104
+        "retweets": 105
       },
       {
         "text": "Strategy has sold 3,588 $BTC for $216 million to fund dividends on our Digital Credit securities. As of 7/5/2026, we hodl ₿843,775 in our BTC Reserves and $2.55 billion in our USD Reserves. https://t.co/Cssgz29Psj",
         "url": "https://x.com/saylor/status/2074101854875656316",
         "time": "Mon Jul 06 12:03:11 +0000 2026",
-        "likes": 20565,
+        "likes": 20559,
         "retweets": 2528
       }
     ],
@@ -1160,97 +1160,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Bitmine Immersion Technologies股价今年下跌46%：是时候转向Strategy还是Circle Internet Group了？",
-        "url": "https://finnhub.io/api/news?id=1436a2c7e3e166cab1e184856b80b960854feaa6e154f3325cc78c8073d710f2",
-        "datetime": 1783539899,
+        "headline": "埃隆·马斯克 (Elon Musk) 的人工智能就业预测遭到严酷的现实检验",
+        "url": "https://finnhub.io/api/news?id=d880cb0b602368fa9113b441949ceed9a16e386882164892ccfb8b6692af0f6b",
+        "datetime": 1783547220,
         "source": "Yahoo"
       },
       {
-        "headline": "您应该在 7 月 23 日之前购买英特尔股票吗？",
-        "url": "https://finnhub.io/api/news?id=68a9e1bd7642bdc432621e59ede5e98e70d8532578d40723c793cd83b9b4ebfe",
-        "datetime": 1783539780,
+        "headline": "道琼斯期货：伊朗消息导致油价飙升，但英伟达、瓦莱罗、戴尔上涨； SpaceX 触及新低",
+        "url": "https://finnhub.io/api/news?id=278c70057720c2ca03bfe9a4b5ebfa753bdb376ba58d46b567e240abec53057f",
+        "datetime": 1783546962,
         "source": "Yahoo"
       },
       {
-        "headline": "行业动态：科技股午后上涨",
-        "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c",
-        "datetime": 1783539576,
+        "headline": "在阅读本文之前，请勿购买联合健康集团 (UNH) 股票",
+        "url": "https://finnhub.io/api/news?id=b0c357e62d548d26c567896695f05238e9d8d12b75d4173ec8864dd3396ba068",
+        "datetime": 1783545900,
         "source": "Yahoo"
       },
       {
-        "headline": "英伟达股票幻灯片。 DeepSeek开发自己的AI芯片",
-        "url": "https://finnhub.io/api/news?id=ef3eedb51ba7c333f4883b02a29f59e375b74d019c5f8060b1cbdca69a5c9b9a",
-        "datetime": 1783539454,
+        "headline": "Alphabet 的人工智能 (AI) 投资热潮对 Nvidia 来说是个好消息",
+        "url": "https://finnhub.io/api/news?id=c9f3e0e9a39b82aa80067f86462751ace977a07ab867db9e60f35a9c24c1114a",
+        "datetime": 1783545600,
         "source": "Yahoo"
       },
       {
-        "headline": "联发科鬼故事刚刚将世界上最强大的定制硅巨头纳入 25% 折扣区",
-        "url": "https://finnhub.io/api/news?id=6e599170732999198fc4a241637c6412d7c81197b65c0c68ead133ac046a499d",
-        "datetime": 1783539389,
+        "headline": "为什么 Astera Labs 股票上个月飙升",
+        "url": "https://finnhub.io/api/news?id=ffd76f5cc1ad67a1a62522584f6fb82a3d19d3becbc25c0aaaef6dd09a09d53d",
+        "datetime": 1783545352,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Alphabet 的人工智能 (AI) 投资热潮对 Nvidia 来说是个好消息",
+        "url": "https://finnhub.io/api/news?id=c9f3e0e9a39b82aa80067f86462751ace977a07ab867db9e60f35a9c24c1114a",
+        "datetime": 1783545600,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Why SpaceX’s Multi-Billion Dollar Debt Sale Is Already Losing Money for Investors",
+        "url": "https://finnhub.io/api/news?id=4b45bc7c2865ad942ac7699c1817df74f3242b2e9dbf679cef36b722798b9a80",
+        "datetime": 1783544580,
+        "source": "Yahoo"
+      },
+      {
         "headline": "联发科鬼故事刚刚将世界上最强大的定制硅巨头纳入 25% 折扣区",
         "url": "https://finnhub.io/api/news?id=6e599170732999198fc4a241637c6412d7c81197b65c0c68ead133ac046a499d",
         "datetime": 1783539389,
         "source": "Yahoo"
       },
       {
-        "headline": "英镑基础设施应该很快就会恢复势头",
-        "url": "https://finnhub.io/api/news?id=6a5ad2f4f799b7720171f1f9bda36bd06eb8498df2b2a206ca35262718bff21f",
-        "datetime": 1783535100,
+        "headline": "亚马逊“出人意料”地发售 250 亿美元债券，以额外收益吸引买家，同时也对人工智能热潮发出了警告信号",
+        "url": "https://finnhub.io/api/news?id=a657e727e0c6478fe4018d528f2ca112ffbc69f0a21551a125f12de0e7230ba2",
+        "datetime": 1783538918,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌因强烈反对而禁止预测市场交易",
-        "url": "https://finnhub.io/api/news?id=a667afe4b33c06a2ee42e9716c9f81b3f8b7cc780e4a5bc7a2ca85519c36d513",
-        "datetime": 1783534320,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "超越汽车：医疗保健自动化推动机器人 ETF 的下一步发展",
-        "url": "https://finnhub.io/api/news?id=ab294aeeedf3bdd2dc056a6141333f005547f7b51c858f341bb42fee42682199",
-        "datetime": 1783533840,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "行业动态：消费品股在下午交易中走低",
-        "url": "https://finnhub.io/api/news?id=a113087fca555599087d1f62e2f754ff9e6ce2e07c88dee1bc7fb32fdaaeeb31",
-        "datetime": 1783533024,
+        "headline": "谷歌一年内向他支付了 986,000 美元。这就是他仍然离开的原因：“改变生活的钱”",
+        "url": "https://finnhub.io/api/news?id=8860c7d1efcfd39c5a6b50478c82d3f895ea157df79482f6d85bbd1759e8ded9",
+        "datetime": 1783538165,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "您的太阳能电池板可用于为人工智能数据中心供电",
-        "url": "https://finnhub.io/api/news?id=e2e90cdd2542e418d284356d76ff91653f50e35c20fd0aead42e8cd62af35591",
-        "datetime": 1783536060,
+        "headline": "埃隆·马斯克 (Elon Musk) 的人工智能就业预测遭到严酷的现实检验",
+        "url": "https://finnhub.io/api/news?id=d880cb0b602368fa9113b441949ceed9a16e386882164892ccfb8b6692af0f6b",
+        "datetime": 1783547220,
         "source": "Yahoo"
       },
       {
-        "headline": "“大空头”迈克尔·伯里再次做空英伟达和特斯拉",
-        "url": "https://finnhub.io/api/news?id=88bfa91d76e4fd70786c9e6f0c857d8bd06fef5d5fc8373f5750a7e0b71b91ad",
-        "datetime": 1783535637,
+        "headline": "ARKK 的下跌历史伴随着警告",
+        "url": "https://finnhub.io/api/news?id=affa1ecdc2099cfda0ceffe7618cc24d3eaec5bb72a1d9a47f9494853ded6ae2",
+        "datetime": 1783543617,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 Tesla 和 SpaceX 的合并还不确定",
-        "url": "https://finnhub.io/api/news?id=902cd3d103f6a922f49ecb29302777fd8e52efb52b42e2650a2821ffcac92b9d",
-        "datetime": 1783535280,
+        "headline": "特斯拉、美国银行和默克的顶级研究报告",
+        "url": "https://finnhub.io/api/news?id=cad5ed53bd8a2b4b54d307f8fa766bc06c0d53359b5fdc9884250cb3c2debfec",
+        "datetime": 1783542540,
         "source": "Yahoo"
       },
       {
-        "headline": "超越汽车：医疗保健自动化推动机器人 ETF 的下一步发展",
-        "url": "https://finnhub.io/api/news?id=ab294aeeedf3bdd2dc056a6141333f005547f7b51c858f341bb42fee42682199",
-        "datetime": 1783533840,
+        "headline": "尽管交付量创纪录，特斯拉股价仍下跌 7%",
+        "url": "https://finnhub.io/api/news?id=84f36af1a9e8fbe82fbb82e68801d0bde0ae8b2615279a63c60d0d9cd54090e8",
+        "datetime": 1783542300,
         "source": "Yahoo"
       },
       {
-        "headline": "价格预测：特斯拉三年后将按此价格交易",
-        "url": "https://finnhub.io/api/news?id=77161548396922d992f976dc92497d3b9012b8eed761d2539e66521d471d7a5a",
-        "datetime": 1783533613,
+        "headline": "行业动态：消费类股在午后交易中走低",
+        "url": "https://finnhub.io/api/news?id=f50e6aa4c48f78041b67bd58bfc134f136721f8124eef94b0b04ceb2e0706d60",
+        "datetime": 1783540068,
         "source": "Yahoo"
       }
     ],
@@ -1289,6 +1289,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "比特币跌回 6 万美元关键支撑位：抛售压力背后是什么？",
+        "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783547717,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "随着美联储谨慎的期货交易员降低风险，比特币回落至 6.2 万美元：比特币涨势结束了吗？",
         "url": "https://cointelegraph.com/markets/bitcoin-peels-back-to-62k-as-fed-wary-futures-traders-cut-risk-is-the-btc-rally-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783536085,
@@ -1310,12 +1316,6 @@
         "headline": "Bull Bitcoin要求法国法院推翻DAC8实施令",
         "url": "https://cointelegraph.com/news/bull-bitcoin-legal-action-france-dac8?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1783517804,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "分析称“教科书式比特币底部”正在形成，比特币投机者成为焦点",
-        "url": "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783515546,
         "source": "Cointelegraph"
       }
     ],
@@ -1378,7 +1378,7 @@
     "HYPE": [],
     "TAO": [
       {
-        "headline": "挖掘 SHA-256 哈希值是过去十年中最赚钱的计算。\n\n比特币美元\n\n挖掘数字智能将是未来十年最有利可图的计算。\n\n$TAO",
+        "headline": "Mining SHA-256 hashes was the most profitable computation of the last decade.\n\n比特币美元\n\nMining digital intelligence will be the most profitable computation of the next decade.\n\n$TAO",
         "url": "https://x.com/bittensor/status/1970646651615485996",
         "datetime": 1758673749,
         "source": "@bittensor"
