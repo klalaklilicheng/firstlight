@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T21:42:09.599Z",
+  "updated_at": "2026-07-11T22:40:11.074Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64304,
-      "change_pct": 0.5
+      "price": 64225,
+      "change_pct": 0.23
     },
     {
       "symbol": "ETH",
-      "price": 1823.09,
-      "change_pct": 1.61
+      "price": 1814.62,
+      "change_pct": 1.19
     },
     {
       "symbol": "SOL",
-      "price": 78.17,
-      "change_pct": 0.24
+      "price": 77.94,
+      "change_pct": -0.07
     },
     {
       "symbol": "HYPE",
-      "price": 67.98,
-      "change_pct": 1.1
+      "price": 67.78,
+      "change_pct": 0.41
     },
     {
       "symbol": "ZEC",
-      "price": 526.1,
-      "change_pct": 5.12
+      "price": 522.65,
+      "change_pct": 4.58
     },
     {
       "symbol": "TAO",
-      "price": 213.24,
-      "change_pct": 0.39
+      "price": 212.18,
+      "change_pct": -0.15
     },
     {
       "symbol": "SKY",
-      "price": 1416.92,
-      "change_pct": 2.66
+      "price": 1394.84,
+      "change_pct": 1.09
     },
     {
       "symbol": "AAVE",
-      "price": 100.83,
-      "change_pct": 3.92
+      "price": 100.61,
+      "change_pct": 3.57
     },
     {
       "symbol": "BNB",
-      "price": 580.77,
+      "price": 580.5,
       "change_pct": 0.84
     },
     {
       "symbol": "NEAR",
-      "price": 1.91,
-      "change_pct": 1.46
+      "price": 1.9,
+      "change_pct": 0.35
     },
     {
       "symbol": "DOGE",
-      "price": 0.075244,
-      "change_pct": 1.47
+      "price": 0.074795,
+      "change_pct": 1.03
     },
     {
       "symbol": "SPACEX",
-      "price": 540.34,
-      "change_pct": 0.3
+      "price": 526.89,
+      "change_pct": -0.59
     }
   ],
   "earnings": {
@@ -789,12 +789,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.7,
+    "score": 31.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.2,
-    "weekly_score": 16.5,
-    "btc_price": 64351.8,
+    "weekly_score": 16.4,
+    "btc_price": 64241.7,
     "fear_greed": 31,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004695,
-        "score": 47,
+        "value": 0.005472,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.26,
-        "score": 51,
+        "value": 1.25,
+        "score": 50,
         "weight": 5,
         "group": "daily"
       },
@@ -876,14 +876,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.2,
-        "score": 29,
+        "value": 37,
+        "score": 28,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -96,
+        "value": -95.5,
         "score": 19,
         "weight": 4,
         "group": "weekly"
@@ -1069,28 +1069,28 @@
         "text": "There are 110 things more dangerous to Bitcoin than spam.\n\nBIP 110 turns a spam dispute into a consensus change that would invalidate some currently valid, fee-paying transactions.\n\nThat precedent is the danger. We should save our energy for threats that really matter. $BTC",
         "url": "https://x.com/saylor/status/2075981482154209664",
         "time": "Sat Jul 11 16:32:09 +0000 2026",
-        "likes": 3712,
-        "retweets": 516
+        "likes": 3979,
+        "retweets": 546
       },
       {
         "text": "The Right to ₿ear Arms. $BTC https://t.co/kJ7qoeOwhY",
         "url": "https://x.com/saylor/status/2075559287351353796",
         "time": "Fri Jul 10 12:34:30 +0000 2026",
-        "likes": 9287,
-        "retweets": 885
+        "likes": 9326,
+        "retweets": 888
       },
       {
         "text": "I joined @kornelijalaura at the @xapobankapp Conference in London on July 1 for a fireside chat on Bitcoin as Digital Capital, the emergence of Digital Credit, and the path to Bitcoin-backed Digital Money.\n\nFix the money, fix the world. $BTC\n\n00:42 — Bitcoin below $60K and the https://t.co/rpyG2AfwBE",
         "url": "https://x.com/saylor/status/2075252410507768272",
         "time": "Thu Jul 09 16:15:05 +0000 2026",
-        "likes": 3568,
+        "likes": 3569,
         "retweets": 484
       },
       {
         "text": "We have published our own credit model, allowing anyone to input BTC price, volatility, and ARR assumptions to evaluate model-implied BTC Risk, BTC Credit spreads, BTC Years of Dividends, and BTC Breakeven ARR. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2075178927820067150",
         "time": "Thu Jul 09 11:23:06 +0000 2026",
-        "likes": 864,
+        "likes": 865,
         "retweets": 83
       },
       {
@@ -1142,37 +1142,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "3只在任何市场条件下都值得持有的股票",
-        "url": "https://finnhub.io/api/news?id=2598f235551346d10bc8d95b5a48b1a7d7ae631ac4ce33f2ad73b9131a1c04e9",
-        "datetime": 1783797900,
+        "headline": "埃隆·马斯克 (Elon Musk) 的 SpaceX 刚刚加入纳斯达克 100 指数。现在什么？",
+        "url": "https://finnhub.io/api/news?id=25fe5bf811c1a4d7381a60938007aeba76361c6ad6e0307209280bb783fc0cb8",
+        "datetime": 1783805700,
         "source": "Yahoo"
       },
       {
-        "headline": "SK海力士纳斯达克首次亮相，成为美国最大的外国公司上市",
-        "url": "https://finnhub.io/api/news?id=8bf09f02584ec480a8ad56fa22eee3817365975fa33a674c841efcb33515a98c",
-        "datetime": 1783796400,
+        "headline": "2只仍不值得购买的遭受重创的股票",
+        "url": "https://finnhub.io/api/news?id=8308b86b1c11803a7d84a3f0719e527a416b8fd3d2c5b841c3b5ccde8dd6b84b",
+        "datetime": 1783803000,
         "source": "Yahoo"
       },
       {
-        "headline": "可口可乐正在压垮标准普尔 500 指数和纳斯达克 100 指数。但在 7 月份购买该股票还有更好的理由。",
-        "url": "https://finnhub.io/api/news?id=595bbda3b42f27076691f16123eab3b84b1c59b7594d7c80f4cfecb798f92821",
-        "datetime": 1783794000,
+        "headline": "Robinhood 投资者持有的 5 只顶级人工智能股票",
+        "url": "https://finnhub.io/api/news?id=6bc7b94ebc36aeee0f82edd39dc6a4b49c29dc47f5003250f5ba74843961f5ef",
+        "datetime": 1783801200,
         "source": "Yahoo"
       },
       {
-        "headline": "科技界的新恶棍",
-        "url": "https://finnhub.io/api/news?id=8347c0c2f3263839eec857c3e793556b4d3cf8678d08e76187d9e2a524877f88",
-        "datetime": 1783793262,
+        "headline": "随着共封装光学器件采用的加速，为什么 Lumentum (LITE) 可以从 AI 光网络需求中受益",
+        "url": "https://finnhub.io/api/news?id=9e41de26520c34dc052e5a7a509b7b115fd84d186f82e3754c0852dacf4494df",
+        "datetime": 1783800623,
         "source": "Yahoo"
       },
       {
-        "headline": "阿彻航空面临越来越大的阻力：是时候出售了吗？",
-        "url": "https://finnhub.io/api/news?id=142d479ce24205103d53ccddb75b04cb89d17e950a76742b33bae439644a29bc",
-        "datetime": 1783793100,
+        "headline": "道琼斯期货：市场准备好了吗？英伟达 (Nvidia)、美光 (Micron) 和闪迪 (Sandisk) 接近买入点，盈利丰厚",
+        "url": "https://finnhub.io/api/news?id=f0cd72579578342a3b822663dc7c762ec7496fa7e0b373a8e0f449a2256a310e",
+        "datetime": 1783800342,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "伯克希尔哈撒韦公司 (BRK.A) 斥资 85 亿美元押注住宅和人工智能",
+        "url": "https://finnhub.io/api/news?id=67a449a5622a69f6f09c19319f0691d40b39f73f5212f280c9f315afcfbf4f9f",
+        "datetime": 1783800648,
+        "source": "Yahoo"
+      },
       {
         "headline": "Meta 最重要的人工智能客户可能是 Meta",
         "url": "https://finnhub.io/api/news?id=43eb57abbbef19017b5401a8132ae0453f865021758b43a54e5ae6b60742b841",
@@ -1196,12 +1202,6 @@
         "url": "https://finnhub.io/api/news?id=eb50b2f143779b432c48dc66ce1e7ec4406a91cab906571c917159e6e6352d1e",
         "datetime": 1783770043,
         "source": "Yahoo"
-      },
-      {
-        "headline": "在贝莱德变得铁面无私之前，卡尔·伊坎告诉拉里·芬克，他的 4.8 万亿美元帝国正在保护糟糕的首席执行官——他有一个 90 亿美元的例子来证明这一点",
-        "url": "https://finnhub.io/api/news?id=60cb2e0ee3880971f049079acaa721419784ad0e878dc8f1db03202031e733f3",
-        "datetime": 1783760477,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1327,18 +1327,6 @@
         "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
         "datetime": 1783594537,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "与 @LubaYudasina 一起观看完整剧集",
-        "url": "https://x.com/solana/status/2075948943738069070",
-        "datetime": 1783779772,
-        "source": "@solana"
-      },
-      {
-        "headline": ".@Toly 解释了 Solana 的使命：\n\n“我们的使命是解锁创始人。让他们使用协议，构建应用程序。”\n\n“我们的优势在于它的可塑性很强。它会不断调整",
-        "url": "https://x.com/solana/status/2075948931381637632",
-        "datetime": 1783779769,
-        "source": "@solana"
       },
       {
         "headline": "",
