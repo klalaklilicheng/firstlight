@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T23:52:47.849Z",
+  "updated_at": "2026-07-11T01:54:07.184Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64099,
-      "change_pct": 1.39
+      "price": 64039,
+      "change_pct": 0.31
     },
     {
       "symbol": "ETH",
-      "price": 1794.55,
-      "change_pct": 2.81
+      "price": 1790.48,
+      "change_pct": 0.97
     },
     {
       "symbol": "SOL",
-      "price": 78.04,
-      "change_pct": 0.02
+      "price": 77.57,
+      "change_pct": -2.06
     },
     {
       "symbol": "HYPE",
-      "price": 67.5,
-      "change_pct": 0.59
+      "price": 67.22,
+      "change_pct": -1.11
     },
     {
       "symbol": "ZEC",
-      "price": 499.07,
-      "change_pct": 3.62
+      "price": 501.87,
+      "change_pct": 3.17
     },
     {
       "symbol": "TAO",
-      "price": 213.35,
-      "change_pct": -0.17
+      "price": 212.35,
+      "change_pct": -1.07
     },
     {
       "symbol": "SKY",
-      "price": 1379.7,
-      "change_pct": 5.31
+      "price": 1378.84,
+      "change_pct": 2.19
     },
     {
       "symbol": "AAVE",
-      "price": 95.78,
-      "change_pct": 4.86
+      "price": 94.78,
+      "change_pct": 2.09
     },
     {
       "symbol": "BNB",
-      "price": 575.07,
-      "change_pct": 1.16
+      "price": 573.62,
+      "change_pct": -0.38
     },
     {
       "symbol": "NEAR",
-      "price": 1.89,
-      "change_pct": -1.43
+      "price": 1.9,
+      "change_pct": -2.96
     },
     {
       "symbol": "DOGE",
-      "price": 0.074045,
-      "change_pct": 1.68
+      "price": 0.074092,
+      "change_pct": 0.1
     },
     {
       "symbol": "SPACEX",
-      "price": 530.01,
-      "change_pct": -1.89
+      "price": 530.14,
+      "change_pct": -1.79
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "美国司法部决定驳回对涉嫌价值 7.22 亿美元的 BitClub 欺诈者的指控：报告",
+      "summary": "马修·戈切 (Matthew Goettsche) 将于 10 月份因串谋实施电汇欺诈和出售未注册证券而接受审判。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783733431,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Meta 的首席数据官表示代理商务是“下一个业务层”",
       "summary": "",
       "source": "CoinDesk",
@@ -732,15 +741,6 @@
       "datetime": 1783676121,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币价格重返 6.43 万美元，三周新高即将到来",
-      "summary": "由于比特币价格走势与石油和美元走强背道而驰，比特币多头接下来面临 65,000 美元的“关键阻力”。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-returns-to-64k-with-three-week-btc-price-highs-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1783675943,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -789,25 +789,25 @@
     }
   ],
   "btc_score": {
-    "score": 30.3,
+    "score": 31.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.8,
+    "daily_score": 14.6,
     "weekly_score": 16.5,
-    "btc_price": 64131.3,
-    "fear_greed": 28,
+    "btc_price": 64080,
+    "fear_greed": 31,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -95300000,
-        "score": 44,
+        "value": 3600000,
+        "score": 50,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.00564,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -820,8 +820,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 28,
-        "score": 28,
+        "value": 31,
+        "score": 31,
         "weight": 7,
         "group": "daily"
       },
@@ -869,21 +869,21 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.01,
+        "value": 1.02,
         "score": 17,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 36.9,
+        "value": 36.8,
         "score": 28,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87.9,
+        "value": -85.5,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -893,7 +893,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 19
+      "days_until": 18
     },
     "schedule": [
       "2025-01-29",
@@ -1039,7 +1039,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 625,
+        "likes": 624,
         "retweets": 37
       },
       {
@@ -1069,36 +1069,36 @@
         "text": "The Right to ₿ear Arms. $BTC https://t.co/kJ7qoeOwhY",
         "url": "https://x.com/saylor/status/2075559287351353796",
         "time": "Fri Jul 10 12:34:30 +0000 2026",
-        "likes": 7339,
-        "retweets": 675
+        "likes": 7683,
+        "retweets": 702
       },
       {
         "text": "I joined @kornelijalaura at the @xapobankapp Conference in London on July 1 for a fireside chat on Bitcoin as Digital Capital, the emergence of Digital Credit, and the path to Bitcoin-backed Digital Money.\n\nFix the money, fix the world. $BTC\n\n00:42 — Bitcoin below $60K and the https://t.co/rpyG2AfwBE",
         "url": "https://x.com/saylor/status/2075252410507768272",
         "time": "Thu Jul 09 16:15:05 +0000 2026",
-        "likes": 3337,
-        "retweets": 457
+        "likes": 3365,
+        "retweets": 462
       },
       {
         "text": "We have published our own credit model, allowing anyone to input BTC price, volatility, and ARR assumptions to evaluate model-implied BTC Risk, BTC Credit spreads, BTC Years of Dividends, and BTC Breakeven ARR. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2075178927820067150",
         "time": "Thu Jul 09 11:23:06 +0000 2026",
-        "likes": 857,
+        "likes": 859,
         "retweets": 80
       },
       {
         "text": "Digital Credit is transparent because the principal market risk factor is Bitcoin, an observable, homogeneous asset. Analysts can assess BTC-related credit risk continuously, and investors can apply their own statistical models to inform valuation and trading decisions. $STRC https://t.co/6Xo63MEmeM",
         "url": "https://x.com/saylor/status/2075178924833726864",
         "time": "Thu Jul 09 11:23:05 +0000 2026",
-        "likes": 4672,
-        "retweets": 581
+        "likes": 4701,
+        "retweets": 584
       },
       {
         "text": "After a decade of blockspace fears and non-monetary-use panics, Bitcoin still has no spam problem. Fees are 1 sat/vB: anyone can move any amount globally with immediate processing for ~$0.30. The free market has always solved Bitcoin’s blockspace challenges. $BTC https://t.co/EpHk6p7A6D",
         "url": "https://x.com/saylor/status/2074887855868915781",
         "time": "Wed Jul 08 16:06:29 +0000 2026",
-        "likes": 8715,
-        "retweets": 1102
+        "likes": 8718,
+        "retweets": 1103
       }
     ],
     "viktorfischer": [
@@ -1106,14 +1106,14 @@
         "text": "Solana is the home for RWAs",
         "url": "https://x.com/viktorfischer/status/2073316791967691182",
         "time": "Sat Jul 04 08:03:38 +0000 2026",
-        "likes": 9,
+        "likes": 10,
         "retweets": 0
       },
       {
         "text": "15% APY",
         "url": "https://x.com/viktorfischer/status/2072045039455215936",
         "time": "Tue Jun 30 19:50:08 +0000 2026",
-        "likes": 12,
+        "likes": 13,
         "retweets": 0
       },
       {
@@ -1142,37 +1142,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么 Figma 股票在 2026 年上半年下跌了 52%",
-        "url": "https://finnhub.io/api/news?id=02c9903de21b996be37853c952f5d86550170700c67aee99b7146e94fee57372",
-        "datetime": 1783719200,
+        "headline": "为什么 Simply Good Foods 周五下跌近 2%",
+        "url": "https://finnhub.io/api/news?id=1cd594364c1930085c7cd8a9c87bcb68a3ae9e4c350a0b09b7dd563b3c97bc0d",
+        "datetime": 1783725966,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 Meta (META) 股票今天飙升",
-        "url": "https://finnhub.io/api/news?id=545fe77acc6a9ed0102180cee2c38adfd9c39fd8d4f5e4acf6be9c92d930b7b2",
-        "datetime": 1783717400,
+        "headline": "Circle 获得国家信托银行新的监管批准。这对 CRCL 股票意味着什么",
+        "url": "https://finnhub.io/api/news?id=35d75e0f3f7cf80ee75c47e7eda46585b6a766882e6baf70ef5d5e425a2634d1",
+        "datetime": 1783724701,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么纯比特币矿工基金碾压区块链篮子，上涨 184%",
-        "url": "https://finnhub.io/api/news?id=9e36a7042a5906b164a5fb6ad1790a9053ad1be49ce6f2bc8414b2791b8d39b1",
-        "datetime": 1783716537,
+        "headline": "错过了 Nvidia 的 Run？ SMH 持有者在 12 个月内赚取了 113%",
+        "url": "https://finnhub.io/api/news?id=43070e9f681c65a1fb220e0b2e4cc3ab5cc094ea65d7b1b067d6083066b6d002",
+        "datetime": 1783724444,
         "source": "Yahoo"
       },
       {
-        "headline": "道琼斯期货：随着市场的建立，将带来丰厚的收益； Nvidia、美光、Sandisk、Robinhood、SpaceX 成为焦点",
-        "url": "https://finnhub.io/api/news?id=804458c656317444f84af53785a1dbd2bf7d3b9c05cf9e59e3bdc22d5c6c27f9",
-        "datetime": 1783715751,
+        "headline": "我认为元平台现在值得购买的 3 个原因",
+        "url": "https://finnhub.io/api/news?id=f984f2643488f31df1955e4529ce3954648ab7829cd7d192f9c15b45fcdb844d",
+        "datetime": 1783722120,
         "source": "Yahoo"
       },
       {
-        "headline": "SK 海力士股价在美国上市首日飙升 13%",
-        "url": "https://finnhub.io/api/news?id=f04368e87ec11437680a6e9c227e12b755864b6f59ecbca2e4cf95709d8f913f",
-        "datetime": 1783715400,
+        "headline": "在下一个财报季之前，我会在这两只 ETF 中投入 25,000 美元",
+        "url": "https://finnhub.io/api/news?id=9d95999397a9caa8140264e20b365915e5ffcc39c51e31f29631fa6a91bc88eb",
+        "datetime": 1783721562,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "你不需要 Alphabet：XLK 的回报率为 29.35%，GOOGL 的回报率为 14.26%",
+        "url": "https://finnhub.io/api/news?id=c1b35f51b6fdfa543f4ff022775320da9c1ed809dae3ea9670c19a6823b1c738",
+        "datetime": 1783724277,
+        "source": "Yahoo"
+      },
       {
         "headline": "Meta 的 Muse AI 图像工具对 Instagram 隐私意味着什么",
         "url": "https://finnhub.io/api/news?id=ed5dce11f2768bce83566dd773832be388c101c5d1f2e441f1f9aa82fd329217",
@@ -1196,15 +1202,21 @@
         "url": "https://finnhub.io/api/news?id=7316371f1e8923e326083e8099da11dd4c9cf1c3f0403ec1f82738a5d3668a6d",
         "datetime": 1783713781,
         "source": "Yahoo"
-      },
-      {
-        "headline": "AI 巨头增加 3500 亿美元债务，支出激增 7250 亿美元",
-        "url": "https://finnhub.io/api/news?id=0db9c1a0b7b67a22fb07cd721239c5468781fb049d725c5afe131d4489603eda",
-        "datetime": 1783713353,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "NHTSA 表示 Waymo 和特斯拉必须解决其机器人出租车的危险问题",
+        "url": "https://finnhub.io/api/news?id=4c27335fb9e32ca6e7983326d5ccae28b26b26d9918f4b2f76b5eab75bcc0e93",
+        "datetime": 1783722780,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉在短短 46 天内拆除 Model S/X 生产线以进行 Optimus 生产",
+        "url": "https://finnhub.io/api/news?id=f237485cef75726287adedfbc048ce0eb9144ffe63d4a4a91bf9ac34f0439fb2",
+        "datetime": 1783721958,
+        "source": "Yahoo"
+      },
       {
         "headline": "Subversive Capital 向 SEC 提交“Ex-Elon”ETF，将特斯拉和 SpaceX 从标准普尔 500 指数和纳斯达克 100 指数中剔除",
         "url": "https://finnhub.io/api/news?id=099a0e2e428eb4303d67aafadaba2efdb278c342e6b8e0ee491fe9b155d62992",
@@ -1221,18 +1233,6 @@
         "headline": "特斯拉股票正在等待戈多",
         "url": "https://finnhub.io/api/news?id=c5ca40276d6af52c60b991d1320f3edd54b58781f727983cf442ef660e360fea",
         "datetime": 1783714440,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "行业动态：消费类股午后上涨",
-        "url": "https://finnhub.io/api/news?id=3950ba12d1f78e090a2162ad805700691eeabaedc9a25cbb8b5a2bc2711ce71a",
-        "datetime": 1783712797,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "加里·布莱克 (Gary Black) 表示，特斯拉的估值如此“过高”，以至于大多数机构投资者都不会买入该股，而 FSD 也无济于事",
-        "url": "https://finnhub.io/api/news?id=1dc8a43244b008a9221c599dd2cc2627500941535ec4e9f3fbb7760c7b1157e5",
-        "datetime": 1783708271,
         "source": "Yahoo"
       }
     ],
@@ -1393,21 +1393,21 @@
     ],
     "NEAR": [
       {
+        "headline": "NEAR@3.33 已上线。\n\n如果您已使用机密模式并持有超过 100 美元的机密余额，则您有资格获得 Drop 1。\n\n如果您还没有，则在机密意图 TVL 达到 7000 万美元之前您可以这样做。\n\n哇",
+        "url": "https://x.com/NEARProtocol/status/2075740433016029398",
+        "datetime": 1783730059,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "完整详细信息：",
+        "url": "https://x.com/NEARProtocol/status/2075740435339767999",
+        "datetime": 1783730059,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "互联网法庭已上线：这是一项开放技能，任何两个代理人都可以构建交易、托管资金并以自然语言解决纠纷。\n\nNEAR赋予代理商钱包+交易技能，跨链",
         "url": "https://x.com/NEARProtocol/status/2075649426442392008",
         "datetime": 1783708361,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/NEARProtocol/status/2075625342249664874",
-        "datetime": 1783702619,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "重要的部分是一致性。每一层都使下一层更有用。吞吐量使抽象成为可能。抽象使意图成为可能。意图使代理成为可能。代理人需要隐私和可靠的结算",
-        "url": "https://x.com/NEARProtocol/status/2075571326266290192",
-        "datetime": 1783689741,
         "source": "@NEARProtocol"
       }
     ],
