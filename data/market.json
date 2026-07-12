@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T08:04:05.335Z",
+  "updated_at": "2026-07-12T10:20:18.067Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63860,
-      "change_pct": -0.4
+      "price": 63863,
+      "change_pct": -0.37
     },
     {
       "symbol": "ETH",
-      "price": 1799.35,
-      "change_pct": 0.03
+      "price": 1798.79,
+      "change_pct": 0.25
     },
     {
       "symbol": "SOL",
-      "price": 76.47,
-      "change_pct": -1.9
+      "price": 76.66,
+      "change_pct": -1.41
     },
     {
       "symbol": "HYPE",
-      "price": 66.94,
-      "change_pct": 0.79
+      "price": 66.7,
+      "change_pct": 0.08
     },
     {
       "symbol": "ZEC",
-      "price": 518.11,
-      "change_pct": 3.89
+      "price": 524.09,
+      "change_pct": 5.23
     },
     {
       "symbol": "TAO",
-      "price": 209.09,
-      "change_pct": -1.56
+      "price": 209.99,
+      "change_pct": -1.03
     },
     {
       "symbol": "SKY",
-      "price": 1402.83,
-      "change_pct": 1.47
+      "price": 1423.78,
+      "change_pct": 2.22
     },
     {
       "symbol": "AAVE",
-      "price": 97.39,
-      "change_pct": 1.33
+      "price": 97.82,
+      "change_pct": 1.21
     },
     {
       "symbol": "BNB",
-      "price": 572.02,
-      "change_pct": -0.78
+      "price": 574.1,
+      "change_pct": -0.46
     },
     {
       "symbol": "NEAR",
-      "price": 1.87,
-      "change_pct": -0.33
+      "price": 1.88,
+      "change_pct": -0.3
     },
     {
       "symbol": "DOGE",
-      "price": 0.072894,
-      "change_pct": -1.79
+      "price": 0.072921,
+      "change_pct": -1.65
     },
     {
       "symbol": "SPACEX",
-      "price": 460.86,
-      "change_pct": -15.01
+      "price": 500.8,
+      "change_pct": -6.2
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "剑桥研究表明以太坊接近 PoS 能源强度的下限",
+      "summary": "Cambridge 估计，以太坊每年消耗 7.87 GWh，在所研究的 PoS 网络中，经过市场价值调整后的能源强度排名第二低。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1783847897,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着美国对伊朗发动新的打击，比特币、以太币几乎没有变化",
       "summary": "",
       "source": "CoinDesk",
@@ -732,15 +741,6 @@
       "datetime": 1783701396,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着曾经炙手可热的芯片股降温，我们希望购买更多此类芯片股",
-      "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/10/were-looking-to-buy-more-of-this-chip-stock-as-the-once-hot-group-cools.html",
-      "datetime": 1783700862,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -792,9 +792,9 @@
     "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.5,
-    "weekly_score": 17,
-    "btc_price": 63941.2,
+    "daily_score": 15.4,
+    "weekly_score": 17.1,
+    "btc_price": 63917.7,
     "fear_greed": 31,
     "indicators": [
       {
@@ -806,15 +806,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006307,
+        "value": 0.005382,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.33,
-        "score": 55,
+        "value": 1.31,
+        "score": 54,
         "weight": 5,
         "group": "daily"
       },
@@ -883,8 +883,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -83.6,
-        "score": 22,
+        "value": -79.6,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1009,7 +1009,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1466,
+        "likes": 1467,
         "retweets": 77
       },
       {
@@ -1039,7 +1039,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 625,
+        "likes": 627,
         "retweets": 37
       },
       {
@@ -1066,42 +1066,49 @@
     ],
     "saylor": [
       {
+        "text": "Bitcoin is an emergent network of wallets weighted by satoshis, nodes weighted by commerce, and miners weighted by hashrate, with capital, consensus, and security held in dynamic equilibrium. $BTC",
+        "url": "https://x.com/saylor/status/2076245728880431141",
+        "time": "Sun Jul 12 10:02:11 +0000 2026",
+        "likes": 786,
+        "retweets": 92
+      },
+      {
         "text": "There are 110 things more dangerous to Bitcoin than spam.\n\nBIP 110 turns a spam dispute into a consensus change that would invalidate some currently valid, fee-paying transactions.\n\nThat precedent is the danger. We should save our energy for threats that really matter. $BTC",
         "url": "https://x.com/saylor/status/2075981482154209664",
         "time": "Sat Jul 11 16:32:09 +0000 2026",
-        "likes": 5016,
-        "retweets": 686
+        "likes": 5174,
+        "retweets": 711
       },
       {
         "text": "The Right to ₿ear Arms. $BTC https://t.co/kJ7qoeOwhY",
         "url": "https://x.com/saylor/status/2075559287351353796",
         "time": "Fri Jul 10 12:34:30 +0000 2026",
-        "likes": 9643,
-        "retweets": 925
+        "likes": 9729,
+        "retweets": 937
       },
       {
         "text": "I joined @kornelijalaura at the @xapobankapp Conference in London on July 1 for a fireside chat on Bitcoin as Digital Capital, the emergence of Digital Credit, and the path to Bitcoin-backed Digital Money.\n\nFix the money, fix the world. $BTC\n\n00:42 — Bitcoin below $60K and the https://t.co/rpyG2AfwBE",
         "url": "https://x.com/saylor/status/2075252410507768272",
         "time": "Thu Jul 09 16:15:05 +0000 2026",
-        "likes": 3580,
-        "retweets": 487
+        "likes": 3587,
+        "retweets": 488
       },
       {
         "text": "We have published our own credit model, allowing anyone to input BTC price, volatility, and ARR assumptions to evaluate model-implied BTC Risk, BTC Credit spreads, BTC Years of Dividends, and BTC Breakeven ARR. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2075178927820067150",
         "time": "Thu Jul 09 11:23:06 +0000 2026",
-        "likes": 866,
-        "retweets": 83
-      },
-      {
-        "text": "Digital Credit is transparent because the principal market risk factor is Bitcoin, an observable, homogeneous asset. Analysts can assess BTC-related credit risk continuously, and investors can apply their own statistical models to inform valuation and trading decisions. $STRC https://t.co/6Xo63MEmeM",
-        "url": "https://x.com/saylor/status/2075178924833726864",
-        "time": "Thu Jul 09 11:23:05 +0000 2026",
-        "likes": 4798,
-        "retweets": 610
+        "likes": 869,
+        "retweets": 85
       }
     ],
     "viktorfischer": [
+      {
+        "text": "Would be great if we could use yield-generating LP tokens of RWA protocols eg @onrefinance as collateral for leverage on @PhoenixTrade \n\nHappy to share our risk analysis when we provide liquidity or incorporate those protocols into our vaults eg on @kamino \n\nWe also take care of",
+        "url": "https://x.com/viktorfischer/status/2076220156666171410",
+        "time": "Sun Jul 12 08:20:34 +0000 2026",
+        "likes": 0,
+        "retweets": 0
+      },
       {
         "text": "Solana is the home for RWAs",
         "url": "https://x.com/viktorfischer/status/2073316791967691182",
@@ -1129,50 +1136,55 @@
         "time": "Mon Jun 22 09:16:17 +0000 2026",
         "likes": 2,
         "retweets": 0
-      },
-      {
-        "text": "** 3/\nRight now liquidity's turning — into industrials, metals, gold, semis. Not bitcoin:native. Crypto is because of the last FED FOMC meeting hawkish overhang.",
-        "url": "https://x.com/viktorfischer/status/2068986417884123428",
-        "time": "Mon Jun 22 09:16:16 +0000 2026",
-        "likes": 1,
-        "retweets": 0
       }
     ]
   },
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "人工智能对美国通胀有何影响？",
-        "url": "https://finnhub.io/api/news?id=292edf45ba9de83b374177a71a25ce23b6a0d58c72622623a218e35728170afd",
-        "datetime": 1783834210,
+        "headline": "雪佛龙与 GE Vernova 的合资企业是否会使该股票在 2027 年之前值得买入？",
+        "url": "https://finnhub.io/api/news?id=b1d280947d2d88b8a39d25a48343587ee8fd23319f9ab18b77be67df8274dc41",
+        "datetime": 1783849800,
         "source": "Yahoo"
       },
       {
-        "headline": "XRP 大幅回调。现在是加载的时候吗？",
-        "url": "https://finnhub.io/api/news?id=0952afb546f3f46a218151a51fe84c2c7ba27d833165575cac65b47446b92ede",
-        "datetime": 1783833600,
+        "headline": "7月16日英伟达投资者需关注",
+        "url": "https://finnhub.io/api/news?id=b80731d9bf5a181c664fb8e3a73ff69b8a0af6ca7f4205e6b3820cddc722f364",
+        "datetime": 1783848900,
         "source": "Yahoo"
       },
       {
-        "headline": "黄仁勋的蓝领百万富翁预测使广达服务的积压订单增加至 480 亿美元",
-        "url": "https://finnhub.io/api/news?id=0757233b69daa4c1b97c4f45e717e537d3d060fd08d2ba23f2ce277773212d72",
-        "datetime": 1783832700,
+        "headline": "沃伦·巴菲特几十年来一直支持这项投资，历史不断证明他是对的",
+        "url": "https://finnhub.io/api/news?id=891264a806c7cbaad6e54aa005a4d2ecafed420485e800aa1ac4d2ed086984fe",
+        "datetime": 1783848840,
         "source": "Yahoo"
       },
       {
-        "headline": "不要被误导：关于指数基金的常见神话被揭穿",
-        "url": "https://finnhub.io/api/news?id=8dc31b42d6303890b0dfb1b44c5d29bb01dfadc5e527cd63e7024a70e913a026",
-        "datetime": 1783831800,
+        "headline": "Jim Cramer 表示购买 2 只人工智能股票自 2023 年以来分别上涨了 460% 和 1,300%——华尔街同意",
+        "url": "https://finnhub.io/api/news?id=c96d783880ecdae09adc0fbf1dc16ae2eecb48e0d090804c43a74108f00cdef8",
+        "datetime": 1783848720,
         "source": "Yahoo"
       },
       {
-        "headline": "2只具有巨大上涨潜力的遭受重创的股票",
-        "url": "https://finnhub.io/api/news?id=045a65fd550cfc8b32ecc07e08f151f7008bdda312826d934adc81177aec3761",
-        "datetime": 1783830900,
+        "headline": "来认识一下 SK Hynix，它是 Nvidia 人工智能的主要合作伙伴，正在实现三位数的增长，并且刚刚在纳斯达克上市。该股票值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=03c38d2fe2e6e02ba5736307232280268c30ba83e3ae286fc3ce58e36d4ff6af",
+        "datetime": 1783848600,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "SpaceX 的 Starmind 能否让亚马逊、微软和谷歌的云业务过时？以下是投资者需要了解的内容。",
+        "url": "https://finnhub.io/api/news?id=1570fbdc8a4d0171688a51f4b43e12fc53495826c894fb6f79fcf65439b8af55",
+        "datetime": 1783847040,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "大型科技公司大规模的人工智能支出才刚刚开始。收益会证明这一点。",
+        "url": "https://finnhub.io/api/news?id=0257548999319eb9f095a710db7225430f94c161276fc6b8e88c812119e0782b",
+        "datetime": 1783839600,
+        "source": "Yahoo"
+      },
       {
         "headline": "Mar Vista 美国优质优质投资组合 2026 年第二季度投资组合活动",
         "url": "https://finnhub.io/api/news?id=58dd51c165523cf6f8fdca73ce8120ffc91320b6d1f05d38c15fc981bb3749aa",
@@ -1189,18 +1201,6 @@
         "headline": "南希·佩洛西 (Nancy Pelosi) 和唐纳德·特朗普 (Donald Trump) 押注于同一 10 只股票 – 有些可能会让您感到惊讶（已更正）",
         "url": "https://finnhub.io/api/news?id=6f74e61a75f09ee81e74ecad0c6a734f48515bd375e3f1f8161d55807835e91b",
         "datetime": 1783805474,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "伯克希尔哈撒韦公司 (BRK.A) 斥资 85 亿美元押注住宅和人工智能",
-        "url": "https://finnhub.io/api/news?id=67a449a5622a69f6f09c19319f0691d40b39f73f5212f280c9f315afcfbf4f9f",
-        "datetime": 1783800648,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Meta 最重要的人工智能客户可能是 Meta",
-        "url": "https://finnhub.io/api/news?id=43eb57abbbef19017b5401a8132ae0453f865021758b43a54e5ae6b60742b841",
-        "datetime": 1783787472,
         "source": "Yahoo"
       }
     ],
@@ -1302,6 +1302,12 @@
       }
     ],
     "ETH": [
+      {
+        "headline": "剑桥研究表明以太坊接近 PoS 能源强度的下限",
+        "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1783847897,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "以太坊在代币化热潮中上涨 3%：多头能否将 ETH 价格推高至 1,800 美元以上？",
         "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
