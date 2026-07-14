@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T04:44:35.431Z",
+  "updated_at": "2026-07-14T07:06:10.091Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62650,
-      "change_pct": -0.05
+      "price": 62532,
+      "change_pct": -0.38
     },
     {
       "symbol": "ETH",
-      "price": 1785.49,
-      "change_pct": 0.36
+      "price": 1779.98,
+      "change_pct": 0.14
     },
     {
       "symbol": "SOL",
-      "price": 75.17,
-      "change_pct": -1
+      "price": 75.03,
+      "change_pct": -1.67
     },
     {
       "symbol": "HYPE",
-      "price": 63.33,
-      "change_pct": -4.3
+      "price": 63.63,
+      "change_pct": -2.11
     },
     {
       "symbol": "ZEC",
-      "price": 505.27,
-      "change_pct": -2.54
+      "price": 504.69,
+      "change_pct": -2.52
     },
     {
       "symbol": "TAO",
-      "price": 199.73,
-      "change_pct": -3.01
+      "price": 199.14,
+      "change_pct": -3.51
     },
     {
       "symbol": "SKY",
-      "price": 1389.51,
-      "change_pct": 0.52
+      "price": 1385,
+      "change_pct": 0.06
     },
     {
       "symbol": "AAVE",
-      "price": 96.25,
-      "change_pct": 1.88
+      "price": 95.76,
+      "change_pct": 1.66
     },
     {
       "symbol": "BNB",
-      "price": 570.35,
-      "change_pct": 0.41
+      "price": 568.51,
+      "change_pct": 0.03
     },
     {
       "symbol": "NEAR",
-      "price": 1.97,
-      "change_pct": 5.43
+      "price": 2,
+      "change_pct": 5.54
     },
     {
       "symbol": "DOGE",
-      "price": 0.07204,
-      "change_pct": -0.02
+      "price": 0.072199,
+      "change_pct": -0.07
     },
     {
       "symbol": "SPACEX",
-      "price": 465.54,
-      "change_pct": -2.65
+      "price": 466.2,
+      "change_pct": 3.11
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "比特币矿工使用 150 美元的设备赚了 20 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
+      "datetime": 1784004236,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "白宫加密货币顾问帕特里克·威特将报告军事训练：报告",
+      "summary": "威特的离职正值《澄清法案》的关键时刻，预计副主任哈利·荣格将接替他的职责。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784003720,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国政府将扣押的 2.97 亿美元比特币和以太币转移至 Coinbase Prime",
       "summary": "尽管存入 Coinbase Prime 的资金并不能确认即将出售，但这些转账引发了人们对特朗普的比特币储备承诺的质疑。",
       "source": "Cointelegraph",
@@ -723,24 +741,6 @@
       "datetime": 1783948129,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周一股市最值得关注的 10 件事",
-      "summary": "芯片股遭到抛售，苹果公司大幅提高了目标价。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "datetime": 1783947467,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "特朗普：美国应因保卫霍尔木兹海峡而获得补偿",
-      "summary": "霍尔木兹海峡是一条主要的石油运输路线，也是美国和以色列与伊朗持续战争的中心。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
-      "datetime": 1783947385,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,12 +784,12 @@
     }
   ],
   "btc_score": {
-    "score": 29.9,
+    "score": 29.5,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 12.7,
-    "weekly_score": 17.2,
-    "btc_price": 62714.5,
+    "daily_score": 12.4,
+    "weekly_score": 17.1,
+    "btc_price": 62645,
     "fear_greed": 28,
     "indicators": [
       {
@@ -801,15 +801,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003782,
-        "score": 47,
+        "value": 0.002964,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.8,
-        "score": 87,
+        "value": 1.74,
+        "score": 83,
         "weight": 5,
         "group": "daily"
       },
@@ -822,8 +822,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.28,
-        "score": 26,
+        "value": 1.25,
+        "score": 25,
         "weight": 12,
         "group": "weekly"
       },
@@ -871,14 +871,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
+        "value": 35.4,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -74.4,
+        "value": -71,
         "score": 25,
         "weight": 4,
         "group": "weekly"
@@ -997,7 +997,7 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 983,
+        "likes": 991,
         "retweets": 78
       },
       {
@@ -1057,36 +1057,36 @@
         "text": "We have introduced the Bitcoin Banking Adoption Index.\n\nMajor-bank Bitcoin adoption is accelerating, but still early: 32% overall as measured by the index. $BTC",
         "url": "https://x.com/saylor/status/2076717295074771407",
         "time": "Mon Jul 13 17:16:01 +0000 2026",
-        "likes": 6217,
-        "retweets": 702
+        "likes": 6479,
+        "retweets": 742
       },
       {
         "text": "Strategy has increased its USD Reserve by $450 million. As of 7/12/2026, we hodl ₿843,775 in our BTC Reserves and $3.0 billion in our USD Reserves. $MSTR $STRC https://t.co/OdFbjLuCTP",
         "url": "https://x.com/saylor/status/2076638696053276748",
         "time": "Mon Jul 13 12:03:41 +0000 2026",
-        "likes": 10525,
-        "retweets": 1100
+        "likes": 10709,
+        "retweets": 1117
       },
       {
         "text": "In Bitcoin, influence is earned through work, not ambition. Those who contribute money, utility, and power to the network shape its future.",
         "url": "https://x.com/saylor/status/2076549284103598098",
         "time": "Mon Jul 13 06:08:24 +0000 2026",
-        "likes": 5137,
-        "retweets": 484
+        "likes": 5194,
+        "retweets": 490
       },
       {
         "text": "Orange dots tell only part of the story. https://t.co/HFZd2z7fus",
         "url": "https://x.com/saylor/status/2076281310646079839",
         "time": "Sun Jul 12 12:23:34 +0000 2026",
-        "likes": 11519,
-        "retweets": 1159
+        "likes": 11553,
+        "retweets": 1164
       },
       {
         "text": "Bitcoin is an emergent network of wallets weighted by satoshis, nodes weighted by commerce, and miners weighted by hashrate, with capital, consensus, and security held in dynamic equilibrium. $BTC",
         "url": "https://x.com/saylor/status/2076245728880431141",
         "time": "Sun Jul 12 10:02:11 +0000 2026",
-        "likes": 7528,
-        "retweets": 715
+        "likes": 7548,
+        "retweets": 718
       }
     ],
     "viktorfischer": [
@@ -1130,6 +1130,24 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "29 名华尔街分析师对 SpaceX 进行了定价。这是值得关注的目标",
+        "url": "https://finnhub.io/api/news?id=a8f5e71f8497d950dcb81e6995268e7cd9446352db201139f27c188722fca3dd",
+        "datetime": 1784006400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "芯片工具制造商 ASML 预计将重点关注产能和中国挑战",
+        "url": "https://finnhub.io/api/news?id=ac253b57862d6719c313454e38944271db77593b2142f1c0f8395a2fd10b1a63",
+        "datetime": 1784005463,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Sandisk 股票今天暴跌。分析师表示逢低买入。",
+        "url": "https://finnhub.io/api/news?id=679b71402272a9f0c3de0c51b2771097ff8d793d4e47528d6ed29553c8036b1d",
+        "datetime": 1784001560,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Voyager Technologies 完成对天体机器人的收购，并刚刚获得 NASA 价值 2.98 亿美元的合同",
         "url": "https://finnhub.io/api/news?id=26ffba732eb14d1cbe57ec583e422615e6a05bb7f3e64f7b2b7bf05ef8c5ded4",
         "datetime": 1784000606,
@@ -1139,24 +1157,6 @@
         "headline": "韩国执政党寻求放宽融资规定，SK海力士将从中受益",
         "url": "https://finnhub.io/api/news?id=d3350cf2825cbed041f1d6312855e53a38f2e0a526f0db8793535e5ec28f0dbf",
         "datetime": 1783999980,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "据英国《金融时报》报道，英伟达将亚洲人工智能芯片客户名单减半",
-        "url": "https://finnhub.io/api/news?id=c4ceeee14402cd8402e2fcae0899bd2cb448f28f59f4bca74a531367145f5f9e",
-        "datetime": 1783999900,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "台积电有望乘着人工智能热潮，连续第五个季度实现创纪录的利润",
-        "url": "https://finnhub.io/api/news?id=0e58153325bc83d364b900ef10934c975136f50dd85db9dce3367480b1f25976",
-        "datetime": 1783998666,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "首席经济顾问：如果没有更高的收益率，债券市场“不可能”为人工智能繁荣提供资金",
-        "url": "https://finnhub.io/api/news?id=d8309d23996234fbf60215799d7c73f4cc2e9da5ecfee22171c85d65ce0e5cd1",
-        "datetime": 1783995337,
         "source": "Yahoo"
       }
     ],
@@ -1174,6 +1174,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "从模型层保卫企业城堡",
+        "url": "https://finnhub.io/api/news?id=1d211900321093a9970b1f495a7db4445749ccae84fb0fed910c706f798429ba",
+        "datetime": 1783991100,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "随着美伊战争恐惧再度出现，标普 500 指数、纳斯达克指数和道琼斯指数收低 — PSKY、META、GOOGL、INTC、NFLX 成为焦点",
         "url": "https://finnhub.io/api/news?id=7fb8fcd50fab0edba1de7a83f9967134220ca4c368f903b3725399511c31f59f",
         "datetime": 1783982209,
@@ -1183,12 +1189,6 @@
         "headline": "Alphabet (GOOGL) 正在将其 TPU 芯片转变为人工智能计算业务",
         "url": "https://finnhub.io/api/news?id=2f18335680da58251e72fac677fbd7e685d5903e1ccf37e4054ecdf67dc5e9bd",
         "datetime": 1783980991,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet (GOOGL) 的跌幅比更广泛的市场更严重：需要了解的一些事实",
-        "url": "https://finnhub.io/api/news?id=43c42b97e41c366ec13243b82719da8643006cd0bb2ceedc5710aa65cca947f8",
-        "datetime": 1783979103,
         "source": "Yahoo"
       }
     ],
@@ -1226,6 +1226,12 @@
     ],
     "CRCL": [
       {
+        "headline": "Coinbase Global：正在进行结构转型，不再是比特币代理",
+        "url": "https://finnhub.io/api/news?id=3891f7de3ea475b2c3ff90e137d37a1deaaa1a80e802c585e329219abb2c484b",
+        "datetime": 1783994389,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Baird 维持 Circle Internet Group 跑赢大盘的评级，将目标价下调至 100 美元",
         "url": "https://finnhub.io/api/news?id=70c110d79e117223f5221ea756c0b624db09af3b464a1d8c7c46619803a1741e",
         "datetime": 1783929607,
@@ -1248,16 +1254,16 @@
         "url": "https://finnhub.io/api/news?id=66aaaa4a5428f44fff48d6fd8bd679868eba9e460058860657d6cc037d98a39b",
         "datetime": 1783693800,
         "source": "ChartMill"
-      },
-      {
-        "headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-        "url": "https://finnhub.io/api/news?id=70c7781ce0444804352989a40f28c9819f6df3a1e8eecdb55c2a6dec5b7a9f8e",
-        "datetime": 1783690506,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [],
     "BTC": [
+      {
+        "headline": "比特币矿工使用 150 美元的设备赚了 20 万美元",
+        "url": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
+        "datetime": 1784004236,
+        "source": "CoinDesk"
+      },
       {
         "headline": "美国政府将扣押的 2.97 亿美元比特币和以太币转移至 Coinbase Prime",
         "url": "https://cointelegraph.com/news/us-government-moves-297m-in-seized-bitcoin-ether-to-coinbase-prime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1281,12 +1287,6 @@
         "url": "https://www.coindesk.com/markets/2026/07/13/strategy-pauses-its-bitcoin-buying-spree-to-hoard-a-massive-usd3-billion-cash-cushion",
         "datetime": 1783956456,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "唐纳德·特朗普表示美国将“运行”封闭的霍尔木兹海峡，比特币威胁风险资产暴跌 6.2 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-threatens-62k-in-risk-asset-out-as-donald-trump-says-us-will-run-closed-hormuz-strait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1783955145,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
