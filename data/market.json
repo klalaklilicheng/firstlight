@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:51:09.996Z",
+  "updated_at": "2026-07-14T22:50:52.574Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64682,
-      "change_pct": 4.33
+      "price": 64876,
+      "change_pct": 4.75
     },
     {
       "symbol": "ETH",
-      "price": 1876.53,
-      "change_pct": 6.74
+      "price": 1885.02,
+      "change_pct": 7.22
     },
     {
       "symbol": "SOL",
-      "price": 77.23,
-      "change_pct": 4.02
+      "price": 77.78,
+      "change_pct": 4.36
     },
     {
       "symbol": "HYPE",
-      "price": 65.62,
-      "change_pct": 4.7
+      "price": 65.91,
+      "change_pct": 4.47
     },
     {
       "symbol": "ZEC",
-      "price": 541.98,
-      "change_pct": 9.61
+      "price": 559.96,
+      "change_pct": 13.56
     },
     {
       "symbol": "TAO",
-      "price": 201.91,
-      "change_pct": 1.27
+      "price": 200.6,
+      "change_pct": 0.39
     },
     {
       "symbol": "SKY",
-      "price": 1417.45,
-      "change_pct": 4.45
+      "price": 1424.77,
+      "change_pct": 1.85
     },
     {
       "symbol": "AAVE",
-      "price": 98.74,
-      "change_pct": 5.53
+      "price": 99.01,
+      "change_pct": 5.46
     },
     {
       "symbol": "BNB",
-      "price": 580.7,
-      "change_pct": 2.99
+      "price": 581.57,
+      "change_pct": 2.97
     },
     {
       "symbol": "NEAR",
       "price": 2.02,
-      "change_pct": 7.04
+      "change_pct": 6.38
     },
     {
       "symbol": "DOGE",
-      "price": 0.074401,
-      "change_pct": 4.5
+      "price": 0.074436,
+      "change_pct": 4.09
     },
     {
       "symbol": "SPACEX",
-      "price": 464.44,
-      "change_pct": 2.28
+      "price": 464.39,
+      "change_pct": -2.61
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "吉姆·克莱默 (Jim Cramer) 表示，对人工智能市场泡沫的担忧有些过分。这就是为什么",
+      "summary": "CNBC 的吉姆·克莱默 (Jim Cramer) 表示，如今的股市远没有互联网泡沫时期那么令人担忧。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html",
+      "datetime": 1784067646,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "三名美国参议员以道德为由反对《清晰法案》，预计很快就会投票",
+      "summary": "据报道，参议院多数党领袖 John Thune 表示，参议院将考虑在 8 月 10 日之前对加密货币市场结构法案进行投票，但目前尚不清楚该法案是否有足够的民主党支持来通过。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784064626,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国商品期货交易委员会采取行动，阻止卡尔希按照密歇根州法院的命令取消交易",
       "summary": "",
       "source": "CoinDesk",
@@ -723,24 +741,6 @@
       "datetime": 1784035052,
       "category": "business",
       "related": ""
-    },
-    {
-      "headline": "遭受 3600 万美元黑客攻击后，Humanity Protocol 将优先考虑运营安全",
-      "summary": "Humanity Protocol 的创始人表示，他们将重新关注运营安全，因为恶意行为者正在从智能合约漏洞转向利用人类行为。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784034480,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着人工智能转型重塑估值，Hut 8 基准价格目标上调至 165 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
-      "datetime": 1784033585,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,32 +784,32 @@
     }
   ],
   "btc_score": {
-    "score": 27.3,
+    "score": 27.6,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 14.3,
-    "weekly_score": 13,
-    "btc_price": 64714.7,
+    "daily_score": 14.5,
+    "weekly_score": 13.1,
+    "btc_price": 64906,
     "fear_greed": 28,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 7400000,
-        "score": 50,
+        "value": 21100000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.009359,
+        "value": 0.009629,
         "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.21,
-        "score": 47,
+        "value": 1.22,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
@@ -871,15 +871,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.6,
-        "score": 29,
+        "value": 37.8,
+        "score": 30,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -76.1,
-        "score": 24,
+        "value": -70.3,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -997,7 +997,7 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1005,
+        "likes": 1006,
         "retweets": 79
       },
       {
@@ -1057,36 +1057,36 @@
         "text": "Our goal is clear: return $STRC to par.",
         "url": "https://x.com/saylor/status/2077131252742648275",
         "time": "Tue Jul 14 20:40:56 +0000 2026",
-        "likes": 1781,
-        "retweets": 133
+        "likes": 2314,
+        "retweets": 179
       },
       {
         "text": "Last call.",
         "url": "https://x.com/saylor/status/2077052307460518391",
         "time": "Tue Jul 14 15:27:14 +0000 2026",
-        "likes": 3092,
-        "retweets": 232
+        "likes": 3227,
+        "retweets": 240
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit. $BTC https://t.co/aeJmWpCWIl",
         "url": "https://x.com/saylor/status/2076996691861905775",
         "time": "Tue Jul 14 11:46:14 +0000 2026",
-        "likes": 3873,
-        "retweets": 414
+        "likes": 3936,
+        "retweets": 420
       },
       {
         "text": "We have introduced the Bitcoin Banking Adoption Index.\n\nMajor-bank Bitcoin adoption is accelerating, but still early: 32% overall as measured by the index. $BTC",
         "url": "https://x.com/saylor/status/2076717295074771407",
         "time": "Mon Jul 13 17:16:01 +0000 2026",
-        "likes": 7356,
+        "likes": 7388,
         "retweets": 858
       },
       {
         "text": "Strategy has increased its USD Reserve by $450 million. As of 7/12/2026, we hodl ₿843,775 in our BTC Reserves and $3.0 billion in our USD Reserves. $MSTR $STRC https://t.co/OdFbjLuCTP",
         "url": "https://x.com/saylor/status/2076638696053276748",
         "time": "Mon Jul 13 12:03:41 +0000 2026",
-        "likes": 11328,
-        "retweets": 1203
+        "likes": 11351,
+        "retweets": 1206
       }
     ],
     "viktorfischer": [
@@ -1130,97 +1130,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "杰夫·贝索斯 (Jeff Bezos) 将 20 亿美元自有资金投入 Blue Origin 的新一轮融资",
-        "url": "https://finnhub.io/api/news?id=585c35ddd70ca306a6793f81a87d627b5d522f8d119fe63ece84aa7233afe2a1",
-        "datetime": 1784058660,
+        "headline": "埃隆·马斯克 (Elon Musk) 的特斯拉 (Tesla) 公布两年来最佳季度业绩",
+        "url": "https://finnhub.io/api/news?id=67eb43609e4ea8e7a7f6037e1f278f41e1c23fdfc87a691c3d7e0b5aab022b6c",
+        "datetime": 1784065980,
         "source": "Yahoo"
       },
       {
-        "headline": "行业动态：科技股午后上涨",
-        "url": "https://finnhub.io/api/news?id=74a9bf5ec2a7388aeb461eab72ae7f541af677992a41ab94e5064fe71b3941ce",
-        "datetime": 1784058364,
+        "headline": "据《Information》报道，中国计划让顶级人工智能公司购买有限的 NVIDIA Corporation (NVDA) H200 芯片",
+        "url": "https://finnhub.io/api/news?id=4e4cfda1bfbbfd42db97a1fe7f5385ec28158ac1c47cc422ebdf07abfa196809",
+        "datetime": 1784065462,
         "source": "Yahoo"
       },
       {
-        "headline": "微软的股价比标准普尔 500 指数便宜。现在是买入该股的最佳时机。",
-        "url": "https://finnhub.io/api/news?id=91176e1c219e35f084e257f2ee901f9a489822e3d92f9915a076328b73cceee3",
-        "datetime": 1784057700,
+        "headline": "英伟达 (NVDA) 股票交易上涨，原因如下",
+        "url": "https://finnhub.io/api/news?id=c73b90b63a733c6ab712fcdd3e3cdc24850eebe9631901e92efbf619cfd101d3",
+        "datetime": 1784065391,
         "source": "Yahoo"
       },
       {
-        "headline": "6月通胀放缓至3.5%，但会持续多久？以下是投资者需要了解的内容。",
-        "url": "https://finnhub.io/api/news?id=3ebde78221cdcb29ca315998835cc6028268abf226d30ee216f8b8cc626c0c0e",
-        "datetime": 1784057101,
+        "headline": "标准普尔 500 指数和纳斯达克指数在芯片制造商、网络安全股票和软通胀数据的支持下收高——NVDA、GS、SKHY、VZ、LCID 成为焦点",
+        "url": "https://finnhub.io/api/news?id=ef8364d199cd9e8d251393935fdc9813d4c930c6b0dc3d187319a78ca22a7e48",
+        "datetime": 1784065384,
         "source": "Yahoo"
       },
       {
-        "headline": "OpenAI 和 Anthropic 正在开发自己的定制人工智能芯片：以下是受益最大的股票",
-        "url": "https://finnhub.io/api/news?id=f7fdb7b7dcfb4d197d9875257d70f1e42b90dd6ce890667b0982406dfcab2a5c",
-        "datetime": 1784056800,
+        "headline": "为什么 CleanSpark 股票今天上涨",
+        "url": "https://finnhub.io/api/news?id=9822fef2e3c0bed89b5756e1724425627cd4c2b0c1760fc0af8868abbb06dc98",
+        "datetime": 1784065212,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "瑞士监管机构启动 Android 搜索调查，谷歌股价下跌",
-        "url": "https://finnhub.io/api/news?id=cfd248f167c4e654fa8b7f927e4f834da5a48cbd476d724034d21351f6753004",
-        "datetime": 1784056851,
+        "headline": "Alphabet Inc. (GOOGL) 是否属于 Ray Dalio 股票投资组合：10 支最佳买入股票之列？",
+        "url": "https://finnhub.io/api/news?id=c4680cf5cb3b3ca810d3591c5296d9def527de14895452f75890640ff0a513af",
+        "datetime": 1784065469,
         "source": "Yahoo"
       },
       {
-        "headline": "Fortinet 的 AI 激增令人印象深刻。微软是更聪明的游戏吗？",
-        "url": "https://finnhub.io/api/news?id=9da98b251d18f0cdd722b3f13efaa94a138f648a9827d46c512cacb61137d830",
-        "datetime": 1784056485,
+        "headline": "亚马逊公司 (AMZN) 计划通过债券发行筹集 250 亿美元",
+        "url": "https://finnhub.io/api/news?id=331150188873b4fb3d8b614b352d6a5ee0b98a88b187181daa663318d336e36d",
+        "datetime": 1784065455,
         "source": "Yahoo"
       },
       {
-        "headline": "摩根士丹利表示，尽管面临逆风，英伟达股票仍是首选",
-        "url": "https://finnhub.io/api/news?id=239d9a0200c227643c245fd06d06efffba241190b6e4df61058d31c6267746c3",
-        "datetime": 1784056380,
+        "headline": "加入 AAPL Run 实际需要支付的费用",
+        "url": "https://finnhub.io/api/news?id=afb28a5a32a2d76ccabc107b0e02c172d80a03688d5d990a8bfdd173d47d01a3",
+        "datetime": 1784064661,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌面临另一起来自主要出版商的人工智能培训诉讼",
-        "url": "https://finnhub.io/api/news?id=e01bfe419d12fcdef5608d4949b763d73b312a3454dd282e2c3303fd7334157b",
-        "datetime": 1784054011,
+        "headline": "中国人工智能模型开发商 DeepSeek 为 IPO 做准备：需要了解什么",
+        "url": "https://finnhub.io/api/news?id=becfaadfc068977d50630509cf11d9b4a4744b8f58cf89cff4c8ea67c7417701",
+        "datetime": 1784062649,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊、微软推动数据中心需求",
-        "url": "https://finnhub.io/api/news?id=4247f51276eb868b3c68431d9b9e8196f87d026c928dd7dfe51ec8fbcff833c9",
-        "datetime": 1784053662,
+        "headline": "媒体巨头在戛纳国际创意节上直言人工智能对新闻业的威胁",
+        "url": "https://finnhub.io/api/news?id=113f43e46cd8619df59428c8fb0f163324710eab6c5835cf78cd64e19ccb97ec",
+        "datetime": 1784062627,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "特斯拉股价在第二季度盈利前四次上调目标价后上涨",
-        "url": "https://finnhub.io/api/news?id=05e795996fdd3a1bace0e74427ab4017139d5c18b8a6e97b009994a80d55e419",
-        "datetime": 1784057810,
+        "headline": "华尔街目标上调浪潮过后，特斯拉股价上涨",
+        "url": "https://finnhub.io/api/news?id=c09f18a61443782ee66e3beb34924eaf6a89c773ce95891c920cd1a76c3135dc",
+        "datetime": 1784066290,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么Meta股票在长期下滑后突然爆发",
-        "url": "https://finnhub.io/api/news?id=cfa9e930b6b5f51e956125a29fedbe7e3e06128b68e5873d9c73ca286058bdc7",
-        "datetime": 1784053675,
+        "headline": "埃隆·马斯克 (Elon Musk) 的特斯拉 (Tesla) 公布两年来最佳季度业绩",
+        "url": "https://finnhub.io/api/news?id=67eb43609e4ea8e7a7f6037e1f278f41e1c23fdfc87a691c3d7e0b5aab022b6c",
+        "datetime": 1784065980,
         "source": "Yahoo"
       },
       {
-        "headline": "标准普尔 500 指数中的大多数股票实际上都在走低",
-        "url": "https://finnhub.io/api/news?id=3c813bf6d3b4c80cd8341bdde0fe3f62e4c1ed0e4815610a91fca1c48f5d2292",
-        "datetime": 1784052378,
+        "headline": "今日股市，7 月 14 日：Lucid Group 暴跌，但否认有关破产申请的报道",
+        "url": "https://finnhub.io/api/news?id=7418cb633cdeb442555f2590786ca9583ea0d3c585b60959b40ea4277ef85e56",
+        "datetime": 1784065298,
         "source": "Yahoo"
       },
       {
-        "headline": "在第二季度财报公布之前，特斯拉股票仍然波动：分析师谨慎乐观地提高了价格目标",
-        "url": "https://finnhub.io/api/news?id=e85b6b0e4794431ec8a398c5acc3ffc96fc7502821c06ae2cd974de8a49e120b",
-        "datetime": 1784048844,
+        "headline": "Zipline 通过 13 倍的市场扩张、任命新领导层以及在奥斯汀和克利夫兰推出产品，加速美国增长",
+        "url": "https://finnhub.io/api/news?id=bb1b5131b3b67b1ac837e8397338659ff0f4c3f3062e2f45325f2897c1bbccd7",
+        "datetime": 1784065260,
         "source": "Yahoo"
       },
       {
-        "headline": "OGBC 集团宣布在旧金山设立全球硬件加速器",
-        "url": "https://finnhub.io/api/news?id=6730069f41d5304764fda869e6fa11a0f4766360a5658c6593f3d048cd1ae379",
-        "datetime": 1784046000,
+        "headline": "吉姆·克莱默 (Jim Cramer) 分享摩根​​士丹利对太空探索技术公司 (SPCX) 的看法",
+        "url": "https://finnhub.io/api/news?id=f86baf65ed6859916b0c3c7c197628eb7348cdeb34810bb800d97277248733a8",
+        "datetime": 1784061403,
         "source": "Yahoo"
       }
     ],
@@ -1333,6 +1333,12 @@
     ],
     "DOGE": [
       {
+        "headline": "现在每个应用程序都是人工智能应用程序。我们还是一只狗的图片",
+        "url": "https://x.com/dogecoin/status/2077152328096846337",
+        "datetime": 1784066681,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "仅使用表情符号解释狗狗币",
         "url": "https://x.com/dogecoin/status/2076822473081844064",
         "datetime": 1783988037,
@@ -1342,12 +1348,6 @@
         "headline": "谢谢@akaCurt，你是一个聪明的 shibe",
         "url": "https://x.com/dogecoin/status/2075360708519247977",
         "datetime": 1783639525,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "作为专家，我们赞成那些陷入困境并卷土重来的事情",
-        "url": "https://x.com/dogecoin/status/2074606483325534641",
-        "datetime": 1783459704,
         "source": "@dogecoin"
       }
     ],
