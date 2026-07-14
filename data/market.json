@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T20:52:35.602Z",
+  "updated_at": "2026-07-14T21:51:09.996Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64430,
-      "change_pct": 3.78
+      "price": 64682,
+      "change_pct": 4.33
     },
     {
       "symbol": "ETH",
-      "price": 1873.73,
-      "change_pct": 6.21
+      "price": 1876.53,
+      "change_pct": 6.74
     },
     {
       "symbol": "SOL",
-      "price": 77,
-      "change_pct": 3.18
+      "price": 77.23,
+      "change_pct": 4.02
     },
     {
       "symbol": "HYPE",
-      "price": 65.4,
-      "change_pct": 3.64
+      "price": 65.62,
+      "change_pct": 4.7
     },
     {
       "symbol": "ZEC",
-      "price": 536.76,
-      "change_pct": 8.36
+      "price": 541.98,
+      "change_pct": 9.61
     },
     {
       "symbol": "TAO",
-      "price": 203.49,
-      "change_pct": 2.13
+      "price": 201.91,
+      "change_pct": 1.27
     },
     {
       "symbol": "SKY",
-      "price": 1407.84,
-      "change_pct": 3.33
+      "price": 1417.45,
+      "change_pct": 4.45
     },
     {
       "symbol": "AAVE",
-      "price": 99.07,
-      "change_pct": 5.36
+      "price": 98.74,
+      "change_pct": 5.53
     },
     {
       "symbol": "BNB",
-      "price": 579.46,
-      "change_pct": 2.65
+      "price": 580.7,
+      "change_pct": 2.99
     },
     {
       "symbol": "NEAR",
       "price": 2.02,
-      "change_pct": 6.34
+      "change_pct": 7.04
     },
     {
       "symbol": "DOGE",
-      "price": 0.074059,
-      "change_pct": 3.5
+      "price": 0.074401,
+      "change_pct": 4.5
     },
     {
       "symbol": "SPACEX",
-      "price": 464.42,
-      "change_pct": 2.06
+      "price": 464.44,
+      "change_pct": 2.28
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "美国商品期货交易委员会采取行动，阻止卡尔希按照密歇根州法院的命令取消交易",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
+      "datetime": 1784062265,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Velocity 融资 3800 万美元，为企业构建稳定币财务基础设施",
       "summary": "在 Dragonfly、FirstMark 和 Coinbase Ventures 的支持下，这家初创公司正在扩展软件，帮助企业将稳定币集成到财务和支付工作流程中。",
       "source": "Cointelegraph",
@@ -732,15 +741,6 @@
       "datetime": 1784033585,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "美国6月CPI下降0.4%，美联储加息可能降温",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-      "datetime": 1784032404,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,31 +784,31 @@
     }
   ],
   "btc_score": {
-    "score": 23.7,
+    "score": 27.3,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 10.9,
-    "weekly_score": 12.8,
-    "btc_price": 64435.8,
+    "daily_score": 14.3,
+    "weekly_score": 13,
+    "btc_price": 64714.7,
     "fear_greed": 28,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -424700000,
-        "score": 22,
+        "value": 7400000,
+        "score": 50,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.00814,
-        "score": 49,
+        "value": 0.009359,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.2,
+        "value": 1.21,
         "score": 47,
         "weight": 5,
         "group": "daily"
@@ -857,8 +857,8 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.71,
-        "score": 14,
+        "value": 0.72,
+        "score": 15,
         "weight": 6,
         "group": "weekly"
       },
@@ -871,15 +871,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.1,
+        "value": 37.6,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -82.3,
-        "score": 22,
+        "value": -76.1,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -1019,14 +1019,14 @@
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
         "likes": 912,
-        "retweets": 43
+        "retweets": 44
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
         "likes": 928,
-        "retweets": 51
+        "retweets": 53
       }
     ],
     "QwQiao": [
@@ -1057,36 +1057,36 @@
         "text": "Our goal is clear: return $STRC to par.",
         "url": "https://x.com/saylor/status/2077131252742648275",
         "time": "Tue Jul 14 20:40:56 +0000 2026",
-        "likes": 450,
-        "retweets": 38
+        "likes": 1781,
+        "retweets": 133
       },
       {
         "text": "Last call.",
         "url": "https://x.com/saylor/status/2077052307460518391",
         "time": "Tue Jul 14 15:27:14 +0000 2026",
-        "likes": 2929,
-        "retweets": 223
+        "likes": 3092,
+        "retweets": 232
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit. $BTC https://t.co/aeJmWpCWIl",
         "url": "https://x.com/saylor/status/2076996691861905775",
         "time": "Tue Jul 14 11:46:14 +0000 2026",
-        "likes": 3789,
-        "retweets": 405
+        "likes": 3873,
+        "retweets": 414
       },
       {
         "text": "We have introduced the Bitcoin Banking Adoption Index.\n\nMajor-bank Bitcoin adoption is accelerating, but still early: 32% overall as measured by the index. $BTC",
         "url": "https://x.com/saylor/status/2076717295074771407",
         "time": "Mon Jul 13 17:16:01 +0000 2026",
-        "likes": 7324,
-        "retweets": 855
+        "likes": 7356,
+        "retweets": 858
       },
       {
         "text": "Strategy has increased its USD Reserve by $450 million. As of 7/12/2026, we hodl ₿843,775 in our BTC Reserves and $3.0 billion in our USD Reserves. $MSTR $STRC https://t.co/OdFbjLuCTP",
         "url": "https://x.com/saylor/status/2076638696053276748",
         "time": "Mon Jul 13 12:03:41 +0000 2026",
-        "likes": 11299,
-        "retweets": 1199
+        "likes": 11328,
+        "retweets": 1203
       }
     ],
     "viktorfischer": [
@@ -1369,6 +1369,12 @@
     ],
     "NEAR": [
       {
+        "headline": "NEAR 多年前设计的账户模型是在考虑到量子威胁的情况下构建的。\n\n后量子签名现已在测试网上进行，NEAR 正在推出升级以保护协议 Intents 生态",
+        "url": "https://x.com/NEARProtocol/status/2077148463230308857",
+        "datetime": 1784065759,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "阅读完整公告：",
         "url": "https://x.com/NEARProtocol/status/2077109190170955777",
         "datetime": 1784056396,
@@ -1378,12 +1384,6 @@
         "headline": "提醒：NEAR@3.33 已上线。\n\n如果您一直在秘密交换，那么您已经符合资格。\n\n底线是持续 100 美元以上的机密余额和一笔机密交换，除此之外的所有内容",
         "url": "https://x.com/NEARProtocol/status/2077109187658535049",
         "datetime": 1784056395,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "单独加密，而不是集中混淆。\n\n混合者汇集任何来源的资金，并将共享资金池的风险交给用户。机密意图在入口处筛选资产并加密每个用户的数据",
-        "url": "https://x.com/NEARProtocol/status/2077057062278660306",
-        "datetime": 1784043968,
         "source": "@NEARProtocol"
       }
     ],
