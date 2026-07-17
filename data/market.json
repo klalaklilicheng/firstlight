@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T07:14:43.348Z",
+  "updated_at": "2026-07-17T09:49:56.496Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62841,
-      "change_pct": -2.76
+      "price": 62986,
+      "change_pct": -1.68
     },
     {
       "symbol": "ETH",
-      "price": 1828.51,
-      "change_pct": -4.75
+      "price": 1832.76,
+      "change_pct": -2.67
     },
     {
       "symbol": "SOL",
-      "price": 74.48,
-      "change_pct": -3.56
+      "price": 74.67,
+      "change_pct": -1.76
     },
     {
       "symbol": "HYPE",
-      "price": 59.22,
-      "change_pct": -11.34
+      "price": 60.78,
+      "change_pct": -7.79
     },
     {
       "symbol": "ZEC",
-      "price": 530.83,
-      "change_pct": -6.38
+      "price": 533.24,
+      "change_pct": -2.4
     },
     {
       "symbol": "TAO",
-      "price": 190.19,
-      "change_pct": -5.09
+      "price": 192.02,
+      "change_pct": -2.16
     },
     {
       "symbol": "SKY",
-      "price": 1399.3,
-      "change_pct": -4.5
+      "price": 1388.28,
+      "change_pct": -3.92
     },
     {
       "symbol": "AAVE",
-      "price": 90.6,
-      "change_pct": -5.16
+      "price": 90.78,
+      "change_pct": -4.15
     },
     {
       "symbol": "BNB",
-      "price": 568.95,
-      "change_pct": -2.25
+      "price": 564.8,
+      "change_pct": -2.1
     },
     {
       "symbol": "NEAR",
-      "price": 1.94,
-      "change_pct": -5.59
+      "price": 1.91,
+      "change_pct": -5.61
     },
     {
       "symbol": "DOGE",
-      "price": 0.07174,
-      "change_pct": -3.13
+      "price": 0.07164,
+      "change_pct": -1.97
     },
     {
       "symbol": "SPACEX",
-      "price": 437.47,
-      "change_pct": -4.54
+      "price": 437.39,
+      "change_pct": -4.37
     }
   ],
   "earnings": {
@@ -473,6 +473,51 @@
   },
   "news": [
     {
+      "headline": "Airbnb 首席执行官表示 X 账户被黑客攻击，攻击者在代币化方面发布了 AI-slop",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
+      "datetime": 1784278222,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "MacOS 恶意软件劫持 Telegram 会话，瞄准加密钱包：SlowMist",
+      "summary": "macOS 恶意软件窃取凭据以劫持 Telegram 会话、解密加密货币钱包或通过虚假应用程序诱骗用户输入钱包恢复短语。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/macos-malware-crypto-investors-slowmist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784278100,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着芯片交易的平仓，以太币的跌幅是比特币的两倍，HYPE 下跌 10%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
+      "datetime": 1784273381,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "这个 2800 万美元的以太市场赌注旨在从纯粹的市场混乱中获利",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
+      "datetime": 1784273332,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币 ETF 连续三天买入 3.68 亿美元",
+      "summary": "随着比特币价格试图回升，美国现货比特币 ETF 周四吸引了 7920 万美元，使三天的流入总额达到约 3.68 亿美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784272982,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Ordinals 开发者 Leonidas 提出了新的比特币客户端：“$DOG 模式”",
       "summary": "“随着时间的推移，经济激励措施将推动 $DOG 模式的采用，并迫使 Bitcoin Core 停止看门并允许这些完全有效的交易，”Leonidas 说。",
       "source": "Cointelegraph",
@@ -696,51 +741,6 @@
       "datetime": 1784219401,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Tradable 的 10 亿美元 Stellar 交易推动了机构代币化热潮",
-      "summary": "Tradable 将为 Stellar 带来高达 10 亿美元的私人信贷资产，将区块链扩展到机构金融和代币化的现实世界资产。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784218756,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Tether 支持 Pact Labs 将数字美元纳入每个美国人的薪水中",
-      "summary": "由 Tether 进行战略投资、Blockchange Ventures 和 Lasagna 参与的 A 轮融资将使 PACT 成为 USA₮ 的基础设施层，涵盖薪资、工资获取、信贷和支付等方面。旧金山，2026 年 7 月 14 日 /美通社/ — Pact Labs 今天宣布了 A 系列 f",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/tether-backs-pact-labs-to-put-digital-dollars-in-every-american-paycheck/",
-      "datetime": 1784218747,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "由于 Circle 面临新的竞争，Visa 通过新的稳定币平台支持 Open USD",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "datetime": 1784218470,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "以下是 Netflix 盘后公布财报时的预期结果",
-      "summary": "投资者将关注 Netflix 广告支持业务、参与度指标以及这家流媒体巨头如何继续考虑潜在并购的最新信息。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-      "datetime": 1784218331,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "Keyrock 收购 BlockFills 交易资产以扩大机构加密业务",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "datetime": 1784215575,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.6,
+    "score": 34.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
-    "weekly_score": 16.8,
-    "btc_price": 62905.4,
+    "daily_score": 17.1,
+    "weekly_score": 17.4,
+    "btc_price": 62996.3,
     "fear_greed": 33,
     "indicators": [
       {
@@ -823,15 +823,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00336,
-        "score": 47,
+        "value": 0.000105,
+        "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.74,
-        "score": 83,
+        "value": 1.86,
+        "score": 91,
         "weight": 5,
         "group": "daily"
       },
@@ -851,22 +851,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.183,
-        "score": 43,
+        "value": 0.17,
+        "score": 42,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.743,
-        "score": 5,
+        "value": 1.114,
+        "score": 14,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.002,
-        "score": 52,
+        "value": 0.999,
+        "score": 49,
         "weight": 8,
         "group": "weekly"
       },
@@ -900,8 +900,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -62.5,
-        "score": 28,
+        "value": -52.2,
+        "score": 31,
         "weight": 4,
         "group": "weekly"
       }
@@ -1026,7 +1026,7 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 934,
+        "likes": 935,
         "retweets": 54
       },
       {
@@ -1041,7 +1041,7 @@
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
         "likes": 911,
-        "retweets": 44
+        "retweets": 43
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
@@ -1076,39 +1076,39 @@
     ],
     "saylor": [
       {
+        "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
+        "url": "https://x.com/saylor/status/2078052927743082928",
+        "time": "Fri Jul 17 09:43:20 +0000 2026",
+        "likes": 212,
+        "retweets": 19
+      },
+      {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 2928,
-        "retweets": 265
+        "likes": 3019,
+        "retweets": 279
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 6754,
-        "retweets": 593
+        "likes": 6893,
+        "retweets": 614
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
         "url": "https://x.com/saylor/status/2077411109242290463",
         "time": "Wed Jul 15 15:12:59 +0000 2026",
-        "likes": 3560,
-        "retweets": 379
+        "likes": 3577,
+        "retweets": 381
       },
       {
         "text": "BIP 110: Bitcoin Iatrogenic Proposal.",
         "url": "https://x.com/saylor/status/2077297913382748160",
         "time": "Wed Jul 15 07:43:11 +0000 2026",
-        "likes": 4520,
-        "retweets": 418
-      },
-      {
-        "text": "Our goal is clear: return $STRC to par.",
-        "url": "https://x.com/saylor/status/2077131252742648275",
-        "time": "Tue Jul 14 20:40:56 +0000 2026",
-        "likes": 5490,
-        "retweets": 471
+        "likes": 4528,
+        "retweets": 420
       }
     ],
     "viktorfischer": [
@@ -1152,37 +1152,49 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "历史可能会告诉我们为什么英伟达的股票如此便宜。投资者应该倾听吗？",
+        "url": "https://finnhub.io/api/news?id=8836fd08e6c73d2620a3d1c83b37362aeb6605503115ff89b9261af5ded1dc41",
+        "datetime": 1784274300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "埃隆·马斯克从未出售过他的特斯拉愿景。您应该在 7 月 22 日之前逢低买入吗？",
+        "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
+        "datetime": 1784273100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "SpaceX 股价到 2028 年可能下跌 30% 的 3 个原因",
+        "url": "https://finnhub.io/api/news?id=e031dddb5b751da49f4dce57cc3ba251bc083265b50e9c2ca5f3b8b4be792c92",
+        "datetime": 1784271000,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "AST SpaceMobile：发行 10 亿美元可转换票据后，股价下跌 17%，但稀释风险比看上去要小（纳斯达克股票代码：ASTS）",
+        "url": "https://finnhub.io/api/news?id=c9158b47504c87eacfce6805737c3c859aa8ddc3c20b73760937ffcf910a8218",
+        "datetime": 1784268420,
+        "source": "Yahoo"
+      },
+      {
         "headline": "3只值得买入并持有的高收益股息股票",
         "url": "https://finnhub.io/api/news?id=405a05fc41aab22c382255930ba97d658555a30994d96cac9cd5312c989a4307",
         "datetime": 1784265600,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Lucid 称破产传闻“完全错误”，股价飙升 29%。这是其资产负债表实际显示的内容。",
-        "url": "https://finnhub.io/api/news?id=c00b1647146e0250da0b7af523801b64e76344a61c7f34c025797c6880bb3b9e",
-        "datetime": 1784264460,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX、Alphabet 和 SK 海力士正在悄悄发出投资者不应忽视的看涨信号",
-        "url": "https://finnhub.io/api/news?id=7634b7592b0cf881c96a6599b156e06be730602dc9b00b696f6684e8eed234aa",
-        "datetime": 1784263500,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "诺基亚股票面临五年来最糟糕的一周 - 但零售交易商并没有放弃诺基亚的“AI RAN 技术”推动",
-        "url": "https://finnhub.io/api/news?id=cd75e63ec305cebcc88d68103f30a6bd2b9aa9df5513500c64f9820112cc368c",
-        "datetime": 1784262868,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "下跌 26%，IBM 股票是 2026 年下半年最值得买入的股息股吗？",
-        "url": "https://finnhub.io/api/news?id=432bd7ebe57c4841edb4c1c241caef5eb5d16d0dd1531c8459159293c80d37db",
-        "datetime": 1784262000,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Google 和 Visa 加入在线小额支付革命",
+        "url": "https://finnhub.io/api/news?id=c922a202e506317b62bd037089a16a81ecb69c9dc3a87d068bbb50e20728b96c",
+        "datetime": 1784271720,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "网络学校创始人表示，科技公社的移民调查对马来西亚的科技雄心构成风险",
+        "url": "https://finnhub.io/api/news?id=5756ecc395ca50ff8000a125e1dd72ff15eef2bb72467ccace846fb97d1650f7",
+        "datetime": 1784267788,
+        "source": "Yahoo"
+      },
       {
         "headline": "MSFT 股价一夜暴跌：萨蒂亚·纳德拉 (Satya Nadella) 称 Anthropic 的《神鬼寓言 5》在安全保障措施强烈反对下“受到编辑控制”",
         "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
@@ -1200,21 +1212,21 @@
         "url": "https://finnhub.io/api/news?id=7634b7592b0cf881c96a6599b156e06be730602dc9b00b696f6684e8eed234aa",
         "datetime": 1784263500,
         "source": "Yahoo"
-      },
-      {
-        "headline": "“大空头”投资者史蒂夫·艾斯曼表示人工智能“没有护城河”，这“不是长寿的秘诀”",
-        "url": "https://finnhub.io/api/news?id=175304a60c2c5d7541ecd69206c1eebdcf2852be6a7b19fb3591e9dabc53e777",
-        "datetime": 1784259083,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "道琼斯期货下跌，Netflix 跳水，SpaceX 在最新的人工智能抛售后取消发射",
-        "url": "https://finnhub.io/api/news?id=315b5cd91a75a70dc8ee2f8d3750b2d78dc27c13292c8f9e18acd79eb6021496",
-        "datetime": 1784257668,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "埃隆·马斯克从未出售过他的特斯拉愿景。您应该在 7 月 22 日之前逢低买入吗？",
+        "url": "https://finnhub.io/api/news?id=986d9ca8e78cc0576b4c5f9ad0b230c8544f3953bf06e87fec51ee96433aaaff",
+        "datetime": 1784273100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉股价一夜暴跌：加里·布莱克称 SpaceX 买不起特斯拉——“数学不会通过要求”",
+        "url": "https://finnhub.io/api/news?id=1e2dfdc679eb187eff9b03e5986f09b42e179158c438e238a589366c92a22b0d",
+        "datetime": 1784269759,
+        "source": "Yahoo"
+      },
       {
         "headline": "MSFT 股价一夜暴跌：萨蒂亚·纳德拉 (Satya Nadella) 称 Anthropic 的《神鬼寓言 5》在安全保障措施强烈反对下“受到编辑控制”",
         "url": "https://finnhub.io/api/news?id=7cbc633245eb32c28eedfd490e0abdec35044fb7e4c9eba1f7f36d15884f8ff2",
@@ -1232,21 +1244,15 @@
         "url": "https://finnhub.io/api/news?id=e85ca2da37cd9c657686067feddbde60ed5dd43c11f3f7b362da13182a9641a3",
         "datetime": 1784237304,
         "source": "Yahoo"
-      },
-      {
-        "headline": "硅谷 Midas 投资者 Michael Moritz 谈人工智能、风险投资和一切",
-        "url": "https://finnhub.io/api/news?id=7cd068ddcdd540daee6fcc1cddbfe96e54bd1a337737ba527353d871561b07c4",
-        "datetime": 1784235000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "您应该在 7 月 22 日之前购买特斯拉股票吗？",
-        "url": "https://finnhub.io/api/news?id=15459ed5ecfcc69ced3c070b91dab9f6a1450e7d0fb8966e81ce1b18f8562171",
-        "datetime": 1784235000,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "第二季度收益领先：营收稳定，收益率捕获不确定",
+        "url": "https://finnhub.io/api/news?id=c5ad7d839fe08aa1d25130ca8532a33247e3d61d1d48b9c11573964808faa67b",
+        "datetime": 1784258400,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "由于 6 月份通胀数据弱于预期，降低了美联储今年加息的预期，比特币上涨，加密货币相关公司的股价走高。宽松货币政策的前景可能会支撑对风险资产的需求。",
         "url": "https://finnhub.io/api/news?id=2aadcbeaabb283391e25000fb4efbd42196e4d602e0a273400b8d50b9243d447",
@@ -1270,16 +1276,22 @@
         "url": "https://finnhub.io/api/news?id=721f582ebb31245f6006a294dd94c8a230be82ee1b07143e8e272cedef9adf89",
         "datetime": 1784120924,
         "source": "Benzinga"
-      },
-      {
-        "headline": "特朗普的加密货币推动可能恰逢 Coinbase 和 Circle",
-        "url": "https://finnhub.io/api/news?id=b2c9243c50f9beb63b073d7b0c95b15f5f4afe26fdb91409fde3febd0bd80daa",
-        "datetime": 1784119696,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [],
     "BTC": [
+      {
+        "headline": "随着芯片交易的平仓，以太币的跌幅是比特币的两倍，HYPE 下跌 10%",
+        "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
+        "datetime": 1784273381,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币 ETF 连续三天买入 3.68 亿美元",
+        "url": "https://cointelegraph.com/news/bitcoin-etfs-368-million-three-day-buying-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1784272982,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "Ordinals 开发者 Leonidas 提出了新的比特币客户端：“$DOG 模式”",
         "url": "https://cointelegraph.com/news/ordinals-dev-leonidas-proposes-new-bitcoin-client-dog-mode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1297,18 +1309,6 @@
         "url": "https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty",
         "datetime": 1784261409,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币流动性集群决定了比特币的价格方向，因为期货流动推动了价格",
-        "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1784247160,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币前景改善，每周上涨 6%：BTC 多头能否推高？",
-        "url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1784233760,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
@@ -1317,12 +1317,6 @@
         "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
         "datetime": 1784121588,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitmine 上个季度从以太坊质押中赚取了 4600 万美元",
-        "url": "https://cointelegraph.com/news/bitmine-generated-46m-from-ethereum-staking-last-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1784078894,
-        "source": "Cointelegraph"
       }
     ],
     "SOL": [
