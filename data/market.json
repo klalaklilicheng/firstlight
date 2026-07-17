@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T21:00:56.892Z",
+  "updated_at": "2026-07-17T21:58:27.678Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64088,
-      "change_pct": 0
+      "price": 64060,
+      "change_pct": -0.06
     },
     {
       "symbol": "ETH",
-      "price": 1842.23,
-      "change_pct": -1.55
+      "price": 1840.73,
+      "change_pct": -1.92
     },
     {
       "symbol": "SOL",
-      "price": 75.06,
-      "change_pct": -0.88
+      "price": 74.99,
+      "change_pct": -1.18
     },
     {
       "symbol": "HYPE",
-      "price": 59.65,
-      "change_pct": -4.5
+      "price": 59.82,
+      "change_pct": -4.05
     },
     {
       "symbol": "ZEC",
-      "price": 542.68,
-      "change_pct": 0.51
+      "price": 542.88,
+      "change_pct": 0.46
     },
     {
       "symbol": "TAO",
-      "price": 193.57,
-      "change_pct": -0.17
+      "price": 192.99,
+      "change_pct": -0.78
     },
     {
       "symbol": "SKY",
-      "price": 1386.87,
-      "change_pct": -1.93
+      "price": 1380.94,
+      "change_pct": -3.4
     },
     {
       "symbol": "AAVE",
-      "price": 90.51,
-      "change_pct": -1.9
+      "price": 90.58,
+      "change_pct": -1.68
     },
     {
       "symbol": "BNB",
-      "price": 567.6,
-      "change_pct": -1.22
+      "price": 568.14,
+      "change_pct": -1.34
     },
     {
       "symbol": "NEAR",
       "price": 1.92,
-      "change_pct": -5.4
+      "change_pct": -5.82
     },
     {
       "symbol": "DOGE",
-      "price": 0.072595,
-      "change_pct": -0.63
+      "price": 0.072654,
+      "change_pct": -0.57
     },
     {
       "symbol": "SPACEX",
-      "price": 441.15,
-      "change_pct": -14.51
+      "price": 445.39,
+      "change_pct": -13.69
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "FTX 将在第五轮付款中向债权人分配 9 亿美元",
+      "summary": "自 2022 年 11 月该交易所申请破产以来，FTX Recovery Trust 和该公司已分配了约 100 亿美元，导致用户资金被切断。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784324418,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "银河队获得德州理工大学体育场 15 年冠名权协议",
       "summary": "Galaxy Digital 将根据一项为期 15 年的协议重新命名德克萨斯理工大学的橄榄球场，随着该州吸引越来越多的加密货币投资，扩大其在西德克萨斯州的业务。",
       "source": "Cointelegraph",
@@ -518,7 +527,7 @@
       "related": ""
     },
     {
-      "headline": "Meta 在人工智能人才大战中的最新举措——以及 Cramer 在市场上的 4 款快速热门产品",
+      "headline": "Meta 在人工智能人才大战中的最新举措——以及 Cramer 在市场上的 4 个快速热门产品",
       "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
@@ -528,7 +537,7 @@
     },
     {
       "headline": "零售业和华尔街在 SpaceX 的影响下陷入困境，但不会不战而屈人之兵",
-      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际首次公开募股 (IPO) 现在给空头提供了素材。",
+      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际 IPO 现在给空头提供了素材。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
       "datetime": 1784309261,
@@ -732,15 +741,6 @@
       "datetime": 1784284175,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着人工智能抛售从股票蔓延到加密货币，避险浪潮将比特币拖至 63,000 美元下方",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
-      "datetime": 1784283966,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -768,7 +768,7 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "微软纳德拉在员工会议上撕毁 Anthropic 的 Fable 限制：“没有意义”",
+          "headline": "微软纳德拉在员工会议上撕毁了 Anthropic 的 Fable 限制：“没有意义”",
           "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
           "datetime": 1784242272
         },
@@ -821,7 +821,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.2,
     "weekly_score": 17.1,
-    "btc_price": 64141,
+    "btc_price": 64102.4,
     "fear_greed": 33,
     "indicators": [
       {
@@ -833,14 +833,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.000755,
+        "value": -0.000207,
         "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.6,
+        "value": 1.59,
         "score": 73,
         "weight": 5,
         "group": "daily"
@@ -910,7 +910,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -85.3,
+        "value": -84.5,
         "score": 22,
         "weight": 4,
         "group": "weekly"
@@ -1089,36 +1089,36 @@
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 5292,
-        "retweets": 664
+        "likes": 5420,
+        "retweets": 684
       },
       {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 3340,
-        "retweets": 318
+        "likes": 3366,
+        "retweets": 325
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 7385,
-        "retweets": 659
+        "likes": 7429,
+        "retweets": 662
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
         "url": "https://x.com/saylor/status/2077411109242290463",
         "time": "Wed Jul 15 15:12:59 +0000 2026",
-        "likes": 3607,
-        "retweets": 382
+        "likes": 3608,
+        "retweets": 383
       },
       {
         "text": "BIP 110: Bitcoin Iatrogenic Proposal.",
         "url": "https://x.com/saylor/status/2077297913382748160",
         "time": "Wed Jul 15 07:43:11 +0000 2026",
         "likes": 4553,
-        "retweets": 420
+        "retweets": 421
       }
     ],
     "viktorfischer": [
@@ -1358,7 +1358,7 @@
     ],
     "DOGE": [
       {
-        "headline": "法定货币受到对机构的信任的支持。总督有狗支持。其中只有一个需要救助",
+        "headline": "法定货币受到对机构的信任的支持。总督有一只狗支持。其中只有一个需要救助",
         "url": "https://x.com/dogecoin/status/2077524635214549447",
         "datetime": 1784155446,
         "source": "@dogecoin"
@@ -1387,6 +1387,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "越来越多的商业和工作流程将通过代表您的代理进行。\n\n接下来两个问题：谁拥有它们产生的价值，以及谁看到其背后的数据。\n\nNEAR AI 保存您的数据",
+        "url": "https://x.com/NEARProtocol/status/2078233750853345456",
+        "datetime": 1784324512,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "一个帐户。将超过 35 个链上的任何资产直接存入 Hyperliquid。\n\n交易 50 多个市场。没有单独的桥，没有包装，没有第二个钱包来资助。\n\n开始交易：",
         "url": "https://x.com/NEARProtocol/status/2078154950131991032",
         "datetime": 1784305725,
@@ -1396,12 +1402,6 @@
         "headline": "钱包可以在现有流程中提供机密交换。去中心化交易所和聚合器可以减少交易信号。资产管理者可以让用户秘密地跨链重新平衡。\n\n从这里开始： \n\n想要我们的特",
         "url": "https://x.com/NEARProtocol/status/2078106679002923083",
         "datetime": 1784294216,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "现有集成商：在您已运行的 1Click Swap 集成中传递机密参数。\n\n机密流程上线。\n新团队：集成 1Click，从一开始就将其打开。一个标准",
-        "url": "https://x.com/NEARProtocol/status/2078106499436380263",
-        "datetime": 1784294173,
         "source": "@NEARProtocol"
       }
     ],
