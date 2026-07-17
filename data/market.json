@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:53:38.984Z",
+  "updated_at": "2026-07-17T01:56:07.910Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63844,
-      "change_pct": -1.39
+      "price": 63460,
+      "change_pct": -1.9
     },
     {
       "symbol": "ETH",
-      "price": 1863.89,
-      "change_pct": -2.79
+      "price": 1848.14,
+      "change_pct": -3.84
     },
     {
       "symbol": "SOL",
-      "price": 75.24,
-      "change_pct": -2.58
+      "price": 75.02,
+      "change_pct": -2.57
     },
     {
       "symbol": "HYPE",
-      "price": 60.71,
-      "change_pct": -9.16
+      "price": 60.06,
+      "change_pct": -9.88
     },
     {
       "symbol": "ZEC",
-      "price": 526.23,
-      "change_pct": -7.91
+      "price": 527.99,
+      "change_pct": -6.9
     },
     {
       "symbol": "TAO",
-      "price": 191.49,
-      "change_pct": -3.77
+      "price": 191.06,
+      "change_pct": -4.63
     },
     {
       "symbol": "SKY",
-      "price": 1419.27,
-      "change_pct": -2.26
+      "price": 1403.45,
+      "change_pct": -3.75
     },
     {
       "symbol": "AAVE",
-      "price": 91.17,
-      "change_pct": -4.88
+      "price": 90.67,
+      "change_pct": -5.79
     },
     {
       "symbol": "BNB",
-      "price": 572.52,
-      "change_pct": -1.29
+      "price": 570.99,
+      "change_pct": -1.48
     },
     {
       "symbol": "NEAR",
       "price": 1.97,
-      "change_pct": -4.69
+      "change_pct": -4.45
     },
     {
       "symbol": "DOGE",
-      "price": 0.072309,
-      "change_pct": -2.28
+      "price": 0.072084,
+      "change_pct": -2.66
     },
     {
       "symbol": "SPACEX",
-      "price": 461.44,
-      "change_pct": 3
+      "price": 461.49,
+      "change_pct": 5.7
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "比特币流动性集群决定了比特币的价格方向，因为期货流动推动了价格",
+      "summary": "比特币期货交易员正在支撑当前的市场走势，而清算热图数据则提供了比特币价格下一步走势的暗示。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784247160,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Citadel 证券以 20B 美元估值向 Crypto.com 投资 4 亿美元",
+      "summary": "加密货币交易所越来越将自己定位为数字资产市场和传统金融之间的桥梁。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/citadel-securities-invests-400m-in-cryptocom-at-20b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784245632,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "微软纳德拉在员工会议上撕毁了 Anthropic 的 Fable 限制：“没有意义”",
       "summary": "微软与 Anthropic 有着密切的联系，但它也致力于帮助公司完善模型以保证数据的私密性。",
       "source": "CNBC",
@@ -723,24 +741,6 @@
       "datetime": 1784208600,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "预测市场以创纪录的第二季度交易量抵御加密货币低迷：CoinGecko",
-      "summary": "随着 CEX 现货交易、衍生品交易量和稳定币市值下降，预测市场第二季度名义交易量达到创纪录的 1138 亿美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784207109,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Ledger 希望人工智能代理无需持有您的密钥即可管理加密货币",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "datetime": 1784206800,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -796,39 +796,39 @@
     }
   ],
   "btc_score": {
-    "score": 32.3,
+    "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.5,
+    "daily_score": 15.7,
     "weekly_score": 16.8,
-    "btc_price": 63879.7,
-    "fear_greed": 35,
+    "btc_price": 63527.6,
+    "fear_greed": 33,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 15000000,
-        "score": 51,
+        "value": 45700000,
+        "score": 53,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.007765,
+        "value": 0.008016,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.42,
-        "score": 61,
+        "value": 1.45,
+        "score": 63,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 35,
-        "score": 35,
+        "value": 33,
+        "score": 33,
         "weight": 7,
         "group": "daily"
       },
@@ -876,22 +876,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.03,
-        "score": 18,
+        "value": 1.01,
+        "score": 17,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 36.5,
-        "score": 28,
+        "value": 36.2,
+        "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87,
-        "score": 21,
+        "value": -81,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -900,7 +900,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 13
+      "days_until": 12
     },
     "schedule": [
       "2025-01-29",
@@ -1009,36 +1009,36 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1015,
-        "retweets": 82
+        "likes": 1014,
+        "retweets": 81
       },
       {
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 936,
-        "retweets": 55
+        "likes": 934,
+        "retweets": 54
       },
       {
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
         "likes": 1465,
-        "retweets": 77
+        "retweets": 76
       },
       {
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 911,
-        "retweets": 44
+        "likes": 910,
+        "retweets": 43
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
         "likes": 927,
-        "retweets": 53
+        "retweets": 52
       }
     ],
     "QwQiao": [
@@ -1069,35 +1069,35 @@
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 2417,
-        "retweets": 218
+        "likes": 2583,
+        "retweets": 235
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 6314,
-        "retweets": 542
+        "likes": 6469,
+        "retweets": 564
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
         "url": "https://x.com/saylor/status/2077411109242290463",
         "time": "Wed Jul 15 15:12:59 +0000 2026",
-        "likes": 3519,
+        "likes": 3534,
         "retweets": 373
       },
       {
         "text": "BIP 110: Bitcoin Iatrogenic Proposal.",
         "url": "https://x.com/saylor/status/2077297913382748160",
         "time": "Wed Jul 15 07:43:11 +0000 2026",
-        "likes": 4476,
-        "retweets": 411
+        "likes": 4490,
+        "retweets": 412
       },
       {
         "text": "Our goal is clear: return $STRC to par.",
         "url": "https://x.com/saylor/status/2077131252742648275",
         "time": "Tue Jul 14 20:40:56 +0000 2026",
-        "likes": 5487,
+        "likes": 5488,
         "retweets": 471
       }
     ],
@@ -1142,41 +1142,53 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Nvidia 的 Rubin 保证保护更大的人工智能赌注",
-        "url": "https://finnhub.io/api/news?id=402ea3db2b647c8bd85002af25478b26a952d0aeb05b23f620947193e7b7c179",
-        "datetime": 1784238420,
+        "headline": "每投资 10,000 美元 NVIDIA ETF 就有 1,000 美元的隐藏税",
+        "url": "https://finnhub.io/api/news?id=6e323892931bc998dffbcffed7029a74ebc6016f147d092ff73179e4d24fd9c0",
+        "datetime": 1784245895,
         "source": "Yahoo"
       },
       {
-        "headline": "波音公司 6 月份交付了 64 架喷气式飞机。这对其 7 月 28 日的收益意味着什么。",
-        "url": "https://finnhub.io/api/news?id=779c76dbabe7ef273b12fbfc7837f57b209f7aa80309bf1467534f85a3d663d7",
-        "datetime": 1784238180,
+        "headline": "随着通胀降温成为顺风车，房地产收入是我会购买的股息股票",
+        "url": "https://finnhub.io/api/news?id=eeebca142a04d3affa32f35226cab98b226cad559d18c82d2b0d8866e5819c6a",
+        "datetime": 1784244960,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊：深入了解云增长故事（纳斯达克股票代码：AMZN）",
-        "url": "https://finnhub.io/api/news?id=207c0c9688e5d63354bb98ac521750d0b7acc646eb0a2ce8741e0d2a748fa269",
-        "datetime": 1784237700,
+        "headline": "您应该在 7 月 28 日之前购买可口可乐股票吗？",
+        "url": "https://finnhub.io/api/news?id=0941a48e33fbf521b75f5cbd33a856dbafe9ef0a153257ce3ef0783cd4bf0fe0",
+        "datetime": 1784244780,
         "source": "Yahoo"
       },
       {
-        "headline": "Lemonade 保留了更多自己的保险风险。这是信心的标志还是危险信号？",
-        "url": "https://finnhub.io/api/news?id=d15c2fcb503db83084921aea7a922e482822fc8ed05c965b93f241bd54426676",
-        "datetime": 1784236920,
+        "headline": "SpaceX 刚刚跌破 IPO 价格。根据历史，接下来会发生什么。",
+        "url": "https://finnhub.io/api/news?id=30b15c39c282ba5bc7ceac3e951a2ade41140cc9fa08af9d8cae4cfdcebaaac9",
+        "datetime": 1784244600,
         "source": "Yahoo"
       },
       {
-        "headline": "台积电承诺在美国再投资1000亿美元",
-        "url": "https://finnhub.io/api/news?id=e948eece2fbf2be4fa38f05c662e73fea74915856d890a51b6db9c89cfdb14e5",
-        "datetime": 1784236561,
+        "headline": "为什么 Verizon 股票周四涨幅居前",
+        "url": "https://finnhub.io/api/news?id=c086dba1f9b11747091fcc47cae1cc17110be7c6f6e0448df10e4d50ac6fce34",
+        "datetime": 1784244174,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "美光博伊西总部内部：美国存储技术的核心",
+        "url": "https://finnhub.io/api/news?id=24113fe0e778a06dd51afe9fb57af710760c12d1522bde2230f8c64806dd9f24",
+        "datetime": 1784244451,
+        "source": "Yahoo"
+      },
+      {
         "headline": "道琼斯期货：美光、Sandisk、谷歌引领人工智能抛售，但这些集团表现强劲； SpaceX 星舰发射到期",
         "url": "https://finnhub.io/api/news?id=6ec002580ba58a8ff9a5f7c02ed376fdf9b51d8ae9a67cdd966b1ba18f809b94",
         "datetime": 1784238541,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "由于台积电资本支出担忧导致芯片股下滑，标准普尔 500 指数、纳斯达克指数和道指走低 — TSM、MU、NVDA、UNH、GOOGL 成为焦点",
+        "url": "https://finnhub.io/api/news?id=7e889d2df87f179cb44a2f3fb48af4fc72ab8b935cd5e721191ddca4bac9fbe5",
+        "datetime": 1784237463,
         "source": "Yahoo"
       },
       {
@@ -1189,18 +1201,6 @@
         "headline": "谷歌股价因人工智能模型发布延迟而下跌，纳斯达克撤退",
         "url": "https://finnhub.io/api/news?id=dc59c86ead3fc7beb195dc770f476e1d7ecf504d639180e6a5d147c5a49c20fd",
         "datetime": 1784234222,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "“七巨头”的相对估值处于十年来的最低水平。我最喜欢购买的 3 只 Mag 7 股票。",
-        "url": "https://finnhub.io/api/news?id=8b6a83b45cfd71cf29153391f4fbae127e15e4c6a8ab364e49a3f09e2ff9fc30",
-        "datetime": 1784234100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "DeepMind 首席执行官游说华盛顿制定小组审查人工智能模型的计划",
-        "url": "https://finnhub.io/api/news?id=e98d2bfc9e4d15be8b3554501d057fe411e3181fd59c06bb03bcc0f76e200350",
-        "datetime": 1784233056,
         "source": "Yahoo"
       }
     ],
@@ -1271,6 +1271,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "比特币流动性集群决定了比特币的价格方向，因为期货流动推动了价格",
+        "url": "https://cointelegraph.com/markets/bitcoin-liquidity-clusters-determine-btcs-price-direction-as-futures-flow-fuels-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1784247160,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "比特币前景改善，每周上涨 6%：BTC 多头能否推高？",
         "url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1784233760,
@@ -1293,12 +1299,6 @@
         "url": "https://www.coindesk.com/markets/2026/07/16/bitcoin-pulls-back-to-usd64-000-after-hitting-monthly-high-as-bears-take-control",
         "datetime": 1784198156,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "10.7 万美元的比特币买家提供了 2026 年熊市底部的“早期信号”：Glassnode",
-        "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1784189485,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
