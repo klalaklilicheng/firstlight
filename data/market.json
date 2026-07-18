@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T14:18:31.163Z",
+  "updated_at": "2026-07-18T15:47:27.829Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64107,
-      "change_pct": 1.33
+      "price": 64004,
+      "change_pct": 1.42
     },
     {
       "symbol": "ETH",
-      "price": 1841.88,
-      "change_pct": 0.85
+      "price": 1842.14,
+      "change_pct": 1.12
     },
     {
       "symbol": "SOL",
-      "price": 74.72,
-      "change_pct": 0.3
+      "price": 74.83,
+      "change_pct": 0.64
     },
     {
       "symbol": "HYPE",
-      "price": 58.77,
-      "change_pct": -3.08
+      "price": 59.29,
+      "change_pct": -2.07
     },
     {
       "symbol": "ZEC",
-      "price": 546.15,
-      "change_pct": 0.56
+      "price": 554.44,
+      "change_pct": 2.01
     },
     {
       "symbol": "TAO",
-      "price": 191.92,
-      "change_pct": -0.21
+      "price": 193.99,
+      "change_pct": 0.96
     },
     {
       "symbol": "SKY",
-      "price": 1367.88,
-      "change_pct": -1.46
+      "price": 1403.31,
+      "change_pct": 1.29
     },
     {
       "symbol": "AAVE",
-      "price": 88.03,
-      "change_pct": -3.67
+      "price": 88.79,
+      "change_pct": -2.59
     },
     {
       "symbol": "BNB",
-      "price": 569.67,
-      "change_pct": 1.44
+      "price": 569.52,
+      "change_pct": 1.49
     },
     {
       "symbol": "NEAR",
       "price": 1.91,
-      "change_pct": -1.64
+      "change_pct": -0.05
     },
     {
       "symbol": "DOGE",
-      "price": 0.072173,
-      "change_pct": 0.1
+      "price": 0.07212,
+      "change_pct": 0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 441.94,
-      "change_pct": -0.04
+      "price": 441.83,
+      "change_pct": 0.86
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "到月底美联储召开会议时，大规模比特币看涨期权价差目标为 72,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+      "datetime": 1784384115,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "代币化已成为 84% 金融公司的战略重点",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "datetime": 1784383200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "卡巴斯基发现针对加密货币投资者的恶意软件框架",
       "summary": "网络安全公司卡巴斯基表示，新发现的恶意软件框架正在通过社会工程策略和木马 GitHub 应用程序瞄准加密货币投资者。",
       "source": "Cointelegraph",
@@ -723,24 +741,6 @@
       "datetime": 1784288900,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "模糊的波动性指标预示着“七巨头”的盈利突破",
-      "summary": "如果标普500指数要创造新纪录，可能需要“七巨头”重新启动。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/17/obscure-volatility-measure-points-to-a-magnificent-seven-earnings-breakout-.html",
-      "datetime": 1784288208,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "英国对两名涉嫌 1.15 亿美元加密货币勒索计划的黑客判刑",
-      "summary": "在调查人员将他们与分散蜘蛛网络犯罪组织联系起来后，两人认罪，美国检察官称该组织勒索了数十家公司。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/london-police-sentence-hackers-crypto-ransom-public-transport?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784287375,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -816,12 +816,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.9,
+    "score": 33.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.7,
-    "weekly_score": 17.2,
-    "btc_price": 64135.3,
+    "weekly_score": 16.5,
+    "btc_price": 64073.9,
     "fear_greed": 33,
     "indicators": [
       {
@@ -833,15 +833,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004935,
+        "value": 0.003285,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.57,
-        "score": 71,
+        "value": 1.55,
+        "score": 70,
         "weight": 5,
         "group": "daily"
       },
@@ -861,22 +861,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.17,
+        "value": 0.173,
         "score": 42,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.114,
-        "score": 14,
+        "value": 0.855,
+        "score": 8,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.999,
-        "score": 49,
+        "value": 0.996,
+        "score": 46,
         "weight": 8,
         "group": "weekly"
       },
@@ -910,7 +910,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -72.8,
+        "value": -72,
         "score": 25,
         "weight": 4,
         "group": "weekly"
@@ -1043,7 +1043,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1466,
+        "likes": 1467,
         "retweets": 77
       },
       {
@@ -1089,35 +1089,35 @@
         "text": "Companies enable people to organize under law around a shared mission with greater efficiency, transparency, creditworthiness, scale, resilience, and continuity.\n\nFor Bitcoin to succeed as a global monetary network, corporate adoption is necessary, inevitable, and welcome.",
         "url": "https://x.com/saylor/status/2078406582514184463",
         "time": "Sat Jul 18 09:08:38 +0000 2026",
-        "likes": 3119,
-        "retweets": 309
+        "likes": 3571,
+        "retweets": 349
       },
       {
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 6490,
-        "retweets": 849
+        "likes": 6554,
+        "retweets": 858
       },
       {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 3633,
-        "retweets": 362
+        "likes": 3648,
+        "retweets": 365
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 7731,
-        "retweets": 695
+        "likes": 7733,
+        "retweets": 696
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
         "url": "https://x.com/saylor/status/2077411109242290463",
         "time": "Wed Jul 15 15:12:59 +0000 2026",
-        "likes": 3607,
+        "likes": 3608,
         "retweets": 381
       }
     ],
@@ -1206,6 +1206,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "谷歌、特斯拉和英特尔下周将公布主要财报",
+        "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
+        "datetime": 1784372400,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "谷歌云上季度收入增长 63%。这就是为什么这个数字现在比 Alphabet 的广告业务更重要。",
         "url": "https://finnhub.io/api/news?id=5a63a5773ca7bf891411ae29c441dc1aa0960489bed679782fe80b53ce346ac4",
         "datetime": 1784369100,
@@ -1216,12 +1222,6 @@
         "url": "https://finnhub.io/api/news?id=de705001fbbe4e6cf7f3795ebaa1352b72b7e322cb19a79c474c2315eea540dc",
         "datetime": 1784368883,
         "source": "Yahoo"
-      },
-      {
-        "headline": "微软希望销售团队推出自己的 AI 模型，而不是竞争对手 OpenAI、Google 和 Anthropic：报告（已更新）",
-        "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
-        "datetime": 1784341883,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
@@ -1230,6 +1230,12 @@
         "url": "https://finnhub.io/api/news?id=d988a59c4f1620f934efbb21d13436c1d9994fd9621b866fe02d9551adb7c360",
         "datetime": 1784375100,
         "source": "Yahoo"
+      },
+      {
+        "headline": "谷歌、特斯拉和英特尔下周将公布主要财报",
+        "url": "https://finnhub.io/api/news?id=856676616f1aa74556899577c7f985b134cf726bf0bd06eec0612fd7745179ba",
+        "datetime": 1784372400,
+        "source": "SeekingAlpha"
       },
       {
         "headline": "特斯拉刚刚发布了有史以来最好的第二季度交付量。这是 7 月 22 日真正影响股价走势的第一个数字。",
@@ -1247,12 +1253,6 @@
         "headline": "埃隆·马斯克 (Elon Musk) 回应杰米·戴蒙 (Jamie Dimon) 的“爱因斯坦”赞扬，用两个字回复作为病毒帖子赞扬他的 SpaceX 和特斯拉遗产",
         "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
         "datetime": 1784338271,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "英伟达和美光如何单枪匹马重塑标准普尔 500 指数科技股盈利",
-        "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
-        "datetime": 1784329620,
         "source": "Yahoo"
       }
     ],
@@ -1291,6 +1291,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "到月底美联储召开会议时，大规模比特币看涨期权价差目标为 72,000 美元",
+        "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
+        "datetime": 1784384115,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "由于伊朗袭击加剧美国股市压力，比特币价格跌至 6.25 万美元以下",
         "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1784299059,
@@ -1312,12 +1318,6 @@
         "headline": "实时市场：随着全球芯片溃败，比特币跌至 63,000 美元",
         "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
         "datetime": 1784285037,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "随着人工智能抛售从股票蔓延到加密货币，避险浪潮将比特币拖至 63,000 美元以下",
-        "url": "https://www.coindesk.com/markets/2026/07/17/risk-off-wave-drags-bitcoin-below-usd63-000-as-ai-selloff-spreads-from-stocks-to-crypto",
-        "datetime": 1784283966,
         "source": "CoinDesk"
       }
     ],
