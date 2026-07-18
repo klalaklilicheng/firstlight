@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:12:33.641Z",
+  "updated_at": "2026-07-18T11:46:52.883Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63940,
-      "change_pct": 1.48
+      "price": 63980,
+      "change_pct": 1.14
     },
     {
       "symbol": "ETH",
-      "price": 1844.06,
-      "change_pct": 0.49
+      "price": 1843.54,
+      "change_pct": 0.19
     },
     {
       "symbol": "SOL",
-      "price": 74.82,
-      "change_pct": 0.2
+      "price": 74.88,
+      "change_pct": 0.03
     },
     {
       "symbol": "HYPE",
-      "price": 58.89,
-      "change_pct": -2.6
+      "price": 58.63,
+      "change_pct": -2.76
     },
     {
       "symbol": "ZEC",
-      "price": 539.24,
-      "change_pct": 0.84
+      "price": 539.35,
+      "change_pct": 1.1
     },
     {
       "symbol": "TAO",
-      "price": 193.09,
-      "change_pct": 0.35
+      "price": 193.04,
+      "change_pct": 0.07
     },
     {
       "symbol": "SKY",
-      "price": 1381.82,
-      "change_pct": -0.95
+      "price": 1372.52,
+      "change_pct": -1.66
     },
     {
       "symbol": "AAVE",
-      "price": 88,
-      "change_pct": -3.18
+      "price": 87.68,
+      "change_pct": -3.37
     },
     {
       "symbol": "BNB",
-      "price": 568.25,
-      "change_pct": 0.67
+      "price": 570.04,
+      "change_pct": 1.09
     },
     {
       "symbol": "NEAR",
       "price": 1.9,
-      "change_pct": -0.61
+      "change_pct": -0.97
     },
     {
       "symbol": "DOGE",
-      "price": 0.072152,
-      "change_pct": 0.45
+      "price": 0.072167,
+      "change_pct": 0.24
     },
     {
       "symbol": "SPACEX",
-      "price": 444.43,
-      "change_pct": 1.61
+      "price": 445.4,
+      "change_pct": -0.61
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "韩国美容产品正在美国成为主流。为什么未来可能会出现更多增长",
+      "summary": "摩根士丹利预测，2026 年韩妆在美国的销售额将达到约 40 亿美元。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+      "datetime": 1784373025,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "法国赌博监管机构命令互联网服务提供商封锁 Polymarket",
+      "summary": "法国赌博管理局以非法赌博和市场操纵问题为由，命令该国的互联网服务提供商对 Polymarket 进行地理封锁。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784368735,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "FTX 将在第五轮付款中向债权人分配 9 亿美元",
       "summary": "自 2022 年 11 月该交易所申请破产以来，FTX Recovery Trust 和该公司已分配了约 100 亿美元，导致用户资金被切断。",
       "source": "Cointelegraph",
@@ -723,24 +741,6 @@
       "datetime": 1784287217,
       "category": "business",
       "related": ""
-    },
-    {
-      "headline": "实时市场：随着全球芯片溃败，比特币跌至 63,000 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/17/live-markets-bitcoin-slips-to-usd63-000-as-the-chip-rout-goes-global",
-      "datetime": 1784285037,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着许可速度放缓，ESMA 在 MiCA 注册中添加了 14 个新的 CASP",
-      "summary": "ESMA 在其 MiCA 登记册中增加了 14 个 CASP，其中银行和 Ripple Payments Europe 成为新成员，供应商总数达到 294 个。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mica-licensing-momentum-slows-post-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784284175,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -821,7 +821,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.9,
     "weekly_score": 17.2,
-    "btc_price": 63992.9,
+    "btc_price": 64024.3,
     "fear_greed": 33,
     "indicators": [
       {
@@ -833,15 +833,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008821,
+        "value": 0.008516,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.58,
-        "score": 72,
+        "value": 1.57,
+        "score": 71,
         "weight": 5,
         "group": "daily"
       },
@@ -910,7 +910,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -77,
+        "value": -76.5,
         "score": 24,
         "weight": 4,
         "group": "weekly"
@@ -1089,36 +1089,36 @@
         "text": "Companies enable people to organize under law around a shared mission with greater efficiency, transparency, creditworthiness, scale, resilience, and continuity.\n\nFor Bitcoin to succeed as a global monetary network, corporate adoption is necessary, inevitable, and welcome.",
         "url": "https://x.com/saylor/status/2078406582514184463",
         "time": "Sat Jul 18 09:08:38 +0000 2026",
-        "likes": 1107,
-        "retweets": 113
+        "likes": 2023,
+        "retweets": 200
       },
       {
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 6241,
-        "retweets": 805
+        "likes": 6337,
+        "retweets": 823
       },
       {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 3556,
-        "retweets": 350
+        "likes": 3586,
+        "retweets": 353
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 7721,
-        "retweets": 691
+        "likes": 7724,
+        "retweets": 692
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
         "url": "https://x.com/saylor/status/2077411109242290463",
         "time": "Wed Jul 15 15:12:59 +0000 2026",
         "likes": 3607,
-        "retweets": 381
+        "retweets": 380
       }
     ],
     "viktorfischer": [
