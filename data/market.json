@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:46:07.958Z",
+  "updated_at": "2026-07-18T04:42:38.622Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 31.95,
-      "change_pct": -1.14
+      "price": 30.6,
+      "change_pct": -4.23
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
       "price": 63903,
-      "change_pct": 0.47
+      "change_pct": 0.76
     },
     {
       "symbol": "ETH",
-      "price": 1839.95,
-      "change_pct": -0.76
+      "price": 1841.87,
+      "change_pct": -0.29
     },
     {
       "symbol": "SOL",
-      "price": 75.09,
-      "change_pct": -0.41
+      "price": 75.07,
+      "change_pct": 0.08
     },
     {
       "symbol": "HYPE",
-      "price": 59.62,
-      "change_pct": -2.34
+      "price": 59.33,
+      "change_pct": -0.91
     },
     {
       "symbol": "ZEC",
-      "price": 546.47,
-      "change_pct": 2.44
+      "price": 544.02,
+      "change_pct": 1.36
     },
     {
       "symbol": "TAO",
-      "price": 194.32,
-      "change_pct": 1.33
+      "price": 193.14,
+      "change_pct": 0.84
     },
     {
       "symbol": "SKY",
-      "price": 1381.76,
-      "change_pct": -1.92
+      "price": 1402.46,
+      "change_pct": -1.19
     },
     {
       "symbol": "AAVE",
-      "price": 89.72,
-      "change_pct": -1.66
+      "price": 88.51,
+      "change_pct": -2.58
     },
     {
       "symbol": "BNB",
-      "price": 566.43,
-      "change_pct": -0.93
+      "price": 566.8,
+      "change_pct": -0.82
     },
     {
       "symbol": "NEAR",
-      "price": 1.93,
-      "change_pct": -2.71
+      "price": 1.92,
+      "change_pct": -3.23
     },
     {
       "symbol": "DOGE",
-      "price": 0.072488,
-      "change_pct": 0.03
+      "price": 0.072464,
+      "change_pct": 0.41
     },
     {
       "symbol": "SPACEX",
-      "price": 440.48,
-      "change_pct": -4.55
+      "price": 458.65,
+      "change_pct": 3.63
     }
   ],
   "earnings": {
@@ -527,7 +527,7 @@
       "related": ""
     },
     {
-      "headline": "Meta 在人工智能人才大战中的最新举措——以及 Cramer 在市场上的 4 个快速热门产品",
+      "headline": "Meta 在人工智能人才大战中的最新举措——以及 Cramer 在市场上的 4 款快速热门产品",
       "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
@@ -537,7 +537,7 @@
     },
     {
       "headline": "零售业和华尔街在 SpaceX 的影响下陷入困境，但不会不战而屈人之兵",
-      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际 IPO 现在给空头提供了素材。",
+      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际首次公开募股 (IPO) 现在给空头提供了素材。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
       "datetime": 1784309261,
@@ -768,7 +768,7 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "微软纳德拉在员工会议上撕毁了 Anthropic 的 Fable 限制：“没有意义”",
+          "headline": "微软纳德拉在员工会议上撕毁 Anthropic 的 Fable 限制：“没有意义”",
           "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
           "datetime": 1784242272
         },
@@ -816,32 +816,32 @@
     }
   ],
   "btc_score": {
-    "score": 32.8,
+    "score": 34.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.7,
-    "weekly_score": 17.1,
-    "btc_price": 63946.8,
+    "daily_score": 16.9,
+    "weekly_score": 17.2,
+    "btc_price": 63954.3,
     "fear_greed": 33,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -4200000,
-        "score": 50,
+        "value": 132300000,
+        "score": 59,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.005889,
-        "score": 48,
+        "value": 0.007451,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.55,
-        "score": 70,
+        "value": 1.56,
+        "score": 71,
         "weight": 5,
         "group": "daily"
       },
@@ -910,8 +910,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -82.2,
-        "score": 22,
+        "value": -80.4,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1029,7 +1029,7 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1015,
+        "likes": 1016,
         "retweets": 82
       },
       {
@@ -1089,22 +1089,22 @@
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 5774,
-        "retweets": 733
+        "likes": 5967,
+        "retweets": 762
       },
       {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 3426,
-        "retweets": 336
+        "likes": 3465,
+        "retweets": 339
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 7572,
-        "retweets": 675
+        "likes": 7638,
+        "retweets": 682
       },
       {
         "text": "Currently, $MSTR matches $IBIT at a 1.0x BTC Rating, with the added upside of our Digital Credit business. Our most senior Digital Credit security, $STRF, stands at 11.0x. https://t.co/geRs07dbpw",
@@ -1117,8 +1117,8 @@
         "text": "BIP 110: Bitcoin Iatrogenic Proposal.",
         "url": "https://x.com/saylor/status/2077297913382748160",
         "time": "Wed Jul 15 07:43:11 +0000 2026",
-        "likes": 4552,
-        "retweets": 420
+        "likes": 4556,
+        "retweets": 421
       }
     ],
     "viktorfischer": [
@@ -1162,37 +1162,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么旅行者公司的股票今天压垮了市场",
-        "url": "https://finnhub.io/api/news?id=0484ae8b0cf8b6027f59950a004e74bc4474331e0f6f6ad6163631dedd782379",
-        "datetime": 1784331125,
+        "headline": "VTI 比以前便宜。那么有什么问题呢？",
+        "url": "https://finnhub.io/api/news?id=5e97842463c914a654228452ce151644d09de3e6a22291a5680672c864b68d4c",
+        "datetime": 1784338365,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么可口可乐股票周五暴跌",
-        "url": "https://finnhub.io/api/news?id=7f6454d07038928cafb195cee43ee0d2dca3a93ecd24dc88c6408cfb22c21b21",
-        "datetime": 1784329554,
+        "headline": "为什么 Sweetgreen 股票今天飙升",
+        "url": "https://finnhub.io/api/news?id=1b884352a218a2e3cc431d8b4c385f6e75f9105494e5949aed507be3cab8a06b",
+        "datetime": 1784334969,
         "source": "Yahoo"
       },
       {
-        "headline": "中国的Kimi K3登陆美国股市。美国人工智能热潮结束了吗？",
-        "url": "https://finnhub.io/api/news?id=8d082ca6484806d1cdceb1be2b6a093b991b170ffcf200a6535d3fab673a043b",
-        "datetime": 1784329048,
+        "headline": "为什么 StubHub 股价本周暴跌 13%",
+        "url": "https://finnhub.io/api/news?id=f4e2783110b2519c22b9ee93d5421e929d603aede673f89ea8bcf65abdc06624",
+        "datetime": 1784334228,
         "source": "Yahoo"
       },
       {
-        "headline": "3只为长期被动收入而建的遭受重创的股票",
-        "url": "https://finnhub.io/api/news?id=82c8dcab44fe841471f4be234ee2e7fc196368d0cfb8366e21526121a9ec0d36",
-        "datetime": 1784327700,
+        "headline": "比特币本周清算 65,000 美元。忽略噪音，这是投资者需要关注的第一个因素。",
+        "url": "https://finnhub.io/api/news?id=9c98b306ab0408f512d8162863c158d364028b7f66b0544806f916527657d3e5",
+        "datetime": 1784334000,
         "source": "Yahoo"
       },
       {
-        "headline": "“选择错误还是时机不对？”一位新手投资者想知道为什么他们的股票投资组合下跌了 9%。这是他们购买的股票",
-        "url": "https://finnhub.io/api/news?id=45c8902aaf5f572e4e8bc43fec66678dedfaa4f86c84a6038b330739eabe6994",
-        "datetime": 1784327476,
+        "headline": "为什么康菲石油公司股价周五上涨",
+        "url": "https://finnhub.io/api/news?id=6ea830b486998c82764602c97ed9625febee276c3e2a02fb34fecfacd135aea4",
+        "datetime": 1784332614,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "微软希望销售团队推出自己的 AI 模型，而不是竞争对手 OpenAI、Google 和 Anthropic：报告（已更新）",
+        "url": "https://finnhub.io/api/news?id=807020de1e668f52d451c7698dacfbaf3509fec1e05a94444fa377188685732e",
+        "datetime": 1784341883,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "沃伦·巴菲特的 Alphabet 押注缓解了伯克希尔更大的恐惧",
+        "url": "https://finnhub.io/api/news?id=75331b02c3d0249c1f9f2fa5bbc8e6f1d9ed34f61032a9504b74a7fce257772a",
+        "datetime": 1784337420,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "《奥德赛》能打进世界杯吗？",
+        "url": "https://finnhub.io/api/news?id=08c0b0f3efe371ff28ff5cac64b1dc9d2ca128f3f088fe63a913f43d6a356ff1",
+        "datetime": 1784330220,
+        "source": "Yahoo"
+      },
       {
         "headline": "谷歌 (GOOGL) 面临欧盟命令，向人工智能竞争对手开放 Android 和搜索数据",
         "url": "https://finnhub.io/api/news?id=9de64de03a2b3f6c18cba517f84019bc8467ab3ffa804c2c3cf8d434b6e1cd98",
@@ -1204,27 +1222,21 @@
         "url": "https://finnhub.io/api/news?id=0a03786e6bf92049ecb265d9e9bfe662f01d4773cb72fb96cc8ec90a4d96b587",
         "datetime": 1784324039,
         "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉和 Alphabet 的盈利：最重要的指标",
-        "url": "https://finnhub.io/api/news?id=200790eac3ed0a7bbc2731792e0c7d30d34b1d2c811bd0b8b34479e5f4d1a64d",
-        "datetime": 1784323740,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Meta 正在洽谈将其价值数十亿美元的人工智能基础设施中的一部分出租给 Anthropic",
-        "url": "https://finnhub.io/api/news?id=c57e668c5e1f4fd1d3109524fade24674de8ed4b4d0db46ab0aaeb4755ca2131",
-        "datetime": 1784322472,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "道琼斯期货：人工智能股票抛售后，谷歌、特斯拉、AMD 隐现",
-        "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
-        "datetime": 1784322074,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "埃隆·马斯克 (Elon Musk) 回应杰米·戴蒙 (Jamie Dimon) 的“爱因斯坦”赞扬，用两个字回复作为病毒帖子赞扬他的 SpaceX 和特斯拉遗产",
+        "url": "https://finnhub.io/api/news?id=40b2422ffc7eed60b3e8bf00913bc0393432591ca57ba9b23038e029de52e67e",
+        "datetime": 1784338271,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "英伟达和美光如何单枪匹马重塑标准普尔 500 指数科技股盈利",
+        "url": "https://finnhub.io/api/news?id=1aa7548b08ec2d62ae8d685abfe5c27dce90ed9a0dfe18473348b81b0cd47cc2",
+        "datetime": 1784329620,
+        "source": "Yahoo"
+      },
       {
         "headline": "市长回应，Waymo 在美国主要城市的受欢迎程度逐渐减弱",
         "url": "https://finnhub.io/api/news?id=c27b1e9b005a5e3afbd06e89ccabe70df72fbdd563c935de0de8ffcc2117a3d2",
@@ -1241,18 +1253,6 @@
         "headline": "道琼斯期货：人工智能股票抛售后，谷歌、特斯拉、AMD 隐现",
         "url": "https://finnhub.io/api/news?id=ac86c3474518451b7cee3d50b899e8addbe274e82ee29770cc645795ac9b33b2",
         "datetime": 1784322074,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "雅虎财经试驾梅赛德斯-奔驰新款豪华电动汽车 CLA 250+",
-        "url": "https://finnhub.io/api/news?id=618dd9985fb0285582271d5c77e06da5df2d4529b8cdb751b36f35dfd9bdd7ed",
-        "datetime": 1784320789,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
-        "url": "https://finnhub.io/api/news?id=5df468dd7682e0b492a9ffe866fb7b3acdd83c1d31054bf64e7d49c3d284526c",
-        "datetime": 1784319589,
         "source": "Yahoo"
       }
     ],
@@ -1324,6 +1324,12 @@
     "ETH": [],
     "SOL": [
       {
+        "headline": "用一个词描述 Solana。错误答案会被屏蔽。",
+        "url": "https://x.com/solana/status/2078324548911661372",
+        "datetime": 1784346160,
+        "source": "@solana"
+      },
+      {
         "headline": "",
         "url": "https://x.com/solana/status/2078178018816606590",
         "datetime": 1784311225,
@@ -1333,12 +1339,6 @@
         "headline": "隐私秀回归！\n\n本周，@catmcgee 主持 @milianstx、@herz0g 和 @typi_cal_ 讨论 Solana 上的所有隐私问题\n\n美国东部时间今天下午 2 点，X",
         "url": "https://x.com/solana/status/2078154717126148479",
         "datetime": 1784305669,
-        "source": "@solana"
-      },
-      {
-        "headline": "最新消息：Solana 是 RWA 增长最快的网络，市值平均环比增长 233.58% 🔥",
-        "url": "https://x.com/solana/status/2078142513089814795",
-        "datetime": 1784302759,
         "source": "@solana"
       }
     ],
@@ -1358,7 +1358,7 @@
     ],
     "DOGE": [
       {
-        "headline": "法定货币受到对机构的信任的支持。总督有一只狗支持。其中只有一个需要救助",
+        "headline": "法定货币受到对机构的信任的支持。总督有狗支持。其中只有一个需要救助",
         "url": "https://x.com/dogecoin/status/2077524635214549447",
         "datetime": 1784155446,
         "source": "@dogecoin"
