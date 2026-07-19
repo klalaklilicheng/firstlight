@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T15:50:51.634Z",
+  "updated_at": "2026-07-19T16:48:35.644Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,73 +65,73 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64510,
-      "change_pct": 0.67
+      "price": 64540,
+      "change_pct": 0.66
     },
     {
       "symbol": "ETH",
-      "price": 1870.36,
-      "change_pct": 1.44
+      "price": 1866.94,
+      "change_pct": 1.27
     },
     {
       "symbol": "SOL",
-      "price": 76.17,
-      "change_pct": 1.68
+      "price": 75.91,
+      "change_pct": 1.14
     },
     {
       "symbol": "HYPE",
-      "price": 60.92,
-      "change_pct": 2.62
+      "price": 60.71,
+      "change_pct": 2.22
     },
     {
       "symbol": "ZEC",
-      "price": 553.87,
-      "change_pct": -0.11
+      "price": 551.78,
+      "change_pct": -0.8
     },
     {
       "symbol": "TAO",
-      "price": 197.35,
-      "change_pct": 1.73
+      "price": 197.04,
+      "change_pct": 1.63
     },
     {
       "symbol": "SKY",
-      "price": 1425.67,
-      "change_pct": 1.24
+      "price": 1424.39,
+      "change_pct": -0.47
     },
     {
       "symbol": "AAVE",
-      "price": 89.62,
-      "change_pct": 0.93
+      "price": 89.38,
+      "change_pct": 0.75
     },
     {
       "symbol": "BNB",
-      "price": 570.24,
-      "change_pct": 0.07
+      "price": 568.53,
+      "change_pct": -0.3
     },
     {
       "symbol": "NEAR",
-      "price": 1.92,
-      "change_pct": 0.08
+      "price": 1.9,
+      "change_pct": -0.43
     },
     {
       "symbol": "DOGE",
-      "price": 0.072422,
-      "change_pct": 0.42
+      "price": 0.072349,
+      "change_pct": 0.25
     },
     {
       "symbol": "SPACEX",
-      "price": 464.59,
-      "change_pct": 5.15
+      "price": 464.24,
+      "change_pct": 3.21
     }
   ],
   "earnings": {
     "NVDA": {
       "next": {
-        "date": "2026-08-25",
+        "date": "2026-08-26",
         "quarter": 2,
         "year": 2027,
-        "eps_estimate": 2.126,
-        "revenue_estimate": 93550393582
+        "eps_estimate": 2.1269,
+        "revenue_estimate": 93585652494
       },
       "history": [
         {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "币安推出美国股票交易并预览 bStocks 代币化证券",
+      "summary": "币安的愿景是打造一个用于投资、交易和链上金融的多资产金融超级应用程序，这是迈出的重要一步伊斯兰堡，2026 年 7 月 15 日/美通社/ — 币安今天推出了美国股票交易，让符合条件的用户可以访问超过 7,000 只美国上市股票和 ETF。发射参考",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/binance-launches-u-s-stocks-trading-and-previews-bstocks-tokenized-securities/",
+      "datetime": 1784477951,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "人工智能正在摧毁互联网。数学是我们唯一的希望。",
       "summary": "",
       "source": "CoinDesk",
@@ -586,15 +595,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
       "datetime": 1784394000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Canaan Inc. 提供 2026 年 6 月比特币生产和挖矿运营更新",
-      "summary": "合资企业算力显着恢复，接近满装容量新加坡，2026 年 7 月 14 日 /美通社/ — 加密货币挖矿领域的创新者嘉楠耘智公司（纳斯达克股票代码：CAN）（“嘉楠耘智”或“公司”）今天发布了截至 2026 年 6 月 30 日的月份未经审计的比特币挖矿更新。",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/canaan-inc-provides-june-2026-bitcoin-production-and-mining-operation-updates/",
-      "datetime": 1784391548,
       "category": "crypto",
       "related": ""
     },
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.7,
+    "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.4,
-    "weekly_score": 17.3,
-    "btc_price": 64567.5,
+    "daily_score": 16.3,
+    "weekly_score": 16.2,
+    "btc_price": 64591.3,
     "fear_greed": 36,
     "indicators": [
       {
@@ -823,8 +823,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005283,
-        "score": 48,
+        "value": 0.004904,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
@@ -893,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.3,
-        "score": 29,
+        "value": 35.3,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -21.6,
-        "score": 39,
+        "value": -99,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1079,36 +1079,36 @@
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 6360,
-        "retweets": 619
+        "likes": 7097,
+        "retweets": 682
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
-        "likes": 3016,
-        "retweets": 366
+        "likes": 3154,
+        "retweets": 390
       },
       {
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
-        "likes": 3459,
-        "retweets": 630
+        "likes": 3504,
+        "retweets": 633
       },
       {
         "text": "Companies enable people to organize under law around a shared mission with greater efficiency, transparency, creditworthiness, scale, resilience, and continuity.\n\nFor Bitcoin to succeed as a global monetary network, corporate adoption is necessary, inevitable, and welcome.",
         "url": "https://x.com/saylor/status/2078406582514184463",
         "time": "Sat Jul 18 09:08:38 +0000 2026",
-        "likes": 5421,
-        "retweets": 539
+        "likes": 5445,
+        "retweets": 540
       },
       {
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 7125,
-        "retweets": 948
+        "likes": 7126,
+        "retweets": 949
       }
     ],
     "viktorfischer": [
@@ -1152,37 +1152,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "台积电 vs. ASML：哪个是更好的人工智能半导体生态系统股票？",
-        "url": "https://finnhub.io/api/news?id=59ec3c5e395ca97f4c48b9688602ba2edce8e1684c5dc227a6d0aee5c885fe08",
-        "datetime": 1784468400,
+        "headline": "这个加密货币基金押注一切并支付 7%，无需交易账户",
+        "url": "https://finnhub.io/api/news?id=6c3c345528868fcd51fc8cd638c74921f24f1111ace01cb9e59d607a2be9e134",
+        "datetime": 1784476224,
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特设定新目标：到 2034 年捐出其持有的 1400 亿美元伯克希尔全部股份",
-        "url": "https://finnhub.io/api/news?id=068a430b5072a817c7b1261813ede351e732bb821e65c93e5723d9e201e00e37",
-        "datetime": 1784468100,
+        "headline": "比尔·盖茨的基金会二十年来首次遭到沃伦·巴菲特的冷落。巴菲特目前有望在 2034 年之前出售其价值 1,400 亿美元的全部伯克希尔股份。",
+        "url": "https://finnhub.io/api/news?id=0f7948b2871206bfd1e4d9d0acccd930d460e0db6a28143902573d49ee5ed2a1",
+        "datetime": 1784475300,
         "source": "Yahoo"
       },
       {
-        "headline": "三大制药巨头：买入、卖出还是持有？",
-        "url": "https://finnhub.io/api/news?id=edcfdddd5026455494e57595a336d293ee28d8d9a3b6d45f94f6c9f02447669b",
-        "datetime": 1784467858,
+        "headline": "沃伦·巴菲特表示，他亲自创办了伯克希尔价值 310 亿美元的 Alphabet 头寸",
+        "url": "https://finnhub.io/api/news?id=5298621b04426f4b977379e0c837e1f31fe8c250ba4bc4491222693d826edfe1",
+        "datetime": 1784475180,
         "source": "Yahoo"
       },
       {
-        "headline": "美联储主席凯文·沃什刚刚强调了将定义他作为央行行长任期的两个词——这对华尔街来说是令人担忧的",
-        "url": "https://finnhub.io/api/news?id=034fa041d592b571e71511e5b5fd82c8c6ac8a18a3f581d0e2721899940d9e81",
-        "datetime": 1784467560,
+        "headline": "SanDisk 与 Seagate：人工智能存储热潮中的两条不同路径，一个获胜者",
+        "url": "https://finnhub.io/api/news?id=d74e73b3d717c4f2e85a60f443501e3d377bb4b346dd79a31e695ab68ddfa75a",
+        "datetime": 1784475056,
         "source": "Yahoo"
       },
       {
-        "headline": "忘记 600% 油轮基金吧。这只航运 ETF 也经历了同样的繁荣，支付股息，并且不会崩溃",
-        "url": "https://finnhub.io/api/news?id=5bd6271f6bead204986e7509fa8dd45a217340e179bb2250452d1d8a3e5cc778",
-        "datetime": 1784467444,
+        "headline": "为什么沃伦·巴菲特警告市场即将陷入困境",
+        "url": "https://finnhub.io/api/news?id=91acbbb70772d6fcdd6bc9d8d8b8aa560aa2c4e91da01703ba85f641fc150124",
+        "datetime": 1784474400,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "沃伦·巴菲特表示，他亲自创办了伯克希尔价值 310 亿美元的 Alphabet 头寸",
+        "url": "https://finnhub.io/api/news?id=5298621b04426f4b977379e0c837e1f31fe8c250ba4bc4491222693d826edfe1",
+        "datetime": 1784475180,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "谷歌已经证明这种人工智能恐惧是错误的，所以我继续加载",
+        "url": "https://finnhub.io/api/news?id=97f7e0cd9c025fd3c4322169b64aa82b7b87ac39e11c6a7e1063fc69485250e1",
+        "datetime": 1784474834,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "觉得QQ很集中吗？这只纳斯达克 ETF 在大型科技股上下了更大的赌注（而且它正在获胜）",
+        "url": "https://finnhub.io/api/news?id=51febda3deb24623f734a2ea5f7fdab99c098dc5a33f3fcbbe60361bb9b3cb87",
+        "datetime": 1784471557,
+        "source": "Yahoo"
+      },
       {
         "headline": "沃伦·巴菲特是伯克希尔·哈撒韦公司大规模字母表投资的幕后黑手。这是他喜欢公司的地方。",
         "url": "https://finnhub.io/api/news?id=691b97f2065a61d86ddae19ef581006ba64ac736e81afdb5f38dd8c268117bc8",
@@ -1194,27 +1212,21 @@
         "url": "https://finnhub.io/api/news?id=59cc62c20a508cc78fe7dc7ee690b9a503b01102b587f9640caa1e3c5befc142",
         "datetime": 1784463900,
         "source": "Yahoo"
-      },
-      {
-        "headline": "大型科技公司的盈利测试了科技公司的大轮换：本周值得关注的内容",
-        "url": "https://finnhub.io/api/news?id=17046eddfe89bd8c9bd80fdb3e536fbaa6e3b3b2ebb810078bc42ec206371d52",
-        "datetime": 1784463839,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "随着美国和伊朗的袭击升级，道琼斯期货迫在眉睫；谷歌、特斯拉、AMD 领先",
-        "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
-        "datetime": 1784460662,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "除了火箭和卫星之外，SpaceX 正在悄悄建立人工智能计算业务，这可能成为其令人瞠目结舌的估值的关键",
-        "url": "https://finnhub.io/api/news?id=ef08647004f219f521a69e51874da032a7153bca30f49aeb5d3d026efe1e37d0",
-        "datetime": 1784458800,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉 7 月 22 日盈利将下跌 22%，一家公司预计将下跌 67%。谁是对的？",
+        "url": "https://finnhub.io/api/news?id=e22ab22edaad5c81d4476b5af922fe4140391be8afeeb66c818c87fe0d7f0341",
+        "datetime": 1784473380,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "梅赛德斯 CLA 250+ 是一款更豪华的 Model 3，而且价格出奇的好：评论",
+        "url": "https://finnhub.io/api/news?id=4936016459858fb3bd10492f0fd554276d3da4631f007c5c7464cd99a026a3ff",
+        "datetime": 1784471557,
+        "source": "Yahoo"
+      },
       {
         "headline": "我买入 5 支“七大”股票，卖出 2 支",
         "url": "https://finnhub.io/api/news?id=59cc62c20a508cc78fe7dc7ee690b9a503b01102b587f9640caa1e3c5befc142",
@@ -1231,18 +1243,6 @@
         "headline": "随着美国和伊朗的袭击升级，道琼斯期货迫在眉睫；谷歌、特斯拉、AMD 领先",
         "url": "https://finnhub.io/api/news?id=2d3cccb04a42f2252f4762d535a3541cb90b6bf4620f71342aa532df4c6056f3",
         "datetime": 1784460662,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "本周市场展望：Alphabet、特斯拉和英特尔成为大型科技公司盈利报告的头条新闻",
-        "url": "https://finnhub.io/api/news?id=15dfac5d2eaa7f8989ca12e6101b947882b834c38395aafc22e3aa3425f88d72",
-        "datetime": 1784458800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "即使特斯拉股价低于 400 美元，我仍然宁愿在 7 月份购买这只势不可挡的增长股票",
-        "url": "https://finnhub.io/api/news?id=77b436c9bb18abc3d190349190f14b630bb76728b95442d8b876702ee2da9406",
-        "datetime": 1784453100,
         "source": "Yahoo"
       }
     ],
@@ -1299,16 +1299,16 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "Canaan Inc. 提供 2026 年 6 月比特币生产和挖矿运营更新",
-        "url": "https://cryptocurrencynews.com/crypto/canaan-inc-provides-june-2026-bitcoin-production-and-mining-operation-updates/",
-        "datetime": 1784391548,
-        "source": "Cryptocurrency News"
-      },
-      {
         "headline": "到月底美联储召开会议时，大规模比特币看涨期权价差目标为 72,000 美元",
         "url": "https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets",
         "datetime": 1784384115,
         "source": "CoinDesk"
+      },
+      {
+        "headline": "由于伊朗袭击加剧美国股市压力，比特币价格跌至 6.25 万美元以下",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1784299059,
+        "source": "Cointelegraph"
       }
     ],
     "ETH": [],
