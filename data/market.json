@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T23:44:46.839Z",
+  "updated_at": "2026-07-19T01:54:42.601Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64779,
-      "change_pct": 1.33
+      "price": 64731,
+      "change_pct": 1.24
     },
     {
       "symbol": "ETH",
-      "price": 1860.79,
-      "change_pct": 1.07
+      "price": 1858.32,
+      "change_pct": 0.89
     },
     {
       "symbol": "SOL",
-      "price": 75.46,
-      "change_pct": 0.57
+      "price": 75.59,
+      "change_pct": 0.58
     },
     {
       "symbol": "HYPE",
-      "price": 60.31,
-      "change_pct": 0.91
+      "price": 60.6,
+      "change_pct": 1.45
     },
     {
       "symbol": "ZEC",
-      "price": 558.9,
-      "change_pct": 2.61
+      "price": 553.65,
+      "change_pct": 0.97
     },
     {
       "symbol": "TAO",
-      "price": 195.91,
-      "change_pct": 0.69
+      "price": 195.35,
+      "change_pct": 0.34
     },
     {
       "symbol": "SKY",
-      "price": 1443.42,
-      "change_pct": 4.58
+      "price": 1430.54,
+      "change_pct": 3.19
     },
     {
       "symbol": "AAVE",
-      "price": 90.07,
-      "change_pct": 0.03
+      "price": 89.77,
+      "change_pct": 0
     },
     {
       "symbol": "BNB",
-      "price": 570.28,
-      "change_pct": 0.43
+      "price": 570.05,
+      "change_pct": 0.6
     },
     {
       "symbol": "NEAR",
-      "price": 1.93,
-      "change_pct": 0.28
+      "price": 1.92,
+      "change_pct": -0.7
     },
     {
       "symbol": "DOGE",
-      "price": 0.072454,
-      "change_pct": -0.11
+      "price": 0.072444,
+      "change_pct": -0.17
     },
     {
       "symbol": "SPACEX",
-      "price": 446.17,
-      "change_pct": 1.16
+      "price": 448.83,
+      "change_pct": 1.9
     }
   ],
   "earnings": {
@@ -518,7 +518,7 @@
       "related": ""
     },
     {
-      "headline": "这就是为什么 16 亿美元的加密货币流动性闲置并浪费掉的原因",
+      "headline": "这就是为什么 16 亿美元的加密货币流动性闲置并浪费的原因",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
@@ -645,7 +645,7 @@
     },
     {
       "headline": "零售业和华尔街在 SpaceX 的影响下陷入困境，但不会不战而屈人之兵",
-      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际 IPO 现在给空头提供了素材。",
+      "summary": "事实证明，SpaceX 的好时光是短暂的，因为埃隆·马斯克 (Elon Musk) 的星际首次公开募股 (IPO) 现在给空头提供了素材。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
       "datetime": 1784309261,
@@ -768,7 +768,7 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "微软纳德拉在员工会议上撕毁了 Anthropic 的 Fable 限制：“没有意义”",
+          "headline": "微软纳德拉在员工会议上撕毁 Anthropic 的 Fable 限制：“没有意义”",
           "url": "https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html",
           "datetime": 1784242272
         },
@@ -816,13 +816,13 @@
     }
   ],
   "btc_score": {
-    "score": 32.5,
+    "score": 32.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.1,
-    "weekly_score": 16.4,
-    "btc_price": 64831.8,
-    "fear_greed": 33,
+    "daily_score": 16.3,
+    "weekly_score": 16.5,
+    "btc_price": 64783.8,
+    "fear_greed": 36,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -833,22 +833,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000298,
-        "score": 45,
+        "value": 0.003761,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.45,
-        "score": 63,
+        "value": 1.39,
+        "score": 59,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 33,
-        "score": 33,
+        "value": 36,
+        "score": 36,
         "weight": 7,
         "group": "daily"
       },
@@ -896,8 +896,8 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.01,
-        "score": 17,
+        "value": 1.03,
+        "score": 18,
         "weight": 6,
         "group": "weekly"
       },
@@ -910,8 +910,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -86.8,
-        "score": 21,
+        "value": -84.9,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -920,7 +920,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 11
+      "days_until": 10
     },
     "schedule": [
       "2025-01-29",
@@ -1073,7 +1073,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 636,
+        "likes": 635,
         "retweets": 37
       },
       {
@@ -1089,35 +1089,35 @@
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
-        "likes": 2430,
-        "retweets": 424
+        "likes": 2648,
+        "retweets": 480
       },
       {
         "text": "Companies enable people to organize under law around a shared mission with greater efficiency, transparency, creditworthiness, scale, resilience, and continuity.\n\nFor Bitcoin to succeed as a global monetary network, corporate adoption is necessary, inevitable, and welcome.",
         "url": "https://x.com/saylor/status/2078406582514184463",
         "time": "Sat Jul 18 09:08:38 +0000 2026",
-        "likes": 4707,
-        "retweets": 462
+        "likes": 4865,
+        "retweets": 478
       },
       {
         "text": "Fiat currency is the problem. Companies, institutions, securities, and technologies that strengthen Bitcoin are part of the solution. We can debate ideas without mistaking allies for enemies.",
         "url": "https://x.com/saylor/status/2078052927743082928",
         "time": "Fri Jul 17 09:43:20 +0000 2026",
-        "likes": 6842,
-        "retweets": 902
+        "likes": 6920,
+        "retweets": 916
       },
       {
         "text": "Stretch your income. $STRC https://t.co/A0Hv8asCo3",
         "url": "https://x.com/saylor/status/2077804455366402439",
         "time": "Thu Jul 16 17:16:00 +0000 2026",
-        "likes": 3673,
+        "likes": 3675,
         "retweets": 370
       },
       {
         "text": "People keep giving me advice. https://t.co/AJQlCaFG20",
         "url": "https://x.com/saylor/status/2077691849393737945",
         "time": "Thu Jul 16 09:48:33 +0000 2026",
-        "likes": 7741,
+        "likes": 7742,
         "retweets": 696
       }
     ],
@@ -1162,33 +1162,33 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "哪只“七大”股票目前具有最佳风险/回报？",
+        "url": "https://finnhub.io/api/news?id=c7ccce599ed976f1123f68424ea51a0e966efa45f96e2cd4aabaf8e9ee96487a",
+        "datetime": 1784417100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "今天购买 SpaceX 如何让您的净资产增加 10 倍以上",
+        "url": "https://finnhub.io/api/news?id=40a7a7b81e7335b9c3c50fd730b0c1d5b5ebb22e6621feb563c86507ddba2ce2",
+        "datetime": 1784415000,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "亿万富翁投资者杰里米格兰瑟姆称比特币是一种无用的投机资产。这就是他错的原因。",
+        "url": "https://finnhub.io/api/news?id=66c9e0159e8fd2d609d26335b92adf8c05eb8eaa940cb85ed84c04dd5e7788ca",
+        "datetime": 1784413200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "明年将超越 Nvidia 的 3 只人工智能股票",
+        "url": "https://finnhub.io/api/news?id=15bac46163689ad7e25fcedd634038a3df1384dbc18e90e28130ea25cebbcdf0",
+        "datetime": 1784411760,
+        "source": "Yahoo"
+      },
+      {
         "headline": "神奇宝贝卡牌的表现比标准普尔 500 指数高 2.5 倍，但数学是谎言",
         "url": "https://finnhub.io/api/news?id=a2e6c8b9ec1e8336ecd1ba5029ebc6e59ea1513f41d6a3038a9ea44093167688",
         "datetime": 1784411100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Netflix 股票过去十年的表现非常出色。但下一个十年会是什么样子？",
-        "url": "https://finnhub.io/api/news?id=4b835c33f90adb3ade7edfb99d1d727bd644dd697a83d473857c45260a1cbddb",
-        "datetime": 1784410980,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么直觉外科股票本周下跌",
-        "url": "https://finnhub.io/api/news?id=199b1e6ae832e1e193392a4fc205ed46df61e91ecb89ab5c12fe4d6301c11d5e",
-        "datetime": 1784410877,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX、AMD 和 Palantir 有什么共同点？",
-        "url": "https://finnhub.io/api/news?id=973c93af92323c6781911ef423231244c7d0841fd4ff2495e6989874ba81d2f6",
-        "datetime": 1784406780,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "礼来公司和诺和诺德公司请注意：Viking Therapeutics 刚刚开始测试一种超越 GLP-1 的减肥药物",
-        "url": "https://finnhub.io/api/news?id=9d3b43a29e84b5e519e515c72dbb2d5e62c0b424a0778946e11db185883228a9",
-        "datetime": 1784405100,
         "source": "Yahoo"
       }
     ],
@@ -1206,7 +1206,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "英特尔和谷歌加深芯片设计领域的人工智能联系",
+        "headline": "英特尔和谷歌深化芯片设计领域的人工智能联系",
         "url": "https://finnhub.io/api/news?id=58c00a358d0a2c6dc4c73f6d895a38bb1b6db71a4f6b14655a325aa866ccef3c",
         "datetime": 1784399580,
         "source": "Yahoo"
@@ -1226,6 +1226,18 @@
     ],
     "TSLA": [
       {
+        "headline": "特斯拉股票：汽车业务的改善有多重要？",
+        "url": "https://finnhub.io/api/news?id=f4b69d7d7caddecbe7f932cca129a62dc45ea25959d627475ec70f6896d52897",
+        "datetime": 1784418260,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "哪只“七大”股票目前具有最佳风险/回报？",
+        "url": "https://finnhub.io/api/news?id=c7ccce599ed976f1123f68424ea51a0e966efa45f96e2cd4aabaf8e9ee96487a",
+        "datetime": 1784417100,
+        "source": "Yahoo"
+      },
+      {
         "headline": "神奇宝贝卡牌的表现比标准普尔 500 指数高 2.5 倍，但数学是谎言",
         "url": "https://finnhub.io/api/news?id=a2e6c8b9ec1e8336ecd1ba5029ebc6e59ea1513f41d6a3038a9ea44093167688",
         "datetime": 1784411100,
@@ -1242,18 +1254,6 @@
         "url": "https://finnhub.io/api/news?id=d5bba93f1947327983f5a211b34aa87ef45ca7f596f01673cd602193d9f83c26",
         "datetime": 1784403678,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Elon Musk’s Net Worth Slumps Amid Tesla, SpaceX Crash",
-        "url": "https://finnhub.io/api/news?id=2855e221c5d610cd56a19e3e383db617ea3fc17c1356270cc5f42877496cf1b0",
-        "datetime": 1784397380,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "下周最值得关注的标准普尔 500 指数股票：特斯拉、谷歌、英特尔、GE Vernova",
-        "url": "https://finnhub.io/api/news?id=1832eec856d30fdbd386d3139fa2c3ad199e1e65af052d4a0e5acc23f6300074",
-        "datetime": 1784394322,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
