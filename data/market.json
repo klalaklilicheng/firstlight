@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-20T15:04:41.063Z",
+  "updated_at": "2026-07-20T17:28:25.834Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 684.55,
-      "change_pct": 0.2
+      "price": 684.09,
+      "change_pct": 0.13
     },
     {
       "symbol": "QQQ",
-      "price": 699.83,
-      "change_pct": 0.65
+      "price": 700.44,
+      "change_pct": 0.73
     },
     {
       "symbol": "QQQM",
-      "price": 288.08,
-      "change_pct": 0.62
+      "price": 288.42,
+      "change_pct": 0.74
     },
     {
       "symbol": "NVDA",
-      "price": 205.49,
-      "change_pct": 1.32
+      "price": 203.93,
+      "change_pct": 0.55
     },
     {
       "symbol": "TSLA",
-      "price": 374.28,
-      "change_pct": -1.72
+      "price": 372.47,
+      "change_pct": -2.2
     },
     {
       "symbol": "GOOG",
-      "price": 356.16,
-      "change_pct": 2.9
+      "price": 352.63,
+      "change_pct": 1.88
     },
     {
       "symbol": "RKLB",
-      "price": 66.66,
-      "change_pct": -1.42
+      "price": 66.81,
+      "change_pct": -1.2
     },
     {
       "symbol": "CRCL",
-      "price": 63.29,
-      "change_pct": 4.68
+      "price": 66.19,
+      "change_pct": 9.48
     },
     {
       "symbol": "PLTR",
-      "price": 133.1,
-      "change_pct": 0.54
+      "price": 135.31,
+      "change_pct": 2.21
     },
     {
       "symbol": "MSTR",
-      "price": 96.62,
-      "change_pct": 1.87
+      "price": 99.72,
+      "change_pct": 5.13
     },
     {
       "symbol": "GLD",
-      "price": 367.98,
-      "change_pct": -0.12
+      "price": 368.17,
+      "change_pct": -0.07
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64475,
-      "change_pct": -0.1
+      "price": 65426,
+      "change_pct": 1.26
     },
     {
       "symbol": "ETH",
-      "price": 1870.46,
-      "change_pct": -0.16
+      "price": 1897.16,
+      "change_pct": 1.55
     },
     {
       "symbol": "SOL",
-      "price": 76.13,
-      "change_pct": -0.29
+      "price": 77.52,
+      "change_pct": 1.93
     },
     {
       "symbol": "HYPE",
-      "price": 60.95,
-      "change_pct": 0
+      "price": 61.95,
+      "change_pct": 1.64
     },
     {
       "symbol": "ZEC",
-      "price": 530.47,
-      "change_pct": -4.5
+      "price": 552.05,
+      "change_pct": -0.22
     },
     {
       "symbol": "TAO",
-      "price": 193.76,
-      "change_pct": -2.06
+      "price": 195.63,
+      "change_pct": -0.65
     },
     {
       "symbol": "SKY",
-      "price": 1399.16,
-      "change_pct": -1.09
+      "price": 1420.04,
+      "change_pct": -0.81
     },
     {
       "symbol": "AAVE",
-      "price": 88.45,
-      "change_pct": -1.33
+      "price": 89.43,
+      "change_pct": 0.04
     },
     {
       "symbol": "BNB",
-      "price": 567.78,
-      "change_pct": -0.27
+      "price": 571.91,
+      "change_pct": 0.56
     },
     {
       "symbol": "NEAR",
       "price": 1.97,
-      "change_pct": 2.03
+      "change_pct": 3.08
     },
     {
       "symbol": "DOGE",
-      "price": 0.072344,
-      "change_pct": -0.33
+      "price": 0.072858,
+      "change_pct": 0.81
     },
     {
       "symbol": "SPACEX",
-      "price": 465.66,
-      "change_pct": 0.21
+      "price": 475.66,
+      "change_pct": 2.11
     }
   ],
   "earnings": {
@@ -300,10 +300,11 @@
     },
     "CRCL": {
       "next": {
-        "date": "2026-08-20",
+        "date": "2026-08-18",
         "quarter": 2,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": 0.2226,
+        "revenue_estimate": 743333843
       },
       "history": [
         {
@@ -472,6 +473,78 @@
     }
   },
   "news": [
+    {
+      "headline": "尼日利亚总统签署关于加密货币监管和税收方法的命令",
+      "summary": "这个西非国家的行政命令成立了虚拟资产委员会，并解决了加密货币监管监管和执法分散的问题。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nigeria-order-crypto-regulatory-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784566790,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "伯恩斯坦提高 Robinhood 价格目标，引用代币化和预测市场",
+      "summary": "分析师表示，该经纪公司的区块链战略，包括代币化股票及其基于 Arbitrum 的 Robinhood Chain，可以减少其对传统加密货币交易的依赖。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784566405,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "KuCoin与Tomorrowland揭幕Celestia舞台，为2026年比利时Tomorrowland带来信任、发现和变革的共同愿景",
+      "summary": "特克斯和凯科斯群岛普罗维登西亚莱斯岛，2026 年 7 月 14 日 /美通社/ — 建立在信任之上的全球领先加密货币平台 KuCoin 今天正式揭幕了 Celestia Stage，这是 2026 年比利时 Tomorrowland 的全新沉浸式目的地。此次发布不仅仅是一个舞台公告，还标志着新的篇章",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/kucoin-and-tomorrowland-unveil-the-celestia-stage-bringing-a-shared-vision-of-trust-discovery-and-transformation-to-tomorrowland-belgium-2026/",
+      "datetime": 1784564348,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着股市与“创纪录”的机构科技股抛售作斗争，比特币价格触及 6.5 万美元",
+      "summary": "比特币在 65,000 美元面临麻烦的阻力，而交易员仍然认为 BTC 价格可能突破“看涨市场结构”。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784562420,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国军方计划测试部队时，关于睾酮替代疗法需要了解什么",
+      "summary": "虽然一些研究表明该疗法对符合资格的患者有好处，但该疗法的长期风险以及在没有医疗需求的男性中使用的问题仍然存在。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/20/what-to-know-about-testosterone-replacement-therapy.html",
+      "datetime": 1784562007,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "南卡罗来纳州共和党人竞相接替参议员林赛·格雷厄姆",
+      "summary": "众议员拉塞尔·弗莱 (Russell Fry) 成为最新一位发起竞选活动以接替已故参议员林赛·格雷厄姆 (Lindsey Graham) 的南卡罗来纳州共和党人。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
+      "datetime": 1784560866,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "IREN 将 AI 云收入目标提高至 4B 美元以上，股价上涨 16%",
+      "summary": "在与人工智能开发商签署价值 28 亿美元的新合同后，这家比特币矿商将年终人工智能云收入目标提高至超过 40 亿美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784560825,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "卡尔达诺“Van Rossum”硬分叉的内部及其对用户意味着什么",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+      "datetime": 1784557883,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "Exodus 将在支付转移中裁员 25%",
       "summary": "",
@@ -669,78 +742,6 @@
       "datetime": 1784541865,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币ETF资金流入延续至第二周，但复苏缺乏动力",
-      "summary": "美国现货比特币 ETF 的流入连续两周延长至 7570 万美元，但分析师表示，需求仍不足以推动持续的上升趋势。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784539999,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "跨链协议 Allbridge 在 165 万美元闪电贷漏洞后停止",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
-      "datetime": 1784539882,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "华尔街密切关注中东紧张局势，美国国债收益率小幅走高",
-      "summary": "10 年期美国国债收益率（美国政府借款的主要基准）上涨超过 1 个基点，至 4.558%。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-      "datetime": 1784539554,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国监管发展和收益、欧洲央行利率决定：加密货币周展望",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
-      "datetime": 1784537873,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "亚马逊日本供应商 AZ-Com Maruwa 将采用日元稳定币 JPYC 进行支付",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
-      "datetime": 1784535034,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "韩国计划于 9 月启动 CBDC 试点第二阶段：报告",
-      "summary": "韩国央行的 CBDC 试点将增加两家地区银行、新的支付功能以及使用代币化银行存款进行政府补贴支付测试",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784531908,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "实时市场：石油反弹和挥之不去的人工智能抛售将比特币推至 64,000 美元以下",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "datetime": 1784531747,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "继 Kimi 和阿里巴巴 AI 发布震撼比特币之后，Moonshot AI IPO 也将继续推进",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/20/moonshot-ai-ipo-push-follows-kimi-alibaba-ai-releases-that-shook-bitcoin",
-      "datetime": 1784531287,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.9,
+    "score": 33.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.5,
-    "weekly_score": 18.4,
-    "btc_price": 64458.5,
+    "daily_score": 15.6,
+    "weekly_score": 17.7,
+    "btc_price": 65483,
     "fear_greed": 35,
     "indicators": [
       {
@@ -807,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00655,
+        "value": 0.006181,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.44,
-        "score": 63,
+        "value": 1.18,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
@@ -877,15 +878,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.1,
-        "score": 25,
+        "value": 36.7,
+        "score": 28,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -24,
-        "score": 38,
+        "value": -93,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1063,35 +1064,35 @@
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 6122,
-        "retweets": 676
+        "likes": 7440,
+        "retweets": 814
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 11369,
-        "retweets": 1176
+        "likes": 11534,
+        "retweets": 1197
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
-        "likes": 4400,
-        "retweets": 591
+        "likes": 4473,
+        "retweets": 602
       },
       {
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
-        "likes": 3842,
-        "retweets": 688
+        "likes": 3865,
+        "retweets": 695
       },
       {
         "text": "Companies enable people to organize under law around a shared mission with greater efficiency, transparency, creditworthiness, scale, resilience, and continuity.\n\nFor Bitcoin to succeed as a global monetary network, corporate adoption is necessary, inevitable, and welcome.",
         "url": "https://x.com/saylor/status/2078406582514184463",
         "time": "Sat Jul 18 09:08:38 +0000 2026",
-        "likes": 5903,
+        "likes": 5902,
         "retweets": 586
       }
     ],
@@ -1136,97 +1137,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "今日股市：道琼斯指数因和平希望而上涨； Nvidia、Micron、Sandisk Rebound（现场报道）",
-        "url": "https://finnhub.io/api/news?id=bff568d15792ac54e97919d03af2f0659af167c4f3dbbe9eb8a7b5cc597207ce",
-        "datetime": 1784554942,
+        "headline": "了解今天交易中道琼斯股票的最新动态。",
+        "url": "https://finnhub.io/api/news?id=e613f9fe68ef0a1cdfe2f10691bd46234a818a12bfae7c5960dbd9c806ea565d",
+        "datetime": 1784565604,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "一个被忽视的股息之王，拥有54年的连胜纪录，现在值得买入",
+        "url": "https://finnhub.io/api/news?id=d8bf05738cc311c4615efa44521bc19168c11ad0af351059a3c92ce755beb79b",
+        "datetime": 1784562600,
         "source": "Yahoo"
       },
       {
-        "headline": "超级半导体 ETF 今年将击败 Nvidia、AMD 和 Broadcom",
-        "url": "https://finnhub.io/api/news?id=8264f3f210b45f14291d834cd9dfe885daa3f26e29c8cbeadb5b28e57f6d066c",
-        "datetime": 1784554800,
+        "headline": "今日股市：纳斯达克因和平希望而领涨； SpaceX 倒闭，巴士制造商爆发（现场报道）",
+        "url": "https://finnhub.io/api/news?id=b0e4bd52eb1886e3aacce231280d366f5b5bd01b9e0308b33b747f61a60a1405",
+        "datetime": 1784562443,
         "source": "Yahoo"
       },
       {
-        "headline": "台积电、SK海力士、英伟达：在半衰期中，只有一只芯片股值得尖叫买入",
-        "url": "https://finnhub.io/api/news?id=2e40adb6b0b9df2e85dd70fb5a927d5a9fbe971065008cb7cd8ca512a3986e9a",
-        "datetime": 1784554600,
+        "headline": "特朗普称伊朗谅解备忘录“结束”，航运 ETF 飙升 1,900% 可能翻倍",
+        "url": "https://finnhub.io/api/news?id=6b1831f23e676c432ad64b8303c3ac7cfe852e6f7c609146cc1d8d864f234f33",
+        "datetime": 1784562179,
         "source": "Yahoo"
       },
       {
-        "headline": "尽管自杰夫·贝索斯 (Jeff Bezos) 卸任首席执行官以来，亚马逊股票的表现严重落后于标准普尔 500 指数和纳斯达克 100 指数，但你是否应该购买亚马逊股票？",
-        "url": "https://finnhub.io/api/news?id=d91effe63b4b180908cce82070fd3d7e878563a934d5158a3e012bb16f6a9d01",
-        "datetime": 1784554320,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "AMD 刚刚获得了一位潜在的 AI 重量级客户。这是新的价格目标",
-        "url": "https://finnhub.io/api/news?id=5a0b5fc06a7efe9b465f4711989feefae5f1cfd6c96f6bf437c52619b85e154e",
-        "datetime": 1784554235,
+        "headline": "Anduril 合作推出自主 VTOL，Archer Aviation 股价上涨 14%； Joby 和 EHang 也搭车了",
+        "url": "https://finnhub.io/api/news?id=f8b4ba2fcba8eac6afab16e0f9ba34d8fe4078e36940328b65e93397add73488",
+        "datetime": 1784562047,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "SpaceX 股票正试图结束连续 6 天的下跌。国防部的交易会有所帮助。",
-        "url": "https://finnhub.io/api/news?id=c415299c09d2f0aaabe6f4309c7e127c3d9985c6569caa0e44d1cb50485abab7",
-        "datetime": 1784555640,
+        "headline": "午间热门故事：Brookfield、CPP Investments 收购 LXP；谷歌正在开发新的服务器芯片",
+        "url": "https://finnhub.io/api/news?id=c6dead17a4f77a198559009ee65aa218445ec5eaca93ed74832730938bce1545",
+        "datetime": 1784561916,
         "source": "Yahoo"
       },
       {
-        "headline": "科技巨头目标通过模型烘焙芯片将效率提高 10 倍，谷歌股价上涨",
-        "url": "https://finnhub.io/api/news?id=857af641831081c6614fbcdcbc7deaef106c43e9ea4d0a1a5a5907643e8ee048",
-        "datetime": 1784555292,
+        "headline": "布雷登·肖 (Braiden Shaw) 表示，人工智能是这一代人积累财富的“一个窗口”，但他警告说，利用人工智能的时间已经不多了",
+        "url": "https://finnhub.io/api/news?id=1d1814e60c0b620c51883da73a284b6dc14f111776b773827089bb362ea1bbec",
+        "datetime": 1784561700,
         "source": "Yahoo"
       },
       {
-        "headline": "大型科技公司如何在本财报季让投资者惊叹不已",
-        "url": "https://finnhub.io/api/news?id=85087f1b0354cc6a5c3982353a59aa8cf65abf3b64644fa200ca0b56565b3037",
-        "datetime": 1784554600,
+        "headline": "英伟达股价稳定，但需要帮助才能实现真正的收益",
+        "url": "https://finnhub.io/api/news?id=1fa6c6e5dee5ff2356c3f96886f855a29a9755e3b6a7ae161df681c976dae76b",
+        "datetime": 1784561580,
         "source": "Yahoo"
       },
       {
-        "headline": "股市反弹开启科技股重磅一周",
-        "url": "https://finnhub.io/api/news?id=a9b2255b79a4dc1593616bbd6978c12a5e9ad394985752a4ece9a3d84e4c02a9",
-        "datetime": 1784554288,
+        "headline": "Meta 的人工智能野心不断扩大。 META 股票跟得上吗？",
+        "url": "https://finnhub.io/api/news?id=52f63a6d8f1934961bce9ab5306a763dd8807dcca45e4f7d0222f708fdfcca19",
+        "datetime": 1784561449,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么未来两周将决定股市的成败",
-        "url": "https://finnhub.io/api/news?id=eee5afc5ec1ba9e8d93a25fa8d7ab36f9e0cf803b0516b8190cf5a6dc2bc1dce",
-        "datetime": 1784553660,
+        "headline": "谷歌打破了 20 年的融资习惯。其股票将如何反应？",
+        "url": "https://finnhub.io/api/news?id=977890db5022c5e9897bf7d4298e215de63ada205cd8db725cd00ca05d3d3169",
+        "datetime": 1784559991,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "特斯拉盈利：投资者“越来越关注”Robotaxi、Optimus 支出",
-        "url": "https://finnhub.io/api/news?id=b00382feb1389ad2ff70a7a9d8784b8ecf6dd8292c1279d7b232ba64c5e18189",
-        "datetime": 1784554809,
+        "headline": "特斯拉财报预览：华尔街等待第二季度业绩",
+        "url": "https://finnhub.io/api/news?id=ba7c4131d6e2c87c07d0d8028f751764ad657518d452fbee770b0caa49d03127",
+        "datetime": 1784561930,
         "source": "Yahoo"
       },
       {
-        "headline": "大型科技公司如何在本财报季让投资者惊叹不已",
-        "url": "https://finnhub.io/api/news?id=85087f1b0354cc6a5c3982353a59aa8cf65abf3b64644fa200ca0b56565b3037",
-        "datetime": 1784554600,
+        "headline": "柏林工厂产量提高 20% 计划实施后特斯拉股价上涨",
+        "url": "https://finnhub.io/api/news?id=643cc408d076340fe25c13c921596523f131f7a2201d553f3b052e90efb25e4c",
+        "datetime": 1784560496,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉第二季度收益预览：对即将发布的报告有何期待",
-        "url": "https://finnhub.io/api/news?id=d6cdf98af122f7f7159e8f19175c6a4023d5d67b7afccd253f00a51e30b7e702",
-        "datetime": 1784553445,
+        "headline": "特斯拉股价 380 美元：华尔街称其值得买入，但有 3 个强有力的卖出理由",
+        "url": "https://finnhub.io/api/news?id=dac1669ce75a27a2333cf2507ebd774de5f15e75ac1b35c8a03aa5fc379ef6f7",
+        "datetime": 1784559494,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉股票及其野心的价格",
-        "url": "https://finnhub.io/api/news?id=3ea494e3486f3af4e4a126183fa7d794b3a0da2be6d2e32e2e1d26b482aadf5b",
-        "datetime": 1784552099,
+        "headline": "特斯拉盈利回顾：值得关注的两件事",
+        "url": "https://finnhub.io/api/news?id=47f0a515b4aee42e9341f49d71c108b427ca806669347e859621001a47e0a48a",
+        "datetime": 1784558855,
         "source": "Yahoo"
       },
       {
-        "headline": "更新：随着交易员监控中东局势并预期本周的科技股盈利，美国股指期货在开盘前走高",
-        "url": "https://finnhub.io/api/news?id=e39621bc0abfdd6e8096f6aff6582f199b263c1918440b1c6ad6a230f5a679a4",
-        "datetime": 1784551857,
+        "headline": "未来一周：随着大型科技公司盈利高速增长，华尔街准备应对波动",
+        "url": "https://finnhub.io/api/news?id=4a0c9cdc7347cf4f089f87cb71009406c597f7cc3ce3edf6c054e79446110d73",
+        "datetime": 1784558760,
         "source": "Yahoo"
       }
     ],
@@ -1265,6 +1266,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "随着股市与“创纪录”的机构科技股抛售作斗争，比特币价格触及 6.5 万美元",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1784562420,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "彼得·勃兰特（Peter Brandt）预测比特币熊市结束的确切日期",
         "url": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoins-bear-market-isnt-over-predicts-final-bottom-in-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1784554200,
@@ -1287,16 +1294,16 @@
         "url": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
         "datetime": 1784550902,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "关键指标表明比特币“暴动”可能正在酝酿",
-        "url": "https://www.coindesk.com/daybook-us/2026/07/20/a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests",
-        "datetime": 1784546157,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [],
     "SOL": [
+      {
+        "headline": "Solana 故事：我们买了一家银行\n\n@jackiereses @Lead_Bank",
+        "url": "https://x.com/solana/status/2079243548797419812",
+        "datetime": 1784565267,
+        "source": "@solana"
+      },
       {
         "headline": "本周您在 Solana 上构建了什么？",
         "url": "https://x.com/solana/status/2079047243336909101",
@@ -1307,12 +1314,6 @@
         "headline": "生态系统每周都有新突破。这是一场冒险之旅，从 SBI 对日本股票进行代币化，到在 Amazon Prime Video 上播放 Claynosaurz，RWA 持有者数量已超过 30 万。\n\n这里有每一个",
         "url": "https://x.com/solana/status/2078842875094425760",
         "datetime": 1784469739,
-        "source": "@solana"
-      },
-      {
-        "headline": "索拉纳士兵集结⚔️",
-        "url": "https://x.com/solana/status/2078510105054626300",
-        "datetime": 1784390400,
         "source": "@solana"
       }
     ],
@@ -1380,21 +1381,21 @@
     ],
     "NEAR": [
       {
+        "headline": "代理商压缩现有价值链并开辟新价值链：\n\n-机器协商服务-代理对代理签约-持续微结算\n\n这是一个新的价值类别，而不是更快的版本",
+        "url": "https://x.com/NEARProtocol/status/2079235072394211631",
+        "datetime": 1784563246,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "代理经济比代理支付大一个数量级。\n\n如今，几乎所有商业关系都是一项等待代理商精心策划的交易，从供应链重新排序",
+        "url": "https://x.com/NEARProtocol/status/2079235069818945745",
+        "datetime": 1784563245,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "这两项升级使 NEAR 为即将发生的事情做好了准备。\n\n量子安全账户可以防范未来的加密威胁。动态重新分片意味着 NEAR Intents 和near​.com 会自动按卷缩放",
         "url": "https://x.com/NEARProtocol/status/2079189526270877998",
         "datetime": 1784552387,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "近核心 2.13，现已在主网上运行：\n\n✦ FIPS-204 后量子签名\n✦ 动态重新分片\n✦ 紧凑的链上密钥存储\n✦ Epoch 同步和元交易改进\n\n发行说明：",
-        "url": "https://x.com/NEARProtocol/status/2079189527726375208",
-        "datetime": 1784552387,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "主网升级\n\n量子安全签名现已在 NEAR 主网上上线。\n\n这使得 NEAR 成为首批在生产中采用 NIST 批准的后量子签名方案的区块链之一。\n\n升级还劳",
-        "url": "https://x.com/NEARProtocol/status/2079189515843821764",
-        "datetime": 1784552384,
         "source": "@NEARProtocol"
       }
     ],
