@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-22T14:59:13.040Z",
+  "updated_at": "2026-07-22T16:20:36.185Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 687.01,
-      "change_pct": -0.13
+      "price": 689.19,
+      "change_pct": 0.19
     },
     {
       "symbol": "QQQ",
-      "price": 706.44,
-      "change_pct": -0.36
+      "price": 709.18,
+      "change_pct": 0.03
     },
     {
       "symbol": "QQQM",
-      "price": 290.88,
-      "change_pct": -0.35
+      "price": 292,
+      "change_pct": 0.03
     },
     {
       "symbol": "NVDA",
-      "price": 208.57,
-      "change_pct": 0.62
+      "price": 214.12,
+      "change_pct": 3.29
     },
     {
       "symbol": "TSLA",
-      "price": 376.9,
-      "change_pct": -0.54
+      "price": 378.18,
+      "change_pct": -0.2
     },
     {
       "symbol": "GOOG",
-      "price": 346.91,
-      "change_pct": 0.21
+      "price": 347.49,
+      "change_pct": 0.38
     },
     {
       "symbol": "RKLB",
-      "price": 71.29,
-      "change_pct": 3.14
+      "price": 72.29,
+      "change_pct": 4.59
     },
     {
       "symbol": "CRCL",
-      "price": 67.83,
-      "change_pct": -4.57
+      "price": 67.79,
+      "change_pct": -4.63
     },
     {
       "symbol": "PLTR",
-      "price": 126.74,
-      "change_pct": -4.46
+      "price": 126.85,
+      "change_pct": -4.38
     },
     {
       "symbol": "MSTR",
-      "price": 98.26,
-      "change_pct": -3.62
+      "price": 99.62,
+      "change_pct": -2.29
     },
     {
       "symbol": "GLD",
-      "price": 380.38,
-      "change_pct": 1.49
+      "price": 381.21,
+      "change_pct": 1.71
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65675,
-      "change_pct": -1.72
+      "price": 65983,
+      "change_pct": -0.85
     },
     {
       "symbol": "ETH",
-      "price": 1928.74,
-      "change_pct": -0.14
+      "price": 1939.38,
+      "change_pct": 0.63
     },
     {
       "symbol": "SOL",
-      "price": 77.7,
-      "change_pct": -0.33
+      "price": 78.3,
+      "change_pct": 0.34
     },
     {
       "symbol": "HYPE",
-      "price": 58.38,
-      "change_pct": -5.71
+      "price": 57.82,
+      "change_pct": -6.43
     },
     {
       "symbol": "ZEC",
-      "price": 511.45,
-      "change_pct": -5.73
+      "price": 511.32,
+      "change_pct": -5.68
     },
     {
       "symbol": "TAO",
-      "price": 198.62,
-      "change_pct": -1.2
+      "price": 199.69,
+      "change_pct": 0.21
     },
     {
       "symbol": "SKY",
-      "price": 1463.53,
-      "change_pct": -0.15
+      "price": 1471.55,
+      "change_pct": 0.61
     },
     {
       "symbol": "AAVE",
-      "price": 96.99,
-      "change_pct": 2.54
+      "price": 97.59,
+      "change_pct": 1.55
     },
     {
       "symbol": "BNB",
-      "price": 570.25,
-      "change_pct": -0.91
+      "price": 571.46,
+      "change_pct": -0.63
     },
     {
       "symbol": "NEAR",
-      "price": 1.88,
-      "change_pct": -4.39
+      "price": 1.89,
+      "change_pct": -3.3
     },
     {
       "symbol": "DOGE",
-      "price": 0.072691,
-      "change_pct": -0.73
+      "price": 0.072992,
+      "change_pct": -0.48
     },
     {
       "symbol": "SPACEX",
-      "price": 459.15,
-      "change_pct": 3.71
+      "price": 465.72,
+      "change_pct": 4.39
     }
   ],
   "earnings": {
@@ -301,11 +301,10 @@
     },
     "CRCL": {
       "next": {
-        "date": "2026-08-18",
+        "date": "2026-08-20",
         "quarter": 2,
         "year": 2026,
-        "eps_estimate": 0.2226,
-        "revenue_estimate": 743333843
+        "is_estimate": true
       },
       "history": [
         {
@@ -474,6 +473,15 @@
     }
   },
   "news": [
+    {
+      "headline": "不为人知的饮料名称吸引了交易商的注意力",
+      "summary": "迈克尔·库 (Michael Khouw) 详细介绍了他在盈利前如何交易这只股票。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
+      "datetime": 1784735740,
+      "category": "top news",
+      "related": ""
+    },
     {
       "headline": "忘记英伟达：下一个大型人工智能交易可能是加密货币和区块链",
       "summary": "",
@@ -691,7 +699,7 @@
       "related": ""
     },
     {
-      "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+      "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
       "summary": "OpenAI 称这是一次“史无前例的网络事件”，此前其人工智能模型在安全评估期间突破沙箱，攻击了一家人工智能初创公司。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -734,15 +742,6 @@
       "datetime": 1784671690,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "律师：《清晰法案》可以帮助 CFTC 应对预测市场",
-      "summary": "据一位在众议院小组委员会听证会上作证的律师称，《清晰法案》可以授予商品期货交易委员会解决“预测市场爆炸性增长”所需的权力。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784669803,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -774,7 +773,7 @@
           "datetime": 1784700116
         },
         {
-          "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+          "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
           "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1784688355
         }
@@ -802,12 +801,12 @@
     }
   ],
   "btc_score": {
-    "score": 35.6,
+    "score": 34.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.4,
-    "weekly_score": 19.2,
-    "btc_price": 65743,
+    "daily_score": 16.3,
+    "weekly_score": 18.2,
+    "btc_price": 66053.4,
     "fear_greed": 40,
     "indicators": [
       {
@@ -819,15 +818,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00135,
+        "value": 0.001295,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.21,
-        "score": 47,
+        "value": 1.19,
+        "score": 46,
         "weight": 5,
         "group": "daily"
       },
@@ -889,15 +888,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.1,
+        "value": 37.6,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -2.2,
-        "score": 44,
+        "value": -99.1,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1075,22 +1074,22 @@
         "text": "The impulse to change Bitcoin’s rules merely to prevent others from using Bitcoin in ways you disapprove of is statist and alien to a community rooted in liberty, property rights, free markets, natural law, and Austrian economics. BIP 110 would impose monetary purity by fiat.",
         "url": "https://x.com/saylor/status/2079484587751747587",
         "time": "Tue Jul 21 08:32:15 +0000 2026",
-        "likes": 8127,
-        "retweets": 915
+        "likes": 8187,
+        "retweets": 920
       },
       {
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 10202,
-        "retweets": 1150
+        "likes": 10207,
+        "retweets": 1151
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 12179,
-        "retweets": 1302
+        "likes": 12181,
+        "retweets": 1305
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
@@ -1103,8 +1102,8 @@
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
-        "likes": 3941,
-        "retweets": 718
+        "likes": 3940,
+        "retweets": 720
       }
     ],
     "viktorfischer": [
@@ -1148,97 +1147,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "如果市场崩溃，这是我迫不及待要买的第一只太空股票",
-        "url": "https://finnhub.io/api/news?id=9cd6b6c37e9a7954c039e384903a350b9a776b5f9532a81f864ff5b818c92f5a",
-        "datetime": 1784728200,
+        "headline": "大众会忽视亚马逊，但我现在会购买更多",
+        "url": "https://finnhub.io/api/news?id=cb38b1acaec2574eaff1afe1069cb581c793353170a34d1eeead59b44045ca05",
+        "datetime": 1784735611,
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特的这 8 句话表明这位伯克希尔·哈撒韦公司前首席执行官仍然对企业有着巨大的影响力",
-        "url": "https://finnhub.io/api/news?id=bd84d142caab041d637e1d0aef89765512b95682d6169afef234c262207ecdeb",
-        "datetime": 1784728200,
+        "headline": "想要终生收入吗？这里有 3 只股票，现在就买，永远不要卖。",
+        "url": "https://finnhub.io/api/news?id=c5dd7dc8da34683a27f62e1636ea509ed767c2cde4e7f478e3a763ae4ba36faa",
+        "datetime": 1784734980,
         "source": "Yahoo"
       },
       {
-        "headline": "7 月 27 日至 31 日的股息日历：10 只股票以及购买每只股票的最后一天",
-        "url": "https://finnhub.io/api/news?id=2b7dad06db1748ac5179cb404b31805a86df47c0435c131778d40b01c1c4e86e",
-        "datetime": 1784728121,
+        "headline": "亿万富翁投资者大卫·艾因霍恩 (David Einhorn) 的 5 大赌注：与怀疑论者一起购买？",
+        "url": "https://finnhub.io/api/news?id=917c40086850279720b3680f9212c23d443b1ac0d9b321c23f5a6a7cb86c0d90",
+        "datetime": 1784734594,
         "source": "Yahoo"
       },
       {
-        "headline": "今日股市：道琼斯指数随着油价上涨而波动； SMCI 随着 Alphabet 和特斯拉的收益飙升（现场报道）",
-        "url": "https://finnhub.io/api/news?id=7f0e1dcddeb9f935695a553ebabef48c39162bad9f9afecfeb1fc7ce9e489fec",
-        "datetime": 1784727914,
+        "headline": "在埃隆·马斯克 (Elon Musk) 的领导下，特斯拉交付量超出华尔街预期近 74,000 辆",
+        "url": "https://finnhub.io/api/news?id=d1fafd992589dd46fb03be047312a4bb1c1525115598ca4ffa02b6037c85fde5",
+        "datetime": 1784734500,
         "source": "Yahoo"
       },
       {
-        "headline": "美国航空股价今年已上涨 24%，但分析师对其价值未能达成一致",
-        "url": "https://finnhub.io/api/news?id=8296aa8f3360a582ee0ab31e40b91147797f6bfedae67c9b5cca9833b081187f",
-        "datetime": 1784727905,
+        "headline": "预测：未来五年台积电股票将跑赢标准普尔 500 指数",
+        "url": "https://finnhub.io/api/news?id=73a34920cdfd8020612664769c28d9a9f6b791f0346c2eb7a679ece32493b4ec",
+        "datetime": 1784734225,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "今日股市：道琼斯指数随着油价上涨而波动； SMCI 随着 Alphabet 和特斯拉的收益飙升（现场报道）",
-        "url": "https://finnhub.io/api/news?id=7f0e1dcddeb9f935695a553ebabef48c39162bad9f9afecfeb1fc7ce9e489fec",
-        "datetime": 1784727914,
+        "headline": "大众会忽视亚马逊，但我现在会购买更多",
+        "url": "https://finnhub.io/api/news?id=cb38b1acaec2574eaff1afe1069cb581c793353170a34d1eeead59b44045ca05",
+        "datetime": 1784735611,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能并不是 Alphabet 的“全部游戏”：策略师预览第二季度收益",
-        "url": "https://finnhub.io/api/news?id=146fc2035aa0a35291c78d50a144a0baaf17df0c9f4efbe553b4045e59f68b6f",
-        "datetime": 1784727616,
+        "headline": "如何利用 Google 和 IREN 股票期权交易玩人工智能",
+        "url": "https://finnhub.io/api/news?id=4eb34612070990a279aa88b5ab922996ed9133cfeef3886733ba083c36cbba9d",
+        "datetime": 1784735473,
         "source": "Yahoo"
       },
       {
-        "headline": "Reddit 可能会阻止 Google AI 访问，因为 6000 万美元的交易即将到期：RDDT 股票会崩盘吗？",
-        "url": "https://finnhub.io/api/news?id=526570a5b227d3c82b8deb2ba4e17a2f3c917e726ad7c502fa9d6536f5599430",
-        "datetime": 1784727000,
+        "headline": "Reddit 股票因报告可能限制谷歌的人工智能访问而下跌",
+        "url": "https://finnhub.io/api/news?id=ae1aa6641422ff3a6a7988f3b5d25304636bfab5c2acf90bb2cf0d336d6c2f3c",
+        "datetime": 1784734896,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克并不真正购买股票，但表示这两只股票在未来将“非常有价值”。立即积累财富",
-        "url": "https://finnhub.io/api/news?id=5a85e6f9496cd19c7f0e584ee871e119dac61e756914cd3c8782ce4bbc5225a0",
-        "datetime": 1784727000,
+        "headline": "大型科技公司隐藏了 1.65 万亿美元的债务。投资者应该有多担心？",
+        "url": "https://finnhub.io/api/news?id=464304170d7dff060035aafe6f193320943e1008ad1c265ed8ef79cba97cd686",
+        "datetime": 1784734122,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet 的盈利让大型科技公司的人工智能支出受到审查",
-        "url": "https://finnhub.io/api/news?id=ca20ef8eb0243fa005723f396abd2416dfef548171386485c6506425ad5e20f8",
-        "datetime": 1784726113,
+        "headline": "谷歌到期收益。云计算的增长可能会引发大型科技公司的人工智能争论。",
+        "url": "https://finnhub.io/api/news?id=3d907101c56de81277c1134a97804491ecd00fc75329eb92459c5ad86dff5ff6",
+        "datetime": 1784731978,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "今日股市：道琼斯指数随着油价上涨而波动； SMCI 随着 Alphabet 和特斯拉的收益飙升（现场报道）",
-        "url": "https://finnhub.io/api/news?id=7f0e1dcddeb9f935695a553ebabef48c39162bad9f9afecfeb1fc7ce9e489fec",
-        "datetime": 1784727914,
+        "headline": "埃隆的另一家公司特斯拉周三晚间报道称，SpaceX 的股价正停滞不前",
+        "url": "https://finnhub.io/api/news?id=2a3f8cc5fbccb01fc6f66eb94d39eeb78069dd2f252c5d3cd4ce887fe78743ca",
+        "datetime": 1784734623,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能并不是 Alphabet 的“全部游戏”：策略师预览第二季度收益",
-        "url": "https://finnhub.io/api/news?id=146fc2035aa0a35291c78d50a144a0baaf17df0c9f4efbe553b4045e59f68b6f",
-        "datetime": 1784727616,
+        "headline": "在埃隆·马斯克 (Elon Musk) 的领导下，特斯拉交付量超出华尔街预期近 74,000 辆",
+        "url": "https://finnhub.io/api/news?id=d1fafd992589dd46fb03be047312a4bb1c1525115598ca4ffa02b6037c85fde5",
+        "datetime": 1784734500,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克并不真正购买股票，但表示这两只股票在未来将“非常有价值”。立即积累财富",
-        "url": "https://finnhub.io/api/news?id=5a85e6f9496cd19c7f0e584ee871e119dac61e756914cd3c8782ce4bbc5225a0",
-        "datetime": 1784727000,
+        "headline": "预测：特斯拉今天的收益可能会使特斯拉股票上涨至此价格",
+        "url": "https://finnhub.io/api/news?id=c191c55764a5571b703ff2c84ae86d8c9cb11017d2071b8fa4827906c3d37859",
+        "datetime": 1784734358,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉在财报发布前面临大量空头押注",
-        "url": "https://finnhub.io/api/news?id=b13c92a45ea33a5f1c77daa35688ea6b467441282db92115e04c51c1c127fe62",
-        "datetime": 1784726055,
+        "headline": "周二反弹后盘前下滑",
+        "url": "https://finnhub.io/api/news?id=9370b194a4a2d8e0fce4886cddb4ecb4806c2062381eee5eab1b75e08ad9c030",
+        "datetime": 1784731380,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉空头兴趣在盈利之前增加",
-        "url": "https://finnhub.io/api/news?id=a700673359be08b5e1a886a14a3627dddf5c3b73c67e8c12df0c445f6a4cd02f",
-        "datetime": 1784725751,
+        "headline": "埃隆·马斯克、特斯拉和 SpaceX 面临投资者的严重质疑",
+        "url": "https://finnhub.io/api/news?id=1a4f57ffc2087e71a5bab12590c47cfcd93d4f0fec5995afe74a8c96faa89f76",
+        "datetime": 1784731020,
         "source": "Yahoo"
       }
     ],
@@ -1310,6 +1309,12 @@
     "ETH": [],
     "SOL": [
       {
+        "headline": "Mert 预测 Solana 将成为最大的链上经济体\n\n“我确实看到了一条非常可行的道路，Solana 在不断释放这些东西的同时，又进行了一次非常渐进但非常一致的运行”\n\n“作为W",
+        "url": "https://x.com/solana/status/2079963428433887450",
+        "datetime": 1784736899,
+        "source": "@solana"
+      },
+      {
         "headline": "",
         "url": "https://x.com/solana/status/2079902677123924032",
         "datetime": 1784722415,
@@ -1319,12 +1324,6 @@
         "headline": "Solana 的现货交易量现在超过了除一家之外的所有 CEX。\n\n更高。",
         "url": "https://x.com/solana/status/2079837063407710720",
         "datetime": 1784706772,
-        "source": "@solana"
-      },
-      {
-        "headline": "在 140 多个国家/地区发送和接收 USDC 和 USDT，使用与运行银行卡、账单和会计相同的工作流程",
-        "url": "https://x.com/solana/status/2079619714918035698",
-        "datetime": 1784654952,
         "source": "@solana"
       }
     ],
@@ -1350,7 +1349,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "法定货币受到对机构的信任的支持。总督有一只狗支持。其中只有一个需要救助",
+        "headline": "法定货币受到对机构的信任的支持。总督有狗支持。其中只有一个需要救助",
         "url": "https://x.com/dogecoin/status/2077524635214549447",
         "datetime": 1784155446,
         "source": "@dogecoin"
