@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T11:01:02.005Z",
+  "updated_at": "2026-07-22T12:28:23.616Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65981,
-      "change_pct": -0.25
+      "price": 65821,
+      "change_pct": -0.85
     },
     {
       "symbol": "ETH",
-      "price": 1929.25,
-      "change_pct": -0.16
+      "price": 1922.11,
+      "change_pct": -0.89
     },
     {
       "symbol": "SOL",
-      "price": 77.6,
-      "change_pct": -0.63
+      "price": 77.21,
+      "change_pct": -1.4
     },
     {
       "symbol": "HYPE",
-      "price": 59.13,
-      "change_pct": -5.62
+      "price": 58.23,
+      "change_pct": -7.13
     },
     {
       "symbol": "ZEC",
-      "price": 516.2,
-      "change_pct": -3.8
+      "price": 513,
+      "change_pct": -5.36
     },
     {
       "symbol": "TAO",
-      "price": 197.26,
-      "change_pct": -1.35
+      "price": 196.53,
+      "change_pct": -2.48
     },
     {
       "symbol": "SKY",
-      "price": 1473.42,
-      "change_pct": 1.42
+      "price": 1467.16,
+      "change_pct": 0.07
     },
     {
       "symbol": "AAVE",
-      "price": 96.11,
-      "change_pct": 1.77
+      "price": 96.13,
+      "change_pct": 2.09
     },
     {
       "symbol": "BNB",
-      "price": 570.56,
-      "change_pct": -1.14
+      "price": 569.88,
+      "change_pct": -1.15
     },
     {
       "symbol": "NEAR",
-      "price": 1.89,
-      "change_pct": -5.18
+      "price": 1.88,
+      "change_pct": -5
     },
     {
       "symbol": "DOGE",
-      "price": 0.072685,
-      "change_pct": -0.88
+      "price": 0.072345,
+      "change_pct": -1.43
     },
     {
       "symbol": "SPACEX",
-      "price": 468.93,
-      "change_pct": 2.03
+      "price": 461.44,
+      "change_pct": 6.89
     }
   ],
   "earnings": {
@@ -475,6 +475,42 @@
   },
   "news": [
     {
+      "headline": "Zilliqa Ledger 应用程序漏洞可让攻击者恢复签名者的私钥",
+      "summary": "Zilliqa Ledger 应用程序中的一个安全漏洞使攻击者能够使用公开的链上数据重建私钥。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784720993,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国寻求没收与爱情、投资诈骗相关的 2500 万美元加密货币",
+      "summary": "美国检察官正在追查涉嫌与国际欺诈和洗钱网络有关的价值超过 2500 万美元的加密货币。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784719960,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Talos 为 Kalshi 预测市场带来机构交易工具",
+      "summary": "此次整合使机构客户能够通过 Talos 现有的交易基础设施访问 Kalshi 的活动合约和加密货币永续合约。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784718000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着散户投资者转向股票，韩国加密货币交易量萎缩",
+      "summary": "随着韩国综合股价指数飙升，韩国五家主要加密货币交易所的交易活动大幅下降，表明散户投资者转向股票。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-volume-decline-kospi-retail-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784717229,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Foundry 要求比特币矿工投票支持 BIP-110",
       "summary": "Foundry USA 要求其挖矿客户表达对 BIP-110 的支持，这是一项备受争议的提案，旨在减少比特币交易中可存储的数据量。",
       "source": "Cointelegraph",
@@ -556,7 +592,7 @@
       "related": ""
     },
     {
-      "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+      "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
       "summary": "OpenAI 称这是一次“史无前例的网络事件”，此前其人工智能模型在安全评估期间突破沙箱，攻击了一家人工智能初创公司。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -707,42 +743,6 @@
       "datetime": 1784657679,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "代币丑闻几个月后，Movement Labs 根据美国破产法第 11 章申请破产",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
-      "datetime": 1784656480,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "分析师称，随着人工智能贸易降温，加密货币市场突破可能会加速",
-      "summary": "比特币突破 67,000 美元，而加密股票因对美国加密立法的乐观情绪而上涨，并且有迹象表明投资者可能会退出人工智能交易。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/crypto-market-breakout-ai-trade-cools-analyst-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784655990,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "白宫同意市场结构法案中的道德条款",
-      "summary": "周二，随着有关与白宫就《澄清法案》中的道德问题达成协议的报道传出，比特币价格突破 66,000 美元，达到七周高点。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/white-house-ethics-provisions-crypto-market-structure-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784655058,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "调查显示，医疗保健学生正在转向 Kalshi 和博彩平台来支付学位费用",
-      "summary": "Clasp 首席执行官 Tess Michaels 表示：“这些学生并不是为了好玩而赌博。”",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/healthcare-students-turn-to-kalshi-betting-platforms-to-pay-for-degrees-survey-shows.html",
-      "datetime": 1784654697,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -774,7 +774,7 @@
           "datetime": 1784700116
         },
         {
-          "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+          "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
           "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1784688355
         }
@@ -807,7 +807,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.1,
     "weekly_score": 19.1,
-    "btc_price": 66030.2,
+    "btc_price": 65899.5,
     "fear_greed": 40,
     "indicators": [
       {
@@ -819,7 +819,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002877,
+        "value": 0.001368,
         "score": 46,
         "weight": 8,
         "group": "daily"
@@ -889,14 +889,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.6,
+        "value": 37.4,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -19.7,
+        "value": -16.4,
         "score": 40,
         "weight": 4,
         "group": "weekly"
@@ -1036,7 +1036,7 @@
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 910,
+        "likes": 911,
         "retweets": 44
       },
       {
@@ -1052,7 +1052,7 @@
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
         "url": "https://x.com/QwQiao/status/2077464434377642202",
         "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 51,
+        "likes": 52,
         "retweets": 0
       },
       {
@@ -1075,29 +1075,29 @@
         "text": "The impulse to change Bitcoin’s rules merely to prevent others from using Bitcoin in ways you disapprove of is statist and alien to a community rooted in liberty, property rights, free markets, natural law, and Austrian economics. BIP 110 would impose monetary purity by fiat.",
         "url": "https://x.com/saylor/status/2079484587751747587",
         "time": "Tue Jul 21 08:32:15 +0000 2026",
-        "likes": 7936,
-        "retweets": 890
+        "likes": 7996,
+        "retweets": 898
       },
       {
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 10172,
-        "retweets": 1142
+        "likes": 10200,
+        "retweets": 1148
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 12176,
-        "retweets": 1300
+        "likes": 12175,
+        "retweets": 1301
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
-        "likes": 4760,
-        "retweets": 656
+        "likes": 4759,
+        "retweets": 655
       },
       {
         "text": "https://t.co/wmUErVBFOo",
@@ -1148,98 +1148,98 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "量子计算股票 IonQ、Rigetti 和 D-Wave 的 9.88 亿美元警告给华尔街带来冲击",
-        "url": "https://finnhub.io/api/news?id=9318c277bd9bb167f0ed872df27fc898e024afc5a81acffb96cd5ebbeeb8094c",
-        "datetime": 1784712360,
+        "headline": "到 2066 年，3 只股息股票可能将每股 5,000 美元变成 100 万美元",
+        "url": "https://finnhub.io/api/news?id=c9ceb6f3c713a78fa2dde7aa855bc029c4a422cf9b003ebb01d69175a78c0287",
+        "datetime": 1784721000,
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特支持这个消费品牌 38 年。这就是格雷格·阿贝尔将继续持有的原因。",
-        "url": "https://finnhub.io/api/news?id=839e6a8ff221527538b36ed3e64bfb57416c8189f50ed81fb2dbdeda7d2af818",
-        "datetime": 1784712300,
+        "headline": "AI 芯片更新 - NVIDIA 和 Wowza 在全球范围内应对合成视频威胁",
+        "url": "https://finnhub.io/api/news?id=34133053f5e200960f312da1d322b175a85773c956cb8644b74bcfdf6942d3f0",
+        "datetime": 1784720423,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 股价较 IPO 后峰值下跌 36%。历史表明，到 2027 年 6 月，10,000 美元的投资将价值如此之多。",
-        "url": "https://finnhub.io/api/news?id=f1dcc4228f765fe203aa2814aa1197fe054e4555fe4ceb69acde2779d111aafa",
-        "datetime": 1784711340,
+        "headline": "逢低买入？为什么中国的 Kimi 模型对 Nvidia 来说实际上是个好消息。",
+        "url": "https://finnhub.io/api/news?id=09138b0227e800ff8c03ed8544dbaeddb4f135920bba13b8314f06d7d5639c7e",
+        "datetime": 1784720100,
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特刚刚透露，他亲自选择了伯克希尔最新的巨型股票。这就是为什么这改变了一切。",
-        "url": "https://finnhub.io/api/news?id=63b8b444412516b8a9ce63f4619af45fd623514f9054cca471e8f97e60e29b39",
-        "datetime": 1784711040,
+        "headline": "埃隆·马斯克刚刚声称“SpaceX 将比地球更有价值”，但债券市场强烈反对",
+        "url": "https://finnhub.io/api/news?id=26f127448b29bdf128cbd71a1c7515976f11161d21d9fadbeadd2b573f48b176",
+        "datetime": 1784719560,
         "source": "Yahoo"
       },
       {
-        "headline": "加密行业已花费近 2 亿美元通过新的支持加密立法。以下是投资者需要了解的内容。",
-        "url": "https://finnhub.io/api/news?id=e353cb18ab04dae3cfb5f08cdaaf94debf09bd65dc932709e3592d861f44a51b",
-        "datetime": 1784710260,
+        "headline": "更好的山寨币购买：XRP 与 Stellar (XLM)",
+        "url": "https://finnhub.io/api/news?id=0bd5f083adf30d267733bb90ca97e67c70dcbfd9e01ff5e32b12aa595ee933fb",
+        "datetime": 1784719200,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "沃伦·巴菲特刚刚透露，他亲自选择了伯克希尔最新的巨型股票。这就是为什么这改变了一切。",
-        "url": "https://finnhub.io/api/news?id=63b8b444412516b8a9ce63f4619af45fd623514f9054cca471e8f97e60e29b39",
-        "datetime": 1784711040,
+        "headline": "由于美伊谈判缺乏进展，油价上涨，美国股指期货开盘前下跌",
+        "url": "https://finnhub.io/api/news?id=d69e754cbc33e05e4409034f50c6b98937c6e7c20e5168b913efb7670d52dc97",
+        "datetime": 1784721203,
         "source": "Yahoo"
       },
       {
-        "headline": "纳斯达克、标准普尔 500 指数期货下滑，领先于 TSLA、GOOGL 盈利：为何 SMCI、INTC、SLS、BATL、OKLO、RKLB 成为焦点",
-        "url": "https://finnhub.io/api/news?id=7669e899cde7d120229c5e9f29ec31557cdab3158adeac53b88a6927c35e60c3",
-        "datetime": 1784709011,
+        "headline": "Alphabet、特斯拉财报公布前，股价下跌",
+        "url": "https://finnhub.io/api/news?id=92a1a9bedad0da7a9db6b88d38783296832135c481f0e35898ab2d8e01c0810c",
+        "datetime": 1784721116,
         "source": "Yahoo"
       },
       {
-        "headline": "巴克莱银行表示，人工智能并没有提高生产力",
-        "url": "https://finnhub.io/api/news?id=f8ef1f2fde32280f8fe56c6d875aab6a15fcce5b194ffd1741ff0058dc0fc774",
-        "datetime": 1784707121,
+        "headline": "随着油价上涨，道琼斯期货下跌；两大人工智能盈利推动者谷歌和特斯拉即将公布盈利",
+        "url": "https://finnhub.io/api/news?id=82b27fc396bf856338af9ffa783e72f3a77fd932cba6e44af350756efa8a0a0d",
+        "datetime": 1784720740,
         "source": "Yahoo"
       },
       {
-        "headline": "Garmin 股价一夜上涨：200 美元的 Whoop 和 Google Fitbit Challenger 能否再次让投资者兴奋不已？",
-        "url": "https://finnhub.io/api/news?id=2b481572a921ee2a4c046d23ce6de2f860b9489ae9135d9c4ef90b6ec26cc23b",
-        "datetime": 1784706602,
+        "headline": "甲骨文在人工智能支出热潮中解雇了 21,000 名员工，随后威斯康星州遭遇了 70 亿美元的电力障碍",
+        "url": "https://finnhub.io/api/news?id=47d2d837e669af0c2bc2f151bf79b6b1d6134f55446d5b0fa74e473b295726e8",
+        "datetime": 1784720700,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌股票并没有完全跑赢市场，但 YouTube 对 FIFA 世界杯的参与表明了为什么它仍然是一支强大的股票",
-        "url": "https://finnhub.io/api/news?id=23d15c6aea45e59f4331ab9b53db2d92b3c58abd7f6bec47afed89d9bcc97278",
-        "datetime": 1784705314,
+        "headline": "由于威胁切断谷歌人工智能引发僵局，Reddit 股价下跌",
+        "url": "https://finnhub.io/api/news?id=4fcb5f2ed4e85af302196d73ab53eb21dc0504dee56ec805d18de34df9605bf0",
+        "datetime": 1784720321,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "纳斯达克、标准普尔 500 指数期货下滑，领先于 TSLA、GOOGL 盈利：为何 SMCI、INTC、SLS、BATL、OKLO、RKLB 成为焦点",
-        "url": "https://finnhub.io/api/news?id=7669e899cde7d120229c5e9f29ec31557cdab3158adeac53b88a6927c35e60c3",
-        "datetime": 1784709011,
+        "headline": "Alphabet、特斯拉财报公布前，股价下跌",
+        "url": "https://finnhub.io/api/news?id=92a1a9bedad0da7a9db6b88d38783296832135c481f0e35898ab2d8e01c0810c",
+        "datetime": 1784721116,
         "source": "Yahoo"
       },
       {
-        "headline": "这家亚洲电动汽车制造商本月将击败特斯拉、蔚来汽车和小鹏汽车，明年可能在国内实现收支平衡",
-        "url": "https://finnhub.io/api/news?id=6c994e9f376f228462e09daf95de93d32058e1d25fada8091b04e02da4768291",
-        "datetime": 1784707512,
+        "headline": "随着油价上涨，道琼斯期货下跌；两大人工智能盈利推动者谷歌和特斯拉即将公布盈利",
+        "url": "https://finnhub.io/api/news?id=82b27fc396bf856338af9ffa783e72f3a77fd932cba6e44af350756efa8a0a0d",
+        "datetime": 1784720740,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉的盈利即将到来。戏剧开始前需要注意的三件事。",
-        "url": "https://finnhub.io/api/news?id=8d75b9adc5779d4fb68b42d18e1db8ff2ebabfb100f8f7673180a603629df9ca",
-        "datetime": 1784706467,
+        "headline": "Tesla、Alphabet、IBM 今日报告：为什么期权交易者要付出 86% 的波动率？",
+        "url": "https://finnhub.io/api/news?id=7b209bd58367d3b5d769b2448faac729e617ae8508dafa3cbe0b1ca4c1c9cd49",
+        "datetime": 1784719593,
         "source": "Yahoo"
       },
       {
-        "headline": "亚当·斯密的《国富论》帮助创建了世界上最富裕的国家",
-        "url": "https://finnhub.io/api/news?id=7d8422e161a2b8c7fe81203d712337b89abac4172743ea5212b8f11917533e49",
-        "datetime": 1784703600,
+        "headline": "芯片谨慎，油价下跌华尔街开盘前；亚洲混合，欧洲向上",
+        "url": "https://finnhub.io/api/news?id=9edc2a6fade511a4bcdaee28351988a140d765357b109dfcd60c0504d9431fd7",
+        "datetime": 1784718766,
         "source": "Yahoo"
       },
       {
-        "headline": "Nightview 基金 2026 年第二季度投资组合回顾",
-        "url": "https://finnhub.io/api/news?id=925f2d2cd5183e905c76db0ac94ad4ba67d3d7ef11f456f8c16062bc4b42e24a",
-        "datetime": 1784692860,
-        "source": "SeekingAlpha"
+        "headline": "特斯拉财报聚焦 SpaceX 计划和人工智能投资",
+        "url": "https://finnhub.io/api/news?id=b00a4408e62ce104a8748f82bd787d2feb4ddc67a81378150f365fce646f364e",
+        "datetime": 1784718608,
+        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1310,6 +1310,12 @@
     "ETH": [],
     "SOL": [
       {
+        "headline": "",
+        "url": "https://x.com/solana/status/2079902677123924032",
+        "datetime": 1784722415,
+        "source": "@solana"
+      },
+      {
         "headline": "Solana 的现货交易量现在超过了除一家之外的所有 CEX。\n\n更高。",
         "url": "https://x.com/solana/status/2079837063407710720",
         "datetime": 1784706772,
@@ -1319,12 +1325,6 @@
         "headline": "在 140 多个国家/地区发送和接收 USDC 和 USDT，使用与运行银行卡、账单和会计相同的工作流程",
         "url": "https://x.com/solana/status/2079619714918035698",
         "datetime": 1784654952,
-        "source": "@solana"
-      },
-      {
-        "headline": "突发事件：@tryramp 向 70,000 多名客户开设稳定币账户和付款，并选择 Solana",
-        "url": "https://x.com/solana/status/2079619711793340529",
-        "datetime": 1784654951,
         "source": "@solana"
       }
     ],
@@ -1350,7 +1350,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "法定货币受到对机构的信任的支持。总督有一只狗支持。其中只有一个需要救助",
+        "headline": "法定货币受到对机构的信任的支持。总督有狗支持。其中只有一个需要救助",
         "url": "https://x.com/dogecoin/status/2077524635214549447",
         "datetime": 1784155446,
         "source": "@dogecoin"
