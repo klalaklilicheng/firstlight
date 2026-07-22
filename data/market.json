@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T21:59:47.335Z",
+  "updated_at": "2026-07-22T23:06:27.339Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 66017,
-      "change_pct": -0.47
+      "price": 65994,
+      "change_pct": -0.37
     },
     {
       "symbol": "ETH",
-      "price": 1935.41,
-      "change_pct": 0.64
+      "price": 1935.05,
+      "change_pct": 0.91
     },
     {
       "symbol": "SOL",
-      "price": 77.96,
-      "change_pct": -0.06
+      "price": 77.89,
+      "change_pct": -0.03
     },
     {
       "symbol": "HYPE",
-      "price": 59.1,
-      "change_pct": -2.78
+      "price": 59.06,
+      "change_pct": -2.62
     },
     {
       "symbol": "ZEC",
-      "price": 513.76,
-      "change_pct": -3.62
+      "price": 513.16,
+      "change_pct": -3.65
     },
     {
       "symbol": "TAO",
-      "price": 197.21,
-      "change_pct": -1.03
+      "price": 197.43,
+      "change_pct": -0.88
     },
     {
       "symbol": "SKY",
-      "price": 1469.67,
-      "change_pct": 0.68
+      "price": 1477.14,
+      "change_pct": 1.33
     },
     {
       "symbol": "AAVE",
-      "price": 98.09,
-      "change_pct": 3.2
+      "price": 97.34,
+      "change_pct": 1.89
     },
     {
       "symbol": "BNB",
-      "price": 571.1,
-      "change_pct": -0.35
+      "price": 570.63,
+      "change_pct": -0.22
     },
     {
       "symbol": "NEAR",
-      "price": 1.87,
-      "change_pct": -3.12
+      "price": 1.86,
+      "change_pct": -3.7
     },
     {
       "symbol": "DOGE",
-      "price": 0.072945,
-      "change_pct": -0.48
+      "price": 0.072921,
+      "change_pct": -0.14
     },
     {
       "symbol": "SPACEX",
-      "price": 442.04,
-      "change_pct": -2.33
+      "price": 442.4,
+      "change_pct": -2.66
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "主要民主党议员表示，《加密货币清晰度法案》在道德和其他问题上“不足”",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+      "datetime": 1784758945,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "标准普尔推出数字资产区块链基本面指数",
       "summary": "该基准使用协议收入跟踪区块链网络，提供传统市值加权加密货币指数的替代方案。",
       "source": "Cointelegraph",
@@ -627,7 +636,7 @@
       "related": ""
     },
     {
-      "headline": "SEC 的 Peirce 警告一些 DeFi 金库、链上借贷可能会受到证券法的管辖",
+      "headline": "SEC 的 Peirce 警告一些 DeFi 金库，链上借贷可能会受到证券法的管辖",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
@@ -733,15 +742,6 @@
       "datetime": 1784720742,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "美国寻求没收与爱情、投资诈骗相关的 2500 万美元加密货币",
-      "summary": "美国检察官正在追查涉嫌与国际欺诈和洗钱网络有关的价值超过 2500 万美元的加密货币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784719960,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,7 +779,7 @@
           "datetime": 1784700116
         },
         {
-          "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+          "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
           "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1784688355
         }
@@ -807,25 +807,25 @@
     }
   ],
   "btc_score": {
-    "score": 33.1,
+    "score": 33.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.8,
+    "daily_score": 14.9,
     "weekly_score": 18.3,
-    "btc_price": 66063.8,
+    "btc_price": 66038.9,
     "fear_greed": 40,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 3800000,
-        "score": 50,
+        "value": 8800000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.001259,
-        "score": 46,
+        "value": 0.000136,
+        "score": 45,
         "weight": 8,
         "group": "daily"
       },
@@ -901,7 +901,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -88.3,
+        "value": -87.6,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1080,29 +1080,29 @@
         "text": "The impulse to change Bitcoin’s rules merely to prevent others from using Bitcoin in ways you disapprove of is statist and alien to a community rooted in liberty, property rights, free markets, natural law, and Austrian economics. BIP 110 would impose monetary purity by fiat.",
         "url": "https://x.com/saylor/status/2079484587751747587",
         "time": "Tue Jul 21 08:32:15 +0000 2026",
-        "likes": 8393,
-        "retweets": 938
+        "likes": 8419,
+        "retweets": 941
       },
       {
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 10215,
+        "likes": 10213,
         "retweets": 1153
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 12184,
-        "retweets": 1305
+        "likes": 12178,
+        "retweets": 1306
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
-        "likes": 4764,
-        "retweets": 657
+        "likes": 4763,
+        "retweets": 658
       },
       {
         "text": "https://t.co/wmUErVBFOo",
@@ -1153,97 +1153,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "美国银行预计 2030 年 AI CPU 市场规模将达到 1700 亿美元，英伟达股价上涨",
-        "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
-        "datetime": 1784750132,
+        "headline": "为什么大都会银行股价今天下跌近 9%",
+        "url": "https://finnhub.io/api/news?id=fdc4689b2ba6f21094add97b13718b50e13b7711b18bc0876ef3807556102c30",
+        "datetime": 1784756415,
         "source": "Yahoo"
       },
       {
-        "headline": "AMD 承诺投入高达 50 亿美元，Anthropic 的 AI 芯片目标是 2 吉瓦",
-        "url": "https://finnhub.io/api/news?id=b6a8c49b3fafb6144fd7fc734c5d941f71dbcccba835b8fb5b5c1314fbeb2489",
-        "datetime": 1784750016,
+        "headline": "VPFF：Virtus 最新收入游戏收费 0.80%，击败优先股指数",
+        "url": "https://finnhub.io/api/news?id=cdb34164761510a5fc29485bbc3e32da65653d4724cbc95a054f450178b494c0",
+        "datetime": 1784756354,
         "source": "Yahoo"
       },
       {
-        "headline": "Michael Burry 做空 iShares Semiconductor ETF。 2026 年该基金仍上涨 73%。",
-        "url": "https://finnhub.io/api/news?id=3274d34474a1694d48ec194e0aee2bc138995d88e6d420ef8442478e49e3bc7e",
-        "datetime": 1784749260,
+        "headline": "Rocket Lab 股价正在下滑：投资者需要了解什么",
+        "url": "https://finnhub.io/api/news?id=74c245a3f3a257493331ac4760d49f4bb9d1bc93b5729d05bf92e8ff0e912384",
+        "datetime": 1784756340,
         "source": "Yahoo"
       },
       {
-        "headline": "新国防主题 ETF AMMO 加入 VistaShares 主题基金三重奏",
-        "url": "https://finnhub.io/api/news?id=31be873aba67cfcc6a04e04a4ee02636e7c46a1ced455e7576211a539775cf5e",
-        "datetime": 1784748760,
+        "headline": "SpaceX 计划明天发射星际飞船。这是投资者需要了解的内容",
+        "url": "https://finnhub.io/api/news?id=2f03d638488da0adfb542dd4835428ba5b91e33a3da380636b8d38215febef06",
+        "datetime": 1784755201,
         "source": "Yahoo"
       },
       {
-        "headline": "杰米·戴蒙 (Jamie Dimon) 的摩根大通季度利润创历史新高 212 亿美元，增长 41%",
-        "url": "https://finnhub.io/api/news?id=59e3f60e24a846ca89b7aa393f73d6d2bfc0923c54548b80fb513250b0dbdd60",
-        "datetime": 1784748600,
+        "headline": "CoreWeave 和 Nebius 获得看涨电话",
+        "url": "https://finnhub.io/api/news?id=8b9d9b07c420f8516ed44ed981050e9758f19707f49b138b0c6fecfaab8ac756",
+        "datetime": 1784754305,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "期权策略师透露他将如何在盈利前交易 Alphabet",
-        "url": "https://finnhub.io/api/news?id=f1609a33235ca1c32ed1c457ae2cff54962ac4593bdf6f9d4b850383fbe0b18b",
-        "datetime": 1784750123,
+        "headline": "道琼斯期货：谷歌、特斯拉盈利下跌，但强劲的资本支出提振人工智能股票",
+        "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
+        "datetime": 1784756767,
         "source": "Yahoo"
       },
       {
-        "headline": "Redfin 调查显示，大多数居民反对在其所在地区建设人工智能数据中心",
-        "url": "https://finnhub.io/api/news?id=e166e1b279f8592a46db6bb7e796d45128951d99cdd24ea39d01ddd6756abeea",
-        "datetime": 1784749382,
+        "headline": "随着云计算的加速增长，谷歌的盈利、收入成为热门观点。在线搜索结果。",
+        "url": "https://finnhub.io/api/news?id=e1beaf4dd00d92e389b83442e4379710ea14a1007236113ef7e09bf58e5cdb25",
+        "datetime": 1784756262,
         "source": "Yahoo"
       },
       {
-        "headline": "更新：随着原油价格上涨，美国股指涨跌互现，投资者等待 Alphabet 和特斯拉的盈利",
-        "url": "https://finnhub.io/api/news?id=bd48369977548e0bacb5f56a61af6c7172ea5c9abf790a284183ad939b27d870",
-        "datetime": 1784749120,
+        "headline": "随着人工智能支出持续增加，Alphabet 股价下跌",
+        "url": "https://finnhub.io/api/news?id=3267226100aa23228c480a529cf298e0b879b8f0fb289fedd2daa6d627786b2f",
+        "datetime": 1784755800,
         "source": "Yahoo"
       },
       {
-        "headline": "英伟达 (Nvidia) 触发买入触发点，Alphabet 收益到期",
-        "url": "https://finnhub.io/api/news?id=3281c6a2ea74f76ee4d00e98b2beff4774d7aca4a6915f3ac841af8e7b2663bb",
-        "datetime": 1784748346,
+        "headline": "谷歌报告连续 12 个季度实现强劲收入增长",
+        "url": "https://finnhub.io/api/news?id=1bb0403097d8cdc49ae5b63ed02d8fb18b4644123dd6e6ad408644b7fff4023a",
+        "datetime": 1784755749,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌可能限制内容的报道导致 Reddit 股价暴跌",
-        "url": "https://finnhub.io/api/news?id=8a2533627bb79ebdc095ff17b298c6ae88881a0c33f148605f33b8f261b848d1",
-        "datetime": 1784747625,
+        "headline": "今日加密货币市场，7 月 22 日：《清晰法案》进展平衡通胀担忧",
+        "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
+        "datetime": 1784755730,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "这些 S&P500 股票在今天的盘后交易中走势",
-        "url": "https://finnhub.io/api/news?id=4c865513cca281dadc9d108c9129848bf50e601209c3476b59e8bd87c59537b8",
-        "datetime": 1784754300,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "特斯拉（纳斯达克股票代码：TSLA）第二季度盈利未达创纪录收入，高增长股票面临盈利压力",
-        "url": "https://finnhub.io/api/news?id=0dff2adfe046daf2649cd82aa2bdcc855a5b7f23c241fa4e4036e771d4da6dd7",
-        "datetime": 1784753530,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "更新：随着原油价格上涨，美国股指涨跌互现，投资者等待 Alphabet 和特斯拉的盈利",
-        "url": "https://finnhub.io/api/news?id=bd48369977548e0bacb5f56a61af6c7172ea5c9abf790a284183ad939b27d870",
-        "datetime": 1784749120,
+        "headline": "道琼斯期货：谷歌、特斯拉盈利下跌，但强劲的资本支出提振人工智能股票",
+        "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
+        "datetime": 1784756767,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉股票焦点：利润率、机器人出租车、资本支出——吉恩·蒙斯特在特斯拉财报电话会议之前关注的是什么",
-        "url": "https://finnhub.io/api/news?id=948335f63ce7bfa40f394f874a15df7243d423052acd58d4b1579fd9dd8ed11c",
-        "datetime": 1784748572,
+        "headline": "特斯拉（纳斯达克股票代码：TSLA）2026 年第二季度：收入超出预期",
+        "url": "https://finnhub.io/api/news?id=4e74012f5650dda12435da530665a31260ce14bf38d4910e1cee07c1dc9c64ac",
+        "datetime": 1784756730,
         "source": "Yahoo"
       },
       {
-        "headline": "凯西·伍德 (Cathie Wood) 以迄今为止最大胆的预测揭示了她最喜欢的投资",
-        "url": "https://finnhub.io/api/news?id=7149fbf6345c336bfd678ab9a4ed6cc27983fcc0725047961e64cf6c988fb565",
-        "datetime": 1784747533,
+        "headline": "尽管电动汽车销量强劲，但特斯拉盈利未达预期；伊隆·马斯克随叫随到（现场报道）",
+        "url": "https://finnhub.io/api/news?id=3cfff9bbde5e5d54386733bcbe362c5d225daf5457fef7c29ac69a397ab1621e",
+        "datetime": 1784756695,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么特斯拉股价没有下跌更多",
+        "url": "https://finnhub.io/api/news?id=2d8df53ffd4ab596ed5ba7798643107d2e12047e59812a93e4dbd8ba9c374410",
+        "datetime": 1784755838,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "今日加密货币市场，7 月 22 日：《清晰法案》进展平衡通胀担忧",
+        "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
+        "datetime": 1784755730,
         "source": "Yahoo"
       }
     ],
@@ -1390,21 +1390,21 @@
     ],
     "NEAR": [
       {
+        "headline": "人工智能代理和模型现在有足够的能力在实时系统中自主发现和利用新颖的攻击路径，这是追求狭隘目标的副作用。\n\n随着特工承担更敏感的工作",
+        "url": "https://x.com/NEARProtocol/status/2080060138333872526",
+        "datetime": 1784759957,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "在代理经济中，遏制、可验证性和权限范围必须是硬性要求，而不是特征。\n\n行业如何构建代理基础设施不仅决定了谁拥有什么，还决定了他们拥有什么",
+        "url": "https://x.com/NEARProtocol/status/2080060139957108996",
+        "datetime": 1784759957,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "最新 2.13 升级的完整线程：",
         "url": "https://x.com/NEARProtocol/status/2080018649297891604",
         "datetime": 1784750065,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR 主网现在可根据需求自动扩展。 \n\n昨天，当分片达到其状态大小阈值时，该协议会动态地将分片从 9 个分片重新分片到 10 个分片。它确定性地分裂并且是有效的",
-        "url": "https://x.com/NEARProtocol/status/2080018646630355150",
-        "datetime": 1784750064,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR 为代理提供了链上交易所需的全部功能，同时保护用户的数据和资产。\n\n- 动态重新分片现已在主网上上线\n- 通过NEAR In实现跨链覆盖",
-        "url": "https://x.com/NEARProtocol/status/2079991649891930378",
-        "datetime": 1784743628,
         "source": "@NEARProtocol"
       }
     ],
