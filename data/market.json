@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T05:13:24.406Z",
+  "updated_at": "2026-07-22T08:11:58.543Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 66232,
-      "change_pct": 1.16
+      "price": 65997,
+      "change_pct": -0.22
     },
     {
       "symbol": "ETH",
-      "price": 1931.64,
-      "change_pct": 0.47
+      "price": 1920.83,
+      "change_pct": -0.56
     },
     {
       "symbol": "SOL",
-      "price": 77.86,
-      "change_pct": -0.42
+      "price": 77.18,
+      "change_pct": -1.62
     },
     {
       "symbol": "HYPE",
-      "price": 60.04,
-      "change_pct": -4.46
+      "price": 58.63,
+      "change_pct": -6.77
     },
     {
       "symbol": "ZEC",
-      "price": 521.85,
-      "change_pct": -4.4
+      "price": 515.77,
+      "change_pct": -5.84
     },
     {
       "symbol": "TAO",
-      "price": 200.61,
-      "change_pct": 2.71
+      "price": 196.1,
+      "change_pct": -1.39
     },
     {
       "symbol": "SKY",
-      "price": 1462.86,
-      "change_pct": 0.67
+      "price": 1462.57,
+      "change_pct": -0.43
     },
     {
       "symbol": "AAVE",
-      "price": 97.59,
-      "change_pct": 5.16
+      "price": 96.14,
+      "change_pct": 1.44
     },
     {
       "symbol": "BNB",
-      "price": 571.17,
-      "change_pct": -0.5
+      "price": 569.22,
+      "change_pct": -1.19
     },
     {
       "symbol": "NEAR",
-      "price": 1.92,
-      "change_pct": -5.75
+      "price": 1.88,
+      "change_pct": -6.56
     },
     {
       "symbol": "DOGE",
-      "price": 0.07324,
-      "change_pct": 0.65
+      "price": 0.072378,
+      "change_pct": -1.33
     },
     {
       "symbol": "SPACEX",
-      "price": 468.99,
-      "change_pct": 4.48
+      "price": 472.49,
+      "change_pct": 6.42
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "AI 模型逃离了 OpenAI 的沙箱并撞上了 Hugging Face。加密货币是危险的地方",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
+      "datetime": 1784700116,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币维持在 66,300 美元附近，芯片延续涨势，日元触及 40 年来低点",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
+      "datetime": 1784696619,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Balance Coin 在报告价值 91.5 万美元的漏洞后暴跌 99%",
       "summary": "区块链安全公司将这次崩溃与对 42DAO 的疑似攻击联系起来，42DAO 是管理 Balance Protocol 生态系统的去中心化组织。",
       "source": "Cointelegraph",
@@ -484,7 +502,7 @@
       "related": ""
     },
     {
-      "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+      "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
       "summary": "OpenAI 称这是一次“史无前例的网络事件”，此前其人工智能模型在安全评估期间突破沙箱，攻击了一家人工智能初创公司。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -725,24 +743,6 @@
       "datetime": 1784647184,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "股市无视伊朗袭击和特朗普10%关税计划，比特币接近七周高位",
-      "summary": "比特币和加密货币与美国股市一起，在本月底之前摆脱了美伊战争升级和新贸易关税的威胁。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784646877,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Augustus 融资 1.8 亿美元，打造人工智能和稳定币时代清算银行",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
-      "datetime": 1784644023,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -769,7 +769,12 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
+          "headline": "AI 模型逃离了 OpenAI 的沙箱并撞上了 Hugging Face。加密货币是危险的地方",
+          "url": "https://www.coindesk.com/markets/2026/07/22/ai-models-escaped-openai-s-sandbox-and-hit-hugging-face-crypto-is-where-that-gets-dangerous",
+          "datetime": 1784700116
+        },
+        {
+          "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
           "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1784688355
         }
@@ -797,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.1,
+    "score": 34.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 18.2,
-    "btc_price": 66267.1,
+    "daily_score": 16.1,
+    "weekly_score": 18.3,
+    "btc_price": 66028.2,
     "fear_greed": 40,
     "indicators": [
       {
@@ -814,15 +819,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002257,
-        "score": 46,
+        "value": 0.005429,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.06,
-        "score": 37,
+        "value": 1.07,
+        "score": 38,
         "weight": 5,
         "group": "daily"
       },
@@ -884,15 +889,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.9,
-        "score": 30,
+        "value": 37.6,
+        "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -35.1,
-        "score": 35,
+        "value": -25,
+        "score": 38,
         "weight": 4,
         "group": "weekly"
       }
@@ -1031,14 +1036,14 @@
         "text": "I don’t see a new paradigm where majors are rotated out of, and select up-and-comers can sustain their swim against an outgoing tide for long. Instead, I think majors are telling us something, and people are finding reasons not to listen.",
         "url": "https://x.com/cburniske/status/2059797889824776463",
         "time": "Thu May 28 00:44:20 +0000 2026",
-        "likes": 911,
+        "likes": 910,
         "retweets": 44
       },
       {
         "text": "Saylor will get blamed but it was always in the cards.",
         "url": "https://x.com/cburniske/status/2055411015568048375",
         "time": "Fri May 15 22:12:28 +0000 2026",
-        "likes": 927,
+        "likes": 928,
         "retweets": 52
       }
     ],
@@ -1047,14 +1052,14 @@
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
         "url": "https://x.com/QwQiao/status/2077464434377642202",
         "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 52,
+        "likes": 51,
         "retweets": 0
       },
       {
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 639,
+        "likes": 638,
         "retweets": 37
       },
       {
@@ -1070,36 +1075,36 @@
         "text": "The impulse to change Bitcoin’s rules merely to prevent others from using Bitcoin in ways you disapprove of is statist and alien to a community rooted in liberty, property rights, free markets, natural law, and Austrian economics. BIP 110 would impose monetary purity by fiat.",
         "url": "https://x.com/saylor/status/2079484587751747587",
         "time": "Tue Jul 21 08:32:15 +0000 2026",
-        "likes": 7688,
-        "retweets": 846
+        "likes": 7850,
+        "retweets": 885
       },
       {
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 10074,
-        "retweets": 1125
+        "likes": 10123,
+        "retweets": 1137
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 12181,
-        "retweets": 1293
+        "likes": 12175,
+        "retweets": 1300
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
         "likes": 4761,
-        "retweets": 647
+        "retweets": 656
       },
       {
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
         "likes": 3940,
-        "retweets": 711
+        "retweets": 718
       }
     ],
     "viktorfischer": [
@@ -1143,6 +1148,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "为什么 AppLovin 股价在 2026 年上半年下跌 24%",
+        "url": "https://finnhub.io/api/news?id=357e3587b8c40a40a5eaa8d26592369ba45c4e0c1fa3bbcfd8c14deb03b48e7d",
+        "datetime": 1784698972,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么 Upstart 股票在 2026 年上半年下跌了 19%",
+        "url": "https://finnhub.io/api/news?id=158f3360b627633c85a7de2a9b27e7b0f72f5b19c56607b1c8029da950d17b99",
+        "datetime": 1784694000,
+        "source": "Yahoo"
+      },
+      {
         "headline": "埃隆·马斯克表示，做空 SpaceX 的卖空者的生存概率“非常低”。他们的赌注现在等于流通量的 32%。",
         "url": "https://finnhub.io/api/news?id=5e13988660ed5618445cdfd6e1a7c7058425d1012b3c87e77698294db35d8a8e",
         "datetime": 1784691780,
@@ -1155,25 +1172,31 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia 供应商纬创资通 (Wistron) 斥资 7 亿美元在德克萨斯州设立工厂，用于生产人工智能系统",
-        "url": "https://finnhub.io/api/news?id=eca9306c8b2e0b68b67e60dbdeab85c3962308c673881647e97c2d9976b74be7",
-        "datetime": 1784689669,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Aflac 已连续 43 年提高股息。这是投资者需要关注的收入来源。",
-        "url": "https://finnhub.io/api/news?id=6c91f7a2cef4ac31224e0c0b2f6efcc82a2a5930d0e1d85eb628b00557f1c6ca",
-        "datetime": 1784687700,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "美国银行给 AMD 股票带来新的关注理由",
-        "url": "https://finnhub.io/api/news?id=5dfb0825ef73a9a39b7d9e995b186baa539ad8c47004ebcaad5bf46975dd9154",
-        "datetime": 1784686620,
-        "source": "Yahoo"
+        "headline": "在人工智能的边缘：精密硬件正在从数据中心转移到设备",
+        "url": "https://finnhub.io/api/news?id=3bbc070dd85b5b2b6fd167207eeb5db0056afc241d3c5a5c4905d22ddb78b3a1",
+        "datetime": 1784690400,
+        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "谷歌公布大型科技财报：为什么资本支出而不是云增长可以决定市场的下一个人工智能交易",
+        "url": "https://finnhub.io/api/news?id=48c28d1cec8b2b25f3a4eb576e8fb57933b432600628e742b14394dcd5344b79",
+        "datetime": 1784702146,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "华盛顿正在围绕美国人工智能建立关税墙吗？",
+        "url": "https://finnhub.io/api/news?id=50badeebfa4bf791bc851b7cdaa0f7be9413539d4525041bcc9f93f1651a38f4",
+        "datetime": 1784701240,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet 公布 Mag 7 财报，这将是一场人工智能支出大狂欢",
+        "url": "https://finnhub.io/api/news?id=c186fbbec7c5f43075ae3e5de5b894f6c579b2e9ec8e54288736a7f1c8cdc216",
+        "datetime": 1784700000,
+        "source": "Yahoo"
+      },
       {
         "headline": "标准普尔 500 指数、纳斯达克指数、道琼斯指数期货走低，因为石油上涨在大型科技公司盈利之前缓和了人工智能的乐观情绪：SMCI、OKLO、XE、SKHY、GOOG 成为焦点",
         "url": "https://finnhub.io/api/news?id=ee7401357235bdf74cadbf784bbfe4bdf082bbf6511598f2fe1405b3979d6ec3",
@@ -1185,24 +1208,6 @@
         "url": "https://finnhub.io/api/news?id=d29b1aee6e4bfe2690fc815d1dc9d0671fecc40c6347e7c6e8ac82e898418dc0",
         "datetime": 1784683325,
         "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌 (GOOGL) 支持与贝莱德和福特在 30 个州建立技术贸易联盟",
-        "url": "https://finnhub.io/api/news?id=961b46d30fef60f906c9c9df481aa5b68d2b09407abdccecbdb1ea9220f69a7a",
-        "datetime": 1784679496,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "沃伦·巴菲特透露他是伯克希尔投资 Alphabet 决定的幕后黑手",
-        "url": "https://finnhub.io/api/news?id=aa27cefe76ac3ff28df3004a9ed3d5d0871eb41bc94e37aae79ea5a721e9bb6f",
-        "datetime": 1784677800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "个股期货：回到未来（这次可能真的会持续下去）",
-        "url": "https://finnhub.io/api/news?id=78efc3f0ec9e918873852a9d30aab3195f0363d753bc498af57e45b35ee7bef6",
-        "datetime": 1784675700,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
@@ -1272,6 +1277,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "比特币维持在 66,300 美元附近，芯片延续涨势，日元触及 40 年来低点",
+        "url": "https://www.coindesk.com/markets/2026/07/22/bitcoin-holds-near-usd66-300-as-chips-extend-their-rally-and-the-yen-hits-a-40-year-low",
+        "datetime": 1784696619,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "分析师称，由于“夏季睡眠”席卷了加密货币，比特币涨势面临 68,000 美元的关键考验",
         "url": "https://www.coindesk.com/markets/2026/07/21/bitcoin-rally-faces-key-test-at-usd68-000-as-summer-slumber-grips-crypto-analysts-say",
         "datetime": 1784664333,
@@ -1290,20 +1301,20 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "股市无视伊朗袭击和特朗普10%关税计划，比特币接近七周高位",
+        "headline": "股市无视伊朗袭击和特朗普10%关税计划，比特币接近七周高点",
         "url": "https://cointelegraph.com/markets/bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1784646877,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "CoinShares在欧洲推出比特币挖矿ETF",
-        "url": "https://cointelegraph.com/news/coinshares-debuts-bitcoin-mining-ucits-etf-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1784640866,
         "source": "Cointelegraph"
       }
     ],
     "ETH": [],
     "SOL": [
+      {
+        "headline": "Solana 的现货交易量现在超过了除一家之外的所有 CEX。\n\n更高。",
+        "url": "https://x.com/solana/status/2079837063407710720",
+        "datetime": 1784706772,
+        "source": "@solana"
+      },
       {
         "headline": "在 140 多个国家/地区发送和接收 USDC 和 USDT，使用与运行银行卡、账单和会计相同的工作流程",
         "url": "https://x.com/solana/status/2079619714918035698",
@@ -1314,12 +1325,6 @@
         "headline": "突发事件：@tryramp 向 70,000 多名客户开设稳定币账户和付款，并选择 Solana",
         "url": "https://x.com/solana/status/2079619711793340529",
         "datetime": 1784654951,
-        "source": "@solana"
-      },
-      {
-        "headline": "索拉纳在这里看起来不错@WSOP",
-        "url": "https://x.com/solana/status/2079602068508356687",
-        "datetime": 1784650744,
         "source": "@solana"
       }
     ],
@@ -1345,7 +1350,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "法定货币受到对机构的信任的支持。总督有狗支持。其中只有一个需要救助",
+        "headline": "法定货币受到对机构的信任的支持。总督有一只狗支持。其中只有一个需要救助",
         "url": "https://x.com/dogecoin/status/2077524635214549447",
         "datetime": 1784155446,
         "source": "@dogecoin"
