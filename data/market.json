@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T23:06:27.339Z",
+  "updated_at": "2026-07-23T02:01:01.090Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65994,
-      "change_pct": -0.37
+      "price": 65800,
+      "change_pct": -0.84
     },
     {
       "symbol": "ETH",
-      "price": 1935.05,
-      "change_pct": 0.91
+      "price": 1927.75,
+      "change_pct": -0.18
     },
     {
       "symbol": "SOL",
-      "price": 77.89,
-      "change_pct": -0.03
+      "price": 77.9,
+      "change_pct": -0.52
     },
     {
       "symbol": "HYPE",
-      "price": 59.06,
-      "change_pct": -2.62
+      "price": 58.99,
+      "change_pct": -3.07
     },
     {
       "symbol": "ZEC",
-      "price": 513.16,
-      "change_pct": -3.65
+      "price": 516.24,
+      "change_pct": -2.98
     },
     {
       "symbol": "TAO",
-      "price": 197.43,
-      "change_pct": -0.88
+      "price": 196.23,
+      "change_pct": -1.92
     },
     {
       "symbol": "SKY",
-      "price": 1477.14,
-      "change_pct": 1.33
+      "price": 1464.31,
+      "change_pct": 0.57
     },
     {
       "symbol": "AAVE",
-      "price": 97.34,
-      "change_pct": 1.89
+      "price": 98.22,
+      "change_pct": 1.39
     },
     {
       "symbol": "BNB",
-      "price": 570.63,
-      "change_pct": -0.22
+      "price": 570.54,
+      "change_pct": -0.41
     },
     {
       "symbol": "NEAR",
-      "price": 1.86,
-      "change_pct": -3.7
+      "price": 1.88,
+      "change_pct": -3.58
     },
     {
       "symbol": "DOGE",
-      "price": 0.072921,
-      "change_pct": -0.14
+      "price": 0.072769,
+      "change_pct": -1.08
     },
     {
       "symbol": "SPACEX",
-      "price": 442.4,
-      "change_pct": -2.66
+      "price": 442.62,
+      "change_pct": -4.02
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "Lummis 参议员：道德、《加密货币清晰度法案》中的其他条款有待进一步讨论",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+      "datetime": 1784762381,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "主要民主党议员表示，《加密货币清晰度法案》在道德和其他问题上“不足”",
       "summary": "",
       "source": "CoinDesk",
@@ -636,7 +645,7 @@
       "related": ""
     },
     {
-      "headline": "SEC 的 Peirce 警告一些 DeFi 金库，链上借贷可能会受到证券法的管辖",
+      "headline": "SEC 的 Peirce 警告一些 DeFi 金库、链上借贷可能会受到证券法的管辖",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
@@ -733,15 +742,6 @@
       "datetime": 1784720993,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Wanchain 桥被黑客攻击后 Midnight 代币反弹 19%，Hoskinson 呼吁 ZK 改造",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
-      "datetime": 1784720742,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,7 +779,7 @@
           "datetime": 1784700116
         },
         {
-          "headline": "OpenAI 表示 AI 模型逃脱了围堵，攻击了 Hugging Face",
+          "headline": "OpenAI 称 AI 模型逃脱了围堵并破解了 Hugging Face",
           "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1784688355
         }
@@ -807,32 +807,32 @@
     }
   ],
   "btc_score": {
-    "score": 33.2,
+    "score": 33.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.9,
-    "weekly_score": 18.3,
-    "btc_price": 66038.9,
+    "daily_score": 15,
+    "weekly_score": 18.6,
+    "btc_price": 65810.2,
     "fear_greed": 40,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 8800000,
-        "score": 51,
+        "value": 30300000,
+        "score": 52,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.000136,
-        "score": 45,
+        "value": -0.001731,
+        "score": 44,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.21,
-        "score": 47,
+        "value": 1.22,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
@@ -894,15 +894,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.6,
+        "value": 37.2,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87.6,
-        "score": 21,
+        "value": -63,
+        "score": 28,
         "weight": 4,
         "group": "weekly"
       }
@@ -911,7 +911,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 7
+      "days_until": 6
     },
     "schedule": [
       "2025-01-29",
@@ -1080,36 +1080,36 @@
         "text": "The impulse to change Bitcoin’s rules merely to prevent others from using Bitcoin in ways you disapprove of is statist and alien to a community rooted in liberty, property rights, free markets, natural law, and Austrian economics. BIP 110 would impose monetary purity by fiat.",
         "url": "https://x.com/saylor/status/2079484587751747587",
         "time": "Tue Jul 21 08:32:15 +0000 2026",
-        "likes": 8419,
-        "retweets": 941
+        "likes": 8499,
+        "retweets": 945
       },
       {
         "text": "Strategy has increased its USD Reserve by $225 million. As of 7/19/2026, we hodl ₿843,775 in our BTC Reserve and $3.2 billion in our USD Reserve. $MSTR $STRC https://t.co/sci7bZHzsy",
         "url": "https://x.com/saylor/status/2079175086142042387",
         "time": "Mon Jul 20 12:02:24 +0000 2026",
-        "likes": 10213,
-        "retweets": 1153
+        "likes": 10216,
+        "retweets": 1154
       },
       {
         "text": "What's next? https://t.co/bNl0xX0obw",
         "url": "https://x.com/saylor/status/2078821350114824461",
         "time": "Sun Jul 19 12:36:47 +0000 2026",
-        "likes": 12178,
-        "retweets": 1306
+        "likes": 12179,
+        "retweets": 1307
       },
       {
         "text": "Many Bitcoiners I respect support BIP 110. I understand and share their desire to protect Bitcoin, but believe the proposed cure is more dangerous than the condition. Here are 110 reasons why Bitcoin needs guardians of neutrality.",
         "url": "https://x.com/saylor/status/2078754106030649740",
         "time": "Sun Jul 19 08:09:34 +0000 2026",
-        "likes": 4763,
-        "retweets": 658
+        "likes": 4766,
+        "retweets": 659
       },
       {
         "text": "https://t.co/wmUErVBFOo",
         "url": "https://x.com/saylor/status/2078530136815939847",
         "time": "Sat Jul 18 17:19:36 +0000 2026",
-        "likes": 3942,
-        "retweets": 722
+        "likes": 3941,
+        "retweets": 723
       }
     ],
     "viktorfischer": [
@@ -1153,97 +1153,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么大都会银行股价今天下跌近 9%",
-        "url": "https://finnhub.io/api/news?id=fdc4689b2ba6f21094add97b13718b50e13b7711b18bc0876ef3807556102c30",
-        "datetime": 1784756415,
+        "headline": "预测：未来十年法拉利比福特更值得购买",
+        "url": "https://finnhub.io/api/news?id=828fd14fca5ba69e3e38fff52ca161f1233e2831b4a3e6d1bebe67b1479d9ca9",
+        "datetime": 1784761800,
         "source": "Yahoo"
       },
       {
-        "headline": "VPFF：Virtus 最新收入游戏收费 0.80%，击败优先股指数",
-        "url": "https://finnhub.io/api/news?id=cdb34164761510a5fc29485bbc3e32da65653d4724cbc95a054f450178b494c0",
-        "datetime": 1784756354,
+        "headline": "Nvidia 刚刚透露其拥有 Nebius 9.3% 的股份。周二该股上涨近 19%——这就是 Nvidia 实际买入的股票。",
+        "url": "https://finnhub.io/api/news?id=24a8d0f78e1e073f77da2840574713a5973aff3c4cc03d6763f82881ee23d592",
+        "datetime": 1784761020,
         "source": "Yahoo"
       },
       {
-        "headline": "Rocket Lab 股价正在下滑：投资者需要了解什么",
-        "url": "https://finnhub.io/api/news?id=74c245a3f3a257493331ac4760d49f4bb9d1bc93b5729d05bf92e8ff0e912384",
-        "datetime": 1784756340,
+        "headline": "该 1 动量 ETF 仍以较低回撤击败标准普尔 500 指数",
+        "url": "https://finnhub.io/api/news?id=4a98cf327fe2b5e75d4193316e98e32031d6393fbdb399ecb335bd78f6d86939",
+        "datetime": 1784760611,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 计划明天发射星际飞船。这是投资者需要了解的内容",
-        "url": "https://finnhub.io/api/news?id=2f03d638488da0adfb542dd4835428ba5b91e33a3da380636b8d38215febef06",
-        "datetime": 1784755201,
+        "headline": "为什么星座能源股票周三飙升",
+        "url": "https://finnhub.io/api/news?id=a40fd45de8c3e64d4a7ce746fb57afde80c6d4335daaefaf4bed3ac8ab620ceb",
+        "datetime": 1784759657,
         "source": "Yahoo"
       },
       {
-        "headline": "CoreWeave 和 Nebius 获得看涨电话",
-        "url": "https://finnhub.io/api/news?id=8b9d9b07c420f8516ed44ed981050e9758f19707f49b138b0c6fecfaab8ac756",
-        "datetime": 1784754305,
+        "headline": "为什么 AT&T 股票今天上涨",
+        "url": "https://finnhub.io/api/news?id=b9b3588012068785e6dd6872c2d327fc0f69d36ca87f83d8a1c842c7719aab24",
+        "datetime": 1784758639,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "道琼斯期货：谷歌、特斯拉盈利下跌，但强劲的资本支出提振人工智能股票",
-        "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
-        "datetime": 1784756767,
+        "headline": "标准普尔 500 指数和纳斯达克指数在科技财报公布前收低",
+        "url": "https://finnhub.io/api/news?id=ba43b11b1b2063fcfb489a082dbba954ff9918722309e96cf71ebd3882b99b0c",
+        "datetime": 1784762256,
         "source": "Yahoo"
       },
       {
-        "headline": "随着云计算的加速增长，谷歌的盈利、收入成为热门观点。在线搜索结果。",
-        "url": "https://finnhub.io/api/news?id=e1beaf4dd00d92e389b83442e4379710ea14a1007236113ef7e09bf58e5cdb25",
-        "datetime": 1784756262,
+        "headline": "Reddit (RDDT) 可能会重新考虑 6000 万美元的 Google AI 交易，因为续约谈判陷入困境",
+        "url": "https://finnhub.io/api/news?id=eeef1875406dbcd6ac771c57acd25389875c230b21374e33b91db348e3255605",
+        "datetime": 1784761971,
         "source": "Yahoo"
       },
       {
-        "headline": "随着人工智能支出持续增加，Alphabet 股价下跌",
-        "url": "https://finnhub.io/api/news?id=3267226100aa23228c480a529cf298e0b879b8f0fb289fedd2daa6d627786b2f",
-        "datetime": 1784755800,
+        "headline": "标准普尔 500 指数、纳斯达克指数收低，随着注意力转向科技盈利和地缘政治，期货延续跌势 — TSLA、GOOGL、PSKY、RDDT、AMZN 成为焦点",
+        "url": "https://finnhub.io/api/news?id=24441d5b69bec9180c7543603d204dc8efb0485823bbc745ed49a14d93d605b5",
+        "datetime": 1784760811,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌报告连续 12 个季度实现强劲收入增长",
-        "url": "https://finnhub.io/api/news?id=1bb0403097d8cdc49ae5b63ed02d8fb18b4644123dd6e6ad408644b7fff4023a",
-        "datetime": 1784755749,
+        "headline": "随着谷歌提高资本支出，标准普尔 500 指数股票收益大幅上涨",
+        "url": "https://finnhub.io/api/news?id=1f063a5079ff0119a30847d450e8a05264bd30330148a974e7bfbceadefe4be9",
+        "datetime": 1784760323,
         "source": "Yahoo"
       },
       {
-        "headline": "今日加密货币市场，7 月 22 日：《清晰法案》进展平衡通胀担忧",
-        "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
-        "datetime": 1784755730,
+        "headline": "Alphabet 与谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 举行的财报电话会议",
+        "url": "https://finnhub.io/api/news?id=a22f779dcb60e18ec61415a7d6c5b829bf694df68dcb27541c56391e439de306",
+        "datetime": 1784759875,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "道琼斯期货：谷歌、特斯拉盈利下跌，但强劲的资本支出提振人工智能股票",
-        "url": "https://finnhub.io/api/news?id=53692310d7cd3bd5050cbd1c4386a3b3572722872c96d5e218f19719534fdb0c",
-        "datetime": 1784756767,
+        "headline": "在马斯克表示“稍微降低资本效率”是可以接受的之后，特斯拉股价继续下跌——警告未来 2-3 年资本支出将上升",
+        "url": "https://finnhub.io/api/news?id=3eaa9227ae9840233d089f1c9b1b915366a04e35b0e8daa10f6ab817dd78bb0a",
+        "datetime": 1784762682,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉（纳斯达克股票代码：TSLA）2026 年第二季度：收入超出预期",
-        "url": "https://finnhub.io/api/news?id=4e74012f5650dda12435da530665a31260ce14bf38d4910e1cee07c1dc9c64ac",
-        "datetime": 1784756730,
+        "headline": "特斯拉与 SpaceX 合并？马斯克称“重叠越来越多”",
+        "url": "https://finnhub.io/api/news?id=73061fdee9a2c3ce8970245394d763decae1662c6d500e1a6255aaec9d014bae",
+        "datetime": 1784762560,
         "source": "Yahoo"
       },
       {
-        "headline": "尽管电动汽车销量强劲，但特斯拉盈利未达预期；伊隆·马斯克随叫随到（现场报道）",
-        "url": "https://finnhub.io/api/news?id=3cfff9bbde5e5d54386733bcbe362c5d225daf5457fef7c29ac69a397ab1621e",
-        "datetime": 1784756695,
+        "headline": "标准普尔 500 指数和纳斯达克指数在科技财报公布前收低",
+        "url": "https://finnhub.io/api/news?id=ba43b11b1b2063fcfb489a082dbba954ff9918722309e96cf71ebd3882b99b0c",
+        "datetime": 1784762256,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么特斯拉股价没有下跌更多",
-        "url": "https://finnhub.io/api/news?id=2d8df53ffd4ab596ed5ba7798643107d2e12047e59812a93e4dbd8ba9c374410",
-        "datetime": 1784755838,
+        "headline": "数字资产损失达 1.12 亿美元，特斯拉坚守比特币头寸",
+        "url": "https://finnhub.io/api/news?id=b1253ea8b58935e403ae986ef9598af79a0907ae4c5dbcc3f707c6e5f2437153",
+        "datetime": 1784762220,
         "source": "Yahoo"
       },
       {
-        "headline": "今日加密货币市场，7 月 22 日：《清晰法案》进展平衡通胀担忧",
-        "url": "https://finnhub.io/api/news?id=8230105a9a3331ee103e281440d2d79ac30af50b122d36a3cd0cc43125447c7e",
-        "datetime": 1784755730,
+        "headline": "特斯拉第二季度财报电话会议亮点",
+        "url": "https://finnhub.io/api/news?id=6d4dfb4b4872f6cef3d45aa7ede6e04242deb2a18b33b08cc3fb6cd8bce9c49a",
+        "datetime": 1784761543,
         "source": "Yahoo"
       }
     ],
@@ -1390,21 +1390,21 @@
     ],
     "NEAR": [
       {
+        "headline": "Virtual NEAR Day 中代理商务的完整私人支付部分：",
+        "url": "https://x.com/NEARProtocol/status/2080089101588374007",
+        "datetime": 1784766862,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "如果没有测量方法，就不能称产品安全。\n\nNEAR AI 的 George Zeng 谈论持有凭证并转移价值的信任代理：对代码功能的形式验证，对抗性本",
+        "url": "https://x.com/NEARProtocol/status/2080088029440401659",
+        "datetime": 1784766607,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "人工智能代理和模型现在有足够的能力在实时系统中自主发现和利用新颖的攻击路径，这是追求狭隘目标的副作用。\n\n随着特工承担更敏感的工作",
         "url": "https://x.com/NEARProtocol/status/2080060138333872526",
         "datetime": 1784759957,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "在代理经济中，遏制、可验证性和权限范围必须是硬性要求，而不是特征。\n\n行业如何构建代理基础设施不仅决定了谁拥有什么，还决定了他们拥有什么",
-        "url": "https://x.com/NEARProtocol/status/2080060139957108996",
-        "datetime": 1784759957,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "最新 2.13 升级的完整线程：",
-        "url": "https://x.com/NEARProtocol/status/2080018649297891604",
-        "datetime": 1784750065,
         "source": "@NEARProtocol"
       }
     ],
