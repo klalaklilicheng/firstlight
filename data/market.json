@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:58:28.453Z",
+  "updated_at": "2026-07-24T22:59:58.271Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64083,
-      "change_pct": -1.55
+      "price": 64117,
+      "change_pct": -1.58
     },
     {
       "symbol": "ETH",
-      "price": 1856.54,
-      "change_pct": -1.28
+      "price": 1859.36,
+      "change_pct": -1.22
     },
     {
       "symbol": "SOL",
-      "price": 73.69,
-      "change_pct": -3.03
+      "price": 73.89,
+      "change_pct": -2.95
     },
     {
       "symbol": "HYPE",
-      "price": 56.96,
-      "change_pct": -1.2
+      "price": 57.26,
+      "change_pct": -0.47
     },
     {
       "symbol": "ZEC",
-      "price": 489.53,
-      "change_pct": -2.56
+      "price": 487.28,
+      "change_pct": -2.97
     },
     {
       "symbol": "TAO",
-      "price": 190.2,
-      "change_pct": -1.69
+      "price": 190.7,
+      "change_pct": -1.28
     },
     {
       "symbol": "SKY",
-      "price": 1321.45,
-      "change_pct": -6.43
+      "price": 1332.79,
+      "change_pct": -5.77
     },
     {
       "symbol": "AAVE",
-      "price": 92.84,
-      "change_pct": -3.12
+      "price": 93,
+      "change_pct": -2.83
     },
     {
       "symbol": "BNB",
-      "price": 563.59,
-      "change_pct": -0.56
+      "price": 564.48,
+      "change_pct": -0.51
     },
     {
       "symbol": "NEAR",
       "price": 1.81,
-      "change_pct": -4.36
+      "change_pct": -4
     },
     {
       "symbol": "DOGE",
-      "price": 0.068975,
-      "change_pct": -0.66
+      "price": 0.069285,
+      "change_pct": -0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 407.99,
-      "change_pct": -6.06
+      "price": 429.67,
+      "change_pct": -1
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "欧盟当局将 HTX 交易所纳入俄罗斯制裁范围",
+      "summary": "该交易所已受到英国制裁，现已被列入 18 个实体“提供加密资产服务或支付服务”的名单，无视欧盟针对俄罗斯的措施。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1784929985,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Strive 的 SATA 收复了 6 月份的大部分跌幅，交易价格低于标准值 3%",
       "summary": "Jan3 首席执行官 Samson Mow 表示，经济复苏可能标志着人们对比特币财务公司使用的优先股产品重新燃起信心。",
       "source": "Cointelegraph",
@@ -691,7 +700,7 @@
     },
     {
       "headline": "RWA 成为 Hyperliquid 最大的交易类别",
-      "summary": "代币化 RWA 交易首次成为 Hyperliquid 最大的交易类别，占去中心化交易所每周交易量的一半以上。",
+      "summary": "代币化 RWA 交易首次成为 Hyperliquid 最大的交易类别，占该去中心化交易所每周交易量的一半以上。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1784893352,
@@ -731,15 +740,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
       "datetime": 1784891380,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着股价暴跌，比特币财务公司抛售、偿还债务、转向人工智能",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
-      "datetime": 1784890432,
       "category": "crypto",
       "related": ""
     }
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.9,
+    "score": 31.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.4,
+    "daily_score": 15.3,
     "weekly_score": 16.5,
-    "btc_price": 64137,
+    "btc_price": 64168.3,
     "fear_greed": 37,
     "indicators": [
       {
@@ -808,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007493,
+        "value": 0.00704,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.91,
-        "score": 94,
+        "value": 1.88,
+        "score": 92,
         "weight": 5,
         "group": "daily"
       },
@@ -878,14 +878,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.8,
+        "value": 34.9,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87.5,
+        "value": -86.8,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1004,22 +1004,22 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 78,
+        "likes": 127,
         "retweets": 3
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 204,
-        "retweets": 9
+        "likes": 249,
+        "retweets": 15
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1030,
-        "retweets": 82
+        "likes": 1031,
+        "retweets": 83
       },
       {
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
@@ -1032,7 +1032,7 @@
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1467,
+        "likes": 1468,
         "retweets": 77
       }
     ],
@@ -1064,35 +1064,35 @@
         "text": "One integrated view of the Bitcoin market and network. The Bitcoin dashboard brings price, performance, liquidity, volatility, valuation, sentiment, adoption, and security into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/IZoLIz3CCZ",
         "url": "https://x.com/saylor/status/2080735534129836117",
         "time": "Fri Jul 24 19:23:04 +0000 2026",
-        "likes": 1261,
-        "retweets": 145
+        "likes": 1362,
+        "retweets": 153
       },
       {
         "text": "Digital Credit is entering the institutional mainstream. $STRC is now the largest holding in three leading U.S. preferred stock ETFs, with $756 million held across BlackRock’s $PFF, Virtus InfraCap’s $PFFA, and VanEck’s $PFXF. https://t.co/IoYwl2D360",
         "url": "https://x.com/saylor/status/2080671686496551085",
         "time": "Fri Jul 24 15:09:21 +0000 2026",
-        "likes": 2520,
-        "retweets": 268
+        "likes": 2608,
+        "retweets": 276
       },
       {
         "text": "One integrated view of Strategy’s Bitcoin balance sheet and capital structure. The MSTR-BTC dashboard brings gross and net reserves, per-share economics, valuation, duration, floor, breakeven, hurdle, yield, and gain into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/ZWZWaG5JM5",
         "url": "https://x.com/saylor/status/2080632739284291904",
         "time": "Fri Jul 24 12:34:35 +0000 2026",
-        "likes": 2712,
-        "retweets": 287
+        "likes": 2750,
+        "retweets": 292
       },
       {
         "text": "Bitcoin Capital Markets require a new financial language. We have refined our metrics to measure Bitcoin, Digital Credit, and Digital Equity with greater precision. Net BTC, Net BPS, BTC Hurdle ARR, BTC Floor ARR, and more are now live at https://t.co/uGbtzwJ4Pu.",
         "url": "https://x.com/saylor/status/2080384725055635737",
         "time": "Thu Jul 23 20:09:04 +0000 2026",
-        "likes": 2889,
+        "likes": 2897,
         "retweets": 329
       },
       {
         "text": "Bitcoin’s security is a shared responsibility.\n\nToday we are launching the Bitcoin Security Consortium, backed by $15 million in commitments to support the developers and researchers strengthening Bitcoin for the decades ahead. https://t.co/J2VbkgJRZm",
         "url": "https://x.com/saylor/status/2080262772533682566",
         "time": "Thu Jul 23 12:04:29 +0000 2026",
-        "likes": 6070,
+        "likes": 6079,
         "retweets": 755
       }
     ],
@@ -1108,8 +1108,8 @@
         "text": "So this guy uses https://t.co/NAR28h9hTf to spot @vladtenev  changing his X profile picture. Then within seconds shifts to @gmgnai, finds the $VLADHOOD meme coin on Robinhood chain and buys 2ETH worth. Then immediately starts selling at 5% increments and shouts \"oh my god oh my",
         "url": "https://x.com/viktorfischer/status/2080609276461044153",
         "time": "Fri Jul 24 11:01:22 +0000 2026",
-        "likes": 392,
-        "retweets": 13
+        "likes": 411,
+        "retweets": 14
       },
       {
         "text": "Another interesting uncorrelated yield on chain. Turkish Lira 🇹🇷 carry trade yielding 12.3% by @tori_finance 🎉\n\nRWA is the way 🚀",
@@ -1137,97 +1137,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "这只极其便宜的股票将于 7 月 30 日公布收益。现在是时候购买 Sirius XM 了吗？",
-        "url": "https://finnhub.io/api/news?id=2020218a607e83d8a99ec74de333a9e1c10343ee20b891fb19ddd1818723b6f0",
-        "datetime": 1784922499,
+        "headline": "错过了 Nvidia 的历史性表现？这两位技术获胜者才刚刚开始。",
+        "url": "https://finnhub.io/api/news?id=562a4b7bbd2ced49d5ea19fdbe71d358b3e12b03ec8f188465effe1609e80cd0",
+        "datetime": 1784929800,
         "source": "Yahoo"
       },
       {
-        "headline": "Super Micro 刚刚报告了 600 亿美元的新订单——这就是为什么聪明的投资者应该立即购买戴尔股票的原因",
-        "url": "https://finnhub.io/api/news?id=583098cbc41fcaedd43b9e8b9edfb1c6bf032350550ace52c7d10dda29c4acce",
-        "datetime": 1784922420,
+        "headline": "盈透证券连续 7 个季度税前利润率超过 70%。为什么竞争对手难以复制它",
+        "url": "https://finnhub.io/api/news?id=cc3aad61eb4bbee56f282ddaf24fc090eb7814a3af682bd0f584ae3faccd464d",
+        "datetime": 1784928300,
         "source": "Yahoo"
       },
       {
-        "headline": "QQA 如何从几乎不支付任何费用的科技股中获得 10% 的收益率",
-        "url": "https://finnhub.io/api/news?id=7253bbe3fbd210b58d21540d7b7eb81f4e4e2d500946fbf3c6e59101e0f43010",
-        "datetime": 1784921549,
+        "headline": "这三只医疗保健股今年已经压垮了市场。这就是为什么未来还有更多的上升空间",
+        "url": "https://finnhub.io/api/news?id=72c1ecc8070e3542fabff6ca1bb5afaef92eb2cf19bd4772f53eb42130f87fc5",
+        "datetime": 1784928000,
         "source": "Yahoo"
       },
       {
-        "headline": "现在购买比特币太晚了吗？",
-        "url": "https://finnhub.io/api/news?id=2af19a1ad5c4534558ccbdccbb5f9ec39f57250faaec761c9923e742383df1cf",
-        "datetime": 1784921220,
+        "headline": "波音公司有 695B 美元的积压订单，分析师认为还有 29% 的上涨空间。您应该在 7 月 28 日收益之前购买吗？",
+        "url": "https://finnhub.io/api/news?id=f024bbabcef71cb9edad9e5edf49b30397d588d6c554f24118dd00f1a7b5d466",
+        "datetime": 1784927792,
         "source": "Yahoo"
       },
       {
-        "headline": "您是 2026 年的新投资者吗？这是一个需要避免的代价高昂的错误。",
-        "url": "https://finnhub.io/api/news?id=4beca3e5b21719a1dce7e545f15a6fc13b62800f6701ba79f12b384dd536ab46",
-        "datetime": 1784921100,
+        "headline": "MRVL 有动力。问题是价格",
+        "url": "https://finnhub.io/api/news?id=6120d5ab14b1aa2b05ea68602aa178e15a0bd22d9e860b5b004081ce93b30b53",
+        "datetime": 1784927684,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Advanced Micro Devices 与 Alphabet：这些人工智能公司的收入轨迹告诉投资者什么？",
-        "url": "https://finnhub.io/api/news?id=79908d47d71430326869ddd254ec614b8a71cab63a1239c87980e9e2d85887f5",
-        "datetime": 1784922541,
+        "headline": "道琼斯期货：苹果公司财报、伊朗新闻、美联储会议迫在眉睫，人工智能股票遭抛售",
+        "url": "https://finnhub.io/api/news?id=95418f4b57a5f09da2bb4319facd56354d920e90f88081375aa3b22fd17492a9",
+        "datetime": 1784927674,
         "source": "Yahoo"
       },
       {
-        "headline": "美国银行表示 Alphabet 股票投资者错过了更大的信号",
-        "url": "https://finnhub.io/api/news?id=bc4e6936da6f19ebc3d0b18cf88545d242e4d36092575dfab0a040eb4c17767f",
-        "datetime": 1784922420,
+        "headline": "Verizon 第二季度业绩、与谷歌的暗光纤交易以及 Verizon (VZ) 前景的提升如何改变了其投资故事",
+        "url": "https://finnhub.io/api/news?id=d0e1fab26cf865061b9279f76f2607d59f34ef4a4ca12ee071de840d1a9d48ea",
+        "datetime": 1784927491,
         "source": "Yahoo"
       },
       {
-        "headline": "行业动态：科技股午后下跌",
-        "url": "https://finnhub.io/api/news?id=1fd1c20ee32b3c62817af7e957d201cbc471d4e20384a28bf75be263a4574cf1",
-        "datetime": 1784921496,
+        "headline": "每周总结：随着股市下跌，比特币保持坚挺",
+        "url": "https://finnhub.io/api/news?id=c9d12ffc3f8e755963ff83ab258e8732113df525799269a2a28793cd78257351",
+        "datetime": 1784927460,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌 10 亿美元 AI 交易激发 10 亿美元增长前景，Verizon 股价上涨",
-        "url": "https://finnhub.io/api/news?id=08e681adfd169282deb135f10cbd8b31bf898c688f92d84ba2807067746bf3d5",
-        "datetime": 1784918331,
+        "headline": "大型科技公司财报周结束了。谁赢谁输？",
+        "url": "https://finnhub.io/api/news?id=3e400142cc71111f3a0f310c440bc887463516cc47a070aa49305ed4577df15c",
+        "datetime": 1784927274,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉一个月内下跌 18%，Lucid 上涨 21%，Rivian 上涨 9%：SpaceX 的焦虑还是幕后的裂缝？",
-        "url": "https://finnhub.io/api/news?id=b1ceb9e8ba83e8955894f3c650c4e9e19cd8ae97bf164ef6a26bd67461f3b03b",
-        "datetime": 1784917789,
+        "headline": "有报道称 Alphabet 旗下 Waymo 可能放弃其 Robotaxi 交易后 Uber 股价下跌近 5%",
+        "url": "https://finnhub.io/api/news?id=03931c867fd09576b021a7272a5158065b3ba3ccb1fb94a01a3dbd3a678446c0",
+        "datetime": 1784926404,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "特斯拉一个月内下跌 18%，Lucid 上涨 21%，Rivian 上涨 9%：SpaceX 的焦虑还是幕后的裂缝？",
-        "url": "https://finnhub.io/api/news?id=b1ceb9e8ba83e8955894f3c650c4e9e19cd8ae97bf164ef6a26bd67461f3b03b",
-        "datetime": 1784917789,
+        "headline": "道琼斯期货：苹果公司财报、伊朗新闻、美联储会议迫在眉睫，人工智能股票遭抛售",
+        "url": "https://finnhub.io/api/news?id=95418f4b57a5f09da2bb4319facd56354d920e90f88081375aa3b22fd17492a9",
+        "datetime": 1784927674,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉和 SpaceX 的抛售使埃隆·马斯克的账面财富减少了 7000 亿美元",
-        "url": "https://finnhub.io/api/news?id=564b90add4cd17f125913f3dfba13800c5ac4f61d59768198bf8ce1b2a6a9cde",
-        "datetime": 1784917367,
+        "headline": "每周总结：随着股市下跌，比特币保持坚挺",
+        "url": "https://finnhub.io/api/news?id=c9d12ffc3f8e755963ff83ab258e8732113df525799269a2a28793cd78257351",
+        "datetime": 1784927460,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么美光科技股价周五暴跌",
-        "url": "https://finnhub.io/api/news?id=7cca52adff049bd82d621a2c84df94f713deeee75dc6c18de049f12082947459",
-        "datetime": 1784917226,
+        "headline": "大型科技公司财报周结束了。谁赢谁输？",
+        "url": "https://finnhub.io/api/news?id=3e400142cc71111f3a0f310c440bc887463516cc47a070aa49305ed4577df15c",
+        "datetime": 1784927274,
         "source": "Yahoo"
       },
       {
-        "headline": "对今天交易中最活跃的 S&P500 股票感到好奇吗？",
-        "url": "https://finnhub.io/api/news?id=f032514225cf476c9818d7817a73a4e0724c9b03454fb647f5980eb635623532",
-        "datetime": 1784916300,
-        "source": "ChartMill"
+        "headline": "标准普尔 500 指数因盈利喜忧参半、美伊局势动荡而每周下跌",
+        "url": "https://finnhub.io/api/news?id=affc373443b47675c54804bdf37a4353456cb988e736598b08ef4456a676d6aa",
+        "datetime": 1784925902,
+        "source": "Yahoo"
       },
       {
-        "headline": "股市：纳斯达克因油价上涨而下滑，谷歌和特斯拉暴跌：每周回顾",
-        "url": "https://finnhub.io/api/news?id=d6bfa7e2e6e1c4ff5c75963626286839ffd64dff710a6209be67138475bcd25e",
-        "datetime": 1784916079,
+        "headline": "吉恩·蒙斯特 (Gene Munster) 表示，在人工智能负责人发出全州范围内推出 Robotaxi 的信号后，特斯拉“最终可能会在 Waymo 上投下一颗炸弹”",
+        "url": "https://finnhub.io/api/news?id=53ca9210c84d22ff5455beccb8745b812c14a6b3a70bda4efe171c1259f9bdad",
+        "datetime": 1784925078,
         "source": "Yahoo"
       }
     ],
