@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:59:58.271Z",
+  "updated_at": "2026-07-25T00:06:37.987Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64117,
-      "change_pct": -1.58
+      "price": 64118,
+      "change_pct": -1.3
     },
     {
       "symbol": "ETH",
-      "price": 1859.36,
-      "change_pct": -1.22
+      "price": 1861.91,
+      "change_pct": -0.71
     },
     {
       "symbol": "SOL",
-      "price": 73.89,
-      "change_pct": -2.95
+      "price": 73.94,
+      "change_pct": -2.36
     },
     {
       "symbol": "HYPE",
-      "price": 57.26,
-      "change_pct": -0.47
+      "price": 57.51,
+      "change_pct": 0.12
     },
     {
       "symbol": "ZEC",
-      "price": 487.28,
-      "change_pct": -2.97
+      "price": 488.53,
+      "change_pct": -3.06
     },
     {
       "symbol": "TAO",
-      "price": 190.7,
-      "change_pct": -1.28
+      "price": 191.31,
+      "change_pct": -0.52
     },
     {
       "symbol": "SKY",
-      "price": 1332.79,
-      "change_pct": -5.77
+      "price": 1346.01,
+      "change_pct": -4.83
     },
     {
       "symbol": "AAVE",
-      "price": 93,
-      "change_pct": -2.83
+      "price": 92.92,
+      "change_pct": -1.96
     },
     {
       "symbol": "BNB",
-      "price": 564.48,
-      "change_pct": -0.51
+      "price": 564.5,
+      "change_pct": -0.39
     },
     {
       "symbol": "NEAR",
       "price": 1.81,
-      "change_pct": -4
+      "change_pct": -4.01
     },
     {
       "symbol": "DOGE",
-      "price": 0.069285,
-      "change_pct": -0.32
+      "price": 0.069574,
+      "change_pct": 0.78
     },
     {
       "symbol": "SPACEX",
-      "price": 429.67,
-      "change_pct": -1
+      "price": 429.51,
+      "change_pct": -1.03
     }
   ],
   "earnings": {
@@ -475,7 +475,7 @@
   "news": [
     {
       "headline": "欧盟当局将 HTX 交易所纳入俄罗斯制裁范围",
-      "summary": "该交易所已受到英国制裁，现已被列入 18 个实体“提供加密资产服务或支付服务”的名单，无视欧盟针对俄罗斯的措施。",
+      "summary": "该交易所已受到英国制裁，现已列入 18 家实体“提供加密资产服务或支付服务”的名单，无视欧盟针对俄罗斯的措施。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1784929985,
@@ -700,7 +700,7 @@
     },
     {
       "headline": "RWA 成为 Hyperliquid 最大的交易类别",
-      "summary": "代币化 RWA 交易首次成为 Hyperliquid 最大的交易类别，占该去中心化交易所每周交易量的一半以上。",
+      "summary": "代币化 RWA 交易首次成为 Hyperliquid 最大的交易类别，占去中心化交易所每周交易量的一半以上。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1784893352,
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.8,
+    "score": 31.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
+    "daily_score": 15.2,
     "weekly_score": 16.5,
-    "btc_price": 64168.3,
+    "btc_price": 64144,
     "fear_greed": 37,
     "indicators": [
       {
@@ -808,8 +808,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00704,
-        "score": 49,
+        "value": 0.006074,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -864,8 +864,8 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.74,
-        "score": 16,
+        "value": 0.75,
+        "score": 17,
         "weight": 6,
         "group": "weekly"
       },
@@ -885,7 +885,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -86.8,
+        "value": -86.2,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -895,7 +895,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 5
+      "days_until": 4
     },
     "schedule": [
       "2025-01-29",
@@ -1004,15 +1004,15 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 127,
-        "retweets": 3
+        "likes": 142,
+        "retweets": 4
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 249,
-        "retweets": 15
+        "likes": 279,
+        "retweets": 18
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
@@ -1064,36 +1064,36 @@
         "text": "One integrated view of the Bitcoin market and network. The Bitcoin dashboard brings price, performance, liquidity, volatility, valuation, sentiment, adoption, and security into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/IZoLIz3CCZ",
         "url": "https://x.com/saylor/status/2080735534129836117",
         "time": "Fri Jul 24 19:23:04 +0000 2026",
-        "likes": 1362,
-        "retweets": 153
+        "likes": 1445,
+        "retweets": 162
       },
       {
         "text": "Digital Credit is entering the institutional mainstream. $STRC is now the largest holding in three leading U.S. preferred stock ETFs, with $756 million held across BlackRock’s $PFF, Virtus InfraCap’s $PFFA, and VanEck’s $PFXF. https://t.co/IoYwl2D360",
         "url": "https://x.com/saylor/status/2080671686496551085",
         "time": "Fri Jul 24 15:09:21 +0000 2026",
-        "likes": 2608,
-        "retweets": 276
+        "likes": 2709,
+        "retweets": 288
       },
       {
         "text": "One integrated view of Strategy’s Bitcoin balance sheet and capital structure. The MSTR-BTC dashboard brings gross and net reserves, per-share economics, valuation, duration, floor, breakeven, hurdle, yield, and gain into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/ZWZWaG5JM5",
         "url": "https://x.com/saylor/status/2080632739284291904",
         "time": "Fri Jul 24 12:34:35 +0000 2026",
-        "likes": 2750,
-        "retweets": 292
+        "likes": 2812,
+        "retweets": 298
       },
       {
         "text": "Bitcoin Capital Markets require a new financial language. We have refined our metrics to measure Bitcoin, Digital Credit, and Digital Equity with greater precision. Net BTC, Net BPS, BTC Hurdle ARR, BTC Floor ARR, and more are now live at https://t.co/uGbtzwJ4Pu.",
         "url": "https://x.com/saylor/status/2080384725055635737",
         "time": "Thu Jul 23 20:09:04 +0000 2026",
-        "likes": 2897,
-        "retweets": 329
+        "likes": 2905,
+        "retweets": 330
       },
       {
         "text": "Bitcoin’s security is a shared responsibility.\n\nToday we are launching the Bitcoin Security Consortium, backed by $15 million in commitments to support the developers and researchers strengthening Bitcoin for the decades ahead. https://t.co/J2VbkgJRZm",
         "url": "https://x.com/saylor/status/2080262772533682566",
         "time": "Thu Jul 23 12:04:29 +0000 2026",
-        "likes": 6079,
-        "retweets": 755
+        "likes": 6085,
+        "retweets": 756
       }
     ],
     "viktorfischer": [
@@ -1101,14 +1101,14 @@
         "text": "Just had a board meeting with @onrefinance:\n. 300% TVL growth YTD reaching nearly $250m\n. Base APY 11.67%, looped APY of 20.70% on @kamino with solana:5Y8NV33Vv7WbnLfq3zBcKSdYPrk7g2KoiQoe7M2tcxp5 / solana:2u1tszSeqZ3qBWF3uNGPFc8TzMk2tdiwknnRMWGWjGWH pair\n. $42m liquidity https://t.co/vf3BM7EPrA",
         "url": "https://x.com/viktorfischer/status/2080633581412532335",
         "time": "Fri Jul 24 12:37:56 +0000 2026",
-        "likes": 20,
+        "likes": 21,
         "retweets": 3
       },
       {
         "text": "So this guy uses https://t.co/NAR28h9hTf to spot @vladtenev  changing his X profile picture. Then within seconds shifts to @gmgnai, finds the $VLADHOOD meme coin on Robinhood chain and buys 2ETH worth. Then immediately starts selling at 5% increments and shouts \"oh my god oh my",
         "url": "https://x.com/viktorfischer/status/2080609276461044153",
         "time": "Fri Jul 24 11:01:22 +0000 2026",
-        "likes": 411,
+        "likes": 425,
         "retweets": 14
       },
       {
@@ -1143,7 +1143,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "盈透证券连续 7 个季度税前利润率超过 70%。为什么竞争对手难以复制它",
+        "headline": "盈透证券连续 7 个季度的税前利润率超过 70%。为什么竞争对手难以复制它",
         "url": "https://finnhub.io/api/news?id=cc3aad61eb4bbee56f282ddaf24fc090eb7814a3af682bd0f584ae3faccd464d",
         "datetime": 1784928300,
         "source": "Yahoo"
@@ -1400,21 +1400,21 @@
     ],
     "NEAR": [
       {
+        "headline": "大多数链上隐私方法要求用户生成客户端证明、管理新的钱包流并同步其他状态 ↓",
+        "url": "https://x.com/NEARProtocol/status/2080795383874085079",
+        "datetime": 1784935253,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "机密意图则在私有分片执行环境中处理机密性。报价、存款和掉期流程与标准掉期相同，任何集成商都可以打开它。",
+        "url": "https://x.com/NEARProtocol/status/2080795385807667481",
+        "datetime": 1784935253,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "业界呼吁开放的人工智能基础设施。\n\n开放权重和模型是必不可少的，但仍然只是堆栈的一层。\n\n真正主权的人工智能基础设施需要验证整个流程，例如",
         "url": "https://x.com/NEARProtocol/status/2080731826750972412",
         "datetime": 1784920100,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "开放权重模型和自托管与拥有您的人工智能不同。\n\n所有权需要基础设施内置的保证： \n\n-隐私，因此您的数据归您所有 -可验证性，因此您可以",
-        "url": "https://x.com/NEARProtocol/status/2080683558939611615",
-        "datetime": 1784908592,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "帐户密钥可以通过 NEAR CLI 轮换到 ML-DSA：",
-        "url": "https://x.com/NEARProtocol/status/2080641809386975680",
-        "datetime": 1784898638,
         "source": "@NEARProtocol"
       }
     ],
