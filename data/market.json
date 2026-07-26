@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T22:53:04.405Z",
+  "updated_at": "2026-07-26T23:54:37.274Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65381,
-      "change_pct": 1.6
+      "price": 65392,
+      "change_pct": 1.66
     },
     {
       "symbol": "ETH",
-      "price": 1946.54,
-      "change_pct": 3.82
+      "price": 1954.51,
+      "change_pct": 4.27
     },
     {
       "symbol": "SOL",
-      "price": 76.6,
-      "change_pct": 2.91
+      "price": 76.64,
+      "change_pct": 2.98
     },
     {
       "symbol": "HYPE",
-      "price": 59.63,
-      "change_pct": 2.58
+      "price": 59.71,
+      "change_pct": 2.81
     },
     {
       "symbol": "ZEC",
-      "price": 505.4,
-      "change_pct": 4.51
+      "price": 508.91,
+      "change_pct": 4.97
     },
     {
       "symbol": "TAO",
-      "price": 199.19,
-      "change_pct": 3.89
+      "price": 199.37,
+      "change_pct": 4.07
     },
     {
       "symbol": "SKY",
-      "price": 1362.63,
-      "change_pct": 0.69
+      "price": 1367.01,
+      "change_pct": -0.87
     },
     {
       "symbol": "AAVE",
-      "price": 100.71,
-      "change_pct": 9.37
+      "price": 100.98,
+      "change_pct": 9.84
     },
     {
       "symbol": "BNB",
-      "price": 575.47,
-      "change_pct": 1.07
+      "price": 574.76,
+      "change_pct": 1.1
     },
     {
       "symbol": "NEAR",
-      "price": 1.82,
-      "change_pct": 1.01
+      "price": 1.84,
+      "change_pct": 2.74
     },
     {
       "symbol": "DOGE",
-      "price": 0.073198,
-      "change_pct": 1.71
+      "price": 0.073356,
+      "change_pct": 2.32
     },
     {
       "symbol": "SPACEX",
-      "price": 409.89,
-      "change_pct": -2.04
+      "price": 409.63,
+      "change_pct": -2.11
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "WEMIX 称攻击者在违反合同后转移了约 724,000 美元",
+      "summary": "在攻击者破坏了与 WEMIX$ 相关的合约并转移了 724,198 USDC.e 后，WEMIX 暂停了桥梁、流动性池交易和多项服务。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785106435,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "以下是未来一周我们在股市中关注的三件大事",
       "summary": "这是忙碌的一周，充满了大型科技公司的财报、美联储会议和通胀数据。",
       "source": "CNBC",
@@ -733,15 +742,6 @@
       "datetime": 1784965536,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "以太坊 ETF 本周收盘下跌，结束了连续 5 天的资金流入",
-      "summary": "以太坊 ETF 结束了连续五天的资金流入，比特币 ETF 则连续第二天出现资金流出，不过这两只基金都将每周的资金连续流入增加到了三天。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784965235,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.5,
+    "score": 33.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.2,
+    "daily_score": 14,
     "weekly_score": 19.3,
-    "btc_price": 65439.2,
+    "btc_price": 65431.1,
     "fear_greed": 36,
     "indicators": [
       {
@@ -808,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00485,
-        "score": 47,
+        "value": 0.006083,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.64,
-        "score": 76,
+        "value": 1.56,
+        "score": 71,
         "weight": 5,
         "group": "daily"
       },
@@ -885,7 +885,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -88.3,
+        "value": -85.6,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1011,7 +1011,7 @@
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 510,
+        "likes": 511,
         "retweets": 31
       },
       {
@@ -1064,35 +1064,35 @@
         "text": "To reject Bitcoin’s integration with banks and corporations, custodians and exchanges, equity and credit markets, governments and currencies is to deny its benefits to 99% of the world and doom it to 1% of its potential.",
         "url": "https://x.com/saylor/status/2081473219664507321",
         "time": "Sun Jul 26 20:14:22 +0000 2026",
-        "likes": 4038,
-        "retweets": 403
+        "likes": 4559,
+        "retweets": 448
       },
       {
         "text": "We’re gonna need another color. https://t.co/AqZO5UeXDx",
         "url": "https://x.com/saylor/status/2081360471370715507",
         "time": "Sun Jul 26 12:46:20 +0000 2026",
-        "likes": 11040,
-        "retweets": 952
+        "likes": 11272,
+        "retweets": 983
       },
       {
         "text": "People often ask me what they should read. I assembled 38 works on history, war, uncertainty, liberty, capital, energy, technology, and Bitcoin for leaders making consequential decisions. Read to remember. Read to reason. Read to build. Upgrade the world.",
         "url": "https://x.com/saylor/status/2081077707614359779",
         "time": "Sat Jul 25 18:02:44 +0000 2026",
-        "likes": 7193,
-        "retweets": 964
+        "likes": 7240,
+        "retweets": 972
       },
       {
         "text": "https://t.co/jxVUKqTMG3",
         "url": "https://x.com/saylor/status/2081015697157529817",
         "time": "Sat Jul 25 13:56:20 +0000 2026",
-        "likes": 3356,
-        "retweets": 578
+        "likes": 3369,
+        "retweets": 584
       },
       {
         "text": "One integrated view of the Bitcoin market and network. The Bitcoin dashboard brings price, performance, liquidity, volatility, valuation, sentiment, adoption, and security into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/IZoLIz3CCZ",
         "url": "https://x.com/saylor/status/2080735534129836117",
         "time": "Fri Jul 24 19:23:04 +0000 2026",
-        "likes": 2729,
+        "likes": 2730,
         "retweets": 325
       }
     ],
