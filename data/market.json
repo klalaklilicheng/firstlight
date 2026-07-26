@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T05:35:01.994Z",
+  "updated_at": "2026-07-26T08:11:49.483Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64395,
-      "change_pct": 0.49
+      "price": 64323,
+      "change_pct": 0.67
     },
     {
       "symbol": "ETH",
-      "price": 1884.21,
-      "change_pct": 1.35
+      "price": 1879.49,
+      "change_pct": 1.41
     },
     {
       "symbol": "SOL",
-      "price": 74.94,
-      "change_pct": 1.11
+      "price": 74.86,
+      "change_pct": 1.66
     },
     {
       "symbol": "HYPE",
-      "price": 58.62,
-      "change_pct": 2.24
+      "price": 58.52,
+      "change_pct": 2.67
     },
     {
       "symbol": "ZEC",
-      "price": 487.91,
-      "change_pct": 0.65
+      "price": 491.2,
+      "change_pct": 3.49
     },
     {
       "symbol": "TAO",
-      "price": 197.65,
-      "change_pct": 3.24
+      "price": 197.48,
+      "change_pct": 4.78
     },
     {
       "symbol": "SKY",
-      "price": 1361.41,
-      "change_pct": 2.15
+      "price": 1359.66,
+      "change_pct": 1.24
     },
     {
       "symbol": "AAVE",
-      "price": 92.29,
-      "change_pct": 0.71
+      "price": 93.16,
+      "change_pct": 2.61
     },
     {
       "symbol": "BNB",
-      "price": 571.05,
-      "change_pct": 1.04
+      "price": 571.18,
+      "change_pct": 1.25
     },
     {
       "symbol": "NEAR",
-      "price": 1.79,
-      "change_pct": -1.07
+      "price": 1.8,
+      "change_pct": 0.83
     },
     {
       "symbol": "DOGE",
-      "price": 0.073238,
-      "change_pct": 5.49
+      "price": 0.073228,
+      "change_pct": 5.77
     },
     {
       "symbol": "SPACEX",
-      "price": 417.74,
-      "change_pct": -2.34
+      "price": 420.96,
+      "change_pct": -0.73
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "BitMart将关闭交易所并于8月26日结束交易",
+      "summary": "加密货币交易所 BitMart 表示，在其 BMX 代币暴跌且用户报告提款延迟后，该公司将停止运营，平台运营将于 1 月结束。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785049887,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币交易所 BitMart 九年后关闭，BMX 代币暴跌 58%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "datetime": 1785049191,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "币安每个月都会对自己的员工进行“红队”以防止黑客入侵",
       "summary": "币安定期对其员工进行安全卫生测试，社交工程成为行业违规的主要来源。",
       "source": "Cointelegraph",
@@ -493,7 +511,7 @@
     },
     {
       "headline": "比特币倡导组织将加入美国国务院的“数字自由”计划",
-      "summary": "比特币政策研究所和三个合作组织将能够派遣员工与国务院官员一起解决包括数字自由在内的问题。",
+      "summary": "比特币政策研究所和三个合作组织将能够派遣员工与国务院官员一起工作，解决包括数字自由在内的问题。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1785003344,
@@ -609,12 +627,39 @@
       "related": ""
     },
     {
+      "headline": "尽管不受欢迎，但特朗普的关税可能会持续下去",
+      "summary": "特朗普是保护主义贸易政策的支持者，他声称他的做法推动了美国经济繁荣，关税是有效的谈判工具",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/trump-s-tariffs-are-likely-to-stick-around-despite-unpopularity",
+      "datetime": 1784965536,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "以太坊 ETF 本周收盘下跌，结束了连续 5 天的资金流入",
       "summary": "以太坊 ETF 结束了连续五天的资金流入，比特币 ETF 则连续第二天出现资金流出，不过这两只基金都将每周的资金连续流入增加到了三天。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1784965235,
       "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "据称 WestBridge 正在考虑出售 Star Health 的股份",
+      "summary": "据报道，WestBridge 已与财务顾问进行了交谈，以评估出售其所持保险公司 40% 股份的事宜",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/westbridge-is-said-to-consider-stake-sale-in-india-s-star-health",
+      "datetime": 1784964473,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Anthropic 推出更具成本效益的日常任务模型",
+      "summary": "该公司周五推出了 Claude Opus 5，据称该型号在许多类别上接近其最先进、广泛使用的产品《神鬼寓言 5》的功能，但价格仅为其一半",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+      "datetime": 1784958635,
+      "category": "top news",
       "related": ""
     },
     {
@@ -646,7 +691,7 @@
     },
     {
       "headline": "众议院通过立法者利用内幕信息进行股票交易的法案",
-      "summary": "参议员伊丽莎白·沃伦表示，众议院法案“不会解决国会内幕交易的问题”，因为立法者仍将被允许拥有和出售股票。",
+      "summary": "参议员伊丽莎白·沃伦表示，众议院法案“不会解决国会内幕交易的问题”，因为立法者仍被允许拥有和出售股票。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1784923550,
@@ -681,7 +726,7 @@
       "related": ""
     },
     {
-      "headline": "为什么我们会在英特尔股价下跌时买入，但无法追随多佛反弹",
+      "headline": "为什么我们会买入英特尔股价下跌的股票，但却无法追随多佛股市的反弹",
       "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/24/why-we-would-buy-the-intel-dip-but-cant-get-behind-the-dover-bounce.html",
@@ -697,51 +742,6 @@
       "datetime": 1784909587,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "互联网自由基金会称印度 BitChat GitHub 下架令“违宪”",
-      "summary": "该数字版权组织表示，印度从 GitHub 上删除 Jack Dorsey 的 BitChat 存储库的命令超出了政府的法律权限，并威胁到言论自由。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784909070,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Crypto Biz：人工智能到加密货币的轮换正在进行中吗？",
-      "summary": "比特币 ETF 的流入、人工智能势头的降温以及 CLARITY 法案下的潜在监管进展都加剧了人们对资本正在回流到加密货币领域的猜测。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784906157,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "世界基金会在 Pantera 主导下筹集了 5250 万美元资金，用于扩大 World ID 基础设施",
-      "summary": "该组织向战略投资者出售了锁定的 WLD 代币，以应对在线人类验证需求不断增长的情况，寻求发展其生物识别身份网络。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1784905773,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "白宫：参议院民主党应该接受他们在特朗普加密货币限制方面取得的胜利",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-      "datetime": 1784905306,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Sam Altman 支持的 World Network 获得 5250 万美元新资金，用于打击在线 AI 深度造假",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-      "datetime": 1784905200,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -751,7 +751,13 @@
     },
     {
       "company": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "headline": "Anthropic 推出更具成本效益的日常任务模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+          "datetime": 1784958635
+        }
+      ]
     },
     {
       "company": "OpenAI",
@@ -785,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 31,
+    "score": 31.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 14.7,
-    "weekly_score": 16.3,
-    "btc_price": 64465.8,
+    "weekly_score": 16.4,
+    "btc_price": 64383,
     "fear_greed": 36,
     "indicators": [
       {
@@ -802,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004608,
-        "score": 47,
+        "value": 0.006041,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.8,
-        "score": 87,
+        "value": 1.79,
+        "score": 86,
         "weight": 5,
         "group": "daily"
       },
@@ -823,7 +829,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.28,
+        "value": 1.29,
         "score": 26,
         "weight": 12,
         "group": "weekly"
@@ -879,8 +885,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -81.2,
-        "score": 23,
+        "value": -77.9,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -998,28 +1004,28 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 325,
+        "likes": 326,
         "retweets": 13
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 500,
+        "likes": 501,
         "retweets": 30
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1035,
+        "likes": 1036,
         "retweets": 83
       },
       {
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 943,
+        "likes": 944,
         "retweets": 55
       },
       {
@@ -1058,36 +1064,36 @@
         "text": "People often ask me what they should read. I assembled 38 works on history, war, uncertainty, liberty, capital, energy, technology, and Bitcoin for leaders making consequential decisions. Read to remember. Read to reason. Read to build. Upgrade the world.",
         "url": "https://x.com/saylor/status/2081077707614359779",
         "time": "Sat Jul 25 18:02:44 +0000 2026",
-        "likes": 5359,
-        "retweets": 662
+        "likes": 5746,
+        "retweets": 730
       },
       {
         "text": "https://t.co/jxVUKqTMG3",
         "url": "https://x.com/saylor/status/2081015697157529817",
         "time": "Sat Jul 25 13:56:20 +0000 2026",
-        "likes": 2814,
-        "retweets": 456
+        "likes": 2918,
+        "retweets": 479
       },
       {
         "text": "One integrated view of the Bitcoin market and network. The Bitcoin dashboard brings price, performance, liquidity, volatility, valuation, sentiment, adoption, and security into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/IZoLIz3CCZ",
         "url": "https://x.com/saylor/status/2080735534129836117",
         "time": "Fri Jul 24 19:23:04 +0000 2026",
-        "likes": 2543,
-        "retweets": 291
+        "likes": 2575,
+        "retweets": 297
       },
       {
         "text": "Digital Credit is entering the institutional mainstream. $STRC is now the largest holding in three leading U.S. preferred stock ETFs, with $756 million held across BlackRock’s $PFF, Virtus InfraCap’s $PFFA, and VanEck’s $PFXF. https://t.co/IoYwl2D360",
         "url": "https://x.com/saylor/status/2080671686496551085",
         "time": "Fri Jul 24 15:09:21 +0000 2026",
-        "likes": 3946,
-        "retweets": 424
+        "likes": 3986,
+        "retweets": 429
       },
       {
         "text": "One integrated view of Strategy’s Bitcoin balance sheet and capital structure. The MSTR-BTC dashboard brings gross and net reserves, per-share economics, valuation, duration, floor, breakeven, hurdle, yield, and gain into a single framework. Live at https://t.co/uGbtzwJ4Pu. https://t.co/ZWZWaG5JM5",
         "url": "https://x.com/saylor/status/2080632739284291904",
         "time": "Fri Jul 24 12:34:35 +0000 2026",
-        "likes": 3562,
-        "retweets": 413
+        "likes": 3583,
+        "retweets": 422
       }
     ],
     "viktorfischer": [
@@ -1131,37 +1137,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "一些投资者因 Gemini 3.5 Pro 型号延迟发布而放弃了 Alphabet 股票。以下是他们错误的 9 亿个理由。",
-        "url": "https://finnhub.io/api/news?id=dbd14e4082defd926e40690410a089d2d26a73d7fa785c61b17c7bd6487376fd",
-        "datetime": 1785036900,
+        "headline": "目前哪只股票价值更高：微软还是英伟达？",
+        "url": "https://finnhub.io/api/news?id=806c81fe02efa14402c325dd53c18edd8e28f80c91b83bef6e18ebfe45000f10",
+        "datetime": 1785051300,
         "source": "Yahoo"
       },
       {
-        "headline": "大型银行收益刚刚揭示了美国消费者的健康状况",
-        "url": "https://finnhub.io/api/news?id=bb7109f26fcb616413e80424d16f8dd742c27bc8b6ddc591ebf06034d6b41b98",
-        "datetime": 1785033300,
+        "headline": "3只股息率最高的股票，收益率为4.3%或更高，现在值得购买以获得被动收入",
+        "url": "https://finnhub.io/api/news?id=fedd2cea559f595a5e456a4e00b905246f868c7c28eeb8ab5c57f835052ce115",
+        "datetime": 1785050700,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 RingCentral 股票本周飙升",
-        "url": "https://finnhub.io/api/news?id=4f4e5ab634a592a04e67a1499a00806d1930212ccf75a7b3e27967176a286cb3",
-        "datetime": 1785031705,
+        "headline": "预测：Palantir 股票将在 8 月 3 日后跌至此价格",
+        "url": "https://finnhub.io/api/news?id=d28b8dc49f813352311f8ba80eed3e67f1a208412b19a94fb6ab03a79481a23c",
+        "datetime": 1785049920,
         "source": "Yahoo"
       },
       {
-        "headline": "周四，甲骨文赢得了五角大楼价值 70 亿美元的合同。然而股价却遭受重挫。",
-        "url": "https://finnhub.io/api/news?id=7f084395670a59135359088abdcb15d2b153c30488d9c6cc4fd4888c190dc0ff",
-        "datetime": 1785028320,
+        "headline": "这家顶级汽车制造商改变游戏规则的 63 亿个理由",
+        "url": "https://finnhub.io/api/news?id=869eb9cea2b31ebb5d48960df7397f382920bf3736242f56c3de1594be175616",
+        "datetime": 1785049440,
         "source": "Yahoo"
       },
       {
-        "headline": "如何发现真正获胜的企业人工智能公司",
-        "url": "https://finnhub.io/api/news?id=bbb1f0a3cf6eb030bd6eb53cd9184c6ec8b18822596bd1778cafc4d009ccaaaf",
-        "datetime": 1785026755,
+        "headline": "您应该在 7 月 30 日之前购买亚马逊股票吗？",
+        "url": "https://finnhub.io/api/news?id=6ab2b60fd8bba8dd2672fd55eb1c1a01bb07bc1b96d65197d7dcd8ade542f0a0",
+        "datetime": 1785046800,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "摩根士丹利在财报发布前重置微软股票预测",
+        "url": "https://finnhub.io/api/news?id=dd8f30d99f7dd10b75cb0732cd3c1fcfd5d5d1f045915dbf327ff7d61a7b5ac3",
+        "datetime": 1785043020,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "投资者正在购买的 3 只智能量子计算股票",
+        "url": "https://finnhub.io/api/news?id=46b5cc9f06e5e5eb579d9bd908c686da132e7367494d67fb2c6d6c4db3f078cc",
+        "datetime": 1785039600,
+        "source": "Yahoo"
+      },
       {
         "headline": "一些投资者因 Gemini 3.5 Pro 型号延迟发布而放弃了 Alphabet 股票。以下是他们错误的 9 亿个理由。",
         "url": "https://finnhub.io/api/news?id=dbd14e4082defd926e40690410a089d2d26a73d7fa785c61b17c7bd6487376fd",
@@ -1179,21 +1197,15 @@
         "url": "https://finnhub.io/api/news?id=aede6365087b99980fa1a06f852a35b4d242c5e06fe3dda47675ad12b07be332",
         "datetime": 1785024060,
         "source": "Yahoo"
-      },
-      {
-        "headline": "跟踪 Cliff Asness 的 AQR Capital Management 13F 投资组合 - 2026 年第一季度更新",
-        "url": "https://finnhub.io/api/news?id=b7c7414f5a348862645b4262f9b2682c8f76756b22f3a176a5c98e31a4b1d284",
-        "datetime": 1785018522,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "本周美国股市三大故事",
-        "url": "https://finnhub.io/api/news?id=e9b3b6495eb7c96a8d19fb3458285fd7ad781c4a98052844d6b3fe965eddf097",
-        "datetime": 1785015677,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "摩根士丹利在财报发布前重置微软股票预测",
+        "url": "https://finnhub.io/api/news?id=dd8f30d99f7dd10b75cb0732cd3c1fcfd5d5d1f045915dbf327ff7d61a7b5ac3",
+        "datetime": 1785043020,
+        "source": "Yahoo"
+      },
       {
         "headline": "Cathie Wood 买入价值 5010 万美元的暴跌巨型股",
         "url": "https://finnhub.io/api/news?id=40fc62ad2d6b29aef6c8657435464b017bda70fa95605e885ad095f8f29d5bf8",
@@ -1217,12 +1229,6 @@
         "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
         "datetime": 1785006025,
         "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉、英特尔、谷歌均在财报公布后股价下跌——微软、亚马逊、Meta 会效仿吗？",
-        "url": "https://finnhub.io/api/news?id=9290d90b626b245ce8cc03e05b0a05e9f427ce95179bb5403ec4bebb4c79d3dd",
-        "datetime": 1785000871,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1306,6 +1312,12 @@
     ],
     "SOL": [
       {
+        "headline": "Solana 上的股票🆘",
+        "url": "https://x.com/solana/status/2081265494620037419",
+        "datetime": 1785047336,
+        "source": "@solana"
+      },
+      {
         "headline": "",
         "url": "https://x.com/solana/status/2081022434690687261",
         "datetime": 1784989386,
@@ -1315,12 +1327,6 @@
         "headline": "@kashdhanda 在 @Genfinity 上与 @IOV_OWL 一起观看完整剧集：",
         "url": "https://x.com/solana/status/2080970405398118618",
         "datetime": 1784976981,
-        "source": "@solana"
-      },
-      {
-        "headline": "Jupiter 首席运营官 @kashdhanda 谈论 Solana 的独特之处：\n\n“Solana 是一个不断变得更好的网络，它是少数几个真正做到这一点的网络之一。它注重实用价值",
-        "url": "https://x.com/solana/status/2080959042051248607",
-        "datetime": 1784974272,
         "source": "@solana"
       }
     ],
