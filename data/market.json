@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-27T18:20:03.848Z",
+  "updated_at": "2026-07-27T20:15:57.208Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 677.72,
-      "change_pct": -0.21
+      "price": 679.31,
+      "change_pct": 0.03
     },
     {
       "symbol": "QQQ",
-      "price": 678.95,
-      "change_pct": -0.77
+      "price": 682.23,
+      "change_pct": -0.29
     },
     {
       "symbol": "QQQM",
-      "price": 279.56,
-      "change_pct": -0.75
+      "price": 280.86,
+      "change_pct": -0.29
     },
     {
       "symbol": "NVDA",
-      "price": 196.44,
-      "change_pct": -5.03
+      "price": 196.51,
+      "change_pct": -4.99
     },
     {
       "symbol": "TSLA",
-      "price": 306.11,
-      "change_pct": -2.21
+      "price": 309.23,
+      "change_pct": -1.21
     },
     {
       "symbol": "GOOG",
-      "price": 326.06,
-      "change_pct": 2.18
+      "price": 326.57,
+      "change_pct": 2.34
     },
     {
       "symbol": "RKLB",
-      "price": 64.92,
-      "change_pct": 1.58
+      "price": 66.94,
+      "change_pct": 4.74
     },
     {
       "symbol": "CRCL",
-      "price": 63.7,
-      "change_pct": 2.15
+      "price": 65.67,
+      "change_pct": 5.31
     },
     {
       "symbol": "PLTR",
-      "price": 131.27,
-      "change_pct": 6.79
+      "price": 131.53,
+      "change_pct": 7
     },
     {
       "symbol": "MSTR",
-      "price": 97.76,
-      "change_pct": 6.64
+      "price": 98.65,
+      "change_pct": 7.61
     },
     {
       "symbol": "GLD",
-      "price": 373.89,
-      "change_pct": 0.54
+      "price": 374.63,
+      "change_pct": 0.73
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64808,
-      "change_pct": 0.28
+      "price": 64884,
+      "change_pct": 0.37
     },
     {
       "symbol": "ETH",
-      "price": 1936.51,
-      "change_pct": 1.28
+      "price": 1943.99,
+      "change_pct": 1.7
     },
     {
       "symbol": "SOL",
-      "price": 75.55,
-      "change_pct": 0.33
+      "price": 75.79,
+      "change_pct": 0.65
     },
     {
       "symbol": "HYPE",
-      "price": 56.66,
-      "change_pct": -4.19
+      "price": 56.96,
+      "change_pct": -3.21
     },
     {
       "symbol": "ZEC",
-      "price": 485.47,
-      "change_pct": -1.39
+      "price": 488.06,
+      "change_pct": -0.9
     },
     {
       "symbol": "TAO",
-      "price": 193.15,
-      "change_pct": -2.22
+      "price": 193.14,
+      "change_pct": -2.23
     },
     {
       "symbol": "SKY",
-      "price": 1321.86,
-      "change_pct": -1.7
+      "price": 1324.14,
+      "change_pct": -1.09
     },
     {
       "symbol": "AAVE",
-      "price": 99.27,
-      "change_pct": 2.8
+      "price": 99.69,
+      "change_pct": 3.5
     },
     {
       "symbol": "BNB",
-      "price": 573.56,
-      "change_pct": 0.28
+      "price": 575.01,
+      "change_pct": 0.39
     },
     {
       "symbol": "NEAR",
-      "price": 1.76,
-      "change_pct": -1.6
+      "price": 1.74,
+      "change_pct": -3.06
     },
     {
       "symbol": "DOGE",
-      "price": 0.071786,
-      "change_pct": -1.26
+      "price": 0.071858,
+      "change_pct": -1.07
     },
     {
       "symbol": "SPACEX",
-      "price": 429.49,
-      "change_pct": 5.61
+      "price": 430.78,
+      "change_pct": 6.04
     }
   ],
   "earnings": {
@@ -474,12 +474,75 @@
   },
   "news": [
     {
+      "headline": "Nvidia 为 OpenAI 提供的潜在 250B 美元支持是对人工智能行业的又一次打击",
+      "summary": "这是投资者需要将目光投向人工智能股票以外的另一个迹象。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+      "datetime": 1785181580,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "由于 ETH 的表现优于比特币，Bitmine 继续购买 ETH",
+      "summary": "该公司在过去一周增加了近 10,000 个 ETH，使其持有量达到 579 万个 ETH，其中约 85% 是通过其验证器操作进行质押的。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785180179,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "从“石油”到“冲击”，卡尔希交易员预计美联储主席凯文·沃什本周将发表讲话",
+      "summary": "卡尔什交易员预测沃什将在本周的美联储新闻发布会上提及上周的供应冲击。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+      "datetime": 1785178703,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Securitize Capital 成为 SEC 注册投资顾问",
+      "summary": "此次注册扩大了 Securitize 的代币化资产受监管平台，为其机构产品增加了投资咨询服务。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785177690,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "更多的技术痛苦意味着其他地方的收益。周一涨跌互现的市场中什么是赢家",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/more-tech-pain-means-gains-elsewhere-what-is-winning-in-the-mixed-market.html",
+      "datetime": 1785177609,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "加密货币最受欢迎的 90 万亿美元交易产品即将登陆华尔街，但大银行却进展缓慢",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+      "datetime": 1785175200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "捷蓝航空彻底改革了票价选择，从基本优先票价到灵活经济票价。这是你需要知道的",
       "summary": "捷蓝航空正在取消其“核心”产品，并以新名称命名经济舱机票。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
       "datetime": 1785171601,
       "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "加密货币寒冬来临，数字资产交易平台 Uphold 裁员 17%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
+      "datetime": 1785170826,
+      "category": "crypto",
       "related": ""
     },
     {
@@ -679,69 +742,6 @@
       "datetime": 1785156424,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Strategy 出售 MSTR 股票，回购 2500 万美元的 STRC 优先股",
-      "summary": "Strategy 通过 MSTR 股票销售筹集了 5.445 亿美元，回购了 2500 万美元的 STRC 股票，并将其美元储备扩大至 37.5 亿美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785155676,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Michael Saylor 的战略将现金储备增加至 37.5 亿美元，回购 2500 万美元的 STRC",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
-      "datetime": 1785154374,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "比特币期权交易员在美联储会议前放弃对冲",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
-      "datetime": 1785153198,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "不断膨胀的美国债务促使投资者转向比特币和黄金以抵御美元贬值",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
-      "datetime": 1785150900,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "尽管本周末损失 4.65 亿美元，比特币 ETF 仍连续第三周流入资金",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
-      "datetime": 1785150279,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Coinbase 首席执行官布莱恩·阿姆斯特朗 (Brian Armstrong) 批评将品牌重塑为 AI 的加密初创公司",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "datetime": 1785148762,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "ESMA 新增 15 家提供商，纽约梅隆银行部门加入 MiCA 注册",
-      "summary": "随着 ESMA 在第三次截止日期后更新中添加了 15 个 CASP（包括银行和加密平台），纽约梅隆银行的欧洲子公司加入了 MiCA 注册。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785148689,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -767,6 +767,11 @@
     {
       "company": "OpenAI",
       "news": [
+        {
+          "headline": "Nvidia 为 OpenAI 提供的潜在 250B 美元支持是对人工智能行业的又一次打击",
+          "url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+          "datetime": 1785181580
+        },
         {
           "headline": "Nvidia 组建了 37 个成员的人工智能安全联盟，没有 OpenAI、Anthropic 或 Google",
           "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
@@ -801,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 31,
+    "score": 31.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14,
+    "daily_score": 14.1,
     "weekly_score": 17,
-    "btc_price": 64884.1,
+    "btc_price": 64944.1,
     "fear_greed": 39,
     "indicators": [
       {
@@ -818,14 +823,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004201,
-        "score": 47,
+        "value": 0.006691,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.54,
+        "value": 1.53,
         "score": 69,
         "weight": 5,
         "group": "daily"
@@ -888,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.7,
+        "value": 35.8,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -94.3,
-        "score": 19,
+        "value": -90.7,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1014,7 +1019,7 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 334,
+        "likes": 335,
         "retweets": 13
       },
       {
@@ -1074,36 +1079,36 @@
         "text": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition.\n\nDon’t fix what isn’t broken.",
         "url": "https://x.com/saylor/status/2081794273326825908",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 2334,
-        "retweets": 197
+        "likes": 4075,
+        "retweets": 352
       },
       {
         "text": "BIP-110 is the latest outbreak of the “I just heard about Bitcoin, and I’m here to fix it” syndrome.",
         "url": "https://x.com/saylor/status/2081794274862006543",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 1099,
-        "retweets": 88
+        "likes": 1808,
+        "retweets": 147
       },
       {
         "text": "Repurchases will be funded outside the USD Reserve, including through MSTR and BTC sales, based on market conditions. Our objective is for STRC to trade near $100 with high liquidity, low volatility, and healthy, sustainable independent demand. We will not issue below $100.",
         "url": "https://x.com/saylor/status/2081730940544360835",
         "time": "Mon Jul 27 13:18:27 +0000 2026",
-        "likes": 1232,
-        "retweets": 67
+        "likes": 1332,
+        "retweets": 73
       },
       {
         "text": "We repurchased 288,930 shares of $STRC for $25M at an average price of $86.52 per share. We intend to remain a regular, disciplined buyer of STRC below $100. More at deeper discounts, less as STRC nears $100. Another $975M remains available for our prefs. https://t.co/cpUNofIcBy",
         "url": "https://x.com/saylor/status/2081730842024452360",
         "time": "Mon Jul 27 13:18:04 +0000 2026",
-        "likes": 5190,
-        "retweets": 497
+        "likes": 5656,
+        "retweets": 526
       },
       {
         "text": "Strategy has increased its USD Reserve by $525 million, achieving 2.1 years of dividend coverage. As of 7/26/2026, we hodl ₿843,775 in our BTC Reserve and $3.75 billion in our USD Reserve. $MSTR $STRC https://t.co/Diy0008VE5",
         "url": "https://x.com/saylor/status/2081711984936915201",
         "time": "Mon Jul 27 12:03:08 +0000 2026",
-        "likes": 7236,
-        "retweets": 729
+        "likes": 7645,
+        "retweets": 770
       }
     ],
     "viktorfischer": [
@@ -1125,7 +1130,7 @@
         "text": "So this guy uses https://t.co/NAR28h9hTf to spot @vladtenev  changing his X profile picture. Then within seconds shifts to @gmgnai, finds the $VLADHOOD meme coin on Robinhood chain and buys 2ETH worth. Then immediately starts selling at 5% increments and shouts \"oh my god oh my",
         "url": "https://x.com/viktorfischer/status/2080609276461044153",
         "time": "Fri Jul 24 11:01:22 +0000 2026",
-        "likes": 582,
+        "likes": 583,
         "retweets": 20
       },
       {
@@ -1147,6 +1152,24 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "周一交易时段：道琼斯指数涨幅最大和跌幅最大",
+        "url": "https://finnhub.io/api/news?id=cb78fd5b6d971beed68ff684ddaa78ca399ac0d5c1918fac5995e99449126988",
+        "datetime": 1785179405,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "探索周一的 S&P500 指数，找出今天交易中最活跃的股票。",
+        "url": "https://finnhub.io/api/news?id=f63f4c342bc2488382cbf721e7aa2a85da40c33941d3c63a9bfda7b3a90ae6fe",
+        "datetime": 1785175501,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "对周一最活跃的股票感到好奇吗？",
+        "url": "https://finnhub.io/api/news?id=561049fb6b0df58aca2893ee7a7cd9c289a836bcd15f39f751e6679064109d99",
+        "datetime": 1785175200,
+        "source": "ChartMill"
+      },
+      {
         "headline": "苹果超越英伟达成为全球最有价值公司",
         "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
         "datetime": 1785174792,
@@ -1157,59 +1180,47 @@
         "url": "https://finnhub.io/api/news?id=47f7573602d040d709a9b62552a2b2239b1918f1d9b16c3c5639c8fb062c9c9d",
         "datetime": 1785174534,
         "source": "Yahoo"
-      },
-      {
-        "headline": "尽管业绩令人难以置信，英特尔股价仍下跌。历史表明 1,000 美元的投资将在 3 年内值这么多钱",
-        "url": "https://finnhub.io/api/news?id=62e0e4e855e38db7b0910b301d12e0516f9121d341ee48c31005d00061a1cf5a",
-        "datetime": 1785174180,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "财报下跌后你应该购买特斯拉股票吗？",
-        "url": "https://finnhub.io/api/news?id=f4577ef6533ea10590e3a59395db672accb9fabcc1d09001615c67793582e347",
-        "datetime": 1785174121,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Nvidia 据称 50 亿美元的 SSI 投资未能在芯片股抛售中提振 NVDA 股票",
-        "url": "https://finnhub.io/api/news?id=8a446d9a3e0956fd7ae0570f9345a5b1f97b4b5acec1e0f8bcd972808f40b7db",
-        "datetime": 1785174108,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "苹果超越英伟达成为全球最有价值公司",
-        "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
-        "datetime": 1785174792,
+        "headline": "由石油转型的人工智能公司贝克休斯 (Baker Hughes) 盈利大幅飙升",
+        "url": "https://finnhub.io/api/news?id=6a592225f84a653d53b73aa33c290bb9ca40a65245c515996217b8e931c2037d",
+        "datetime": 1785180010,
         "source": "Yahoo"
       },
       {
-        "headline": "苹果在人工智能方面的投入几乎为零，而其竞争对手则投入了 7000 亿美元。这是纪律还是否认？",
-        "url": "https://finnhub.io/api/news?id=096a41e0902a79060aedfff399b78a89f692a0ae16aa18cf8a22c8f29a002b85",
-        "datetime": 1785173640,
+        "headline": "Alphabet 的企业惊喜是继续购买的重要理由",
+        "url": "https://finnhub.io/api/news?id=22a27f23137945587a72155226ef4437de860215006d4d02fe01f9ccb622e9bb",
+        "datetime": 1785179563,
         "source": "Yahoo"
       },
       {
-        "headline": "今日股市：道指上涨；制药公司测试准入；中国竞争对手飙升，记忆力下降（现场报道）",
-        "url": "https://finnhub.io/api/news?id=e95fb48ff4a7047b29d2570c5bdb2a6a838e22075fa03ade89df01cec298bd3a",
-        "datetime": 1785173296,
+        "headline": "ADBE 向业主提供大量现金。该股仍落后于市场",
+        "url": "https://finnhub.io/api/news?id=3c0a38aef1efff913f6544793acccc3cc89c2bb460d77075f80938b61158c6c0",
+        "datetime": 1785179143,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 和特斯拉 7 月份亏损 1.2 万亿美元，苹果维持巨额盈利：每日图表",
-        "url": "https://finnhub.io/api/news?id=c81d9f4fc8f900a05864577ce1b710bbaf397a5894a816c10c0b71dd3e31c204",
-        "datetime": 1785173229,
+        "headline": "大空头投资者史蒂夫·艾斯曼表示，整个市场现在就是一笔交易",
+        "url": "https://finnhub.io/api/news?id=6e7760ae9087302202f88ca701755f39f459a1172b0aa8df5579a845e8dbe3fe",
+        "datetime": 1785178815,
         "source": "Yahoo"
       },
       {
-        "headline": "CMCSA 股票上涨超过 3% — NBCUniversal 与 Alphabet 合作在 YouTube Premium 上播放 Peacock",
-        "url": "https://finnhub.io/api/news?id=df5faeb158ab86cf1bc539877f4cda6372dd6ccd08922c839df85627b5203a48",
-        "datetime": 1785173142,
+        "headline": "甲骨文股价在 10 个月内下跌了 64%。这是人工智能领域的最佳买入机会，还是一把落刀？",
+        "url": "https://finnhub.io/api/news?id=784a178c5aa0ffbe465a0f6620fa2b41728dfecf4be8c16260ada46b8a4a070e",
+        "datetime": 1785177960,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "探索周一的 S&P500 指数，找出今天交易中最活跃的股票。",
+        "url": "https://finnhub.io/api/news?id=f63f4c342bc2488382cbf721e7aa2a85da40c33941d3c63a9bfda7b3a90ae6fe",
+        "datetime": 1785175501,
+        "source": "ChartMill"
+      },
       {
         "headline": "苹果超越英伟达成为全球最有价值公司",
         "url": "https://finnhub.io/api/news?id=b13ffbeffc140468830965b0aa5bd6e6721b063ea80c22355dc48a938ac62cb7",
@@ -1232,12 +1243,6 @@
         "headline": "凯西·伍德 (Cathie Wood) 逢低买进：她上周购买了 3 只巨额股票",
         "url": "https://finnhub.io/api/news?id=dabb32ac0d71e043064ee22019c2db8c0d90857dd1bca1432138eb2bb0337c62",
         "datetime": 1785168720,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "这种看跌看跌期权价差可以从特斯拉股票黯淡的前景中获利",
-        "url": "https://finnhub.io/api/news?id=0a493415749cdeadf0f3dddcb392fa46c1dd5849520e723ab13363aabc06e375",
-        "datetime": 1785168118,
         "source": "Yahoo"
       }
     ],
@@ -1276,6 +1281,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "由于 ETH 的表现优于比特币，Bitmine 继续购买 ETH",
+        "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785180179,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "伊朗罢工暂停，美国股市上涨，比特币价格触及 6.6 万美元",
         "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785163886,
@@ -1298,12 +1309,6 @@
         "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
         "datetime": 1785150900,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "尽管本周末损失 4.65 亿美元，比特币 ETF 仍连续第三周流入资金",
-        "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
-        "datetime": 1785150279,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1316,6 +1321,12 @@
     ],
     "SOL": [
       {
+        "headline": "",
+        "url": "https://x.com/solana/status/2081809344820281381",
+        "datetime": 1785177000,
+        "source": "@solana"
+      },
+      {
         "headline": ".@world_xyz 是 Solana 原生的完全链上预测市场。 🌎\n\n它是非托管的，因此资金会保留在您的钱包中，直到您进入市场的那一刻。当事件解决时，结算是自动的",
         "url": "https://x.com/solana/status/2081786698200215887",
         "datetime": 1785171601,
@@ -1325,12 +1336,6 @@
         "headline": "Solana 上的 $SPCX 交易量为 10 亿美元 🤝 @sunrise",
         "url": "https://x.com/solana/status/2081759461258227776",
         "datetime": 1785165107,
-        "source": "@solana"
-      },
-      {
-        "headline": "什么是@HeliusPrivacy？\n\n不要错过@catmcgee 明天与 @mert 和 @tilo_cpn 的隐私秀\n\n7 月 28 日中午 12 点（东部时间）",
-        "url": "https://x.com/solana/status/2081750266127253721",
-        "datetime": 1785162915,
         "source": "@solana"
       }
     ],
@@ -1392,21 +1397,21 @@
     ],
     "NEAR": [
       {
-        "headline": "NEAR Intents 已经在分片合约上运行。\n\n通过实时动态重新分片，Intents 和near.​com 会随着跨链交易量的增长自动增加容量，并且在需求和实际之间没有升级周期",
-        "url": "https://x.com/NEARProtocol/status/2081784234176340130",
-        "datetime": 1785171013,
+        "headline": "更强的安全性是相同设计的副产品：每个操作都有一条路径，秘密发布为一次性使用并从日志中删除，敏感操作首先停止并询问。\n\n推出新的 IronCla",
+        "url": "https://x.com/NEARProtocol/status/2081817727904456795",
+        "datetime": 1785178999,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "$24B。不是投影。不是目标。已在 NEAR 意图之间移动的量。",
-        "url": "https://x.com/NEARProtocol/status/2081769717543444922",
-        "datetime": 1785167552,
+        "headline": "它会记住你，并且会成长。\n\n对话中的持久记忆。当它遇到能力差距时，它会为该工作构建一个新的沙盒工具，并在以后重用它。\n\n您在六次中使用的铁爪",
+        "url": "https://x.com/NEARProtocol/status/2081817724242514382",
+        "datetime": 1785178998,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "机密意图在 1Click Swap API 集成合作伙伴已经使用的相同基础上运行。没有新的基础设施，没有机密专用的 SDK。 \n\n现有集成商可以传递机密参数",
-        "url": "https://x.com/NEARProtocol/status/2081728165299282141",
-        "datetime": 1785157645,
+        "headline": "铁爪 1.0 就在这里。\n\nNEAR AI 为您提供的个人 AI 助手：无论您在何处使用，它都更快、更可靠且一致。\n\n这就是它的不同之处🧵",
+        "url": "https://x.com/NEARProtocol/status/2081817694962139213",
+        "datetime": 1785178991,
         "source": "@NEARProtocol"
       }
     ],
