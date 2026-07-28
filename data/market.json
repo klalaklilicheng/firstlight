@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T22:52:59.611Z",
+  "updated_at": "2026-07-28T23:53:44.328Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,62 +65,62 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63762,
-      "change_pct": -0.37
+      "price": 63856,
+      "change_pct": 0.26
     },
     {
       "symbol": "ETH",
-      "price": 1912.01,
-      "change_pct": 0.4
+      "price": 1919.5,
+      "change_pct": 1.69
     },
     {
       "symbol": "SOL",
-      "price": 73.54,
-      "change_pct": -1.19
+      "price": 73.73,
+      "change_pct": -0.46
     },
     {
       "symbol": "HYPE",
-      "price": 55.24,
-      "change_pct": -1.69
+      "price": 55.09,
+      "change_pct": -1.54
     },
     {
       "symbol": "ZEC",
-      "price": 463.21,
-      "change_pct": -3.42
+      "price": 465.04,
+      "change_pct": -2.46
     },
     {
       "symbol": "TAO",
-      "price": 193.32,
-      "change_pct": 2.1
+      "price": 194.03,
+      "change_pct": 3.63
     },
     {
       "symbol": "SKY",
-      "price": 1313.75,
-      "change_pct": 1.76
+      "price": 1314.43,
+      "change_pct": 2.36
     },
     {
       "symbol": "AAVE",
-      "price": 100.14,
-      "change_pct": 2.08
+      "price": 100.7,
+      "change_pct": 3.04
     },
     {
       "symbol": "BNB",
-      "price": 568.74,
-      "change_pct": 0.3
+      "price": 570.21,
+      "change_pct": 0.81
     },
     {
       "symbol": "NEAR",
       "price": 1.65,
-      "change_pct": -3.36
+      "change_pct": -1.85
     },
     {
       "symbol": "DOGE",
-      "price": 0.070498,
-      "change_pct": -0.18
+      "price": 0.070693,
+      "change_pct": 0.55
     },
     {
       "symbol": "SPACEX",
-      "price": 426.83,
+      "price": 426.84,
       "change_pct": -0.98
     }
   ],
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "缅甸议会通过加密货币诈骗法案 最高可判处终身监禁",
+      "summary": "缅甸立法者批准了一项反网络诈骗法案，该法案草案提议对加密货币诈骗和运营诈骗中心判处 10 年至无期徒刑。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785281248,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Visa 在第三季度财报电话会议上概述了稳定币战略",
       "summary": "Visa 表示正在对整个稳定币堆栈进行投资，在公司第三季度财报电话会议上重点介绍了 OpenUSD、代币化存款和人工智能驱动的商业。",
       "source": "Cointelegraph",
@@ -618,7 +627,7 @@
       "related": ""
     },
     {
-      "headline": "以太坊初创公司 EthSystems 押注隐私是银行使用公共区块链的关键",
+      "headline": "以太坊初创公司 EthSystems 押注隐私是让银行使用公共区块链的关键",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
@@ -733,15 +742,6 @@
       "datetime": 1785239957,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币近期的稳定性还不足以引发更广泛的山寨币反弹",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-      "datetime": 1785238651,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.3,
+    "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.5,
+    "daily_score": 16.6,
     "weekly_score": 16.8,
-    "btc_price": 63800.9,
+    "btc_price": 63907.7,
     "fear_greed": 35,
     "indicators": [
       {
@@ -830,8 +830,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.71,
-        "score": 81,
+        "value": 1.73,
+        "score": 82,
         "weight": 5,
         "group": "daily"
       },
@@ -893,14 +893,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.6,
-        "score": 24,
+        "value": 34.7,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89,
+        "value": -85.8,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1079,35 +1079,35 @@
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
         "url": "https://x.com/saylor/status/2082141017977856159",
         "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 589,
-        "retweets": 27
+        "likes": 609,
+        "retweets": 28
       },
       {
         "text": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local.\n\nProtocol changes must be rare, conservative, and driven by necessity, not ambition.\n\nDefend Bitcoin’s constitution. Defend the future.",
         "url": "https://x.com/saylor/status/2082141019303202998",
         "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 865,
-        "retweets": 70
+        "likes": 904,
+        "retweets": 74
       },
       {
         "text": "Bitcoin has won. Now it must survive victory.\n\nIts gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot.",
         "url": "https://x.com/saylor/status/2082141006443491489",
         "time": "Tue Jul 28 16:27:54 +0000 2026",
-        "likes": 7970,
-        "retweets": 745
+        "likes": 8342,
+        "retweets": 780
       },
       {
         "text": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition.\n\nDon’t fix what isn’t broken.",
         "url": "https://x.com/saylor/status/2081794273326825908",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 8146,
-        "retweets": 702
+        "likes": 8184,
+        "retweets": 705
       },
       {
         "text": "BIP-110 is the latest outbreak of the “I just heard about Bitcoin, and I’m here to fix it” syndrome.",
         "url": "https://x.com/saylor/status/2081794274862006543",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 3099,
+        "likes": 3105,
         "retweets": 247
       }
     ],
@@ -1196,7 +1196,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet 股票最大的风险是建立在借来的收益之上的利润率",
+        "headline": "Alphabet 股票最大的风险是建立在借来收益之上的利润率",
         "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb",
         "datetime": 1785270325,
         "source": "Yahoo"
@@ -1313,7 +1313,7 @@
     ],
     "ETH": [
       {
-        "headline": "以太坊初创公司 EthSystems 押注隐私是银行使用公共区块链的关键",
+        "headline": "以太坊初创公司 EthSystems 押注隐私是让银行使用公共区块链的关键",
         "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
         "datetime": 1785253593,
         "source": "CoinDesk"
@@ -1325,7 +1325,7 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Lido 升级旨在将以太坊验证器数量削减三分之一",
+        "headline": "Lido 升级旨在将以太坊验证者数量削减三分之一",
         "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785230085,
         "source": "Cointelegraph"
