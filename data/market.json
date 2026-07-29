@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T23:53:44.328Z",
+  "updated_at": "2026-07-29T01:51:19.528Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,73 +65,72 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63856,
-      "change_pct": 0.26
+      "price": 63741,
+      "change_pct": 0.8
     },
     {
       "symbol": "ETH",
-      "price": 1919.5,
-      "change_pct": 1.69
+      "price": 1907.91,
+      "change_pct": 1.65
     },
     {
       "symbol": "SOL",
-      "price": 73.73,
-      "change_pct": -0.46
+      "price": 73.35,
+      "change_pct": 0.09
     },
     {
       "symbol": "HYPE",
-      "price": 55.09,
-      "change_pct": -1.54
+      "price": 54.63,
+      "change_pct": -2.97
     },
     {
       "symbol": "ZEC",
-      "price": 465.04,
-      "change_pct": -2.46
+      "price": 461.39,
+      "change_pct": -2.67
     },
     {
       "symbol": "TAO",
-      "price": 194.03,
-      "change_pct": 3.63
+      "price": 196.53,
+      "change_pct": 5.4
     },
     {
       "symbol": "SKY",
-      "price": 1314.43,
-      "change_pct": 2.36
+      "price": 1327.53,
+      "change_pct": 3.54
     },
     {
       "symbol": "AAVE",
-      "price": 100.7,
-      "change_pct": 3.04
+      "price": 100.65,
+      "change_pct": 3.44
     },
     {
       "symbol": "BNB",
-      "price": 570.21,
-      "change_pct": 0.81
+      "price": 570.8,
+      "change_pct": 1
     },
     {
       "symbol": "NEAR",
-      "price": 1.65,
-      "change_pct": -1.85
+      "price": 1.64,
+      "change_pct": -2.05
     },
     {
       "symbol": "DOGE",
-      "price": 0.070693,
-      "change_pct": 0.55
+      "price": 0.070485,
+      "change_pct": 1.11
     },
     {
       "symbol": "SPACEX",
-      "price": 426.84,
-      "change_pct": -0.98
+      "price": 426.43,
+      "change_pct": -0.92
     }
   ],
   "earnings": {
     "NVDA": {
       "next": {
-        "date": "2026-08-26",
+        "date": "2026-11-19",
         "quarter": 2,
         "year": 2027,
-        "eps_estimate": 2.1274,
-        "revenue_estimate": 93606383310
+        "is_estimate": true
       },
       "history": [
         {
@@ -474,6 +473,33 @@
   },
   "news": [
     {
+      "headline": "Zcash 表示 Ironwood 证明排除了无法检测到的伪造漏洞",
+      "summary": "Zcash 研究人员发布了 2,700 多个机器检查定理，旨在排除 Ironwood 中无法检测到的伪造错误。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785287115,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "欧洲金融机构推出RL1合作区块链网络",
+      "summary": "RL1 最初是一家成员所有的区块链合作社，由荷兰银行 (ABN AMRO)、DekaBank 和 Natixis CIB 等 10 家欧洲金融机构支持。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785283769,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Coinbase 希望成为加拿大的“一切交易所”，但表示首先需要更明确的规则",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+      "datetime": 1785282638,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "缅甸议会通过加密货币诈骗法案 最高可判处终身监禁",
       "summary": "缅甸立法者批准了一项反网络诈骗法案，该法案草案提议对加密货币诈骗和运营诈骗中心判处 10 年至无期徒刑。",
       "source": "Cointelegraph",
@@ -715,33 +741,6 @@
       "datetime": 1785242765,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "新报告称，币安使打击加密货币犯罪变得更加困难",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-      "datetime": 1785241442,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着加密资产纳入第二季度业绩，PayPal 扩大了稳定币的推广力度",
-      "summary": "PayPal 强调了第二季度稳定币和人工智能驱动的支付工具的增长，同时公布了 86.8 亿美元的收入和 8100 万美元的加密相关收益调整。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785240471,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "诉讼称苹果在 App Store 上保留了 875,000 美元的盗窃比特币钱包",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
-      "datetime": 1785239957,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,9 +808,9 @@
     "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.6,
-    "weekly_score": 16.8,
-    "btc_price": 63907.7,
+    "daily_score": 16.5,
+    "weekly_score": 16.9,
+    "btc_price": 63777.4,
     "fear_greed": 35,
     "indicators": [
       {
@@ -830,8 +829,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.73,
-        "score": 82,
+        "value": 1.7,
+        "score": 80,
         "weight": 5,
         "group": "daily"
       },
@@ -893,15 +892,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.7,
-        "score": 25,
+        "value": 34.6,
+        "score": 24,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -85.8,
-        "score": 21,
+        "value": -80.6,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -910,7 +909,7 @@
   "fomc": {
     "next": {
       "date": "2026-07-29",
-      "days_until": 1
+      "days_until": 0
     },
     "schedule": [
       "2025-01-29",
@@ -1019,7 +1018,7 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 336,
+        "likes": 337,
         "retweets": 14
       },
       {
@@ -1040,14 +1039,14 @@
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 945,
+        "likes": 944,
         "retweets": 55
       },
       {
         "text": "Early signs of emotional capitulation emerging, but far from apathy.",
         "url": "https://x.com/cburniske/status/2062340385859580240",
         "time": "Thu Jun 04 01:07:19 +0000 2026",
-        "likes": 1469,
+        "likes": 1470,
         "retweets": 77
       }
     ],
@@ -1079,36 +1078,36 @@
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
         "url": "https://x.com/saylor/status/2082141017977856159",
         "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 609,
-        "retweets": 28
+        "likes": 639,
+        "retweets": 29
       },
       {
         "text": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local.\n\nProtocol changes must be rare, conservative, and driven by necessity, not ambition.\n\nDefend Bitcoin’s constitution. Defend the future.",
         "url": "https://x.com/saylor/status/2082141019303202998",
         "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 904,
-        "retweets": 74
+        "likes": 1054,
+        "retweets": 83
       },
       {
         "text": "Bitcoin has won. Now it must survive victory.\n\nIts gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot.",
         "url": "https://x.com/saylor/status/2082141006443491489",
         "time": "Tue Jul 28 16:27:54 +0000 2026",
-        "likes": 8342,
-        "retweets": 780
+        "likes": 8993,
+        "retweets": 836
       },
       {
         "text": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition.\n\nDon’t fix what isn’t broken.",
         "url": "https://x.com/saylor/status/2081794273326825908",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 8184,
-        "retweets": 705
+        "likes": 8271,
+        "retweets": 713
       },
       {
         "text": "BIP-110 is the latest outbreak of the “I just heard about Bitcoin, and I’m here to fix it” syndrome.",
         "url": "https://x.com/saylor/status/2081794274862006543",
         "time": "Mon Jul 27 17:30:07 +0000 2026",
-        "likes": 3105,
-        "retweets": 247
+        "likes": 3124,
+        "retweets": 248
       }
     ],
     "viktorfischer": [
@@ -1116,7 +1115,7 @@
         "text": "AI usage grows exponentially because we all need AI to read what everyone else wrote with AI",
         "url": "https://x.com/viktorfischer/status/2082234962418294807",
         "time": "Tue Jul 28 22:41:15 +0000 2026",
-        "likes": 1,
+        "likes": 3,
         "retweets": 0
       },
       {
@@ -1152,37 +1151,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "英伟达股票的估值令人震惊。现在是购买的最佳时机",
-        "url": "https://finnhub.io/api/news?id=12a7091502c000f87f96eca1a7a0c6cbb40a80fb986611d797394c9e8c3ada80",
-        "datetime": 1785275400,
+        "headline": "为什么 Lucid 股票今天飙升 21.5%",
+        "url": "https://finnhub.io/api/news?id=fbbf4b072a88cbd57d52518939129dd84a221f9aa50f6868a550b1401b27a0d5",
+        "datetime": 1785282316,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么纳维半导体股价今天暴跌 12%",
-        "url": "https://finnhub.io/api/news?id=eb5e1f064012cd80f9ef343e552a9ae8cc7661ae64330654181769f8ca2a6a47",
-        "datetime": 1785274908,
+        "headline": "埃隆·马斯克表示 Optimus 可能是“有史以来最大的产品”。以下是迄今为止的生产数据。",
+        "url": "https://finnhub.io/api/news?id=3d1197c04c6895878b71fb72a8723cb79853b9331ed49202569de503917ee88e",
+        "datetime": 1785281700,
         "source": "Yahoo"
       },
       {
-        "headline": "埃克森美孚将于 7 月 31 日发布的下一份收益报告可能会导致该股飙升。这就是为什么。",
-        "url": "https://finnhub.io/api/news?id=ddbc77777cf031912bd644f7c8a91d55af58262ba72a5a9ecd5a164100f0c876",
-        "datetime": 1785274501,
+        "headline": "SK 海力士第二季度利润因人工智能芯片需求增长六倍，未达预期",
+        "url": "https://finnhub.io/api/news?id=e056f5f4b079fe7269b4087b1c3c05e4409297fcef91addcece27976595ce1da",
+        "datetime": 1785279440,
         "source": "Yahoo"
       },
       {
-        "headline": "可口可乐盈利公布。股息股票创下历史新高的 3 个原因。",
-        "url": "https://finnhub.io/api/news?id=6cca12cb6a0d582299711ceb88ddb18be91bd4862036cdb5031483e8a21ee1d5",
-        "datetime": 1785274441,
+        "headline": "SK 海力士创纪录的利润未达到投资者对人工智能的崇高期望",
+        "url": "https://finnhub.io/api/news?id=bc30e73df9b984d1a0e500307bf4a9b734029df1b3a76548f732cc01497cd696",
+        "datetime": 1785279102,
         "source": "Yahoo"
       },
       {
-        "headline": "Marvell 科技股实际上会跌落多远？",
-        "url": "https://finnhub.io/api/news?id=84affedbd6649949a2248c44d13f8513ae38dae2dc8658bd0320fa00de141678",
-        "datetime": 1785274325,
+        "headline": "下跌 25%，是时候购买 Netflix (NFLX) 股票了吗？",
+        "url": "https://finnhub.io/api/news?id=2dfd2c23d8d6709b4fc23db9ca3cb61e033e8755f37c79f799ddd1acb80e2511",
+        "datetime": 1785278100,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "SK海力士股价因盈利令人失望而下跌",
+        "url": "https://finnhub.io/api/news?id=20bfdaddf6552caac907be6e451bd7a2c61c39db39e9797d23a88c7f52e2274a",
+        "datetime": 1785281040,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet 的人工智能支出和现金紧缩是否会改变 Alphabet (GOOGL) 的牛市理由？",
+        "url": "https://finnhub.io/api/news?id=13b0c68fa2491ce79a779decdf05881a4f8ff077ec758b135bcbd68b0974a287",
+        "datetime": 1785280449,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "新的人工智能代理合作伙伴关系重塑了买卖双方的互动后，Etsy (ETSY) 上涨了 5.9% - 牛市情况发生了变化吗？",
+        "url": "https://finnhub.io/api/news?id=8a8526239c6a8fd64962de7ba5261f1723ed258d5bf309de74a1c6380804634b",
+        "datetime": 1785276681,
+        "source": "Yahoo"
+      },
       {
         "headline": "市场传闻：投资者试图“欺负”Mag 7 以降低人工智能支出",
         "url": "https://finnhub.io/api/news?id=d5d4b1f776cf1bfe3ca87577a3901a5718745c17a028eee953539f38f9cb90eb",
@@ -1194,55 +1211,37 @@
         "url": "https://finnhub.io/api/news?id=0800a942204b53f3eac8083bdf612b72e71322e1063f526ecbcaf2a05caedb2c",
         "datetime": 1785270780,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 股票最大的风险是建立在借来收益之上的利润率",
-        "url": "https://finnhub.io/api/news?id=38a162f5cae4c5ddccb5d7ab1d7eb8ccd70ff21d87fc74d3719a482aaf37c5bb",
-        "datetime": 1785270325,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "苹果公司市值达到罕见里程碑",
-        "url": "https://finnhub.io/api/news?id=55b5d4e548b34e75a10b3202dc63f6591a3e2fdf939a3e5cadf2c801a0375abe",
-        "datetime": 1785269820,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "苹果市值突破 5 万亿美元的时刻迎来转折点",
-        "url": "https://finnhub.io/api/news?id=8b15c0555693b52a7916f9243e72708c51dc43fb4858a5fe084bb6ded418b4b4",
-        "datetime": 1785269664,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "埃隆·马斯克表示 Optimus 可能是“有史以来最大的产品”。以下是迄今为止的生产数据。",
+        "url": "https://finnhub.io/api/news?id=3d1197c04c6895878b71fb72a8723cb79853b9331ed49202569de503917ee88e",
+        "datetime": 1785281700,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "德意志银行以更低的价格加倍押注特斯拉",
+        "url": "https://finnhub.io/api/news?id=18e51dbab8428b4e8f41ee55900074d094b5b18bed1483d17956d74c24de5297",
+        "datetime": 1785277980,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "5年后特斯拉股票会走向何方？",
+        "url": "https://finnhub.io/api/news?id=4fbd3486e8e3bb11c358d18a34c9c8ec96e37632bbd09dbe91218a01e1fa5b22",
+        "datetime": 1785277200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "可口可乐股票像 20 世纪 90 年代一样摇摆，市盈率高于大多数 7 强公司",
+        "url": "https://finnhub.io/api/news?id=ca71f8ffaba31bd0ea32d95592c287f16fd66d65b9fc227115f04b6312fb01eb",
+        "datetime": 1785274200,
+        "source": "Yahoo"
+      },
+      {
         "headline": "SpaceX 在一个多月内抹去了特斯拉的市值",
         "url": "https://finnhub.io/api/news?id=4a6e2fdcf48f97cef4cf8f7ecb86eec3d930fa0a542ea7ef2845982a2bd599d0",
         "datetime": 1785269619,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "老牌银行修改特斯拉 2027 年股价目标",
-        "url": "https://finnhub.io/api/news?id=329750ab36c4f25c55a1c7a0a4df174eb4b4025dcad93ed3e80924427f3986e5",
-        "datetime": 1785269305,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "加拿大皇家银行 (RBC) 解读 Tesla-SpaceX 合并数学",
-        "url": "https://finnhub.io/api/news?id=683ee56256b9182ee38949ee1d738a27f79ed4a3a1ca974bf5e06138401983a1",
-        "datetime": 1785269190,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Mag 7 财报：策略师称 Alphabet“确实定下了基调”",
-        "url": "https://finnhub.io/api/news?id=7fd053ae1dd8fb551666a7d3cbd6e4428476a5fe786b7e56944f5291da19b506",
-        "datetime": 1785267981,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "超越特斯拉，这只电动汽车股票将成为未来三年最热门的交易",
-        "url": "https://finnhub.io/api/news?id=015d2bdeaebc1f59a4849b486536a4aa327de6515dc3ff297fb83143414fcde1",
-        "datetime": 1785266700,
         "source": "Yahoo"
       }
     ],
@@ -1434,6 +1433,12 @@
       }
     ],
     "ZEC": [
+      {
+        "headline": "Zcash 表示 Ironwood 证明排除了无法检测到的伪造漏洞",
+        "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785287115,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "随着 Ironwood 升级的启动，Zcash 封存了 17 亿美元的屏蔽池",
         "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
