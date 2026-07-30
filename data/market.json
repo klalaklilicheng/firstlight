@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:05:00.611Z",
+  "updated_at": "2026-07-30T23:56:10.585Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64711,
-      "change_pct": 1.3
+      "price": 64757,
+      "change_pct": 1.32
     },
     {
       "symbol": "ETH",
-      "price": 1919.02,
-      "change_pct": 0.95
+      "price": 1919.91,
+      "change_pct": 0.56
     },
     {
       "symbol": "SOL",
-      "price": 74.45,
-      "change_pct": 1.54
+      "price": 74.47,
+      "change_pct": 1.16
     },
     {
       "symbol": "HYPE",
-      "price": 55.56,
-      "change_pct": 3.75
+      "price": 55.74,
+      "change_pct": 3.42
     },
     {
       "symbol": "ZEC",
-      "price": 472.44,
-      "change_pct": 1.94
+      "price": 470.86,
+      "change_pct": 0.81
     },
     {
       "symbol": "TAO",
-      "price": 192.74,
-      "change_pct": 1.64
+      "price": 192.44,
+      "change_pct": 0.93
     },
     {
       "symbol": "SKY",
-      "price": 1325.59,
-      "change_pct": 0.24
+      "price": 1325.52,
+      "change_pct": -0.29
     },
     {
       "symbol": "AAVE",
-      "price": 98.79,
-      "change_pct": 3.09
+      "price": 99.44,
+      "change_pct": 3.47
     },
     {
       "symbol": "BNB",
-      "price": 590.78,
-      "change_pct": 3.7
+      "price": 591.9,
+      "change_pct": 3.55
     },
     {
       "symbol": "NEAR",
-      "price": 1.69,
-      "change_pct": 5.68
+      "price": 1.67,
+      "change_pct": 3.26
     },
     {
       "symbol": "DOGE",
-      "price": 0.070475,
-      "change_pct": 0.79
+      "price": 0.070542,
+      "change_pct": 0.68
     },
     {
       "symbol": "SPACEX",
-      "price": 428.18,
-      "change_pct": 1.41
+      "price": 426.46,
+      "change_pct": 1.85
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "美国参议员向白宫提交了修订后的道德规则，以明确法案：报告",
+      "summary": "在参议院休会一个月之前通过全面的加密货币市场结构法案的窗口即将关闭，道德问题对许多立法者来说是一个存在分歧的问题。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-senators-revised-ethics-rules-white-house-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785448478,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "由于比特币暴跌导致未实现损失，该策略第二季度亏损 8.2B 美元",
       "summary": "这家比特币财务公司表示，在推出比特币货币化计划后，它已建立了 37.5 亿美元的现金储备，以支持优先股支付。",
       "source": "Cointelegraph",
@@ -501,10 +510,10 @@
       "related": ""
     },
     {
-      "headline": "由于比特币价格下跌，该公司第二季度亏损 82 亿美元",
+      "headline": "由于比特币价格下跌，该策略第二季度亏损 82 亿美元",
       "summary": "",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
       "datetime": 1785443533,
       "category": "crypto",
       "related": ""
@@ -733,15 +742,6 @@
       "datetime": 1785420374,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着华尔街平息加密货币的剧烈波动，机构加密货币交易量达到创纪录的 72%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-      "datetime": 1785419718,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,25 +790,25 @@
     }
   ],
   "btc_score": {
-    "score": 31.6,
+    "score": 31.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15,
+    "daily_score": 15.2,
     "weekly_score": 16.6,
-    "btc_price": 64711.5,
+    "btc_price": 64794,
     "fear_greed": 35,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 32100000,
+        "value": 30400000,
         "score": 52,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006947,
-        "score": 48,
+        "value": 0.01,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.4,
+        "value": 35.5,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -91.3,
-        "score": 20,
+        "value": -86.1,
+        "score": 21,
         "weight": 4,
         "group": "weekly"
       }
@@ -1010,7 +1010,7 @@
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 518,
+        "likes": 517,
         "retweets": 30
       },
       {
@@ -1063,29 +1063,29 @@
         "text": "Strategy announces Q2 2026 results:\n- Increased $BTC Holdings by 11%\n- Reduced Convertible Debt by 18%\n- Increased USD Reserve by 12%\n- Increased BPS by 5%\nhttps://t.co/2hQp4Rvhji",
         "url": "https://x.com/saylor/status/2082920028484018528",
         "time": "Thu Jul 30 20:03:28 +0000 2026",
-        "likes": 3201,
-        "retweets": 321
+        "likes": 4128,
+        "retweets": 412
       },
       {
         "text": "Join us today at 5 PM ET for our Q2 2026 earnings call. We’ll discuss the $BTC outlook, our plans for $MSTR and $STRC, plus a live Q&amp;A with Lyn Alden (@LynAldenContact), Matt Hougan (@Matt_Hougan), Samson Mow (@Excellion), and James Van Straten (@btcjvs).https://t.co/QqVtUM2RJR",
         "url": "https://x.com/saylor/status/2082894285406425255",
         "time": "Thu Jul 30 18:21:10 +0000 2026",
-        "likes": 1301,
-        "retweets": 133
+        "likes": 1401,
+        "retweets": 144
       },
       {
         "text": "Bitcoin is inside the gates of Wall Street. https://t.co/olknBLp9xc",
         "url": "https://x.com/saylor/status/2082818586263830820",
         "time": "Thu Jul 30 13:20:22 +0000 2026",
-        "likes": 9386,
-        "retweets": 1000
+        "likes": 9866,
+        "retweets": 1044
       },
       {
         "text": "Governments can accelerate Bitcoin adoption.\nGovernments can delay Bitcoin adoption.\nThey cannot stop Bitcoin.\n\nBlock by block. Nation by nation. Bitcoin advances.",
         "url": "https://x.com/saylor/status/2082458617425395720",
         "time": "Wed Jul 29 13:29:59 +0000 2026",
-        "likes": 13316,
-        "retweets": 1494
+        "likes": 13454,
+        "retweets": 1505
       },
       {
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
@@ -1136,101 +1136,107 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "微软维持巨额人工智能支出，英伟达股价上涨",
-        "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38",
-        "datetime": 1785441491,
+        "headline": "Cullen/Frost Bankers, Inc. 2026 年第二季度收益电话会议摘要",
+        "url": "https://finnhub.io/api/news?id=355eff48080d208c671348b227651baaa8274ab29d9071c924fb32840d51a38e",
+        "datetime": 1785447911,
         "source": "Yahoo"
       },
       {
-        "headline": "台积电的下一个人工智能芯片举措推动英特尔股价飙升",
-        "url": "https://finnhub.io/api/news?id=baa89514fe4f741cd77e5b6f42f37f3871ccd045d40a3daffcb1c9fa5b69631f",
-        "datetime": 1785441223,
+        "headline": "随着投资者转向一些科技股，苹果和亚马逊报告收入增长",
+        "url": "https://finnhub.io/api/news?id=23685eb42f36aa11ccb35f4c7c0c59ada12fb5ecd91e6787cc47ed421565e30a",
+        "datetime": 1785447742,
         "source": "Yahoo"
       },
       {
-        "headline": "AMD股价5年内飙升364%历史表明，到 2030 年，它将成为一个多用途的公司",
-        "url": "https://finnhub.io/api/news?id=9900edafc3b0137dffef90fc4f2a42a2afb753eb6f17fff10e790967a61ed7f4",
-        "datetime": 1785440640,
+        "headline": "EMCOR Group, Inc. 2026 年第二季度收益电话会议摘要",
+        "url": "https://finnhub.io/api/news?id=3eb2ee98dbc2f6ca59515acdde78e72063cd61da1beb18d497af196dacb34c5f",
+        "datetime": 1785447631,
         "source": "Yahoo"
       },
       {
-        "headline": "为何甲骨文股价飙升",
-        "url": "https://finnhub.io/api/news?id=ccb91ee256ef7ed0375041285eb68b4c080c7f74304d9929e2e83128abefe078",
-        "datetime": 1785440479,
+        "headline": "Brunswick Corporation 2026 年第二季度收益电话会议摘要",
+        "url": "https://finnhub.io/api/news?id=73f954fac16e1664d7117c62eb07f238620e0ad921fdc45ede13947e26842438",
+        "datetime": 1785447371,
         "source": "Yahoo"
       },
       {
-        "headline": "Azure 乐观预测后，微软单日市值涨幅创历史新高",
-        "url": "https://finnhub.io/api/news?id=498f0cb572f75a21247432bcb0f08b34a2bd4a3da5c72c718813d7effccc1ac6",
-        "datetime": 1785440471,
+        "headline": "预测：特斯拉将在 2027 年之前失去万亿美元的市值。",
+        "url": "https://finnhub.io/api/news?id=1251989c922ff9f2aaf7a5fa63a3d4950e778d9b158dc1dc31d386ac5fe8774d",
+        "datetime": 1785447240,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "为何甲骨文股价飙升",
-        "url": "https://finnhub.io/api/news?id=ccb91ee256ef7ed0375041285eb68b4c080c7f74304d9929e2e83128abefe078",
-        "datetime": 1785440479,
+        "headline": "随着云计算加速增长，亚马逊股价上涨。人工智能推高资本支出。",
+        "url": "https://finnhub.io/api/news?id=4647fae2b722c6e3830912ae919168031d9985536c4f0ea61a1261a3fd9e825c",
+        "datetime": 1785447708,
         "source": "Yahoo"
       },
       {
-        "headline": "尽管估值高达 9650 亿美元，Anthropic 仍无法自筹基础设施资金——因此谷歌正在为其提供支持",
-        "url": "https://finnhub.io/api/news?id=eb361ffe584dcdce53b522a56047224bec17e47987c887ff175fcd87f53176d2",
-        "datetime": 1785440300,
+        "headline": "Alphabet 刚刚向投资者提供了 5140 亿个增持股票的理由",
+        "url": "https://finnhub.io/api/news?id=2df4bf6d661e40d457e450e87f2296644fee98895715e1f16c0a186719d96ec2",
+        "datetime": 1785446400,
         "source": "Yahoo"
       },
       {
-        "headline": "Booking 与 Shopify：2026 年哪种消费品股票更值得购买？",
-        "url": "https://finnhub.io/api/news?id=f123ad0aec96c3e6da2492299527357dbe4f1742d6f612880cf55c93695b770c",
-        "datetime": 1785439497,
+        "headline": "如何在购买 IBM 股票之前存入 13% 的资金",
+        "url": "https://finnhub.io/api/news?id=f69af43aa8328954175ea93f99a6d5c1c7f9aca5e6266add55315aa57c7caeca",
+        "datetime": 1785445320,
         "source": "Yahoo"
       },
       {
-        "headline": "随着 Robotaxi 服务扩展到迈阿密，特斯拉股价上涨",
-        "url": "https://finnhub.io/api/news?id=a4e28dbf9fc115336918f3c4441eb1921471c74793e5a9daede5c5ae973ef705",
-        "datetime": 1785439145,
+        "headline": "更新：6 月份通胀率下降，微软引发芯片制造商反弹，美国股指飙升",
+        "url": "https://finnhub.io/api/news?id=1ed31f83f774cca94290e9d5855fea12f33bcb9ee6348dc88c937ee1fb68be79",
+        "datetime": 1785444570,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood 投资 2870 万美元购买两只高风险科技股",
-        "url": "https://finnhub.io/api/news?id=00b03372f4034313ffe8e75b89dbe54c94326cd1e28418de6078f69fb43b7507",
-        "datetime": 1785438841,
+        "headline": "亚马逊股价因业绩和人为盈利增长而飙升",
+        "url": "https://finnhub.io/api/news?id=b7ab236463e878a8a0d192000aa3512032e8ffba76a0f6b3394f452c1ba68f4d",
+        "datetime": 1785443400,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "特斯拉竞争对手比亚迪刚刚进入马斯克的下一个大市场",
-        "url": "https://finnhub.io/api/news?id=da9773c0d741cdb7d075fd8c6bee656b8876e0e9e970cf0ebcddc290de5e0ea1",
-        "datetime": 1785440242,
+        "headline": "随着投资者转向一些科技股，苹果和亚马逊报告收入增长",
+        "url": "https://finnhub.io/api/news?id=23685eb42f36aa11ccb35f4c7c0c59ada12fb5ecd91e6787cc47ed421565e30a",
+        "datetime": 1785447742,
         "source": "Yahoo"
       },
       {
-        "headline": "随着 Robotaxi 服务扩展到迈阿密，特斯拉股价上涨",
-        "url": "https://finnhub.io/api/news?id=a4e28dbf9fc115336918f3c4441eb1921471c74793e5a9daede5c5ae973ef705",
-        "datetime": 1785439145,
+        "headline": "预测：特斯拉将在 2027 年之前失去万亿美元的市值。",
+        "url": "https://finnhub.io/api/news?id=1251989c922ff9f2aaf7a5fa63a3d4950e778d9b158dc1dc31d386ac5fe8774d",
+        "datetime": 1785447240,
         "source": "Yahoo"
       },
       {
-        "headline": "华尔街收益最高的 ETF 对 Nvidia 和 Tesla 的支付率超过 50%。这是他们没有告诉你的事情",
-        "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843",
-        "datetime": 1785432946,
+        "headline": "Rivian Automotive 最新财报发布后是否值得买入？",
+        "url": "https://finnhub.io/api/news?id=33bb7e395425bbace645d54c68f45515ec1b103f6779a46ef79ba703d7cb40be",
+        "datetime": 1785446101,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉 (TSLA) 的利润率因交付而无法修复",
-        "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
-        "datetime": 1785432743,
+        "headline": "伊顿与特斯拉：绝对收入和收入波动性的差异",
+        "url": "https://finnhub.io/api/news?id=b26bb37cf8082eac7d56ba54f34d3420800c1ff5a0fc647e83ed142968afdcd0",
+        "datetime": 1785445501,
         "source": "Yahoo"
       },
       {
-        "headline": "QUICK SPARK：Cathie Wood 送给以太坊的生日礼物？比特矿修剪",
-        "url": "https://finnhub.io/api/news?id=0cfbc26c5adbfcf7a766dce9b68f36e64efdd4e01377f0f3f814581d62c49f96",
-        "datetime": 1785432077,
-        "source": "Benzinga"
+        "headline": "Memecoin 现在可以与股票进行交易",
+        "url": "https://finnhub.io/api/news?id=e937e8a8a47f0ed8712c9109579f81ab7d17f747c4a952eda5f6e695d7bcd1e3",
+        "datetime": 1785445444,
+        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Cathie Wood 的 Ark Invest 在出售 BMNR、HOOD、BLSH 的同时买入 COIN、CRCL",
+        "url": "https://finnhub.io/api/news?id=a408602641bcbf9d1791111cfdec8ff215dcbeca7b11ff29793fe7929a4082fd",
+        "datetime": 1785426929,
+        "source": "Benzinga"
+      },
       {
         "headline": "伯恩斯坦将 Circle 目标下调至 140 美元：118% 的上涨空间仍然现实吗？",
         "url": "https://finnhub.io/api/news?id=642e2889ee7670bce73ec182d08d5c19315ce62028bc0cafd1fd392302d4b557",
@@ -1254,12 +1260,6 @@
         "url": "https://finnhub.io/api/news?id=5253d17d9dc473b84bb6bb0898bbd10c17de16af5c97e999d206917feefed409",
         "datetime": 1785226833,
         "source": "Benzinga"
-      },
-      {
-        "headline": "Circle Internet Group：应对竞争和宏观逆风",
-        "url": "https://finnhub.io/api/news?id=e2ffd251fe05fa8f4826823d2ff40c8278b519706d6f44d77fea5343a2d1d288",
-        "datetime": 1785158450,
-        "source": "SeekingAlpha"
       }
     ],
     "LKNCY": [
@@ -1278,8 +1278,8 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "由于比特币价格下跌，该公司第二季度亏损 82 亿美元",
-        "url": "https://www.coindesk.com/business/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+        "headline": "由于比特币价格下跌，该策略第二季度亏损 82 亿美元",
+        "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
         "datetime": 1785443533,
         "source": "CoinDesk"
       },
@@ -1336,6 +1336,12 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "用五个词推销 Solana",
+        "url": "https://x.com/solana/status/2082964450567503993",
+        "datetime": 1785452399,
+        "source": "@solana"
+      },
+      {
         "headline": "“@BGDA_UK 是一家管理着 1970 亿英镑资产的纽约银行客户，正在利用该集团的新数字转账代理来创建第一个‘完全本土’英国监管的代币化基金”\n\n贝莉·吉福德 (Baillie Gifford) 的 $BAGEY",
         "url": "https://x.com/solana/status/2082941874092884382",
         "datetime": 1785447016,
@@ -1345,12 +1351,6 @@
         "headline": "已经满足了 100M CU 块的需求👀",
         "url": "https://x.com/solana/status/2082925443154325778",
         "datetime": 1785443099,
-        "source": "@solana"
-      },
-      {
-        "headline": "壮举。 @living_IP、@cesto_co、@NomuStores、@Colosseum、@crowdbrainai、@SkywalkTokens、@bloxwap、@clawpumptech、@attndotmarkets、@GetRektApp、@LasoFinance、@traded_gg 和 @Rosentica",
-        "url": "https://x.com/solana/status/2082859841203376456",
-        "datetime": 1785427458,
         "source": "@solana"
       }
     ],
@@ -1411,21 +1411,21 @@
     ],
     "NEAR": [
       {
-        "headline": "质押的 NEAR 在使用期间就不再流通。\n\n而且付款并不是什么罕见的事情。每当有人进行推理或代理代理时，都会发生这种情况。\n\n用途 → 承诺的代币",
-        "url": "https://x.com/NEARProtocol/status/2082879872506999231",
-        "datetime": 1785432234,
+        "headline": "阅读完整报告：",
+        "url": "https://x.com/NEARProtocol/status/2082952777672622169",
+        "datetime": 1785449616,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "为 NEAR AI 质押 NEAR 是正在实践的人工智能货币理论：你持有的代币和你运行的智能结果是同一件事。\n\n登录或创建 NEAR 钱包，将您的 NEAR 质押用于 NEAR AI",
-        "url": "https://x.com/NEARProtocol/status/2082879874176335956",
-        "datetime": 1785432234,
+        "headline": "自 NEAR 在 2025 年第四季度将最高年度通胀率降低至 2.5% 以来，质押参与度一直稳定在 45% 左右。",
+        "url": "https://x.com/NEARProtocol/status/2082952772207485247",
+        "datetime": 1785449614,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "新产品发布\n\nNEAR AI 的质押已上线。\n\n通过质押 NEAR 来支付机密推理和始终在线代理的费用。没有卡。没有云帐户。没有托管人持有您的凭证。\n\n🧵",
-        "url": "https://x.com/NEARProtocol/status/2082879865385062520",
-        "datetime": 1785432232,
+        "headline": "最新的质押报告来自@Bitwise，涵盖：\n\n-NEAR意图势头\n- 保密执行的兴起 \n-NEAR不断增长的收入和回购机制\n-通过减半infl实现稳定质押",
+        "url": "https://x.com/NEARProtocol/status/2082952750497730930",
+        "datetime": 1785449609,
         "source": "@NEARProtocol"
       }
     ],
@@ -1435,12 +1435,6 @@
         "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
         "datetime": 1785331957,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Zcash 表示 Ironwood 证明排除了无法检测到的伪造漏洞",
-        "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785287115,
-        "source": "Cointelegraph"
       }
     ],
     "SPACEX": [
