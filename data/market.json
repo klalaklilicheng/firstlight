@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:58:34.496Z",
+  "updated_at": "2026-07-30T22:05:00.611Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64779,
-      "change_pct": 2.1
+      "price": 64711,
+      "change_pct": 1.3
     },
     {
       "symbol": "ETH",
-      "price": 1921.9,
-      "change_pct": 2.07
+      "price": 1919.02,
+      "change_pct": 0.95
     },
     {
       "symbol": "SOL",
-      "price": 74.44,
-      "change_pct": 2.42
+      "price": 74.45,
+      "change_pct": 1.54
     },
     {
       "symbol": "HYPE",
-      "price": 54.99,
-      "change_pct": 2.69
+      "price": 55.56,
+      "change_pct": 3.75
     },
     {
       "symbol": "ZEC",
-      "price": 472.6,
-      "change_pct": 2.81
+      "price": 472.44,
+      "change_pct": 1.94
     },
     {
       "symbol": "TAO",
-      "price": 193.17,
-      "change_pct": 2.79
+      "price": 192.74,
+      "change_pct": 1.64
     },
     {
       "symbol": "SKY",
-      "price": 1328.03,
-      "change_pct": 1.51
+      "price": 1325.59,
+      "change_pct": 0.24
     },
     {
       "symbol": "AAVE",
-      "price": 99.19,
-      "change_pct": 3.93
+      "price": 98.79,
+      "change_pct": 3.09
     },
     {
       "symbol": "BNB",
-      "price": 592.59,
-      "change_pct": 4.46
+      "price": 590.78,
+      "change_pct": 3.7
     },
     {
       "symbol": "NEAR",
       "price": 1.69,
-      "change_pct": 6.91
+      "change_pct": 5.68
     },
     {
       "symbol": "DOGE",
-      "price": 0.070574,
-      "change_pct": 1.74
+      "price": 0.070475,
+      "change_pct": 0.79
     },
     {
       "symbol": "SPACEX",
-      "price": 421.44,
-      "change_pct": 0.13
+      "price": 428.18,
+      "change_pct": 1.41
     }
   ],
   "earnings": {
@@ -474,6 +474,51 @@
   },
   "news": [
     {
+      "headline": "由于比特币暴跌导致未实现损失，该策略第二季度亏损 8.2B 美元",
+      "summary": "这家比特币财务公司表示，在推出比特币货币化计划后，它已建立了 37.5 亿美元的现金储备，以支持优先股支付。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785447399,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "世界杯在区块链预测市场规模中产生了 200 亿美元：Chainaanalysis",
+      "summary": "这家区块链分析公司表示，世界杯吸引了全球预测市场和数字收藏品的参与，超过 40 万个钱包进行了基于区块链的投注。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785445499,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管加密货币市场份额创历史新高，Coinbase 第二季度利润仍低于预期",
+      "summary": "该加密货币交易所将盈利不佳归咎于现货交易疲软和低波动性，同时强调了衍生品、稳定币和代币化金融的增长。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785444447,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于比特币价格下跌，该公司第二季度亏损 82 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "datetime": 1785443533,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Coinbase 因第二季度营收未达到预期而下跌 5%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "datetime": 1785442713,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Telegram 的帕维尔·杜罗夫 (Pavel Durov) 对俄罗斯被认定为恐怖主义做出回应",
       "summary": "这位 Telegram 创始人表示，在他拒绝政府要求对该消息平台进行大规模监视和审查后，俄罗斯将他列为恐怖分子。",
       "source": "Cointelegraph",
@@ -501,7 +546,7 @@
       "related": ""
     },
     {
-      "headline": "微软在季度表现出人意料的出色表现后重新赢得吉姆·克莱默 (Jim Cramer) 的支持",
+      "headline": "微软在季度表现出人意料的出色表现后重新赢得了吉姆·克莱默 (Jim Cramer) 的支持",
       "summary": "周三晚间公布收益报告后，吉姆·克莱默 (Jim Cramer) 对微软的看法发生了改变。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
@@ -547,7 +592,7 @@
     },
     {
       "headline": "克莱默预测，随着首席执行官尼科尔的转变加速，星巴克股价将出现突破",
-      "summary": "“这里有很多美好的事情，”吉姆·克莱默周四表示。",
+      "summary": "吉姆·克莱默周四表示：“这里有很多美好的事情等着我们。”",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/30/cramer-predicts-a-breakout-for-starbucks-shares-as-ceo-niccols-turnaround-accelerates-.html",
       "datetime": 1785429395,
@@ -591,7 +636,7 @@
       "related": ""
     },
     {
-      "headline": "苹果公司的真实情况是内存紧张——而且几乎没有犯错的余地",
+      "headline": "苹果公司的真实情况是内存紧缩——而且几乎没有犯错的余地",
       "summary": "对于这家 iPhone 制造商来说，这是一个高风险的季度。苹果需要向华尔街准确地展示它计划如何降低内存成本上涨的风险。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/07/30/the-real-story-at-apple-is-memory-and-theres-little-room-for-error.html",
@@ -697,51 +742,6 @@
       "datetime": 1785419718,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "以太坊在基金会经历了一年的剧变后进入了第二个十年",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
-      "datetime": 1785419557,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "虚假质押网站从数十名承诺轻松收益的投资者那里吸走了 850 万美元的 XRP",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
-      "datetime": 1785418551,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "BitRiver 创始人因涉嫌 800 万美元欺诈在俄罗斯被指控",
-      "summary": "俄罗斯当局指控 BitRiver 创始人 Igor Runets 涉嫌欺诈，涉及俄罗斯亿万富翁奥列格·德里帕斯卡 (Oleg Deripaska) 价值 800 万美元的加密采矿设备交易。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785417966,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "消息人士称，人工智能明星投资者利奥波德·阿申布伦纳 (Leopold Aschenbrenner) 在遭受巨额损失后正在平仓",
-      "summary": "据知情人士透露，利奥波德·阿申布伦纳 (Leopold Aschenbrenner) 的对冲基金正在平仓，并可能被迫清算资产。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-      "datetime": 1785417249,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周四股市最值得关注的 10 件事",
-      "summary": "昨晚最好的收入属于俱乐部名称星巴克。另外，还有 Meta 和 Microsoft 的更新。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "datetime": 1785416832,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15,
     "weekly_score": 16.6,
-    "btc_price": 64787.9,
+    "btc_price": 64711.5,
     "fear_greed": 35,
     "indicators": [
       {
@@ -807,8 +807,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00458,
-        "score": 47,
+        "value": 0.006947,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -877,14 +877,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
+        "value": 35.4,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -92.3,
+        "value": -91.3,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -1063,29 +1063,29 @@
         "text": "Strategy announces Q2 2026 results:\n- Increased $BTC Holdings by 11%\n- Reduced Convertible Debt by 18%\n- Increased USD Reserve by 12%\n- Increased BPS by 5%\nhttps://t.co/2hQp4Rvhji",
         "url": "https://x.com/saylor/status/2082920028484018528",
         "time": "Thu Jul 30 20:03:28 +0000 2026",
-        "likes": 2217,
-        "retweets": 226
+        "likes": 3201,
+        "retweets": 321
       },
       {
         "text": "Join us today at 5 PM ET for our Q2 2026 earnings call. We’ll discuss the $BTC outlook, our plans for $MSTR and $STRC, plus a live Q&amp;A with Lyn Alden (@LynAldenContact), Matt Hougan (@Matt_Hougan), Samson Mow (@Excellion), and James Van Straten (@btcjvs).https://t.co/QqVtUM2RJR",
         "url": "https://x.com/saylor/status/2082894285406425255",
         "time": "Thu Jul 30 18:21:10 +0000 2026",
-        "likes": 1155,
-        "retweets": 123
+        "likes": 1301,
+        "retweets": 133
       },
       {
         "text": "Bitcoin is inside the gates of Wall Street. https://t.co/olknBLp9xc",
         "url": "https://x.com/saylor/status/2082818586263830820",
         "time": "Thu Jul 30 13:20:22 +0000 2026",
-        "likes": 9019,
-        "retweets": 958
+        "likes": 9386,
+        "retweets": 1000
       },
       {
         "text": "Governments can accelerate Bitcoin adoption.\nGovernments can delay Bitcoin adoption.\nThey cannot stop Bitcoin.\n\nBlock by block. Nation by nation. Bitcoin advances.",
         "url": "https://x.com/saylor/status/2082458617425395720",
         "time": "Wed Jul 29 13:29:59 +0000 2026",
-        "likes": 13230,
-        "retweets": 1486
+        "likes": 13316,
+        "retweets": 1494
       },
       {
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
@@ -1100,7 +1100,7 @@
         "text": "Whoa base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf fair value $38 would mean 3x from here...",
         "url": "https://x.com/viktorfischer/status/2082877049312567682",
         "time": "Thu Jul 30 17:12:41 +0000 2026",
-        "likes": 1,
+        "likes": 2,
         "retweets": 0
       },
       {
@@ -1148,7 +1148,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "AMD股价5年内飙升364%历史表明，到 2030 年，它将成为一个多用途的企业",
+        "headline": "AMD股价5年内飙升364%历史表明，到 2030 年，它将成为一个多用途的公司",
         "url": "https://finnhub.io/api/news?id=9900edafc3b0137dffef90fc4f2a42a2afb753eb6f17fff10e790967a61ed7f4",
         "datetime": 1785440640,
         "source": "Yahoo"
@@ -1218,16 +1218,16 @@
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉 (TSLA) 利润率大幅下滑，交付量无法修复",
+        "headline": "特斯拉 (TSLA) 的利润率因交付而无法修复",
         "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
         "datetime": 1785432743,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 股价暴跌。男爵和方舟感受到了痛苦。",
-        "url": "https://finnhub.io/api/news?id=7d1447ec3de0becb9ab324ed6a80e5fce7d37493361b63d4cf64e06d32108dac",
-        "datetime": 1785430860,
-        "source": "Yahoo"
+        "headline": "QUICK SPARK：Cathie Wood 送给以太坊的生日礼物？比特矿修剪",
+        "url": "https://finnhub.io/api/news?id=0cfbc26c5adbfcf7a766dce9b68f36e64efdd4e01377f0f3f814581d62c49f96",
+        "datetime": 1785432077,
+        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1272,6 +1272,18 @@
     ],
     "BTC": [
       {
+        "headline": "由于比特币暴跌导致未实现损失，该策略第二季度亏损 8.2B 美元",
+        "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785447399,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "由于比特币价格下跌，该公司第二季度亏损 82 亿美元",
+        "url": "https://www.coindesk.com/business/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+        "datetime": 1785443533,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "币安推出BTC收益，为用户带来备兑看涨期权比特币收益策略",
         "url": "https://cryptocurrencynews.com/crypto/binance-launches-btc-yield-bringing-covered-call-bitcoin-income-strategy-to-users/",
         "datetime": 1785428348,
@@ -1288,18 +1300,6 @@
         "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785410943,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币 ETF 有望实现有史以来最小的月度资金流入",
-        "url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
-        "datetime": 1785410314,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "实时更新：随着微软人工智能的回报提振股市，比特币保持在 64,000 美元附近",
-        "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
-        "datetime": 1785402073,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1336,6 +1336,12 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "“@BGDA_UK 是一家管理着 1970 亿英镑资产的纽约银行客户，正在利用该集团的新数字转账代理来创建第一个‘完全本土’英国监管的代币化基金”\n\n贝莉·吉福德 (Baillie Gifford) 的 $BAGEY",
+        "url": "https://x.com/solana/status/2082941874092884382",
+        "datetime": 1785447016,
+        "source": "@solana"
+      },
+      {
         "headline": "已经满足了 100M CU 块的需求👀",
         "url": "https://x.com/solana/status/2082925443154325778",
         "datetime": 1785443099,
@@ -1345,12 +1351,6 @@
         "headline": "壮举。 @living_IP、@cesto_co、@NomuStores、@Colosseum、@crowdbrainai、@SkywalkTokens、@bloxwap、@clawpumptech、@attndotmarkets、@GetRektApp、@LasoFinance、@traded_gg 和 @Rosentica",
         "url": "https://x.com/solana/status/2082859841203376456",
         "datetime": 1785427458,
-        "source": "@solana"
-      },
-      {
-        "headline": "每个创始人都说他们可以用五个词来推销他们的产品。 \n\n我们上周在@colosseum 总部进行了测试。",
-        "url": "https://x.com/solana/status/2082859839043358761",
-        "datetime": 1785427457,
         "source": "@solana"
       }
     ],
