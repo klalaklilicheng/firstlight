@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-30T19:13:05.906Z",
+  "updated_at": "2026-07-30T20:58:34.496Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 682.19,
-      "change_pct": 1.72
+      "price": 681.79,
+      "change_pct": 1.66
     },
     {
       "symbol": "QQQ",
-      "price": 684.64,
-      "change_pct": 3.46
+      "price": 683.55,
+      "change_pct": 3.3
     },
     {
       "symbol": "QQQM",
-      "price": 281.85,
-      "change_pct": 3.43
+      "price": 281.35,
+      "change_pct": 3.24
     },
     {
       "symbol": "NVDA",
-      "price": 194.7,
-      "change_pct": 2.47
+      "price": 195.04,
+      "change_pct": 2.65
     },
     {
       "symbol": "TSLA",
-      "price": 310.07,
-      "change_pct": 3.94
+      "price": 308.85,
+      "change_pct": 3.53
     },
     {
       "symbol": "GOOG",
-      "price": 334.76,
-      "change_pct": -0.3
+      "price": 333.68,
+      "change_pct": -0.62
     },
     {
       "symbol": "RKLB",
-      "price": 64.42,
-      "change_pct": 9.93
+      "price": 64.68,
+      "change_pct": 10.38
     },
     {
       "symbol": "CRCL",
-      "price": 63.73,
-      "change_pct": 3.86
+      "price": 64.24,
+      "change_pct": 4.69
     },
     {
       "symbol": "PLTR",
-      "price": 121.93,
-      "change_pct": -0.87
+      "price": 122.26,
+      "change_pct": -0.6
     },
     {
       "symbol": "MSTR",
-      "price": 97.08,
-      "change_pct": 4.02
+      "price": 97.74,
+      "change_pct": 4.73
     },
     {
       "symbol": "GLD",
-      "price": 376.55,
-      "change_pct": 1.47
+      "price": 377.16,
+      "change_pct": 1.64
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64772,
-      "change_pct": 0.96
+      "price": 64779,
+      "change_pct": 2.1
     },
     {
       "symbol": "ETH",
-      "price": 1919.4,
-      "change_pct": 0.55
+      "price": 1921.9,
+      "change_pct": 2.07
     },
     {
       "symbol": "SOL",
-      "price": 74.64,
-      "change_pct": 1.11
+      "price": 74.44,
+      "change_pct": 2.42
     },
     {
       "symbol": "HYPE",
-      "price": 55.19,
-      "change_pct": 0.95
+      "price": 54.99,
+      "change_pct": 2.69
     },
     {
       "symbol": "ZEC",
-      "price": 473.05,
-      "change_pct": 1.68
+      "price": 472.6,
+      "change_pct": 2.81
     },
     {
       "symbol": "TAO",
-      "price": 193.41,
-      "change_pct": 0.64
+      "price": 193.17,
+      "change_pct": 2.79
     },
     {
       "symbol": "SKY",
-      "price": 1318.18,
-      "change_pct": -0.88
+      "price": 1328.03,
+      "change_pct": 1.51
     },
     {
       "symbol": "AAVE",
-      "price": 99.62,
-      "change_pct": 0.52
+      "price": 99.19,
+      "change_pct": 3.93
     },
     {
       "symbol": "BNB",
-      "price": 595.01,
-      "change_pct": 4.25
+      "price": 592.59,
+      "change_pct": 4.46
     },
     {
       "symbol": "NEAR",
       "price": 1.69,
-      "change_pct": 3.54
+      "change_pct": 6.91
     },
     {
       "symbol": "DOGE",
-      "price": 0.070763,
-      "change_pct": 0.07
+      "price": 0.070574,
+      "change_pct": 1.74
     },
     {
       "symbol": "SPACEX",
-      "price": 423.88,
-      "change_pct": -0.07
+      "price": 421.44,
+      "change_pct": 0.13
     }
   ],
   "earnings": {
@@ -394,6 +394,14 @@
       },
       "history": [
         {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": -24.45,
+          "estimate": -2.8962,
+          "surprise_pct": -744.2097
+        },
+        {
           "period": "2026-03-31",
           "quarter": 1,
           "year": 2026,
@@ -416,17 +424,9 @@
           "actual": 8.42,
           "estimate": 8.3144,
           "surprise_pct": 1.2701
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": 32.6,
-          "estimate": -0.0936,
-          "surprise_pct": 34929.0598
         }
       ],
-      "comment": "上季不及预期 (-770.4%)"
+      "comment": "上季不及预期 (-744.2%)"
     },
     "LKNCY": {
       "next": {
@@ -473,6 +473,33 @@
     }
   },
   "news": [
+    {
+      "headline": "Telegram 的帕维尔·杜罗夫 (Pavel Durov) 对俄罗斯被认定为恐怖主义做出回应",
+      "summary": "这位 Telegram 创始人表示，在他拒绝政府要求对该消息平台进行大规模监视和审查后，俄罗斯将他列为恐怖分子。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785441246,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "参议员舒默提议成立机构解决腐败问题，包括特朗普的加密货币企业",
+      "summary": "拟议的立法提到了唐纳德·特朗普 (Donald Trump) 披露的 2025 年数十亿美元的加密货币收入，以及他的家族与外国政府的商业关系。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785440752,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "《奥德赛》延长在 70 毫米 IMAX 影院的停留时间，演出提前几周售完",
+      "summary": "环球影业和 IMAX 已将克里斯托弗·诺兰重述荷马史诗的 70 毫米放映时间延长至 9 月中旬。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "datetime": 1785439450,
+      "category": "business",
+      "related": ""
+    },
     {
       "headline": "微软在季度表现出人意料的出色表现后重新赢得吉姆·克莱默 (Jim Cramer) 的支持",
       "summary": "周三晚间公布收益报告后，吉姆·克莱默 (Jim Cramer) 对微软的看法发生了改变。",
@@ -558,7 +585,7 @@
       "headline": "Ondo Finance 考虑收购价值高达 5 亿美元的交易",
       "summary": "",
       "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
       "datetime": 1785427456,
       "category": "crypto",
       "related": ""
@@ -715,33 +742,6 @@
       "datetime": 1785416832,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Telegram创始人被俄罗斯指控一天后，在澳大利亚面临与恐怖主义有关的法律诉讼",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-      "datetime": 1785413358,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "第二季度盈利超出预期后，法拉利上调 2026 年业绩指引",
-      "summary": "由于产品需求“健康”，法拉利第二季度业绩超出华尔街预期，因此上调了 2026 年业绩指引。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
-      "datetime": 1785412686,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "埃及称，随着对能源基础设施的攻击扩大，无人机袭击了地中海港口的两艘船",
-      "summary": "此次无人认领的袭击发生之际，伊朗、其在也门的胡塞盟友和伊拉克民兵正在扩大对该地区能源基础设施的袭击。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
-      "datetime": 1785412436,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.5,
+    "score": 31.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15,
-    "weekly_score": 16.5,
-    "btc_price": 64862.2,
+    "weekly_score": 16.6,
+    "btc_price": 64787.9,
     "fear_greed": 35,
     "indicators": [
       {
@@ -807,7 +807,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004106,
+        "value": 0.00458,
         "score": 47,
         "weight": 8,
         "group": "daily"
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.6,
+        "value": 35.5,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -95,
-        "score": 19,
+        "value": -92.3,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1060,39 +1060,39 @@
     ],
     "saylor": [
       {
+        "text": "Strategy announces Q2 2026 results:\n- Increased $BTC Holdings by 11%\n- Reduced Convertible Debt by 18%\n- Increased USD Reserve by 12%\n- Increased BPS by 5%\nhttps://t.co/2hQp4Rvhji",
+        "url": "https://x.com/saylor/status/2082920028484018528",
+        "time": "Thu Jul 30 20:03:28 +0000 2026",
+        "likes": 2217,
+        "retweets": 226
+      },
+      {
         "text": "Join us today at 5 PM ET for our Q2 2026 earnings call. We’ll discuss the $BTC outlook, our plans for $MSTR and $STRC, plus a live Q&amp;A with Lyn Alden (@LynAldenContact), Matt Hougan (@Matt_Hougan), Samson Mow (@Excellion), and James Van Straten (@btcjvs).https://t.co/QqVtUM2RJR",
         "url": "https://x.com/saylor/status/2082894285406425255",
         "time": "Thu Jul 30 18:21:10 +0000 2026",
-        "likes": 825,
-        "retweets": 87
+        "likes": 1155,
+        "retweets": 123
       },
       {
         "text": "Bitcoin is inside the gates of Wall Street. https://t.co/olknBLp9xc",
         "url": "https://x.com/saylor/status/2082818586263830820",
         "time": "Thu Jul 30 13:20:22 +0000 2026",
-        "likes": 8262,
-        "retweets": 878
+        "likes": 9019,
+        "retweets": 958
       },
       {
         "text": "Governments can accelerate Bitcoin adoption.\nGovernments can delay Bitcoin adoption.\nThey cannot stop Bitcoin.\n\nBlock by block. Nation by nation. Bitcoin advances.",
         "url": "https://x.com/saylor/status/2082458617425395720",
         "time": "Wed Jul 29 13:29:59 +0000 2026",
-        "likes": 13047,
-        "retweets": 1457
+        "likes": 13230,
+        "retweets": 1486
       },
       {
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
         "url": "https://x.com/saylor/status/2082141017977856159",
         "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 794,
+        "likes": 795,
         "retweets": 35
-      },
-      {
-        "text": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local.\n\nProtocol changes must be rare, conservative, and driven by necessity, not ambition.\n\nDefend Bitcoin’s constitution. Defend the future.",
-        "url": "https://x.com/saylor/status/2082141019303202998",
-        "time": "Tue Jul 28 16:27:57 +0000 2026",
-        "likes": 1635,
-        "retweets": 126
       }
     ],
     "viktorfischer": [
@@ -1136,69 +1136,81 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "周四交易时段最活跃的 S&P500 股票",
-        "url": "https://finnhub.io/api/news?id=173e3dc5b589ca0110bf70c0b6907ea807c25e1e81c2b86027f7e8d37c4b99ef",
-        "datetime": 1785434701,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "周四交易时段最活跃的股票",
-        "url": "https://finnhub.io/api/news?id=75c81c32c9f203b97471741e711c89bdf1634eb8f1c95fa219067e86be6988f3",
-        "datetime": 1785434400,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "来认识一下在 Palantir、微软和 Salesforce 等股票中拥有大量头寸的壮观 ETF。随着人工智能贸易的放松，这可能是一次明智的买入。",
-        "url": "https://finnhub.io/api/news?id=693ab1b4b71b7e35daa491c383399d06c6962adee4727e678fd783e565ad6d90",
-        "datetime": 1785433380,
+        "headline": "微软维持巨额人工智能支出，英伟达股价上涨",
+        "url": "https://finnhub.io/api/news?id=1d80d5f480803fe365c4786e12e9ec51a6fbeb158cc5500728c653fcd5e1ac38",
+        "datetime": 1785441491,
         "source": "Yahoo"
       },
       {
-        "headline": "华尔街收益最高的 ETF 对 Nvidia 和 Tesla 的支付率超过 50%。这是他们没有告诉你的事情",
-        "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843",
-        "datetime": 1785432946,
+        "headline": "台积电的下一个人工智能芯片举措推动英特尔股价飙升",
+        "url": "https://finnhub.io/api/news?id=baa89514fe4f741cd77e5b6f42f37f3871ccd045d40a3daffcb1c9fa5b69631f",
+        "datetime": 1785441223,
         "source": "Yahoo"
       },
       {
-        "headline": "预测：Rambus 今年会在哪里结束？",
-        "url": "https://finnhub.io/api/news?id=70b4ab2cc8ee1283359c0bd8ff55332780f945cad7357a21d3bcdc6cc9852e3d",
-        "datetime": 1785432649,
+        "headline": "AMD股价5年内飙升364%历史表明，到 2030 年，它将成为一个多用途的企业",
+        "url": "https://finnhub.io/api/news?id=9900edafc3b0137dffef90fc4f2a42a2afb753eb6f17fff10e790967a61ed7f4",
+        "datetime": 1785440640,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为何甲骨文股价飙升",
+        "url": "https://finnhub.io/api/news?id=ccb91ee256ef7ed0375041285eb68b4c080c7f74304d9929e2e83128abefe078",
+        "datetime": 1785440479,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Azure 乐观预测后，微软单日市值涨幅创历史新高",
+        "url": "https://finnhub.io/api/news?id=498f0cb572f75a21247432bcb0f08b34a2bd4a3da5c72c718813d7effccc1ac6",
+        "datetime": 1785440471,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "特斯拉 (TSLA) 利润率大幅下滑，交付量无法修复",
-        "url": "https://finnhub.io/api/news?id=b0d2da49381b78c08248c6d04463c8ab925bee1e3de08595d91b545c9f6aa3af",
-        "datetime": 1785432743,
+        "headline": "为何甲骨文股价飙升",
+        "url": "https://finnhub.io/api/news?id=ccb91ee256ef7ed0375041285eb68b4c080c7f74304d9929e2e83128abefe078",
+        "datetime": 1785440479,
         "source": "Yahoo"
       },
       {
-        "headline": "Adobe 股票交易价格低于市场收益，而其增长引擎正在重建",
-        "url": "https://finnhub.io/api/news?id=9a2749ecb125dd33ee394bd0b9919f303660b486945ab262db97ba160f035c2b",
-        "datetime": 1785432726,
+        "headline": "尽管估值高达 9650 亿美元，Anthropic 仍无法自筹基础设施资金——因此谷歌正在为其提供支持",
+        "url": "https://finnhub.io/api/news?id=eb361ffe584dcdce53b522a56047224bec17e47987c887ff175fcd87f53176d2",
+        "datetime": 1785440300,
         "source": "Yahoo"
       },
       {
-        "headline": "DoorDash 推出无人机送货计划，因为近 70% 的美国人表示他们担心无人机安全",
-        "url": "https://finnhub.io/api/news?id=d94d6a92bdb7f040cd9ff7efebb2a90383ad6a4245a0558669190919eba5a405",
-        "datetime": 1785432281,
+        "headline": "Booking 与 Shopify：2026 年哪种消费品股票更值得购买？",
+        "url": "https://finnhub.io/api/news?id=f123ad0aec96c3e6da2492299527357dbe4f1742d6f612880cf55c93695b770c",
+        "datetime": 1785439497,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta 对消费者人工智能的大赌注脱颖而出。这对股票不利。",
-        "url": "https://finnhub.io/api/news?id=1113501754b74ab1a79916ad6612545857e8df7f71e618357e17d16bb662d56f",
-        "datetime": 1785432070,
+        "headline": "随着 Robotaxi 服务扩展到迈阿密，特斯拉股价上涨",
+        "url": "https://finnhub.io/api/news?id=a4e28dbf9fc115336918f3c4441eb1921471c74793e5a9daede5c5ae973ef705",
+        "datetime": 1785439145,
         "source": "Yahoo"
       },
       {
-        "headline": "保证金与杠杆：人工智能交易暴力重置的内部",
-        "url": "https://finnhub.io/api/news?id=5c2651fbf4e847d9f9aa71aba8276248c301a2f9796a9713c2d8a1b9206d77b4",
-        "datetime": 1785429900,
+        "headline": "Cathie Wood 投资 2870 万美元购买两只高风险科技股",
+        "url": "https://finnhub.io/api/news?id=00b03372f4034313ffe8e75b89dbe54c94326cd1e28418de6078f69fb43b7507",
+        "datetime": 1785438841,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉竞争对手比亚迪刚刚进入马斯克的下一个大市场",
+        "url": "https://finnhub.io/api/news?id=da9773c0d741cdb7d075fd8c6bee656b8876e0e9e970cf0ebcddc290de5e0ea1",
+        "datetime": 1785440242,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "随着 Robotaxi 服务扩展到迈阿密，特斯拉股价上涨",
+        "url": "https://finnhub.io/api/news?id=a4e28dbf9fc115336918f3c4441eb1921471c74793e5a9daede5c5ae973ef705",
+        "datetime": 1785439145,
+        "source": "Yahoo"
+      },
       {
         "headline": "华尔街收益最高的 ETF 对 Nvidia 和 Tesla 的支付率超过 50%。这是他们没有告诉你的事情",
         "url": "https://finnhub.io/api/news?id=5c5505cb2a1284848724326e8054a0fd4ce0290bd7f8ac3d86728c9a79872843",
@@ -1215,18 +1227,6 @@
         "headline": "SpaceX 股价暴跌。男爵和方舟感受到了痛苦。",
         "url": "https://finnhub.io/api/news?id=7d1447ec3de0becb9ab324ed6a80e5fce7d37493361b63d4cf64e06d32108dac",
         "datetime": 1785430860,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉电动汽车销量突破 1000 万辆里程碑，有望结束连跌",
-        "url": "https://finnhub.io/api/news?id=86bcac12de706dd05b4e7a6e208592960ce542c3ca9d30127388ea26221ba337",
-        "datetime": 1785427810,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "196 亿美元：最重要的微软盈利数字",
-        "url": "https://finnhub.io/api/news?id=2f5c737d40b405713e18ae982f79805cff1809aec393f7644b359b7b729f3e33",
-        "datetime": 1785427242,
         "source": "Yahoo"
       }
     ],
@@ -1336,10 +1336,22 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "摩根士丹利通过以太坊、Solana ETP 扩大加密货币阵容",
-        "url": "https://cointelegraph.com/markets/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785269446,
-        "source": "Cointelegraph"
+        "headline": "已经满足了 100M CU 块的需求👀",
+        "url": "https://x.com/solana/status/2082925443154325778",
+        "datetime": 1785443099,
+        "source": "@solana"
+      },
+      {
+        "headline": "壮举。 @living_IP、@cesto_co、@NomuStores、@Colosseum、@crowdbrainai、@SkywalkTokens、@bloxwap、@clawpumptech、@attndotmarkets、@GetRektApp、@LasoFinance、@traded_gg 和 @Rosentica",
+        "url": "https://x.com/solana/status/2082859841203376456",
+        "datetime": 1785427458,
+        "source": "@solana"
+      },
+      {
+        "headline": "每个创始人都说他们可以用五个词来推销他们的产品。 \n\n我们上周在@colosseum 总部进行了测试。",
+        "url": "https://x.com/solana/status/2082859839043358761",
+        "datetime": 1785427457,
+        "source": "@solana"
       }
     ],
     "AAVE": [
@@ -1358,6 +1370,12 @@
     ],
     "DOGE": [
       {
+        "headline": "我明白他们为何上当",
+        "url": "https://x.com/dogecoin/status/2082914837571477685",
+        "datetime": 1785440570,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "仅使用狗的照片来描述你的星期一过得如何",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
@@ -1367,12 +1385,6 @@
         "headline": "不错",
         "url": "https://x.com/dogecoin/status/2080711543407169820",
         "datetime": 1784915264,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "POV：你把你的朋友介绍给了doge",
-        "url": "https://x.com/dogecoin/status/2080046200170901671",
-        "datetime": 1784756634,
         "source": "@dogecoin"
       }
     ],
