@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T23:56:10.585Z",
+  "updated_at": "2026-07-31T02:01:43.659Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64757,
-      "change_pct": 1.32
+      "price": 64534,
+      "change_pct": 0.49
     },
     {
       "symbol": "ETH",
-      "price": 1919.91,
-      "change_pct": 0.56
+      "price": 1909.3,
+      "change_pct": -0.33
     },
     {
       "symbol": "SOL",
-      "price": 74.47,
-      "change_pct": 1.16
+      "price": 74.36,
+      "change_pct": 0.51
     },
     {
       "symbol": "HYPE",
-      "price": 55.74,
-      "change_pct": 3.42
+      "price": 55.64,
+      "change_pct": 2.69
     },
     {
       "symbol": "ZEC",
-      "price": 470.86,
-      "change_pct": 0.81
+      "price": 466.66,
+      "change_pct": -0.48
     },
     {
       "symbol": "TAO",
-      "price": 192.44,
-      "change_pct": 0.93
+      "price": 194.65,
+      "change_pct": 1.17
     },
     {
       "symbol": "SKY",
-      "price": 1325.52,
-      "change_pct": -0.29
+      "price": 1336.98,
+      "change_pct": -0.15
     },
     {
       "symbol": "AAVE",
-      "price": 99.44,
-      "change_pct": 3.47
+      "price": 99.83,
+      "change_pct": 3.7
     },
     {
       "symbol": "BNB",
-      "price": 591.9,
-      "change_pct": 3.55
+      "price": 589.12,
+      "change_pct": 2.39
     },
     {
       "symbol": "NEAR",
       "price": 1.67,
-      "change_pct": 3.26
+      "change_pct": 3.28
     },
     {
       "symbol": "DOGE",
-      "price": 0.070542,
-      "change_pct": 0.68
+      "price": 0.070242,
+      "change_pct": -0.38
     },
     {
       "symbol": "SPACEX",
-      "price": 426.46,
-      "change_pct": 1.85
+      "price": 434.21,
+      "change_pct": 3.98
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "不丹的 Gelephu 利用 3iQ 管理部分比特币金库",
+      "summary": "随着不丹开发数字资产投资中心，3iQ 将管理 Gelephu Mindativity City 比特币金库的未公开部分。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785457881,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国参议员向白宫提交了修订后的道德规则，以明确法案：报告",
       "summary": "在参议院休会一个月之前通过全面的加密货币市场结构法案的窗口即将关闭，道德问题对许多立法者来说是一个存在分歧的问题。",
       "source": "Cointelegraph",
@@ -733,15 +742,6 @@
       "datetime": 1785420631,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "摩根大通表示，《清晰法案》的可能性逐渐减弱，对加密货币前景构成压力",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
-      "datetime": 1785420374,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,18 +790,18 @@
     }
   ],
   "btc_score": {
-    "score": 31.8,
+    "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.2,
-    "weekly_score": 16.6,
-    "btc_price": 64794,
-    "fear_greed": 35,
+    "daily_score": 15.8,
+    "weekly_score": 16.7,
+    "btc_price": 64580,
+    "fear_greed": 38,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 30400000,
-        "score": 52,
+        "value": 49700000,
+        "score": 53,
         "weight": 12,
         "group": "daily"
       },
@@ -814,15 +814,15 @@
       },
       {
         "name": "多空比",
-        "value": 1.25,
-        "score": 50,
+        "value": 1.33,
+        "score": 55,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 35,
-        "score": 35,
+        "value": 38,
+        "score": 38,
         "weight": 7,
         "group": "daily"
       },
@@ -870,22 +870,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.01,
+        "value": 1.02,
         "score": 17,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
-        "score": 26,
+        "value": 35.3,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -86.1,
-        "score": 21,
+        "value": -75,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -894,7 +894,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 48
+      "days_until": 47
     },
     "schedule": [
       "2025-01-29",
@@ -1063,29 +1063,29 @@
         "text": "Strategy announces Q2 2026 results:\n- Increased $BTC Holdings by 11%\n- Reduced Convertible Debt by 18%\n- Increased USD Reserve by 12%\n- Increased BPS by 5%\nhttps://t.co/2hQp4Rvhji",
         "url": "https://x.com/saylor/status/2082920028484018528",
         "time": "Thu Jul 30 20:03:28 +0000 2026",
-        "likes": 4128,
-        "retweets": 412
+        "likes": 4726,
+        "retweets": 473
       },
       {
         "text": "Join us today at 5 PM ET for our Q2 2026 earnings call. We’ll discuss the $BTC outlook, our plans for $MSTR and $STRC, plus a live Q&amp;A with Lyn Alden (@LynAldenContact), Matt Hougan (@Matt_Hougan), Samson Mow (@Excellion), and James Van Straten (@btcjvs).https://t.co/QqVtUM2RJR",
         "url": "https://x.com/saylor/status/2082894285406425255",
         "time": "Thu Jul 30 18:21:10 +0000 2026",
-        "likes": 1401,
-        "retweets": 144
+        "likes": 1497,
+        "retweets": 153
       },
       {
         "text": "Bitcoin is inside the gates of Wall Street. https://t.co/olknBLp9xc",
         "url": "https://x.com/saylor/status/2082818586263830820",
         "time": "Thu Jul 30 13:20:22 +0000 2026",
-        "likes": 9866,
-        "retweets": 1044
+        "likes": 10258,
+        "retweets": 1090
       },
       {
         "text": "Governments can accelerate Bitcoin adoption.\nGovernments can delay Bitcoin adoption.\nThey cannot stop Bitcoin.\n\nBlock by block. Nation by nation. Bitcoin advances.",
         "url": "https://x.com/saylor/status/2082458617425395720",
         "time": "Wed Jul 29 13:29:59 +0000 2026",
-        "likes": 13454,
-        "retweets": 1505
+        "likes": 13574,
+        "retweets": 1518
       },
       {
         "text": "Once one faction captures consensus, every faction learns it can seize through politics what it could not earn in the market. Protocol warfare becomes permanent.\n\nCapital flees, innovation dies, security erodes, and Bitcoin is doomed to 1% of its potential.",
@@ -1136,37 +1136,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Cullen/Frost Bankers, Inc. 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=355eff48080d208c671348b227651baaa8274ab29d9071c924fb32840d51a38e",
-        "datetime": 1785447911,
+        "headline": "为什么泰勒科技公司的股票周四遭受重创",
+        "url": "https://finnhub.io/api/news?id=ac56b5b2b545a6f42484425938243ea270dc29c5fed8570a4324118a797cfb5b",
+        "datetime": 1785455480,
         "source": "Yahoo"
       },
       {
-        "headline": "随着投资者转向一些科技股，苹果和亚马逊报告收入增长",
-        "url": "https://finnhub.io/api/news?id=23685eb42f36aa11ccb35f4c7c0c59ada12fb5ecd91e6787cc47ed421565e30a",
-        "datetime": 1785447742,
+        "headline": "AMD 股价将涨至每股 600 美元吗？",
+        "url": "https://finnhub.io/api/news?id=bd1bb81fae300b56bb8cdea33d8874aac4157e94630498cd378cf7dc1b3e1657",
+        "datetime": 1785455400,
         "source": "Yahoo"
       },
       {
-        "headline": "EMCOR Group, Inc. 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=3eb2ee98dbc2f6ca59515acdde78e72063cd61da1beb18d497af196dacb34c5f",
-        "datetime": 1785447631,
+        "headline": "每个人都想构建最好的人工智能模型。亚马逊想要更有价值的东西。",
+        "url": "https://finnhub.io/api/news?id=9ee1769f7520ef116150e9e2ce4af3f915c48cd8365f421ffe6b70a8ebbfac19",
+        "datetime": 1785454500,
         "source": "Yahoo"
       },
       {
-        "headline": "Brunswick Corporation 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=73f954fac16e1664d7117c62eb07f238620e0ad921fdc45ede13947e26842438",
-        "datetime": 1785447371,
+        "headline": "沃伦·巴菲特的传统石油赌注在格雷格·阿贝尔的领导下得到了回报。没有人谈论它。",
+        "url": "https://finnhub.io/api/news?id=e367359d5d506a1b05b6460a00ef170cbea351c58b5c5459fe21a61433a89233",
+        "datetime": 1785453900,
         "source": "Yahoo"
       },
       {
-        "headline": "预测：特斯拉将在 2027 年之前失去万亿美元的市值。",
-        "url": "https://finnhub.io/api/news?id=1251989c922ff9f2aaf7a5fa63a3d4950e778d9b158dc1dc31d386ac5fe8774d",
-        "datetime": 1785447240,
+        "headline": "为什么 Chipotle 股票今天暴涨",
+        "url": "https://finnhub.io/api/news?id=24a747835778518ce8b609fab0e2339fd0cf1a1ce658be8775eee5938015f3fd",
+        "datetime": 1785453736,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "每个人都想构建最好的人工智能模型。亚马逊想要更有价值的东西。",
+        "url": "https://finnhub.io/api/news?id=9ee1769f7520ef116150e9e2ce4af3f915c48cd8365f421ffe6b70a8ebbfac19",
+        "datetime": 1785454500,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "标准普尔 500 指数和纳斯达克指数在微软的支持下收涨，人工智能股票上涨 - ORCL、GOOGL、MSFT、BE、TSLA 股票成为焦点",
+        "url": "https://finnhub.io/api/news?id=a84c2dc6fba19f0398e704ebca872d7715e76d02e02007dab3d62c04e361d7a6",
+        "datetime": 1785448680,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "搜索流量陷阱：为何 Reddit 股价在盈利超出预期后仍在下跌",
+        "url": "https://finnhub.io/api/news?id=7b856a2ca920d026a6ded31a699c713b89b0f6e665bd96a568590ae68646e5ba",
+        "datetime": 1785448080,
+        "source": "Yahoo"
+      },
       {
         "headline": "随着云计算加速增长，亚马逊股价上涨。人工智能推高资本支出。",
         "url": "https://finnhub.io/api/news?id=4647fae2b722c6e3830912ae919168031d9985536c4f0ea61a1261a3fd9e825c",
@@ -1174,35 +1192,29 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet 刚刚向投资者提供了 5140 亿个增持股票的理由",
-        "url": "https://finnhub.io/api/news?id=2df4bf6d661e40d457e450e87f2296644fee98895715e1f16c0a186719d96ec2",
-        "datetime": 1785446400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "如何在购买 IBM 股票之前存入 13% 的资金",
-        "url": "https://finnhub.io/api/news?id=f69af43aa8328954175ea93f99a6d5c1c7f9aca5e6266add55315aa57c7caeca",
-        "datetime": 1785445320,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "更新：6 月份通胀率下降，微软引发芯片制造商反弹，美国股指飙升",
-        "url": "https://finnhub.io/api/news?id=1ed31f83f774cca94290e9d5855fea12f33bcb9ee6348dc88c937ee1fb68be79",
-        "datetime": 1785444570,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "亚马逊股价因业绩和人为盈利增长而飙升",
-        "url": "https://finnhub.io/api/news?id=b7ab236463e878a8a0d192000aa3512032e8ffba76a0f6b3394f452c1ba68f4d",
-        "datetime": 1785443400,
+        "headline": "亚马逊股价为何飙升？ 2200 亿美元的人工智能计划并没有吓到华尔街。",
+        "url": "https://finnhub.io/api/news?id=b8c18f617ed11b2fd1f31560ff5d2d5f97845680d5c222ebff95a71c40560bd1",
+        "datetime": 1785447660,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "标准普尔 500 指数和纳斯达克指数在微软的支持下收涨，人工智能股票上涨 - ORCL、GOOGL、MSFT、BE、TSLA 股票成为焦点",
+        "url": "https://finnhub.io/api/news?id=a84c2dc6fba19f0398e704ebca872d7715e76d02e02007dab3d62c04e361d7a6",
+        "datetime": 1785448680,
+        "source": "Yahoo"
+      },
+      {
         "headline": "随着投资者转向一些科技股，苹果和亚马逊报告收入增长",
         "url": "https://finnhub.io/api/news?id=23685eb42f36aa11ccb35f4c7c0c59ada12fb5ecd91e6787cc47ed421565e30a",
         "datetime": 1785447742,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "迈克尔·伯里 (Michael Burry) 增加了他的 NVDA 和 MU 短裤，并在这些股票上做出了更多动作",
+        "url": "https://finnhub.io/api/news?id=1ee633f74ad4b68b1cb955dffe955dc0147acc8b10839013cd625c39b602e080",
+        "datetime": 1785447536,
         "source": "Yahoo"
       },
       {
@@ -1212,21 +1224,9 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Rivian Automotive 最新财报发布后是否值得买入？",
-        "url": "https://finnhub.io/api/news?id=33bb7e395425bbace645d54c68f45515ec1b103f6779a46ef79ba703d7cb40be",
-        "datetime": 1785446101,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "伊顿与特斯拉：绝对收入和收入波动性的差异",
-        "url": "https://finnhub.io/api/news?id=b26bb37cf8082eac7d56ba54f34d3420800c1ff5a0fc647e83ed142968afdcd0",
-        "datetime": 1785445501,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Memecoin 现在可以与股票进行交易",
-        "url": "https://finnhub.io/api/news?id=e937e8a8a47f0ed8712c9109579f81ab7d17f747c4a952eda5f6e695d7bcd1e3",
-        "datetime": 1785445444,
+        "headline": "微软如何帮助特斯拉结束六天连败",
+        "url": "https://finnhub.io/api/news?id=977e39f88d4415e3b63f31fae540ba87a389b9440753fb5e7a739774cedb8019",
+        "datetime": 1785447180,
         "source": "Yahoo"
       }
     ],
@@ -1272,6 +1272,12 @@
     ],
     "BTC": [
       {
+        "headline": "不丹的 Gelephu 利用 3iQ 管理部分比特币金库",
+        "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785457881,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "由于比特币暴跌导致未实现损失，该策略第二季度亏损 8.2B 美元",
         "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785447399,
@@ -1293,12 +1299,6 @@
         "headline": "美联储青睐个人消费支出通胀六年来首次月度下降，比特币稳定",
         "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785428249,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "持有 1.1B 美元比特币矿商股票的对冲基金在人工智能抛售后寻求资金：FT",
-        "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785410943,
         "source": "Cointelegraph"
       }
     ],
