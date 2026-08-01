@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T11:57:47.266Z",
+  "updated_at": "2026-08-01T13:10:41.927Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63018,
-      "change_pct": -1.18
+      "price": 63040,
+      "change_pct": -1.01
     },
     {
       "symbol": "ETH",
-      "price": 1864.89,
-      "change_pct": -0.92
+      "price": 1866.95,
+      "change_pct": -0.82
     },
     {
       "symbol": "SOL",
-      "price": 72.83,
-      "change_pct": -0.87
+      "price": 72.88,
+      "change_pct": -1
     },
     {
       "symbol": "HYPE",
-      "price": 51.93,
-      "change_pct": -5.34
+      "price": 52.26,
+      "change_pct": -5.7
     },
     {
       "symbol": "ZEC",
-      "price": 463.91,
-      "change_pct": 0.81
+      "price": 466.2,
+      "change_pct": 1.71
     },
     {
       "symbol": "TAO",
-      "price": 194.67,
-      "change_pct": 0.54
+      "price": 194.34,
+      "change_pct": 0.03
     },
     {
       "symbol": "SKY",
-      "price": 1290.79,
-      "change_pct": -2.41
+      "price": 1292.73,
+      "change_pct": -2.15
     },
     {
       "symbol": "AAVE",
-      "price": 91.35,
-      "change_pct": -6.17
+      "price": 91.31,
+      "change_pct": -5.9
     },
     {
       "symbol": "BNB",
-      "price": 579.95,
-      "change_pct": -1.94
+      "price": 577.52,
+      "change_pct": -2.73
     },
     {
       "symbol": "NEAR",
-      "price": 1.66,
-      "change_pct": 1.05
+      "price": 1.67,
+      "change_pct": 0.5
     },
     {
       "symbol": "DOGE",
-      "price": 0.069793,
-      "change_pct": 0.37
+      "price": 0.069976,
+      "change_pct": 0.61
     },
     {
       "symbol": "SPACEX",
-      "price": 415.7,
-      "change_pct": -2.76
+      "price": 411.02,
+      "change_pct": -3.84
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "OpenAI 的 Hugging Face 黑客事件证实了数月来的人工智能网络警告：“潘多拉魔盒已打开”",
+      "summary": "行业专家齐聚黑帽这一大型网络安全会议，给网络行业敲响了警钟。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+      "datetime": 1785585601,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "俄罗斯将加密货币挖矿禁令扩大到莫斯科直至 2032 年",
       "summary": "俄罗斯已将莫斯科、莫斯科地区和库尔斯克地区部分地区列入其加密货币采矿禁令名单，理由是这些限制背后的电力供应问题。",
       "source": "Cointelegraph",
@@ -733,15 +742,6 @@
       "datetime": 1785506396,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着加密货币监管的加速推进，Circle 获得了纽约信托宪章",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "datetime": 1785504917,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -767,7 +767,13 @@
     },
     {
       "company": "OpenAI",
-      "news": []
+      "news": [
+        {
+          "headline": "OpenAI 的 Hugging Face 黑客事件证实了数月来的人工智能网络警告：“潘多拉魔盒已打开”",
+          "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+          "datetime": 1785585601
+        }
+      ]
     },
     {
       "company": "宇树科技",
@@ -796,7 +802,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 14.9,
     "weekly_score": 16.8,
-    "btc_price": 63080.4,
+    "btc_price": 63097.5,
     "fear_greed": 34,
     "indicators": [
       {
@@ -808,7 +814,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00186,
+        "value": 0.002537,
         "score": 46,
         "weight": 8,
         "group": "daily"
@@ -878,14 +884,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.9,
+        "value": 34,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -65.4,
+        "value": -64,
         "score": 27,
         "weight": 4,
         "group": "weekly"
@@ -1004,21 +1010,21 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1143,
-        "retweets": 57
+        "likes": 1167,
+        "retweets": 58
       },
       {
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 344,
+        "likes": 345,
         "retweets": 15
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 522,
+        "likes": 523,
         "retweets": 30
       },
       {
@@ -1064,36 +1070,36 @@
         "text": "https://t.co/n4bp4tIiZ5",
         "url": "https://x.com/saylor/status/2083342249635483939",
         "time": "Sat Aug 01 00:01:13 +0000 2026",
-        "likes": 237,
+        "likes": 241,
         "retweets": 7
       },
       {
         "text": "Stretch Dividend Rate maintained at 12.00% for August 2026. $STRC https://t.co/HaBpi2vEJa",
         "url": "https://x.com/saylor/status/2083342244250014180",
         "time": "Sat Aug 01 00:01:12 +0000 2026",
-        "likes": 2475,
-        "retweets": 171
+        "likes": 2627,
+        "retweets": 184
       },
       {
         "text": "I support advancing the CLARITY Act through bipartisan work to establish clear, durable rules, protect property rights, promote innovation, and strengthen American capital markets. Bitcoin will succeed with or without legislation, but America needs clarity for digital assets.",
         "url": "https://x.com/saylor/status/2083288999192359239",
         "time": "Fri Jul 31 20:29:37 +0000 2026",
-        "likes": 9519,
-        "retweets": 1077
+        "likes": 9732,
+        "retweets": 1106
       },
       {
         "text": "The slides behind our Q2 earnings call: Strategy’s balance sheet, Bitcoin KPIs, active capital management, the path to par for $STRC, and the long-term opportunity for $MSTR. https://t.co/vKWGcOf3pa",
         "url": "https://x.com/saylor/status/2083192868613554454",
         "time": "Fri Jul 31 14:07:38 +0000 2026",
-        "likes": 204,
+        "likes": 205,
         "retweets": 15
       },
       {
         "text": "How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share?\n\nIn our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered questions from equity https://t.co/4Cz0Vzv9yS",
         "url": "https://x.com/saylor/status/2083192865035817066",
         "time": "Fri Jul 31 14:07:37 +0000 2026",
-        "likes": 3144,
-        "retweets": 345
+        "likes": 3175,
+        "retweets": 351
       }
     ],
     "viktorfischer": [
@@ -1137,33 +1143,33 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "英伟达不再是世界上最有价值的公司。更多坏消息即将到来吗？",
-        "url": "https://finnhub.io/api/news?id=f0ded626a98986d022fd2c30afa418c102970b404a877cb2facf4bc946bb5978",
-        "datetime": 1785577500,
+        "headline": "雪佛龙刚刚压垮了盈利。这对股息意味着什么。",
+        "url": "https://finnhub.io/api/news?id=749cb9c38b362758252c40f53b2b4ffd6289f0eb215f717a7ac19b51da9b4224",
+        "datetime": 1785585000,
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特几十年来一直支持被动投资。以下是他建议大多数人购买的具体投资项目。",
-        "url": "https://finnhub.io/api/news?id=ca189273f889e8b34eb4868e4e27dd879568c7ba29d416f39224772921471b4f",
-        "datetime": 1785576900,
+        "headline": "百时美施贵宝并不像看起来那么便宜——这是可能改变这一现状的一件事",
+        "url": "https://finnhub.io/api/news?id=679c4328e708a8f8fd436919a30464508cc254953331dee08017dc057eb91ccd",
+        "datetime": 1785584100,
         "source": "Yahoo"
       },
       {
-        "headline": "德州仪器 (TI) 股价较 52 周高点下跌 16%。是买入吗？",
-        "url": "https://finnhub.io/api/news?id=c1dfe8407a1a1392cab52a56b3a018dbc08c38c56efa868e5350297f50270a5d",
-        "datetime": 1785576720,
+        "headline": "NASA 搜寻沙发垫，又发现 6 亿美元用于月球任务",
+        "url": "https://finnhub.io/api/news?id=01d97c96a32d4ca64f8463e6122e510dea27b826f73653c879119c5fb7282d61",
+        "datetime": 1785583620,
         "source": "Yahoo"
       },
       {
-        "headline": "可口可乐：投资者应该选择其股票而不是百事可乐股票的令人惊讶的原因",
-        "url": "https://finnhub.io/api/news?id=7345db7b33ae6ff1b53194238fed8d3c5d8d96ca30d9bf1b3c11d67fe0ae7729",
-        "datetime": 1785576480,
+        "headline": "现在就可以花 200 美元购买 1 只令人难以置信的股票分割股票",
+        "url": "https://finnhub.io/api/news?id=d741e675b21a9521eda75f3b0f1f347fcec95fa62c95e424d0938c72deb67cb0",
+        "datetime": 1785583200,
         "source": "Yahoo"
       },
       {
-        "headline": "比特币与瑞波币：长期购买哪个更好？",
-        "url": "https://finnhub.io/api/news?id=239c1740486bad6f1394ed5de545eed27cec498d2061531cddf246f3caa82ae2",
-        "datetime": 1785576000,
+        "headline": "3 年前向 Rocket Lab 投资 10,000 美元，即使在缩水 61% 后，如今也值这么多钱。",
+        "url": "https://finnhub.io/api/news?id=11913cb71ac0d1fed2cf1fd320e89fb2bafc53d3302c02044f85bf05f8811d0e",
+        "datetime": 1785580620,
         "source": "Yahoo"
       }
     ],
@@ -1181,7 +1187,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "甲骨文 (ORCL) 是否正在利用谷歌与 Gemini 的合作来重塑其核心人工智能投资叙事？",
+        "headline": "甲骨文（ORCL）是否正在利用谷歌与 Gemini 的合作来重塑其核心人工智能投资叙事？",
         "url": "https://finnhub.io/api/news?id=6abf97392666813e9e6ce0ed6b384c9e6aa5474ea9e0e5f832bc09c2693a36a1",
         "datetime": 1785557874,
         "source": "Yahoo"
@@ -1193,7 +1199,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "吉姆·克莱默 (Jim Cramer) 对苹果公司 (NASDAQ:AAPL) 的人工智能发展情不自禁地沾沾自喜",
+        "headline": "吉姆·克莱默 (Jim Cramer) 对苹果公司 (纳斯达克股票代码：AAPL) 的人工智能发展情不自禁地幸灾乐祸",
         "url": "https://finnhub.io/api/news?id=b84795b42a7f9e71b9789d58adda42b151b481be22d13ac95d53f5c919635fae",
         "datetime": 1785553115,
         "source": "Yahoo"
@@ -1201,13 +1207,25 @@
     ],
     "TSLA": [
       {
+        "headline": "SpaceX 收益预览：星链增长、人工智能成本、星舰路线图",
+        "url": "https://finnhub.io/api/news?id=d27cf4f6cf11cd56422632b9e9e0bafc90afdeeb09b0639649ab2e253ff586a4",
+        "datetime": 1785583702,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "SpaceX 会将其火箭涂成粉红色吗？在第一批结果发布之前，投资者的问题超出了月球和火星的范围",
+        "url": "https://finnhub.io/api/news?id=80d8c3eb43c9726bc465fdf784ecb14a66a5494a85cfe50ec29c900983124687",
+        "datetime": 1785578491,
+        "source": "Yahoo"
+      },
+      {
         "headline": "特斯拉每月 99 美元的 FSD 计划有望每年产生 18 亿美元的收入。这个新的利润杠杆是购买埃隆·马斯克(Elon Musk)领导的股票的信号吗？",
         "url": "https://finnhub.io/api/news?id=877aa37dbb0be6b0d0c441170d7027fc392bd8f181f2da9fd956fc54b83826c3",
         "datetime": 1785562500,
         "source": "Yahoo"
       },
       {
-        "headline": "吉姆·克莱默 (Jim Cramer) 谈到特斯拉公司（纳斯达克股票代码：TSLA）时表示，相信埃隆·马斯克 (Elon Musk)",
+        "headline": "吉姆·克莱默 (Jim Cramer) 谈到特斯拉 (NASDAQ:TSLA) 时表示相信埃隆·马斯克 (Elon Musk)",
         "url": "https://finnhub.io/api/news?id=24ce9fc6fb810882afccd5ee9ffb0e2a4eade4521761f22151e1a6886598568f",
         "datetime": 1785552090,
         "source": "Yahoo"
@@ -1216,18 +1234,6 @@
         "headline": "吉姆·克莱默 (Jim Cramer) 承认是时候谈论太空探索技术公司 (NASDAQ: SPCX)",
         "url": "https://finnhub.io/api/news?id=62e56f88a8eca40d7b86bbb622e49f206f4866ae3d89476d250cba0073c19bbe",
         "datetime": 1785552060,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "由于投资者希望稍微转向芯片和人工智能，保险 ETF 成为 7 月份防御性板块图表中的佼佼者",
-        "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06",
-        "datetime": 1785546939,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "市场议论：据彭博社报道，马斯克的财富跌至 SpaceX IPO 之前的水平以下",
-        "url": "https://finnhub.io/api/news?id=ab4d5017994719e9914091208a618f435f1ea49891d926c6cb7c262772aa7a84",
-        "datetime": 1785535761,
         "source": "Yahoo"
       }
     ],
