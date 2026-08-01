@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T23:03:01.795Z",
+  "updated_at": "2026-08-01T02:02:53.257Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62892,
-      "change_pct": -2.94
+      "price": 62914,
+      "change_pct": -2.44
     },
     {
       "symbol": "ETH",
-      "price": 1859.98,
-      "change_pct": -3.34
+      "price": 1865.08,
+      "change_pct": -2.28
     },
     {
       "symbol": "SOL",
-      "price": 72.79,
-      "change_pct": -2.53
+      "price": 72.97,
+      "change_pct": -1.87
     },
     {
       "symbol": "HYPE",
-      "price": 52.47,
-      "change_pct": -6.23
+      "price": 52.51,
+      "change_pct": -5.54
     },
     {
       "symbol": "ZEC",
-      "price": 455.49,
-      "change_pct": -3.74
+      "price": 461.05,
+      "change_pct": -1.11
     },
     {
       "symbol": "TAO",
-      "price": 193.49,
-      "change_pct": 0.41
+      "price": 195.43,
+      "change_pct": 0.31
     },
     {
       "symbol": "SKY",
-      "price": 1309.08,
-      "change_pct": -1.6
+      "price": 1315.12,
+      "change_pct": -1.69
     },
     {
       "symbol": "AAVE",
-      "price": 93.22,
-      "change_pct": -6.29
+      "price": 93.1,
+      "change_pct": -6.73
     },
     {
       "symbol": "BNB",
-      "price": 586.29,
-      "change_pct": -1
+      "price": 589.43,
+      "change_pct": 0.03
     },
     {
       "symbol": "NEAR",
-      "price": 1.66,
-      "change_pct": -1.59
+      "price": 1.68,
+      "change_pct": 0.96
     },
     {
       "symbol": "DOGE",
-      "price": 0.069559,
-      "change_pct": -1.49
+      "price": 0.070068,
+      "change_pct": -0.2
     },
     {
       "symbol": "SPACEX",
-      "price": 420.55,
-      "change_pct": -1.39
+      "price": 437.73,
+      "change_pct": 0.85
     }
   ],
   "earnings": {
@@ -564,7 +564,7 @@
       "related": ""
     },
     {
-      "headline": "前 FTX 用户报告称资金已在 9 亿美元的分配轮中释放",
+      "headline": "前 FTX 用户报告资金已在 9 亿美元的分配轮中释放",
       "summary": "这家早已不复存在的加密货币交易所的几位用户报告称，分销代理已开始发放资金，以偿还债权人 2022 年的部分损失。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -791,39 +791,39 @@
     }
   ],
   "btc_score": {
-    "score": 36.2,
+    "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 19.3,
+    "daily_score": 16.1,
     "weekly_score": 16.9,
-    "btc_price": 62957.1,
-    "fear_greed": 38,
+    "btc_price": 62983.5,
+    "fear_greed": 34,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 233100000,
-        "score": 65,
+        "value": -142700000,
+        "score": 41,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.005144,
-        "score": 48,
+        "value": 0.003832,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.21,
+        "value": 2.22,
         "score": 100,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 38,
-        "score": 38,
+        "value": 34,
+        "score": 34,
         "weight": 7,
         "group": "daily"
       },
@@ -871,22 +871,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.02,
-        "score": 17,
+        "value": 0.99,
+        "score": 16,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 33.8,
+        "value": 33.9,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -80.1,
-        "score": 23,
+        "value": -76.7,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -895,7 +895,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 47
+      "days_until": 46
     },
     "schedule": [
       "2025-01-29",
@@ -1004,35 +1004,35 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 574,
-        "retweets": 24
+        "likes": 815,
+        "retweets": 43
       },
       {
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 342,
+        "likes": 344,
         "retweets": 15
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 520,
+        "likes": 521,
         "retweets": 30
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1037,
+        "likes": 1039,
         "retweets": 83
       },
       {
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
         "url": "https://x.com/cburniske/status/2067055472113561851",
         "time": "Wed Jun 17 01:23:23 +0000 2026",
-        "likes": 946,
+        "likes": 947,
         "retweets": 55
       }
     ],
@@ -1061,39 +1061,39 @@
     ],
     "saylor": [
       {
+        "text": "https://t.co/n4bp4tIiZ5",
+        "url": "https://x.com/saylor/status/2083342249635483939",
+        "time": "Sat Aug 01 00:01:13 +0000 2026",
+        "likes": 164,
+        "retweets": 5
+      },
+      {
+        "text": "Stretch Dividend Rate maintained at 12.00% for August 2026. $STRC https://t.co/HaBpi2vEJa",
+        "url": "https://x.com/saylor/status/2083342244250014180",
+        "time": "Sat Aug 01 00:01:12 +0000 2026",
+        "likes": 1134,
+        "retweets": 75
+      },
+      {
         "text": "I support advancing the CLARITY Act through bipartisan work to establish clear, durable rules, protect property rights, promote innovation, and strengthen American capital markets. Bitcoin will succeed with or without legislation, but America needs clarity for digital assets.",
         "url": "https://x.com/saylor/status/2083288999192359239",
         "time": "Fri Jul 31 20:29:37 +0000 2026",
-        "likes": 5336,
-        "retweets": 629
+        "likes": 6882,
+        "retweets": 805
       },
       {
         "text": "The slides behind our Q2 earnings call: Strategy’s balance sheet, Bitcoin KPIs, active capital management, the path to par for $STRC, and the long-term opportunity for $MSTR. https://t.co/vKWGcOf3pa",
         "url": "https://x.com/saylor/status/2083192868613554454",
         "time": "Fri Jul 31 14:07:38 +0000 2026",
-        "likes": 181,
+        "likes": 193,
         "retweets": 14
       },
       {
         "text": "How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share?\n\nIn our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered questions from equity https://t.co/4Cz0Vzv9yS",
         "url": "https://x.com/saylor/status/2083192865035817066",
         "time": "Fri Jul 31 14:07:37 +0000 2026",
-        "likes": 2619,
-        "retweets": 281
-      },
-      {
-        "text": "Strategy announces Q2 2026 results:\n- Increased $BTC Holdings by 11%\n- Reduced Convertible Debt by 18%\n- Increased USD Reserve by 12%\n- Increased BPS by 5%\nhttps://t.co/2hQp4Rvhji",
-        "url": "https://x.com/saylor/status/2082920028484018528",
-        "time": "Thu Jul 30 20:03:28 +0000 2026",
-        "likes": 6627,
-        "retweets": 643
-      },
-      {
-        "text": "Join us today at 5 PM ET for our Q2 2026 earnings call. We’ll discuss the $BTC outlook, our plans for $MSTR and $STRC, plus a live Q&amp;A with Lyn Alden (@LynAldenContact), Matt Hougan (@Matt_Hougan), Samson Mow (@Excellion), and James Van Straten (@btcjvs).https://t.co/QqVtUM2RJR",
-        "url": "https://x.com/saylor/status/2082894285406425255",
-        "time": "Thu Jul 30 18:21:10 +0000 2026",
-        "likes": 1881,
-        "retweets": 201
+        "likes": 2806,
+        "retweets": 306
       }
     ],
     "viktorfischer": [
@@ -1108,7 +1108,7 @@
         "text": "Whoa base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf fair value $38 would mean 3x from here...",
         "url": "https://x.com/viktorfischer/status/2082877049312567682",
         "time": "Thu Jul 30 17:12:41 +0000 2026",
-        "likes": 2,
+        "likes": 3,
         "retweets": 0
       },
       {
@@ -1129,7 +1129,7 @@
         "text": "AI usage grows exponentially because we all need AI to read what everyone else wrote with AI",
         "url": "https://x.com/viktorfischer/status/2082234962418294807",
         "time": "Tue Jul 28 22:41:15 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 0
       }
     ]
@@ -1137,33 +1137,33 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么 CareDx 股票今天上涨",
-        "url": "https://finnhub.io/api/news?id=c36158965215c0887cfc3e3c07e23830886d2225bc7412f8534889889290e104",
-        "datetime": 1785534263,
+        "headline": "为什么 Forum Energy Technologies 股票周五上涨近 22%",
+        "url": "https://finnhub.io/api/news?id=a1c86b29761ff285f5eb2ff581bd38adfa4405075c4c3c05e2f84f79e9c9eae3",
+        "datetime": 1785541007,
         "source": "Yahoo"
       },
       {
-        "headline": "美联储主席凯文·沃什表现鹰派，但也可能表现出鸽派态度",
-        "url": "https://finnhub.io/api/news?id=f0290f9877eda30e842cdf85f35b089a1898a8f866b7cc4e6c9e3025bd5a73b1",
-        "datetime": 1785534060,
+        "headline": "没有人谈论它，但这项业务可以使 Nvidia 成为一家价值 10 万亿美元的公司",
+        "url": "https://finnhub.io/api/news?id=019ddb75bb67d2fb9b212f180ba9f31884fc49db679bcdfac2cac2c8e5128be7",
+        "datetime": 1785540000,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能贸易是“感知与现实”的结合：布拉德利·图斯克",
-        "url": "https://finnhub.io/api/news?id=09e3189c56b73156f3de9367010e2ff997c7c28bc8513b44413117469505f22b",
-        "datetime": 1785532896,
+        "headline": "为什么 Bancorp 股票周五跑赢市场",
+        "url": "https://finnhub.io/api/news?id=137be036d7af6dd43f76ab60636db942e877b06ca3a13f8cfd6064af6eef00af",
+        "datetime": 1785539290,
         "source": "Yahoo"
       },
       {
-        "headline": "关键试验失败后诺和诺德股价暴跌。投资者应该逢低买入吗？",
-        "url": "https://finnhub.io/api/news?id=c53c9a315e7e91efc64054f7d6933231ea7c275384820cddc7972a046ecf7309",
-        "datetime": 1785532501,
+        "headline": "卡特彼勒将在很长一段时间内仍然是重要的人工智能股票",
+        "url": "https://finnhub.io/api/news?id=d3081e2ccfe06d9e994d6e286a3771d9281e3af97adbb962e7623ac82e4f1b64",
+        "datetime": 1785538620,
         "source": "Yahoo"
       },
       {
-        "headline": "Coinbase 刚刚占据全球加密货币交易量的 10.3%，创下历史新高。该公司仍连续第三个季度亏损。",
-        "url": "https://finnhub.io/api/news?id=45fd172bcfeffa3ef70a107880f8deb1d925e31b54604f9bb1bd91af5a48e81d",
-        "datetime": 1785532380,
+        "headline": "为什么 SPS Commerce 股票周五大跌",
+        "url": "https://finnhub.io/api/news?id=ac2637e683a15c7b1c21b1a1749562ca29cc6776d6ea47e6e47ba527de80b47e",
+        "datetime": 1785536062,
         "source": "Yahoo"
       }
     ],
@@ -1172,6 +1172,12 @@
         "headline": "人工智能货币化乐观情绪推动标准普尔 500 指数每周上涨",
         "url": "https://finnhub.io/api/news?id=e4cb926bf0be07df6b11b28b6d49b9290ff6b95a6d81b8dfb9063c26a93be0aa",
         "datetime": 1785530714,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "IBM悄然扫清了专家质疑的量子计算障碍",
+        "url": "https://finnhub.io/api/news?id=284c071a9675b2faf9193d36dfc67cc05614c38010bae7cc586e764f7e109dd3",
+        "datetime": 1785528420,
         "source": "Yahoo"
       },
       {
@@ -1191,15 +1197,15 @@
         "url": "https://finnhub.io/api/news?id=fca8f9802556c6f73a9695f96197b07d1559f725c15f2969e83a05f6a98850e4",
         "datetime": 1785526791,
         "source": "Yahoo"
-      },
-      {
-        "headline": "为什么美光科技股价今天上涨和下跌",
-        "url": "https://finnhub.io/api/news?id=288340d72ce559a83c424e66ba2075fc9eb9ac82f341742c03585ce7c4239da2",
-        "datetime": 1785526233,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "市场议论：据彭博社报道，马斯克的财富跌至 SpaceX IPO 之前的水平以下",
+        "url": "https://finnhub.io/api/news?id=ab4d5017994719e9914091208a618f435f1ea49891d926c6cb7c262772aa7a84",
+        "datetime": 1785535761,
+        "source": "Yahoo"
+      },
       {
         "headline": "今日股市，7 月 31 日：Rivian 超出第二季度收入预期，因成本上升的担忧令股价承压",
         "url": "https://finnhub.io/api/news?id=788d1070d04dbf7c78c9f511bf9314021e8eb617a22625c7aa43d538d5e3fc28",
@@ -1222,12 +1228,6 @@
         "headline": "马斯克否认中国分裂报告，特斯拉股价下跌 1.8%",
         "url": "https://finnhub.io/api/news?id=9f84308897a7b2ffbf98529eabf1d48a7651357b738cad973cee5aca4fd29448",
         "datetime": 1785528875,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 将发布第一份收益报告：投资者在寻找什么",
-        "url": "https://finnhub.io/api/news?id=d8f6cab6785966b541ad94c327c1039ee54e9a060f917eea965b2c0ef7ff36bf",
-        "datetime": 1785528300,
         "source": "Yahoo"
       }
     ],
@@ -1297,7 +1297,7 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "比特币、以太币下跌，股市上涨，加密货币市场有望创一年来最佳月份",
+        "headline": "比特币、以太坊下跌，股市上涨，加密货币市场有望创一年来最佳月份",
         "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
         "datetime": 1785496072,
         "source": "CoinDesk"
@@ -1365,7 +1365,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "仅使用狗的照片来描述你的星期一过得怎么样",
+        "headline": "仅使用狗的照片来描述你的星期一过得如何",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
         "source": "@dogecoin"
@@ -1407,7 +1407,7 @@
         "source": "@NEARProtocol"
       },
       {
-        "headline": "NEAR 联合创始人 @ilblackdragon 发表了新帖子，阐述了为什么在 AI 前沿进行调整行不通。 \n\n伊利亚涵盖： \n\n-完整AI堆栈的可验证性+形式验证\n-开源评估系统\n-",
+        "headline": "NEAR 联合创始人 @ilblackdragon 发布了新帖子，阐述了为什么在 AI 前沿进行调整行不通。 \n\n伊利亚涵盖： \n\n-完整AI堆栈的可验证性+形式验证\n-开源评估系统\n-",
         "url": "https://x.com/NEARProtocol/status/2083253742212727140",
         "datetime": 1785521371,
         "source": "@NEARProtocol"
