@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T16:51:52.510Z",
+  "updated_at": "2026-08-02T17:56:25.433Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,62 +65,62 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63157,
-      "change_pct": 0.4
+      "price": 63256,
+      "change_pct": 0.97
     },
     {
       "symbol": "ETH",
-      "price": 1862.94,
-      "change_pct": -0.26
+      "price": 1867.83,
+      "change_pct": 0.43
     },
     {
       "symbol": "SOL",
-      "price": 73.17,
-      "change_pct": 0.56
+      "price": 73.29,
+      "change_pct": 2.02
     },
     {
       "symbol": "HYPE",
-      "price": 52.35,
-      "change_pct": -0.46
+      "price": 52.26,
+      "change_pct": 0.17
     },
     {
       "symbol": "ZEC",
-      "price": 472.42,
-      "change_pct": -0.05
+      "price": 471.04,
+      "change_pct": 0.94
     },
     {
       "symbol": "TAO",
-      "price": 192.42,
-      "change_pct": -0.19
+      "price": 192.46,
+      "change_pct": 0.41
     },
     {
       "symbol": "SKY",
-      "price": 1298.07,
-      "change_pct": 0.1
+      "price": 1296.16,
+      "change_pct": 0.57
     },
     {
       "symbol": "AAVE",
-      "price": 92.15,
-      "change_pct": 0.29
+      "price": 92.32,
+      "change_pct": 1.11
     },
     {
       "symbol": "BNB",
-      "price": 588.03,
-      "change_pct": 1.79
+      "price": 587.27,
+      "change_pct": 1.87
     },
     {
       "symbol": "NEAR",
       "price": 1.7,
-      "change_pct": 1.06
+      "change_pct": 2.39
     },
     {
       "symbol": "DOGE",
-      "price": 0.070389,
-      "change_pct": 0.56
+      "price": 0.070575,
+      "change_pct": 1.62
     },
     {
       "symbol": "SPACEX",
-      "price": 422.11,
+      "price": 422.12,
       "change_pct": -0.11
     }
   ],
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "为什么 DeFi 平台放弃其消费者应用程序而成为科技巨头的秘密后端",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "datetime": 1785690000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "库币成为阿联酋阿联酋车队官方合作伙伴——XRG首次亮相环法自行车赛",
       "summary": "特克斯和凯科斯群岛普罗维登西亚莱斯岛，2026 年 7 月 7 日 /美通社/ — 全球领先的加密货币交易所 KuCoin 今天宣布与世界顶级职业自行车队之一阿联酋酋长队 – XRG 建立正式合作伙伴关系。这一具有里程碑意义的合作将盛大公开",
       "source": "Cryptocurrency News",
@@ -733,15 +742,6 @@
       "datetime": 1785568987,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "彭博社推迟将印度债券纳入其全球指数",
-      "summary": "彭博社推迟将印度债券纳入其全球指数，这令交易员感到失望，并引发了债券市场的预期抛售。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/bloomberg-defers-inclusion-of-indian-bonds-in-global-index-ms8wqbxp",
-      "datetime": 1785564914,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30,
-    "level": "恐慌",
-    "suggestion": "市场低估，适合分批建仓或加仓",
+    "score": 30.1,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15,
-    "weekly_score": 15,
-    "btc_price": 63196.9,
+    "weekly_score": 15.1,
+    "btc_price": 63309.3,
     "fear_greed": 32,
     "indicators": [
       {
@@ -808,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008248,
+        "value": 0.008835,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.98,
-        "score": 99,
+        "value": 2,
+        "score": 100,
         "weight": 5,
         "group": "daily"
       },
@@ -878,14 +878,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 31.6,
-        "score": 19,
+        "value": 31.8,
+        "score": 20,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -98.8,
+        "value": -97.7,
         "score": 18,
         "weight": 4,
         "group": "weekly"
@@ -1064,35 +1064,35 @@
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 6895,
-        "retweets": 646
+        "likes": 7553,
+        "retweets": 713
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 466,
+        "likes": 469,
         "retweets": 30
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3604,
-        "retweets": 309
+        "likes": 3649,
+        "retweets": 317
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 578,
+        "likes": 582,
         "retweets": 34
       },
       {
         "text": "Before block 961,632, BIP-110 signaling is voluntary. From blocks 961,632–963,647, its software rejects every non-signaling block. Any “100% signaling” shown during that window reflects the rule, not voluntary miner support or Bitcoin consensus.",
         "url": "https://x.com/saylor/status/2083544127795294231",
         "time": "Sat Aug 01 13:23:25 +0000 2026",
-        "likes": 566,
+        "likes": 568,
         "retweets": 32
       }
     ],
@@ -1207,7 +1207,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "银行通过异国情调的“崩盘”来减轻杠杆ETF的风险",
+        "headline": "银行通过奇异的“崩盘”来减轻杠杆ETF的风险",
         "url": "https://finnhub.io/api/news?id=593212784647f86939eb2316e4f0aad193dabc87a6722b3c6bc5c6f6d1e0317b",
         "datetime": 1785668400,
         "source": "Yahoo"
@@ -1319,6 +1319,12 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "本周：Solana ETP 登陆纽约证券交易所，韩国支付网络让 33 万多家商家更接近稳定币结算，Solana 区块增大了 66%，6500 万年前的三角龙头骨即将出现",
+        "url": "https://x.com/solana/status/2083971295373631986",
+        "datetime": 1785692449,
+        "source": "@solana"
+      },
+      {
         "headline": "",
         "url": "https://x.com/solana/status/2083813634803961919",
         "datetime": 1785654860,
@@ -1328,12 +1334,6 @@
         "headline": "更快、更便宜、更大。 \n\nAgave 4.2 即将推出。",
         "url": "https://x.com/solana/status/2083737866673467637",
         "datetime": 1785636796,
-        "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2083502069105803750",
-        "datetime": 1785580577,
         "source": "@solana"
       }
     ],
