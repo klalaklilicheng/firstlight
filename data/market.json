@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:04:42.533Z",
+  "updated_at": "2026-08-02T14:55:49.898Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63081,
-      "change_pct": 0.05
+      "price": 63035,
+      "change_pct": -0.01
     },
     {
       "symbol": "ETH",
-      "price": 1855.61,
-      "change_pct": -0.63
+      "price": 1854.82,
+      "change_pct": -0.85
     },
     {
       "symbol": "SOL",
-      "price": 72.88,
-      "change_pct": 0
+      "price": 73.06,
+      "change_pct": 0.22
     },
     {
       "symbol": "HYPE",
-      "price": 51.48,
-      "change_pct": -1.38
+      "price": 51.42,
+      "change_pct": -1.74
     },
     {
       "symbol": "ZEC",
-      "price": 474.23,
-      "change_pct": 1.7
+      "price": 471.88,
+      "change_pct": 0.16
     },
     {
       "symbol": "TAO",
-      "price": 192.65,
-      "change_pct": -0.88
+      "price": 192.8,
+      "change_pct": -0.06
     },
     {
       "symbol": "SKY",
-      "price": 1291.9,
-      "change_pct": -0.07
+      "price": 1294.59,
+      "change_pct": -0.01
     },
     {
       "symbol": "AAVE",
-      "price": 90.94,
-      "change_pct": -0.45
+      "price": 91.39,
+      "change_pct": -0.81
     },
     {
       "symbol": "BNB",
-      "price": 581.29,
-      "change_pct": 0.66
+      "price": 583.96,
+      "change_pct": 1
     },
     {
       "symbol": "NEAR",
       "price": 1.7,
-      "change_pct": 1.67
+      "change_pct": 1.22
     },
     {
       "symbol": "DOGE",
-      "price": 0.070004,
-      "change_pct": 0.16
+      "price": 0.070366,
+      "change_pct": 0.48
     },
     {
       "symbol": "SPACEX",
-      "price": 423.26,
-      "change_pct": 2.97
+      "price": 422.25,
+      "change_pct": -0.08
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "反向桥梁：加密货币与华尔街利用perps相遇",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "datetime": 1785675600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "专栏：美国在人工智能领域对中国的领先地位几乎消失了",
       "summary": "近年来人工智能争论的焦点是美国是否能够制定一项能够保持对中国优势的战略。答案看起来并不乐观。",
       "source": "CNBC",
@@ -610,7 +619,7 @@
     },
     {
       "headline": "Crypto PAC 又向密歇根州众议院竞选投入 100 万美元",
-      "summary": "密歇根州现任议员 Shri Thanedar 与其他民主党候选人的连任竞选通过由行业联盟 PAC 资助的广告注入更多关于加密货币的信息。",
+      "summary": "密歇根州现任议员 Shri Thanedar 与其他民主党候选人的连任竞选通过由行业联盟 PAC 资助的广告注入更多关于加密货币的内容。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1785599042,
@@ -733,15 +742,6 @@
       "datetime": 1785558774,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "印度企业计划新一轮涨价，测试通胀前景",
-      "summary": "由于食品和燃料成本攀升，6 月份消费者价格上涨，近一年半以来首次超过印度储备银行 4% 的目标",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
-      "datetime": 1785558434,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.6,
+    "score": 30.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.8,
+    "daily_score": 14.9,
     "weekly_score": 15.8,
-    "btc_price": 63119.2,
+    "btc_price": 63070.4,
     "fear_greed": 32,
     "indicators": [
       {
@@ -808,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009263,
-        "score": 50,
+        "value": 0.008141,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.92,
-        "score": 95,
+        "value": 1.95,
+        "score": 97,
         "weight": 5,
         "group": "daily"
       },
@@ -878,14 +878,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34,
+        "value": 33.9,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -62.1,
+        "value": -60.2,
         "score": 28,
         "weight": 4,
         "group": "weekly"
@@ -1004,7 +1004,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1348,
+        "likes": 1354,
         "retweets": 69
       },
       {
@@ -1064,35 +1064,35 @@
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 1714,
-        "retweets": 177
+        "likes": 5164,
+        "retweets": 489
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 449,
-        "retweets": 29
+        "likes": 458,
+        "retweets": 30
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3334,
-        "retweets": 285
+        "likes": 3469,
+        "retweets": 301
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 557,
-        "retweets": 31
+        "likes": 567,
+        "retweets": 33
       },
       {
         "text": "Before block 961,632, BIP-110 signaling is voluntary. From blocks 961,632–963,647, its software rejects every non-signaling block. Any “100% signaling” shown during that window reflects the rule, not voluntary miner support or Bitcoin consensus.",
         "url": "https://x.com/saylor/status/2083544127795294231",
         "time": "Sat Aug 01 13:23:25 +0000 2026",
-        "likes": 553,
+        "likes": 562,
         "retweets": 30
       }
     ],
@@ -1137,37 +1137,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "沃伦·巴菲特 (Warren Buffett) 放弃这只股票已超过 7 年。格雷格·阿贝尔可能不会再等了。",
-        "url": "https://finnhub.io/api/news?id=74c8e87e43806f57beb4d4cc80b3a20dc53e55f804cd98ee27415c7c067881bb",
-        "datetime": 1785671100,
+        "headline": "微软与元平台：现在更值得购买的七大股票是哪一个？",
+        "url": "https://finnhub.io/api/news?id=da7090d455e47b100e2fce8eb087df4515660312fc7625283bceca6d8b7200e2",
+        "datetime": 1785678180,
         "source": "Yahoo"
       },
       {
-        "headline": "黄仁勋 (Jensen Huang) 预测 Nvidia 到 2027 年的芯片销售额将达到 1 万亿美元。Nvidia 还在保持步伐吗？",
-        "url": "https://finnhub.io/api/news?id=3bd0ad6b8c96483aa094414ad41f6686a1016542066ca14619ebb83037167e3d",
-        "datetime": 1785670800,
+        "headline": "您的退休倒计时 12 个月：需要采取的 5 个关键举措。",
+        "url": "https://finnhub.io/api/news?id=8b558d5d43939c26a667e9537068c2759344ae4b3bee61b7b2cddeabddd3d6a8",
+        "datetime": 1785677880,
         "source": "Yahoo"
       },
       {
-        "headline": "Blue Owl 的 BDC 已将基本股息削减至 0.31 美元。这是休息报告中值得关注的内容。",
-        "url": "https://finnhub.io/api/news?id=3df30adcd9074ad80d63d6fce8325b2a83129949d9100428d48885bc453321ba",
-        "datetime": 1785670500,
+        "headline": "预测：西部数据将在 Sandisk 恢复正常之前恢复其高点。",
+        "url": "https://finnhub.io/api/news?id=37c5d1f2e5144c89aaf3289e57f8c73524c716ecba97dab132dc81ad698d727b",
+        "datetime": 1785677640,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia 的 2025 年和 2026 年 AI 芯片订单总额达 5000 亿美元，投资者可以追踪积压订单以了解未来收入",
-        "url": "https://finnhub.io/api/news?id=7366085028f6307ca0d7ebe90e466ee540a9b6b30954101958de1d7082633df2",
-        "datetime": 1785669000,
+        "headline": "4 家未受关注且看起来像是八月份买入的工业股息增长股",
+        "url": "https://finnhub.io/api/news?id=e6d8447a0a0afe070979ffbf9a7fe9706491e1635fd64135e9b7aee932a6eee6",
+        "datetime": 1785677407,
         "source": "Yahoo"
       },
       {
-        "headline": "自 1871 年以来，股市发生的事情仅出现过 6 次，而前 5 次都以华尔街的灾难告终",
-        "url": "https://finnhub.io/api/news?id=1a859250b43865f7b44e204f0d2630b500dad92621494310c8ac9dc53ffdd625",
-        "datetime": 1785668160,
+        "headline": "债券市场刚刚称美联储主席凯文·沃什在利率问题上虚张声势",
+        "url": "https://finnhub.io/api/news?id=45c4b78e35159057489ba4e998cce432cb98d3c28a27417919e9f6ff5e22b2f5",
+        "datetime": 1785677160,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "伯克希尔·哈撒韦公司（BRK.B）向格雷格·阿贝尔提供继巴菲特之后的现金手册",
+        "url": "https://finnhub.io/api/news?id=27a685e933c30d0d72f348324b407b6807d84399b832f1b5b77c95c135e6b989",
+        "datetime": 1785676142,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "IonQ 与 Alphabet：量子计算芯片制造商和人工智能巨头的收入趋势揭示了什么",
+        "url": "https://finnhub.io/api/news?id=757e0ebf33cf2dd242599140c02de0f1ac0532ee87cf3c6283fb6e3d97cb39b6",
+        "datetime": 1785673501,
+        "source": "Yahoo"
+      },
       {
         "headline": "这是我 8 月份最值得购买的 3 只人工智能 (AI) 股票",
         "url": "https://finnhub.io/api/news?id=f7b7d2614829f459ba5e7737ad04dc3c9e53640949c05b1044512f4d29f9e24c",
@@ -1185,21 +1197,21 @@
         "url": "https://finnhub.io/api/news?id=2dfc731a253f0f6510b921f41bf7635382fb7e17c71d064458b6927692f26023",
         "datetime": 1785639935,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nvidia 与 Alphabet：收入趋势告诉投资者有关这些人工智能公司的哪些信息？",
-        "url": "https://finnhub.io/api/news?id=96e365fac0c2d3275358c1ea770c61031180856ccf2e1b77ac43bdf2acd942c0",
-        "datetime": 1785633901,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Reddit 股价暴跌，首席执行官表示 Google 搜索推荐“不稳定”，促使用户使用其应用程序",
-        "url": "https://finnhub.io/api/news?id=c0752daf978d5d852fe73fdc9ee57818a0d350567bff836bd99ddd878d6dffe9",
-        "datetime": 1785616215,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉和比亚迪乘搭全球电动汽车热潮——随着汽油价格飙升，五个国家的增长超过一倍",
+        "url": "https://finnhub.io/api/news?id=7561816aae6ca987ed146f1b477833c00a9225a54d11b1b2e9a2d4801b66937b",
+        "datetime": 1785673830,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "银行通过异国情调的“崩盘”来减轻杠杆ETF的风险",
+        "url": "https://finnhub.io/api/news?id=593212784647f86939eb2316e4f0aad193dabc87a6722b3c6bc5c6f6d1e0317b",
+        "datetime": 1785668400,
+        "source": "Yahoo"
+      },
       {
         "headline": "SpaceX 合并传闻引起关注，特斯拉 (TSLA) 探索中国分拆",
         "url": "https://finnhub.io/api/news?id=5bd92a491deaf95e8f0d6d0bb91d06423972d6735156ceb1d440e72ffafe6803",
@@ -1217,18 +1229,6 @@
         "url": "https://finnhub.io/api/news?id=4c36f48ecfe6b4c9140a55d9d9f0f8f9e810a87611cf56b3397d39789ceb650f",
         "datetime": 1785626096,
         "source": "Yahoo"
-      },
-      {
-        "headline": "随着华尔街变得谨慎，凯西·伍德 (Cathie Wood) 加倍押注特斯拉和 SpaceX",
-        "url": "https://finnhub.io/api/news?id=7c432e4bde4e2f5481a005a959807a3e37431c31fbb4310e3ac8367e28a40777",
-        "datetime": 1785607908,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉与 SpaceX 合并传闻让埃隆·马斯克的净资产缩水近 7000 亿美元",
-        "url": "https://finnhub.io/api/news?id=5b675b85b97d234d924486908115987ea485aa1a2a78d53ca94ad9426fe3d487",
-        "datetime": 1785598579,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1365,7 +1365,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "仅使用狗的照片来描述你的星期一过得如何",
+        "headline": "仅使用狗的照片来描述你的星期一过得怎么样",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
         "source": "@dogecoin"
