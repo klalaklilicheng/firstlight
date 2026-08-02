@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T10:27:51.272Z",
+  "updated_at": "2026-08-02T11:56:25.773Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63098,
-      "change_pct": 0.18
+      "price": 63008,
+      "change_pct": -0.02
     },
     {
       "symbol": "ETH",
-      "price": 1864.98,
-      "change_pct": 0.07
+      "price": 1850.69,
+      "change_pct": -0.76
     },
     {
       "symbol": "SOL",
-      "price": 73.12,
-      "change_pct": 0.46
+      "price": 73,
+      "change_pct": 0.23
     },
     {
       "symbol": "HYPE",
-      "price": 51.28,
-      "change_pct": -1.6
+      "price": 51.4,
+      "change_pct": -1.02
     },
     {
       "symbol": "ZEC",
-      "price": 473.23,
-      "change_pct": 2.12
+      "price": 469.78,
+      "change_pct": 1.25
     },
     {
       "symbol": "TAO",
-      "price": 192.39,
-      "change_pct": -0.87
+      "price": 192.28,
+      "change_pct": -1.22
     },
     {
       "symbol": "SKY",
-      "price": 1299.26,
-      "change_pct": 0.95
+      "price": 1293.25,
+      "change_pct": 0.19
     },
     {
       "symbol": "AAVE",
-      "price": 92.13,
-      "change_pct": 1.69
+      "price": 91.97,
+      "change_pct": 0.7
     },
     {
       "symbol": "BNB",
-      "price": 582.56,
-      "change_pct": 0.08
+      "price": 581.67,
+      "change_pct": 0.3
     },
     {
       "symbol": "NEAR",
-      "price": 1.71,
-      "change_pct": 3.49
+      "price": 1.7,
+      "change_pct": 2.32
     },
     {
       "symbol": "DOGE",
-      "price": 0.069889,
-      "change_pct": 0.32
+      "price": 0.069964,
+      "change_pct": 0.26
     },
     {
       "symbol": "SPACEX",
-      "price": 423.21,
-      "change_pct": 1.78
+      "price": 423.25,
+      "change_pct": 1.79
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "BNB Chain 在前员工推出 memecoin 后采取法律行动",
+      "summary": "BNB Chain 表示，一名前员工涉嫌使用公司教程钱包创建了一种模因币，该公司表示并未授权或认可该模因币。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785669606,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "特朗普媒体又出售 2,628 BTC，持有量降至 4,261 BTC",
       "summary": "特朗普媒体又向 Crypto.com 转移了 2,628 比特币，使其七个月内报告的销售额达到 7,281 比特币，该公司持有 4,261 比特币。",
       "source": "Cointelegraph",
@@ -574,7 +583,7 @@
     },
     {
       "headline": "Crypto PAC 又向密歇根州众议院竞选投入 100 万美元",
-      "summary": "密歇根州现任议员 Shri Thanedar 与其他民主党候选人的连任竞选通过由行业联盟 PAC 资助的广告注入更多关于加密货币的信息。",
+      "summary": "密歇根州现任议员 Shri Thanedar 与其他民主党候选人的连任竞选通过由行业联盟 PAC 资助的广告注入更多关于加密货币的内容。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1785599042,
@@ -733,27 +742,12 @@
       "datetime": 1785525379,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "安迪·贾西（Andy Jassy）缓解了人们对亚马逊巨额人工智能支出的担忧。他是这样做的",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/31/andy-jassy-soothed-concerns-over-amazons-massive-ai-spending-heres-how-he-did-it-.html",
-      "datetime": 1785522860,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": [
-        {
-          "headline": "比特币和以太坊市场由perps统治。 SpaceX 展示了他们的影响力能走多远",
-          "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
-          "datetime": 1785402000
-        }
-      ]
+      "news": []
     },
     {
       "company": "Anthropic",
@@ -797,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.6,
+    "score": 30.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.8,
+    "daily_score": 14.7,
     "weekly_score": 15.8,
-    "btc_price": 63127.8,
+    "btc_price": 63055.7,
     "fear_greed": 32,
     "indicators": [
       {
@@ -814,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008209,
+        "value": 0.008701,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.92,
-        "score": 95,
+        "value": 1.91,
+        "score": 94,
         "weight": 5,
         "group": "daily"
       },
@@ -884,15 +878,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34,
+        "value": 33.9,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -64.1,
-        "score": 27,
+        "value": -63,
+        "score": 28,
         "weight": 4,
         "group": "weekly"
       }
@@ -1010,7 +1004,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1338,
+        "likes": 1343,
         "retweets": 69
       },
       {
@@ -1070,36 +1064,36 @@
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 436,
-        "retweets": 28
+        "likes": 444,
+        "retweets": 29
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3148,
-        "retweets": 268
+        "likes": 3244,
+        "retweets": 275
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 542,
+        "likes": 549,
         "retweets": 31
       },
       {
         "text": "Before block 961,632, BIP-110 signaling is voluntary. From blocks 961,632–963,647, its software rejects every non-signaling block. Any “100% signaling” shown during that window reflects the rule, not voluntary miner support or Bitcoin consensus.",
         "url": "https://x.com/saylor/status/2083544127795294231",
         "time": "Sat Aug 01 13:23:25 +0000 2026",
-        "likes": 546,
+        "likes": 551,
         "retweets": 30
       },
       {
         "text": "At block 960,561, BIP-110 has 24 signals in 946 blocks (2.54%). Every signal came from a DATUM miner sharing rewards through OCEAN. Signals outside OCEAN: 0. The 55% voluntary threshold is now mathematically unreachable this period. This is not miner consensus.",
         "url": "https://x.com/saylor/status/2083544124901253624",
         "time": "Sat Aug 01 13:23:24 +0000 2026",
-        "likes": 4861,
-        "retweets": 418
+        "likes": 4935,
+        "retweets": 429
       }
     ],
     "viktorfischer": [
@@ -1187,7 +1181,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "4 家超大规模企业，一条信息：人工智能贸易尚未结束",
+        "headline": "4 家超大规模企业，一条消息：人工智能贸易尚未结束",
         "url": "https://finnhub.io/api/news?id=2dfc731a253f0f6510b921f41bf7635382fb7e17c71d064458b6927692f26023",
         "datetime": 1785639935,
         "source": "SeekingAlpha"
@@ -1371,7 +1365,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "仅使用狗的照片来描述你的星期一过得如何",
+        "headline": "仅使用狗的照片来描述你的星期一过得怎么样",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
         "source": "@dogecoin"
@@ -1426,13 +1420,6 @@
       }
     ],
     "ZEC": [],
-    "SPACEX": [
-      {
-        "headline": "比特币和以太坊市场由perps统治。 SpaceX 展示了他们的影响力能走多远",
-        "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
-        "datetime": 1785402000,
-        "source": "CoinDesk"
-      }
-    ]
+    "SPACEX": []
   }
 }
