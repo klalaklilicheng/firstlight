@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:47:57.510Z",
+  "updated_at": "2026-08-02T23:52:33.290Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63453,
-      "change_pct": 1.05
-    },
-    {
-      "symbol": "ETH",
-      "price": 1883.18,
-      "change_pct": 2.01
-    },
-    {
-      "symbol": "SOL",
-      "price": 73.76,
-      "change_pct": 2.58
-    },
-    {
-      "symbol": "HYPE",
-      "price": 52.69,
+      "price": 63446,
       "change_pct": 1.08
     },
     {
+      "symbol": "ETH",
+      "price": 1882.65,
+      "change_pct": 2.13
+    },
+    {
+      "symbol": "SOL",
+      "price": 73.46,
+      "change_pct": 2.23
+    },
+    {
+      "symbol": "HYPE",
+      "price": 52.54,
+      "change_pct": 0.82
+    },
+    {
       "symbol": "ZEC",
-      "price": 488.52,
-      "change_pct": 5.75
+      "price": 487.3,
+      "change_pct": 5.57
     },
     {
       "symbol": "TAO",
-      "price": 192.65,
-      "change_pct": 0.02
+      "price": 192.18,
+      "change_pct": 0.04
     },
     {
       "symbol": "SKY",
-      "price": 1305.11,
-      "change_pct": 1.18
+      "price": 1304.14,
+      "change_pct": 1.11
     },
     {
       "symbol": "AAVE",
-      "price": 92.43,
-      "change_pct": 1.98
+      "price": 91.97,
+      "change_pct": 1.56
     },
     {
       "symbol": "BNB",
-      "price": 587.93,
-      "change_pct": 2.14
+      "price": 587.56,
+      "change_pct": 2.2
     },
     {
       "symbol": "NEAR",
       "price": 1.72,
-      "change_pct": 2.83
+      "change_pct": 2.42
     },
     {
       "symbol": "DOGE",
-      "price": 0.070835,
-      "change_pct": 2.6
+      "price": 0.070656,
+      "change_pct": 2.24
     },
     {
       "symbol": "SPACEX",
-      "price": 421.1,
-      "change_pct": 1.17
+      "price": 420.9,
+      "change_pct": 0.1
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "Coldcard 漏洞引发比特币飞行，“看涨”加密货币整合：Hodler’s Digest，8 月 2 日",
+      "summary": "由于距离参议院投票仅剩五天，《澄清法案》陷入停滞，9000 万美元的比特币从冷存储中“令人作呕”地损失，严重影响了市场情绪。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785714244,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "这是我在本财报季之后对四大超大规模企业的实力排名",
       "summary": "吉姆·克莱默 (Jim Cramer) 在周日专栏中解释了为什么亚马逊是他在第二季度财报季后最喜欢的超大规模运营商。",
       "source": "CNBC",
@@ -733,15 +742,6 @@
       "datetime": 1785579821,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Galaxy 分析后，Coldcard 比特币损失预估升至 7000 万美元",
-      "summary": "Galaxy Research 确定了 1,196 个地址在 41 分钟内丢失了 1,082.65 比特币，扩大了 Coldcard 钱包事件的估计范围。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785576236,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.2,
+    "score": 30.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15,
+    "daily_score": 14.9,
     "weekly_score": 15.2,
-    "btc_price": 63480,
+    "btc_price": 63523.8,
     "fear_greed": 32,
     "indicators": [
       {
@@ -815,8 +815,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.97,
-        "score": 98,
+        "value": 1.94,
+        "score": 96,
         "weight": 5,
         "group": "daily"
       },
@@ -885,8 +885,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -86.7,
-        "score": 21,
+        "value": -85.4,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1064,35 +1064,35 @@
         "text": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on https://t.co/uGbtzwJ4Pu. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. https://t.co/7IHrLcIoLI",
         "url": "https://x.com/saylor/status/2084045087818891762",
         "time": "Sun Aug 02 22:34:03 +0000 2026",
-        "likes": 469,
-        "retweets": 56
+        "likes": 1846,
+        "retweets": 178
       },
       {
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 9340,
-        "retweets": 884
+        "likes": 9576,
+        "retweets": 907
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 483,
+        "likes": 484,
         "retweets": 30
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3884,
-        "retweets": 334
+        "likes": 3912,
+        "retweets": 340
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 600,
+        "likes": 601,
         "retweets": 35
       }
     ],
@@ -1273,6 +1273,12 @@
     ],
     "BTC": [
       {
+        "headline": "Coldcard 漏洞引发比特币飞行，“看涨”加密货币整合：Hodler’s Digest，8 月 2 日",
+        "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785714244,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "与 FTX 崩溃不同，Coldcard 价值 8900 万美元的漏洞让投资者将比特币送回交易所",
         "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
         "datetime": 1785672231,
@@ -1295,12 +1301,6 @@
         "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
         "datetime": 1785599307,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Galaxy 分析后，Coldcard 比特币损失预估升至 7000 万美元",
-        "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785576236,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
