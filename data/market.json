@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:58:47.579Z",
+  "updated_at": "2026-08-02T20:09:40.715Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63331,
-      "change_pct": 1.36
+      "price": 63373,
+      "change_pct": 1.41
     },
     {
       "symbol": "ETH",
-      "price": 1874.38,
-      "change_pct": 2.27
+      "price": 1878.93,
+      "change_pct": 2.35
     },
     {
       "symbol": "SOL",
-      "price": 73.51,
-      "change_pct": 3.64
+      "price": 73.52,
+      "change_pct": 3.14
     },
     {
       "symbol": "HYPE",
-      "price": 52.54,
-      "change_pct": 1.11
+      "price": 52.68,
+      "change_pct": 1.23
     },
     {
       "symbol": "ZEC",
-      "price": 474.25,
-      "change_pct": 2.84
+      "price": 485.55,
+      "change_pct": 4.94
     },
     {
       "symbol": "TAO",
-      "price": 192.6,
-      "change_pct": 1.14
+      "price": 192.7,
+      "change_pct": 0.93
     },
     {
       "symbol": "SKY",
-      "price": 1301.4,
-      "change_pct": 1.82
+      "price": 1300.71,
+      "change_pct": 1.36
     },
     {
       "symbol": "AAVE",
       "price": 92.71,
-      "change_pct": 3.38
+      "change_pct": 2.98
     },
     {
       "symbol": "BNB",
-      "price": 588.89,
-      "change_pct": 2.3
+      "price": 588.36,
+      "change_pct": 2.29
     },
     {
       "symbol": "NEAR",
-      "price": 1.71,
-      "change_pct": 3.11
+      "price": 1.7,
+      "change_pct": 2.76
     },
     {
       "symbol": "DOGE",
-      "price": 0.070855,
-      "change_pct": 3.61
+      "price": 0.07062,
+      "change_pct": 3.2
     },
     {
       "symbol": "SPACEX",
-      "price": 422.1,
-      "change_pct": 0.45
+      "price": 421.97,
+      "change_pct": 0.42
     }
   ],
   "earnings": {
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.2,
+    "score": 30.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.1,
+    "daily_score": 15,
     "weekly_score": 15.1,
-    "btc_price": 63379,
+    "btc_price": 63442.2,
     "fear_greed": 32,
     "indicators": [
       {
@@ -815,8 +815,8 @@
       },
       {
         "name": "多空比",
-        "value": 2.01,
-        "score": 100,
+        "value": 1.99,
+        "score": 99,
         "weight": 5,
         "group": "daily"
       },
@@ -878,14 +878,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 32,
+        "value": 32.1,
         "score": 20,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -92,
+        "value": -91.2,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -1064,35 +1064,35 @@
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 8102,
-        "retweets": 778
+        "likes": 8630,
+        "retweets": 821
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 475,
+        "likes": 478,
         "retweets": 30
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3708,
-        "retweets": 324
+        "likes": 3762,
+        "retweets": 325
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 592,
+        "likes": 595,
         "retweets": 35
       },
       {
         "text": "Before block 961,632, BIP-110 signaling is voluntary. From blocks 961,632–963,647, its software rejects every non-signaling block. Any “100% signaling” shown during that window reflects the rule, not voluntary miner support or Bitcoin consensus.",
         "url": "https://x.com/saylor/status/2083544127795294231",
         "time": "Sat Aug 01 13:23:25 +0000 2026",
-        "likes": 570,
+        "likes": 575,
         "retweets": 32
       }
     ],
@@ -1207,7 +1207,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "银行通过异国情调的“崩盘”来减轻杠杆ETF的风险",
+        "headline": "银行通过奇异的“崩盘”来减轻杠杆ETF的风险",
         "url": "https://finnhub.io/api/news?id=593212784647f86939eb2316e4f0aad193dabc87a6722b3c6bc5c6f6d1e0317b",
         "datetime": 1785668400,
         "source": "Yahoo"
