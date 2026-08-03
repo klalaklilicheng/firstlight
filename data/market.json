@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:01:40.585Z",
+  "updated_at": "2026-08-03T06:13:06.247Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63148,
-      "change_pct": 0.34
+      "price": 62796,
+      "change_pct": -0.95
     },
     {
       "symbol": "ETH",
-      "price": 1865.49,
-      "change_pct": 0.54
+      "price": 1858.35,
+      "change_pct": -0.85
     },
     {
       "symbol": "SOL",
-      "price": 72.96,
-      "change_pct": 0.49
+      "price": 72.89,
+      "change_pct": -0.81
     },
     {
       "symbol": "HYPE",
-      "price": 52.53,
-      "change_pct": 0.25
-    },
-    {
-      "symbol": "ZEC",
-      "price": 479.51,
-      "change_pct": 2.58
-    },
-    {
-      "symbol": "TAO",
-      "price": 190.44,
-      "change_pct": -1.2
-    },
-    {
-      "symbol": "SKY",
-      "price": 1293.18,
-      "change_pct": -0.55
-    },
-    {
-      "symbol": "AAVE",
-      "price": 91.67,
+      "price": 52.61,
       "change_pct": 0.56
     },
     {
+      "symbol": "ZEC",
+      "price": 476.11,
+      "change_pct": 0.55
+    },
+    {
+      "symbol": "TAO",
+      "price": 190.92,
+      "change_pct": -1.85
+    },
+    {
+      "symbol": "SKY",
+      "price": 1290.4,
+      "change_pct": -1.41
+    },
+    {
+      "symbol": "AAVE",
+      "price": 91.92,
+      "change_pct": 0.03
+    },
+    {
       "symbol": "BNB",
-      "price": 583.82,
-      "change_pct": 1.18
+      "price": 582.68,
+      "change_pct": -0.14
     },
     {
       "symbol": "NEAR",
-      "price": 1.7,
-      "change_pct": -0.12
+      "price": 1.71,
+      "change_pct": -0.25
     },
     {
       "symbol": "DOGE",
-      "price": 0.07001,
-      "change_pct": 0.59
+      "price": 0.069726,
+      "change_pct": -0.84
     },
     {
       "symbol": "SPACEX",
-      "price": 436.55,
-      "change_pct": 3.67
+      "price": 423.31,
+      "change_pct": -0.04
     }
   ],
   "earnings": {
@@ -474,6 +474,51 @@
   },
   "news": [
     {
+      "headline": "在 1.65 亿美元的比特币转移后，特朗普媒体的比特币储备可能只剩下贷款抵押品",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+      "datetime": 1785736349,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Michael Saylor 的策略现在正在追踪比特币的 200 周移动平均线",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+      "datetime": 1785733669,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Kraken 安全主管：Coldcard 5 年缺陷揭示了硬件钱包测试差距",
+      "summary": "这个长达五年的错误没有被发现，因为审计人员验证了预期的随机数生成器存在，但没有验证它被调用。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785730184,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "报告称，6 月份韩国稳定币流出量突破 3.67 亿美元",
+      "summary": "随着监管机构考虑加强对跨境加密货币活动的监管，稳定币已连续 18 个月流出韩国交易所。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785729911,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "疑似第四次Coldcard攻击浪潮席卷389个比特币：银河之刺",
+      "summary": "Galaxy 研究主管 Alex Thorn 警告称，未经确认的交易可能会给一些 Coldcard 用户节省资金的机会。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785722260,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Coldcard 漏洞引发比特币飞行，“看涨”加密货币整合：Hodler’s Digest，8 月 2 日",
       "summary": "由于距离参议院投票仅剩五天，《澄清法案》陷入停滞，9000 万美元的比特币从冷存储中“令人作呕”地损失，严重影响了市场情绪。",
       "source": "Cointelegraph",
@@ -697,51 +742,6 @@
       "datetime": 1785599042,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "只看赔率是不够的。交易者如何在预测市场上获得优势",
-      "summary": "在预测市场上获得优势需要速度和技能，而不仅仅是阅读 Kalshi 和 Polymarket 等平台上的赔率。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
-      "datetime": 1785591844,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "每个人都有倒退的perps收敛",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
-      "datetime": 1785589200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Solana 基金会的新 CISO 警告人工智能正在使加密货币诈骗更具说服力",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
-      "datetime": 1785589200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "OpenAI 的 Hugging Face 黑客事件证实了数月来的人工智能网络警告：“潘多拉魔盒已打开”",
-      "summary": "行业专家齐聚黑帽这一大型网络安全会议，给网络行业敲响了警钟。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-      "datetime": 1785585601,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "俄罗斯将加密货币挖矿禁令扩大到莫斯科直至 2032 年",
-      "summary": "俄罗斯已将莫斯科、莫斯科地区和库尔斯克地区部分地区列入其加密货币采矿禁令名单，理由是这些限制背后的电力供应问题。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785579821,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.2,
+    "score": 30.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15,
-    "weekly_score": 15.2,
-    "btc_price": 63191.5,
+    "daily_score": 15.3,
+    "weekly_score": 15.4,
+    "btc_price": 62837.2,
     "fear_greed": 35,
     "indicators": [
       {
@@ -815,8 +815,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.92,
-        "score": 95,
+        "value": 2,
+        "score": 100,
         "weight": 5,
         "group": "daily"
       },
@@ -857,7 +857,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 84.3,
+        "value": 84.1,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -878,15 +878,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 31.6,
+        "value": 31.2,
         "score": 19,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -82.3,
-        "score": 22,
+        "value": -71.7,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1004,28 +1004,28 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1360,
+        "likes": 1363,
         "retweets": 71
       },
       {
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 350,
+        "likes": 351,
         "retweets": 16
       },
       {
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 530,
+        "likes": 531,
         "retweets": 30
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1044,
+        "likes": 1045,
         "retweets": 84
       },
       {
@@ -1064,35 +1064,35 @@
         "text": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on https://t.co/uGbtzwJ4Pu. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. https://t.co/7IHrLcIoLI",
         "url": "https://x.com/saylor/status/2084045087818891762",
         "time": "Sun Aug 02 22:34:03 +0000 2026",
-        "likes": 2767,
-        "retweets": 251
+        "likes": 3899,
+        "retweets": 352
       },
       {
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 9998,
-        "retweets": 947
+        "likes": 10458,
+        "retweets": 991
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 488,
-        "retweets": 31
+        "likes": 492,
+        "retweets": 33
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 3983,
-        "retweets": 344
+        "likes": 4081,
+        "retweets": 349
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 604,
+        "likes": 606,
         "retweets": 35
       }
     ],
@@ -1137,37 +1137,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么亨廷顿英格尔斯工业公司的股票上涨",
-        "url": "https://finnhub.io/api/news?id=dc27cc7ad3964161edc9841dde5831d948de7cddbc42ef5b4e83ac4f8c48205a",
-        "datetime": 1785713645,
+        "headline": "格雷格·阿贝尔正在将伯克希尔·哈撒韦公司的现金花在整个公司而不是股票上。以下是股东的变化。",
+        "url": "https://finnhub.io/api/news?id=802d56d8ff5bffc083ca8780b981c21f9dd70d375ae103ccca0b293651403f59",
+        "datetime": 1785735300,
         "source": "Yahoo"
       },
       {
-        "headline": "杰夫·贝佐斯 (Jeff Bezos) 支持一家价值 26 亿美元的人工智能初创公司，该公司与 Nvidia 和 Meta 合作开发新芯片材料",
-        "url": "https://finnhub.io/api/news?id=960b9ef5da5885a96bab13b5b0bca2add155a7feadce92b6f8900c5beb112337",
-        "datetime": 1785713580,
+        "headline": "Apple 的硬件已为设备端 AI 做好准备，PrismML 刚刚实现了真正的突破",
+        "url": "https://finnhub.io/api/news?id=eeac366f8282cc9cd5e16e291bd1220b7fcac9ab40d55b7c9a122d6b4cadf180",
+        "datetime": 1785732600,
         "source": "Yahoo"
       },
       {
-        "headline": "十年前对 Lam Research 投资 10,000 美元在今天值多少钱",
-        "url": "https://finnhub.io/api/news?id=6334b41e2a52dfb4d4730a73e40d1e18319bc485b14c309c24f78a145be2d37a",
-        "datetime": 1785711660,
+        "headline": "下跌 48%，甲骨文股票现在值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=16569998b0733203ba671367e36077475e40552edb7dfc85d7bcd6d4919f0138",
+        "datetime": 1785730800,
         "source": "Yahoo"
       },
       {
-        "headline": "随着保证金放松平息，值得买入的 3 只人工智能股票",
-        "url": "https://finnhub.io/api/news?id=c7ec1a42bda3a4206d48a4d80a075d3fddf420c255b0912d322734c3e46426b7",
-        "datetime": 1785711000,
+        "headline": "债券市场近 20 年来首次有所作为。这对投资者意味着什么。",
+        "url": "https://finnhub.io/api/news?id=b4e7f53da79afc7857d7fcf1c95b3d08da19730959de09e0891c57769a06a5ee",
+        "datetime": 1785729000,
         "source": "Yahoo"
       },
       {
-        "headline": "我不会让 RMD 毁了我的退休生活。这是我的管理计划。",
-        "url": "https://finnhub.io/api/news?id=f105d120b24dbcf21df42b2bac18a8d9eea1062a0b3551f5a1342713795c1eb6",
-        "datetime": 1785707220,
+        "headline": "如果人工智能处于泡沫之中，这些股票可能会受益最多",
+        "url": "https://finnhub.io/api/news?id=eb7ebb7e811072b678d96221ec9f047dc534c9b7b81481c80460c97da037c7ce",
+        "datetime": 1785727200,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "购买情境意识的抛售，原因和内容如下",
+        "url": "https://finnhub.io/api/news?id=bc0876c85e6c3c51daf930df0c6478e67215e9933a8b5cae6bcffdd711452b87",
+        "datetime": 1785707830,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "SpaceX 与“七巨头”：纳斯达克 100 强新成员如何脱颖而出",
         "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
@@ -1191,15 +1197,27 @@
         "url": "https://finnhub.io/api/news?id=0de02bac18fa68956f7b6f0c65319f4843198259a8bab84b9f1779f3ad559ac9",
         "datetime": 1785689400,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Nvidia 与 Alphabet：收入趋势揭示了人工智能领导者的哪些情况",
-        "url": "https://finnhub.io/api/news?id=0060311df4276c2c667d4dcbe639921c29491ace3d79ba78230fddffb3845a25",
-        "datetime": 1785686412,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "为什么散户上周无法将目光从这些股票上移开：AAPL、MSFT、AMZN、META、TSLA",
+        "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf",
+        "datetime": 1785722438,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "2026 年 7 月电动汽车公司新闻",
+        "url": "https://finnhub.io/api/news?id=a0f06598653a507625d21d6833dd6fb0acda61d42a82c4204dc5765726db6aae",
+        "datetime": 1785722057,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "埃隆·马斯克否认特斯拉可能出售中国业务以合并 SpaceX 的报道：“荒谬的假新闻”",
+        "url": "https://finnhub.io/api/news?id=e40e04569ccc58b6998443baa8123199f3ce7d95ef1c78efe9efdd4d7c040544",
+        "datetime": 1785720635,
+        "source": "Yahoo"
+      },
       {
         "headline": "SpaceX 与“七巨头”：纳斯达克 100 强新成员如何脱颖而出",
         "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
@@ -1210,24 +1228,6 @@
         "headline": "尽管评级上调，为何摩根士丹利仍不建议买入 Rivian",
         "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc",
         "datetime": 1785697980,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "大型科技公司 2 万亿美元的 AI 洗牌改变了一切",
-        "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef",
-        "datetime": 1785695580,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "本周值得关注的财报：SpaceX 第一份财报、迪士尼、AMD 和麦当劳",
-        "url": "https://finnhub.io/api/news?id=1c0c718a2ab587d9a773d1c7696c1638665284879bebd02900267ed236b83d31",
-        "datetime": 1785693600,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉和比亚迪乘搭全球电动汽车热潮——随着汽油价格飙升，五个国家的增长超过一倍",
-        "url": "https://finnhub.io/api/news?id=7561816aae6ca987ed146f1b477833c00a9225a54d11b1b2e9a2d4801b66937b",
-        "datetime": 1785673830,
         "source": "Yahoo"
       }
     ],
@@ -1273,6 +1273,24 @@
     ],
     "BTC": [
       {
+        "headline": "在 1.65 亿美元的比特币转移后，特朗普媒体的比特币储备可能只剩下贷款抵押品",
+        "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+        "datetime": 1785736349,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Michael Saylor 的策略现在正在追踪比特币的 200 周移动平均线",
+        "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+        "datetime": 1785733669,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "疑似第四次Coldcard攻击浪潮席卷389个比特币：银河之刺",
+        "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785722260,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Coldcard 漏洞引发比特币飞行，“看涨”加密货币整合：Hodler’s Digest，8 月 2 日",
         "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785714244,
@@ -1283,40 +1301,21 @@
         "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
         "datetime": 1785672231,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币冷钱包攻击蔓延至 4,500 个地址，损失近 8900 万美元",
-        "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-        "datetime": 1785615054,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "由于收入锐减迫使运营商转向，比特币挖矿难度较今年高点下降了 14%",
-        "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-        "datetime": 1785599470,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "在芝商所挑战后，美国证券交易委员会将审查纳斯达克比特币期权的批准",
-        "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-        "datetime": 1785599307,
-        "source": "CoinDesk"
       }
     ],
-    "ETH": [
-      {
-        "headline": "以太坊在基金会经历了一年的剧变后进入了第二个十年",
-        "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
-        "datetime": 1785419557,
-        "source": "CoinDesk"
-      }
-    ],
+    "ETH": [],
     "SOL": [
       {
         "headline": "Solana 基金会的新 CISO 警告人工智能正在使加密货币诈骗更具说服力",
         "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
         "datetime": 1785589200,
         "source": "CoinDesk"
+      },
+      {
+        "headline": "重要的一周♠️♥️♣️♦️",
+        "url": "https://x.com/solana/status/2084098863615648098",
+        "datetime": 1785722864,
+        "source": "@solana"
       },
       {
         "headline": "GTA 6 之前 Solana 上的 $TTWO",
@@ -1328,12 +1327,6 @@
         "headline": "本周：Solana ETP 登陆纽约证券交易所，韩国支付网络让 33 万多家商家更接近稳定币结算，Solana 区块增大了 66%，6500 万年前的三角龙头骨即将出现",
         "url": "https://x.com/solana/status/2083971295373631986",
         "datetime": 1785692449,
-        "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2083813634803961919",
-        "datetime": 1785654860,
         "source": "@solana"
       }
     ],
@@ -1365,7 +1358,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "仅使用狗的照片来描述你的星期一过得如何",
+        "headline": "仅使用狗的照片来描述你的星期一过得怎么样",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
         "source": "@dogecoin"
