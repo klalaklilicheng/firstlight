@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T06:13:06.247Z",
+  "updated_at": "2026-08-03T10:43:19.301Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,414 +65,171 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62796,
-      "change_pct": -0.95
+      "price": 62655,
+      "change_pct": -0.73
     },
     {
       "symbol": "ETH",
-      "price": 1858.35,
-      "change_pct": -0.85
+      "price": 1846.39,
+      "change_pct": -1.05
     },
     {
       "symbol": "SOL",
-      "price": 72.89,
-      "change_pct": -0.81
+      "price": 72.54,
+      "change_pct": -0.88
     },
     {
       "symbol": "HYPE",
-      "price": 52.61,
-      "change_pct": 0.56
+      "price": 52.64,
+      "change_pct": 2.35
     },
     {
       "symbol": "ZEC",
-      "price": 476.11,
-      "change_pct": 0.55
+      "price": 479.11,
+      "change_pct": 1.08
     },
     {
       "symbol": "TAO",
-      "price": 190.92,
-      "change_pct": -1.85
+      "price": 188.47,
+      "change_pct": -2.06
     },
     {
       "symbol": "SKY",
-      "price": 1290.4,
-      "change_pct": -1.41
-    },
-    {
-      "symbol": "AAVE",
-      "price": 91.92,
-      "change_pct": 0.03
-    },
-    {
-      "symbol": "BNB",
-      "price": 582.68,
-      "change_pct": -0.14
-    },
-    {
-      "symbol": "NEAR",
-      "price": 1.71,
-      "change_pct": -0.25
-    },
-    {
-      "symbol": "DOGE",
-      "price": 0.069726,
+      "price": 1287.41,
       "change_pct": -0.84
     },
     {
+      "symbol": "AAVE",
+      "price": 92.05,
+      "change_pct": -0.17
+    },
+    {
+      "symbol": "BNB",
+      "price": 586.8,
+      "change_pct": 0.63
+    },
+    {
+      "symbol": "NEAR",
+      "price": 1.72,
+      "change_pct": 0.57
+    },
+    {
+      "symbol": "DOGE",
+      "price": 0.06938,
+      "change_pct": -0.78
+    },
+    {
       "symbol": "SPACEX",
-      "price": 423.31,
-      "change_pct": -0.04
+      "price": 447.46,
+      "change_pct": 5.73
     }
   ],
   "earnings": {
     "NVDA": {
-      "next": {
-        "date": "2026-11-19",
-        "quarter": 2,
-        "year": 2027,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-06-30",
-          "quarter": 1,
-          "year": 2027,
-          "actual": 1.87,
-          "estimate": 1.7922,
-          "surprise_pct": 4.341
-        },
-        {
-          "period": "2026-03-31",
-          "quarter": 4,
-          "year": 2026,
-          "actual": 1.62,
-          "estimate": 1.5634,
-          "surprise_pct": 3.6203
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 3,
-          "year": 2026,
-          "actual": 1.3,
-          "estimate": 1.2746,
-          "surprise_pct": 1.9928
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 2,
-          "year": 2026,
-          "actual": 1.05,
-          "estimate": 1.0281,
-          "surprise_pct": 2.1301
-        }
-      ],
-      "comment": "连续4季超预期 (+4.3%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "TSLA": {
-      "next": {
-        "date": "2026-10-20",
-        "quarter": 3,
-        "year": 2026,
-        "eps_estimate": 0.4492,
-        "revenue_estimate": 28069760327
-      },
-      "history": [
-        {
-          "period": "2026-06-30",
-          "quarter": 2,
-          "year": 2026,
-          "actual": 0.33,
-          "estimate": 0.5191,
-          "surprise_pct": -36.4284
-        },
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": 0.41,
-          "estimate": 0.3773,
-          "surprise_pct": 8.6668
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": 0.5,
-          "estimate": 0.4541,
-          "surprise_pct": 10.1079
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 0.5,
-          "estimate": 0.5586,
-          "surprise_pct": -10.4905
-        }
-      ],
-      "comment": "上季不及预期 (-36.4%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "GOOG": {
-      "next": {
-        "date": "2026-11-19",
-        "quarter": 3,
-        "year": 2026,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-06-30",
-          "quarter": 2,
-          "year": 2026,
-          "actual": 2.85,
-          "estimate": 2.9798,
-          "surprise_pct": -4.356
-        },
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": 2.62,
-          "estimate": 2.7051,
-          "surprise_pct": -3.1459
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": 2.82,
-          "estimate": 2.7063,
-          "surprise_pct": 4.2013
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 3.1,
-          "estimate": 2.3954,
-          "surprise_pct": 29.4147
-        }
-      ],
-      "comment": "上季不及预期 (-4.4%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "RKLB": {
-      "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
-        "year": 2026,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": -0.07,
-          "estimate": -0.0815,
-          "surprise_pct": 14.1104
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": -0.09,
-          "estimate": -0.0942,
-          "surprise_pct": 4.4586
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": -0.03,
-          "estimate": -0.1064,
-          "surprise_pct": 71.8045
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": -0.13,
-          "estimate": -0.1167,
-          "surprise_pct": -11.3967
-        }
-      ],
-      "comment": "上季超预期 (+14.1%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "CRCL": {
-      "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
-        "year": 2026,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": 0.21,
-          "estimate": 0.2006,
-          "surprise_pct": 4.6859
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": 0.36,
-          "estimate": 0.251,
-          "surprise_pct": 43.4263
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 0.2,
-          "estimate": 0.2277,
-          "surprise_pct": -12.1651
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": 1.02,
-          "estimate": -0.7067,
-          "surprise_pct": 244.3328
-        }
-      ],
-      "comment": "上季超预期 (+4.7%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "PLTR": {
-      "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
-        "year": 2026,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": 0.33,
-          "estimate": 0.2849,
-          "surprise_pct": 15.8301
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": 0.25,
-          "estimate": 0.2348,
-          "surprise_pct": 6.4736
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 0.21,
-          "estimate": 0.1718,
-          "surprise_pct": 22.2352
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": 0.16,
-          "estimate": 0.1405,
-          "surprise_pct": 13.879
-        }
-      ],
-      "comment": "连续4季超预期 (+15.8%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "MSTR": {
-      "next": {
-        "date": "2026-10-28",
-        "quarter": 3,
-        "year": 2026,
-        "eps_estimate": 10.5322,
-        "revenue_estimate": 132113092
-      },
-      "history": [
-        {
-          "period": "2026-06-30",
-          "quarter": 2,
-          "year": 2026,
-          "actual": -24.77,
-          "estimate": -7.6698,
-          "surprise_pct": -222.955
-        },
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": -38.25,
-          "estimate": -4.3945,
-          "surprise_pct": -770.4062
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": -42.93,
-          "estimate": 3.0277,
-          "surprise_pct": -1517.908
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 8.42,
-          "estimate": 8.3144,
-          "surprise_pct": 1.2701
-        }
-      ],
-      "comment": "上季不及预期 (-223.0%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     },
     "LKNCY": {
-      "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
-        "year": 2026,
-        "is_estimate": true
-      },
-      "history": [
-        {
-          "period": "2026-03-31",
-          "quarter": 1,
-          "year": 2026,
-          "actual": 0.24,
-          "estimate": 0.1808,
-          "surprise_pct": 32.7434
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 4,
-          "year": 2025,
-          "actual": 0.32,
-          "estimate": 0.3886,
-          "surprise_pct": -17.6531
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 0.615,
-          "estimate": 0.6928,
-          "surprise_pct": -11.2298
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": 0.64,
-          "estimate": 0.5198,
-          "surprise_pct": 23.1243
-        }
-      ],
-      "comment": "上季超预期 (+32.7%)"
+      "next": null,
+      "history": [],
+      "comment": ""
     }
   },
   "news": [
+    {
+      "headline": "HashKey 获得摩根大通批准开设客户资金账户",
+      "summary": "HashKey Exchange 表示，在星展银行开设客户资金账户几周后，它获得了在摩根大通开设客户资金账户的批准。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785748478,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitget退出日本，12月31日后平仓剩余头寸",
+      "summary": "该加密货币交易所停止接受日本居民的新注册，并将于 11 月 1 日开始逐步限制现有账户。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785745283,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国就业、Circle、Galaxy、美国比特币收益：加密货币周展望",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+      "datetime": 1785744988,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币资金公司 ZeroStack 警告称，损失 8250 万美元，存在生存风险",
+      "summary": "这家在纳斯达克上市的公司主要依靠质押奖励来为运营提供资金，而其持有的 0G 股票的估值比其记录成本低了 91%。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785741356,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "本周初的以太坊分析：空头稍强一些，但这张交易图是加密货币交易者的关键",
+      "summary": "<p>今日以太坊价格分析：ETH 空头压力 1,852 美元，但支撑尚未突破</p><p>以太坊期货前景评分：-4 / +10</p><p>偏见：在低于 1,881.50 美元时适度看跌，但卖家仍需要确认接受低于 1,848.50 美元才能激活下一个下行趋势。</p><p>Ethereus",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/ethereum-analysis-at-the-start-of-this-week-bears-are-a-little-stronger-but-this-trading-map-is-the-key-for-crypto-traders/",
+      "datetime": 1785740195,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管伊朗协议有望达成，但由于 Coldcard 损失扰乱市场，比特币仍跌破 63,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+      "datetime": 1785737738,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币触及 6.2 万美元，Coinbase 溢价连续 77 天负值",
+      "summary": "持续的折扣表明，尽管美国比特币 ETF 流入量在 7 月份转为正数，但美国现货买家的积极性仍然不如海外交易商。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785736680,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "在 1.65 亿美元的比特币转移后，特朗普媒体的比特币储备可能只剩下贷款抵押品",
       "summary": "",
@@ -501,7 +258,7 @@
       "related": ""
     },
     {
-      "headline": "报告称，6 月份韩国稳定币流出量突破 3.67 亿美元",
+      "headline": "报告称 6 月份韩国稳定币流出量突破 3.67 亿美元",
       "summary": "随着监管机构考虑加强对跨境加密货币活动的监管，稳定币已连续 18 个月流出韩国交易所。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -551,15 +308,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
       "datetime": 1785690000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "库币成为阿联酋阿联酋车队官方合作伙伴——XRG首次亮相环法自行车赛",
-      "summary": "特克斯和凯科斯群岛普罗维登西亚莱斯岛，2026 年 7 月 7 日 /美通社/ — 全球领先的加密货币交易所 KuCoin 今天宣布与世界顶级职业自行车队之一阿联酋酋长队 – XRG 建立正式合作伙伴关系。这一具有里程碑意义的合作将盛大公开",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/kucoin-becomes-official-partner-of-uae-team-emirates-xrg-debuts-at-the-tour-de-france/",
-      "datetime": 1785687550,
       "category": "crypto",
       "related": ""
     },
@@ -688,60 +436,6 @@
       "datetime": 1785615054,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "明尼苏达州加密 ATM 禁令在报告损失 100 万美元后生效",
-      "summary": "州官员报告称，2023 年至 2025 年间，明尼苏达州居民（主要是老年人）因与加密货币亭相关的诈骗而损失了约 100 万美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785607637,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "7 月份代币化股票交易量飙升 288%，但 QQQ 代币推动了大部分交易",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "datetime": 1785603095,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "意大利银行的研究表明，稳定币的汇款并不一定更便宜",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "datetime": 1785600000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "由于收入锐减迫使运营商转向，比特币挖矿难度较今年高点下降了 14%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "datetime": 1785599470,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "在芝商所挑战后，美国证券交易委员会将审查纳斯达克比特币期权的批准",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
-      "datetime": 1785599307,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Crypto PAC 又向密歇根州众议院竞选投入 100 万美元",
-      "summary": "密歇根州现任议员 Shri Thanedar 与其他民主党候选人的连任竞选通过由行业联盟 PAC 资助的广告注入更多关于加密货币的信息。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785599042,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +485,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.7,
+    "score": 32.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
-    "weekly_score": 15.4,
-    "btc_price": 62837.2,
+    "daily_score": 15.1,
+    "weekly_score": 17.1,
+    "btc_price": 62693,
     "fear_greed": 35,
     "indicators": [
       {
@@ -808,14 +502,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.003558,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2,
+        "value": 2.17,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -829,29 +523,29 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.26,
-        "score": 25,
+        "value": 1.27,
+        "score": 26,
         "weight": 12,
         "group": "weekly"
       },
       {
         "name": "NUPL",
-        "value": 0.158,
-        "score": 41,
+        "value": 0.168,
+        "score": 42,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.834,
-        "score": 7,
+        "value": 0.955,
+        "score": 10,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.991,
-        "score": 41,
+        "value": 1.004,
+        "score": 54,
         "weight": 8,
         "group": "weekly"
       },
@@ -878,15 +572,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 31.2,
+        "value": 31.1,
         "score": 19,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -71.7,
-        "score": 25,
+        "value": -59.1,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1004,7 +698,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1363,
+        "likes": 1367,
         "retweets": 71
       },
       {
@@ -1026,7 +720,7 @@
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1045,
-        "retweets": 84
+        "retweets": 85
       },
       {
         "text": "Cash appears to have the greatest opportunity cost at the precipice of when you'll need it most. \n\nHave been nibbling here and there of late, but the confluence around October is too incredible to ignore.",
@@ -1064,36 +758,36 @@
         "text": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on https://t.co/uGbtzwJ4Pu. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. https://t.co/7IHrLcIoLI",
         "url": "https://x.com/saylor/status/2084045087818891762",
         "time": "Sun Aug 02 22:34:03 +0000 2026",
-        "likes": 3899,
-        "retweets": 352
+        "likes": 4628,
+        "retweets": 426
       },
       {
         "text": "Bitcoin Drive engaged. https://t.co/sFpTPiMdak",
         "url": "https://x.com/saylor/status/2083894636087574837",
         "time": "Sun Aug 02 12:36:12 +0000 2026",
-        "likes": 10458,
-        "retweets": 991
+        "likes": 10857,
+        "retweets": 1028
       },
       {
         "text": "The public evidence of BIP-110 adoption is concentrated among Knots users and OCEAN/DATUM miners. There is no identified major exchange, custodian, ETF platform, wallet, or payment network enforcing it. More than 99% of Bitcoin’s economic weight has not adopted it.",
         "url": "https://x.com/saylor/status/2083613203863326987",
         "time": "Sat Aug 01 17:57:54 +0000 2026",
-        "likes": 492,
-        "retweets": 33
+        "likes": 500,
+        "retweets": 34
       },
       {
         "text": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote.",
         "url": "https://x.com/saylor/status/2083613201111945636",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 4081,
-        "retweets": 349
+        "likes": 4156,
+        "retweets": 355
       },
       {
         "text": "Reachable node counts are a census of software endpoints, not economic actors. A hobbyist node and a node serving millions via an exchange, custodian, wallet, or payment app are not economically equivalent. Every node is sovereign, but nodes are not equal votes over Bitcoin.",
         "url": "https://x.com/saylor/status/2083613202516938852",
         "time": "Sat Aug 01 17:57:53 +0000 2026",
-        "likes": 606,
-        "retweets": 35
+        "likes": 614,
+        "retweets": 36
       }
     ],
     "viktorfischer": [
@@ -1135,143 +829,30 @@
     ]
   },
   "portfolio_news": {
-    "NVDA": [
-      {
-        "headline": "格雷格·阿贝尔正在将伯克希尔·哈撒韦公司的现金花在整个公司而不是股票上。以下是股东的变化。",
-        "url": "https://finnhub.io/api/news?id=802d56d8ff5bffc083ca8780b981c21f9dd70d375ae103ccca0b293651403f59",
-        "datetime": 1785735300,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Apple 的硬件已为设备端 AI 做好准备，PrismML 刚刚实现了真正的突破",
-        "url": "https://finnhub.io/api/news?id=eeac366f8282cc9cd5e16e291bd1220b7fcac9ab40d55b7c9a122d6b4cadf180",
-        "datetime": 1785732600,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "下跌 48%，甲骨文股票现在值得买入吗？",
-        "url": "https://finnhub.io/api/news?id=16569998b0733203ba671367e36077475e40552edb7dfc85d7bcd6d4919f0138",
-        "datetime": 1785730800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "债券市场近 20 年来首次有所作为。这对投资者意味着什么。",
-        "url": "https://finnhub.io/api/news?id=b4e7f53da79afc7857d7fcf1c95b3d08da19730959de09e0891c57769a06a5ee",
-        "datetime": 1785729000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "如果人工智能处于泡沫之中，这些股票可能会受益最多",
-        "url": "https://finnhub.io/api/news?id=eb7ebb7e811072b678d96221ec9f047dc534c9b7b81481c80460c97da037c7ce",
-        "datetime": 1785727200,
-        "source": "Yahoo"
-      }
-    ],
-    "GOOG": [
-      {
-        "headline": "购买情境意识的抛售，原因和内容如下",
-        "url": "https://finnhub.io/api/news?id=bc0876c85e6c3c51daf930df0c6478e67215e9933a8b5cae6bcffdd711452b87",
-        "datetime": 1785707830,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "SpaceX 与“七巨头”：纳斯达克 100 强新成员如何脱颖而出",
-        "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
-        "datetime": 1785706740,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "大型科技公司 2 万亿美元的 AI 洗牌改变了一切",
-        "url": "https://finnhub.io/api/news?id=3bc099de1acd05440a0f9dfbc883d811885a80cb3bf5d6c795a832644ae9e0ef",
-        "datetime": 1785695580,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "沃伦·巴菲特后悔没有早点投资 Alphabet。新任首席执行官格雷格·阿贝尔不会有同样的担忧。",
-        "url": "https://finnhub.io/api/news?id=0d7526e6b521de0e09892d31f27247af43bc68d7ed2c892c5f44607285717eea",
-        "datetime": 1785695100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "伯克希尔哈撒韦公司持有 290 亿美元 Alphabet 股票的 3 个原因",
-        "url": "https://finnhub.io/api/news?id=0de02bac18fa68956f7b6f0c65319f4843198259a8bab84b9f1779f3ad559ac9",
-        "datetime": 1785689400,
-        "source": "Yahoo"
-      }
-    ],
-    "TSLA": [
-      {
-        "headline": "为什么散户上周无法将目光从这些股票上移开：AAPL、MSFT、AMZN、META、TSLA",
-        "url": "https://finnhub.io/api/news?id=d452ac77315147b55f2d4f482d19015ae63f8d23fcbd4c21e8da30965e04dcaf",
-        "datetime": 1785722438,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "2026 年 7 月电动汽车公司新闻",
-        "url": "https://finnhub.io/api/news?id=a0f06598653a507625d21d6833dd6fb0acda61d42a82c4204dc5765726db6aae",
-        "datetime": 1785722057,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "埃隆·马斯克否认特斯拉可能出售中国业务以合并 SpaceX 的报道：“荒谬的假新闻”",
-        "url": "https://finnhub.io/api/news?id=e40e04569ccc58b6998443baa8123199f3ce7d95ef1c78efe9efdd4d7c040544",
-        "datetime": 1785720635,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 与“七巨头”：纳斯达克 100 强新成员如何脱颖而出",
-        "url": "https://finnhub.io/api/news?id=9eba97e0f64778590c0b74df706d14b0c758022d0162f1981303a46bb72a45d5",
-        "datetime": 1785706740,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "尽管评级上调，为何摩根士丹利仍不建议买入 Rivian",
-        "url": "https://finnhub.io/api/news?id=f13854067cb8a12b9b76704656f8ce1b40c36cb7a10c99cb2bd7e72e19a71efc",
-        "datetime": 1785697980,
-        "source": "Yahoo"
-      }
-    ],
-    "CRCL": [
-      {
-        "headline": "下周值得关注的三只加密货币股票：CRCL、RIOT、MSTR",
-        "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-        "datetime": 1785593718,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "瑞穗升级 Circle Internet Group (CRCL)",
-        "url": "https://finnhub.io/api/news?id=222f91e4c9b93706b8acc186c507924911415ed6f073a951fc23dd12f9cf2a2b",
-        "datetime": 1785517182,
-        "source": "Fintel"
-      },
-      {
-        "headline": "Circle Internet Group 股票周五下跌：发生了什么？",
-        "url": "https://finnhub.io/api/news?id=1db8fbcc89764624a817dc713d07d92df454cd873afc0f4da20c1a48aec298f1",
-        "datetime": 1785505824,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "今天盘中 10 只发出鲸鱼警报的信息技术股",
-        "url": "https://finnhub.io/api/news?id=cbd9bd95679415147bd6e7c3941e87e798d1485c0d3ccc02341f3e28b7280f29",
-        "datetime": 1785504915,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "摩根士丹利将该股目标价从 13 美元下调至 6 美元后，Gemini Space Station 股价下跌。",
-        "url": "https://finnhub.io/api/news?id=5ca9ea880ca4de6d8e19e5ea66f7e7c362bc94e077434061a0cdaaf377f115ee",
-        "datetime": 1785495713,
-        "source": "Benzinga"
-      }
-    ],
-    "LKNCY": [
-      {
-        "headline": "瑞幸咖啡：别再叫中国星巴克了，这家公司不一样",
-        "url": "https://finnhub.io/api/news?id=977db7d8ed94f74a4cc9c55cf6dd0858abaa2e0ddd106f04fa8c93435ab86100",
-        "datetime": 1785295443,
-        "source": "SeekingAlpha"
-      }
-    ],
+    "NVDA": [],
+    "GOOG": [],
+    "TSLA": [],
+    "CRCL": [],
+    "LKNCY": [],
     "BTC": [
+      {
+        "headline": "美国就业、Circle、Galaxy、美国比特币收益：加密货币周展望",
+        "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+        "datetime": 1785744988,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "尽管伊朗协议有望达成，但由于 Coldcard 损失扰乱市场，比特币仍跌破 63,000 美元",
+        "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+        "datetime": 1785737738,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币触及 6.2 万美元，Coinbase 溢价连续 77 天负值",
+        "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785736680,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "在 1.65 亿美元的比特币转移后，特朗普媒体的比特币储备可能只剩下贷款抵押品",
         "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
@@ -1283,27 +864,16 @@
         "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
         "datetime": 1785733669,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "疑似第四次Coldcard攻击浪潮席卷389个比特币：银河之刺",
-        "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785722260,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Coldcard 漏洞引发比特币飞行，“看涨”加密货币整合：Hodler’s Digest，8 月 2 日",
-        "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1785714244,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "与 FTX 崩溃不同，Coldcard 价值 8900 万美元的漏洞让投资者将比特币送回交易所",
-        "url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
-        "datetime": 1785672231,
-        "source": "CoinDesk"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "headline": "本周初的以太坊分析：空头稍强一些，但这张交易图是加密货币交易者的关键",
+        "url": "https://investinglive.com/cryptocurrency/ethereum-analysis-at-the-start-of-this-week-bears-are-a-little-stronger-but-this-trading-map-is-the-key-for-crypto-traders/",
+        "datetime": 1785740195,
+        "source": "Forexlive"
+      }
+    ],
     "SOL": [
       {
         "headline": "Solana 基金会的新 CISO 警告人工智能正在使加密货币诈骗更具说服力",
@@ -1338,10 +908,10 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Aave 提议放弃 6 家赚取宽松收入的连锁店背后的经济学",
-        "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
-        "datetime": 1785421541,
-        "source": "CoinDesk"
+        "headline": "请访问@aave👻",
+        "url": "https://x.com/AaveAave/status/1721121202507317273",
+        "datetime": 1699182246,
+        "source": "@AaveAave"
       }
     ],
     "DOGE": [
@@ -1358,7 +928,7 @@
         "source": "@dogecoin"
       },
       {
-        "headline": "仅使用狗的照片来描述你的星期一过得怎么样",
+        "headline": "仅使用狗的照片来描述你的星期一过得如何",
         "url": "https://x.com/dogecoin/status/2081854839835767073",
         "datetime": 1785187847,
         "source": "@dogecoin"
