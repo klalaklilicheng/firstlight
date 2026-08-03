@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T22:00:28.094Z",
+  "updated_at": "2026-08-03T23:05:03.416Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63540,
-      "change_pct": 0.05
+      "price": 63519,
+      "change_pct": 0.21
     },
     {
       "symbol": "ETH",
-      "price": 1862.83,
-      "change_pct": -1.3
+      "price": 1856.62,
+      "change_pct": -1.26
     },
     {
       "symbol": "SOL",
-      "price": 73.65,
-      "change_pct": -0.33
+      "price": 73.4,
+      "change_pct": -0.23
     },
     {
       "symbol": "HYPE",
-      "price": 53.95,
-      "change_pct": 2.07
+      "price": 53.92,
+      "change_pct": 2.48
     },
     {
       "symbol": "ZEC",
-      "price": 483.56,
-      "change_pct": -1.63
+      "price": 479.36,
+      "change_pct": -1.79
     },
     {
       "symbol": "TAO",
-      "price": 192.84,
-      "change_pct": -0.24
+      "price": 190.92,
+      "change_pct": -0.74
     },
     {
       "symbol": "SKY",
-      "price": 1300.33,
-      "change_pct": -0.56
+      "price": 1296.07,
+      "change_pct": -0.55
     },
     {
       "symbol": "AAVE",
-      "price": 92.37,
-      "change_pct": -0.65
+      "price": 92.01,
+      "change_pct": -0.41
     },
     {
       "symbol": "BNB",
-      "price": 589.51,
-      "change_pct": 0.07
+      "price": 588.91,
+      "change_pct": 0.21
     },
     {
       "symbol": "NEAR",
-      "price": 1.75,
-      "change_pct": 2.24
+      "price": 1.73,
+      "change_pct": 0.65
     },
     {
       "symbol": "DOGE",
-      "price": 0.070413,
-      "change_pct": -0.42
+      "price": 0.070147,
+      "change_pct": -0.78
     },
     {
       "symbol": "SPACEX",
-      "price": 446.25,
-      "change_pct": 5.76
+      "price": 443.14,
+      "change_pct": 5.23
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "分析：美联储可能被卷入贝森特支持日元的努力",
+      "summary": "美国财政部长斯科特·贝森特希望在不向敏感的美国债券市场出售美国国债的情况下捍卫日元。美联储可以提供帮助。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
+      "datetime": 1785796832,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Jim Cramer 表示，市场已经对大型科技公司的人工智能支出有所升温。这就是打开开关的原因",
+      "summary": "克莱默表示，亚马逊首席执行官安迪·贾西最终解释了亚马逊大规模的人工智能支出将如何产生长期回报。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+      "datetime": 1785795601,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "拉里·伯格被任命为美国职业足球大联盟下一任专员",
       "summary": "拉里·伯格（Larry Berg）将于明年接替唐·加伯（Don Garber）担任美国职业足球大联盟（MLS）专员。他将出售其在洛杉矶足球俱乐部的股份。",
       "source": "CNBC",
@@ -724,24 +742,6 @@
       "datetime": 1785758862,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Bitget 将退出日本，年底前关闭所有剩余仓位",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "datetime": 1785758621,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "特朗普的美国比特币报告比特币产量创历史新高，第二季度亏损收窄",
-      "summary": "与特朗普有联系的比特币矿商第二季度生产了创纪录的 932 比特币，使挖矿收入增长 8%，净亏损较上一季度收窄。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785757209,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 30,
-    "level": "恐慌",
-    "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 13.1,
+    "score": 30.2,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
+    "daily_score": 13.3,
     "weekly_score": 16.9,
-    "btc_price": 63611.1,
+    "btc_price": 63600.1,
     "fear_greed": 35,
     "indicators": [
       {
@@ -808,15 +808,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000141,
-        "score": 45,
+        "value": 0.001556,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.46,
-        "score": 64,
+        "value": 1.49,
+        "score": 66,
         "weight": 5,
         "group": "daily"
       },
@@ -885,8 +885,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -82,
-        "score": 22,
+        "value": -80.4,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1004,7 +1004,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1371,
+        "likes": 1372,
         "retweets": 71
       },
       {
@@ -1064,36 +1064,36 @@
         "text": "Strategy is the JPMorgan of the crypto economy.",
         "url": "https://x.com/saylor/status/2084378738553143523",
         "time": "Mon Aug 03 20:39:51 +0000 2026",
-        "likes": 1797,
-        "retweets": 163
+        "likes": 2278,
+        "retweets": 204
       },
       {
         "text": "When I say “Never Sell Your Bitcoin,” I speak as one saver to another. I have never sold mine. Not one satoshi. Strategy is a public company, not my wallet. Since 2020, it has disclosed it may buy or sell $BTC to manage capital. Our shared conviction in Bitcoin remains unchanged.",
         "url": "https://x.com/saylor/status/2084315637715763579",
         "time": "Mon Aug 03 16:29:07 +0000 2026",
-        "likes": 20473,
-        "retweets": 1756
+        "likes": 21727,
+        "retweets": 1854
       },
       {
         "text": "Strategy increased its USD Reserve by $250M and repurchased $81M of $STRC. This increased USD Duration by 57 days to 2.3 years and tightened STRC’s BTC Credit by 5 bps. As of 8/2/26, we hold ₿842,138 in our BTC Reserve and $4.0B in our USD Reserve. $MSTR https://t.co/t7bGZJ8Q3o",
         "url": "https://x.com/saylor/status/2084248751925776403",
         "time": "Mon Aug 03 12:03:20 +0000 2026",
-        "likes": 7445,
-        "retweets": 777
+        "likes": 7543,
+        "retweets": 789
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,900. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2084248753662202257",
         "time": "Mon Aug 03 12:03:20 +0000 2026",
-        "likes": 376,
+        "likes": 383,
         "retweets": 21
       },
       {
         "text": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on https://t.co/uGbtzwJ4Pu. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. https://t.co/7IHrLcIoLI",
         "url": "https://x.com/saylor/status/2084045087818891762",
         "time": "Sun Aug 02 22:34:03 +0000 2026",
-        "likes": 5524,
-        "retweets": 531
+        "likes": 5558,
+        "retweets": 536
       }
     ],
     "viktorfischer": [
@@ -1137,101 +1137,107 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "探索今天交易中道琼斯指数中涨幅最大的股票和跌幅最大的股票。",
-        "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1",
-        "datetime": 1785784205,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "随时了解周一交易中 S&P500 指数中最活跃的股票。",
-        "url": "https://finnhub.io/api/news?id=3f902903dfb474ff36920d42484cf6d8a2b0006ffdc1101ff1deb02f3916e77c",
-        "datetime": 1785780300,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "周一交易时段：最活跃的股票",
-        "url": "https://finnhub.io/api/news?id=4aa057b760003fee339e3dfef3ea846f2d999a0d928cdb7e5294a98e8ad1df49",
-        "datetime": 1785780000,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "这家无聊公司连续 71 年提高股息，这是收益投资者的梦想",
-        "url": "https://finnhub.io/api/news?id=29591faacd358065ef8525281994097c7a96c604462e968efb04acb1bfb19b6e",
-        "datetime": 1785779400,
+        "headline": "科技股从八月开始上涨。芯片制造商能否满足需求？",
+        "url": "https://finnhub.io/api/news?id=ca5e177de40f9603efb94f84f71cb78cf1c203784b5b306323f3b0384bb3c7e2",
+        "datetime": 1785792600,
         "source": "Yahoo"
       },
       {
-        "headline": "礼来公司的股票是否已耗尽动力？",
-        "url": "https://finnhub.io/api/news?id=da1ddc0c292bad7c6ad06572bb50752463234a2ffca12103a3663ae056853d51",
-        "datetime": 1785779350,
+        "headline": "SpaceX 股票本周面临两次大规模考验。公众持股量可以增加两倍",
+        "url": "https://finnhub.io/api/news?id=a7eabf9bc7e6136d7cd6b44eb965286f3c03c11e6c2532fee50bf42e051e728b",
+        "datetime": 1785792533,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "房地产收入已连续 673 个月每月支付股息。这对收益投资者意味着什么。",
+        "url": "https://finnhub.io/api/news?id=fe640101c60ce10094a1cac724d80256bf0223823da5b698d2aa1f516f9347d5",
+        "datetime": 1785792300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么 Bancorp 股票今天再次上涨",
+        "url": "https://finnhub.io/api/news?id=164fef5b9f9b6d40f799648aec6baae05646bdaa43ca7a35d864748f9299350e",
+        "datetime": 1785791880,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "顶级技术分析师表示，超大规模企业是明显的人工智能赢家，但被淘汰的软件提供了价值",
+        "url": "https://finnhub.io/api/news?id=e853b6fe149d1ae6d51368635d5f89b861b26d2c1be1d119c708a2e31e06f66e",
+        "datetime": 1785791492,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "微软刚刚证明人工智能支出可以带来回报。以下是该公司与其他人工智能股票的区别。",
-        "url": "https://finnhub.io/api/news?id=b032c49beda7a2438cff12dde40bf436374882f07ce8f43811ccf0663049ddc2",
-        "datetime": 1785778500,
+        "headline": "联邦法院反垄断裁决后，Teads 对谷歌提起诉讼，寻求经济损失",
+        "url": "https://finnhub.io/api/news?id=e51fadddadad4d8a245565d0a3cd1b61f4e27e94b24c0b2141555a1145c21eb1",
+        "datetime": 1785792600,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 Alphabet 股票今天暴涨",
-        "url": "https://finnhub.io/api/news?id=fbe3ed87ed8ade2fddf40420da15a3735454c6475d2ceae04ef9de4e1b74f0c4",
-        "datetime": 1785778351,
+        "headline": "顶级技术分析师表示，超大规模企业是明显的人工智能赢家，但被淘汰的软件提供了价值",
+        "url": "https://finnhub.io/api/news?id=e853b6fe149d1ae6d51368635d5f89b861b26d2c1be1d119c708a2e31e06f66e",
+        "datetime": 1785791492,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊股价突破 3T 美元，Meta 上涨 7%，人工智能超大规模企业推动盈利势头",
-        "url": "https://finnhub.io/api/news?id=a84b884c005c12154ca3456a0c28183c6e3ef44e45719fe7654d3fa5c7906578",
-        "datetime": 1785778288,
+        "headline": "今日股市：随着亚马逊股价上涨，道琼斯指数上涨至创纪录水平； Cathie Wood 交易净赚 290 万美元（现场报道）",
+        "url": "https://finnhub.io/api/news?id=a8910cf117021c61cc69007c4b44c3c275bc9664317da9ec3d5425c05a034996",
+        "datetime": 1785790885,
         "source": "Yahoo"
       },
       {
-        "headline": "GOOGL 股价上涨超过 5%：谷歌与 RWE 锁定主要长期太阳能发电协议 — 零售业看到人工智能基础设施的作用",
-        "url": "https://finnhub.io/api/news?id=be7a67c98d42bb97025297185dd7890aba494e9fb2bf93b98d657191b76ccac1",
-        "datetime": 1785778249,
+        "headline": "更新：美国股指因通信服务上涨而上涨，而原油则因国债收益率下滑",
+        "url": "https://finnhub.io/api/news?id=b6643c821a4f8b2c2729c5e606f073e37f28a41f67edafa88203cc5b64891dc7",
+        "datetime": 1785790863,
         "source": "Yahoo"
       },
       {
-        "headline": "AWS 飙升后，华尔街提高了亚马逊的目标。这是数字。",
-        "url": "https://finnhub.io/api/news?id=a0f0f1f8a0d864265390eb59c843725463b5603b40570485f07855ef9a2e4651",
-        "datetime": 1785778223,
+        "headline": "拥有最出色 7 指数的 3 只 ETF——以及它们在更加艰难的 2026 年的表现如何",
+        "url": "https://finnhub.io/api/news?id=515ac23bdeb06f0147876fee2f3c8bd41b388e0b14cdec8e8fc15d96a53c6aac",
+        "datetime": 1785790737,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "随时了解周一交易中 S&P500 指数中最活跃的股票。",
-        "url": "https://finnhub.io/api/news?id=3f902903dfb474ff36920d42484cf6d8a2b0006ffdc1101ff1deb02f3916e77c",
-        "datetime": 1785780300,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "资深分析师标记特斯拉股票的下一次关键测试",
-        "url": "https://finnhub.io/api/news?id=5a0d19e224ca14bfd0d3678a0ac7b7827db7ed4cb1118f0679332f67e59801d4",
-        "datetime": 1785779507,
+        "headline": "Rivian 削减支出 2.5 亿美元——新指南对投资者意味着什么",
+        "url": "https://finnhub.io/api/news?id=fa13098db0a5b18f44ae8d27cdd5e8d9ee39802548730acee5b211b8f64d0c7e",
+        "datetime": 1785791100,
         "source": "Yahoo"
       },
       {
-        "headline": "“Nvidia 税”：Alphabet 比亚马逊或任何其他 Mag 7 股票更好地减轻了它的影响",
-        "url": "https://finnhub.io/api/news?id=c5d0b551fd47c275cf9db9925b2e4c3b4402c1280c8129f719f7968dc5c1e13f",
-        "datetime": 1785777031,
+        "headline": "拥有最出色 7 指数的 3 只 ETF——以及它们在更加艰难的 2026 年的表现如何",
+        "url": "https://finnhub.io/api/news?id=515ac23bdeb06f0147876fee2f3c8bd41b388e0b14cdec8e8fc15d96a53c6aac",
+        "datetime": 1785790737,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood 在财报公布前几天刚刚向 SpaceX 下注 2600 万美元",
-        "url": "https://finnhub.io/api/news?id=5246c78ae05c29fb4a17cf39c2fd6c6131040995bcdf19c6081dd87ac3c72757",
-        "datetime": 1785776204,
+        "headline": "比亚迪创下出口记录。蔚来汽车、小鹏汽车和理想汽车股票遭受重挫",
+        "url": "https://finnhub.io/api/news?id=7c9f6f99b88311a756b52c98f243df9d9fd32947df28e333d384102cae70e8f2",
+        "datetime": 1785789780,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克（Elon Musk）对 SPCX 的“疯狂”机会持乐观态度——尽管存在禁售期，但华尔街仍认为 SpaceX 的估值具有吸引力",
-        "url": "https://finnhub.io/api/news?id=b29ceaa5fb3251504c2b4897b77d313b920482356931cc2f85650815ddbc0f37",
-        "datetime": 1785775833,
+        "headline": "尽管对 120 万辆汽车进行安全调查，特斯拉股价仍上涨",
+        "url": "https://finnhub.io/api/news?id=8646eeeb2159be6a892488fb0fa0fffd63302cda487927940cb49b26ebfe5f5e",
+        "datetime": 1785789412,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉机器人出租车的重大进展隐藏在众目睽睽之下",
+        "url": "https://finnhub.io/api/news?id=f938deb04b96be6194433025572a8466f3424f3f03efc5eb0e83bc9aec13b9ce",
+        "datetime": 1785785100,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "TD Cowen 首次报道 Circle Internet Group (CRCL)，并给予买入建议",
+        "url": "https://finnhub.io/api/news?id=dec990d9ad6ef6ba564b53eef7274557c6928bc70954a56eb500dbfc25557bbd",
+        "datetime": 1785795064,
+        "source": "Fintel"
+      },
       {
         "headline": "TD Cowen 首次对 Circle Internet Group 给予买入评级，并宣布目标价为 82 美元",
         "url": "https://finnhub.io/api/news?id=8476bf51176bf361f223008cad8d1330c7cb1dc3d6bd85d46262d0ac512c4044",
@@ -1255,17 +1261,11 @@
         "url": "https://finnhub.io/api/news?id=11f9917c69b9ce8cdfec1be32e5b27911cf6a463717a0c3c4a037dbd5fc2aba2",
         "datetime": 1785744337,
         "source": "Benzinga"
-      },
-      {
-        "headline": "下周值得关注的三只加密货币股票：CRCL、RIOT、MSTR",
-        "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
-        "datetime": 1785593718,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [
       {
-        "headline": "Luckin Coffee: Spamming Store Openings Without Improving Unit Performance",
+        "headline": "瑞幸咖啡：在不提高部门绩效的情况下，对新店开张进行垃圾邮件",
         "url": "https://finnhub.io/api/news?id=e4adfe1cdef91d1e94a34bfcfe2e45375b010116cc4d777e441194a6d6484ad6",
         "datetime": 1785778507,
         "source": "SeekingAlpha"
