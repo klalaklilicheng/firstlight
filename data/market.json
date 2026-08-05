@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-05T19:17:59.269Z",
+  "updated_at": "2026-08-05T20:59:51.625Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 709.49,
-      "change_pct": 0.07
+      "price": 707.6,
+      "change_pct": -0.19
     },
     {
       "symbol": "QQQ",
-      "price": 721.31,
-      "change_pct": -0.35
+      "price": 717.3,
+      "change_pct": -0.9
     },
     {
       "symbol": "QQQM",
-      "price": 297.03,
-      "change_pct": -0.34
+      "price": 295.35,
+      "change_pct": -0.9
     },
     {
       "symbol": "NVDA",
-      "price": 221.83,
-      "change_pct": 4.67
+      "price": 219.22,
+      "change_pct": 3.43
     },
     {
       "symbol": "TSLA",
-      "price": 322.17,
-      "change_pct": -1.58
+      "price": 321.55,
+      "change_pct": -1.77
     },
     {
       "symbol": "GOOG",
-      "price": 359.22,
-      "change_pct": -4.3
+      "price": 360.13,
+      "change_pct": -4.05
     },
     {
       "symbol": "RKLB",
-      "price": 75.33,
-      "change_pct": 1.14
+      "price": 74.82,
+      "change_pct": 0.46
     },
     {
       "symbol": "CRCL",
-      "price": 63.76,
-      "change_pct": 0.81
+      "price": 63.28,
+      "change_pct": 0.05
     },
     {
       "symbol": "PLTR",
-      "price": 159.16,
-      "change_pct": -2.15
+      "price": 158.43,
+      "change_pct": -2.6
     },
     {
       "symbol": "MSTR",
-      "price": 98.53,
-      "change_pct": 0.9
+      "price": 98.37,
+      "change_pct": 0.74
     },
     {
       "symbol": "GLD",
-      "price": 390.57,
-      "change_pct": 4.39
+      "price": 389.64,
+      "change_pct": 4.14
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64832,
-      "change_pct": 0.85
+      "price": 64810,
+      "change_pct": 0.8
     },
     {
       "symbol": "ETH",
-      "price": 1916.67,
-      "change_pct": 2.17
+      "price": 1917.41,
+      "change_pct": 2.26
     },
     {
       "symbol": "SOL",
-      "price": 74.48,
-      "change_pct": 0.31
+      "price": 74.37,
+      "change_pct": 0.25
     },
     {
       "symbol": "HYPE",
-      "price": 57.36,
-      "change_pct": 3.32
+      "price": 57.14,
+      "change_pct": 3.14
     },
     {
       "symbol": "ZEC",
-      "price": 521.34,
-      "change_pct": 2.76
+      "price": 518.68,
+      "change_pct": 2.46
     },
     {
       "symbol": "TAO",
-      "price": 196.47,
-      "change_pct": -1.45
+      "price": 197.13,
+      "change_pct": -0.5
     },
     {
       "symbol": "SKY",
-      "price": 1316.48,
-      "change_pct": 2.62
+      "price": 1316.39,
+      "change_pct": 2.44
     },
     {
       "symbol": "AAVE",
-      "price": 90.46,
-      "change_pct": -0.2
+      "price": 90.03,
+      "change_pct": -0.41
     },
     {
       "symbol": "BNB",
-      "price": 600.16,
-      "change_pct": 1.14
+      "price": 597.43,
+      "change_pct": 0.7
     },
     {
       "symbol": "NEAR",
       "price": 1.71,
-      "change_pct": -2.03
+      "change_pct": -2.02
     },
     {
       "symbol": "DOGE",
-      "price": 0.070204,
-      "change_pct": -0.26
+      "price": 0.07035,
+      "change_pct": 0.02
     },
     {
       "symbol": "SPACEX",
-      "price": 462,
-      "change_pct": -0.78
+      "price": 459.31,
+      "change_pct": -1.47
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "参议员卢米斯仍在八月休会前推动清晰度投票",
+      "summary": "在休会开始之前，美国立法者只有几天时间就加密货币市场结构法案进行投票，休会可能会将考虑推迟到 2026 年选举季或更晚。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785957504,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Alphabet 因更多人工智能人才流失而陷入困境。我们并不太担心",
       "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
@@ -733,15 +742,6 @@
       "datetime": 1785931291,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Circle 第二季度收入低于华尔街预期",
-      "summary": "稳定币发行商 Circle 报告第二季度收入为 7.01 亿美元，低于华尔街预期的约 7.13 亿美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1785930518,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -810,9 +810,9 @@
     "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.1,
-    "weekly_score": 16.9,
-    "btc_price": 64881.4,
+    "daily_score": 16,
+    "weekly_score": 17,
+    "btc_price": 64832.1,
     "fear_greed": 37,
     "indicators": [
       {
@@ -824,15 +824,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000858,
+        "value": 0.000806,
         "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.16,
-        "score": 44,
+        "value": 1.15,
+        "score": 43,
         "weight": 5,
         "group": "daily"
       },
@@ -894,15 +894,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.7,
-        "score": 25,
+        "value": 34.6,
+        "score": 24,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89.8,
-        "score": 20,
+        "value": -82.8,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1057,8 +1057,8 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 121,
-        "retweets": 6
+        "likes": 160,
+        "retweets": 8
       },
       {
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
@@ -1080,36 +1080,36 @@
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 3434,
-        "retweets": 295
+        "likes": 4170,
+        "retweets": 373
       },
       {
         "text": "Strategy creates Digital Credit.",
         "url": "https://x.com/saylor/status/2084910576304554179",
         "time": "Wed Aug 05 07:53:11 +0000 2026",
-        "likes": 3527,
-        "retweets": 297
+        "likes": 3658,
+        "retweets": 308
       },
       {
         "text": "Tranquilize the ₿ears. https://t.co/UYkLu6hFHA",
         "url": "https://x.com/saylor/status/2084787271631356402",
         "time": "Tue Aug 04 23:43:13 +0000 2026",
-        "likes": 13428,
-        "retweets": 1071
+        "likes": 13882,
+        "retweets": 1113
       },
       {
         "text": "At 961,022, BIP-110 has 38 signals (2.70%). Its 55% voluntary threshold is impossible. At 961,632, BIP-110 nodes reject non-signaling blocks. Unless major miners reverse, Bitcoin continues normally while BIP-110 stalls or forks into irrelevance. Its backers should stand down.",
         "url": "https://x.com/saylor/status/2084653839555219533",
         "time": "Tue Aug 04 14:53:01 +0000 2026",
-        "likes": 4805,
-        "retweets": 448
+        "likes": 4839,
+        "retweets": 450
       },
       {
         "text": "Strategy is the JPMorgan of the crypto economy.",
         "url": "https://x.com/saylor/status/2084378738553143523",
         "time": "Mon Aug 03 20:39:51 +0000 2026",
-        "likes": 5389,
-        "retweets": 591
+        "likes": 5403,
+        "retweets": 593
       }
     ],
     "viktorfischer": [
@@ -1153,6 +1153,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "今天的会议发生了什么：道琼斯指数",
+        "url": "https://finnhub.io/api/news?id=37410582800957237105abc7d2874ac064d8356eef6cdbe69591925af8b9c264",
+        "datetime": 1785957005,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "周三交易时段：标准普尔 500 指数涨幅最大和跌幅最大的股票",
+        "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
+        "datetime": 1785956701,
+        "source": "ChartMill"
+      },
+      {
         "headline": "对今天交易中最活跃的 S&P500 股票感到好奇吗？",
         "url": "https://finnhub.io/api/news?id=37870f8def4c147fe9117a6d7906f67f4b2141ea1f0506a5e29a7bcd6fa3663f",
         "datetime": 1785953102,
@@ -1169,81 +1181,69 @@
         "url": "https://finnhub.io/api/news?id=1625a6853d032cb8951b4fdab67de5fca475d43099fb377d770f91efada020f0",
         "datetime": 1785952262,
         "source": "Yahoo"
-      },
-      {
-        "headline": "美光的供应紧缩正在变成一个定价故事",
-        "url": "https://finnhub.io/api/news?id=719e3da3ef894d9628297db40d35de2a0734d702969cf04671c4fcb117c0b619",
-        "datetime": 1785951906,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么 TransMedics 股票今天下跌",
-        "url": "https://finnhub.io/api/news?id=f9bde127f9ccf50582c0f60e1ec980ba1e21db544285bb6012f717c420e4faf1",
-        "datetime": 1785951428,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "谷歌股价下跌 5%，四名人工智能领导者辞职，其中包括被引用最多的研究人员",
-        "url": "https://finnhub.io/api/news?id=fc7b1058b817913d8af341dc4622e2e9a85dc5dff3539f750465a7c1a29996d0",
-        "datetime": 1785952369,
+        "headline": "首席科学家 Jeff Dean 离职后，Alphabet 旗下的谷歌重组了人工智能领导层",
+        "url": "https://finnhub.io/api/news?id=ef5855ca8cc378703c2e513762d41c8240f3c6e064c12b2dcc4852b3e3be2a75",
+        "datetime": 1785957863,
         "source": "Yahoo"
       },
       {
-        "headline": "大型科技公司的井喷式利润掩盖了一个令人不安的事实",
-        "url": "https://finnhub.io/api/news?id=44c4ea7ae62f11329f035809cba6bdcdd7c206ba6b4ad49c0b58889c44984fe5",
-        "datetime": 1785952020,
+        "headline": "SK 海力士 (KOSE:A000660) 帮助制定 AI 闪存开放标准",
+        "url": "https://finnhub.io/api/news?id=023b982b0a9888fc4096d6da16888a4366741dc89d09ee1071057365e334ba72",
+        "datetime": 1785957271,
         "source": "Yahoo"
       },
       {
-        "headline": "DeepMind 的哈萨比斯辞职，加剧了人们对谷歌人工智能推动的担忧",
-        "url": "https://finnhub.io/api/news?id=f5415c160f50deea1f762ffb479380177f44b9af1335c0f22f32dd2974d3e15d",
-        "datetime": 1785951847,
+        "headline": "Taboola.com 第二季度财报电话会议亮点",
+        "url": "https://finnhub.io/api/news?id=65f67cec55c239d97694a16060d25a759c01356ce67ac5fbc3522634c931ebec",
+        "datetime": 1785956644,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet、微软、亚马逊和甲骨文在 3 天内增加了 1.9 万亿美元。这就是为什么微软的奔跑还没有结束。",
-        "url": "https://finnhub.io/api/news?id=b09889748753a97add143df5acfc29ccde7846cd8d96ba08d36cb4827cdddd4c",
-        "datetime": 1785951600,
+        "headline": "TeraWulf Inc (WULF)（2026 年第二季度）收益电话会议亮点：19B 美元人类租赁和战略......",
+        "url": "https://finnhub.io/api/news?id=0375097061f33b0459154ab7d5291fe6e51faf1346217ec621032cc2d820e6f5",
+        "datetime": 1785956457,
         "source": "Yahoo"
       },
       {
-        "headline": "超越资本支出：大型科技公司悄悄锁定 2.7 万亿美元的长期承诺",
-        "url": "https://finnhub.io/api/news?id=18e0ad7d6f841bffdad7efd2946282f8b5a757a86d30a42f7d131b550513d880",
-        "datetime": 1785951060,
+        "headline": "Airbnb 与 Axon Enterprise：2026 年哪种消费品股票更值得购买？",
+        "url": "https://finnhub.io/api/news?id=e0750c9c1d0cb551744b8b3f598adf27dd995c8a2ef159a400377c5e203a7d12",
+        "datetime": 1785955921,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Uber 的乘车共享业务正在蓬勃发展。为什么股市一点也不关心。",
-        "url": "https://finnhub.io/api/news?id=3023e9445bfd733e506041de8b2a1e92479d863f16905aa848eb392aa60826fb",
-        "datetime": 1785950940,
+        "headline": "埃隆·马斯克 (Elon Musk) 预测“2036 年金钱不再重要”。这是他迄今为止最糟糕的预测还是预言？",
+        "url": "https://finnhub.io/api/news?id=b6cdb61d24fbbf0f2adb11e0f5154ede198b1f92cf408b7020105655d6822201",
+        "datetime": 1785957716,
         "source": "Yahoo"
       },
       {
-        "headline": "迈克尔·伯里 (Michael Burry) 对标普 500 指数崩盘发出严厉警告",
-        "url": "https://finnhub.io/api/news?id=27931fe397dd7c39524c9e70136efb6e3a7a82720013e6051455ba3a6485778e",
-        "datetime": 1785950371,
+        "headline": "埃隆·马斯克认为 SpaceX 坠毁是一个“疯狂的机会”——你应该相信他吗？",
+        "url": "https://finnhub.io/api/news?id=e3879bd71f01f79824b8a9b2e15134dc65bffc2b5c706f8a656c622c74f20541",
+        "datetime": 1785956293,
         "source": "Yahoo"
       },
       {
-        "headline": "迈克尔·伯里 (Michael Burry) 对人工智能股票的看法令人震惊",
-        "url": "https://finnhub.io/api/news?id=a72b14c97599b51d638cfd1ec273f41edb7a04ff9466170a365ac28044f1d4c5",
-        "datetime": 1785949072,
+        "headline": "Uber 旨在打造全球最大的自动驾驶汽车平台。它能与特斯拉竞争吗？",
+        "url": "https://finnhub.io/api/news?id=869410320c3a5d47d0fd995099a550feefc94783410b33705e108f4264424265",
+        "datetime": 1785954601,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克刚刚解释了为什么记忆可能成为下一个人工智能赢家。",
-        "url": "https://finnhub.io/api/news?id=d3afd950af557e17ecf39dfc558e3767c167b78fce9a199f1343851cbd7ff3ed",
-        "datetime": 1785948786,
+        "headline": "埃隆·马斯克表示 SpaceX 将“独家”购买其芯片后，英伟达股价上涨",
+        "url": "https://finnhub.io/api/news?id=c9458f3b72cf1ad63f2ad48ae6315c92d2e804ff912d695ac7ac80b430c88a49",
+        "datetime": 1785953403,
         "source": "Yahoo"
       },
       {
-        "headline": "所有股息投资者现在需要了解的关于建立被动收入的 4 件事",
-        "url": "https://finnhub.io/api/news?id=5325ae51bd3081143a45529cd8fa36f01e0c4be360ee2987b38fdf2fcf1962d3",
-        "datetime": 1785946800,
+        "headline": "马克·库班 (Mark Cuban) 向 Grok 求助，测试佐兰·马姆达尼 (Zohran Mamdani) 的纽约市政府杂货店计划，他得到了一个粗略的结论",
+        "url": "https://finnhub.io/api/news?id=f53b9a2779718bfb4828457ca331042f6096d4ddd4d4bb71936ed39f1c039295",
+        "datetime": 1785952869,
         "source": "Yahoo"
       }
     ],
@@ -1393,6 +1393,12 @@
     ],
     "DOGE": [
       {
+        "headline": "检查了图表。上面还是一条狗。基本面完好无损",
+        "url": "https://x.com/dogecoin/status/2085085787121459263",
+        "datetime": 1785958165,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "《蜘蛛侠》刚刚度过了电影史上最盛大的首映周末。他还需要大约 11 个才能抓住狗",
         "url": "https://x.com/dogecoin/status/2084717198598123955",
         "datetime": 1785870286,
@@ -1402,12 +1408,6 @@
         "headline": "天哪，是的",
         "url": "https://x.com/dogecoin/status/2083256382023733546",
         "datetime": 1785522001,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "我明白他们为何上当",
-        "url": "https://x.com/dogecoin/status/2082914837571477685",
-        "datetime": 1785440570,
         "source": "@dogecoin"
       }
     ],
