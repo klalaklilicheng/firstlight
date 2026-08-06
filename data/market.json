@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T23:52:46.816Z",
+  "updated_at": "2026-08-06T01:49:24.306Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64609,
-      "change_pct": 0.79
+      "price": 64541,
+      "change_pct": 0.58
     },
     {
       "symbol": "ETH",
-      "price": 1908.46,
-      "change_pct": 2.09
+      "price": 1905.65,
+      "change_pct": 1.91
     },
     {
       "symbol": "SOL",
-      "price": 74,
-      "change_pct": 0.33
+      "price": 73.74,
+      "change_pct": -0.22
     },
     {
       "symbol": "HYPE",
-      "price": 56.93,
-      "change_pct": 3.43
+      "price": 56.6,
+      "change_pct": 2.89
     },
     {
       "symbol": "ZEC",
-      "price": 512.39,
-      "change_pct": 1.31
+      "price": 508.09,
+      "change_pct": -0.18
     },
     {
       "symbol": "TAO",
-      "price": 197.46,
-      "change_pct": 0.88
+      "price": 196.23,
+      "change_pct": -0.04
     },
     {
       "symbol": "SKY",
-      "price": 1305.68,
-      "change_pct": 0.88
+      "price": 1304.11,
+      "change_pct": 0.85
     },
     {
       "symbol": "AAVE",
-      "price": 89.71,
-      "change_pct": -0.84
+      "price": 89.09,
+      "change_pct": -1.19
     },
     {
       "symbol": "BNB",
-      "price": 593.45,
-      "change_pct": 0.11
+      "price": 593.95,
+      "change_pct": -1.36
     },
     {
       "symbol": "NEAR",
-      "price": 1.7,
-      "change_pct": -1.96
+      "price": 1.71,
+      "change_pct": -0.85
     },
     {
       "symbol": "DOGE",
-      "price": 0.069986,
-      "change_pct": -0.19
+      "price": 0.069761,
+      "change_pct": -0.5
     },
     {
       "symbol": "SPACEX",
-      "price": 461.94,
-      "change_pct": -0.66
+      "price": 460.96,
+      "change_pct": -0.87
     }
   ],
   "earnings": {
@@ -386,11 +386,10 @@
     },
     "MSTR": {
       "next": {
-        "date": "2026-10-28",
+        "date": "2026-11-19",
         "quarter": 3,
         "year": 2026,
-        "eps_estimate": 10.5322,
-        "revenue_estimate": 132113092
+        "is_estimate": true
       },
       "history": [
         {
@@ -474,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "比特币红队报告了全面安全审计的 5K 发现",
+      "summary": "“现在生态系统中存在很多混乱。我们绝对理解现在很多人都受到安全问题的困扰，”比特币开发商 Calle 说。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785978546,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Block 上调 2026 年强劲季度前景，称人工智能几乎涉及所有代码",
+      "summary": "Cash App 和 Square 的业绩好于预期，同时该公司表示，其在软件工程领域扩大了人工智能的使用。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1785975770,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Jim Cramer 表示投资者应该考虑为孩子购买 SpaceX",
       "summary": "CNBC 的 Jim Cramer 表示，投资者应该将 SpaceX 视为一项多代人的投资，其最大的机遇可能需要几十年才能完全实现。",
       "source": "CNBC",
@@ -511,7 +528,7 @@
     },
     {
       "headline": "参议员卢米斯仍在八月休会前推动清晰度投票",
-      "summary": "在休会开始之前，美国立法者只有几天的时间就加密货币市场结构法案进行投票，休会可能会将考虑推迟到 2026 年选举季或更晚。",
+      "summary": "在休会开始之前，美国立法者只有几天时间就加密货币市场结构法案进行投票，休会可能会将考虑推迟到 2026 年选举季或更晚。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1785957504,
@@ -724,24 +741,6 @@
       "datetime": 1785934800,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Galaxy Digital 股价在第二季度业绩公布后下跌 5%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-      "datetime": 1785933739,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "一度价值 24 亿美元的 AI 代理代币最终被创始人宣布死亡",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
-      "datetime": 1785932919,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -807,25 +806,25 @@
     }
   ],
   "btc_score": {
-    "score": 31.7,
+    "score": 32.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.7,
+    "daily_score": 15.2,
     "weekly_score": 17,
-    "btc_price": 64654.1,
-    "fear_greed": 37,
+    "btc_price": 64652.8,
+    "fear_greed": 39,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 13400000,
-        "score": 51,
+        "value": 47600000,
+        "score": 53,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.00668,
-        "score": 48,
+        "value": 0.007188,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
@@ -838,8 +837,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 37,
-        "score": 37,
+        "value": 39,
+        "score": 39,
         "weight": 7,
         "group": "daily"
       },
@@ -887,7 +886,7 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.01,
+        "value": 1.02,
         "score": 17,
         "weight": 6,
         "group": "weekly"
@@ -901,8 +900,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -79.4,
-        "score": 23,
+        "value": -76.9,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -911,7 +910,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 42
+      "days_until": 41
     },
     "schedule": [
       "2025-01-29",
@@ -1020,7 +1019,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1386,
+        "likes": 1387,
         "retweets": 73
       },
       {
@@ -1057,8 +1056,8 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 219,
-        "retweets": 8
+        "likes": 267,
+        "retweets": 9
       },
       {
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
@@ -1080,36 +1079,36 @@
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 5010,
-        "retweets": 456
+        "likes": 5426,
+        "retweets": 494
       },
       {
         "text": "Strategy creates Digital Credit.",
         "url": "https://x.com/saylor/status/2084910576304554179",
         "time": "Wed Aug 05 07:53:11 +0000 2026",
-        "likes": 3795,
-        "retweets": 317
+        "likes": 3889,
+        "retweets": 329
       },
       {
         "text": "Tranquilize the ₿ears. https://t.co/UYkLu6hFHA",
         "url": "https://x.com/saylor/status/2084787271631356402",
         "time": "Tue Aug 04 23:43:13 +0000 2026",
-        "likes": 14307,
-        "retweets": 1154
+        "likes": 14521,
+        "retweets": 1176
       },
       {
         "text": "At 961,022, BIP-110 has 38 signals (2.70%). Its 55% voluntary threshold is impossible. At 961,632, BIP-110 nodes reject non-signaling blocks. Unless major miners reverse, Bitcoin continues normally while BIP-110 stalls or forks into irrelevance. Its backers should stand down.",
         "url": "https://x.com/saylor/status/2084653839555219533",
         "time": "Tue Aug 04 14:53:01 +0000 2026",
-        "likes": 4900,
-        "retweets": 457
+        "likes": 4933,
+        "retweets": 460
       },
       {
         "text": "Strategy is the JPMorgan of the crypto economy.",
         "url": "https://x.com/saylor/status/2084378738553143523",
         "time": "Mon Aug 03 20:39:51 +0000 2026",
-        "likes": 5405,
-        "retweets": 595
+        "likes": 5409,
+        "retweets": 598
       }
     ],
     "viktorfischer": [
@@ -1153,97 +1152,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "华特迪士尼公司 2026 年第三季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=67ff115e30ef738981aed0a6635e8df1cbe53cef2c205098c29689a02497f1eb",
-        "datetime": 1785966279,
+        "headline": "迪士尼重申两位数盈利增长，回购目标为 90 亿美元。这是投资者需要了解的内容。",
+        "url": "https://finnhub.io/api/news?id=99dc4a136a2eaa73109c28b83129533c647ea4fe8b53ed0250be25b292dc329a",
+        "datetime": 1785973830,
         "source": "Yahoo"
       },
       {
-        "headline": "高纬环球 (Cushman & Wakefield plc) 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=bb5187fa9a994af02f89f7d8d0a3bd73b3e8dbaca3ba426554bd248774ab6985",
-        "datetime": 1785966242,
+        "headline": "为什么 Rivian 即将飙升。提示：这并不全是 R2 的炒作。",
+        "url": "https://finnhub.io/api/news?id=def5d160927cf82878d31b34e3b3b98ae5c57a58a69d5d185f7e7ad495aba0ca",
+        "datetime": 1785972300,
         "source": "Yahoo"
       },
       {
-        "headline": "The Brink's 公司 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=10516c97d8d96f0ab2dc57b6074ecc875b083dc7a28fa38b00f8b7c47de01870",
-        "datetime": 1785966045,
+        "headline": "亚马逊和 Alphabet 刚刚打破了人们的期望。现在买哪个更好？",
+        "url": "https://finnhub.io/api/news?id=d1d64125f1a73dbe21c634c2df636be59acd168e9899d09e25edd57c5aa3479c",
+        "datetime": 1785972000,
         "source": "Yahoo"
       },
       {
-        "headline": "fuboTV Inc. 2026 年第三季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=848d7b0f715137897172787172c0f489eb16883c17e644d561be5cad498e6107",
-        "datetime": 1785965930,
+        "headline": "Shopify Inc. 2026 年第二季度收益电话会议摘要",
+        "url": "https://finnhub.io/api/news?id=af72e2563f2010e4571b96e05105270feb9fa1ee8392c260d30cd2fbc0666cc2",
+        "datetime": 1785970413,
         "source": "Yahoo"
       },
       {
-        "headline": "道琼斯期货：Nvidia 提振道琼斯指数，但谷歌、SpaceX 下滑；闪迪、西部数据领跌盈利",
-        "url": "https://finnhub.io/api/news?id=f546d76ca0972300cdacdeef05978febf17dd27de394c36934129764360b28f7",
-        "datetime": 1785965914,
+        "headline": "为什么礼来公司股票今天上涨",
+        "url": "https://finnhub.io/api/news?id=8db7b6882bc727e982f993c485b5d1df8b840684a25c8eba354b215d6812c54b",
+        "datetime": 1785970410,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "道琼斯期货：Nvidia 提振道琼斯指数，但谷歌、SpaceX 下滑；闪迪、西部数据领跌盈利",
-        "url": "https://finnhub.io/api/news?id=f546d76ca0972300cdacdeef05978febf17dd27de394c36934129764360b28f7",
-        "datetime": 1785965914,
+        "headline": "谷歌母公司Alphabet重组人工智能部门",
+        "url": "https://finnhub.io/api/news?id=f7c2754427b3c9a0616f52fc347ec4d350d608802beae7063ec9589a50124b20",
+        "datetime": 1785972748,
         "source": "Yahoo"
       },
       {
-        "headline": "Travis Kalanick 的机器人初创公司 Atoms 任命 Uber 前财务总监为首席财务官",
-        "url": "https://finnhub.io/api/news?id=9c91dac1569f3cf6e211ad178b1fb5d42a64a12862ecff52fc45ff54af0e763a",
-        "datetime": 1785965200,
+        "headline": "亚马逊和 Alphabet 刚刚打破了人们的期望。现在买哪个更好？",
+        "url": "https://finnhub.io/api/news?id=d1d64125f1a73dbe21c634c2df636be59acd168e9899d09e25edd57c5aa3479c",
+        "datetime": 1785972000,
         "source": "Yahoo"
       },
       {
-        "headline": "Rivian 与 Uber 达成 12.5 亿美元合作伙伴关系，有望成为 Robotaxi 意外获胜者",
-        "url": "https://finnhub.io/api/news?id=dab8c80173f45565a585cdf3e8b5f447f317c00e8d528a0ae91727a32137beed",
-        "datetime": 1785964800,
+        "headline": "NiSource Inc (NI)（2026 年第二季度）收益电话会议亮点：重申数据中心的指导...",
+        "url": "https://finnhub.io/api/news?id=c74b74617bc18327a93d0f793444b5ad1b06f8c4acf37403b098bea00ab82c97",
+        "datetime": 1785970931,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊在最新电话会议中面临的最棘手的问题",
-        "url": "https://finnhub.io/api/news?id=fd8d044af5254e669056ec6fe2f2312c1aa1d0f0a999cac5c1d28173a77af6f0",
-        "datetime": 1785964280,
+        "headline": "AI 开拓者 Nvidia、Palantir、Alphabet 和 Meta 发出 34 亿美元的警告，震撼华尔街",
+        "url": "https://finnhub.io/api/news?id=36f36226d4d7300e5be9c0851dc939386f3d64e913f98d529956256b8fab1dd6",
+        "datetime": 1785968760,
         "source": "Yahoo"
       },
       {
-        "headline": "更新：美国股指涨跌互现，大型通信服务、科技股承压，霍尔木兹海峡安全航线出现",
-        "url": "https://finnhub.io/api/news?id=51aeadf49d9e3b80563dde05ab1fe19fa483dd5996b80fbf03ad8b9274d10bcf",
-        "datetime": 1785963376,
+        "headline": "SOXL ETF 是一种流行但危险的投资筹码股的方式",
+        "url": "https://finnhub.io/api/news?id=47ac797eba2d20ee7db080c74e03ebc01f59f3c2feafa4e115ba19522ddf3f1a",
+        "datetime": 1785967620,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Rivian 与 Uber 达成 12.5 亿美元合作伙伴关系，有望成为 Robotaxi 意外获胜者",
+        "headline": "Polymarket 给出的特斯拉与 SpaceX 于 2026 年宣布合并的可能性为 18%",
+        "url": "https://finnhub.io/api/news?id=d9cec7df64428711515a660890c5673e6f51fad07b1e78289c074e58b326bf17",
+        "datetime": 1785970226,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "你应该忘记特斯拉股价接近 52 周低点吗？",
+        "url": "https://finnhub.io/api/news?id=deaab46e56e337d3a19f4860fbb4fd32e8028d30e6f845a067a8fd3ad5aa04a6",
+        "datetime": 1785969300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Jim Cramer：到 2030 年 SpaceX 收入可能达到 1 万亿美元，但“短期内，别想了”",
+        "url": "https://finnhub.io/api/news?id=6b71460e83a09854884d94b6ff6ad9c1cad77f8ebca7e5292f961169245244c2",
+        "datetime": 1785967798,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "EVgo, Inc. 2026 年第二季度收益电话会议摘要",
+        "url": "https://finnhub.io/api/news?id=0c7755f5affae15791dcb3589f9285ab6ad80d7b1dbef8299c60827e7e40264c",
+        "datetime": 1785966932,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Rivian 与 Uber 达成 12.5 亿美元合作伙伴关系，有望成为 Robotaxi 的意外赢家",
         "url": "https://finnhub.io/api/news?id=dab8c80173f45565a585cdf3e8b5f447f317c00e8d528a0ae91727a32137beed",
         "datetime": 1785964800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "马斯克表示这些特斯拉产品将“大幅”增加星链需求",
-        "url": "https://finnhub.io/api/news?id=25c653281b326b3e628466fd067b102d9944d9fa20e9fba7b4b10e68bac290e2",
-        "datetime": 1785960108,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "埃隆·马斯克 (Elon Musk) 预测“2036 年金钱不再重要”。这是他迄今为止最糟糕的预测还是预言？",
-        "url": "https://finnhub.io/api/news?id=b6cdb61d24fbbf0f2adb11e0f5154ede198b1f92cf408b7020105655d6822201",
-        "datetime": 1785957716,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "埃隆·马斯克认为 SpaceX 坠毁是一个“疯狂的机会”——你应该相信他吗？",
-        "url": "https://finnhub.io/api/news?id=e3879bd71f01f79824b8a9b2e15134dc65bffc2b5c706f8a656c622c74f20541",
-        "datetime": 1785956293,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Uber 旨在打造全球最大的自动驾驶汽车平台。它能与特斯拉竞争吗？",
-        "url": "https://finnhub.io/api/news?id=869410320c3a5d47d0fd995099a550feefc94783410b33705e108f4264424265",
-        "datetime": 1785954601,
         "source": "Yahoo"
       }
     ],
@@ -1267,7 +1266,7 @@
         "source": "Benzinga"
       },
       {
-        "headline": "尽管第二季度收入和每股收益低于预期，但 Circle Internet Group （纽约证券交易所代码：CRCL）因前景提高和强劲势头而上涨",
+        "headline": "尽管第二季度收入和每股收益低于预期，但 Circle Internet Group （纽约证券交易所股票代码：CRCL）因前景提高和强劲势头而上涨",
         "url": "https://finnhub.io/api/news?id=3563c3e4db73ff342e95abb617411f8ce016922bf8fff254c08016b963e62001",
         "datetime": 1785929237,
         "source": "ChartMill"
@@ -1297,15 +1296,15 @@
         "url": "https://finnhub.io/api/news?id=62e6da5eaf795998d7ea5a4623a95ec301e928c8cd756f5a058de196b53181b9",
         "datetime": 1785755773,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "瑞幸咖啡：别再叫中国星巴克了，这家公司不一样",
-        "url": "https://finnhub.io/api/news?id=977db7d8ed94f74a4cc9c55cf6dd0858abaa2e0ddd106f04fa8c93435ab86100",
-        "datetime": 1785295443,
-        "source": "SeekingAlpha"
       }
     ],
     "BTC": [
+      {
+        "headline": "比特币红队报告了全面安全审计的 5K 发现",
+        "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1785978546,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "超大规模数据 比特币国债、现金、限制性现金和白银持有量约为 1.067 亿美元，占普通股当前市值的 117.06%",
         "url": "https://cryptocurrencynews.com/crypto/hyperscale-data-bitcoin-treasury-cash-restricted-cash-and-silver-holdings-of-approximately-106-7-million-represents-117-06-of-current-market-capitalization-of-common-stock/",
@@ -1329,12 +1328,6 @@
         "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1785942136,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着公司建立现金储备，比特币价格稳定，Strategy的STRC反弹30%",
-        "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
-        "datetime": 1785941070,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
