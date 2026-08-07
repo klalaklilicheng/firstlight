@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:49:58.675Z",
+  "updated_at": "2026-08-07T06:06:22.322Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64180,
-      "change_pct": -0.63
+      "price": 64265,
+      "change_pct": -0.84
     },
     {
       "symbol": "ETH",
-      "price": 1895.92,
-      "change_pct": -0.39
+      "price": 1898.76,
+      "change_pct": -0.68
     },
     {
       "symbol": "SOL",
-      "price": 72.62,
-      "change_pct": -1.41
+      "price": 72.77,
+      "change_pct": -1.87
     },
     {
       "symbol": "HYPE",
-      "price": 55.5,
-      "change_pct": -1.51
+      "price": 55.31,
+      "change_pct": -1.84
     },
     {
       "symbol": "ZEC",
-      "price": 503.79,
-      "change_pct": -1.46
+      "price": 501.97,
+      "change_pct": -1.36
     },
     {
       "symbol": "TAO",
-      "price": 191.01,
-      "change_pct": -2.64
+      "price": 191.18,
+      "change_pct": -2.77
     },
     {
       "symbol": "SKY",
-      "price": 1272.12,
-      "change_pct": -5.71
+      "price": 1274.25,
+      "change_pct": -2.53
     },
     {
       "symbol": "AAVE",
-      "price": 90.22,
-      "change_pct": 1.35
+      "price": 89.99,
+      "change_pct": 0.79
     },
     {
       "symbol": "BNB",
-      "price": 587.37,
-      "change_pct": -1.2
+      "price": 587.04,
+      "change_pct": -1.49
     },
     {
       "symbol": "NEAR",
       "price": 1.63,
-      "change_pct": -5.6
+      "change_pct": -5.55
     },
     {
       "symbol": "DOGE",
-      "price": 0.068999,
-      "change_pct": -0.96
+      "price": 0.069131,
+      "change_pct": -1.12
     },
     {
       "symbol": "SPACEX",
       "price": 453.2,
-      "change_pct": -1
+      "change_pct": -1.05
     }
   ],
   "earnings": {
@@ -473,6 +473,60 @@
   },
   "news": [
     {
+      "headline": "比特币鲸鱼买入 12 亿美元 BTC，ETF 吸引 7.5 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "datetime": 1786081521,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "日本金融厅要求加密货币交易所延迟提款以打击诈骗",
+      "summary": "日本当局呼吁进行地址注册、特定于客户的限制和更强的身份验证，作为更广泛地遏制滥用交易所账户的努力的一部分。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786080278,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "彭博社：拟议的 CLARITY 道德协议可以为特朗普节省数百万美元的税款",
+      "summary": "据报道，最新的两党道德提案将要求特朗普剥离加密业务，同时允许他推迟对这些销售征收资本利得税。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786079062,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "自 2011 年以来一直处于休眠状态的比特币钱包将 320 万美元转移到 FalconX 链接地址",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+      "datetime": 1786078244,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "在无聊的价格走势之下，比特币飙升至 76,000 美元的理由可能正在形成，但有一个警告",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "datetime": 1786076897,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于《澄清法案》投票推迟至 9 月，XRP 大幅下跌",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+      "datetime": 1786076221,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Bitget 探索在不丹的许可加密货币存在",
       "summary": "加密货币交易所 Bitget 已与 Gelephu Mindativity City Authority 签署协议，寻求在当地开展受监管的业务。",
       "source": "Cointelegraph",
@@ -509,7 +563,7 @@
       "related": ""
     },
     {
-      "headline": "加密货币新闻 - 随着休会临近，美国参议院将 CLARITY Act 加密货币投票推迟到 9 月",
+      "headline": "加密货币新闻 - 随着休会临近，美国参议院将 CLARITY Act 加密货币投票推迟至 9 月",
       "summary": "<p class=\"font-claude-response-bodybreak-wordswhitespace-normal\" dir=\"ltr\">此次推迟消除了数字资产市场近期监管的明确性，扩大了自 5 月份该法案通过委员会以来公司所称的对托管和产品规划的限制的不确定性。九月",
       "source": "Forexlive",
       "url": "https://investinglive.com/cryptocurrency/crypto-news-us-senate-pushes-clarity-act-crypto-vote-to-september-as-recess-nears/",
@@ -672,7 +726,7 @@
     },
     {
       "headline": "福克斯首席执行官拉克兰·默多克表示，在当前协议到期之前，福克斯不会重新谈判 NFL 媒体权",
-      "summary": "首席执行官拉克兰·默多克 (Lachlan Murdoch) 表示，福克斯决定在 2030 年联盟的选择退出条款到期之前，不再与 NFL 重新谈判其目前的电视转播协议。",
+      "summary": "首席执行官拉克兰·默多克 (Lachlan Murdoch) 表示，福克斯决定在 2030 年联盟的选择退出条款到期之前，不再与 NFL 重新谈判其当前的电视转播协议。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
       "datetime": 1786024640,
@@ -686,60 +740,6 @@
       "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786024356,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "有史以来 10 个最奇怪的东西被代币化......包括放屁",
-      "summary": "代币化的奶牛可能已经病毒式传播，但它们只是一系列在链上找到归宿的奇怪事物中的最新一个，从放屁到人皮，再到被毁的艺术品",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786023000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着交易保持稳定，家族办公室在 7 月份支持清洁能源和可持续发展初创公司",
-      "summary": "约翰·杜尔和其他亿万富翁的私人投资公司正在支持地热能、尼龙回收等。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html",
-      "datetime": 1786021201,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "在 MiCA 和 FCA 批准后，Blockchain.com 获得开曼托管许可证",
-      "summary": "Blockchain.com 获得了开曼群岛金融管理局的 VASP 托管许可证，扩大了其在该地区的受监管加密服务。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786021200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "第二季度超流动性 RWA 合约增长至交易活动的 32%",
-      "summary": "代币化的现实世界资产占 Hyperliquid 季度交易量的三分之一以上，占该协议 1.69 亿美元季度收入的 6.6%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786020944,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "摩根大通表示，随着竞争加剧，Hyperliquid ETF 资金流入已陷入停滞",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "datetime": 1786020402,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "我们正在退出我们在一场出了问题的衍生剧中的位置",
-      "summary": "在令人失望的首份收益报告之后，需要时间来恢复投资者的信誉。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/06/were-exiting-our-position-in-a-spin-off-play-gone-wrong-.html",
-      "datetime": 1786019933,
-      "category": "top news",
       "related": ""
     }
   ],
@@ -811,12 +811,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.8,
+    "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 16.9,
-    "btc_price": 64263.5,
+    "daily_score": 16,
+    "weekly_score": 17,
+    "btc_price": 64350.7,
     "fear_greed": 38,
     "indicators": [
       {
@@ -828,15 +828,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002396,
-        "score": 46,
+        "value": 0.003311,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.23,
-        "score": 49,
+        "value": 1.25,
+        "score": 50,
         "weight": 5,
         "group": "daily"
       },
@@ -898,15 +898,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 33.6,
+        "value": 33.7,
         "score": 23,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -82.9,
-        "score": 22,
+        "value": -81,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1061,7 +1061,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 519,
+        "likes": 523,
         "retweets": 17
       },
       {
@@ -1084,36 +1084,36 @@
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 3773,
-        "retweets": 363
+        "likes": 3910,
+        "retweets": 377
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4114,
-        "retweets": 473
+        "likes": 4171,
+        "retweets": 478
       },
       {
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 7137,
-        "retweets": 706
+        "likes": 7154,
+        "retweets": 709
       },
       {
         "text": "Strategy creates Digital Credit.",
         "url": "https://x.com/saylor/status/2084910576304554179",
         "time": "Wed Aug 05 07:53:11 +0000 2026",
-        "likes": 4430,
-        "retweets": 401
+        "likes": 4433,
+        "retweets": 402
       },
       {
         "text": "Tranquilize the ₿ears. https://t.co/UYkLu6hFHA",
         "url": "https://x.com/saylor/status/2084787271631356402",
         "time": "Tue Aug 04 23:43:13 +0000 2026",
-        "likes": 16117,
-        "retweets": 1336
+        "likes": 16119,
+        "retweets": 1337
       }
     ],
     "viktorfischer": [
@@ -1157,7 +1157,7 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "奥克洛周五早上报告称，几乎没有任何收入可报告。该股的交易价格比最高点低 78%。",
+        "headline": "Oklo 周五早上报告，几乎没有收入报告。该股的交易价格比最高点低 78%。",
         "url": "https://finnhub.io/api/news?id=1de9b845ca87b50586b1ed8f8e33884d07c9ad0b9bdae2847810bb8bfa40cbac",
         "datetime": 1786073640,
         "source": "Yahoo"
@@ -1305,6 +1305,24 @@
     ],
     "BTC": [
       {
+        "headline": "比特币鲸鱼买入 12 亿美元 BTC，ETF 吸引 7.5 亿美元",
+        "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+        "datetime": 1786081521,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "自 2011 年以来一直处于休眠状态的比特币钱包将 320 万美元转移到 FalconX 链接地址",
+        "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+        "datetime": 1786078244,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "在无聊的价格走势之下，比特币飙升至 76,000 美元的理由可能正在形成，但有一个警告",
+        "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+        "datetime": 1786076897,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "由于比特币的暴跌掩盖了更高的产出，MARA 第二季度出现亏损",
         "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786069027,
@@ -1315,34 +1333,9 @@
         "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786040277,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币矿工的人工智能转向失去了华尔街的惊叹因素",
-        "url": "https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786034553,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "美国 PMI 数据带来新的“滞胀”警告，比特币价格跌破 6.5 万美元",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786033458,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "比特币国债交易“崩溃”，基金持有量下降 10%：分析",
-        "url": "https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786016917,
-        "source": "Cointelegraph"
       }
     ],
-    "ETH": [
-      {
-        "headline": "如果抵押的 ETH 达到 1120 亿美元，新的以太坊提案将把发行量减少到零",
-        "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-        "datetime": 1785908997,
-        "source": "CoinDesk"
-      }
-    ],
+    "ETH": [],
     "SOL": [
       {
         "headline": "@Blockworks @toma_adv 来源：@Blockworks\n\n请在此处阅读更大的 Lightspeed 报告的摘录：",
