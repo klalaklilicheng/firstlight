@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:44:30.104Z",
+  "updated_at": "2026-08-07T11:39:57.545Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64821,
-      "change_pct": 0.39
+      "price": 65006,
+      "change_pct": 0.68
     },
     {
       "symbol": "ETH",
-      "price": 1912.43,
-      "change_pct": 0.54
+      "price": 1914.72,
+      "change_pct": 0.44
     },
     {
       "symbol": "SOL",
-      "price": 73.47,
-      "change_pct": 0.26
+      "price": 73.53,
+      "change_pct": 0.08
     },
     {
       "symbol": "HYPE",
-      "price": 56.72,
-      "change_pct": 2.39
+      "price": 56.76,
+      "change_pct": 2.46
     },
     {
       "symbol": "ZEC",
-      "price": 509.14,
-      "change_pct": 2.03
+      "price": 509.64,
+      "change_pct": 3.07
     },
     {
       "symbol": "TAO",
-      "price": 193.44,
-      "change_pct": -0.03
+      "price": 194.32,
+      "change_pct": 0.04
     },
     {
       "symbol": "SKY",
-      "price": 1272.44,
-      "change_pct": -2.15
+      "price": 1259.46,
+      "change_pct": -3.32
     },
     {
       "symbol": "AAVE",
-      "price": 90.12,
-      "change_pct": 2.5
+      "price": 90.05,
+      "change_pct": 2.04
     },
     {
       "symbol": "BNB",
-      "price": 590.02,
-      "change_pct": -0.57
+      "price": 590.68,
+      "change_pct": -0.51
     },
     {
       "symbol": "NEAR",
       "price": 1.66,
-      "change_pct": -1.37
+      "change_pct": -2.09
     },
     {
       "symbol": "DOGE",
-      "price": 0.069476,
-      "change_pct": 0.7
+      "price": 0.069565,
+      "change_pct": 0.56
     },
     {
       "symbol": "SPACEX",
-      "price": 453.44,
-      "change_pct": -1.58
+      "price": 452.58,
+      "change_pct": -0.78
     }
   ],
   "earnings": {
@@ -473,6 +473,33 @@
   },
   "news": [
     {
+      "headline": "币安比特币交易量比率创历史新高，期货价格是现货价格的八倍以上",
+      "summary": "币安每日现货和期货交易量之间的差异创历史新高，后者达到近 580 亿美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786100701,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管面临宏观挑战，玛莎葡萄园非裔美国电影节出席人数仍创历史新高",
+      "summary": "MVAAFF 创始人弗洛伊德·兰斯表示，该节日在马萨诸塞岛找到了可持续的观众，帮助该岛应对宏观经济的不确定性。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/07/marthas-vineyard-african-american-film-festival-set-for-record-attendance.html",
+      "datetime": 1786100401,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "随着中东紧张局势进一步升级，比特币徘徊在 65,000 美元下方",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+      "datetime": 1786098974,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "由于股价下跌，CleanSpark 营收未达华尔街预期",
       "summary": "CleanSpark 的股价周四下跌 5.5%，此前这家比特币矿商公布的季度收入为 1.38 亿美元，略低于华尔街的普遍预期。",
       "source": "Cointelegraph",
@@ -635,7 +662,7 @@
       "related": ""
     },
     {
-      "headline": "加密货币新闻 - 随着休会临近，美国参议院将 CLARITY Act 加密货币投票推迟至 9 月",
+      "headline": "加密货币新闻 - 随着休会临近，美国参议院将 CLARITY Act 加密货币投票推迟到 9 月",
       "summary": "<p class=\"font-claude-response-bodybreak-wordswhitespace-normal\" dir=\"ltr\">此次推迟消除了数字资产市场近期监管的明确性，扩大了自 5 月份该法案通过委员会以来公司所称的对托管和产品规划的限制的不确定性。九月",
       "source": "Forexlive",
       "url": "https://investinglive.com/cryptocurrency/crypto-news-us-senate-pushes-clarity-act-crypto-vote-to-september-as-recess-nears/",
@@ -714,33 +741,6 @@
       "datetime": 1786041412,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Coldcard 黑客攻击后比特币 ETF 流入激增，但联系尚不清楚：彭博社分析师",
-      "summary": "美国现货比特币 ETF 持续一周的资金流入与 Coldcard 钱包漏洞同时发生，引发了关于一些投资者是否正在放弃自我托管的争论。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-coldcard-hack-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786040277,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Genius Sports 的媒体激增显示出体育博彩数据之外的转变",
-      "summary": "提供实时体育数据的 Genius Sports 报告称，第二季度收入增长了 65%。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/06/genius-sports-media-surge-shows-shift-beyond-sportsbook-data.html",
-      "datetime": 1786040239,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "美国上诉法院授权维持萨姆·班克曼-弗里德定罪",
-      "summary": "三名巡回法官对 FTX 前首席执行官的说法提出异议，即该已不复存在的加密货币交易所的投资者本可以得到赔偿，不会遭受任何损失。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786036654,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -814,9 +814,9 @@
     "score": 33.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.7,
-    "weekly_score": 17.5,
-    "btc_price": 64850,
+    "daily_score": 15.6,
+    "weekly_score": 17.6,
+    "btc_price": 65073.4,
     "fear_greed": 38,
     "indicators": [
       {
@@ -828,15 +828,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005426,
+        "value": 0.006204,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.13,
-        "score": 42,
+        "value": 1.11,
+        "score": 41,
         "weight": 5,
         "group": "daily"
       },
@@ -898,15 +898,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.6,
-        "score": 24,
+        "value": 35,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -69.3,
-        "score": 26,
+        "value": -65.3,
+        "score": 27,
         "weight": 4,
         "group": "weekly"
       }
@@ -1084,36 +1084,36 @@
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 8323,
-        "retweets": 874
+        "likes": 9879,
+        "retweets": 1016
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 4371,
-        "retweets": 418
+        "likes": 4458,
+        "retweets": 426
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4424,
-        "retweets": 511
+        "likes": 4452,
+        "retweets": 515
       },
       {
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 7223,
-        "retweets": 720
+        "likes": 7235,
+        "retweets": 721
       },
       {
         "text": "Strategy creates Digital Credit.",
         "url": "https://x.com/saylor/status/2084910576304554179",
         "time": "Wed Aug 05 07:53:11 +0000 2026",
-        "likes": 4441,
-        "retweets": 404
+        "likes": 4439,
+        "retweets": 403
       }
     ],
     "viktorfischer": [
@@ -1163,7 +1163,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 刚刚向投资者提供了 2200 亿个购买美光股票的理由",
+        "headline": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 刚刚给投资者提供了 2200 亿个购买美光股票的理由",
         "url": "https://finnhub.io/api/news?id=a25c345a2bf581d92f29fbaf7cd5d7a98754e33684e5a86739134b34e9233be1",
         "datetime": 1786094400,
         "source": "Yahoo"
@@ -1189,13 +1189,13 @@
     ],
     "GOOG": [
       {
-        "headline": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 刚刚向投资者提供了 2200 亿个购买美光股票的理由",
+        "headline": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 刚刚给投资者提供了 2200 亿个购买美光股票的理由",
         "url": "https://finnhub.io/api/news?id=a25c345a2bf581d92f29fbaf7cd5d7a98754e33684e5a86739134b34e9233be1",
         "datetime": 1786094400,
         "source": "Yahoo"
       },
       {
-        "headline": "Michael Burry 分享的“三大图表”显示人工智能资本支出可能会像 2008 年房地产业一样严重下滑",
+        "headline": "Michael Burry 分享的“三大图表”显示大型人工智能资本支出可能会像 2008 年房地产业一样严重下滑",
         "url": "https://finnhub.io/api/news?id=ace76c22af42fc5516268dd0f9a0a2bfce4c87a2ca22404fd54b8594cd824027",
         "datetime": 1786081682,
         "source": "Yahoo"
@@ -1253,6 +1253,12 @@
     ],
     "CRCL": [
       {
+        "headline": "Circle 的第二季度：Arc 代币预售提升了指导并缓解了加密货币低迷时期",
+        "url": "https://finnhub.io/api/news?id=b9544ba52b047b5d05047164de47415931708aa920d744f5d5aa4609f2ac54a4",
+        "datetime": 1786086600,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "两位分析师下调了 Circle 价格目标——这就是他们仍然保持看涨的原因",
         "url": "https://finnhub.io/api/news?id=617a8338029ea310f576c2fd3497dc7f778edcd423c0735daf357def0675da34",
         "datetime": 1786010497,
@@ -1275,12 +1281,6 @@
         "url": "https://finnhub.io/api/news?id=cb81c30efb3b875a5b117a43d6c4c221443803bcc9d2be56f84d27c31a1b6cb6",
         "datetime": 1785996486,
         "source": "Benzinga"
-      },
-      {
-        "headline": "Circle Internet Group, Inc. 2026 年第二季度 - 业绩 - 收益电话会议演示",
-        "url": "https://finnhub.io/api/news?id=6d522e4f4f2e64b3faff8c7cc84c0b6490fce326f4c13586474821d614e7e942",
-        "datetime": 1785983596,
-        "source": "SeekingAlpha"
       }
     ],
     "LKNCY": [
@@ -1305,6 +1305,18 @@
     ],
     "BTC": [
       {
+        "headline": "币安比特币交易量比率创历史新高，期货价格是现货价格的八倍以上",
+        "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786100701,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "随着中东紧张局势进一步升级，比特币徘徊在 65,000 美元下方",
+        "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+        "datetime": 1786098974,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "210,000 比特币离开旧钱包，Coldcard 的影响出现在链上",
         "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
         "datetime": 1786094640,
@@ -1320,18 +1332,6 @@
         "headline": "比特币鲸鱼买入 12 亿美元 BTC，ETF 吸引 7.5 亿美元",
         "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
         "datetime": 1786081521,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "自 2011 年以来一直处于休眠状态的比特币钱包将 320 万美元转移到 FalconX 链接地址",
-        "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-        "datetime": 1786078244,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "在无聊的价格走势之下，比特币飙升至 76,000 美元的理由可能正在形成，但有一个警告",
-        "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-        "datetime": 1786076897,
         "source": "CoinDesk"
       }
     ],
@@ -1357,9 +1357,9 @@
         "source": "@solana"
       },
       {
-        "headline": "@Blockworks @toma_adv 来源：@Blockworks\n\n请在此处阅读更大的 Lightspeed 报告的摘录：",
-        "url": "https://x.com/solana/status/2085393380851527982",
-        "datetime": 1786031501,
+        "headline": "Vibhu 解释了为什么 Solana 是金融界的 Netflix：\n\n“Solana 的愿景是在一个市场中，所有资产和每个市场都集中在一个地方”\n\n“我认为这基本上是不可避免的",
+        "url": "https://x.com/solana/status/2085657975885332942",
+        "datetime": 1786094585,
         "source": "@solana"
       }
     ],
