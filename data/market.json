@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-07T17:42:46.935Z",
+  "updated_at": "2026-08-07T18:42:42.141Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 710.01,
-      "change_pct": 0.51
+      "price": 709.05,
+      "change_pct": 0.38
     },
     {
       "symbol": "QQQ",
-      "price": 721.29,
-      "change_pct": 0.93
+      "price": 719.77,
+      "change_pct": 0.72
     },
     {
       "symbol": "QQQM",
-      "price": 297.02,
-      "change_pct": 0.94
+      "price": 296.4,
+      "change_pct": 0.73
     },
     {
       "symbol": "NVDA",
-      "price": 222.24,
-      "change_pct": 1.48
+      "price": 222.06,
+      "change_pct": 1.4
     },
     {
       "symbol": "TSLA",
-      "price": 327.35,
-      "change_pct": 2.45
+      "price": 326.89,
+      "change_pct": 2.3
     },
     {
       "symbol": "GOOG",
-      "price": 354.06,
-      "change_pct": -0.72
+      "price": 353.36,
+      "change_pct": -0.91
     },
     {
       "symbol": "RKLB",
-      "price": 81.99,
-      "change_pct": 8.35
+      "price": 81.42,
+      "change_pct": 7.6
     },
     {
       "symbol": "CRCL",
-      "price": 66.63,
-      "change_pct": 5.29
+      "price": 66.73,
+      "change_pct": 5.45
     },
     {
       "symbol": "PLTR",
-      "price": 171.55,
-      "change_pct": 10.02
+      "price": 170.58,
+      "change_pct": 9.4
     },
     {
       "symbol": "MSTR",
-      "price": 98.22,
-      "change_pct": 1.41
+      "price": 97.42,
+      "change_pct": 0.59
     },
     {
       "symbol": "GLD",
-      "price": 397.73,
-      "change_pct": 2.07
+      "price": 397.84,
+      "change_pct": 2.1
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64598,
-      "change_pct": 0.09
+      "price": 64721,
+      "change_pct": 0.53
     },
     {
       "symbol": "ETH",
-      "price": 1908.49,
-      "change_pct": -0.17
+      "price": 1909.12,
+      "change_pct": 0.25
     },
     {
       "symbol": "SOL",
-      "price": 73.25,
-      "change_pct": 0.15
+      "price": 73.32,
+      "change_pct": 0.6
     },
     {
       "symbol": "HYPE",
-      "price": 53.71,
-      "change_pct": -4.42
+      "price": 54.05,
+      "change_pct": -3.44
     },
     {
       "symbol": "ZEC",
-      "price": 512.03,
-      "change_pct": 3.06
+      "price": 509.41,
+      "change_pct": 2.69
     },
     {
       "symbol": "TAO",
-      "price": 191.98,
+      "price": 191.44,
       "change_pct": -0.4
     },
     {
       "symbol": "SKY",
-      "price": 1261.94,
-      "change_pct": -3.33
+      "price": 1263.66,
+      "change_pct": -2.67
     },
     {
       "symbol": "AAVE",
-      "price": 89.64,
-      "change_pct": 0.63
+      "price": 89.34,
+      "change_pct": 0.8
     },
     {
       "symbol": "BNB",
-      "price": 591.52,
-      "change_pct": -0.19
+      "price": 591.35,
+      "change_pct": 0.11
     },
     {
       "symbol": "NEAR",
-      "price": 1.6,
-      "change_pct": -4.29
+      "price": 1.59,
+      "change_pct": -4.19
     },
     {
       "symbol": "DOGE",
-      "price": 0.069531,
-      "change_pct": 0.71
+      "price": 0.069556,
+      "change_pct": 1.09
     },
     {
       "symbol": "SPACEX",
-      "price": 507.13,
-      "change_pct": 13.3
+      "price": 497.73,
+      "change_pct": 11.93
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "Circle 通过推出 X Layer 将 USDC 扩展到 OKX 生态系统",
+      "summary": "随着稳定币在主要区块链生态系统中的扩展，此次推出使 X Layer 用户能够访问 Circle 发行的 USDC 和跨链传输。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786124205,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "英国改革委员会主席呼吁调查与 SBF 相关的捐赠：报告",
       "summary": "英国改革党主席呼吁对与 FTX 相关的政治捐款进行调查，该党领导人准备在自己的加密货币相关丑闻中面对选民。",
       "source": "Cointelegraph",
@@ -491,11 +500,29 @@
       "related": ""
     },
     {
+      "headline": "由于买家对创始人所有权和业务萎缩犹豫不决，BitMEX 销售崩溃",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "datetime": 1786121636,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "以太坊测试支撑位，比特币坚守 65,000 美元：加密货币突破仍然存在吗？",
       "summary": "<p id=\"bitcoin-holds-65000-after-weak-us-jobs-report-and-crypto-bill-delay-is-the-breakout-still-alive\">在美国疲弱的就业报告和加密货币法案延迟后，比特币保持在 65,000 美元：突破仍然存在吗？</p><p>比特币期货在 64,990-65,005 支撑区域上方仍保持小幅建设性，但 F",
       "source": "Forexlive",
       "url": "https://investinglive.com/cryptocurrency/bitcoin-holds-65-000-as-ethereum-tests-support-is-the-crypto-breakout-still-alive/",
       "datetime": 1786120413,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bybit起诉朝鲜和Lazarus Group，指控其价值15亿美元的黑客攻击，并确保资产冻结",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "datetime": 1786120361,
       "category": "crypto",
       "related": ""
     },
@@ -714,33 +741,6 @@
       "datetime": 1786094057,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "First Digital首席执行官：《清晰法案》的延迟为亚洲金融中心提供了机会",
-      "summary": "行业人士警告称，持续的立法困境可能会减缓机构采用、通过执法重振监管并将创新推向海外。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786093274,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "加密货币做市商 Wintermute 获得 SEC 批准进行股票和 ETF 区块交易",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-      "datetime": 1786092377,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着奖励争论升温，以太坊质押代币 weETH 与重新质押分道扬镳",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "datetime": 1786089688,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -811,7 +811,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.6,
     "weekly_score": 17.3,
-    "btc_price": 64682.2,
+    "btc_price": 64766.6,
     "fear_greed": 38,
     "indicators": [
       {
@@ -823,15 +823,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005833,
+        "value": 0.00651,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.1,
-        "score": 40,
+        "value": 1.12,
+        "score": 41,
         "weight": 5,
         "group": "daily"
       },
@@ -893,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.3,
+        "value": 34.5,
         "score": 24,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -94.6,
-        "score": 19,
+        "value": -92.7,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1079,35 +1079,35 @@
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 2461,
-        "retweets": 240
+        "likes": 2702,
+        "retweets": 255
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 16825,
-        "retweets": 1685
+        "likes": 17382,
+        "retweets": 1728
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5080,
-        "retweets": 493
+        "likes": 5115,
+        "retweets": 496
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4622,
-        "retweets": 540
+        "likes": 4637,
+        "retweets": 542
       },
       {
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 7284,
+        "likes": 7285,
         "retweets": 726
       }
     ],
@@ -1152,97 +1152,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "探索今天交易中道琼斯指数的主要走势。",
-        "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
-        "datetime": 1786120804,
+        "headline": "周五交易时段最活跃的 S&P500 股票",
+        "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
+        "datetime": 1786125902,
         "source": "ChartMill"
       },
       {
-        "headline": "看看低成本先锋 ETF，由于英伟达、微软、美光和博通的权重合计为 33%，该 ETF 在 4 天内上涨了 11%。这就是为什么它现在仍然是最值得购买的。",
-        "url": "https://finnhub.io/api/news?id=db0ba1c411e5ec9d8da5abf6b148d9dde7b9fe63bd018c5db2927e8205f7137b",
-        "datetime": 1786117620,
+        "headline": "对周五最活跃的股票感到好奇吗？",
+        "url": "https://finnhub.io/api/news?id=6f4edb3908e5710aaecd62be546b7e42e4c7cdae0fbc8a9b3ec03b42a0b4cd21",
+        "datetime": 1786125600,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "为什么 Palantir Technologies 股票今天再次飙升",
+        "url": "https://finnhub.io/api/news?id=d8080581772b2a9e4bcb2b806f1fc0bd2be65075ccd3e9d4e345f18f05965e58",
+        "datetime": 1786124561,
         "source": "Yahoo"
       },
       {
-        "headline": "午间热门新闻：就业报告惨淡，股市上涨； Doximity 首席执行官推出新的人工智能搜索工具后股价飙升",
-        "url": "https://finnhub.io/api/news?id=0aea9636d79d1cb88c5b9e5e1ecdae685821d015ef5c60b52ef05611d780a249",
-        "datetime": 1786117537,
+        "headline": "Spotify 和 Pinterest 实现了增长。投资者想要更多",
+        "url": "https://finnhub.io/api/news?id=4dd3db877db44bd08a6f00438fda683a2a143a5af76a1a6a33f29212331d90c8",
+        "datetime": 1786123858,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 Trade Desk 股票今天暴跌至 7 年新低",
-        "url": "https://finnhub.io/api/news?id=60612b50ab9e9963c43e66e82f58f6c47680a623177ae40c27d0c6c6c2fa25c6",
-        "datetime": 1786117354,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "这就是塔半导体股票今天飙升的原因",
-        "url": "https://finnhub.io/api/news?id=aeeaaa2ea75a3a5076de286b17f58a9b8cfacfdae7c5dbe60e1f60b18440947f",
-        "datetime": 1786117127,
+        "headline": "该电力股可能成为数据中心繁荣的大赢家",
+        "url": "https://finnhub.io/api/news?id=2124e566c525e93159091027d5978ea1ab9815fceee190c4d5262e798c84c2a1",
+        "datetime": 1786123500,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "看看低成本先锋 ETF，由于英伟达、微软、美光和博通的权重合计为 33%，该 ETF 在 4 天内上涨了 11%。这就是为什么它现在仍然是最值得购买的。",
-        "url": "https://finnhub.io/api/news?id=db0ba1c411e5ec9d8da5abf6b148d9dde7b9fe63bd018c5db2927e8205f7137b",
-        "datetime": 1786117620,
+        "headline": "Whatnot 以 200 亿美元估值筹集 5.45 亿美元 G 轮融资",
+        "url": "https://finnhub.io/api/news?id=c9c0d47c4670097c56464e13109efeb20fbdbee25b50923186953b81be78b284",
+        "datetime": 1786124501,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet 再次进军债券市场 融资金额高达 250 亿美元",
-        "url": "https://finnhub.io/api/news?id=d83a60fcf74ed7bd52103d63a79bc3ebf64db5b8e35610ae3f4b3b8973f24dac",
-        "datetime": 1786116630,
+        "headline": "Greg Abel 将伯克希尔哈撒韦公司 $355B 投资组合的 63% 集中在 5 只股票上",
+        "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
+        "datetime": 1786123324,
         "source": "Yahoo"
       },
       {
-        "headline": "价格预测：谷歌当天将达到 400 美元",
-        "url": "https://finnhub.io/api/news?id=cd0e741477c373895f0f4fcbb049d869092949a13b3e792cbaf7c9abb46fc0d6",
-        "datetime": 1786116617,
+        "headline": "Alphabet 的云 vs Meta 的超级智能：谁赢了第二季度？",
+        "url": "https://finnhub.io/api/news?id=4ba5304c5624927085ae5daf141a012ca78fba3ef410f8caa1526f80f42a30bd",
+        "datetime": 1786122049,
         "source": "Yahoo"
       },
       {
-        "headline": "微软、亚马逊、Meta、谷歌在人工智能领域“集体过度投资”：“这是押注，而不是投资”，“估值院长”",
-        "url": "https://finnhub.io/api/news?id=cc38c4453abb22c5e7fbe1db1716b356a0a19897a010289d815ab76bed172d40",
-        "datetime": 1786116098,
+        "headline": "加拿大皇家银行表示，Lyft 第二季度出行、总预订量增长支持更高的预期",
+        "url": "https://finnhub.io/api/news?id=2790d6a94055343648890b542acffbd953045d6d64894eb7eb0028733acf359e",
+        "datetime": 1786121929,
         "source": "Yahoo"
       },
       {
-        "headline": "微软股票的峰值利润率和它的 Azure 账单是同一个故事",
-        "url": "https://finnhub.io/api/news?id=85d69e978d8d45189fb1ac302c1bdbab625a224b6320fc2aec8a95faa83f2181",
-        "datetime": 1786115241,
+        "headline": "微软赢得人工智能现金流测试",
+        "url": "https://finnhub.io/api/news?id=ae0b99b8ef1003cc825dd5163f680bc35b431691d87680d182d39a88390e3d3a",
+        "datetime": 1786120712,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "SpaceX 的 Terafab 将依赖天然气发电厂，而不是特斯拉太阳能电池板",
-        "url": "https://finnhub.io/api/news?id=09c6e904c9ba3011c7397dbe7bf42473c3d23775af71c647f65a2f49b3d79334",
-        "datetime": 1786111651,
+        "headline": "周五交易时段最活跃的 S&P500 股票",
+        "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
+        "datetime": 1786125902,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "马斯克的 SpaceX 和特斯拉将在德克萨斯州建造价值 16.8B 美元的 Terafab 芯片工厂",
+        "url": "https://finnhub.io/api/news?id=02a8079a2ee6e45ff447ab64ffc686040c1b4e30be1cc1d7447059b6f9b8dfbc",
+        "datetime": 1786121863,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克表示 SpaceX 消耗的 Terafab AI 计算量将是特斯拉的三倍",
-        "url": "https://finnhub.io/api/news?id=ee07a0dc5c37e5e33cfb11a5528f2365ff1010010fa18ccfbe0dd390a44732e5",
-        "datetime": 1786106688,
+        "headline": "埃隆·马斯克表示人工智能需要的电力超出了电网的处理能力。他是对的吗？",
+        "url": "https://finnhub.io/api/news?id=3c0b96759519476b0faf161ec553e732693210933d0eb1d7a2e7662ea9a46406",
+        "datetime": 1786120500,
         "source": "Yahoo"
       },
       {
-        "headline": "特斯拉股价上涨，结束美好的一周。感谢通常嫌疑人。",
-        "url": "https://finnhub.io/api/news?id=f98715d3f63069f4958569334df805fe1f64c906f3b1ecc3ca1deffaecbd641f",
-        "datetime": 1786104420,
+        "headline": "特斯拉的电池业务增长速度快于汽车业务，德克萨斯州的 Megapack 3 新工厂刚刚投入使用",
+        "url": "https://finnhub.io/api/news?id=39214691aea1627feb2bbb95215df2740d63f1c61cf7b774db2f63d251bf7060",
+        "datetime": 1786114835,
         "source": "Yahoo"
       },
       {
-        "headline": "福特放弃 Fathom EV，其价格比特斯拉 Cybertruck 低 2.5 倍",
-        "url": "https://finnhub.io/api/news?id=f1caa922b06dc09ae44de3b33723250306fe10a2c724e6e3f43e413b966197a9",
-        "datetime": 1786101508,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "这位资产经理表示，SPCX 股票尚未触底，但现在是“买入的绝佳时机”",
-        "url": "https://finnhub.io/api/news?id=295906ea47a038cd9159424e8cdb8c1673912a2e3f940160571b1bed12845007",
-        "datetime": 1786100731,
+        "headline": "Ouster 第二季度收益超出传感器增长预期",
+        "url": "https://finnhub.io/api/news?id=aa00bf7072fa503defc313b35fed2e4225ca606133560680f163fa29be14e328",
+        "datetime": 1786114260,
         "source": "Yahoo"
       }
     ],
@@ -1356,6 +1356,18 @@
         "url": "https://x.com/solana/status/2085745344881811710",
         "datetime": 1786115416,
         "source": "@solana"
+      },
+      {
+        "headline": "观看 @StanfordSBA 的完整演讲：",
+        "url": "https://x.com/solana/status/2085657987931353486",
+        "datetime": 1786094588,
+        "source": "@solana"
+      },
+      {
+        "headline": "Vibhu 解释了为什么 Solana 是金融界的 Netflix：\n\n“Solana 的愿景是在一个市场中，所有资产和每个市场都集中在一个地方”\n\n“我认为这基本上是不可避免的",
+        "url": "https://x.com/solana/status/2085657975885332942",
+        "datetime": 1786094585,
+        "source": "@solana"
       }
     ],
     "AAVE": [
@@ -1401,6 +1413,12 @@
       }
     ],
     "TAO": [
+      {
+        "headline": "404 是当今最快的高质量 3D 生成模型之一。 \n\n不要依赖一种封闭的模型。",
+        "url": "https://x.com/bittensor/status/2085794987543822522",
+        "datetime": 1786127251,
+        "source": "@bittensor"
+      },
       {
         "headline": "SN95",
         "url": "https://x.com/bittensor/status/2085372005713350761",
