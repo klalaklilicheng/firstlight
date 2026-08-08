@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:22:41.065Z",
+  "updated_at": "2026-08-08T22:20:28.921Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64993,
-      "change_pct": 0.1
+      "price": 64956,
+      "change_pct": 0.08
     },
     {
       "symbol": "ETH",
-      "price": 1919.33,
-      "change_pct": 0.33
+      "price": 1918.2,
+      "change_pct": 0.18
     },
     {
       "symbol": "SOL",
-      "price": 76.27,
-      "change_pct": 3.51
+      "price": 76.18,
+      "change_pct": 3.4
     },
     {
       "symbol": "HYPE",
-      "price": 55.06,
-      "change_pct": 1.53
+      "price": 55,
+      "change_pct": 1.5
     },
     {
       "symbol": "ZEC",
-      "price": 509.24,
-      "change_pct": -0.24
+      "price": 509.42,
+      "change_pct": -0.13
     },
     {
       "symbol": "TAO",
-      "price": 199.29,
-      "change_pct": 2.33
+      "price": 199.4,
+      "change_pct": 2.95
     },
     {
       "symbol": "SKY",
-      "price": 1256.52,
-      "change_pct": -0.71
+      "price": 1256.59,
+      "change_pct": -0.77
     },
     {
       "symbol": "AAVE",
-      "price": 91.55,
-      "change_pct": 1.67
+      "price": 91.57,
+      "change_pct": 1.79
     },
     {
       "symbol": "BNB",
-      "price": 601.9,
-      "change_pct": 1.64
+      "price": 599.24,
+      "change_pct": 1.14
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": 2.04
+      "change_pct": 1.7
     },
     {
       "symbol": "DOGE",
-      "price": 0.070967,
-      "change_pct": 1.85
+      "price": 0.070697,
+      "change_pct": 1.39
     },
     {
       "symbol": "SPACEX",
-      "price": 514.27,
-      "change_pct": 1.02
+      "price": 511.4,
+      "change_pct": 0.26
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "比特币 BIP-110 进入强制信号，矿工支持率低于 3%",
+      "summary": "部署里程碑测试执行节点是否可以在有限的矿工信号和硬分叉回退的讨论中维持变化。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786223828,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着有争议的 BIP-110 软分叉尝试开始，比特币触及区块 961,632",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "datetime": 1786219607,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着新的加密货币规则临近，俄罗斯的硬件钱包销量增长了一倍多",
       "summary": "",
       "source": "CoinDesk",
@@ -723,24 +741,6 @@
       "datetime": 1786120361,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Rockstar Energy创始人增持Celsius股份，希望接任首席执行官",
-      "summary": "Rockstar Energy创始人Russ Savage告诉CNBC，他现在控制着Celsius Holdings 1200万股股票，约占这家能量饮料公司股份的4.7%。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
-      "datetime": 1786116416,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "由于美国低就业数据冷却了美联储加息押注，比特币价格在 8 月份创下 6.53 万美元高位",
-      "summary": "由于美国非农就业数据低迷，风险资产上涨，比特币触及本月迄今高点 65,000 美元以上。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786116195,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.5,
     "weekly_score": 16.7,
-    "btc_price": 65042.7,
+    "btc_price": 65000,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,7 +807,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005681,
+        "value": 0.005291,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35,
+        "value": 34.9,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -96.4,
-        "score": 18,
+        "value": -95.8,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1063,35 +1063,35 @@
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 7922,
-        "retweets": 710
+        "likes": 8206,
+        "retweets": 739
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5049,
-        "retweets": 519
+        "likes": 5066,
+        "retweets": 522
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 22147,
-        "retweets": 2165
+        "likes": 22230,
+        "retweets": 2174
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5681,
+        "likes": 5682,
         "retweets": 563
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4806,
+        "likes": 4808,
         "retweets": 572
       }
     ],
@@ -1136,37 +1136,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "更值得购买的 GLP-1 股票：礼来公司还是 Viking Therapeutics？",
-        "url": "https://finnhub.io/api/news?id=660ae6a5fba8ae4a565df26d348846c1f256aac28066aa0e4dccd016185b45da",
-        "datetime": 1786218600,
+        "headline": "当华尔街的杠杆率出现问题时",
+        "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+        "datetime": 1786225537,
         "source": "Yahoo"
       },
       {
-        "headline": "AMD (AMD) 收购 Taalas：AI 推理是 Nvidia 的下一个战场吗？",
-        "url": "https://finnhub.io/api/news?id=2e9ac7f4479af1057e966f8a6679617b4aefd89ef388d5a76313d01aba2d2dc0",
-        "datetime": 1786218369,
+        "headline": "家得宝 (Home Depot) 连续 17 年提高股息，并于 8 月 18 日公布收益。购买沃尔玛 (Walmart) 是更明智的道指股票吗？",
+        "url": "https://finnhub.io/api/news?id=4c02b183780351c137f70407acd9a86887fea92817351c175f9c809bb8c42a5c",
+        "datetime": 1786225200,
         "source": "Yahoo"
       },
       {
-        "headline": "诺基亚 (NOK) 的人工智能网络赌注获得台湾试验场",
-        "url": "https://finnhub.io/api/news?id=e2af10409d1f94da3597f9369b101a0aadfe9720dd52c8e324aca948ec90d75f",
-        "datetime": 1786217972,
+        "headline": "美敦力 (Medtronic) 与直觉外科 (Intuitive Surgical)：现在更适合购买哪只医疗科技股票？",
+        "url": "https://finnhub.io/api/news?id=3c5b80e1d6367d6c3134d7ed2dbab5b1d0b0d318b656d268af63da5b1b6a3785",
+        "datetime": 1786224000,
         "source": "Yahoo"
       },
       {
-        "headline": "Dutch Bros 1天暴跌19%后值得买入吗？",
-        "url": "https://finnhub.io/api/news?id=a84ede7017f6ad4e1272c550f0623d77ccbb85e1880ef7b35c524e7e38aaad18",
-        "datetime": 1786217100,
+        "headline": "Doximity (DOCS) 在提高临床人工智能采用的收入前景后上涨了 31.0% - 牛市情况改变了吗？",
+        "url": "https://finnhub.io/api/news?id=ca392249955a82463f7624dde85d7a173cdf38bba73c8a92018dbe721bbb0ceb",
+        "datetime": 1786223718,
         "source": "Yahoo"
       },
       {
-        "headline": "Stanley Druckenmiller 的投资组合几乎完全跳过了大型科技公司。这就是他要买的东西。",
-        "url": "https://finnhub.io/api/news?id=19d1f1b3387eb2126ac53b99364fba629ff8e3f6a2fe5836327bdf6b810cff06",
-        "datetime": 1786214100,
+        "headline": "Nvidia 对 Lancium 的 30 亿美元押注标志着计算房东论文已经达到了 Power Layer",
+        "url": "https://finnhub.io/api/news?id=c5f28c99cb9a038c1a4b6b4f25062cbdcb2cb7237697a09bc8495720f0cd3302",
+        "datetime": 1786223529,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "NiSource 第二季度财报电话会议亮点",
+        "url": "https://finnhub.io/api/news?id=a459559113e875920f654d78e461024112ad94a1559d70dcc4e5b0aea3ea529f",
+        "datetime": 1786223032,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Broadcom (AVGO) 将人工智能芯片热潮与软件安全推动相结合",
+        "url": "https://finnhub.io/api/news?id=acf7b437e144f0aeec182da665d73fef5394e3032003655ae563e4f87133869b",
+        "datetime": 1786221754,
+        "source": "Yahoo"
+      },
       {
         "headline": "Tenable (TENB) 在利润出现拐点之际扩大其人工智能安全网络",
         "url": "https://finnhub.io/api/news?id=c3d69a8b6c028bff5fbaa5db0ae926d6fd59519cecd328d411faded59810c2df",
@@ -1184,21 +1196,21 @@
         "url": "https://finnhub.io/api/news?id=89e2c3f0c457381f0bd3a0e7b716ed357a556ea7476f982f6635fb8e2f837718",
         "datetime": 1786206425,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 首席执行官桑达尔·皮查伊 (Sundar Pichai) 刚刚做出的决定可能会影响英伟达 (Nvidia) 和博通 (Broadcom) 的股价",
-        "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
-        "datetime": 1786204200,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌关闭十年后流行的功能",
-        "url": "https://finnhub.io/api/news?id=ba926417dda75ccff2631e711f1ce4a308e75e4fe8c9419388482255d298eb4d",
-        "datetime": 1786203180,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "当华尔街的杠杆率出现问题时",
+        "url": "https://finnhub.io/api/news?id=6a0988391faa72f1b2fee86fd03253c035c8beb825cd21d92ded5ecf8998a2d4",
+        "datetime": 1786225537,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "吉姆·克莱默 (Jim Cramer) 告诉投资者要长期买入 SpaceX",
+        "url": "https://finnhub.io/api/news?id=bf86e9afd88cf05e66ec2be59ae7170d7f3cb3e7d6a5a9b02a9a041d6ae964a2",
+        "datetime": 1786219338,
+        "source": "Yahoo"
+      },
       {
         "headline": "Rivian 的成败 R2 中型电动车交付：道路测试",
         "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
@@ -1215,18 +1227,6 @@
         "headline": "Rivian 和 Lucid 的最新财报对电动汽车初创公司竞赛的评价",
         "url": "https://finnhub.io/api/news?id=8466d0b357265c1603eb07ba96a2b9acf311371e92b8a12c1825dcf655617099",
         "datetime": 1786194000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 刚刚选择德克萨斯州建造一座 2.5 英里长的 Terafab，它可能是地球上最大的建筑",
-        "url": "https://finnhub.io/api/news?id=5b937ee291c80ceb7243dbd051e1d11ebf968b28fe84033ca11ecc1954b2c691",
-        "datetime": 1786193997,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉计划为本德堡县价值 101 亿美元的太阳能制造厂提供税收减免",
-        "url": "https://finnhub.io/api/news?id=4486310c31459d5dcab68b41944f9663ab5f0a8df904b5249d24e6ad50548640",
-        "datetime": 1786186800,
         "source": "Yahoo"
       }
     ],
@@ -1290,6 +1290,18 @@
     ],
     "BTC": [
       {
+        "headline": "比特币 BIP-110 进入强制信号，矿工支持率低于 3%",
+        "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786223828,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "随着有争议的 BIP-110 软分叉尝试开始，比特币触及区块 961,632",
+        "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+        "datetime": 1786219607,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "美国现货比特币 ETF 创 4 月份以来最佳单周表现，资金流入达 10 亿美元",
         "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786206017,
@@ -1306,18 +1318,6 @@
         "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786195800,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "又一个比特币基础设施漏洞袭来，这一次耗尽了闪电支付服务器的资源",
-        "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-        "datetime": 1786175164,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "开发商表示，如果比特币持有者通过 BIP-110 分叉出售代币，他们将面临失去真实 BTC 的风险",
-        "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-        "datetime": 1786156200,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
