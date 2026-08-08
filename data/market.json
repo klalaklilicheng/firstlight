@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:27:07.585Z",
+  "updated_at": "2026-08-08T01:00:44.260Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64844,
+      "price": 64877,
       "change_pct": 0.97
     },
     {
       "symbol": "ETH",
-      "price": 1914.21,
-      "change_pct": 0.73
+      "price": 1913.21,
+      "change_pct": 0.61
     },
     {
       "symbol": "SOL",
       "price": 73.67,
-      "change_pct": 1.67
+      "change_pct": 1.52
     },
     {
       "symbol": "HYPE",
-      "price": 54.07,
-      "change_pct": -3.26
+      "price": 54.03,
+      "change_pct": -3.1
     },
     {
       "symbol": "ZEC",
-      "price": 510.16,
-      "change_pct": 3.1
+      "price": 506.92,
+      "change_pct": 0.34
     },
     {
       "symbol": "TAO",
-      "price": 194.14,
-      "change_pct": 1.29
+      "price": 193.06,
+      "change_pct": 0.46
     },
     {
       "symbol": "SKY",
-      "price": 1265.86,
-      "change_pct": -0.91
+      "price": 1261.31,
+      "change_pct": -0.76
     },
     {
       "symbol": "AAVE",
-      "price": 89.99,
-      "change_pct": 0.92
+      "price": 89.69,
+      "change_pct": -0.4
     },
     {
       "symbol": "BNB",
-      "price": 591.98,
-      "change_pct": 0.15
+      "price": 590.6,
+      "change_pct": -0.3
     },
     {
       "symbol": "NEAR",
       "price": 1.59,
-      "change_pct": -3.9
+      "change_pct": -4.24
     },
     {
       "symbol": "DOGE",
-      "price": 0.069668,
-      "change_pct": 1.14
+      "price": 0.069692,
+      "change_pct": 0.74
     },
     {
       "symbol": "SPACEX",
-      "price": 509.33,
-      "change_pct": 12.17
+      "price": 509.8,
+      "change_pct": 12.35
     }
   ],
   "earnings": {
@@ -773,6 +773,11 @@
       "company": "OpenAI",
       "news": [
         {
+          "headline": "Gurman 谈 OpenAI 设备：“一款售价超过 300 美元的甜甜圈形状扬声器”",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting",
+          "datetime": 1786060052
+        },
+        {
           "headline": "谷歌将人工智能力量转移到加州，与 Anthropic、OpenAI 竞争",
           "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
           "datetime": 1785990703
@@ -801,24 +806,24 @@
     }
   ],
   "btc_score": {
-    "score": 31.9,
+    "score": 32.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.5,
+    "daily_score": 14.7,
     "weekly_score": 17.4,
-    "btc_price": 64878.6,
-    "fear_greed": 38,
+    "btc_price": 64919.8,
+    "fear_greed": 39,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 4000000,
-        "score": 50,
+        "value": 15000000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006172,
+        "value": 0.005164,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -832,8 +837,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 38,
-        "score": 38,
+        "value": 39,
+        "score": 39,
         "weight": 7,
         "group": "daily"
       },
@@ -881,7 +886,7 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.01,
+        "value": 1.02,
         "score": 17,
         "weight": 6,
         "group": "weekly"
@@ -895,8 +900,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -86.1,
-        "score": 21,
+        "value": -83.6,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -905,7 +910,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 40
+      "days_until": 39
     },
     "schedule": [
       "2025-01-29",
@@ -1074,36 +1079,36 @@
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 3656,
-        "retweets": 345
+        "likes": 3890,
+        "retweets": 367
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 19019,
-        "retweets": 1875
+        "likes": 19337,
+        "retweets": 1911
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5319,
-        "retweets": 512
+        "likes": 5360,
+        "retweets": 520
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4710,
-        "retweets": 551
+        "likes": 4725,
+        "retweets": 554
       },
       {
         "text": "Think ₿igger.",
         "url": "https://x.com/saylor/status/2085039380746404187",
         "time": "Wed Aug 05 16:25:01 +0000 2026",
-        "likes": 7293,
-        "retweets": 726
+        "likes": 7295,
+        "retweets": 727
       }
     ],
     "viktorfischer": [
@@ -1147,37 +1152,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "为什么 Redwire 股票持续上涨",
-        "url": "https://finnhub.io/api/news?id=4f6b238cd73979fc0575c03c45a35f3951899ba0e33163630a3c4d4ceff7fd5e",
-        "datetime": 1786138581,
+        "headline": "为什么 QuinStreet 股票周五大跌",
+        "url": "https://finnhub.io/api/news?id=6866425647ad4ac321b4e6bbd9869fc2c57ae91d7dc538e56b95676a4e0791e9",
+        "datetime": 1786146238,
         "source": "Yahoo"
       },
       {
-        "headline": "Essent Group Ltd. 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=f4cf97d683f4db728d4acc08f2e800694bd7ed524e81123aa5f341c252a04e1a",
-        "datetime": 1786138568,
+        "headline": "为什么 Corsair Gaming 股票今天飙升 35%",
+        "url": "https://finnhub.io/api/news?id=f0f38ce7fd1965ca0463dce2736116d238460160451f136db89d00b338d47c7c",
+        "datetime": 1786145070,
         "source": "Yahoo"
       },
       {
-        "headline": "Boost Run 公布 2026 年第二季度财务业绩电话会议日期",
-        "url": "https://finnhub.io/api/news?id=c8bd3727826edad3c7c5bc11f34db32651eb2e142eb38309fc03695b05188731",
-        "datetime": 1786138260,
+        "headline": "斯威特格林再次跌倒。扭转局面的机会消失了吗？",
+        "url": "https://finnhub.io/api/news?id=32ddee4fee0263fa1d22fc9cbd8d1f3abc27fb9d06c87cd06ffd39bc89a7490d",
+        "datetime": 1786144800,
         "source": "Yahoo"
       },
       {
-        "headline": "甲骨文飙升：是什么推动了突然的上涨",
-        "url": "https://finnhub.io/api/news?id=2a486e7b2a8cadaa229c3ec2e260751846755671f8498eae340f34f610455b8b",
-        "datetime": 1786138200,
+        "headline": "为什么无花果股票今天上涨",
+        "url": "https://finnhub.io/api/news?id=74e728a012164f86623f0290bbe4b63447e929c23fec54dbda608501931a3cb8",
+        "datetime": 1786143899,
         "source": "Yahoo"
       },
       {
-        "headline": "我们刚刚经历了商业航空旅行有史以来最繁忙的一天。这对航空股意味着什么。",
-        "url": "https://finnhub.io/api/news?id=58b2c1b55cd94e9ed0640d701dd0f0a31801d6bdd744e688733d9fe72749f82e",
-        "datetime": 1786137900,
+        "headline": "为什么氟股票今天震撼市场",
+        "url": "https://finnhub.io/api/news?id=c2f97f0522b950818da463ab1c29f57a500b2a2b7d7d3d1ffec1808563503cab",
+        "datetime": 1786143305,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "银行引领奖金热潮",
+        "url": "https://finnhub.io/api/news?id=dd3ffa3ecd1662d6f216753773e9109808f00ab43bdaf395162b2ae539a32b11",
+        "datetime": 1786146360,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "加里·布莱克 (Gary Black) 表示，最有可能将机器人出租车推向大众的是 Uber，而不是特斯拉或 Waymo",
+        "url": "https://finnhub.io/api/news?id=f745797104723b33f664d31685b3b74136cea8c075cd429d555de7fae08c6921",
+        "datetime": 1786140033,
+        "source": "Yahoo"
+      },
       {
         "headline": "甲骨文飙升：是什么推动了突然的上涨",
         "url": "https://finnhub.io/api/news?id=2a486e7b2a8cadaa229c3ec2e260751846755671f8498eae340f34f610455b8b",
@@ -1195,21 +1212,21 @@
         "url": "https://finnhub.io/api/news?id=80510ca4966471873c9443afe082e059b49ddde457fc8478d3092e3f91e16f2e",
         "datetime": 1786136050,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Mozilla 警告称，谷歌更严厉的反垄断处罚将威胁 Firefox",
-        "url": "https://finnhub.io/api/news?id=4b64b3a88a50142805a55aacf21e13303847f7600226013b3799a708062529d0",
-        "datetime": 1786133595,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "解释者-新墨西哥州5.67亿美元的裁决如何改变Meta？",
-        "url": "https://finnhub.io/api/news?id=5163a4e62eb7b01d3c32140c1a3c14dd57b8374909ee54a95eafcc078282ad1d",
-        "datetime": 1786131340,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "今日股市，8 月 7 日：太空探索技术公司因第二季度收入增长、锁定解除和 Terafab 更新而飙升",
+        "url": "https://finnhub.io/api/news?id=61144125cb003b2bdb98238122ac9c48fb2fa28010d0e9d128986db2bc9d0c20",
+        "datetime": 1786141155,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "加里·布莱克 (Gary Black) 表示，最有可能将机器人出租车推向大众的是 Uber，而不是特斯拉或 Waymo",
+        "url": "https://finnhub.io/api/news?id=f745797104723b33f664d31685b3b74136cea8c075cd429d555de7fae08c6921",
+        "datetime": 1786140033,
+        "source": "Yahoo"
+      },
       {
         "headline": "特斯拉可能垄断美国机器人出租车市场的 2 个原因",
         "url": "https://finnhub.io/api/news?id=8e92a31ee68ae5ce5466822f8223f8514d55d86b9ae7ac451e5f942449143f7d",
@@ -1227,18 +1244,6 @@
         "url": "https://finnhub.io/api/news?id=34c075a367767697ef7d6087ecc697bec9c084e9c35ac431e4718e1b23497b2c",
         "datetime": 1786130044,
         "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 德克萨斯州 Terafab 可能成为世界上最大的建筑",
-        "url": "https://finnhub.io/api/news?id=a95cef8eb06d2a48ba591153ffed7364f10f96f486f1617ca9dda86293cf6dfa",
-        "datetime": 1786127239,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "周五交易时段最活跃的 S&P500 股票",
-        "url": "https://finnhub.io/api/news?id=21ae4947413e462bde9ae3d01a07161031a4fd3833a2d40315510d88e2728fba",
-        "datetime": 1786125902,
-        "source": "ChartMill"
       }
     ],
     "CRCL": [
@@ -1274,6 +1279,12 @@
       }
     ],
     "LKNCY": [
+      {
+        "headline": "瑞幸咖啡 2026 年第二季度 - 业绩 - 收益电话会议演示",
+        "url": "https://finnhub.io/api/news?id=3c499567b7fd5aad0059c78aa446b8568c62d6c3eaf9604330563648abd8ab1e",
+        "datetime": 1786133976,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "瑞幸咖啡：在不提高部门绩效的情况下，对新店开张进行垃圾邮件",
         "url": "https://finnhub.io/api/news?id=e4adfe1cdef91d1e94a34bfcfe2e45375b010116cc4d777e441194a6d6484ad6",
@@ -1347,21 +1358,9 @@
     ],
     "SOL": [
       {
-        "headline": "一切链",
-        "url": "https://x.com/solana/status/2085854698863464740",
-        "datetime": 1786141488,
-        "source": "@solana"
-      },
-      {
-        "headline": ".@mert 解释 Helius Rings 如何为 Solana 带来隐私\n\n“Helius 环是保护隐私的双重解决方案”\n\n“有一个任何人都可以使用的公共环，除了t之外，一切都是匿名的。",
-        "url": "https://x.com/solana/status/2085823606462812214",
-        "datetime": 1786134075,
-        "source": "@solana"
-      },
-      {
-        "headline": "了解有关 @HeliusPrivacy 的更多信息，并在此处观看 @catmcgee @mert @tilo_cpn 的整个隐私秀：",
-        "url": "https://x.com/solana/status/2085823608668983757",
-        "datetime": 1786134075,
+        "headline": "你可能会打得更好，对吧？证明一下。\n\n下一张表：断点 2026 和@WSOP：巴哈马。",
+        "url": "https://x.com/solana/status/2085745344881811710",
+        "datetime": 1786115416,
         "source": "@solana"
       }
     ],
