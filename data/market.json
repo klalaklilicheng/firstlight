@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:22:25.770Z",
+  "updated_at": "2026-08-08T16:23:02.748Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65044,
-      "change_pct": 0.13
+      "price": 65040,
+      "change_pct": 0.1
     },
     {
       "symbol": "ETH",
-      "price": 1922.23,
-      "change_pct": 0.37
+      "price": 1921.13,
+      "change_pct": 0.11
     },
     {
       "symbol": "SOL",
-      "price": 76.59,
-      "change_pct": 3.81
+      "price": 76.28,
+      "change_pct": 3.12
     },
     {
       "symbol": "HYPE",
-      "price": 54.71,
-      "change_pct": -1.78
+      "price": 54.82,
+      "change_pct": -1.49
     },
     {
       "symbol": "ZEC",
-      "price": 504.48,
-      "change_pct": -0.77
+      "price": 504.82,
+      "change_pct": -1.93
     },
     {
       "symbol": "TAO",
-      "price": 197.58,
-      "change_pct": 2.04
+      "price": 197.88,
+      "change_pct": 2.13
     },
     {
       "symbol": "SKY",
-      "price": 1258.68,
-      "change_pct": -0.74
+      "price": 1258.31,
+      "change_pct": -0.93
     },
     {
       "symbol": "AAVE",
-      "price": 91.26,
-      "change_pct": 2.2
+      "price": 91.42,
+      "change_pct": 1.78
     },
     {
       "symbol": "BNB",
-      "price": 604.63,
-      "change_pct": 2.28
+      "price": 605.24,
+      "change_pct": 2.02
     },
     {
       "symbol": "NEAR",
-      "price": 1.63,
-      "change_pct": 0.43
+      "price": 1.62,
+      "change_pct": 0.64
     },
     {
       "symbol": "DOGE",
-      "price": 0.071004,
-      "change_pct": 1.79
+      "price": 0.071176,
+      "change_pct": 1.71
     },
     {
       "symbol": "SPACEX",
-      "price": 504.15,
-      "change_pct": 5.58
+      "price": 504.11,
+      "change_pct": 0.3
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "巴西央行命令交易所推迟大规模加密货币海外转账",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "datetime": 1786202738,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Thune 申请终止后，美国参议院将于 9 月 15 日就推进 CLARITY 法案进行投票",
+      "summary": "随着立法者继续就道德和稳定币条款进行谈判，这一程序举措使加密货币市场结构立法重回正轨。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786201686,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Bitwise 的 Matt Hougan 表示，数万亿机构资金将流入比特币",
       "summary": "",
       "source": "CoinDesk",
@@ -723,24 +741,6 @@
       "datetime": 1786115269,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "卡西迪支持托德·布兰奇，拯救特朗普陷入困境的司法部长人选",
-      "summary": "司法部长提名人托德·布兰奇 (Todd Blanche) 需要在参议院获得至少 50 票才能在参议院司法委员会通过后得到确认。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-      "datetime": 1786114491,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "FTX 的一部分幸存下来，CLARITY 法案就是如此",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-      "datetime": 1786113025,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -796,12 +796,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.3,
+    "score": 32.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.6,
-    "weekly_score": 17.7,
-    "btc_price": 65079.9,
+    "weekly_score": 16.7,
+    "btc_price": 65089.3,
     "fear_greed": 39,
     "indicators": [
       {
@@ -813,7 +813,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005665,
+        "value": 0.005864,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -841,22 +841,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.179,
-        "score": 43,
+        "value": 0.187,
+        "score": 44,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.028,
-        "score": 12,
+        "value": 0.862,
+        "score": 8,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.004,
-        "score": 54,
+        "value": 0.998,
+        "score": 48,
         "weight": 8,
         "group": "weekly"
       },
@@ -890,8 +890,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -68.9,
-        "score": 26,
+        "value": -99.8,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1069,35 +1069,35 @@
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 5415,
-        "retweets": 485
+        "likes": 6103,
+        "retweets": 562
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 4829,
-        "retweets": 493
+        "likes": 4889,
+        "retweets": 503
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 21425,
-        "retweets": 2099
+        "likes": 21557,
+        "retweets": 2112
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5632,
-        "retweets": 558
+        "likes": 5643,
+        "retweets": 562
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
-        "likes": 4796,
+        "likes": 4797,
         "retweets": 571
       }
     ],
@@ -1142,37 +1142,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "唐纳德·特朗普总统预计伊朗战争将导致股市“下跌 20% 至 25%”——他的预言仍可能成真",
-        "url": "https://finnhub.io/api/news?id=f53c7bfddb0489bc2141af69452abbedaaf7df959e7f9d1ce69cc68a6f683eac",
-        "datetime": 1786195560,
+        "headline": "Alphabet 首席执行官桑达尔·皮查伊 (Sundar Pichai) 刚刚做出的决定可能会影响英伟达 (Nvidia) 和博通 (Broadcom) 的股价",
+        "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
+        "datetime": 1786204200,
         "source": "Yahoo"
       },
       {
-        "headline": "华尔街看到了价值数万亿美元的人形机器人市场。这两只工业股票出售零部件。",
-        "url": "https://finnhub.io/api/news?id=5f2531d37356716c585f7cbfa668a42ae18a6b126f6de7b5a1b9b673511605b4",
-        "datetime": 1786195500,
+        "headline": "Nebius 股价上个月暴跌 31%。是时候买入了吗？",
+        "url": "https://finnhub.io/api/news?id=483cd7dae88004f4b6fe66ca7b34e2e155e7e3c089b31978335fd6545e1a143d",
+        "datetime": 1786204167,
         "source": "Yahoo"
       },
       {
-        "headline": "你应该购买低于每股 125 美元的 SpaceX 股票吗？这是历史所说的。",
-        "url": "https://finnhub.io/api/news?id=09819a8ac7b809c37ee35e2d09697d7e6720d1ff88bf4a7f2c1f39c1d8fbfc05",
-        "datetime": 1786195200,
+        "headline": "预测：到 2027 年末，这将是加密货币 XRP 的价格（提示：这是一个重大举措）",
+        "url": "https://finnhub.io/api/news?id=1384de3d22f7e1c4b30567b8e58638f8af8066f5d5043daa3d0b9535cee7898d",
+        "datetime": 1786202400,
         "source": "Yahoo"
       },
       {
-        "headline": "博通VS。 Nvidia：芯片领域真正的挑战者和冠军故事",
-        "url": "https://finnhub.io/api/news?id=1e5ae2752ae901af3268b2a30c53dda6d9ba71d1b69b70bd6a004cddca52fb34",
-        "datetime": 1786194604,
+        "headline": "是什么导致 Sandisk 股价上个月暴跌近 20%",
+        "url": "https://finnhub.io/api/news?id=30fc74ac6ca74d1c127c3e350b82855c04bb97cca485b71c25bc152aa896518a",
+        "datetime": 1786201500,
         "source": "Yahoo"
       },
       {
-        "headline": "Israel Englander 的 Millennium 管理着 2,400 亿美元的数千个职位。这是他成功背后的策略。",
-        "url": "https://finnhub.io/api/news?id=636ae9ab272e8d043facf388e6c2a35715c631157c4e304bb8e7648848ecce96",
-        "datetime": 1786194300,
+        "headline": "随着 AI 收入激增，AMD 股票是否值得买入？",
+        "url": "https://finnhub.io/api/news?id=3b7e7c384943e272c920bdd2f3c44898ab43fb2c23c07786aa122dea7506388f",
+        "datetime": 1786200600,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet 首席执行官桑达尔·皮查伊 (Sundar Pichai) 刚刚做出的决定可能会影响英伟达 (Nvidia) 和博通 (Broadcom) 的股价",
+        "url": "https://finnhub.io/api/news?id=03a07ae02dbfd9d3011f229c578b956544a5767eb16f2799de173d104dc3d6fd",
+        "datetime": 1786204200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "谷歌关闭十年后流行的功能",
+        "url": "https://finnhub.io/api/news?id=ba926417dda75ccff2631e711f1ce4a308e75e4fe8c9419388482255d298eb4d",
+        "datetime": 1786203180,
+        "source": "Yahoo"
+      },
       {
         "headline": "伯克希尔哈撒韦公司的新任首席执行官格雷格阿贝尔花费了公司庞大现金储备的一部分",
         "url": "https://finnhub.io/api/news?id=19998949b3e224b193082a5bbb7690a1767ea72a594e091ae06e971f04de332f",
@@ -1180,34 +1192,28 @@
         "source": "Yahoo"
       },
       {
+        "headline": "随着股票持有量的激增，伯克希尔的利润翻了一番；回购 45 亿美元股票",
+        "url": "https://finnhub.io/api/news?id=29d00a7c8cdb34e3ca44b6787845291a5a93c733b39c78c6a86b9a81e0e4cca0",
+        "datetime": 1786192733,
+        "source": "Yahoo"
+      },
+      {
         "headline": "人工智能资本支出瀑布正在为未来带来红利",
         "url": "https://finnhub.io/api/news?id=2148a17570865a5320b3d6234e4aad136b5969c80e086c34aea2ca62969c3dff",
         "datetime": 1786176900,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Alphabet 刚刚公布了令人瞠目结舌的 1120 亿美元利润。这是要抓住的。",
-        "url": "https://finnhub.io/api/news?id=2ab9497c3799555b2d3641f7fca734cbac3fdf3c4635262aaa992411f8783341",
-        "datetime": 1786166400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "银行引领奖金热潮",
-        "url": "https://finnhub.io/api/news?id=dd3ffa3ecd1662d6f216753773e9109808f00ab43bdaf395162b2ae539a32b11",
-        "datetime": 1786146360,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "第二季度收益：强劲的业绩和积极的估计修正验证了市场基本面",
-        "url": "https://finnhub.io/api/news?id=0e4c5e1b50c741cae903325677f360e97b3a77ec2af45200050e890dd60ea0e2",
-        "datetime": 1786142520,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "Rivian 的成败 R2 中型电动车交付：道路测试",
+        "url": "https://finnhub.io/api/news?id=d56a946910bb793ba85b560cdc2faf8af07406077e276b755d43db318e800525",
+        "datetime": 1786199512,
+        "source": "Yahoo"
+      },
+      {
         "headline": "由于中国竞争对手的热潮激增，特斯拉英国销量下降",
-        "url": "https://finnhub.io/api/news?id=36bdbab633594dc727f2b1b00a92a21efdf5b4e61d0307cf1f26224819a56622",
+        "url": "https://finnhub.io/api/news?id=3677b5647b0628c1a3b3b014cf88203ec71575cdad43380a5a3e5ffc2f6479e3",
         "datetime": 1786195414,
         "source": "Yahoo"
       },
@@ -1228,12 +1234,6 @@
         "url": "https://finnhub.io/api/news?id=5b71dfac1de863b2209cb05f89c9b04377d2b0138d6243a78af153ba1283f956",
         "datetime": 1786151416,
         "source": "Benzinga"
-      },
-      {
-        "headline": "SpaceX和特斯拉选择德克萨斯州建设人工智能芯片制造工厂，这将是世界上最大的建筑",
-        "url": "https://finnhub.io/api/news?id=0e1c7925945db6e3b73ce5aa8077f58d6c68a8cef4225ad92fefc1d7949e7271",
-        "datetime": 1786150344,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1348,9 +1348,21 @@
     ],
     "SOL": [
       {
-        "headline": "",
-        "url": "https://x.com/solana/status/2086010473602777096",
-        "datetime": 1786178627,
+        "headline": "尼日利亚索拉纳峰会现场直播🇳🇬\n\n用一个词描述@SuperteamNG：",
+        "url": "https://x.com/solana/status/2086116485911761116",
+        "datetime": 1786203903,
+        "source": "@solana"
+      },
+      {
+        "headline": "创始人免费阿尔法。将此添加为书签。",
+        "url": "https://x.com/solana/status/2086074908132708622",
+        "datetime": 1786193990,
+        "source": "@solana"
+      },
+      {
+        "headline": "Netflix 重塑娱乐业\n亚马逊重新布局购物\nSolana 是金融 2.0",
+        "url": "https://x.com/solana/status/2086033827961672107",
+        "datetime": 1786184195,
         "source": "@solana"
       }
     ],
