@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T05:36:44.711Z",
+  "updated_at": "2026-08-08T06:37:17.830Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64980,
-      "change_pct": 1.32
+      "price": 64934,
+      "change_pct": 0.98
     },
     {
       "symbol": "ETH",
-      "price": 1916.56,
-      "change_pct": 1.18
+      "price": 1915.18,
+      "change_pct": 0.62
     },
     {
       "symbol": "SOL",
-      "price": 74.65,
-      "change_pct": 3.1
+      "price": 74.67,
+      "change_pct": 2.43
     },
     {
       "symbol": "HYPE",
-      "price": 54.35,
-      "change_pct": -1.39
+      "price": 54.38,
+      "change_pct": -2.14
     },
     {
       "symbol": "ZEC",
-      "price": 508.05,
-      "change_pct": 1.86
+      "price": 505.12,
+      "change_pct": 0.53
     },
     {
       "symbol": "TAO",
-      "price": 195.01,
-      "change_pct": 2.51
+      "price": 197.34,
+      "change_pct": 2.78
     },
     {
       "symbol": "SKY",
-      "price": 1256.4,
-      "change_pct": -1.14
+      "price": 1256.61,
+      "change_pct": -1.54
     },
     {
       "symbol": "AAVE",
-      "price": 90.2,
-      "change_pct": 0.86
+      "price": 90.22,
+      "change_pct": 0.21
     },
     {
       "symbol": "BNB",
-      "price": 593.24,
-      "change_pct": 1.22
+      "price": 593.87,
+      "change_pct": 1.25
     },
     {
       "symbol": "NEAR",
-      "price": 1.6,
-      "change_pct": -1.19
+      "price": 1.59,
+      "change_pct": -2.71
     },
     {
       "symbol": "DOGE",
-      "price": 0.070111,
-      "change_pct": 1.93
+      "price": 0.070255,
+      "change_pct": 1.4
     },
     {
       "symbol": "SPACEX",
-      "price": 504.1,
-      "change_pct": 11.23
+      "price": 504.41,
+      "change_pct": 11.3
     }
   ],
   "earnings": {
@@ -518,7 +518,7 @@
       "related": ""
     },
     {
-      "headline": "随着软件股剧烈波动，“SaaS 末日”争论加剧",
+      "headline": "随着软件股大幅波动，“SaaS 末日”争论加剧",
       "summary": "本周软件股出现了双向大幅波动，因为投资者试图找出哪些名字最能免受人工智能的影响。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
@@ -545,7 +545,7 @@
       "related": ""
     },
     {
-      "headline": "美国扩大对伊朗加密货币的打击力度，对两家交易所实施制裁",
+      "headline": "美国扩大对伊朗加密货币的打击，对两家交易所实施制裁",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
@@ -617,7 +617,7 @@
       "related": ""
     },
     {
-      "headline": "由于美国低就业数据冷却了美联储加息押注，比特币价格在 8 月份创下 6.53 万美元新高",
+      "headline": "由于美国低就业数据冷却了美联储加息押注，比特币价格在 8 月份创下 6.53 万美元高位",
       "summary": "由于美国非农就业数据低迷，风险资产上涨，比特币触及本月迄今高点 65,000 美元以上。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -654,7 +654,7 @@
     },
     {
       "headline": "卡西迪支持托德·布兰奇，拯救特朗普陷入困境的司法部长人选",
-      "summary": "司法部长提名人托德·布兰奇 (Todd Blanche) 需要在参议院获得至少 50 票才能在参议院司法委员会通过后得到确认。",
+      "summary": "司法部长提名人托德·布兰奇需要在参议院获得至少 50 票才能在参议院司法委员会通过后得到确认。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
       "datetime": 1786114491,
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.9,
+    "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.4,
-    "weekly_score": 17.5,
-    "btc_price": 65017.2,
+    "weekly_score": 17.6,
+    "btc_price": 64970.2,
     "fear_greed": 39,
     "indicators": [
       {
@@ -823,7 +823,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003717,
+        "value": 0.003603,
         "score": 47,
         "weight": 8,
         "group": "daily"
@@ -844,8 +844,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.29,
-        "score": 26,
+        "value": 1.31,
+        "score": 27,
         "weight": 12,
         "group": "weekly"
       },
@@ -893,15 +893,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.9,
+        "value": 34.8,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -78.5,
-        "score": 23,
+        "value": -78,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -1020,7 +1020,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1394,
-        "retweets": 73
+        "retweets": 74
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1079,22 +1079,22 @@
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 4254,
-        "retweets": 415
+        "likes": 4310,
+        "retweets": 419
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 20255,
-        "retweets": 1987
+        "likes": 20429,
+        "retweets": 1999
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5448,
-        "retweets": 534
+        "likes": 5467,
+        "retweets": 536
       },
       {
         "text": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future.\nhttps://t.co/bdT8oXGUKK",
@@ -1152,6 +1152,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Alphabet 刚刚公布了令人瞠目结舌的 1120 亿美元利润。这是要抓住的。",
+        "url": "https://finnhub.io/api/news?id=2ab9497c3799555b2d3641f7fca734cbac3fdf3c4635262aaa992411f8783341",
+        "datetime": 1786166400,
+        "source": "Yahoo"
+      },
+      {
         "headline": "NVDL 的 2 倍承诺仅兑现 17.21%，而 NVIDIA 一年内飙升 22.21%",
         "url": "https://finnhub.io/api/news?id=26bf896f4a970341a871ecea8e27b876757aa125a00b5b60aa11df304669b3ae",
         "datetime": 1786160759,
@@ -1174,15 +1180,15 @@
         "url": "https://finnhub.io/api/news?id=2fb0514de0642026c805a1c6bab7bc473b253422b79bf4c21b358823394276b9",
         "datetime": 1786148243,
         "source": "Yahoo"
-      },
-      {
-        "headline": "为什么 Genius Sports 本周股价上涨近 10%",
-        "url": "https://finnhub.io/api/news?id=9cc2c1e0fd155b93bc7a546095413ef2bfe9f4ca9884a2da6fbdaf97a2112c12",
-        "datetime": 1786148098,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet 刚刚公布了令人瞠目结舌的 1120 亿美元利润。这是要抓住的。",
+        "url": "https://finnhub.io/api/news?id=2ab9497c3799555b2d3641f7fca734cbac3fdf3c4635262aaa992411f8783341",
+        "datetime": 1786166400,
+        "source": "Yahoo"
+      },
       {
         "headline": "银行引领奖金热潮",
         "url": "https://finnhub.io/api/news?id=dd3ffa3ecd1662d6f216753773e9109808f00ab43bdaf395162b2ae539a32b11",
@@ -1205,12 +1211,6 @@
         "headline": "加里·布莱克 (Gary Black) 表示，最有可能将机器人出租车推向大众的是 Uber，而不是特斯拉或 Waymo",
         "url": "https://finnhub.io/api/news?id=f745797104723b33f664d31685b3b74136cea8c075cd429d555de7fae08c6921",
         "datetime": 1786140033,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "甲骨文飙升：是什么推动了突然的上涨",
-        "url": "https://finnhub.io/api/news?id=2a486e7b2a8cadaa229c3ec2e260751846755671f8498eae340f34f610455b8b",
-        "datetime": 1786138200,
         "source": "Yahoo"
       }
     ],
@@ -1324,7 +1324,7 @@
         "source": "Forexlive"
       },
       {
-        "headline": "由于美国低就业数据冷却了美联储加息押注，比特币价格在 8 月份创下 6.53 万美元新高",
+        "headline": "由于美国低就业数据冷却了美联储加息押注，比特币价格在 8 月份创下 6.53 万美元高位",
         "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786116195,
         "source": "Cointelegraph"
@@ -1364,7 +1364,7 @@
         "source": "@solana"
       },
       {
-        "headline": ".@mert 解释 Helius Rings 如何为 Solana 带来隐私\n\n“Helius 环是保护隐私的双重解决方案”\n\n“有一个任何人都可以使用的公共环，除了t之外，一切都是匿名的。",
+        "headline": ".@mert 解释 Helius Rings 如何为 Solana 带来隐私\n\n“Helius 环是保护隐私的双重解决方案”\n\n“有一个任何人都可以使用的公共环路，除了t之外，一切都是匿名的。",
         "url": "https://x.com/solana/status/2085823606462812214",
         "datetime": 1786134075,
         "source": "@solana"
