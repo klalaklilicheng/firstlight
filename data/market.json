@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T03:26:05.167Z",
+  "updated_at": "2026-08-09T04:57:18.725Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64732,
-      "change_pct": -0.37
+      "price": 64741,
+      "change_pct": -0.36
     },
     {
       "symbol": "ETH",
-      "price": 1912.02,
-      "change_pct": -0.13
+      "price": 1911.66,
+      "change_pct": -0.22
     },
     {
       "symbol": "SOL",
-      "price": 75.84,
-      "change_pct": 2.45
+      "price": 75.92,
+      "change_pct": 1.75
     },
     {
       "symbol": "HYPE",
-      "price": 54.87,
-      "change_pct": 0.99
+      "price": 54.82,
+      "change_pct": 0.86
     },
     {
       "symbol": "ZEC",
-      "price": 512.07,
-      "change_pct": 0.79
+      "price": 512.25,
+      "change_pct": 0.77
     },
     {
       "symbol": "TAO",
-      "price": 205.12,
-      "change_pct": 5.14
+      "price": 206.83,
+      "change_pct": 5.88
     },
     {
       "symbol": "SKY",
-      "price": 1255.56,
-      "change_pct": 0.01
+      "price": 1255.54,
+      "change_pct": -0.1
     },
     {
       "symbol": "AAVE",
-      "price": 90.5,
-      "change_pct": 1.1
+      "price": 90.83,
+      "change_pct": 0.85
     },
     {
       "symbol": "BNB",
-      "price": 600.92,
-      "change_pct": 1.54
+      "price": 600.9,
+      "change_pct": 1.29
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": 0.91
+      "price": 1.62,
+      "change_pct": 1.06
     },
     {
       "symbol": "DOGE",
-      "price": 0.069957,
-      "change_pct": -0.01
+      "price": 0.069999,
+      "change_pct": -0.12
     },
     {
       "symbol": "SPACEX",
-      "price": 515.07,
-      "change_pct": 2
+      "price": 515.14,
+      "change_pct": 2.28
     }
   ],
   "earnings": {
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.3,
+    "score": 32.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.6,
+    "daily_score": 15.7,
     "weekly_score": 16.7,
-    "btc_price": 64780.2,
+    "btc_price": 64784.7,
     "fear_greed": 40,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005112,
+        "value": 0.006691,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.15,
-        "score": 43,
+        "value": 1.17,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
@@ -884,7 +884,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -90.9,
+        "value": -90.2,
         "score": 20,
         "weight": 4,
         "group": "weekly"
@@ -1063,28 +1063,28 @@
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 9435,
-        "retweets": 856
+        "likes": 9733,
+        "retweets": 879
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5172,
-        "retweets": 536
+        "likes": 5194,
+        "retweets": 539
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 22687,
-        "retweets": 2209
+        "likes": 22775,
+        "retweets": 2219
       },
       {
         "text": "Our Q2 Earnings Call, remixed. 🎶 https://t.co/AFSCSoVq9t",
         "url": "https://x.com/saylor/status/2085425688287338864",
         "time": "Thu Aug 06 18:00:04 +0000 2026",
-        "likes": 5690,
+        "likes": 5692,
         "retweets": 565
       },
       {
@@ -1092,7 +1092,7 @@
         "url": "https://x.com/saylor/status/2085361837122462036",
         "time": "Thu Aug 06 13:46:20 +0000 2026",
         "likes": 4812,
-        "retweets": 572
+        "retweets": 571
       }
     ],
     "viktorfischer": [
@@ -1342,21 +1342,9 @@
     ],
     "SOL": [
       {
-        "headline": "？",
-        "url": "https://x.com/solana/status/2086178414319337783",
-        "datetime": 1786218667,
-        "source": "@solana"
-      },
-      {
-        "headline": "📁 索拉纳\n┃\n┣ 📁 生态系统\n┃ ┣ 去中心化金融\n┃ ┣ 交易\n┃ ┣ 稳定币\n┃ ┣ 付款\n┃ ┣ 代币化\n┃ ┣ RWA\n┃ ┣ 德品\n┃ ┣ 人工智能与代理\n┃ ┣ 消费者\n┃ ┣ 手机\n┃ ┣ 游戏\n┃ ┣ NFT\n┃ ┗ 收藏品\n┃\n┣📁",
-        "url": "https://x.com/solana/status/2086138281037910471",
-        "datetime": 1786209099,
-        "source": "@solana"
-      },
-      {
-        "headline": "尼日利亚索拉纳峰会现场直播🇳🇬\n\n用一个词描述@SuperteamNG：",
-        "url": "https://x.com/solana/status/2086116485911761116",
-        "datetime": 1786203903,
+        "headline": "",
+        "url": "https://x.com/solana/status/2086010473602777096",
+        "datetime": 1786178627,
         "source": "@solana"
       }
     ],
