@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:22:14.981Z",
+  "updated_at": "2026-08-09T12:33:02.193Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64930,
-      "change_pct": -0.03
+      "price": 64894,
+      "change_pct": -0.08
     },
     {
       "symbol": "ETH",
-      "price": 1919.37,
-      "change_pct": 0
+      "price": 1916.67,
+      "change_pct": -0.12
     },
     {
       "symbol": "SOL",
-      "price": 76.38,
-      "change_pct": 1.44
+      "price": 76.37,
+      "change_pct": 1.32
     },
     {
       "symbol": "HYPE",
-      "price": 54.45,
-      "change_pct": -0.39
+      "price": 54.27,
+      "change_pct": -0.48
     },
     {
       "symbol": "ZEC",
-      "price": 522.92,
-      "change_pct": 4.67
+      "price": 521.5,
+      "change_pct": 4.25
     },
     {
       "symbol": "TAO",
-      "price": 203.57,
-      "change_pct": 3.81
+      "price": 206.98,
+      "change_pct": 5.17
     },
     {
       "symbol": "SKY",
-      "price": 1260.91,
-      "change_pct": 0.59
+      "price": 1257.72,
+      "change_pct": 0.43
     },
     {
       "symbol": "AAVE",
-      "price": 90.84,
-      "change_pct": 0.76
+      "price": 91.11,
+      "change_pct": 0.87
     },
     {
       "symbol": "BNB",
-      "price": 604.05,
-      "change_pct": 1.56
+      "price": 603.53,
+      "change_pct": 1.31
     },
     {
       "symbol": "NEAR",
       "price": 1.61,
-      "change_pct": -0.35
+      "change_pct": 0.53
     },
     {
       "symbol": "DOGE",
-      "price": 0.070145,
-      "change_pct": -0.28
+      "price": 0.070125,
+      "change_pct": -0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 503.98,
-      "change_pct": -0.02
+      "price": 507.11,
+      "change_pct": 0.56
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "BIP-110 比特币分支在两个区块后因差距扩大而停滞",
+      "summary": "由于强制信号在几乎没有算力支持的情况下进行，因此强制分叉仍然停留在比特币的全部挖矿难度上。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786273253,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "巴西针对加密货币欺诈采取长达 24 小时的转账冻结措施",
       "summary": "该规则于 2027 年 1 月 1 日生效，涵盖发送至海外提供商或自助钱包的 10,000 美元以上交易，以及标记为需要审查的其他转账。",
       "source": "Cointelegraph",
@@ -732,15 +741,6 @@
       "datetime": 1786124205,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "英国改革委员会主席呼吁调查与 SBF 相关的捐赠：报告",
-      "summary": "英国改革党主席呼吁对与 FTX 相关的政治捐款进行调查，该党领导人准备在自己的加密货币相关丑闻中面对选民。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786122230,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,12 +784,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.6,
+    "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.8,
+    "daily_score": 15.7,
     "weekly_score": 16.8,
-    "btc_price": 64980.5,
+    "btc_price": 64938.9,
     "fear_greed": 40,
     "indicators": [
       {
@@ -801,15 +801,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004299,
-        "score": 47,
+        "value": 0.005037,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.2,
-        "score": 47,
+        "value": 1.18,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
@@ -878,7 +878,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -85.1,
+        "value": -84.5,
         "score": 22,
         "weight": 4,
         "group": "weekly"
@@ -997,8 +997,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 253,
-        "retweets": 29
+        "likes": 329,
+        "retweets": 35
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1057,36 +1057,36 @@
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 634,
-        "retweets": 40
+        "likes": 951,
+        "retweets": 67
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 2719,
-        "retweets": 262
+        "likes": 4067,
+        "retweets": 395
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 10648,
-        "retweets": 943
+        "likes": 10760,
+        "retweets": 957
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5318,
-        "retweets": 555
+        "likes": 5345,
+        "retweets": 559
       },
       {
         "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
         "url": "https://x.com/saylor/status/2085631181152829643",
         "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 22940,
-        "retweets": 2237
+        "likes": 22949,
+        "retweets": 2242
       }
     ],
     "viktorfischer": [
@@ -1130,37 +1130,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "超微电脑上季度订单额达 600 亿美元，但交易价格仅为 30 美元",
-        "url": "https://finnhub.io/api/news?id=95f0958102e02edefbe1f48d2887398b026e1a4d7647f8add9f03ded9ee57d68",
-        "datetime": 1786269000,
+        "headline": "股市发出令人不寒而栗的警告，历史并不令人放心",
+        "url": "https://finnhub.io/api/news?id=ad91290c40ddc004e7b594fc93f62927c3bc8f2aa37b9ec455a94bdeef84acdf",
+        "datetime": 1786276200,
         "source": "Yahoo"
       },
       {
-        "headline": "罗德正在推动 e.l.f. 的最新浪潮。是时候加入了吗？",
-        "url": "https://finnhub.io/api/news?id=5ede1f19cdaf05f4d53bc25024756a1cff102cbea301397f9bee191bb60a3631",
-        "datetime": 1786268400,
+        "headline": "购买并持有此股利之王的 3 个理由（以及不这样做的 1 个理由）",
+        "url": "https://finnhub.io/api/news?id=44317980c1cf4844afec28aad54feec1c75b562304c3c46d60b9b1358b4033ef",
+        "datetime": 1786275900,
         "source": "Yahoo"
       },
       {
-        "headline": "当美联储降息时，债券 ETF 的价格会发生什么变化——使用实际历史数据",
-        "url": "https://finnhub.io/api/news?id=550b35b997f5e3e108fccce2fdc2822f599511cf84573480a5208b2f884a4817",
-        "datetime": 1786268100,
+        "headline": "“没什么可喜欢的”：随着股市上涨，华尔街评估了令人惊讶的 7 月份就业报告",
+        "url": "https://finnhub.io/api/news?id=ecc86509bd56887ef1723f7ad5d1d05909c4931bf4219eaed134a49e0d26d695",
+        "datetime": 1786275329,
         "source": "Yahoo"
       },
       {
-        "headline": "这是沃伦·巴菲特推荐大多数人购买的 1 只 ETF——历史证明他的观点一直都是对的",
-        "url": "https://finnhub.io/api/news?id=50dd7880ec2d3e70019c878713be56a0a1c521b73843293456a2ab029fca24df",
-        "datetime": 1786267740,
+        "headline": "以下是您需要多少股不动产收益 (O) 股票才能获得 1,000 美元的每月股息",
+        "url": "https://finnhub.io/api/news?id=ae02b5a44a7ceb958afb0914d2d00a463ccdeb8a887851b83e99b9aec5eec234",
+        "datetime": 1786274700,
         "source": "Yahoo"
       },
       {
-        "headline": "这支价值数万亿美元的 AI 股票在量子计算方面的表现优于 IonQ、Rigetti 或 D-Wave，且估值处于多年低位",
-        "url": "https://finnhub.io/api/news?id=ba63fdb77d46db817388e80c46d5507ec51aa91bba0032b5d0eafd406e81e0ef",
-        "datetime": 1786267500,
+        "headline": "国际 ETF 的隐性成本：过去十年中货币风险实际影响了多少回报",
+        "url": "https://finnhub.io/api/news?id=698a827fdee588e2e8395003848baa734c13f0964cf9913f68eddc5124d2e2bf",
+        "datetime": 1786274400,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "英伟达首席执行官黄仁勋告诉首尔投资者在最近的人工智能股票抛售期间“以折扣价购买”。这是他的呼吁是否得到了回报。",
+        "url": "https://finnhub.io/api/news?id=2e278b11eb5aff29c140ae859415179f05d198ee275380f1215e54663638593c",
+        "datetime": 1786274100,
+        "source": "Yahoo"
+      },
       {
         "headline": "财报好于预期缓解了对美国股市创纪录上涨的担忧 - 华尔街日报",
         "url": "https://finnhub.io/api/news?id=dc5b1f3df9fd34ca061fc97816b99d46bbe40b24e9d6e0a40ed048a5e17c8ca4",
@@ -1183,12 +1189,6 @@
         "headline": "Moonshot AI 的 2.8 万亿参数模型刚刚成为中国第一个超越主要编码基准的模型",
         "url": "https://finnhub.io/api/news?id=2cfbd3abfdbe69317965c61bcfcff5017905d74ccac3e8258d693a93bd70c65f",
         "datetime": 1786252800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "黄仁勋表示人工智能会杀死任务，而不是工作。这对人工智能交易中的股票意味着什么。",
-        "url": "https://finnhub.io/api/news?id=935b614732c77c72a6f3e0d170cba4920b18e972042663d1bcd1548e77a396cb",
-        "datetime": 1786249200,
         "source": "Yahoo"
       }
     ],
@@ -1284,6 +1284,12 @@
     ],
     "BTC": [
       {
+        "headline": "BIP-110 比特币分支在两个区块后因差距扩大而停滞",
+        "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786273253,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "有争议的比特币分叉 BIP-110 开采了两个区块，然后停止",
         "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
         "datetime": 1786252100,
@@ -1306,12 +1312,6 @@
         "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786206017,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitwise 的 Matt Hougan 表示，数万亿机构资金将流入比特币",
-        "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-        "datetime": 1786197600,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
