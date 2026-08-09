@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T12:33:02.193Z",
+  "updated_at": "2026-08-09T13:43:17.682Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64894,
-      "change_pct": -0.08
+      "price": 65168,
+      "change_pct": 0.31
     },
     {
       "symbol": "ETH",
-      "price": 1916.67,
-      "change_pct": -0.12
+      "price": 1922.51,
+      "change_pct": 0.24
     },
     {
       "symbol": "SOL",
-      "price": 76.37,
-      "change_pct": 1.32
+      "price": 76.62,
+      "change_pct": 1.59
     },
     {
       "symbol": "HYPE",
-      "price": 54.27,
-      "change_pct": -0.48
+      "price": 54.49,
+      "change_pct": 0.14
     },
     {
       "symbol": "ZEC",
-      "price": 521.5,
-      "change_pct": 4.25
+      "price": 524.68,
+      "change_pct": 4.49
     },
     {
       "symbol": "TAO",
-      "price": 206.98,
-      "change_pct": 5.17
+      "price": 208.27,
+      "change_pct": 6.32
     },
     {
       "symbol": "SKY",
-      "price": 1257.72,
-      "change_pct": 0.43
+      "price": 1259.17,
+      "change_pct": 0.6
     },
     {
       "symbol": "AAVE",
-      "price": 91.11,
-      "change_pct": 0.87
+      "price": 91.35,
+      "change_pct": 0.77
     },
     {
       "symbol": "BNB",
-      "price": 603.53,
-      "change_pct": 1.31
+      "price": 605.98,
+      "change_pct": 1.72
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": 0.53
+      "price": 1.63,
+      "change_pct": 1.18
     },
     {
       "symbol": "DOGE",
-      "price": 0.070125,
-      "change_pct": -0.32
+      "price": 0.070333,
+      "change_pct": -0.3
     },
     {
       "symbol": "SPACEX",
-      "price": 507.11,
-      "change_pct": 0.56
+      "price": 511.42,
+      "change_pct": 1.43
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "以下是未来一周我们在股市中关注的两件大事",
+      "summary": "市场关注点将集中在7月通胀数据上。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "datetime": 1786281112,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "BIP-110 比特币分支在两个区块后因差距扩大而停滞",
       "summary": "由于强制信号在几乎没有算力支持的情况下进行，因此强制分叉仍然停留在比特币的全部挖矿难度上。",
       "source": "Cointelegraph",
@@ -492,7 +501,7 @@
     },
     {
       "headline": "攻击者窃取资金后 BTCPay 限制远程闪电访问",
-      "summary": "Foundation 和 Citadel21 报告称闪电节点被耗尽，但被盗总量和受影响的运营商数量仍然未知。",
+      "summary": "Foundation 和 Citadel21 报告称闪电节点被耗尽，但被盗总量和受影响的运营商数量仍未知。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786254367,
@@ -698,7 +707,7 @@
       "related": ""
     },
     {
-      "headline": "随着软件股剧烈波动，“SaaS 末日”争论加剧",
+      "headline": "随着软件股大幅波动，“SaaS 末日”争论加剧",
       "summary": "本周软件股出现了双向大幅波动，因为投资者试图找出哪些名字最能免受人工智能的影响。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
@@ -725,20 +734,11 @@
       "related": ""
     },
     {
-      "headline": "美国扩大对伊朗加密货币的打击力度，对两家交易所实施制裁",
+      "headline": "美国扩大对伊朗加密货币的打击，对两家交易所实施制裁",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
       "datetime": 1786128164,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Circle 通过推出 X Layer 将 USDC 扩展到 OKX 生态系统",
-      "summary": "随着稳定币在主要区块链生态系统中的扩展，此次推出使 X Layer 用户能够访问 Circle 发行的 USDC 和跨链传输。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786124205,
       "category": "crypto",
       "related": ""
     }
@@ -789,7 +789,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.7,
     "weekly_score": 16.8,
-    "btc_price": 64938.9,
+    "btc_price": 65228.4,
     "fear_greed": 40,
     "indicators": [
       {
@@ -801,7 +801,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005037,
+        "value": 0.005804,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -871,14 +871,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.8,
+        "value": 35.3,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -84.5,
+        "value": -82.1,
         "score": 22,
         "weight": 4,
         "group": "weekly"
@@ -997,8 +997,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 329,
-        "retweets": 35
+        "likes": 374,
+        "retweets": 38
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1054,39 +1054,39 @@
     ],
     "saylor": [
       {
+        "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
+        "url": "https://x.com/saylor/status/2086437347193975069",
+        "time": "Sun Aug 09 13:00:02 +0000 2026",
+        "likes": 2576,
+        "retweets": 234
+      },
+      {
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 951,
-        "retweets": 67
+        "likes": 1256,
+        "retweets": 89
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 4067,
-        "retweets": 395
+        "likes": 4980,
+        "retweets": 455
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 10760,
-        "retweets": 957
+        "likes": 10886,
+        "retweets": 963
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5345,
-        "retweets": 559
-      },
-      {
-        "text": "Bitcoin doesn’t need CLARITY. America needs clarity.",
-        "url": "https://x.com/saylor/status/2085631181152829643",
-        "time": "Fri Aug 07 07:36:37 +0000 2026",
-        "likes": 22949,
-        "retweets": 2242
+        "likes": 5381,
+        "retweets": 561
       }
     ],
     "viktorfischer": [
@@ -1336,6 +1336,12 @@
     ],
     "SOL": [
       {
+        "headline": "价值 15T 美元的资产管理公司。拥有 175 年历史的支付巨头。 7天内完成10亿笔交易。金融的不同方面都通过一个网络进行移动。索拉纳。\n\n这就是今天凌晨发生的一切",
+        "url": "https://x.com/solana/status/2086437339769774452",
+        "datetime": 1786280400,
+        "source": "@solana"
+      },
+      {
         "headline": "Vibhu 揭示了在 Solana 上构建的最疯狂的初创公司之一：\n\n“JurassicFi 实际上是对恐龙化石进行标记”\n\n“恐龙化石市场火热。上周，一只霸王龙在拍卖会上以 5000 万美元的价格售出",
         "url": "https://x.com/solana/status/2086324807772348848",
         "datetime": 1786253570,
@@ -1345,12 +1351,6 @@
         "headline": "？",
         "url": "https://x.com/solana/status/2086178414319337783",
         "datetime": 1786218667,
-        "source": "@solana"
-      },
-      {
-        "headline": "📁 索拉纳\n┃\n┣ 📁 生态系统\n┃ ┣ 去中心化金融\n┃ ┣ 交易\n┃ ┣ 稳定币\n┃ ┣ 付款\n┃ ┣ 代币化\n┃ ┣ RWA\n┃ ┣ 德品\n┃ ┣ 人工智能与代理\n┃ ┣ 消费者\n┃ ┣ 手机\n┃ ┣ 游戏\n┃ ┣ NFT\n┃ ┗ 收藏品\n┃\n┣📁",
-        "url": "https://x.com/solana/status/2086138281037910471",
-        "datetime": 1786209099,
         "source": "@solana"
       }
     ],
