@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-10T17:44:47.424Z",
+  "updated_at": "2026-08-10T18:44:42.938Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 710.42,
-      "change_pct": -0.04
+      "price": 710.51,
+      "change_pct": -0.03
     },
     {
       "symbol": "QQQ",
-      "price": 721.48,
-      "change_pct": -0.21
+      "price": 721.61,
+      "change_pct": -0.2
     },
     {
       "symbol": "QQQM",
-      "price": 297.12,
-      "change_pct": -0.19
+      "price": 297.15,
+      "change_pct": -0.18
     },
     {
       "symbol": "NVDA",
-      "price": 218.2,
-      "change_pct": -2.57
+      "price": 218.81,
+      "change_pct": -2.3
     },
     {
       "symbol": "TSLA",
-      "price": 328.95,
+      "price": 328.94,
       "change_pct": 0.11
     },
     {
       "symbol": "GOOG",
-      "price": 352.85,
-      "change_pct": -0.18
+      "price": 353.86,
+      "change_pct": 0.11
     },
     {
       "symbol": "RKLB",
-      "price": 80.88,
-      "change_pct": -2.35
+      "price": 80.55,
+      "change_pct": -2.75
     },
     {
       "symbol": "CRCL",
-      "price": 66.06,
-      "change_pct": -0.92
+      "price": 66.07,
+      "change_pct": -0.9
     },
     {
       "symbol": "PLTR",
-      "price": 177.34,
-      "change_pct": 3.1
+      "price": 175.86,
+      "change_pct": 2.24
     },
     {
       "symbol": "MSTR",
-      "price": 96.68,
-      "change_pct": -3.33
+      "price": 96.49,
+      "change_pct": -3.52
     },
     {
       "symbol": "GLD",
-      "price": 400.21,
-      "change_pct": 0.44
+      "price": 402.03,
+      "change_pct": 0.89
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63952,
-      "change_pct": -1.89
+      "price": 63773,
+      "change_pct": -2.15
     },
     {
       "symbol": "ETH",
-      "price": 1875.35,
-      "change_pct": -2.47
+      "price": 1869.66,
+      "change_pct": -2.61
     },
     {
       "symbol": "SOL",
-      "price": 76.01,
-      "change_pct": -1.56
+      "price": 75.73,
+      "change_pct": -1.76
     },
     {
       "symbol": "HYPE",
-      "price": 55.07,
-      "change_pct": 0.49
+      "price": 55.12,
+      "change_pct": 0.68
     },
     {
       "symbol": "ZEC",
-      "price": 495.78,
-      "change_pct": -3.9
+      "price": 497.18,
+      "change_pct": -3.28
     },
     {
       "symbol": "TAO",
-      "price": 203.44,
-      "change_pct": -1.78
+      "price": 201.36,
+      "change_pct": -2.74
     },
     {
       "symbol": "SKY",
-      "price": 1218.68,
-      "change_pct": -2.99
+      "price": 1215.35,
+      "change_pct": -3.27
     },
     {
       "symbol": "AAVE",
-      "price": 89.82,
-      "change_pct": -1.49
+      "price": 89.58,
+      "change_pct": -1.62
     },
     {
       "symbol": "BNB",
-      "price": 599.95,
+      "price": 599.12,
       "change_pct": -1.39
     },
     {
       "symbol": "NEAR",
-      "price": 1.62,
-      "change_pct": -1.68
+      "price": 1.6,
+      "change_pct": -2.39
     },
     {
       "symbol": "DOGE",
-      "price": 0.069743,
-      "change_pct": -1.23
+      "price": 0.069555,
+      "change_pct": -1.28
     },
     {
       "symbol": "SPACEX",
-      "price": 548.51,
-      "change_pct": 7.77
+      "price": 530.65,
+      "change_pct": 4.29
     }
   ],
   "earnings": {
@@ -500,7 +500,7 @@
       "related": ""
     },
     {
-      "headline": "我们正在买入更多本周开局就面临压力的人工智能股票",
+      "headline": "我们正在买入更多本周初面临压力的人工智能股票",
       "summary": "此次购买将使该股票在我们投资组合中的权重从 3.1% 增加到 3.3%。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/10/were-buying-more-of-an-ai-stock-thats-under-pressure-to-start-the-week.html",
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.6,
+    "score": 33.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
+    "daily_score": 17,
     "weekly_score": 16.8,
-    "btc_price": 63972.6,
+    "btc_price": 63848.7,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008459,
-        "score": 49,
+        "value": 0.01,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.5,
-        "score": 67,
+        "value": 1.54,
+        "score": 69,
         "weight": 5,
         "group": "daily"
       },
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 36.1,
+        "value": 36,
         "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89.4,
-        "score": 20,
+        "value": -85.2,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1003,7 +1003,7 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 709,
+        "likes": 711,
         "retweets": 81
       },
       {
@@ -1063,36 +1063,36 @@
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 1378,
-        "retweets": 112
+        "likes": 2464,
+        "retweets": 229
       },
       {
         "text": "STRC's BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $64,915. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2086785554008469988",
         "time": "Mon Aug 10 12:03:41 +0000 2026",
-        "likes": 434,
+        "likes": 442,
         "retweets": 24
       },
       {
         "text": "Strategy increased its USD Reserve by $650M and repurchased $109M of $STRC. This increased USD Duration by 143 days to 2.7 yrs and tightened STRC's BTC Credit by 10 bps. As of 8/9/26, we hold ₿840,447 in our BTC Reserve and $4.65B in our USD Reserve. $MSTR",
         "url": "https://x.com/saylor/status/2086785552355860895",
         "time": "Mon Aug 10 12:03:40 +0000 2026",
-        "likes": 6643,
-        "retweets": 692
+        "likes": 6881,
+        "retweets": 712
       },
       {
         "text": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili",
         "url": "https://x.com/saylor/status/2086732532922343831",
         "time": "Mon Aug 10 08:33:00 +0000 2026",
-        "likes": 4911,
-        "retweets": 471
+        "likes": 5049,
+        "retweets": 484
       },
       {
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 11405,
-        "retweets": 1057
+        "likes": 11443,
+        "retweets": 1060
       }
     ],
     "viktorfischer": [
@@ -1100,8 +1100,8 @@
         "text": "Rewards on @Pumpfun pay to creators 8x more than add sharing on @X . Few",
         "url": "https://x.com/viktorfischer/status/2086678525239582756",
         "time": "Mon Aug 10 04:58:23 +0000 2026",
-        "likes": 0,
-        "retweets": 0
+        "likes": 1,
+        "retweets": 1
       },
       {
         "text": "Just constructed my equities portfolio using @jtx_trade (very smooth experience, feels like tradfi):\n. solana:XsafvsGtzFqqHgTnA3aPC83EAMkacU5mcGtcSayhpVV  - every NVDA GPU, AMD GPU, and hyperscaler ASIC is fabbed at TSMC. ~19x forward earnings for 40%+ guided growth while https://t.co/PDnsXK0gJx",
@@ -1136,69 +1136,81 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "这些道琼斯股票在今天的交易中走势",
-        "url": "https://finnhub.io/api/news?id=215d57159ac550eaecc53a55f0b8bce07ef790c46ea7ddd57f4536b07ae4ddab",
-        "datetime": 1786380004,
+        "headline": "周一交易中最活跃的 S&P500 股票",
+        "url": "https://finnhub.io/api/news?id=e70d1226589f0903ccae81f7dfc28a84486a4791d7a36b439ddaadc5b167af77",
+        "datetime": 1786385101,
         "source": "ChartMill"
       },
       {
-        "headline": "为何CPI卡集团股价持续上涨",
-        "url": "https://finnhub.io/api/news?id=07c51ae5bd48f98149a5d88f870b669354788363d62ac09ee484298dab369121",
-        "datetime": 1786376615,
+        "headline": "查看最吸引注意力并推动市场活动的股票。",
+        "url": "https://finnhub.io/api/news?id=6c7594f5c417a73d4ed5cef7aec8a6f761c498d618f96ee8fce41eac0911394d",
+        "datetime": 1786384800,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "板块更新：金融股周一下午涨跌互现",
+        "url": "https://finnhub.io/api/news?id=98ea62e4345e1d03581067048d264b0af25c304dfbe5d2d3194edfcd62321e39",
+        "datetime": 1786383996,
         "source": "Yahoo"
       },
       {
-        "headline": "Monday.com 股价如何在 7 月份上涨 20.4%",
-        "url": "https://finnhub.io/api/news?id=2a493df258ab514225d41399c50a36b8651801fe2182296a3bded686770a9e94",
-        "datetime": 1786376396,
+        "headline": "瑞银表示，内存定价提高，美光科技的盈利前景增强",
+        "url": "https://finnhub.io/api/news?id=1e50c6e6eb0ccc9e554104ef1a83c0cc7ef86ec9222d8ca6486b5fb8f0f8a5c2",
+        "datetime": 1786383742,
         "source": "Yahoo"
       },
       {
-        "headline": "微软的 Nvidia 替代品正在变得越来越大",
-        "url": "https://finnhub.io/api/news?id=d7235609f83a06ff23cb0f98ffbb59aa104566916b7ab03f58ea08b084bb2ae3",
-        "datetime": 1786376053,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "三星刚刚向美光施加压力",
-        "url": "https://finnhub.io/api/news?id=ef190ca7f60d758af78b22207911bc79e45caf6a22776940763f92636c476eee",
-        "datetime": 1786375999,
+        "headline": "行业动态：科技股周一下午下跌",
+        "url": "https://finnhub.io/api/news?id=94f80c0bfac132841c8a93b2054dee2c11d9ed9c5211a57c1207a09b66cda794",
+        "datetime": 1786383114,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "伯克希尔正在格雷格·阿贝尔（Greg Abel）的领导下购买股票，但谁才是真正的负责人？",
-        "url": "https://finnhub.io/api/news?id=b880921bbf48f5b11bdc72ba3a1a97a603ad26bd71474cc95b6cee14613bb227",
-        "datetime": 1786377180,
+        "headline": "行业动态：科技股周一下午下跌",
+        "url": "https://finnhub.io/api/news?id=94f80c0bfac132841c8a93b2054dee2c11d9ed9c5211a57c1207a09b66cda794",
+        "datetime": 1786383114,
         "source": "Yahoo"
       },
       {
-        "headline": "分析师警告 Alphabet (GOOG) 面临两大人工智能问题； SpaceX (SPCX) 是更好的人工智能赌注吗？",
-        "url": "https://finnhub.io/api/news?id=b390bec627dae5c24764f028064394fd43002d07ea4f3e7c1da6cff7ee90acf2",
-        "datetime": 1786376704,
+        "headline": "人工智能需求需要更高的资本支出，英特尔计划发行 150 亿美元股票",
+        "url": "https://finnhub.io/api/news?id=663cb01e575e69a4fef90fad0b1c6c07b61764e2f7e1e26f97ddd24154c6a9fb",
+        "datetime": 1786381048,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么交易台今天再次滑动",
-        "url": "https://finnhub.io/api/news?id=c491415ddf5dea3053d2eaaa86e38bd6fc9419eda72fa6639b32a2cbbf426ece",
-        "datetime": 1786374789,
+        "headline": "美国银行表示，英伟达第二季度销售业绩将好于预期",
+        "url": "https://finnhub.io/api/news?id=d54c522773cdea2e5462eb15eafeecc8ff81fb937fe9cb17d5ad706a5247c761",
+        "datetime": 1786380913,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood 无视人工智能恐慌——买入更多 Nvidia，转而卖出这只游戏股票",
-        "url": "https://finnhub.io/api/news?id=7b78d70bcf93fa15f30072959d9f7fc9391cad7fa402d88afc830ee2ad22d96f",
-        "datetime": 1786373870,
+        "headline": "资金流入数据显示，科技股在华尔街仍有大量信徒",
+        "url": "https://finnhub.io/api/news?id=a2b524fcd3e744651892eb540606a53fdb958eaa3d4a35fb9bda1292c1043b36",
+        "datetime": 1786379744,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet 更高的人工智能支出可能会提振这些 ETF",
-        "url": "https://finnhub.io/api/news?id=5b1bf41cefd0322176926e3ba3b4ee928b28ddb1e44421b329ec53cfe5f3bea1",
-        "datetime": 1786372800,
+        "headline": "期权市场称 Adob​​e 股票可能下跌三分之一以上或上涨一半以上",
+        "url": "https://finnhub.io/api/news?id=b2ce8bd2c5ab7b00d0ac1472c0f830d8e91bca9c9872ba99a9dd59100ddc67c8",
+        "datetime": 1786379411,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉的 Terafab 德克萨斯芯片押注是否会重塑其 AI 野心和 TSLA 的利润故事？",
+        "url": "https://finnhub.io/api/news?id=b34481b51aebb683f91e75ea4e3c10d2a90036ec69b9807eb7cfe9a9801cbe4a",
+        "datetime": 1786381860,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "NFL 49 人队主教练表示 Autopilot 可能在事故中启用，特斯拉成为焦点",
+        "url": "https://finnhub.io/api/news?id=2b017fb7b1f7b50ca2283b60be3c8cdaff7bbaf54ffcae45f5bb047f2e8d3189",
+        "datetime": 1786377862,
+        "source": "Yahoo"
+      },
       {
         "headline": "特斯拉比以往任何时候都需要证明更多，但上行空间可能是巨大的",
         "url": "https://finnhub.io/api/news?id=918307061f3263f2b8466fcf2e2a764fcef93807541023d2d2b7abc0a0310601",
@@ -1206,27 +1218,15 @@
         "source": "Yahoo"
       },
       {
+        "headline": "Zacks 分析师博客重点介绍了 SpaceX、Tesla KLA Corp、Onto Innovation、Applied Materials 和 Lam Research",
+        "url": "https://finnhub.io/api/news?id=25f96fd28edf8e694434d82a4ef49c690c033d7be4d070a73541dae4e4780aa9",
+        "datetime": 1786373760,
+        "source": "Yahoo"
+      },
+      {
         "headline": "半决赛激增，迈克尔·伯里 (Michael Burry) 的短裤感受到了压力 - 但不要指望他在最新的“1987 式”碰撞警告后寻求掩护",
         "url": "https://finnhub.io/api/news?id=85c4b13cee6f02a51fd1a625137a37a9d47f916222269d0a1e78c0953dc28351",
         "datetime": 1786372698,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉股价下跌，粉丝大军未能帮助其挽回损失",
-        "url": "https://finnhub.io/api/news?id=a4beb55c150a762a1f930146c468709e37647a6214421907bd272e1cdf40c9f9",
-        "datetime": 1786371240,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "锁定反弹后 SpaceX 股价下跌。下一个版本何时发布，期待什么。",
-        "url": "https://finnhub.io/api/news?id=2a3ef10afb2276d67340b4b3cb68eca6d7479af1ec1ab4271d399e29c574b003",
-        "datetime": 1786370940,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla 或 SpaceX：谁从 Terafab 中受益更多以及如何受益",
-        "url": "https://finnhub.io/api/news?id=ba75bb50c83959b3dcee0f04e5b7d8c4dac0ae160c7ca173031774f56c9d6d73",
-        "datetime": 1786369338,
         "source": "Yahoo"
       }
     ],
