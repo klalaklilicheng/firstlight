@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T01:06:08.214Z",
+  "updated_at": "2026-08-10T03:45:42.108Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64963,
-      "change_pct": 0.02
+      "price": 65029,
+      "change_pct": 0.42
     },
     {
       "symbol": "ETH",
-      "price": 1912.69,
-      "change_pct": -0.29
+      "price": 1919.16,
+      "change_pct": 0.34
     },
     {
       "symbol": "SOL",
-      "price": 76.6,
-      "change_pct": 0.83
+      "price": 76.75,
+      "change_pct": 1.09
     },
     {
       "symbol": "HYPE",
-      "price": 54.07,
-      "change_pct": -2.09
+      "price": 54.32,
+      "change_pct": -0.8
     },
     {
       "symbol": "ZEC",
-      "price": 509,
-      "change_pct": -0.01
+      "price": 508.96,
+      "change_pct": -0.47
     },
     {
       "symbol": "TAO",
-      "price": 203.7,
-      "change_pct": -2.32
+      "price": 202.68,
+      "change_pct": -2.07
     },
     {
       "symbol": "SKY",
-      "price": 1237.11,
-      "change_pct": -1.81
+      "price": 1233.87,
+      "change_pct": -1.78
     },
     {
       "symbol": "AAVE",
-      "price": 91.32,
-      "change_pct": 0.37
+      "price": 91.62,
+      "change_pct": 1.12
     },
     {
       "symbol": "BNB",
-      "price": 604.18,
-      "change_pct": 0.16
+      "price": 602.75,
+      "change_pct": 0.33
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": -0.46
+      "change_pct": 0.34
     },
     {
       "symbol": "DOGE",
-      "price": 0.069668,
-      "change_pct": -0.92
+      "price": 0.069752,
+      "change_pct": -0.31
     },
     {
       "symbol": "SPACEX",
-      "price": 507.98,
-      "change_pct": -1.29
+      "price": 507.83,
+      "change_pct": -1.38
     }
   ],
   "earnings": {
@@ -473,6 +473,15 @@
   },
   "news": [
     {
+      "headline": "MEXC SpaceX 产品需求激增，累计期货交易量超过 71 亿美元",
+      "summary": "塞舌尔维多利亚，2026 年 6 月 30 日 /美通社/ — MEXC 是零费用数字资产交易的先驱，其 SpaceX 系列产品的需求持续呈爆炸式增长。 SPACEX(PRE) Launchpad 两个阶段的累计认购额超过 1.73 亿美元，吸引了超过 74,000 名参与者，",
+      "source": "Cryptocurrency News",
+      "url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
+      "datetime": 1786331583,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "BIP-110 呜咽而死，CLARITY 投票被搁置：霍德勒文摘，8 月 9 日",
       "summary": "BIP-110 通过“2 块链”将自己分叉，CLARITY 最终将在 9 月份获得参议院投票。投票结果很可能是“否决”。",
       "source": "Cointelegraph",
@@ -732,21 +741,18 @@
       "datetime": 1786162313,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "新的 XRP Ledger 修正案目标是 5.3 亿美元的代币化华尔街资产",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-      "datetime": 1786159800,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": []
+      "news": [
+        {
+          "headline": "MEXC SpaceX 产品需求激增，累计期货交易量超过 71 亿美元",
+          "url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
+          "datetime": 1786331583
+        }
+      ]
     },
     {
       "company": "Anthropic",
@@ -787,9 +793,9 @@
     "score": 33.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.7,
-    "weekly_score": 17.8,
-    "btc_price": 64962.9,
+    "daily_score": 15.6,
+    "weekly_score": 17.9,
+    "btc_price": 65042.8,
     "fear_greed": 39,
     "indicators": [
       {
@@ -801,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007397,
-        "score": 49,
+        "value": 0.006877,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.17,
-        "score": 45,
+        "value": 1.16,
+        "score": 44,
         "weight": 5,
         "group": "daily"
       },
@@ -878,8 +884,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -84.7,
-        "score": 22,
+        "value": -77.2,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -997,15 +1003,15 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 646,
-        "retweets": 73
+        "likes": 670,
+        "retweets": 77
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1402,
-        "retweets": 76
+        "retweets": 75
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1019,14 +1025,14 @@
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
         "likes": 536,
-        "retweets": 33
+        "retweets": 32
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1049,
-        "retweets": 86
+        "retweets": 85
       }
     ],
     "QwQiao": [
@@ -1048,7 +1054,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 638,
+        "likes": 639,
         "retweets": 37
       }
     ],
@@ -1057,35 +1063,35 @@
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 9982,
-        "retweets": 922
+        "likes": 10295,
+        "retweets": 956
       },
       {
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 2160,
-        "retweets": 150
+        "likes": 2201,
+        "retweets": 153
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 8450,
-        "retweets": 775
+        "likes": 8776,
+        "retweets": 800
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 11639,
-        "retweets": 1035
+        "likes": 11772,
+        "retweets": 1049
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5446,
+        "likes": 5454,
         "retweets": 577
       }
     ],
@@ -1130,37 +1136,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "市场牛市主导道琼斯期货下跌；思科、Lumentum 盈利预测",
-        "url": "https://finnhub.io/api/news?id=d07f539f863aae63e4ea985f4d3f429c7359be8cae6e4688105987cce16db8df",
-        "datetime": 1786319798,
+        "headline": "SpaceX 刚刚公布收益。这就是历史所说的接下来会发生的事情。",
+        "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
+        "datetime": 1786326600,
         "source": "Yahoo"
       },
       {
-        "headline": "SK 海力士和三星刚刚向美光投资者发出重大警告",
-        "url": "https://finnhub.io/api/news?id=d29b776e04105275fd12381ac14d663ecdb04988ac3d5d8e52a78db5d7e4d6ae",
-        "datetime": 1786319400,
+        "headline": "道琼斯期货在市场上涨后下跌；思科、Lumentum 盈利预测",
+        "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d",
+        "datetime": 1786326113,
         "source": "Yahoo"
       },
       {
-        "headline": "美联储刚刚发布 8 月份通胀预测，联邦公开市场委员会 (FOMC) 9 月份会议可能面临冲突",
-        "url": "https://finnhub.io/api/news?id=4e5563acfa8d52a700e45a7db0158248742249b2b70a953f12e7c71514beb6c5",
-        "datetime": 1786318104,
+        "headline": "美光科技 (Micron Technology) 刚刚从低点反弹 10%。历史揭示了 2027 年中期 5,000 美元的投资价值。",
+        "url": "https://finnhub.io/api/news?id=97097a4fad7f0e42946c58358c13b71dedbecee921b566e580d5451691115764",
+        "datetime": 1786324800,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 QXO, Inc. 7 月份股价下跌超过 20%",
-        "url": "https://finnhub.io/api/news?id=a7c406cf062c6120d6e87016336ae378aa53d873037834670f466322db26addf",
-        "datetime": 1786317600,
+        "headline": "埃克森美孚一季度向股东交付了 94 亿美元。这是它的收入。",
+        "url": "https://finnhub.io/api/news?id=aa5a67b95e3704113f0d2e73530b4458aeeeb7efbf7572b7175ab18848ba1b5c",
+        "datetime": 1786324020,
         "source": "Yahoo"
       },
       {
-        "headline": "收入和上调指导的严重打击。它的股票一天之内损失了三分之一的价值。",
-        "url": "https://finnhub.io/api/news?id=e97c06385105d9650a558849732d0ce5268e2c4556887749e2133126ace9870c",
-        "datetime": 1786316460,
+        "headline": "马克·库班 (Mark Cuban) 将 Nvidia 比作互联网时代的 IPO 机器，“为所有人和任何人提供资金”。这对人工智能股票意味着什么。",
+        "url": "https://finnhub.io/api/news?id=bbea502a04f05de530a8df885ff1c93b17f56a7216c274b072c761181f0f28c1",
+        "datetime": 1786323000,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "为什么伯克希尔·哈撒韦公司（BRK.B）在格雷格·阿贝尔的领导下更积极地部署现金？",
+        "url": "https://finnhub.io/api/news?id=73b5ca151e8c7eb30d0363c15bb92285b15b84afa9318d0b51426b04dae6f70a",
+        "datetime": 1786324475,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "认识一下比尔·阿克曼 (Bill Ackman) 持有十多年的高收益股息股票。这就是为什么八月份值得买入的原因。",
+        "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
+        "datetime": 1786320300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "伯克希尔的盈利不错——但不是很好。真正的亮点是这个。",
+        "url": "https://finnhub.io/api/news?id=62010c721bda70ce1c21a1000a383df164c547b9eb31ec2ce6ff60747e3c94a4",
+        "datetime": 1786314060,
+        "source": "Yahoo"
+      },
       {
         "headline": "Alphabet 的云计算业务收入刚刚增长 82%。下个季度可能会更好。",
         "url": "https://finnhub.io/api/news?id=738f920c36f1ae89e08534ff143477780c6f2163a073e73b8276d4c6a648931b",
@@ -1171,24 +1195,6 @@
         "headline": "伯克希尔哈撒韦公司以 23.5B 美元的股票购买量打破了 14 个季度的连续抛售势头——10B 美元以非公开价格购买了 1 家公司",
         "url": "https://finnhub.io/api/news?id=5eb24b8f7c3d0af9762135649795b532a857259f864fd9af849559da5693d66f",
         "datetime": 1786304400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "亚马逊售价 86 美元的二合一笔记本电脑和平板电脑具有完全集成的人工智能功能",
-        "url": "https://finnhub.io/api/news?id=b563b817c44cab4548174be171266ac2b10497054b72f67873e6f2e57e20a0ff",
-        "datetime": 1786302900,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Sundar Pichai 的 Alphabet 谷歌云收入同比增长 82%。这就是为什么增长率证明了公司资本支出赌注的合理性。",
-        "url": "https://finnhub.io/api/news?id=88583328d77350431284e9b91fcac6cda27f7bb40bd1c4fd2915d2faa2230334",
-        "datetime": 1786302840,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "价值 135 亿美元的伯克希尔·哈撒韦之谜：格雷格·阿贝尔 (Greg Abel) 除了 Alphabet 之外还收购了什么？",
-        "url": "https://finnhub.io/api/news?id=eb6481e70394104b9930f21986077c90913cfdbd870e4089f3acc44e190ebbc4",
-        "datetime": 1786295117,
         "source": "Yahoo"
       }
     ],
@@ -1322,12 +1328,6 @@
     ],
     "ETH": [
       {
-        "headline": "以太坊测试支撑位，比特币坚守 65,000 美元：加密货币突破仍然存在吗？",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-holds-65-000-as-ethereum-tests-support-is-the-crypto-breakout-still-alive/",
-        "datetime": 1786120413,
-        "source": "Forexlive"
-      },
-      {
         "headline": "对以太坊 EIP-8363 质押提案的强烈反对",
         "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786109400,
@@ -1443,6 +1443,13 @@
       }
     ],
     "ZEC": [],
-    "SPACEX": []
+    "SPACEX": [
+      {
+        "headline": "MEXC SpaceX 产品需求激增，累计期货交易量超过 71 亿美元",
+        "url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
+        "datetime": 1786331583,
+        "source": "Cryptocurrency News"
+      }
+    ]
   }
 }
