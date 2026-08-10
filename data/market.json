@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:00:49.072Z",
+  "updated_at": "2026-08-10T11:50:59.853Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64976,
-      "change_pct": 0.09
+      "price": 65021,
+      "change_pct": 0.14
     },
     {
       "symbol": "ETH",
-      "price": 1916.08,
-      "change_pct": -0.14
+      "price": 1917.45,
+      "change_pct": -0.08
     },
     {
       "symbol": "SOL",
-      "price": 76.8,
-      "change_pct": 0.6
+      "price": 76.84,
+      "change_pct": 0.53
     },
     {
       "symbol": "HYPE",
-      "price": 54.49,
-      "change_pct": -0.06
+      "price": 54.63,
+      "change_pct": 0.75
     },
     {
       "symbol": "ZEC",
-      "price": 507.06,
-      "change_pct": -3.36
+      "price": 507.85,
+      "change_pct": -2.82
     },
     {
       "symbol": "TAO",
-      "price": 203.32,
-      "change_pct": -0.67
+      "price": 205.18,
+      "change_pct": -0.54
     },
     {
       "symbol": "SKY",
-      "price": 1232.7,
-      "change_pct": -2.24
+      "price": 1232.43,
+      "change_pct": -2.06
     },
     {
       "symbol": "AAVE",
-      "price": 91.22,
-      "change_pct": 0.31
+      "price": 91.47,
+      "change_pct": 0.34
     },
     {
       "symbol": "BNB",
-      "price": 605.99,
-      "change_pct": 0.36
+      "price": 604.49,
+      "change_pct": 0.09
     },
     {
       "symbol": "NEAR",
-      "price": 1.65,
-      "change_pct": 2.52
+      "price": 1.66,
+      "change_pct": 2.75
     },
     {
       "symbol": "DOGE",
-      "price": 0.069898,
-      "change_pct": -0.3
+      "price": 0.069988,
+      "change_pct": -0.22
     },
     {
       "symbol": "SPACEX",
-      "price": 512.92,
-      "change_pct": 1.07
+      "price": 515.31,
+      "change_pct": 2.22
     }
   ],
   "earnings": {
@@ -473,11 +473,47 @@
   },
   "news": [
     {
+      "headline": "市场因美联储加息暂停而转向消费物价指数：本周比特币需要了解的五件事",
+      "summary": "随着市场参与者将注意力转向下一份美国通胀报告，比特币在周日每周收盘时飙升至八月新高。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786360420,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "伊朗-阿曼协议谈判缓解了霍尔木兹海峡的担忧，提振了风险资产，比特币稳定在 65,000 美元以上",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+      "datetime": 1786358743,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "桑托利：股市回归盈利之路。但七月的短暂痛苦足以让市场之神满意吗？",
+      "summary": "股票市场的成功历史——过去 20 年里的命中率为 100%——是众所周知的。但投资者认识到——或者说需要认识到——股票的真正风险。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/10/santoli-stocks-return-to-their-winning-ways-but-was-julys-brief-pain-enough-to-satisfy-the-market-gods.html",
+      "datetime": 1786358618,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "H100 交易 2,455 比特币后成为欧洲第二大比特币金库",
       "summary": "瑞典 H100 在完成涉及 2,455 BTC 的收购后，其比特币持有量增加了两倍多，达到 3,506 BTC。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786356870,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币波动性正在崩溃，但下行保护仍然需要溢价",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+      "datetime": 1786356838,
       "category": "crypto",
       "related": ""
     },
@@ -600,7 +636,7 @@
     },
     {
       "headline": "BIP-110 呜咽而死，CLARITY 投票被搁置：霍德勒文摘，8 月 9 日",
-      "summary": "BIP-110 通过“2 区块链”将自己分叉，CLARITY 最终将在 9 月份获得参议院投票。投票结果很可能是“否决”。",
+      "summary": "BIP-110 通过“2 块链”将自己分叉，CLARITY 最终将在 9 月份获得参议院投票。投票结果很可能是“否决”。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786321941,
@@ -635,7 +671,7 @@
       "related": ""
     },
     {
-      "headline": "比特币投资者向现货 ETF 投入了 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
+      "headline": "比特币投资者向现货 ETF 投入 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
@@ -644,7 +680,7 @@
       "related": ""
     },
     {
-      "headline": "专家表示，父母教给你的 5 条“规则”正在破坏你的职业生涯，比如“永远心存感激”",
+      "headline": "专家表示，父母教给你的 5 条“规则”会破坏你的职业生涯，比如“永远心存感激”",
       "summary": "“从小就吸收的善意的职业建议可能会对你产生不利影响，”《向上管理》一书的作者、高管教练梅洛迪·威尔丁说。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
@@ -705,42 +741,6 @@
       "datetime": 1786252100,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "DownDetector 显示美国数千名客户的 Verizon 移动服务中断",
-      "summary": "Verizon 建议仍受停电影响的客户重新启动设备。该公司没有提供停电原因。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-      "datetime": 1786230840,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "比特币 BIP-110 进入强制信号，矿工支持率低于 3%",
-      "summary": "部署里程碑测试执行节点是否可以在有限的矿工信号和硬分叉回退的讨论中维持这一变化。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786223828,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着有争议的 BIP-110 软分叉尝试开始，比特币触及区块 961,632",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-      "datetime": 1786219607,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着新的加密货币规则临近，俄罗斯的硬件钱包销量增长了一倍多",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-      "datetime": 1786211282,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.7,
     "weekly_score": 17.2,
-    "btc_price": 65015.2,
+    "btc_price": 65075.8,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008727,
+        "value": 0.008791,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.16,
-        "score": 44,
+        "value": 1.18,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
@@ -877,14 +877,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.2,
+        "value": 37.3,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -62.3,
+        "value": -60.3,
         "score": 28,
         "weight": 4,
         "group": "weekly"
@@ -1003,8 +1003,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 695,
-        "retweets": 80
+        "likes": 696,
+        "retweets": 81
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1063,36 +1063,36 @@
         "text": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili",
         "url": "https://x.com/saylor/status/2086732532922343831",
         "time": "Mon Aug 10 08:33:00 +0000 2026",
-        "likes": 2829,
-        "retweets": 302
+        "likes": 3348,
+        "retweets": 350
       },
       {
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 10992,
-        "retweets": 1012
+        "likes": 11090,
+        "retweets": 1025
       },
       {
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 2282,
-        "retweets": 154
+        "likes": 2286,
+        "retweets": 155
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 9271,
-        "retweets": 844
+        "likes": 9341,
+        "retweets": 854
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 12016,
-        "retweets": 1070
+        "likes": 12045,
+        "retweets": 1071
       }
     ],
     "viktorfischer": [
@@ -1148,7 +1148,7 @@
         "source": "Yahoo"
       },
       {
-        "headline": "沃伦·巴菲特的继任者格雷格·阿贝尔刚刚购买了 45 亿美元的奥马哈先知最喜欢的股票（不，不是 Alphabet！）",
+        "headline": "沃伦·巴菲特的继任者格雷格·阿贝尔刚刚以 45 亿美元的价格购买了奥马哈先知最喜欢的股票（不，不是 Alphabet！）",
         "url": "https://finnhub.io/api/news?id=5e6c750dfb4b6578faa0d2f09deb4c2e21e8db3901aff045815ef39f6f79d889",
         "datetime": 1786353960,
         "source": "Yahoo"
@@ -1212,6 +1212,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "KOID：持有人工智能资本支出基金，以人形机器人出售",
+        "url": "https://finnhub.io/api/news?id=bb11fb110992855cba98521f0005e907f820ace06e87dded6f0d9d5c711199cb",
+        "datetime": 1786344300,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "如何在特斯拉和福特之间部署 1000 美元以实现增长和选择性",
         "url": "https://finnhub.io/api/news?id=47f241406a740ed8a19f95b77973ffc6e31bd45bbf9b3d49dbb6ce5446da2d5f",
         "datetime": 1786336182,
@@ -1221,12 +1227,6 @@
         "headline": "埃隆·马斯克 (Elon Musk) 支持研究，显示机器人流量将是人类流量的 1,000 倍 — 迈克尔·伯里 (Michael Burry) 想知道谁真正在付费",
         "url": "https://finnhub.io/api/news?id=8ee584b73fcc67a5dbd9e367ee1505245bd5918ac540e0c8858cdac17015ed22",
         "datetime": 1786332571,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "讲解员-什么是Unitree，为何中国仿人机器人厂商竞相上市？",
-        "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
-        "datetime": 1786329393,
         "source": "Yahoo"
       }
     ],
@@ -1296,33 +1296,33 @@
     ],
     "BTC": [
       {
+        "headline": "市场因美联储加息暂停而转向消费物价指数：本周比特币需要了解的五件事",
+        "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786360420,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "伊朗-阿曼协议谈判缓解了霍尔木兹海峡的担忧，提振了风险资产，比特币稳定在 65,000 美元以上",
+        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+        "datetime": 1786358743,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "H100 交易 2,455 比特币后成为欧洲第二大比特币金库",
         "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786356870,
         "source": "Cointelegraph"
       },
       {
+        "headline": "比特币波动性正在崩溃，但下行保护仍然需要溢价",
+        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+        "datetime": 1786356838,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "CME 罕见转变：对冲基金放弃结构性空头，押注比特币反弹",
         "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
         "datetime": 1786352972,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "该比特币矿工拒绝了 BIP-110，尽管通过支持它的矿池进行挖矿",
-        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-        "datetime": 1786343117,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币红队创始人转向中国人工智能：“这绝对让我感到沮丧”",
-        "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786339107,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "美国通胀数据本周公布，比特币突破 65,000 美元",
-        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-        "datetime": 1786336777,
         "source": "CoinDesk"
       }
     ],
@@ -1340,26 +1340,7 @@
         "source": "CoinDesk"
       }
     ],
-    "SOL": [
-      {
-        "headline": "价值 15T 美元的资产管理公司。拥有 175 年历史的支付巨头。 7天内完成10亿笔交易。金融的不同方面都通过一个网络进行移动。索拉纳。\n\n这是今天凌晨发生的一切",
-        "url": "https://x.com/solana/status/2086437339769774452",
-        "datetime": 1786280400,
-        "source": "@solana"
-      },
-      {
-        "headline": "Vibhu 揭示了在 Solana 上构建的最疯狂的初创公司之一：\n\n“JurassicFi 实际上是对恐龙化石进行标记”\n\n“恐龙化石市场火热。上周，一只霸王龙在拍卖会上以 5000 万美元的价格售出",
-        "url": "https://x.com/solana/status/2086324807772348848",
-        "datetime": 1786253570,
-        "source": "@solana"
-      },
-      {
-        "headline": "？",
-        "url": "https://x.com/solana/status/2086178414319337783",
-        "datetime": 1786218667,
-        "source": "@solana"
-      }
-    ],
+    "SOL": [],
     "AAVE": [
       {
         "headline": "请访问@aave👻",
@@ -1393,18 +1374,6 @@
         "headline": "Hyperliquid 的 RWA 永续收益繁荣正在侵蚀支持 HYPE 的收入",
         "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
         "datetime": 1786287600,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "第二季度超流动性 RWA 合约增长至交易活动的 32%",
-        "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786020944,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "摩根大通表示，随着竞争加剧，Hyperliquid ETF 资金流入已陷入停滞",
-        "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-        "datetime": 1786020402,
         "source": "CoinDesk"
       }
     ],
