@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:15:08.931Z",
+  "updated_at": "2026-08-10T09:09:53.998Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 65231,
-      "change_pct": 0.65
+      "price": 65164,
+      "change_pct": 0.59
     },
     {
       "symbol": "ETH",
-      "price": 1925.35,
-      "change_pct": 0.43
+      "price": 1924.8,
+      "change_pct": 0.53
     },
     {
       "symbol": "SOL",
-      "price": 76.84,
-      "change_pct": 0.6
+      "price": 76.93,
+      "change_pct": 0.73
     },
     {
       "symbol": "HYPE",
       "price": 54.68,
-      "change_pct": -0.09
+      "change_pct": 0.03
     },
     {
       "symbol": "ZEC",
-      "price": 510.27,
-      "change_pct": -0.32
+      "price": 510.45,
+      "change_pct": -0.6
     },
     {
       "symbol": "TAO",
-      "price": 203.57,
-      "change_pct": -0.78
+      "price": 203.25,
+      "change_pct": -1.18
     },
     {
       "symbol": "SKY",
-      "price": 1233.65,
-      "change_pct": -1.98
+      "price": 1230.05,
+      "change_pct": -2.22
     },
     {
       "symbol": "AAVE",
-      "price": 92.55,
-      "change_pct": 0.99
+      "price": 91.92,
+      "change_pct": 0.79
     },
     {
       "symbol": "BNB",
-      "price": 602.96,
-      "change_pct": 0.01
+      "price": 604.02,
+      "change_pct": 0.38
     },
     {
       "symbol": "NEAR",
       "price": 1.65,
-      "change_pct": 2.04
+      "change_pct": 2.46
     },
     {
       "symbol": "DOGE",
-      "price": 0.069988,
-      "change_pct": -0.14
+      "price": 0.070047,
+      "change_pct": -0.02
     },
     {
       "symbol": "SPACEX",
-      "price": 503.15,
-      "change_pct": -3.02
+      "price": 506.21,
+      "change_pct": -2.42
     }
   ],
   "earnings": {
@@ -310,8 +310,8 @@
           "quarter": 2,
           "year": 2026,
           "actual": 0.18,
-          "estimate": 0.2161,
-          "surprise_pct": -16.7052
+          "estimate": 0.1725,
+          "surprise_pct": 4.3478
         },
         {
           "period": "2026-03-31",
@@ -338,7 +338,7 @@
           "surprise_pct": -12.1651
         }
       ],
-      "comment": "上季不及预期 (-16.7%)"
+      "comment": "上季超预期 (+4.3%)"
     },
     "PLTR": {
       "next": {
@@ -429,12 +429,20 @@
     },
     "LKNCY": {
       "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
+        "date": "2026-11-19",
+        "quarter": 3,
         "year": 2026,
         "is_estimate": true
       },
       "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 0.64,
+          "estimate": 0.6268,
+          "surprise_pct": 2.1059
+        },
         {
           "period": "2026-03-31",
           "quarter": 1,
@@ -458,20 +466,48 @@
           "actual": 0.615,
           "estimate": 0.6928,
           "surprise_pct": -11.2298
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": 0.64,
-          "estimate": 0.5198,
-          "surprise_pct": 23.1243
         }
       ],
-      "comment": "上季超预期 (+32.7%)"
+      "comment": "上季超预期 (+2.1%)"
     }
   },
   "news": [
+    {
+      "headline": "稳定币公司 BVNK 被万事达卡收购 $1.8B 的历程",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "datetime": 1786348320,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "英国监管机构将准备代币化黄金框架：报告",
+      "summary": "据报道，英国 FCA 正在为代币化黄金以及如何将这些产品用作批发市场的抵押资产制定监管框架。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786346745,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Robinhood 通过人工智能驱动的一体化应用程序将加密货币交易引入英国",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "datetime": 1786345200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时更新：即使参议院将《澄清法案》押注到秋季，比特币仍突破 65,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "datetime": 1786345010,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "该比特币矿工拒绝了 BIP-110，尽管通过支持它的矿池进行挖矿",
       "summary": "",
@@ -705,42 +741,6 @@
       "datetime": 1786202738,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Thune 申请终止后，美国参议院将于 9 月 15 日就推进 CLARITY 法案进行投票",
-      "summary": "随着立法者继续就道德和稳定币条款进行谈判，这一程序举措使加密货币市场结构立法重回正轨。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786201686,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitwise 的 Matt Hougan 表示，数万亿机构资金将流入比特币",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-      "datetime": 1786197600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Nansen创始人：比特币永远不会再跌破6万美元",
-      "summary": "Nansen 创始人 Alex Svanevik 表示，加密货币的发展得益于现实世界资产的交易，比特币永远不会再跌破 6 万美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786195800,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "为什么万亿美元资产管理公司 T. Rowe Price 将 memecoin 放入其加密 ETF 中",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "datetime": 1786194000,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.5,
+    "score": 32.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.6,
-    "weekly_score": 17.9,
-    "btc_price": 65265.7,
+    "weekly_score": 17.1,
+    "btc_price": 65201.7,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007292,
-        "score": 49,
+        "value": 0.009099,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.13,
-        "score": 42,
+        "value": 1.1,
+        "score": 40,
         "weight": 5,
         "group": "daily"
       },
@@ -842,15 +842,15 @@
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.03,
-        "score": 12,
+        "value": 0.858,
+        "score": 8,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.003,
-        "score": 53,
+        "value": 0.997,
+        "score": 47,
         "weight": 8,
         "group": "weekly"
       },
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.5,
+        "value": 37.4,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -70.1,
-        "score": 26,
+        "value": -65.9,
+        "score": 27,
         "weight": 4,
         "group": "weekly"
       }
@@ -1003,8 +1003,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 688,
-        "retweets": 81
+        "likes": 693,
+        "retweets": 80
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1060,39 +1060,39 @@
     ],
     "saylor": [
       {
+        "text": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili",
+        "url": "https://x.com/saylor/status/2086732532922343831",
+        "time": "Mon Aug 10 08:33:00 +0000 2026",
+        "likes": 1207,
+        "retweets": 125
+      },
+      {
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 10609,
-        "retweets": 977
+        "likes": 10785,
+        "retweets": 996
       },
       {
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 2251,
+        "likes": 2265,
         "retweets": 154
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 9060,
-        "retweets": 823
+        "likes": 9174,
+        "retweets": 833
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 11907,
+        "likes": 11960,
         "retweets": 1065
-      },
-      {
-        "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
-        "url": "https://x.com/saylor/status/2085746501720916354",
-        "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5460,
-        "retweets": 577
       }
     ],
     "viktorfischer": [
@@ -1136,6 +1136,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "如果你十年前在特斯拉投资了 10,000 美元，那么你今天会拥有多少钱",
+        "url": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe",
+        "datetime": 1786346400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "预测：Sandisk 将在年底前重拾历史新高",
+        "url": "https://finnhub.io/api/news?id=dc98334c7e4257c9d811b93f0ef18be55fb3d413b368e45bad29ce3e7e1a6ec8",
+        "datetime": 1786342800,
+        "source": "Yahoo"
+      },
+      {
         "headline": "伊朗紧张局势凸显国防供应缺口，有望提振两只股票",
         "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
         "datetime": 1786341000,
@@ -1152,21 +1164,15 @@
         "url": "https://finnhub.io/api/news?id=0723b8f4a21429ad48095baff79534983a6612d43d3caf65a7100b390eced2c0",
         "datetime": 1786338300,
         "source": "Yahoo"
-      },
-      {
-        "headline": "英伟达、礼来和迪士尼表明是时候支持顶尖企业了",
-        "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
-        "datetime": 1786338000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX 股价暴跌：现在是买入还是观望的时机？",
-        "url": "https://finnhub.io/api/news?id=16c5348a16b8b1da4ac977f0e35428f6abc9f5f6de664c13fc91b30bb85bc324",
-        "datetime": 1786335600,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Ross Gerber 引用数据表明观点：除去 Alphabet 和亚马逊，标普 500 指数的盈利增长看起来远不那么令人印象深刻",
+        "url": "https://finnhub.io/api/news?id=d298a5220b40641c678eff9604c5eb557105f440d0bcf084ce2449bc3259ba43",
+        "datetime": 1786340151,
+        "source": "Yahoo"
+      },
       {
         "headline": "苹果的可折叠手机、类似腕带、CXMT 内存测试让交易者着迷",
         "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
@@ -1190,15 +1196,21 @@
         "url": "https://finnhub.io/api/news?id=9f0336e9a13dcb13c445781053bcc7b246239f7778716329e3a27089b32d6ec8",
         "datetime": 1786322886,
         "source": "Yahoo"
-      },
-      {
-        "headline": "认识一下比尔·阿克曼 (Bill Ackman) 持有十多年的高收益股息股票。这就是为什么八月份值得买入的原因。",
-        "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
-        "datetime": 1786320300,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "如果你十年前在特斯拉投资了 10,000 美元，那么你今天会拥有多少钱",
+        "url": "https://finnhub.io/api/news?id=8fbd44fbdccaa3804a6f8518ba033bdc9fe678419cdcdbfef93370ad246ecfbe",
+        "datetime": 1786346400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉 (TSLA) 在可能的合并之前围绕中国分裂的谣言四起",
+        "url": "https://finnhub.io/api/news?id=c7a5ac3f8b0b0aabe0c8e9f2e7e058b23c155402f09f59c66bdc1e69bb122a0f",
+        "datetime": 1786345791,
+        "source": "Yahoo"
+      },
       {
         "headline": "如何在特斯拉和福特之间部署 1000 美元以实现增长和选择性",
         "url": "https://finnhub.io/api/news?id=47f241406a740ed8a19f95b77973ffc6e31bd45bbf9b3d49dbb6ce5446da2d5f",
@@ -1215,18 +1227,6 @@
         "headline": "讲解员-什么是Unitree，为何中国仿人机器人厂商竞相上市？",
         "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
         "datetime": 1786329393,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "做空 SpaceX 的亿万富翁投资者表示，一种可能的解决方案行不通",
-        "url": "https://finnhub.io/api/news?id=eee08e96612a63b98b792c7a0e48c4304796ed2ee956e186e9d66be4e05d51a5",
-        "datetime": 1786300380,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "凯文·奥利里 (Kevin O'Leary) 没有参加 SpaceX 的 IPO，现在他正计划在埃隆·马斯克 (Elon Musk) 的帝国成形之际进入该公司：“随着股票稳定下来……我将密切关注……”",
-        "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
-        "datetime": 1786294902,
         "source": "Yahoo"
       }
     ],
@@ -1345,6 +1345,18 @@
         "headline": "价值 15T 美元的资产管理公司。拥有 175 年历史的支付巨头。 7天内完成10亿笔交易。金融的不同方面都通过一个网络进行移动。索拉纳。\n\n这就是今天凌晨发生的一切",
         "url": "https://x.com/solana/status/2086437339769774452",
         "datetime": 1786280400,
+        "source": "@solana"
+      },
+      {
+        "headline": "Vibhu 揭示了在 Solana 上构建的最疯狂的初创公司之一：\n\n“JurassicFi 实际上是对恐龙化石进行标记”\n\n“恐龙化石市场火热。上周，一只霸王龙在拍卖会上以 5000 万美元的价格售出",
+        "url": "https://x.com/solana/status/2086324807772348848",
+        "datetime": 1786253570,
+        "source": "@solana"
+      },
+      {
+        "headline": "？",
+        "url": "https://x.com/solana/status/2086178414319337783",
+        "datetime": 1786218667,
         "source": "@solana"
       }
     ],
