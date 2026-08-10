@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:18:46.183Z",
+  "updated_at": "2026-08-10T07:15:08.931Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64967,
-      "change_pct": 0.34
+      "price": 65231,
+      "change_pct": 0.65
     },
     {
       "symbol": "ETH",
-      "price": 1915.38,
-      "change_pct": 0.13
+      "price": 1925.35,
+      "change_pct": 0.43
     },
     {
       "symbol": "SOL",
-      "price": 76.57,
-      "change_pct": 0.83
+      "price": 76.84,
+      "change_pct": 0.6
     },
     {
       "symbol": "HYPE",
-      "price": 54.08,
-      "change_pct": -1.37
+      "price": 54.68,
+      "change_pct": -0.09
     },
     {
       "symbol": "ZEC",
-      "price": 507.32,
-      "change_pct": -0.83
-    },
-    {
-      "symbol": "TAO",
-      "price": 202.08,
-      "change_pct": -2.08
-    },
-    {
-      "symbol": "SKY",
-      "price": 1230.99,
-      "change_pct": -1.99
-    },
-    {
-      "symbol": "AAVE",
-      "price": 91.55,
-      "change_pct": 0.69
-    },
-    {
-      "symbol": "BNB",
-      "price": 601.72,
-      "change_pct": 0.07
-    },
-    {
-      "symbol": "NEAR",
-      "price": 1.64,
-      "change_pct": 1.29
-    },
-    {
-      "symbol": "DOGE",
-      "price": 0.069723,
+      "price": 510.27,
       "change_pct": -0.32
     },
     {
+      "symbol": "TAO",
+      "price": 203.57,
+      "change_pct": -0.78
+    },
+    {
+      "symbol": "SKY",
+      "price": 1233.65,
+      "change_pct": -1.98
+    },
+    {
+      "symbol": "AAVE",
+      "price": 92.55,
+      "change_pct": 0.99
+    },
+    {
+      "symbol": "BNB",
+      "price": 602.96,
+      "change_pct": 0.01
+    },
+    {
+      "symbol": "NEAR",
+      "price": 1.65,
+      "change_pct": 2.04
+    },
+    {
+      "symbol": "DOGE",
+      "price": 0.069988,
+      "change_pct": -0.14
+    },
+    {
       "symbol": "SPACEX",
-      "price": 502.74,
-      "change_pct": -1.65
+      "price": 503.15,
+      "change_pct": -3.02
     }
   ],
   "earnings": {
@@ -473,11 +473,47 @@
   },
   "news": [
     {
+      "headline": "该比特币矿工拒绝了 BIP-110，尽管通过支持它的矿池进行挖矿",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+      "datetime": 1786343117,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币红队创始人转向中国人工智能：“这绝对让我感到沮丧”",
+      "summary": "截至周六，比特币红队现已在比特币生态系统中发现 1,288 个严重和高级漏洞。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786339107,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国通胀数据本周公布，比特币突破 65,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+      "datetime": 1786336777,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "澳大利亚因“基本报告”失败而下令 Cryptolink 比特币 ATM 机下线",
       "summary": "澳大利亚金融监管机构已暂停 Cryptolink 的注册三个月，此前这家比特币 ATM 运营商被罚款 56,340 美元。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786336356,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管 ETF 不断吸引投资者资金，但 XRP 在加密货币反弹中仍落后",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+      "datetime": 1786335961,
       "category": "crypto",
       "related": ""
     },
@@ -501,7 +537,7 @@
     },
     {
       "headline": "BIP-110 呜咽而死，CLARITY 投票被搁置：霍德勒文摘，8 月 9 日",
-      "summary": "BIP-110 通过“2 区块链”将自己分叉，CLARITY 最终将在 9 月份获得参议院投票。投票结果很可能是“否决”。",
+      "summary": "BIP-110 通过“2 块链”将自己分叉，CLARITY 最终将在 9 月份获得参议院投票。投票结果很可能是“否决”。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786321941,
@@ -536,7 +572,7 @@
       "related": ""
     },
     {
-      "headline": "比特币投资者向现货 ETF 投入了 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
+      "headline": "比特币投资者向现货 ETF 投入 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
@@ -545,7 +581,7 @@
       "related": ""
     },
     {
-      "headline": "专家表示，父母教给你的 5 条“规则”正在破坏你的职业生涯，比如“永远心存感激”",
+      "headline": "专家表示，父母教给你的 5 条“规则”会破坏你的职业生涯，比如“永远心存感激”",
       "summary": "“从小就吸收的善意的职业建议可能会对你产生不利影响，”《向上管理》一书的作者、高管教练梅洛迪·威尔丁说。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
@@ -618,7 +654,7 @@
     },
     {
       "headline": "比特币 BIP-110 进入强制信号，矿工支持率低于 3%",
-      "summary": "部署里程碑测试执行节点是否可以在有限的矿工信号和硬分叉回退的讨论中维持这一变化。",
+      "summary": "部署里程碑测试执行节点是否可以在有限的矿工信号和硬分叉回退的讨论中维持变化。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786223828,
@@ -671,7 +707,7 @@
       "related": ""
     },
     {
-      "headline": "Thune 申请终结后，美国参议院将于 9 月 15 日就推进 CLARITY 法案进行投票",
+      "headline": "Thune 申请终止后，美国参议院将于 9 月 15 日就推进 CLARITY 法案进行投票",
       "summary": "随着立法者继续就道德和稳定币条款进行谈判，这一程序举措使加密货币市场结构立法重回正轨。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -703,42 +739,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
       "datetime": 1786194000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "电梯巨头奥的斯希望在动荡的市场中发挥防御作用。它必须首先证明自己",
-      "summary": "奥的斯将自己定位为长期成长型股票，但由于电梯服务业务受挫以及投资者追逐人工智能交易，股价下跌。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-      "datetime": 1786190401,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "期权创纪录的一周推动标普 500 指数飙升；波动率指标接近 2026 年低点",
-      "summary": "受益于期权活动和波动率指数平静，本周大盘基准飙升至历史新高。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
-      "datetime": 1786189762,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国参议院开启加密货币清晰度法案第一阶段投票，下个月为该法案提供机会",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-      "datetime": 1786180044,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "又一个比特币基础设施漏洞袭来，这一次耗尽了闪电支付服务器的资源",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-      "datetime": 1786175164,
       "category": "crypto",
       "related": ""
     }
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15.6,
     "weekly_score": 17.9,
-    "btc_price": 65022.3,
+    "btc_price": 65265.7,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005872,
-        "score": 48,
+        "value": 0.007292,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.16,
-        "score": 44,
+        "value": 1.13,
+        "score": 42,
         "weight": 5,
         "group": "daily"
       },
@@ -828,7 +828,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.31,
+        "value": 1.3,
         "score": 27,
         "weight": 12,
         "group": "weekly"
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 37.2,
+        "value": 37.5,
         "score": 29,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -75.5,
-        "score": 24,
+        "value": -70.1,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -1003,8 +1003,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 679,
-        "retweets": 79
+        "likes": 688,
+        "retweets": 81
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1063,35 +1063,35 @@
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 10421,
-        "retweets": 967
+        "likes": 10609,
+        "retweets": 977
       },
       {
         "text": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not declared.",
         "url": "https://x.com/saylor/status/2086388339989492039",
         "time": "Sun Aug 09 09:45:18 +0000 2026",
-        "likes": 2223,
-        "retweets": 153
+        "likes": 2251,
+        "retweets": 154
       },
       {
         "text": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 blocks behind.",
         "url": "https://x.com/saylor/status/2086388338521497714",
         "time": "Sun Aug 09 09:45:17 +0000 2026",
-        "likes": 8923,
-        "retweets": 811
+        "likes": 9060,
+        "retweets": 823
       },
       {
         "text": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed.",
         "url": "https://x.com/saylor/status/2086057411056447861",
         "time": "Sat Aug 08 11:50:18 +0000 2026",
-        "likes": 11839,
-        "retweets": 1053
+        "likes": 11907,
+        "retweets": 1065
       },
       {
         "text": "If I were looking for the next billion-dollar business in finance, I would study Digital Credit. https://t.co/TpZzFASV5x",
         "url": "https://x.com/saylor/status/2085746501720916354",
         "time": "Fri Aug 07 15:14:51 +0000 2026",
-        "likes": 5457,
+        "likes": 5460,
         "retweets": 577
       }
     ],
@@ -1136,37 +1136,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Solana 可以将其代币销毁量提高 14 倍。这会让它更划算吗？",
-        "url": "https://finnhub.io/api/news?id=df495a5732a22f749098bf07f9ea0f5e3b66f6eb791d7b770e6c8d5b0732c1ef",
-        "datetime": 1786332000,
+        "headline": "伊朗紧张局势凸显国防供应缺口，有望提振两只股票",
+        "url": "https://finnhub.io/api/news?id=ce76a079552135814ba525d768ec536e8c5e5ef0f4d31a10d807ad5b5121a1e2",
+        "datetime": 1786341000,
         "source": "Yahoo"
       },
       {
-        "headline": "预测：特朗普的新关税在法庭上不会站得住脚。考虑购买这两只国际 ETF。",
-        "url": "https://finnhub.io/api/news?id=7cbcfc7ba54939c56f045ec6008080cf4c07ac3a1a3242baa0958b1dc30bc212",
-        "datetime": 1786330200,
+        "headline": "新任美联储主席凯文·沃什连续两次会议拒绝提供前瞻性指引。这就是为什么这应该让市场担忧。",
+        "url": "https://finnhub.io/api/news?id=440b33ee6bd67c70eaa5b92895ccaf4651a361a1153d199d25b4c0ef68c706ce",
+        "datetime": 1786340100,
         "source": "Yahoo"
       },
       {
-        "headline": "Twilio 将全年增长预期提高至 18%，收入创历史新高 15 亿美元。该股一天内上涨 25%。",
-        "url": "https://finnhub.io/api/news?id=5182566cef42bd03097f79c7b5c37433c9e09fb75337f597e26db2088491c64e",
-        "datetime": 1786327980,
+        "headline": "忘掉芯片吧：人工智能现在是一种权力交易。这两个派息行业证明了这一点。",
+        "url": "https://finnhub.io/api/news?id=0723b8f4a21429ad48095baff79534983a6612d43d3caf65a7100b390eced2c0",
+        "datetime": 1786338300,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX 刚刚公布收益。这就是历史所说的接下来会发生的事情。",
-        "url": "https://finnhub.io/api/news?id=16505aefd87a2f0f8825f7638ba002e4636e30ae77cf389593e10e6af1c147b4",
-        "datetime": 1786326600,
+        "headline": "英伟达、礼来和迪士尼表明是时候支持顶尖企业了",
+        "url": "https://finnhub.io/api/news?id=9356fed22ce295de843eda2daed53d41ab188e37f0a92398a2848a1d1d986204",
+        "datetime": 1786338000,
         "source": "Yahoo"
       },
       {
-        "headline": "道琼斯期货在市场上涨后下跌；思科、Lumentum 盈利预测",
-        "url": "https://finnhub.io/api/news?id=54e528fc6353b326fae9f348ae4935f21675c7b18c61d012b829b1cfa35add4d",
-        "datetime": 1786326113,
+        "headline": "SpaceX 股价暴跌：现在是买入还是观望的时机？",
+        "url": "https://finnhub.io/api/news?id=16c5348a16b8b1da4ac977f0e35428f6abc9f5f6de664c13fc91b30bb85bc324",
+        "datetime": 1786335600,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "苹果的可折叠手机、类似腕带、CXMT 内存测试让交易者着迷",
+        "url": "https://finnhub.io/api/news?id=16ce403bfb8fa073cbd36a8de2c0f9f2c315ecb480a9cc53c26f553fc546a37c",
+        "datetime": 1786337919,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "VC David Friedberg 表示，Starlink 是“令人难以置信的巨型提款机”； SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 做出了超过 1 万亿美元的年收入预测",
+        "url": "https://finnhub.io/api/news?id=d12d1885a0a3063bbe956ccb55513f28f2be38d7dc8a421137af06f9f57a3e6b",
+        "datetime": 1786331407,
+        "source": "Yahoo"
+      },
       {
         "headline": "为什么伯克希尔·哈撒韦公司（BRK.B）在格雷格·阿贝尔的领导下更积极地部署现金？",
         "url": "https://finnhub.io/api/news?id=73b5ca151e8c7eb30d0363c15bb92285b15b84afa9318d0b51426b04dae6f70a",
@@ -1184,21 +1196,21 @@
         "url": "https://finnhub.io/api/news?id=66ace6a5e5c05f09c695fa39ef91f09fd32b2d7c937d9fdf45fe41fdc43a8a72",
         "datetime": 1786320300,
         "source": "Yahoo"
-      },
-      {
-        "headline": "伯克希尔的盈利不错——但不是很好。真正的亮点是这个。",
-        "url": "https://finnhub.io/api/news?id=62010c721bda70ce1c21a1000a383df164c547b9eb31ec2ce6ff60747e3c94a4",
-        "datetime": 1786314060,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 的云计算业务收入刚刚增长 82%。下个季度可能会更好。",
-        "url": "https://finnhub.io/api/news?id=738f920c36f1ae89e08534ff143477780c6f2163a073e73b8276d4c6a648931b",
-        "datetime": 1786309500,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "如何在特斯拉和福特之间部署 1000 美元以实现增长和选择性",
+        "url": "https://finnhub.io/api/news?id=47f241406a740ed8a19f95b77973ffc6e31bd45bbf9b3d49dbb6ce5446da2d5f",
+        "datetime": 1786336182,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "埃隆·马斯克 (Elon Musk) 支持研究，显示机器人流量将是人类流量的 1,000 倍 — 迈克尔·伯里 (Michael Burry) 想知道谁真正在付费",
+        "url": "https://finnhub.io/api/news?id=8ee584b73fcc67a5dbd9e367ee1505245bd5918ac540e0c8858cdac17015ed22",
+        "datetime": 1786332571,
+        "source": "Yahoo"
+      },
       {
         "headline": "讲解员-什么是Unitree，为何中国仿人机器人厂商竞相上市？",
         "url": "https://finnhub.io/api/news?id=d3e2a6c6cfa6e081e469e0ebaf431879b0dfea1c1ee624a0f84ec675c5bcae9f",
@@ -1215,18 +1227,6 @@
         "headline": "凯文·奥利里 (Kevin O'Leary) 没有参加 SpaceX 的 IPO，现在他正计划在埃隆·马斯克 (Elon Musk) 的帝国成形之际进入该公司：“随着股票稳定下来……我将密切关注……”",
         "url": "https://finnhub.io/api/news?id=e618867eec08a034f8aa3fbbbaf5551982df55ecb56081e9b8a959f0803cd6b3",
         "datetime": 1786294902,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉新款 6 座 Model Y 创下 7 月以来最好成绩，澳大利亚电气化销量接近 50%",
-        "url": "https://finnhub.io/api/news?id=3c663e830149bea9323fe6fe59fc8af98224705ad68a8b7dd9a205ad11058433",
-        "datetime": 1786294860,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "忘记 VFIAX：Vanguard 向您出售相同的 S&P 500 基金，无需支付 3,000 美元的费用，也无需支付 75 美元的保真费即可购买",
-        "url": "https://finnhub.io/api/news?id=f45e2379d3532d14de2026567c166f0c4f8f943f936b39a9525a667fa4d3d729",
-        "datetime": 1786291486,
         "source": "Yahoo"
       }
     ],
@@ -1296,34 +1296,34 @@
     ],
     "BTC": [
       {
+        "headline": "该比特币矿工拒绝了 BIP-110，尽管通过支持它的矿池进行挖矿",
+        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+        "datetime": 1786343117,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币红队创始人转向中国人工智能：“这绝对让我感到沮丧”",
+        "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786339107,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "美国通胀数据本周公布，比特币突破 65,000 美元",
+        "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+        "datetime": 1786336777,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "澳大利亚因“基本报告”失败而下令 Cryptolink 比特币 ATM 机下线",
         "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786336356,
         "source": "Cointelegraph"
       },
       {
-        "headline": "比特币投资者向现货 ETF 投入了 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
+        "headline": "比特币投资者向现货 ETF 投入 8.53 亿美元。贝莱德 (BlackRock) 的 IBIT 占据大部分",
         "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
         "datetime": 1786285175,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "BIP-110 比特币分支在两个区块后因差距扩大而停滞",
-        "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786273253,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "有争议的比特币分叉 BIP-110 开采了两个区块，然后停止",
-        "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-        "datetime": 1786252100,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币 BIP-110 进入强制信号，矿工支持率低于 3%",
-        "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786223828,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
@@ -1342,21 +1342,9 @@
     ],
     "SOL": [
       {
-        "headline": "价值 15T 美元的资产管理公司。拥有 175 年历史的支付巨头。 7天内完成10亿笔交易。金融的不同方面都通过一个网络进行移动。索拉纳。\n\n这是今天凌晨发生的一切",
+        "headline": "价值 15T 美元的资产管理公司。拥有 175 年历史的支付巨头。 7天内完成10亿笔交易。金融的不同方面都通过一个网络进行移动。索拉纳。\n\n这就是今天凌晨发生的一切",
         "url": "https://x.com/solana/status/2086437339769774452",
         "datetime": 1786280400,
-        "source": "@solana"
-      },
-      {
-        "headline": "Vibhu 揭示了在 Solana 上构建的最疯狂的初创公司之一：\n\n“JurassicFi 实际上是对恐龙化石进行标记”\n\n“恐龙化石市场火热。上周，一只霸王龙在拍卖会上以 5000 万美元的价格售出",
-        "url": "https://x.com/solana/status/2086324807772348848",
-        "datetime": 1786253570,
-        "source": "@solana"
-      },
-      {
-        "headline": "？",
-        "url": "https://x.com/solana/status/2086178414319337783",
-        "datetime": 1786218667,
         "source": "@solana"
       }
     ],
