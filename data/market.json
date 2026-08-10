@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-10T19:49:30.070Z",
+  "updated_at": "2026-08-10T20:33:33.473Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 710.53,
-      "change_pct": -0.03
+      "price": 710.65,
+      "change_pct": -0.01
     },
     {
       "symbol": "QQQ",
-      "price": 721.49,
-      "change_pct": -0.21
+      "price": 720.87,
+      "change_pct": -0.3
     },
     {
       "symbol": "QQQM",
-      "price": 297.11,
-      "change_pct": -0.2
+      "price": 296.85,
+      "change_pct": -0.29
     },
     {
       "symbol": "NVDA",
-      "price": 218.79,
-      "change_pct": -2.31
+      "price": 217.55,
+      "change_pct": -2.86
     },
     {
       "symbol": "TSLA",
-      "price": 329.89,
-      "change_pct": 0.4
+      "price": 330.88,
+      "change_pct": 0.7
     },
     {
       "symbol": "GOOG",
-      "price": 354.41,
-      "change_pct": 0.27
+      "price": 355.84,
+      "change_pct": 0.67
     },
     {
       "symbol": "RKLB",
-      "price": 80.05,
-      "change_pct": -3.36
+      "price": 80.04,
+      "change_pct": -3.37
     },
     {
       "symbol": "CRCL",
-      "price": 66.79,
-      "change_pct": 0.18
+      "price": 67.05,
+      "change_pct": 0.57
     },
     {
       "symbol": "PLTR",
-      "price": 175.32,
-      "change_pct": 1.92
+      "price": 175.23,
+      "change_pct": 1.87
     },
     {
       "symbol": "MSTR",
-      "price": 97.9,
-      "change_pct": -2.11
+      "price": 97.33,
+      "change_pct": -2.68
     },
     {
       "symbol": "GLD",
-      "price": 402.8,
-      "change_pct": 1.09
+      "price": 402.54,
+      "change_pct": 1.02
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63981,
-      "change_pct": -1.8
+      "price": 64059,
+      "change_pct": -1.59
     },
     {
       "symbol": "ETH",
-      "price": 1877.61,
-      "change_pct": -2.27
+      "price": 1877.45,
+      "change_pct": -2.17
     },
     {
       "symbol": "SOL",
-      "price": 76.17,
-      "change_pct": -1.43
+      "price": 76.27,
+      "change_pct": -1.16
     },
     {
       "symbol": "HYPE",
-      "price": 55.7,
-      "change_pct": 1.84
+      "price": 55.56,
+      "change_pct": 1.53
     },
     {
       "symbol": "ZEC",
-      "price": 499.02,
-      "change_pct": -3.04
+      "price": 499.65,
+      "change_pct": -3.08
     },
     {
       "symbol": "TAO",
-      "price": 201.7,
-      "change_pct": -2.44
+      "price": 202.03,
+      "change_pct": -2.04
     },
     {
       "symbol": "SKY",
-      "price": 1216.99,
-      "change_pct": -2.5
+      "price": 1216.93,
+      "change_pct": -2.43
     },
     {
       "symbol": "AAVE",
-      "price": 89.91,
-      "change_pct": -1.58
+      "price": 89.81,
+      "change_pct": -1.81
     },
     {
       "symbol": "BNB",
-      "price": 600.25,
-      "change_pct": -1.29
+      "price": 600.21,
+      "change_pct": -1.18
     },
     {
       "symbol": "NEAR",
       "price": 1.61,
-      "change_pct": -1.36
+      "change_pct": -1.22
     },
     {
       "symbol": "DOGE",
-      "price": 0.069849,
-      "change_pct": -0.86
+      "price": 0.069877,
+      "change_pct": -0.75
     },
     {
       "symbol": "SPACEX",
-      "price": 541.99,
-      "change_pct": 6.74
+      "price": 546.52,
+      "change_pct": 7.49
     }
   ],
   "earnings": {
@@ -256,12 +256,20 @@
     },
     "RKLB": {
       "next": {
-        "date": "2026-08-20",
-        "quarter": 2,
+        "date": "2026-11-19",
+        "quarter": 3,
         "year": 2026,
         "is_estimate": true
       },
       "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": -0.03,
+          "estimate": -0.0765,
+          "surprise_pct": 60.7843
+        },
         {
           "period": "2026-03-31",
           "quarter": 1,
@@ -285,17 +293,9 @@
           "actual": -0.03,
           "estimate": -0.1064,
           "surprise_pct": 71.8045
-        },
-        {
-          "period": "2025-06-30",
-          "quarter": 2,
-          "year": 2025,
-          "actual": -0.13,
-          "estimate": -0.1167,
-          "surprise_pct": -11.3967
         }
       ],
-      "comment": "上季超预期 (+14.1%)"
+      "comment": "连续4季超预期 (+60.8%)"
     },
     "CRCL": {
       "next": {
@@ -472,6 +472,24 @@
     }
   },
   "news": [
+    {
+      "headline": "Messari：第二季度转账达到 $2.1T，TRON USDT 供应量达到 $87.9B",
+      "summary": "Messari 报告称，TRON 第二季度稳定币供应和网络活动创下历史新高，而 DeFi 和去中心化交易所活动则有所下降。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786391221,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "英国洗钱嫌疑人在特朗普加密业务中购买了 1 亿美元：纽约时报",
+      "summary": "据报道，Aqua 1 实体背后的个人是一位与英国和阿联酋有联系的商人，该实体在 2025 年购买了价值 1 亿美元的 World Liberty Financial 代币。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786390519,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "Meta 的最新模型推进了扎克伯格对个人人工智能助理的愿景",
       "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
@@ -723,24 +741,6 @@
       "datetime": 1786346745,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Robinhood 通过人工智能驱动的一体化应用程序将加密货币交易引入英国",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-      "datetime": 1786345200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "实时更新：即使参议院将《澄清法案》押注到秋季，比特币仍突破 65,000 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-      "datetime": 1786345010,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.1,
     "weekly_score": 16.8,
-    "btc_price": 64009.2,
+    "btc_price": 64125,
     "fear_greed": 39,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.00894,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.57,
-        "score": 71,
+        "value": 1.59,
+        "score": 73,
         "weight": 5,
         "group": "daily"
       },
@@ -877,14 +877,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 36.2,
+        "value": 36.3,
         "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -83.2,
+        "value": -82,
         "score": 22,
         "weight": 4,
         "group": "weekly"
@@ -1003,7 +1003,7 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 715,
+        "likes": 717,
         "retweets": 82
       },
       {
@@ -1063,8 +1063,8 @@
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 3088,
-        "retweets": 292
+        "likes": 3426,
+        "retweets": 320
       },
       {
         "text": "STRC's BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $64,915. https://t.co/uTlyGWcQWW",
@@ -1077,22 +1077,22 @@
         "text": "Strategy increased its USD Reserve by $650M and repurchased $109M of $STRC. This increased USD Duration by 143 days to 2.7 yrs and tightened STRC's BTC Credit by 10 bps. As of 8/9/26, we hold ₿840,447 in our BTC Reserve and $4.65B in our USD Reserve. $MSTR",
         "url": "https://x.com/saylor/status/2086785552355860895",
         "time": "Mon Aug 10 12:03:40 +0000 2026",
-        "likes": 7081,
-        "retweets": 732
+        "likes": 7221,
+        "retweets": 750
       },
       {
         "text": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili",
         "url": "https://x.com/saylor/status/2086732532922343831",
         "time": "Mon Aug 10 08:33:00 +0000 2026",
-        "likes": 5180,
-        "retweets": 495
+        "likes": 5248,
+        "retweets": 506
       },
       {
         "text": "Doing ₿usiness. https://t.co/PtekVgHXDp",
         "url": "https://x.com/saylor/status/2086437347193975069",
         "time": "Sun Aug 09 13:00:02 +0000 2026",
-        "likes": 11482,
-        "retweets": 1062
+        "likes": 11513,
+        "retweets": 1064
       }
     ],
     "viktorfischer": [
@@ -1136,69 +1136,81 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "请关注周一道琼斯指数的主要动向。",
-        "url": "https://finnhub.io/api/news?id=2f75049ab7be9065daa72677147eb7c5f80eb38c8674a895383a372bc4e3f887",
-        "datetime": 1786389005,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "周一交易中最活跃的 S&P500 股票",
-        "url": "https://finnhub.io/api/news?id=e70d1226589f0903ccae81f7dfc28a84486a4791d7a36b439ddaadc5b167af77",
-        "datetime": 1786385101,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "查看最吸引注意力并推动市场活动的股票。",
-        "url": "https://finnhub.io/api/news?id=6c7594f5c417a73d4ed5cef7aec8a6f761c498d618f96ee8fce41eac0911394d",
-        "datetime": 1786384800,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "板块更新：金融股周一下午涨跌互现",
-        "url": "https://finnhub.io/api/news?id=98ea62e4345e1d03581067048d264b0af25c304dfbe5d2d3194edfcd62321e39",
-        "datetime": 1786383996,
+        "headline": "行业动态：科技股午后下跌",
+        "url": "https://finnhub.io/api/news?id=726dec967f312df0761d5640414c3e0682e72dc874c0b75fb09674733cba9848",
+        "datetime": 1786391494,
         "source": "Yahoo"
       },
       {
-        "headline": "瑞银表示，内存定价提高，美光科技的盈利前景增强",
-        "url": "https://finnhub.io/api/news?id=1e50c6e6eb0ccc9e554104ef1a83c0cc7ef86ec9222d8ca6486b5fb8f0f8a5c2",
-        "datetime": 1786383742,
+        "headline": "Iovance Biotherapeutics 公布强劲的第二季度盈利后，该公司股价飙升。是否会走得更高？",
+        "url": "https://finnhub.io/api/news?id=edefa2cf6fdd60bba70576fc90995cb5e22c4bb92929d20986ab97083494aa14",
+        "datetime": 1786391349,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么特朗普媒体股票下跌 9.4%",
+        "url": "https://finnhub.io/api/news?id=127ba38789c92d7145c7b6e57012aed62d533b072d680cd4e4e53e17472a9e73",
+        "datetime": 1786391192,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "AMD 将 Meta 的新 AI 模型引入 PC",
+        "url": "https://finnhub.io/api/news?id=ddfd4d2552b69b55aca34eaa5d0b4977ac7aa8ea9a71c6fb6c835e0f60cd3e44",
+        "datetime": 1786391158,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Nvidia 一周内增加了 5620 亿美元",
+        "url": "https://finnhub.io/api/news?id=d9cdbfe7b7b6f269d9da16b4dc88ab0e76c2d0c2e7f77d0016e6753d3aeb1180",
+        "datetime": 1786390853,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "行业动态：科技股周一下午下跌",
-        "url": "https://finnhub.io/api/news?id=94f80c0bfac132841c8a93b2054dee2c11d9ed9c5211a57c1207a09b66cda794",
-        "datetime": 1786383114,
+        "headline": "摩根大通支持人工智能回报，微软股价上涨 1.7%",
+        "url": "https://finnhub.io/api/news?id=eaec0ca9403e5d7c7f1381d26f60cd8dd620444f801dc833a690d1f9ffc68424",
+        "datetime": 1786390623,
         "source": "Yahoo"
       },
       {
-        "headline": "人工智能需求需要更高的资本支出，英特尔计划发行 150 亿美元股票",
-        "url": "https://finnhub.io/api/news?id=663cb01e575e69a4fef90fad0b1c6c07b61764e2f7e1e26f97ddd24154c6a9fb",
-        "datetime": 1786381048,
+        "headline": "阿波罗经济学家放弃了对人工智能热潮的鲜明看法",
+        "url": "https://finnhub.io/api/news?id=071c96b91ea6851709fc3bcf8485d69806d24608dce33a515ac66748fe54ba4f",
+        "datetime": 1786389692,
         "source": "Yahoo"
       },
       {
-        "headline": "美国银行表示，英伟达第二季度销售业绩将好于预期",
-        "url": "https://finnhub.io/api/news?id=d54c522773cdea2e5462eb15eafeecc8ff81fb937fe9cb17d5ad706a5247c761",
-        "datetime": 1786380913,
+        "headline": "微软重新考虑对 Nvidia 的依赖",
+        "url": "https://finnhub.io/api/news?id=dff1d54336f0699cb873f9ab1a36fd8c5ddd88f82b75c2186dfdb43d6c34e179",
+        "datetime": 1786387938,
         "source": "Yahoo"
       },
       {
-        "headline": "资金流入数据显示，科技股在华尔街仍有大量信徒",
-        "url": "https://finnhub.io/api/news?id=a2b524fcd3e744651892eb540606a53fdb958eaa3d4a35fb9bda1292c1043b36",
-        "datetime": 1786379744,
+        "headline": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
+        "url": "https://finnhub.io/api/news?id=4fdc34972b38765b69e29862f8d09d6854785fd769675fdaffdd222e26fc08ab",
+        "datetime": 1786386633,
         "source": "Yahoo"
       },
       {
-        "headline": "期权市场称 Adob​​e 股票可能下跌三分之一以上或上涨一半以上",
-        "url": "https://finnhub.io/api/news?id=b2ce8bd2c5ab7b00d0ac1472c0f830d8e91bca9c9872ba99a9dd59100ddc67c8",
-        "datetime": 1786379411,
+        "headline": "第九巡回法院驳回 Meta 提出的青少年成瘾诉讼",
+        "url": "https://finnhub.io/api/news?id=997733360b7050676e1f683005ee56dac36a32c640dc1f465fca392cd30ca2e9",
+        "datetime": 1786384364,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "SpaceX 股票在下一次股票解锁前的禁售集会后暂停",
+        "url": "https://finnhub.io/api/news?id=4761e5b41cfec7d86f42a6c2de59c1c6d6d58c9fbb3d9644f5d1b630f6d35b41",
+        "datetime": 1786387800,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Cathie Wood 的 ARK 在上个月的 AI 抛售期间以 4000 万美元的价格购买了 Nvidia、Tesla 和 SpaceX 的股票。她逢低买入正确吗？",
+        "url": "https://finnhub.io/api/news?id=d0cd96aeabe7c64d22ada26d8e87d54b54cfa81de03ee59247e8a3387d39baaa",
+        "datetime": 1786385100,
+        "source": "Yahoo"
+      },
       {
         "headline": "特斯拉的 Terafab 德克萨斯芯片押注是否会重塑其 AI 野心和 TSLA 的利润故事？",
         "url": "https://finnhub.io/api/news?id=b34481b51aebb683f91e75ea4e3c10d2a90036ec69b9807eb7cfe9a9801cbe4a",
@@ -1215,18 +1227,6 @@
         "headline": "特斯拉比以往任何时候都需要证明更多，但上行空间可能是巨大的",
         "url": "https://finnhub.io/api/news?id=918307061f3263f2b8466fcf2e2a764fcef93807541023d2d2b7abc0a0310601",
         "datetime": 1786374047,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Zacks 分析师博客重点介绍了 SpaceX、Tesla KLA Corp、Onto Innovation、Applied Materials 和 Lam Research",
-        "url": "https://finnhub.io/api/news?id=25f96fd28edf8e694434d82a4ef49c690c033d7be4d070a73541dae4e4780aa9",
-        "datetime": 1786373760,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "半决赛激增，迈克尔·伯里 (Michael Burry) 的短裤感受到了压力 - 但不要指望他在最新的“1987 式”碰撞警告后寻求掩护",
-        "url": "https://finnhub.io/api/news?id=85c4b13cee6f02a51fd1a625137a37a9d47f916222269d0a1e78c0953dc28351",
-        "datetime": 1786372698,
         "source": "Yahoo"
       }
     ],
@@ -1406,21 +1406,21 @@
     ],
     "NEAR": [
       {
-        "headline": "“NEAR Intents 的美妙之处在于它专注于满足用户的意图 - 并在后台抽象出连锁/产品的选择。”\n\n— @RobertSagurton，联合创始人，@fogo\n\n福戈链，",
-        "url": "https://x.com/NEARProtocol/status/2086828759970099284",
-        "datetime": 1786373722,
+        "headline": "当模型、接口、术语和芯片被封闭并由少数方持有时，对所有这些的访问就成为有条件的。\n\n代表您行事的代理人由控制者自行决定运行",
+        "url": "https://x.com/NEARProtocol/status/2086908740385611972",
+        "datetime": 1786392791,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "近意图 🤝 Aurora 🤝 Solflare\n\n现在就来聊聊钱包、跨链融资以及未来。",
-        "url": "https://x.com/NEARProtocol/status/2086804367475130622",
-        "datetime": 1786367906,
+        "headline": "每一层都运行相同的模式。\n\n许多模型提供商条款保留提供商自行决定暂停访问的权利，并保留对提交的数据进行训练的权利，除非用户选择退出。\n\n边疆频道",
+        "url": "https://x.com/NEARProtocol/status/2086908737978077358",
+        "datetime": 1786392790,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "代理市场加上 Intents 和 IronClaw 创建了一个劳动力市场，代理可以在这里被雇佣、支付报酬、审计和追究责任。\n\nSHIELD + 区块链 + AI + 形式化验证指向",
-        "url": "https://x.com/NEARProtocol/status/2086492538735644703",
-        "datetime": 1786293561,
+        "headline": "主要人工智能实验室已通过消费者订阅将第三方代理工具从其模型中剔除，并在一天的通知内将其使用转移到计量层。\n\n基于该访问权限构建的工作流程",
+        "url": "https://x.com/NEARProtocol/status/2086908735088210043",
+        "datetime": 1786392789,
         "source": "@NEARProtocol"
       }
     ],
