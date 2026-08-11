@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T05:55:21.209Z",
+  "updated_at": "2026-08-11T06:53:03.580Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63979,
-      "change_pct": -1.65
+      "price": 63873,
+      "change_pct": -2.04
     },
     {
       "symbol": "ETH",
-      "price": 1874.47,
-      "change_pct": -2.46
+      "price": 1871.73,
+      "change_pct": -2.78
     },
     {
       "symbol": "SOL",
-      "price": 75.84,
-      "change_pct": -1.29
+      "price": 75.7,
+      "change_pct": -1.56
     },
     {
       "symbol": "HYPE",
-      "price": 55.28,
-      "change_pct": 1.9
+      "price": 55.22,
+      "change_pct": 1.26
     },
     {
       "symbol": "ZEC",
-      "price": 491.48,
-      "change_pct": -3.56
+      "price": 490.79,
+      "change_pct": -3.8
     },
     {
       "symbol": "TAO",
-      "price": 199.01,
-      "change_pct": -2.35
+      "price": 198.83,
+      "change_pct": -2.27
     },
     {
       "symbol": "SKY",
-      "price": 1207.88,
-      "change_pct": -2.08
+      "price": 1219.49,
+      "change_pct": -1.06
     },
     {
       "symbol": "AAVE",
-      "price": 88.72,
-      "change_pct": -3.45
+      "price": 88.61,
+      "change_pct": -3.73
     },
     {
       "symbol": "BNB",
-      "price": 599.6,
-      "change_pct": -0.55
+      "price": 598.66,
+      "change_pct": -0.77
     },
     {
       "symbol": "NEAR",
       "price": 1.61,
-      "change_pct": -2.75
+      "change_pct": -2.98
     },
     {
       "symbol": "DOGE",
-      "price": 0.070106,
-      "change_pct": 0.21
+      "price": 0.070117,
+      "change_pct": 0.18
     },
     {
       "symbol": "SPACEX",
-      "price": 511.36,
-      "change_pct": 2.15
+      "price": 511.23,
+      "change_pct": 1.59
     }
   ],
   "earnings": {
@@ -473,11 +473,56 @@
   },
   "news": [
     {
+      "headline": "韩国降低了加密货币转账的旅行规则门槛",
+      "summary": "韩国将取消 100 万韩元的旅行规则门槛，并对注册加密服务提供商之间的所有转账应用信息共享要求。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786429696,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币支付服务器因漏洞被耗尽后，BTCPay 悬赏 19 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "datetime": 1786429147,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "支付平台 Decta 探索支持稳定币的国库结算",
+      "summary": "Decta 将通过 OpenPayd 的基础设施使用 USDC 进行国际资金结算，寻求更快的转账和更高效的流动性管理。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786428000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币的 BIP-110 分叉比 BTC 落后 300 个区块，并且需要六年时间才能修复",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "datetime": 1786425997,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Luke Dashjr 被解除比特币改进提案编辑职务",
       "summary": "在开发者对 Luke Dashjr 在 BIP 110 及其停滞的少数派分叉中的角色表示担忧后，Luke Dashjr 失去了他的 BIP 编辑权限。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786424055,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "XRP、以太币引领加密货币损失，交易员下一步关注 70,000 美元的比特币",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+      "datetime": 1786423823,
       "category": "crypto",
       "related": ""
     },
@@ -696,51 +741,6 @@
       "datetime": 1786367262,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "策略将 1,690 BTC 转化为 1.086 亿美元的 STRC 回购",
-      "summary": "Strategy 出售 1,690 比特币以回购 STRC 股票，其美元储备升至 46.5 亿美元，比特币持有量降至 840,447 比特币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/strategy-sells-1690-btc-buy-back-108-6-million-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786365392,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Strategy 出售 1,690 枚比特币，从 MSTR 股票筹集 6.53 亿美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/10/strategy-sells-1-690-bitcoin-raises-usd653-million-from-mstr-shares",
-      "datetime": 1786363766,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "加密货币交易所 Coinsbuy 在两个区块链协调攻击中损失 800 万美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
-      "datetime": 1786361984,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "渣打银行：代币化 RWA 飙升至 4T 美元，到 2030 年底可能会将 LINK 推至 200 美元",
-      "summary": "据渣打银行称，随着现实世界资产市场不断增长，对行业最大预言机服务提供商的需求增加，到 2030 年底，LINK 代币的价格可能会上涨 25 倍，达到 200 美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786361979,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "为什么英国金融监管机构正在起草代币化黄金的新规则",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "datetime": 1786361913,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 32,
+    "score": 31.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15,
-    "weekly_score": 17,
-    "btc_price": 64019.8,
+    "weekly_score": 16.9,
+    "btc_price": 63906.9,
     "fear_greed": 38,
     "indicators": [
       {
@@ -807,7 +807,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001973,
+        "value": 0.002036,
         "score": 46,
         "weight": 8,
         "group": "daily"
@@ -828,8 +828,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.3,
-        "score": 27,
+        "value": 1.29,
+        "score": 26,
         "weight": 12,
         "group": "weekly"
       },
@@ -877,14 +877,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 36.2,
+        "value": 36.1,
         "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -69.5,
+        "value": -68,
         "score": 26,
         "weight": 4,
         "group": "weekly"
@@ -1003,14 +1003,14 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 722,
+        "likes": 714,
         "retweets": 83
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1403,
+        "likes": 1402,
         "retweets": 78
       },
       {
@@ -1040,7 +1040,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 543,
+        "likes": 544,
         "retweets": 17
       },
       {
@@ -1063,15 +1063,15 @@
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 2576,
-        "retweets": 273
+        "likes": 2699,
+        "retweets": 280
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 5935,
-        "retweets": 568
+        "likes": 6103,
+        "retweets": 584
       },
       {
         "text": "STRC's BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $64,915. https://t.co/uTlyGWcQWW",
@@ -1084,15 +1084,15 @@
         "text": "Strategy increased its USD Reserve by $650M and repurchased $109M of $STRC. This increased USD Duration by 143 days to 2.7 yrs and tightened STRC's BTC Credit by 10 bps. As of 8/9/26, we hold ₿840,447 in our BTC Reserve and $4.65B in our USD Reserve. $MSTR",
         "url": "https://x.com/saylor/status/2086785552355860895",
         "time": "Mon Aug 10 12:03:40 +0000 2026",
-        "likes": 7961,
-        "retweets": 835
+        "likes": 8013,
+        "retweets": 843
       },
       {
         "text": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili",
         "url": "https://x.com/saylor/status/2086732532922343831",
         "time": "Mon Aug 10 08:33:00 +0000 2026",
-        "likes": 6032,
-        "retweets": 583
+        "likes": 6092,
+        "retweets": 587
       }
     ],
     "viktorfischer": [
@@ -1136,6 +1136,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Cramer 的分析师表示礼来公司的 GLP-1 股票反弹还剩几年时间",
+        "url": "https://finnhub.io/api/news?id=3cfddac43682cfffff44b82c34297fce10d120b46260a0196bdcb437835a12c7",
+        "datetime": 1786421580,
+        "source": "Yahoo"
+      },
+      {
         "headline": "超微已经告诉我们它的收入、利润率和订单。周二的报告还剩一个数字。",
         "url": "https://finnhub.io/api/news?id=ef517d80c4c25e67109bd500dd34b4edaecc99e74e3a694c774d12fa382ac821",
         "datetime": 1786420140,
@@ -1158,15 +1164,21 @@
         "url": "https://finnhub.io/api/news?id=5ef4b2b2c7acca96aa82b9012e9994ee7882df64bd05adaa359f627b3a89dbda",
         "datetime": 1786414114,
         "source": "Yahoo"
-      },
-      {
-        "headline": "英伟达首席执行官刚刚向股市投资者发出强烈信号",
-        "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437",
-        "datetime": 1786412820,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Cloudflare 希望控制代理商务的身份和货币层",
+        "url": "https://finnhub.io/api/news?id=55cc0cc05fe1a0af7529c168e91229043933a6991fbecf6726addf078a92df2a",
+        "datetime": 1786426925,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Anthropic、OpenAI 据称正在竞相公开市场：有关 IPO 前举措的报告讲述了截然不同的故事",
+        "url": "https://finnhub.io/api/news?id=49fb6e5f7d9c985dfcfe26a9f99a424aa06015081a0f241885345366d77d0680",
+        "datetime": 1786424504,
+        "source": "Yahoo"
+      },
       {
         "headline": "英伟达首席执行官刚刚向股市投资者发出强烈信号",
         "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437",
@@ -1183,18 +1195,6 @@
         "headline": "亚马逊股票和每个人都在追逐的利润信号",
         "url": "https://finnhub.io/api/news?id=1ef8bf9beed7f6643ed155c5b0b9106cc42a3358657037aad5fa6a82a8e7f533",
         "datetime": 1786402077,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "谷歌的人工智能团队告诉求职者其人力资源过滤器不可靠",
-        "url": "https://finnhub.io/api/news?id=abf09bbd667e0868667298a653e6269209ba9a1a4a30e0c99ebe75423db11402",
-        "datetime": 1786400969,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "微软股票运行着市场上最大的现金返还机之一",
-        "url": "https://finnhub.io/api/news?id=68aef218e98284dffbe7165a577e58dc5bddcb93a98b8c46bf2057f8df71060a",
-        "datetime": 1786400355,
         "source": "Yahoo"
       }
     ],
@@ -1278,33 +1278,33 @@
     ],
     "BTC": [
       {
+        "headline": "比特币支付服务器因漏洞被耗尽后，BTCPay 悬赏 19 万美元",
+        "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+        "datetime": 1786429147,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币的 BIP-110 分叉比 BTC 落后 300 个区块，并且需要六年时间才能修复",
+        "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+        "datetime": 1786425997,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Luke Dashjr 被解除比特币改进提案编辑职务",
         "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786424055,
         "source": "Cointelegraph"
       },
       {
+        "headline": "XRP、以太币引领加密货币损失，交易员下一步关注 70,000 美元的比特币",
+        "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+        "datetime": 1786423823,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "链上数据显示，比特币的“最强之手”又回来了",
         "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
         "datetime": 1786420120,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "泰国的 0% 加密税。亚洲快报：比特币红队被迫使用中国人工智能",
-        "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786414116,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "加密货币损失达 3.61 亿美元，特朗普媒体的比特币持有量缩水",
-        "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
-        "datetime": 1786396327,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "策略建立 47.5 亿美元现金缓冲，因为仅比特币不足以满足投资者需求",
-        "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-        "datetime": 1786392204,
         "source": "CoinDesk"
       }
     ],
