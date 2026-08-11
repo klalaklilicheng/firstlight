@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T09:53:22.378Z",
+  "updated_at": "2026-08-11T10:43:13.999Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64206,
-      "change_pct": -1.11
+      "price": 64219,
+      "change_pct": -1.15
     },
     {
       "symbol": "ETH",
-      "price": 1879.1,
-      "change_pct": -1.92
+      "price": 1884.22,
+      "change_pct": -1.65
     },
     {
       "symbol": "SOL",
-      "price": 75.69,
-      "change_pct": -1.19
-    },
-    {
-      "symbol": "HYPE",
-      "price": 55.27,
-      "change_pct": 1.34
-    },
-    {
-      "symbol": "ZEC",
-      "price": 485.44,
-      "change_pct": -4.11
-    },
-    {
-      "symbol": "TAO",
-      "price": 200.38,
+      "price": 75.77,
       "change_pct": -1.21
     },
     {
+      "symbol": "HYPE",
+      "price": 55.13,
+      "change_pct": 1.28
+    },
+    {
+      "symbol": "ZEC",
+      "price": 485.3,
+      "change_pct": -4.24
+    },
+    {
+      "symbol": "TAO",
+      "price": 200.57,
+      "change_pct": -1.36
+    },
+    {
       "symbol": "SKY",
-      "price": 1224.85,
-      "change_pct": -0.19
+      "price": 1228.27,
+      "change_pct": -0.32
     },
     {
       "symbol": "AAVE",
-      "price": 89.03,
-      "change_pct": -2.49
+      "price": 89.02,
+      "change_pct": -2.39
     },
     {
       "symbol": "BNB",
-      "price": 606.43,
-      "change_pct": 0.47
+      "price": 606.91,
+      "change_pct": 0.37
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": -2.76
+      "price": 1.59,
+      "change_pct": -3.15
     },
     {
       "symbol": "DOGE",
-      "price": 0.070539,
-      "change_pct": 0.92
+      "price": 0.070354,
+      "change_pct": 0.62
     },
     {
       "symbol": "SPACEX",
-      "price": 512.11,
-      "change_pct": 0.06
+      "price": 512.24,
+      "change_pct": 0.09
     }
   ],
   "earnings": {
@@ -473,6 +473,24 @@
   },
   "news": [
     {
+      "headline": "Coldcard 黑客损失：调查人员如何追踪被盗的比特币",
+      "summary": "Coldcard 黑客攻击事件尚无明确的损失数字，因为调查人员依赖受害者报告和链上分析得出不同的估计。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786443279,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "华尔街刚刚认可了黄仁勋的人工智能“大概念”。现在怎么办？",
+      "summary": "人工智能建设的前三年多是由领先科技公司发行的创纪录数量的股权和债务资助的。英伟达有一个新想法。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "datetime": 1786442401,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "第二季度收入下降 50%，Keel 关闭美国比特币挖矿业务",
       "summary": "Keel 完成了美国比特币挖矿业务的关闭，转向人工智能和高性能计算基础设施",
       "source": "Cointelegraph",
@@ -581,7 +599,7 @@
       "related": ""
     },
     {
-      "headline": "特朗普媒体在第二季度亏损 2.38 亿美元后调整加密货币财务策略",
+      "headline": "特朗普媒体在第二季度亏损 2.38 亿美元后将修改加密货币财政部策略",
       "summary": "特朗普媒体表示，将对其加密货币金库采取更加严格的方法，同时将更多资源投入其核心媒体业务。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -591,7 +609,7 @@
     },
     {
       "headline": "泰国的 0% 加密税。亚洲快报：比特币红队被迫使用中国人工智能",
-      "summary": "在 OpenAI 限制访问后，比特币红队被迫依赖中国开源人工智能。泰国将加密税设置为 0％，以成为加密货币中心。",
+      "summary": "在 OpenAI 限制访问后，比特币红队被迫依赖中国开源人工智能。泰国将加密税设置为 0%，以成为加密货币中心。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786414116,
@@ -723,24 +741,6 @@
       "datetime": 1786374134,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Solana 贷款巨头 Jupiter 现在让同样的美元赚取两倍的收入",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "datetime": 1786372200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着 Tom Lee 的公司将资本转向股票回购，Bitmine 的 ETH 购买放缓",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-      "datetime": 1786369851,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -796,12 +796,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.1,
+    "score": 32.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 15,
-    "weekly_score": 17.1,
-    "btc_price": 64281.8,
+    "weekly_score": 17.2,
+    "btc_price": 64278.8,
     "fear_greed": 38,
     "indicators": [
       {
@@ -813,15 +813,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005234,
+        "value": 0.006117,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.61,
-        "score": 74,
+        "value": 1.6,
+        "score": 73,
         "weight": 5,
         "group": "daily"
       },
@@ -890,8 +890,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -56.5,
-        "score": 29,
+        "value": -53.2,
+        "score": 30,
         "weight": 4,
         "group": "weekly"
       }
@@ -1069,36 +1069,36 @@
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 760,
-        "retweets": 86
+        "likes": 888,
+        "retweets": 93
       },
       {
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 2907,
-        "retweets": 303
+        "likes": 2970,
+        "retweets": 312
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 6499,
-        "retweets": 625
+        "likes": 6610,
+        "retweets": 639
       },
       {
         "text": "STRC's BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $64,915. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2086785554008469988",
         "time": "Mon Aug 10 12:03:41 +0000 2026",
-        "likes": 484,
+        "likes": 485,
         "retweets": 29
       },
       {
         "text": "Strategy increased its USD Reserve by $650M and repurchased $109M of $STRC. This increased USD Duration by 143 days to 2.7 yrs and tightened STRC's BTC Credit by 10 bps. As of 8/9/26, we hold ₿840,447 in our BTC Reserve and $4.65B in our USD Reserve. $MSTR",
         "url": "https://x.com/saylor/status/2086785552355860895",
         "time": "Mon Aug 10 12:03:40 +0000 2026",
-        "likes": 8148,
-        "retweets": 855
+        "likes": 8162,
+        "retweets": 857
       }
     ],
     "viktorfischer": [
@@ -1106,7 +1106,7 @@
         "text": "Rewards on @Pumpfun pay to creators 8x more than add sharing on @X . Few",
         "url": "https://x.com/viktorfischer/status/2086678525239582756",
         "time": "Mon Aug 10 04:58:23 +0000 2026",
-        "likes": 1,
+        "likes": 2,
         "retweets": 1
       },
       {
@@ -1142,37 +1142,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "华尔街巨头斥资 5000 亿美元支持 Nvidia 的 AI 建设",
-        "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
-        "datetime": 1786434385,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "英特尔代工厂上季度增长 31%，但亏损 21 亿美元。",
-        "url": "https://finnhub.io/api/news?id=51d4fd17a99d69e5aa6bbc33cf4a68a3fd50fd0bf88a3a6b1ba163b3eecc7bbd",
-        "datetime": 1786433220,
+        "headline": "每月有200美元吗？只需您付出最少的努力，这只 ETF 就可以将其变成 455,865 美元。",
+        "url": "https://finnhub.io/api/news?id=067ce25bcd54c989024e92b4738c929564c5e2cdb826f3a7a8eb374d1a5706b9",
+        "datetime": 1786441500,
         "source": "Yahoo"
       },
       {
-        "headline": "这种高收益管道股票投资 10,000 美元每年可以支付 700 美元",
-        "url": "https://finnhub.io/api/news?id=4d9ed775c51e2f03359ec4ce26532de2232ca2d683be7ae632e26d9e756a2648",
-        "datetime": 1786433100,
+        "headline": "特斯拉和 SpaceX 承诺向一座芯片工厂投资 168 亿美元。特斯拉全年利润为 38 亿美元。",
+        "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
+        "datetime": 1786440720,
         "source": "Yahoo"
       },
       {
-        "headline": "忘记石油巨头：这只中游股票支付更好的股息",
-        "url": "https://finnhub.io/api/news?id=06544940c7e81be051fad18f7647486d20f49eaf7057870718af7dc9d37ed7ec",
-        "datetime": 1786431000,
+        "headline": "十年一遇的机会：1只标普 500 指数股息下跌 45% 的优秀股票，值得立即买入",
+        "url": "https://finnhub.io/api/news?id=e1ef89212091804c11309814f9fde46719b67b0d8e3bafb8780da4adf1dd9f60",
+        "datetime": 1786440600,
         "source": "Yahoo"
       },
       {
-        "headline": "您现在应该投资 500 美元购买 Oklo 股票吗？",
-        "url": "https://finnhub.io/api/news?id=ead805b2e1860ab1508309bdaa3c1fc3e7f1972fa3cdd611f58a1cdc3c64d054",
-        "datetime": 1786429500,
+        "headline": "华尔街最新的重磅股票分割已经到来——这个行业巨头在过去 32 年里上涨了 337,000%",
+        "url": "https://finnhub.io/api/news?id=5d869b1d12e1ae5f556057e919fee888ec2199ab372f8838b3e462b6e6ef64c0",
+        "datetime": 1786440360,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "树冠生长：细价股炼狱——还是大麻正在反弹？",
+        "url": "https://finnhub.io/api/news?id=fc963e934b5b198b4f70787f85846bbf6aa80ef686b0bde27234fd87036096ff",
+        "datetime": 1786440000,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "这支人工智能云股票以 275% 的 1 年回报率超越了亚马逊、微软和 Alphabet。仍然是买入吗？",
+        "url": "https://finnhub.io/api/news?id=8ebe30cd8b7dc05c7c9e8a6b162056fbf75580e6b037e11f3f877315b7f675aa",
+        "datetime": 1786438500,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "人工智能投资背后，美国贸易逆差连续第四个月增长",
+        "url": "https://finnhub.io/api/news?id=97266ac649cf852f084780ba4da523061c75fc6f30e2f3e68c46be61a81d018f",
+        "datetime": 1786437900,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "人工智能最大的扩展就在这里。这些股票提供了一种投资数据中心繁荣的方式",
+        "url": "https://finnhub.io/api/news?id=98de8d77052dfb76d7d0a47caa21dc7cf8a16f713bba76fa091baca915a70d43",
+        "datetime": 1786431540,
+        "source": "Yahoo"
+      },
       {
         "headline": "INTC 股票隔夜上涨：芯片制造商将股票出售额提高至超过 20B 美元？",
         "url": "https://finnhub.io/api/news?id=5e29172080e17e9282980d67c7496fbcfc806b3084cdb528b7ad0f1fe2fee945",
@@ -1184,27 +1202,15 @@
         "url": "https://finnhub.io/api/news?id=3cd6d0cb18a0a4fe691f1f4798303e5d327a04e9ae62f42f200a1ce189183a1d",
         "datetime": 1786428621,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Anthropic、OpenAI 据称正在竞相公开市场：有关 IPO 前举措的报告讲述了截然不同的故事",
-        "url": "https://finnhub.io/api/news?id=49fb6e5f7d9c985dfcfe26a9f99a424aa06015081a0f241885345366d77d0680",
-        "datetime": 1786424504,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "英伟达首席执行官刚刚向股市投资者发出强烈信号",
-        "url": "https://finnhub.io/api/news?id=997475d266bffb07257c750a8729944ed702f691597c54f19dc68375a626a437",
-        "datetime": 1786412820,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "随着体育和中小企业广告需求的扩大，Magnite 预计 CTV 增长率将达到 36%",
-        "url": "https://finnhub.io/api/news?id=9fbd4a1256b379d771e48c4497396a0a2ba6a327e99d96b555561f3bff340ada",
-        "datetime": 1786406650,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉和 SpaceX 承诺向一座芯片工厂投资 168 亿美元。特斯拉全年利润为 38 亿美元。",
+        "url": "https://finnhub.io/api/news?id=a7a5ec7e5d034008fddc93a91651a3332160197754630148c17fae6c734301bd",
+        "datetime": 1786440720,
+        "source": "Yahoo"
+      },
       {
         "headline": "Byrna、Lucid、Park-Ohio、JELD-WEN 和 Tesla 股价飙升，您需要知道什么",
         "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
@@ -1227,12 +1233,6 @@
         "headline": "机器人 ETF 现在确实存在：特斯拉、现代以及制造关节的公司",
         "url": "https://finnhub.io/api/news?id=94c2136896eee47c656eb55c7fd62b9e75d7c16e464545b21f9125ecb9ee7965",
         "datetime": 1786397816,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "零售交易员刚刚对特斯拉的抛售划清了界限",
-        "url": "https://finnhub.io/api/news?id=834e7696cec2e7ddefb7c2257e6684a90082609d7d0356a37c89193fe7648c34",
-        "datetime": 1786395780,
         "source": "Yahoo"
       }
     ],
@@ -1284,6 +1284,12 @@
     ],
     "BTC": [
       {
+        "headline": "Coldcard 黑客损失：调查人员如何追踪被盗的比特币",
+        "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786443279,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "第二季度收入下降 50%，Keel 关闭美国比特币挖矿业务",
         "url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786440255,
@@ -1306,12 +1312,6 @@
         "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
         "datetime": 1786425997,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Luke Dashjr 被解除比特币改进提案编辑职务",
-        "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786424055,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
