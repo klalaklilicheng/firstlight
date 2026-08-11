@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-11T18:50:46.995Z",
+  "updated_at": "2026-08-11T19:56:50.935Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 707.97,
-      "change_pct": -0.38
+      "price": 708.06,
+      "change_pct": -0.36
     },
     {
       "symbol": "QQQ",
-      "price": 716.95,
-      "change_pct": -0.54
+      "price": 718.56,
+      "change_pct": -0.32
     },
     {
       "symbol": "QQQM",
-      "price": 295.21,
-      "change_pct": -0.55
+      "price": 295.85,
+      "change_pct": -0.34
     },
     {
       "symbol": "NVDA",
-      "price": 217.15,
-      "change_pct": -0.18
+      "price": 218.14,
+      "change_pct": 0.27
     },
     {
       "symbol": "TSLA",
-      "price": 331.88,
-      "change_pct": 0.3
+      "price": 332.49,
+      "change_pct": 0.49
     },
     {
       "symbol": "GOOG",
-      "price": 343.97,
-      "change_pct": -3.34
+      "price": 343.04,
+      "change_pct": -3.6
     },
     {
       "symbol": "RKLB",
-      "price": 80.13,
-      "change_pct": 0.11
+      "price": 80,
+      "change_pct": -0.05
     },
     {
       "symbol": "CRCL",
-      "price": 70.94,
-      "change_pct": 5.8
+      "price": 70.72,
+      "change_pct": 5.47
     },
     {
       "symbol": "PLTR",
-      "price": 175.47,
-      "change_pct": 0.14
+      "price": 175.56,
+      "change_pct": 0.19
     },
     {
       "symbol": "MSTR",
-      "price": 95.36,
-      "change_pct": -2.02
+      "price": 95.94,
+      "change_pct": -1.43
     },
     {
       "symbol": "GLD",
-      "price": 401.08,
-      "change_pct": -0.36
+      "price": 400.84,
+      "change_pct": -0.42
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63283,
-      "change_pct": -0.87
+      "price": 63388,
+      "change_pct": -0.91
     },
     {
       "symbol": "ETH",
-      "price": 1862.14,
-      "change_pct": -0.4
+      "price": 1876.06,
+      "change_pct": 0
     },
     {
       "symbol": "SOL",
-      "price": 75.23,
-      "change_pct": -0.68
+      "price": 75.53,
+      "change_pct": -0.71
     },
     {
       "symbol": "HYPE",
-      "price": 54.07,
-      "change_pct": -1.72
+      "price": 54.41,
+      "change_pct": -2.42
     },
     {
       "symbol": "ZEC",
-      "price": 471.48,
-      "change_pct": -5.25
+      "price": 475.57,
+      "change_pct": -4.55
     },
     {
       "symbol": "TAO",
-      "price": 197.05,
-      "change_pct": -1.95
+      "price": 198.25,
+      "change_pct": -1.51
     },
     {
       "symbol": "SKY",
-      "price": 1214.9,
-      "change_pct": 0.02
+      "price": 1216.43,
+      "change_pct": 0.03
     },
     {
       "symbol": "AAVE",
-      "price": 87.27,
-      "change_pct": -2.63
+      "price": 88.22,
+      "change_pct": -1.71
     },
     {
       "symbol": "BNB",
-      "price": 608.83,
-      "change_pct": 1.63
+      "price": 610.78,
+      "change_pct": 1.8
     },
     {
       "symbol": "NEAR",
-      "price": 1.56,
-      "change_pct": -2.17
+      "price": 1.57,
+      "change_pct": -2.14
     },
     {
       "symbol": "DOGE",
-      "price": 0.070722,
-      "change_pct": 1.72
+      "price": 0.070918,
+      "change_pct": 1.64
     },
     {
       "symbol": "SPACEX",
-      "price": 498.92,
-      "change_pct": -5.97
+      "price": 498.94,
+      "change_pct": -8.08
     }
   ],
   "earnings": {
@@ -801,12 +801,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.5,
+    "score": 32.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.7,
+    "daily_score": 15.8,
     "weekly_score": 16.8,
-    "btc_price": 63341.5,
+    "btc_price": 63485.5,
     "fear_greed": 38,
     "indicators": [
       {
@@ -825,8 +825,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.76,
-        "score": 84,
+        "value": 1.8,
+        "score": 87,
         "weight": 5,
         "group": "daily"
       },
@@ -888,14 +888,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
+        "value": 35.6,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -88.8,
+        "value": -86,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1015,7 +1015,7 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 717,
-        "retweets": 83
+        "retweets": 84
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1042,7 +1042,7 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1049,
+        "likes": 1050,
         "retweets": 86
       }
     ],
@@ -1071,39 +1071,39 @@
     ],
     "saylor": [
       {
+        "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
+        "url": "https://x.com/saylor/status/2087252266533175311",
+        "time": "Tue Aug 11 18:58:14 +0000 2026",
+        "likes": 1497,
+        "retweets": 161
+      },
+      {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1214,
-        "retweets": 127
+        "likes": 1253,
+        "retweets": 131
       },
       {
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 1618,
-        "retweets": 166
+        "likes": 1650,
+        "retweets": 174
       },
       {
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 3633,
-        "retweets": 388
+        "likes": 3670,
+        "retweets": 390
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 7428,
-        "retweets": 736
-      },
-      {
-        "text": "STRC's BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $64,915. https://t.co/uTlyGWcQWW",
-        "url": "https://x.com/saylor/status/2086785554008469988",
-        "time": "Mon Aug 10 12:03:41 +0000 2026",
-        "likes": 491,
-        "retweets": 30
+        "likes": 7509,
+        "retweets": 742
       }
     ],
     "viktorfischer": [
@@ -1153,6 +1153,18 @@
         "source": "ChartMill"
       },
       {
+        "headline": "Nvidia 的重大交易再次扩大了人工智能的视野（评级升级）",
+        "url": "https://finnhub.io/api/news?id=7d04f3c38184512a87b9b527202ee954e42a83656b8f5ffbe1904a428c3e5b53",
+        "datetime": 1786459140,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "驾驭人工智能浪潮：资本轮动将如何推动 SPY 和 QQQ",
+        "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
+        "datetime": 1786459101,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "这是一个寄予厚望的市场",
         "url": "https://finnhub.io/api/news?id=77a17cf085007c2f59ce02c92c370eab249e7c2d62c46567ca172b98b368bc4e",
         "datetime": 1786455178,
@@ -1163,26 +1175,26 @@
         "url": "https://finnhub.io/api/news?id=f847afba36db398499a2001b95b9eb0a543bb254217d503204ec6c0eca665057",
         "datetime": 1786454480,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "英伟达 5000 亿美元融资交易：如何交易",
-        "url": "https://finnhub.io/api/news?id=642dfff22cb0816f7f5e6c93c330b4f0bd919c71e7519326ea8ca2f9f2816407",
-        "datetime": 1786453097,
-        "source": "CNBC"
-      },
-      {
-        "headline": "伯里VS。 Jensen：打破人工智能热潮的数字",
-        "url": "https://finnhub.io/api/news?id=478590cf2ffd425a5e1d19cdd3bfa4cf77ae442ef402eded0ba252a47a5e26be",
-        "datetime": 1786452577,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "驾驭人工智能浪潮：资本轮动将如何推动 SPY 和 QQQ",
+        "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
+        "datetime": 1786459101,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "股息正在发出信号",
         "url": "https://finnhub.io/api/news?id=babcb957e3abfc410a56107bc201d36b4dd81deae6a09eb74764ea2ad4a90095",
         "datetime": 1786456982,
         "source": "SeekingAlpha"
+      },
+      {
+        "headline": "英伟达将自己打造成资产类别的绝招——将其定性为循环融资是有缺陷的",
+        "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
+        "datetime": 1786453142,
+        "source": "Benzinga"
       },
       {
         "headline": "Alphabet（纳斯达克股票代码：GOOG）将强劲增长与及时的技术设置相结合",
@@ -1195,21 +1207,21 @@
         "url": "https://finnhub.io/api/news?id=57152f925c17d4fffcfdb1b14a93076bffaf0e62424e3cc274a2a3c7fd6cf1b5",
         "datetime": 1786449699,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "亚马逊 Zoox 在拉斯维加斯推出付费 Robotaxi 服务并表示“我们需要受到监管”——促使召回的烟雾事件解释了原因",
-        "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
-        "datetime": 1786439748,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Abbott 与 Google Health 合作，将 Abbott Lingo Biowearable 的血糖见解与 Google 的人工智能专业知识相结合，使个性化代谢见解更具可操作性",
-        "url": "https://finnhub.io/api/news?id=8e3ec80fd74ce35e77aac90235b0e7d528c318608293f82275d21fffb259acf7",
-        "datetime": 1786439341,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
+      {
+        "headline": "驾驭人工智能浪潮：资本轮动将如何推动 SPY 和 QQQ",
+        "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
+        "datetime": 1786459101,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "英伟达将自己打造成资产类别的绝招——将其定性为循环融资是有缺陷的",
+        "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
+        "datetime": 1786453142,
+        "source": "Benzinga"
+      },
       {
         "headline": "SpaceX VS.特斯拉：让我们看看哪支马斯克股票获胜",
         "url": "https://finnhub.io/api/news?id=d8f811a02501691f9e6ec2b5c01502e041f08d57123bf106c63fb103e6268106",
@@ -1227,18 +1239,6 @@
         "url": "https://finnhub.io/api/news?id=0eeae98792cf1e0f96b584693645a6b9358d956818b85ca5e7d69bb010026299",
         "datetime": 1786439748,
         "source": "Benzinga"
-      },
-      {
-        "headline": "Byrna、Lucid、Park-Ohio、JELD-WEN 和 Tesla 股价飙升，您需要知道什么",
-        "url": "https://finnhub.io/api/news?id=0e36829f262421493eab9a49493f585271bc9274a02ef2eb20de4ba8cb323b07",
-        "datetime": 1786409122,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉刚刚找到了另一种无需出售汽车即可实现增长的方式",
-        "url": "https://finnhub.io/api/news?id=3699c9da2069f13acb5b56e6af14ca331da945737e72329b902ed0d1ade4ee4c",
-        "datetime": 1786408270,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
