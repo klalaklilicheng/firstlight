@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T05:28:58.016Z",
+  "updated_at": "2026-08-12T07:12:21.136Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63773,
-      "change_pct": -0.22
+      "price": 63729,
+      "change_pct": -0.3
     },
     {
       "symbol": "ETH",
-      "price": 1888.64,
-      "change_pct": 0.9
+      "price": 1888.38,
+      "change_pct": 0.84
     },
     {
       "symbol": "SOL",
-      "price": 76.26,
-      "change_pct": 0.69
+      "price": 76.05,
+      "change_pct": 0.47
     },
     {
       "symbol": "HYPE",
-      "price": 54.57,
-      "change_pct": -1.33
+      "price": 55.06,
+      "change_pct": -0.06
     },
     {
       "symbol": "ZEC",
-      "price": 481.75,
-      "change_pct": -2.03
+      "price": 478.63,
+      "change_pct": -2.18
     },
     {
       "symbol": "TAO",
-      "price": 203.37,
-      "change_pct": 2.21
+      "price": 202.42,
+      "change_pct": 1.79
     },
     {
       "symbol": "SKY",
-      "price": 1225.57,
-      "change_pct": 1.4
+      "price": 1225.71,
+      "change_pct": 0.4
     },
     {
       "symbol": "AAVE",
-      "price": 90.02,
-      "change_pct": 1.71
+      "price": 89.21,
+      "change_pct": 0.9
     },
     {
       "symbol": "BNB",
-      "price": 613.59,
-      "change_pct": 2.33
+      "price": 611.29,
+      "change_pct": 2.16
     },
     {
       "symbol": "NEAR",
-      "price": 1.66,
-      "change_pct": 4.09
+      "price": 1.65,
+      "change_pct": 2.83
     },
     {
       "symbol": "DOGE",
-      "price": 0.072126,
-      "change_pct": 3.26
+      "price": 0.071623,
+      "change_pct": 2.12
     },
     {
       "symbol": "SPACEX",
-      "price": 499.44,
-      "change_pct": -2.31
+      "price": 499.6,
+      "change_pct": -2.26
     }
   ],
   "earnings": {
@@ -474,11 +474,56 @@
   },
   "news": [
     {
+      "headline": "Harmony 考虑在可疑漏洞导致 ONE 供应膨胀后进行回滚",
+      "summary": "Harmony 正在与交易所合作冻结资金，并在据称 28 亿未经授权的 ONE 攻击交易平台后正在准备修补程序。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786514572,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以下是比特币和以太币交易者在美国二元消费者物价指数 (CPI) 公布之前所做的事情",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+      "datetime": 1786512415,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Harmony 的 ONE 在攻击似乎创造了相当于供应量四分之一的代币后暴跌 26%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "datetime": 1786511920,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着比特币跌至 63,700 美元附近，狗狗币和 BNB 引领主要货币走高",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+      "datetime": 1786510426,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国商品期货交易委员会 (CFTC) 援引紧急权力以维持卡尔希在纽约战斗中的运作",
       "summary": "该命令加剧了关于各州是否可以将联邦监管的活动合同视为非法赌博的管辖权之争。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786510406,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "软件将假存款误认为真实存款后，XRP 桥被耗尽 20 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+      "datetime": 1786509205,
       "category": "crypto",
       "related": ""
     },
@@ -697,63 +742,12 @@
       "datetime": 1786456760,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Polymarket 在今年秋季预测市场的预期繁荣时期之前采取行动，使内部秩序井然有序",
-      "summary": "这些营销变化是在商品期货交易委员会对该公司的促销行为进行调查之际发生的。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-      "datetime": 1786456588,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "SharpLink 报告称，由于 ETH 下跌，第二季度净亏损 3.94 亿美元",
-      "summary": "SharpLink 报告 2026 年第二季度净亏损 3.94 亿美元，主要是由于以太币在该季度下跌 23%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786454220,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "神奇宝贝卡正在成为数十亿美元的市场。加密货币想要改变他们的交易方式",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
-      "datetime": 1786453567,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "我们正在一家刚刚进入牛棚的内存制造商中开始一个职位",
-      "summary": "该股票是市场上波动较大的股票之一，容易出现大幅波动。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/were-starting-a-position-in-a-memory-maker-that-was-just-put-in-the-bullpen.html",
-      "datetime": 1786453406,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "我的 401(k) 计划本月完全归属——为什么我最近的工作周年纪念日价值数千美元",
-      "summary": "许多公司都会向员工退休账户缴款，但根据公司的规定，如果您离开，您可能会失去部分或全部资金。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/11/why-knowing-a-401k-vesting-schedule-could-be-worth-thousands.html",
-      "datetime": 1786453201,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": [
-        {
-          "headline": "MEXC SpaceX 产品需求激增，累计期货交易量超过 71 亿美元",
-          "url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
-          "datetime": 1786331583
-        }
-      ]
+      "news": []
     },
     {
       "company": "Anthropic",
@@ -802,12 +796,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.2,
+    "score": 34.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
-    "weekly_score": 17.4,
-    "btc_price": 63837.7,
+    "daily_score": 16.9,
+    "weekly_score": 17.6,
+    "btc_price": 63771.2,
     "fear_greed": 37,
     "indicators": [
       {
@@ -819,15 +813,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008488,
-        "score": 49,
+        "value": 0.009006,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.75,
-        "score": 83,
+        "value": 1.76,
+        "score": 84,
         "weight": 5,
         "group": "daily"
       },
@@ -840,7 +834,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.29,
+        "value": 1.28,
         "score": 26,
         "weight": 12,
         "group": "weekly"
@@ -889,15 +883,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 36,
+        "value": 35.9,
         "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -37,
-        "score": 35,
+        "value": -19.9,
+        "score": 40,
         "weight": 4,
         "group": "weekly"
       }
@@ -1015,7 +1009,7 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 717,
+        "likes": 714,
         "retweets": 85
       },
       {
@@ -1023,7 +1017,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1403,
-        "retweets": 80
+        "retweets": 81
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1043,7 +1037,7 @@
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
-        "likes": 1050,
+        "likes": 1049,
         "retweets": 86
       }
     ],
@@ -1075,36 +1069,36 @@
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 4494,
-        "retweets": 408
+        "likes": 4747,
+        "retweets": 436
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1413,
-        "retweets": 154
+        "likes": 1427,
+        "retweets": 155
       },
       {
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 1824,
-        "retweets": 209
+        "likes": 1833,
+        "retweets": 211
       },
       {
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 3822,
-        "retweets": 409
+        "likes": 3832,
+        "retweets": 410
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 7934,
-        "retweets": 785
+        "likes": 7972,
+        "retweets": 794
       }
     ],
     "viktorfischer": [
@@ -1112,7 +1106,7 @@
         "text": "Interesting - I come to similar market size: roughly $90bn currently across on-chain and off-chain. But I split it by segments: \n. Largest segment is and will be trading (CEX, DEX, Trading terminals, etc)\n. Second largest is betting (online casinos, prediction markets)\n. Highest https://t.co/ohT7G96Ywq",
         "url": "https://x.com/viktorfischer/status/2087382218155135023",
         "time": "Wed Aug 12 03:34:37 +0000 2026",
-        "likes": 1,
+        "likes": 2,
         "retweets": 0
       },
       {
@@ -1290,6 +1284,18 @@
     ],
     "BTC": [
       {
+        "headline": "以下是比特币和以太币交易者在美国二元消费者物价指数 (CPI) 公布之前所做的事情",
+        "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+        "datetime": 1786512415,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "随着比特币跌至 63,700 美元附近，狗狗币和 BNB 引领主要货币走高",
+        "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+        "datetime": 1786510426,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "由于 ETF 资金流入抵消了抛售，比特币陷入困境，但通胀数据可能引发走势",
         "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
         "datetime": 1786484293,
@@ -1306,18 +1312,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786465488,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "俄罗斯提议比特币、以太币和 Tether 的 USDT 进行交易所交易",
-        "url": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786450178,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "当安全资产与风险竞争时。 20 世纪 60 年代至 90 年代比特币和股票的经验教训。",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-        "datetime": 1786446835,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [],
@@ -1357,6 +1351,12 @@
     ],
     "DOGE": [
       {
+        "headline": "随着比特币跌至 63,700 美元附近，狗狗币和 BNB 引领主要货币走高",
+        "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+        "datetime": 1786510426,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "把狗放在钱上实际上是互联网上更合理的想法之一",
         "url": "https://x.com/dogecoin/status/2087272562355040294",
         "datetime": 1786479533,
@@ -1375,14 +1375,7 @@
         "source": "@dogecoin"
       }
     ],
-    "HYPE": [
-      {
-        "headline": "Hyperliquid 的 RWA 永续收益繁荣正在侵蚀支持 HYPE 的收入",
-        "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-        "datetime": 1786287600,
-        "source": "CoinDesk"
-      }
-    ],
+    "HYPE": [],
     "TAO": [
       {
         "headline": "404 是当今最快的高质量 3D 生成模型之一。 \n\n不要依赖一种封闭的模型。",
@@ -1405,20 +1398,13 @@
         "source": "@NEARProtocol"
       },
       {
-        "headline": "NEAR AI 的质押已上线：通过质押 NEAR 来支付机密推理和始终在线的代理费用，无需卡也无需云帐户。\n\n方法如下👇",
+        "headline": "NEAR AI 的质押已上线：通过质押 NEAR 来支付机密推理和始终在线代理的费用，无需卡也无需云帐户。\n\n方法如下👇",
         "url": "https://x.com/NEARProtocol/status/2087220135907983740",
         "datetime": 1786467033,
         "source": "@NEARProtocol"
       }
     ],
     "ZEC": [],
-    "SPACEX": [
-      {
-        "headline": "MEXC SpaceX 产品需求激增，累计期货交易量超过 71 亿美元",
-        "url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
-        "datetime": 1786331583,
-        "source": "Cryptocurrency News"
-      }
-    ]
+    "SPACEX": []
   }
 }
