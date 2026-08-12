@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T03:57:52.800Z",
+  "updated_at": "2026-08-12T05:28:58.016Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63735,
-      "change_pct": -0.52
+      "price": 63773,
+      "change_pct": -0.22
     },
     {
       "symbol": "ETH",
-      "price": 1884.41,
-      "change_pct": 0.29
+      "price": 1888.64,
+      "change_pct": 0.9
     },
     {
       "symbol": "SOL",
-      "price": 76.32,
-      "change_pct": 0.38
+      "price": 76.26,
+      "change_pct": 0.69
     },
     {
       "symbol": "HYPE",
-      "price": 54.61,
-      "change_pct": -1.47
+      "price": 54.57,
+      "change_pct": -1.33
     },
     {
       "symbol": "ZEC",
-      "price": 482.22,
-      "change_pct": -2.34
+      "price": 481.75,
+      "change_pct": -2.03
     },
     {
       "symbol": "TAO",
-      "price": 204.75,
-      "change_pct": 2.58
+      "price": 203.37,
+      "change_pct": 2.21
     },
     {
       "symbol": "SKY",
-      "price": 1222.81,
-      "change_pct": 0.18
+      "price": 1225.57,
+      "change_pct": 1.4
     },
     {
       "symbol": "AAVE",
-      "price": 89.87,
-      "change_pct": 0.95
+      "price": 90.02,
+      "change_pct": 1.71
     },
     {
       "symbol": "BNB",
-      "price": 612.91,
-      "change_pct": 2.18
+      "price": 613.59,
+      "change_pct": 2.33
     },
     {
       "symbol": "NEAR",
       "price": 1.66,
-      "change_pct": 4.13
+      "change_pct": 4.09
     },
     {
       "symbol": "DOGE",
-      "price": 0.072146,
-      "change_pct": 2.98
+      "price": 0.072126,
+      "change_pct": 3.26
     },
     {
       "symbol": "SPACEX",
-      "price": 492.26,
-      "change_pct": -3.58
+      "price": 499.44,
+      "change_pct": -2.31
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "美国商品期货交易委员会 (CFTC) 援引紧急权力以维持卡尔希在纽约战斗中的运作",
+      "summary": "该命令加剧了关于各州是否可以将联邦监管的活动合同视为非法赌博的管辖权之争。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786510406,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "由于网络漏洞使交易面临风险，Ravencoin 创下历史新低",
       "summary": "控制大部分 Ravencoin 算力的矿池正在构建一条竞争链，这可能会引发为期三天的重组。",
       "source": "Cointelegraph",
@@ -733,15 +742,6 @@
       "datetime": 1786453201,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "第二季度加密货币收入下降 30%，EToro 将收购 TradeZero",
-      "summary": "交易平台 eToro 将收购 TradeZero，作为其美国扩张的一部分，因为该平台报告与 2025 年第二季度相比，加密货币相关收入下降了约 30%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786451700,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,32 +802,32 @@
     }
   ],
   "btc_score": {
-    "score": 33.7,
+    "score": 34.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.4,
-    "weekly_score": 17.3,
-    "btc_price": 63814.1,
+    "daily_score": 16.8,
+    "weekly_score": 17.4,
+    "btc_price": 63837.7,
     "fear_greed": 37,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -42400000,
-        "score": 47,
+        "value": 7800000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.008694,
+        "value": 0.008488,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.76,
-        "score": 84,
+        "value": 1.75,
+        "score": 83,
         "weight": 5,
         "group": "daily"
       },
@@ -896,8 +896,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -39.1,
-        "score": 34,
+        "value": -37,
+        "score": 35,
         "weight": 4,
         "group": "weekly"
       }
@@ -1075,36 +1075,36 @@
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 4220,
-        "retweets": 386
+        "likes": 4494,
+        "retweets": 408
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1405,
-        "retweets": 151
+        "likes": 1413,
+        "retweets": 154
       },
       {
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 1813,
-        "retweets": 203
+        "likes": 1824,
+        "retweets": 209
       },
       {
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 3808,
-        "retweets": 406
+        "likes": 3822,
+        "retweets": 409
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 7897,
-        "retweets": 778
+        "likes": 7934,
+        "retweets": 785
       }
     ],
     "viktorfischer": [
@@ -1112,7 +1112,7 @@
         "text": "Interesting - I come to similar market size: roughly $90bn currently across on-chain and off-chain. But I split it by segments: \n. Largest segment is and will be trading (CEX, DEX, Trading terminals, etc)\n. Second largest is betting (online casinos, prediction markets)\n. Highest https://t.co/ohT7G96Ywq",
         "url": "https://x.com/viktorfischer/status/2087382218155135023",
         "time": "Wed Aug 12 03:34:37 +0000 2026",
-        "likes": 0,
+        "likes": 1,
         "retweets": 0
       },
       {
