@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T20:39:18.898Z",
+  "updated_at": "2026-08-12T21:37:32.765Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63475,
+      "price": 63422,
       "change_pct": -0.24
     },
     {
       "symbol": "ETH",
-      "price": 1884.03,
-      "change_pct": 0.29
+      "price": 1877.18,
+      "change_pct": -0.1
     },
     {
       "symbol": "SOL",
-      "price": 75.9,
-      "change_pct": -0.05
+      "price": 75.51,
+      "change_pct": -0.61
     },
     {
       "symbol": "HYPE",
-      "price": 56.23,
-      "change_pct": 3.08
+      "price": 56.02,
+      "change_pct": 2.8
     },
     {
       "symbol": "ZEC",
-      "price": 492.71,
-      "change_pct": 3.4
+      "price": 489.97,
+      "change_pct": 2.31
     },
     {
       "symbol": "TAO",
-      "price": 199.65,
-      "change_pct": 0.38
+      "price": 198.86,
+      "change_pct": -0.54
     },
     {
       "symbol": "SKY",
-      "price": 1229.23,
-      "change_pct": 0.82
+      "price": 1224.5,
+      "change_pct": -0.05
     },
     {
       "symbol": "AAVE",
-      "price": 88.72,
-      "change_pct": 0.65
+      "price": 88.05,
+      "change_pct": 0.07
     },
     {
       "symbol": "BNB",
-      "price": 611.31,
-      "change_pct": -0.15
+      "price": 609.36,
+      "change_pct": -0.4
     },
     {
       "symbol": "NEAR",
-      "price": 1.64,
-      "change_pct": 4.04
+      "price": 1.63,
+      "change_pct": 2.6
     },
     {
       "symbol": "DOGE",
-      "price": 0.07056,
-      "change_pct": -1.58
+      "price": 0.069528,
+      "change_pct": -3.17
     },
     {
       "symbol": "SPACEX",
-      "price": 552.14,
-      "change_pct": 10.59
+      "price": 549.78,
+      "change_pct": 10.13
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "高盛将以 $2.25B 交易收购 ETF 管理公司 NEOS",
+      "summary": "该交易将把 NEOS 300 亿美元的 ETF 业务纳入高盛资产管理公司，其中包括与比特币和以太坊相关的收益基金。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786567075,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "纽约市议会宣布调查预测市场的“掠夺性营销行为”",
+      "summary": "市议会议长朱莉·梅宁 (Julie Menin) 致函四家向纽约人提供预测市场服务的公司，作为对其营销行为调查的一部分。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786566166,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "CoreWeave 反驳了人工智能行业的一个关键悲观案例。这对我们的数据中心库存意味着什么",
       "summary": "CoreWeave 看到了对已有六年历史的 Nvidia 芯片的强劲需求，这有助于证明当前所有人工智能资本支出的合理性。",
       "source": "CNBC",
@@ -724,24 +742,6 @@
       "datetime": 1786538578,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "FlightAware 放弃了针对 Kalshi 市场利基的诉讼，数据显示该利基市场从未起飞",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
-      "datetime": 1786535050,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "俄罗斯采取行动限制零售加密货币交易仅限比特币、以太币和 USDT",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-      "datetime": 1786533572,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -801,7 +801,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.1,
     "weekly_score": 16,
-    "btc_price": 63561.4,
+    "btc_price": 63430,
     "fear_greed": 37,
     "indicators": [
       {
@@ -813,15 +813,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.008948,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.81,
-        "score": 87,
+        "value": 1.83,
+        "score": 89,
         "weight": 5,
         "group": "daily"
       },
@@ -883,15 +883,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.7,
+        "value": 35.6,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -90.5,
-        "score": 20,
+        "value": -88.4,
+        "score": 21,
         "weight": 4,
         "group": "weekly"
       }
@@ -1046,7 +1046,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 545,
+        "likes": 546,
         "retweets": 17
       },
       {
@@ -1060,7 +1060,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 642,
+        "likes": 643,
         "retweets": 37
       }
     ],
@@ -1069,35 +1069,35 @@
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 1400,
-        "retweets": 131
+        "likes": 1896,
+        "retweets": 177
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1573,
-        "retweets": 174
+        "likes": 1600,
+        "retweets": 177
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2098,
-        "retweets": 238
+        "likes": 2137,
+        "retweets": 241
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6370,
-        "retweets": 606
+        "likes": 6424,
+        "retweets": 609
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1537,
+        "likes": 1540,
         "retweets": 169
       }
     ],
@@ -1106,7 +1106,7 @@
         "text": "Interesting - I come to similar market size: roughly $90bn currently across on-chain and off-chain. But I split it by segments: \n. Largest segment is and will be trading (CEX, DEX, Trading terminals, etc)\n. Second largest is betting (online casinos, prediction markets)\n. Highest https://t.co/ohT7G96Ywq",
         "url": "https://x.com/viktorfischer/status/2087382218155135023",
         "time": "Wed Aug 12 03:34:37 +0000 2026",
-        "likes": 7,
+        "likes": 8,
         "retweets": 2
       },
       {
@@ -1160,16 +1160,16 @@
         "source": "ChartMill"
       },
       {
+        "headline": "新加坡国家基金增持内存巨头，SK海力士、三星股价上涨",
+        "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
+        "datetime": 1786549420,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Credo 的高估值反映了脱离现实的期望",
         "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
         "datetime": 1786541358,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "今日股市：纳斯达克 100 指数因人工智能盈利强劲和良性通胀而上涨",
-        "url": "https://finnhub.io/api/news?id=7cb1bffb27ed49f5557a3674c922ff25f84eb2b4b0bc3a94822ad9cc3d702d0a",
-        "datetime": 1786540465,
-        "source": "Benzinga"
       }
     ],
     "GOOG": [
@@ -1218,25 +1218,31 @@
         "source": "Benzinga"
       },
       {
+        "headline": "文远知行CEO称其技术可与特斯拉FSD相媲美",
+        "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
+        "datetime": 1786542416,
+        "source": "Benzinga"
+      },
+      {
+        "headline": "今天盘中 8 只发出鲸鱼警报的非必需消费品股票",
+        "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
+        "datetime": 1786541715,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Super Micro、Lumentum、CoreWeave财报凸显AI基础设施需求； CPI数据显示滞胀风险依然存在",
         "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
         "datetime": 1786539777,
         "source": "Benzinga"
-      },
-      {
-        "headline": "特斯拉的 iTruck 时刻",
-        "url": "https://finnhub.io/api/news?id=f7208f251ae2887df7a53ad2db263a02ff76d34efa9c96248f56cd6cf3e1bdee",
-        "datetime": 1786528394,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "埃隆·马斯克 (Elon Musk) 有望在 Tesla-SpaceX 合并中获得 8240 亿美元的发薪日——罗斯·格伯 (Ross Gerber) 表示“太丰富了！”",
-        "url": "https://finnhub.io/api/news?id=022c01877d025375bea0bbbf5f30d6dd89a44c202141755e5cd92b710434f6f8",
-        "datetime": 1786511118,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
+      {
+        "headline": "TD Cowen 维持对 Circle Internet Group 的买入，并将目标价提高至 87 美元",
+        "url": "https://finnhub.io/api/news?id=adcfd53fb5506e55f1c37ab3d79a2c49d7a535b08bc0bb6bbca2e7cb5fdcf660",
+        "datetime": 1786530761,
+        "source": "Benzinga"
+      },
       {
         "headline": "Circle 的第二季度：Arc 代币预售提升了指导并缓解了加密货币低迷时期",
         "url": "https://finnhub.io/api/news?id=b9544ba52b047b5d05047164de47415931708aa920d744f5d5aa4609f2ac54a4",
@@ -1259,12 +1265,6 @@
         "headline": "今日股市：霍尔木兹协议谈判取得进展，道琼斯指数期货上涨，纳斯达克 100 指数下跌 - SpaceX、SanDisk、Applovin 成为焦点（已更新）",
         "url": "https://finnhub.io/api/news?id=e5aae8061ef3aaff8a95381dfe9c1d065098d0230261dfecf19ede1df51de880",
         "datetime": 1786005410,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "HC Wainwright & Co. 维持对 Circle Internet Group 的买入，并将目标价下调至 104 美元",
-        "url": "https://finnhub.io/api/news?id=d7725e166855581856307acaed4a122f83fd642e2d8c21068c33aa58e728de62",
-        "datetime": 1785997611,
         "source": "Benzinga"
       }
     ],
