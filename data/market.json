@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T23:32:16.028Z",
+  "updated_at": "2026-08-12T01:12:50.918Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63538,
-      "change_pct": -0.62
+      "price": 63684,
+      "change_pct": -0.48
     },
     {
       "symbol": "ETH",
-      "price": 1879.14,
+      "price": 1881.67,
       "change_pct": 0.38
     },
     {
       "symbol": "SOL",
-      "price": 76.22,
-      "change_pct": 0.23
+      "price": 76.35,
+      "change_pct": 0.68
     },
     {
       "symbol": "HYPE",
-      "price": 54.43,
-      "change_pct": -1.21
+      "price": 54.44,
+      "change_pct": -0.7
     },
     {
       "symbol": "ZEC",
-      "price": 479.67,
-      "change_pct": -3.64
+      "price": 482.5,
+      "change_pct": -1.95
     },
     {
       "symbol": "TAO",
-      "price": 200.16,
-      "change_pct": 0.49
+      "price": 204.73,
+      "change_pct": 2.98
     },
     {
       "symbol": "SKY",
-      "price": 1226.25,
-      "change_pct": 0.62
+      "price": 1228.88,
+      "change_pct": 0.75
     },
     {
       "symbol": "AAVE",
-      "price": 88.12,
-      "change_pct": -1.05
+      "price": 88.89,
+      "change_pct": -0.09
     },
     {
       "symbol": "BNB",
-      "price": 615.16,
-      "change_pct": 2.81
+      "price": 619.46,
+      "change_pct": 3.28
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": 0.59
+      "price": 1.62,
+      "change_pct": 1.06
     },
     {
       "symbol": "DOGE",
-      "price": 0.071903,
-      "change_pct": 3.03
+      "price": 0.072377,
+      "change_pct": 3.57
     },
     {
       "symbol": "SPACEX",
-      "price": 499.18,
-      "change_pct": -8.37
+      "price": 491.9,
+      "change_pct": -3.78
     }
   ],
   "earnings": {
@@ -300,10 +300,11 @@
     },
     "CRCL": {
       "next": {
-        "date": "2026-11-19",
+        "date": "2026-11-10",
         "quarter": 3,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": 0.3016,
+        "revenue_estimate": 785824371
       },
       "history": [
         {
@@ -473,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "美国证券交易委员会 (SEC) 和美国商品期货交易委员会 (CFTC) 就 4 亿美元加密货币庞氏骗局起诉 Goliath Ventures",
+      "summary": "监管机构指控歌利亚承诺加密货币流动性池回报，但却向早期投资者付款并为其创始人的奢侈支出提供资金。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786493261,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "由于 ETF 资金流入抵消了抛售，比特币陷入困境，但通胀数据可能引发走势",
       "summary": "",
       "source": "CoinDesk",
@@ -492,7 +502,7 @@
     },
     {
       "headline": "SEC 将在缺乏 CLARITY 通过的情况下解决加密货币法规",
-      "summary": "美国证券监管机构计划于本周召开会议，有可能在国会不采取行动的情况下加强数字资产政策。",
+      "summary": "美国证券监管机构定于本周召开会议，有可能在国会不采取行动的情况下加强数字资产政策。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786481947,
@@ -599,8 +609,8 @@
       "related": ""
     },
     {
-      "headline": "Coinbase 支持的 Flowdesk 在迪拜获得了完整的经纪交易商牌照",
-      "summary": "随着加密货币公司在全球主要市场建立受监管的业务，Flowdesk 的 VARA 获得批准是继 MiCA 在法国获得授权之后。",
+      "headline": "Coinbase 支持的 Flowdesk 在迪拜获得完整的经纪自营商执照",
+      "summary": "Flowdesk 获得 VARA 批准之前，随着加密货币公司在全球主要市场建立受监管的业务，其 MiCA 在法国获得授权。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786466357,
@@ -732,15 +742,6 @@
       "datetime": 1786450178,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "MoneyGram 通过全球加密货币到现金服务扩展 Solana",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-      "datetime": 1786449742,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -801,18 +802,18 @@
     }
   ],
   "btc_score": {
-    "score": 33.6,
+    "score": 33.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.8,
-    "weekly_score": 16.8,
-    "btc_price": 63592.9,
-    "fear_greed": 38,
+    "daily_score": 16.7,
+    "weekly_score": 17,
+    "btc_price": 63763.4,
+    "fear_greed": 37,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -28000000,
-        "score": 48,
+        "value": -42400000,
+        "score": 47,
         "weight": 12,
         "group": "daily"
       },
@@ -825,15 +826,15 @@
       },
       {
         "name": "多空比",
-        "value": 1.8,
-        "score": 87,
+        "value": 1.84,
+        "score": 89,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 38,
-        "score": 38,
+        "value": 37,
+        "score": 37,
         "weight": 7,
         "group": "daily"
       },
@@ -888,15 +889,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.7,
-        "score": 26,
+        "value": 35.9,
+        "score": 27,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -78.2,
-        "score": 23,
+        "value": -67.4,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -905,7 +906,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 36
+      "days_until": 35
     },
     "schedule": [
       "2025-01-29",
@@ -1074,36 +1075,36 @@
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 3161,
-        "retweets": 298
+        "likes": 3667,
+        "retweets": 341
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1328,
-        "retweets": 144
+        "likes": 1364,
+        "retweets": 146
       },
       {
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 1741,
-        "retweets": 193
+        "likes": 1779,
+        "retweets": 198
       },
       {
         "text": "We intend to make $STRC the iPhone of Digital Assets.",
         "url": "https://x.com/saylor/status/2086936384367968739",
         "time": "Mon Aug 10 22:03:02 +0000 2026",
-        "likes": 3762,
-        "retweets": 401
+        "likes": 3776,
+        "retweets": 403
       },
       {
         "text": "Bitcoin is the one thing in this universe you can truly own. https://t.co/1JVGm50Uov",
         "url": "https://x.com/saylor/status/2086862516206829937",
         "time": "Mon Aug 10 17:09:30 +0000 2026",
-        "likes": 7710,
-        "retweets": 761
+        "likes": 7800,
+        "retweets": 769
       }
     ],
     "viktorfischer": [
@@ -1404,7 +1405,7 @@
         "source": "@NEARProtocol"
       },
       {
-        "headline": "NEAR AI 的质押已上线：通过质押 NEAR 来支付机密推理和始终在线的代理费用，无需卡也无需云帐户。\n\n方法如下👇",
+        "headline": "NEAR AI 的质押已上线：通过质押 NEAR 来支付机密推理和始终在线的代理费用，无需卡也无需云账户。\n\n方法如下👇",
         "url": "https://x.com/NEARProtocol/status/2087220135907983740",
         "datetime": 1786467033,
         "source": "@NEARProtocol"
