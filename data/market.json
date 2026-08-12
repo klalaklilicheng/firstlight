@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-12T15:53:04.084Z",
+  "updated_at": "2026-08-12T16:49:06.470Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 709.59,
-      "change_pct": 0.17
+      "price": 710.27,
+      "change_pct": 0.26
     },
     {
       "symbol": "QQQ",
-      "price": 723.34,
-      "change_pct": 0.68
+      "price": 724.54,
+      "change_pct": 0.85
     },
     {
       "symbol": "QQQM",
-      "price": 297.87,
-      "change_pct": 0.69
+      "price": 298.36,
+      "change_pct": 0.86
     },
     {
       "symbol": "NVDA",
-      "price": 223.17,
-      "change_pct": 2.61
+      "price": 223.07,
+      "change_pct": 2.56
     },
     {
       "symbol": "TSLA",
-      "price": 325.23,
-      "change_pct": -2.28
+      "price": 326.97,
+      "change_pct": -1.75
     },
     {
       "symbol": "GOOG",
-      "price": 341.06,
-      "change_pct": -0.57
+      "price": 341.74,
+      "change_pct": -0.37
     },
     {
       "symbol": "RKLB",
-      "price": 79.94,
-      "change_pct": -0.09
+      "price": 80.94,
+      "change_pct": 1.16
     },
     {
       "symbol": "CRCL",
-      "price": 69.33,
-      "change_pct": -2.57
+      "price": 69.84,
+      "change_pct": -1.85
     },
     {
       "symbol": "PLTR",
-      "price": 170.14,
-      "change_pct": -2.74
+      "price": 171.67,
+      "change_pct": -1.87
     },
     {
       "symbol": "MSTR",
-      "price": 95.24,
-      "change_pct": -0.88
+      "price": 95.58,
+      "change_pct": -0.53
     },
     {
       "symbol": "GLD",
-      "price": 405.01,
-      "change_pct": 1.01
+      "price": 404.55,
+      "change_pct": 0.9
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63434,
-      "change_pct": -0.08
+      "price": 63449,
+      "change_pct": 0.03
     },
     {
       "symbol": "ETH",
-      "price": 1891.9,
-      "change_pct": 1.89
+      "price": 1890.2,
+      "change_pct": 1.51
     },
     {
       "symbol": "SOL",
-      "price": 75.69,
-      "change_pct": 1.3
+      "price": 75.55,
+      "change_pct": 0.91
     },
     {
       "symbol": "HYPE",
-      "price": 56.34,
-      "change_pct": 4.67
+      "price": 56.35,
+      "change_pct": 4.74
     },
     {
       "symbol": "ZEC",
-      "price": 484.96,
-      "change_pct": 3.04
+      "price": 485.29,
+      "change_pct": 3.82
     },
     {
       "symbol": "TAO",
-      "price": 199.85,
-      "change_pct": 0.85
+      "price": 199.74,
+      "change_pct": 0.89
     },
     {
       "symbol": "SKY",
-      "price": 1230.06,
-      "change_pct": 1.44
+      "price": 1227.7,
+      "change_pct": 0.99
     },
     {
       "symbol": "AAVE",
-      "price": 89.38,
-      "change_pct": 3.44
+      "price": 89.24,
+      "change_pct": 2.83
     },
     {
       "symbol": "BNB",
-      "price": 610.45,
-      "change_pct": 0.75
+      "price": 609.92,
+      "change_pct": 0.18
     },
     {
       "symbol": "NEAR",
       "price": 1.63,
-      "change_pct": 5.43
+      "change_pct": 5.46
     },
     {
       "symbol": "DOGE",
-      "price": 0.070799,
-      "change_pct": 0.81
+      "price": 0.070798,
+      "change_pct": 0.58
     },
     {
       "symbol": "SPACEX",
-      "price": 531.31,
-      "change_pct": 6.37
+      "price": 524.8,
+      "change_pct": 5.07
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "HashKey 开始测试发行香港监管的 HKDAP 稳定币",
+      "summary": "HashKey 已成为 Anchorpoint HKDAP 的授权经销商，随着香港受监管的稳定币市场的形成，扩大了机构准入。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786550879,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "纳尔逊·佩尔茨 (Nelson Peltz) 的特里安基金管理公司 (Trian Fund Management) 可能提出收购提议，导致温迪 (Wendy's) 股价上涨",
       "summary": "佩尔茨与温迪的关系可以追溯到二十多年前他领导的一场激进运动。",
       "source": "CNBC",
@@ -733,15 +742,6 @@
       "datetime": 1786519742,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "实时更新：日本 Metaplanet 在钱包之间转移 3,881 BTC，比特币价格为 63,600 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-      "datetime": 1786518293,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -796,12 +796,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.8,
+    "score": 32.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.6,
-    "weekly_score": 17.2,
-    "btc_price": 63503.6,
+    "daily_score": 16.8,
+    "weekly_score": 15.9,
+    "btc_price": 63481.5,
     "fear_greed": 37,
     "indicators": [
       {
@@ -813,15 +813,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006481,
-        "score": 48,
+        "value": 0.007372,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.7,
-        "score": 80,
+        "value": 1.74,
+        "score": 83,
         "weight": 5,
         "group": "daily"
       },
@@ -890,8 +890,8 @@
       },
       {
         "name": "成交量变化",
-        "value": 19.6,
-        "score": 50,
+        "value": -97.6,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1010,14 +1010,14 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 715,
-        "retweets": 85
+        "retweets": 84
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1404,
-        "retweets": 81
+        "retweets": 80
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1031,14 +1031,14 @@
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
         "likes": 536,
-        "retweets": 33
+        "retweets": 32
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1049,
-        "retweets": 86
+        "retweets": 85
       }
     ],
     "QwQiao": [
@@ -1069,36 +1069,36 @@
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1367,
-        "retweets": 152
+        "likes": 1432,
+        "retweets": 156
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 1806,
-        "retweets": 196
+        "likes": 1874,
+        "retweets": 205
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 5939,
-        "retweets": 571
+        "likes": 6070,
+        "retweets": 579
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1500,
-        "retweets": 166
+        "likes": 1512,
+        "retweets": 167
       },
       {
         "text": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency.",
         "url": "https://x.com/saylor/status/2087082696879100141",
         "time": "Tue Aug 11 07:44:25 +0000 2026",
-        "likes": 1915,
-        "retweets": 221
+        "likes": 1922,
+        "retweets": 222
       }
     ],
     "viktorfischer": [
@@ -1224,16 +1224,16 @@
         "source": "Benzinga"
       },
       {
+        "headline": "加里·布莱克表示，投资者对特斯拉能够扩大自动化规模“失去信心”——指责埃隆·马斯克只注重愿景的做法",
+        "url": "https://finnhub.io/api/news?id=e895037684e022745f7cf4e18a941da653dfd530fead68fcaf0aaa3445833f4f",
+        "datetime": 1786496923,
+        "source": "Benzinga"
+      },
+      {
         "headline": "7 月份支撑 QGRW 的两支股票故事",
         "url": "https://finnhub.io/api/news?id=21b84a0552ec6347d5597f26887da0e5f738d5ea42afc573bbaa8d2402033c0e",
         "datetime": 1786488600,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "埃隆·马斯克 (Elon Musk) 的净资产因 SpaceX 的反弹而反弹——现在几乎是美国人平均净资产的 80 万倍",
-        "url": "https://finnhub.io/api/news?id=00a70dc5c3034ba626c5fd1bb5098a8e2aa7322bae1fda48ec5fdd5d51e3659f",
-        "datetime": 1786462709,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1380,21 +1380,21 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "在您的应用程序中集成 NEAR Intents 以实现一键式跨链交换，现在可以选择添加机密执行： \n\n我们处理意图、路由和流动性。你处理体验。\n\n需要帮助",
-        "url": "https://x.com/NEARProtocol/status/2087523428618129611",
-        "datetime": 1786539344,
+        "headline": "“可验证性是用户拥有的人工智能的关键要求，对于数据主权和安全至关重要......英特尔作为机密硬件合作伙伴，现在是验证合作伙伴，NEAR AI",
+        "url": "https://x.com/NEARProtocol/status/2087573851609661683",
+        "datetime": 1786551366,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "$25B 不仅仅是一个里程碑。这是一个轨迹。\n\n更多的资产、更多的流动性场所、更多的分销，以及现在建立在同一轨道之上的代理经济。\n\n基础设施大院。它没有",
-        "url": "https://x.com/NEARProtocol/status/2087523426147672383",
-        "datetime": 1786539343,
+        "headline": "具有独立英特尔认证的机密推理现已上线。自己验证一下。\n\n全面整合公告：",
+        "url": "https://x.com/NEARProtocol/status/2087573854721888309",
+        "datetime": 1786551366,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "目前 NEAR Intents 已转移 250 亿美元。\n\n更多连锁。更多资产。更多经过一处的理由。飞轮不断复合。\n\n我们如何到达这里，以及它要去哪里🧵",
-        "url": "https://x.com/NEARProtocol/status/2087523421160632606",
-        "datetime": 1786539342,
+        "headline": "NEAR AI Cloud 现在运行经 @intel Trust Authority 验证的机密推理。\n\n英特尔已经是 NEAR AI 机密硬件合作伙伴，提供保护您数据的隔离。\n\n现在每",
+        "url": "https://x.com/NEARProtocol/status/2087573846496850043",
+        "datetime": 1786551364,
         "source": "@NEARProtocol"
       }
     ],
