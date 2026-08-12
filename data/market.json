@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T21:37:32.765Z",
+  "updated_at": "2026-08-12T22:32:41.148Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63422,
-      "change_pct": -0.24
+      "price": 63432,
+      "change_pct": -0.36
     },
     {
       "symbol": "ETH",
-      "price": 1877.18,
-      "change_pct": -0.1
+      "price": 1878.14,
+      "change_pct": -0.18
     },
     {
       "symbol": "SOL",
-      "price": 75.51,
-      "change_pct": -0.61
+      "price": 75.53,
+      "change_pct": -1.09
     },
     {
       "symbol": "HYPE",
-      "price": 56.02,
-      "change_pct": 2.8
+      "price": 56.06,
+      "change_pct": 2.93
     },
     {
       "symbol": "ZEC",
-      "price": 489.97,
-      "change_pct": 2.31
+      "price": 491.09,
+      "change_pct": 2.14
     },
     {
       "symbol": "TAO",
-      "price": 198.86,
-      "change_pct": -0.54
+      "price": 199.63,
+      "change_pct": -0.31
     },
     {
       "symbol": "SKY",
-      "price": 1224.5,
-      "change_pct": -0.05
+      "price": 1221.56,
+      "change_pct": -0.54
     },
     {
       "symbol": "AAVE",
-      "price": 88.05,
-      "change_pct": 0.07
+      "price": 87.86,
+      "change_pct": -0.29
     },
     {
       "symbol": "BNB",
-      "price": 609.36,
-      "change_pct": -0.4
+      "price": 610.11,
+      "change_pct": -0.36
     },
     {
       "symbol": "NEAR",
-      "price": 1.63,
-      "change_pct": 2.6
+      "price": 1.62,
+      "change_pct": 1.7
     },
     {
       "symbol": "DOGE",
-      "price": 0.069528,
-      "change_pct": -3.17
+      "price": 0.069391,
+      "change_pct": -4.49
     },
     {
       "symbol": "SPACEX",
-      "price": 549.78,
-      "change_pct": 10.13
+      "price": 563.84,
+      "change_pct": 12.94
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "夏威夷加密 ATM 禁令将于 10 月 1 日生效",
+      "summary": "夏威夷将加入明尼苏达州、田纳西州和印第安纳州的行列，成为美国第四个完全禁止使用加密货币 ATM 和自助服务终端以应对诈骗的州。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786569677,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "高盛将以 $2.25B 交易收购 ETF 管理公司 NEOS",
       "summary": "该交易将把 NEOS 300 亿美元的 ETF 业务纳入高盛资产管理公司，其中包括与比特币和以太坊相关的收益基金。",
       "source": "Cointelegraph",
@@ -555,7 +564,7 @@
       "related": ""
     },
     {
-      "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
+      "headline": "高盛以 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
@@ -718,7 +727,7 @@
     },
     {
       "headline": "吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事",
-      "summary": "7 月份 CPI 报告符合预期，CoreWeave 的财报显示对 Nvidia 芯片的需求旺盛。",
+      "summary": "7 月 CPI 报告符合预期，CoreWeave 的财报显示对 Nvidia 芯片的需求旺盛。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
       "datetime": 1786539034,
@@ -731,15 +740,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
       "datetime": 1786538679,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "富达向 SEC 提交文件，增加以太坊 ETF 的质押",
-      "summary": "富达计划向其以太基金增加质押，其中 85% 的奖励由 FETH 保留，并计划为投资者进行季度现金分配。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786538578,
       "category": "crypto",
       "related": ""
     }
@@ -766,13 +766,7 @@
     },
     {
       "company": "OpenAI",
-      "news": [
-        {
-          "headline": "泰国的 0% 加密税。亚洲快报：比特币红队被迫使用中国人工智能",
-          "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "datetime": 1786414116
-        }
-      ]
+      "news": []
     },
     {
       "company": "宇树科技",
@@ -801,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.1,
     "weekly_score": 16,
-    "btc_price": 63430,
+    "btc_price": 63483.2,
     "fear_greed": 37,
     "indicators": [
       {
@@ -813,7 +807,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008948,
+        "value": 0.00813,
         "score": 49,
         "weight": 8,
         "group": "daily"
@@ -890,7 +884,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -88.4,
+        "value": -87.4,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1009,8 +1003,8 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 715,
-        "retweets": 84
+        "likes": 716,
+        "retweets": 85
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1069,36 +1063,36 @@
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 1896,
-        "retweets": 177
+        "likes": 2250,
+        "retweets": 203
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1600,
-        "retweets": 177
+        "likes": 1619,
+        "retweets": 181
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2137,
-        "retweets": 241
+        "likes": 2160,
+        "retweets": 243
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6424,
-        "retweets": 609
+        "likes": 6458,
+        "retweets": 611
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1540,
-        "retweets": 169
+        "likes": 1545,
+        "retweets": 170
       }
     ],
     "viktorfischer": [
@@ -1154,6 +1148,12 @@
         "source": "ChartMill"
       },
       {
+        "headline": "国会议员违反股票法：在截止日期后报告 22 笔交易，其中包括一些近两年的交易",
+        "url": "https://finnhub.io/api/news?id=08dabffb5cbf4daeff6e8ef0dfa592ffb3fe4ca852fd2ab392a10424b337b543",
+        "datetime": 1786554734,
+        "source": "Benzinga"
+      },
+      {
         "headline": "哪些道琼斯股票周三走势？",
         "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
         "datetime": 1786552806,
@@ -1164,12 +1164,6 @@
         "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
         "datetime": 1786549420,
         "source": "Benzinga"
-      },
-      {
-        "headline": "Credo 的高估值反映了脱离现实的期望",
-        "url": "https://finnhub.io/api/news?id=b560ef86ab9d3b30ea7b881e2b89642665a8240f2277f7ef4445a179bb2bc738",
-        "datetime": 1786541358,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
@@ -1180,27 +1174,27 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "埃隆·马斯克说钱在 10 年内不再重要——前 Google X 高管 Mo Gawdat 也告诉我同样的事情，但他的警告更为黑暗",
+        "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
+        "datetime": 1786548608,
+        "source": "Benzinga"
+      },
+      {
         "headline": "人工智能的采用热潮能否将标准普尔 500 指数推至 9,000 点？",
         "url": "https://finnhub.io/api/news?id=409a7a5e9393cbf0ca0542aa683543b757d078ea5ee30a1ea68e6dee6ff42208",
         "datetime": 1786545952,
         "source": "Benzinga"
       },
       {
+        "headline": "谷歌联合创始人谢尔盖·布林最近几个月敦促员工集中精力将 Gemini 模型带回人工智能前沿；据消息人士透露，谷歌高管上周召开了“全体会议”，以解决员工担忧的人工智能部门重组问题 - 路透社独家",
+        "url": "https://finnhub.io/api/news?id=079193d82a1b115d9b8c1dbce347b0b0beb0dd53ec2d2c450e10c28f84d1f851",
+        "datetime": 1786541666,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Super Micro、Lumentum、CoreWeave财报凸显AI基础设施需求； CPI数据显示滞胀风险依然存在",
         "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
         "datetime": 1786539777,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "谷歌提高 Pixel 11 系列所有三款机型的入门价格；放弃 128GB 级别",
-        "url": "https://finnhub.io/api/news?id=c9df3dbc2a8cc05943c78e7bd95a09e27ab3a06244d3eed26cb42ca8b4877227",
-        "datetime": 1786530103,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "谷歌提高 Pixel Watch 5 型号的起价",
-        "url": "https://finnhub.io/api/news?id=0b1ba7d19264cd85baed0db77e8782519e1aaffde2d3bd8fc882c502582eccfd",
-        "datetime": 1786530071,
         "source": "Benzinga"
       }
     ],
@@ -1218,6 +1212,12 @@
         "source": "Benzinga"
       },
       {
+        "headline": "埃隆·马斯克说钱在 10 年内不再重要——前 Google X 高管 Mo Gawdat 也告诉我同样的事情，但他的警告更为黑暗",
+        "url": "https://finnhub.io/api/news?id=ff46cbe728e3a5238384400a64231dd360f2850a8739e6ca1db4fe11a90fa0a8",
+        "datetime": 1786548608,
+        "source": "Benzinga"
+      },
+      {
         "headline": "文远知行CEO称其技术可与特斯拉FSD相媲美",
         "url": "https://finnhub.io/api/news?id=7d953bd6537e1319dd8f89b0fc93ceeb6e352ad4fcbe2db09dca640022ba0227",
         "datetime": 1786542416,
@@ -1227,12 +1227,6 @@
         "headline": "今天盘中 8 只发出鲸鱼警报的非必需消费品股票",
         "url": "https://finnhub.io/api/news?id=2ca9c3f4788f04302a0e3c1106e24cd92e46166db5f4c4d484a8135056f7ed87",
         "datetime": 1786541715,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Super Micro、Lumentum、CoreWeave财报凸显AI基础设施需求； CPI数据显示滞胀风险依然存在",
-        "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
-        "datetime": 1786539777,
         "source": "Benzinga"
       }
     ],
@@ -1284,7 +1278,7 @@
     ],
     "BTC": [
       {
-        "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
+        "headline": "高盛以 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
         "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
         "datetime": 1786555263,
         "source": "CoinDesk"
