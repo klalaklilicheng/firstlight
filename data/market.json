@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:32:41.148Z",
+  "updated_at": "2026-08-12T23:33:03.066Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63432,
-      "change_pct": -0.36
+      "price": 63360,
+      "change_pct": -0.28
     },
     {
       "symbol": "ETH",
-      "price": 1878.14,
-      "change_pct": -0.18
+      "price": 1874.9,
+      "change_pct": -0.22
     },
     {
       "symbol": "SOL",
-      "price": 75.53,
-      "change_pct": -1.09
+      "price": 75.41,
+      "change_pct": -1
     },
     {
       "symbol": "HYPE",
-      "price": 56.06,
-      "change_pct": 2.93
+      "price": 55.97,
+      "change_pct": 2.78
     },
     {
       "symbol": "ZEC",
-      "price": 491.09,
-      "change_pct": 2.14
+      "price": 489.56,
+      "change_pct": 2.25
     },
     {
       "symbol": "TAO",
-      "price": 199.63,
-      "change_pct": -0.31
+      "price": 199.66,
+      "change_pct": -0.15
     },
     {
       "symbol": "SKY",
-      "price": 1221.56,
-      "change_pct": -0.54
+      "price": 1218.64,
+      "change_pct": -0.63
     },
     {
       "symbol": "AAVE",
-      "price": 87.86,
-      "change_pct": -0.29
+      "price": 87.76,
+      "change_pct": -0.37
     },
     {
       "symbol": "BNB",
-      "price": 610.11,
-      "change_pct": -0.36
+      "price": 609.7,
+      "change_pct": -0.87
     },
     {
       "symbol": "NEAR",
-      "price": 1.62,
-      "change_pct": 1.7
+      "price": 1.64,
+      "change_pct": 1.94
     },
     {
       "symbol": "DOGE",
-      "price": 0.069391,
-      "change_pct": -4.49
+      "price": 0.069443,
+      "change_pct": -3.38
     },
     {
       "symbol": "SPACEX",
-      "price": 563.84,
-      "change_pct": 12.94
+      "price": 569.66,
+      "change_pct": 14.12
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "由于代币化收入不足，盈利未达预期，证券化下跌 20%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "datetime": 1786573584,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "摩根士丹利基础设施合作伙伴 Zerohash 拒绝成为美国信托银行",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "datetime": 1786572669,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "夏威夷加密 ATM 禁令将于 10 月 1 日生效",
       "summary": "夏威夷将加入明尼苏达州、田纳西州和印第安纳州的行列，成为美国第四个完全禁止使用加密货币 ATM 和自助服务终端以应对诈骗的州。",
       "source": "Cointelegraph",
@@ -724,24 +742,6 @@
       "datetime": 1786539600,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事",
-      "summary": "7 月 CPI 报告符合预期，CoreWeave 的财报显示对 Nvidia 芯片的需求旺盛。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1786539034,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国CPI通胀如预期放缓至3.4%，比特币守住64000美元附近",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
-      "datetime": 1786538679,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.1,
+    "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.1,
+    "daily_score": 17,
     "weekly_score": 16,
-    "btc_price": 63483.2,
+    "btc_price": 63450,
     "fear_greed": 37,
     "indicators": [
       {
@@ -807,14 +807,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00813,
-        "score": 49,
+        "value": 0.00649,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.83,
+        "value": 1.84,
         "score": 89,
         "weight": 5,
         "group": "daily"
@@ -884,7 +884,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -87.4,
+        "value": -85.6,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1004,14 +1004,14 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 716,
-        "retweets": 85
+        "retweets": 86
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1404,
-        "retweets": 80
+        "retweets": 81
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1025,14 +1025,14 @@
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
         "likes": 536,
-        "retweets": 32
+        "retweets": 33
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1048,
-        "retweets": 85
+        "retweets": 86
       }
     ],
     "QwQiao": [
@@ -1063,36 +1063,36 @@
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 2250,
-        "retweets": 203
+        "likes": 2534,
+        "retweets": 231
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1619,
-        "retweets": 181
+        "likes": 1652,
+        "retweets": 184
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2160,
-        "retweets": 243
+        "likes": 2189,
+        "retweets": 247
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6458,
-        "retweets": 611
+        "likes": 6496,
+        "retweets": 615
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1545,
-        "retweets": 170
+        "likes": 1552,
+        "retweets": 171
       }
     ],
     "viktorfischer": [
@@ -1142,6 +1142,12 @@
         "source": "ChartMill"
       },
       {
+        "headline": "GE Vernova：我无法停止购买这只人工智能股票",
+        "url": "https://finnhub.io/api/news?id=8f992485f3f6431b5099f842a84ba48c2897912125cdd7600959ab43e855ba27",
+        "datetime": 1786558958,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "周三哪些 S&P500 股票最活跃？",
         "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
         "datetime": 1786557901,
@@ -1158,12 +1164,6 @@
         "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
         "datetime": 1786552806,
         "source": "ChartMill"
-      },
-      {
-        "headline": "新加坡国家基金增持内存巨头，SK海力士、三星股价上涨",
-        "url": "https://finnhub.io/api/news?id=688c220117eebd0192104bd977f75d290e2a16d439794eab9678ec9ca1390959",
-        "datetime": 1786549420,
-        "source": "Benzinga"
       }
     ],
     "GOOG": [
@@ -1380,21 +1380,21 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "69% 的near​.com 活动都是保密的。当保密是一种选择时，你应该选择它。\n\n在 30 多个链之间进行交换，并对您的交易规模、时间和方向保密。\n\n链上执行",
-        "url": "https://x.com/NEARProtocol/status/2087620354965381340",
-        "datetime": 1786562453,
+        "headline": "代理经济破坏了流动。用户表达意图。 NEAR AI 明白这一点。 NEAR Intents 执行它。用户收到结果。\n\n这不仅仅是用户体验的改进。它是一个结构c",
+        "url": "https://x.com/NEARProtocol/status/2087681709072327068",
+        "datetime": 1786577081,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "“可验证性是用户拥有的人工智能的关键要求，对于数据主权和安全至关重要......英特尔作为机密硬件合作伙伴，现在是验证合作伙伴，NEAR AI",
-        "url": "https://x.com/NEARProtocol/status/2087573851609661683",
-        "datetime": 1786551366,
+        "headline": "互联网的下一个时代将意图与行动联系起来。\n\n用户不需要接触基础设施的每一层。他们应该表达结果并让系统执行它。\n\n🧵",
+        "url": "https://x.com/NEARProtocol/status/2087681705205260418",
+        "datetime": 1786577080,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "具有独立英特尔认证的机密推理现已上线。自己验证一下。\n\n全面整合公告：",
-        "url": "https://x.com/NEARProtocol/status/2087573854721888309",
-        "datetime": 1786551366,
+        "headline": "传统商务充满了步骤：搜索、市场、购物车、身份、身份验证、支付处理器、结果。\n\n加密添加了新的层：应用程序、协议、交易所、市场、钱包和桥梁。力量",
+        "url": "https://x.com/NEARProtocol/status/2087681707382112350",
+        "datetime": 1786577080,
         "source": "@NEARProtocol"
       }
     ],
