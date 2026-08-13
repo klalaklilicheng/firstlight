@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-13T18:52:18.508Z",
+  "updated_at": "2026-08-13T19:53:02.816Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 714.95,
-      "change_pct": 0.67
+      "price": 714.7,
+      "change_pct": 0.64
     },
     {
       "symbol": "QQQ",
-      "price": 733.15,
-      "change_pct": 1.31
+      "price": 731.94,
+      "change_pct": 1.14
     },
     {
       "symbol": "QQQM",
-      "price": 301.88,
-      "change_pct": 1.31
+      "price": 301.39,
+      "change_pct": 1.14
     },
     {
       "symbol": "NVDA",
-      "price": 225.64,
-      "change_pct": 0.69
+      "price": 225.48,
+      "change_pct": 0.62
     },
     {
       "symbol": "TSLA",
-      "price": 340.14,
-      "change_pct": 3.86
+      "price": 339.36,
+      "change_pct": 3.62
     },
     {
       "symbol": "GOOG",
-      "price": 343.69,
-      "change_pct": 0.39
+      "price": 343.84,
+      "change_pct": 0.43
     },
     {
       "symbol": "RKLB",
-      "price": 80.98,
-      "change_pct": -0.23
+      "price": 80.11,
+      "change_pct": -1.31
     },
     {
       "symbol": "CRCL",
-      "price": 72.73,
-      "change_pct": 2.03
+      "price": 75.62,
+      "change_pct": 6.09
     },
     {
       "symbol": "PLTR",
-      "price": 178.25,
-      "change_pct": 4.22
+      "price": 179.79,
+      "change_pct": 5.12
     },
     {
       "symbol": "MSTR",
-      "price": 95.55,
-      "change_pct": 0.76
+      "price": 97.58,
+      "change_pct": 2.9
     },
     {
       "symbol": "GLD",
-      "price": 399.43,
-      "change_pct": -1.36
+      "price": 398.87,
+      "change_pct": -1.49
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63151,
-      "change_pct": -0.33
+      "price": 63362,
+      "change_pct": 0.15
     },
     {
       "symbol": "ETH",
-      "price": 1878.68,
-      "change_pct": -0.33
+      "price": 1886.58,
+      "change_pct": 0.53
     },
     {
       "symbol": "SOL",
-      "price": 75.77,
-      "change_pct": -0.14
+      "price": 76.1,
+      "change_pct": 0.68
     },
     {
       "symbol": "HYPE",
-      "price": 57.75,
-      "change_pct": 2.15
+      "price": 57.53,
+      "change_pct": 2.46
     },
     {
       "symbol": "ZEC",
-      "price": 483.91,
-      "change_pct": -2.76
+      "price": 484.55,
+      "change_pct": -1.21
     },
     {
       "symbol": "TAO",
-      "price": 201.84,
-      "change_pct": 1.03
+      "price": 202.33,
+      "change_pct": 2.27
     },
     {
       "symbol": "SKY",
-      "price": 1217.5,
-      "change_pct": -1
+      "price": 1223.41,
+      "change_pct": -0.19
     },
     {
       "symbol": "AAVE",
-      "price": 87.5,
-      "change_pct": -1.76
+      "price": 87.63,
+      "change_pct": -0.85
     },
     {
       "symbol": "BNB",
-      "price": 608.33,
-      "change_pct": -0.3
+      "price": 609.14,
+      "change_pct": 0.09
     },
     {
       "symbol": "NEAR",
-      "price": 1.64,
-      "change_pct": -0.59
+      "price": 1.62,
+      "change_pct": -0.57
     },
     {
       "symbol": "DOGE",
-      "price": 0.069912,
-      "change_pct": -1.09
+      "price": 0.070251,
+      "change_pct": -0.29
     },
     {
       "symbol": "SPACEX",
-      "price": 540.13,
-      "change_pct": 0.32
+      "price": 546.69,
+      "change_pct": -0.28
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "Delio 首席执行官因韩国加密货币欺诈被判处 15 年监禁",
+      "summary": "在因与加密货币公司 Delio 的活动相关的欺诈指控而被起诉一年多后，郑相浩 (Jeong Sang-ho) 在韩国面临牢狱之灾。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786648862,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Tether 表示已完成了长期承诺的 1800 亿美元 USDT 稳定币背后的“四大”财务审计",
       "summary": "",
       "source": "CoinDesk",
@@ -733,15 +742,6 @@
       "datetime": 1786616132,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "币安 bStocks 超越 xStocks 成为第二大代币化股票发行商",
-      "summary": "Binance bStocks 在推出后不到两个月就成为第二大代币化股票发行商，以微弱优势领先于 Kraken 的 xStocks。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786614816,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,7 +784,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.6,
     "weekly_score": 16.6,
-    "btc_price": 63256.8,
+    "btc_price": 63413.9,
     "fear_greed": 36,
     "indicators": [
       {
@@ -796,8 +796,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007944,
-        "score": 49,
+        "value": 0.009694,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
@@ -866,14 +866,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.4,
+        "value": 35.6,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -81.5,
+        "value": -78.7,
         "score": 23,
         "weight": 4,
         "group": "weekly"
@@ -1029,7 +1029,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 546,
+        "likes": 547,
         "retweets": 17
       },
       {
@@ -1066,36 +1066,36 @@
         "text": "You will never be done learning about Bitcoin. https://t.co/aHGJU8RKVK",
         "url": "https://x.com/saylor/status/2087975463729676768",
         "time": "Thu Aug 13 18:51:57 +0000 2026",
-        "likes": 0,
-        "retweets": 0
+        "likes": 1430,
+        "retweets": 139
       },
       {
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 165,
+        "likes": 168,
         "retweets": 16
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 306,
+        "likes": 315,
         "retweets": 27
       },
       {
         "text": "Digital Assets form a monetary spectrum:\n\n$BTC = Digital Capital\n$STRC = Digital Credit\nSR-strcUSX = Digital Money\n$USDT = Digital Currency\n\nFrom left to right, volatility and return potential fall while stability and transactional utility rise. https://t.co/fBCONStR73",
         "url": "https://x.com/saylor/status/2087872413631459445",
         "time": "Thu Aug 13 12:02:28 +0000 2026",
-        "likes": 2017,
-        "retweets": 281
+        "likes": 2108,
+        "retweets": 289
       },
       {
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 2824,
-        "retweets": 283
+        "likes": 2896,
+        "retweets": 288
       }
     ],
     "viktorfischer": [
@@ -1103,14 +1103,14 @@
         "text": "Alpenglow 🗻🌟 on @solana mainnet at the end of Sept🤞🚀 https://t.co/uQFKSgWct9",
         "url": "https://x.com/viktorfischer/status/2087951800267833533",
         "time": "Thu Aug 13 17:17:56 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 0
       },
       {
         "text": "Solana is where founders go to make money 💵 with their apps 🚀",
         "url": "https://x.com/viktorfischer/status/2087857960777318727",
         "time": "Thu Aug 13 11:05:03 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 0
       },
       {
@@ -1139,6 +1139,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "请随时了解周四道琼斯指数的主要动向。",
+        "url": "https://finnhub.io/api/news?id=d809f45966630d8a19facd36d00cdb710b4ed6f03d04f981ead22bea0fe9d02d",
+        "datetime": 1786648206,
+        "source": "ChartMill"
+      },
+      {
         "headline": "今天的交易时段发生了什么：S&P500 最活跃的股票",
         "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
         "datetime": 1786644301,
@@ -1160,12 +1166,6 @@
         "headline": "埃隆·马斯克声称 SpaceX 的大部分收入将来自下个月的人工智能",
         "url": "https://finnhub.io/api/news?id=af3e65c89bdeb6083c59c9501230f23d52004a43f415feed2f990097494bd3d2",
         "datetime": 1786642621,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "美国银行在盈利后调整 CoreWeave 股票预测",
-        "url": "https://finnhub.io/api/news?id=722072a09b8e329b29ae3c0539ea5d8df2fb221285e43410b5ec1abbb7d9bf9b",
-        "datetime": 1786642620,
         "source": "Yahoo"
       }
     ],
@@ -1372,6 +1372,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "",
+        "url": "https://x.com/NEARProtocol/status/2087989054822322184",
+        "datetime": 1786650358,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "代理金融需要审批。\n\nIronClaw 会连续设置检查点，因此当代理暂停以供人员下线或流程重新启动时，它会在完全相同的点开始工作。 \n\n国家生存",
         "url": "https://x.com/NEARProtocol/status/2087923479173558553",
         "datetime": 1786634723,
@@ -1381,12 +1387,6 @@
         "headline": "“透明区块链上的每一次交换都是公开的——金额、资产、地址、策略。保密意图是 NEAR 的解决方案：相同的跨链交换，在没有人看到的情况下执行。”\n\n— @khalka",
         "url": "https://x.com/NEARProtocol/status/2087885376039927904",
         "datetime": 1786625639,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "代理经济破坏了流动。用户表达意图。 NEAR AI 明白这一点。 NEAR Intents 执行它。用户收到结果。\n\n这不仅仅是用户体验的改进。它是一个结构c",
-        "url": "https://x.com/NEARProtocol/status/2087681709072327068",
-        "datetime": 1786577081,
         "source": "@NEARProtocol"
       }
     ],
