@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:14:56.644Z",
+  "updated_at": "2026-08-13T04:03:06.977Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 34.12,
-      "change_pct": 1.85
+      "price": 33.8,
+      "change_pct": -0.94
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63540,
-      "change_pct": -0.29
+      "price": 63582,
+      "change_pct": -0.31
     },
     {
       "symbol": "ETH",
-      "price": 1879.36,
-      "change_pct": -0.22
+      "price": 1885.4,
+      "change_pct": 0
     },
     {
       "symbol": "SOL",
-      "price": 75.62,
-      "change_pct": -1.07
+      "price": 76.19,
+      "change_pct": -0.24
     },
     {
       "symbol": "HYPE",
-      "price": 56.32,
-      "change_pct": 3.55
+      "price": 56.41,
+      "change_pct": 3.25
     },
     {
       "symbol": "ZEC",
-      "price": 493.68,
-      "change_pct": 2.06
+      "price": 493.37,
+      "change_pct": 2.38
     },
     {
       "symbol": "TAO",
-      "price": 199.73,
-      "change_pct": -2.56
+      "price": 199.63,
+      "change_pct": -2.5
     },
     {
       "symbol": "SKY",
-      "price": 1222.49,
-      "change_pct": -0.06
+      "price": 1225.63,
+      "change_pct": 0.19
     },
     {
       "symbol": "AAVE",
-      "price": 88.12,
-      "change_pct": -0.96
+      "price": 88.21,
+      "change_pct": -2
     },
     {
       "symbol": "BNB",
-      "price": 610.6,
-      "change_pct": -1.42
+      "price": 611.62,
+      "change_pct": -0.18
     },
     {
       "symbol": "NEAR",
-      "price": 1.64,
-      "change_pct": 0.12
+      "price": 1.65,
+      "change_pct": -0.56
     },
     {
       "symbol": "DOGE",
-      "price": 0.069902,
-      "change_pct": -3.47
+      "price": 0.070114,
+      "change_pct": -2.83
     },
     {
       "symbol": "SPACEX",
-      "price": 569.58,
-      "change_pct": 15.79
+      "price": 549.72,
+      "change_pct": 11.67
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "澳大利亚证券交易所股东计划就失败的区块链项目起诉前董事",
+      "summary": "在澳大利亚证券交易所承认误导市场后，基于区块链的 CHESS 改革失败，面临新的治理审查。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786582857,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "亚利桑那州加密 ATM 法帮助 35 名诈骗受害者追回 17.1 万美元",
       "summary": "符合条件的新客户如果在 30 天内通知运营商和执法部门，即可获得全额退款，包括费用。",
       "source": "Cointelegraph",
@@ -600,7 +609,7 @@
       "related": ""
     },
     {
-      "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
+      "headline": "高盛以 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
@@ -733,15 +742,6 @@
       "datetime": 1786541400,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Wintermute 将在 TradFi 扩张期间向人工智能和高频交易投资 10 亿美元：报告",
-      "summary": "据报道，作为向传统金融领域扩张的一部分，Wintermute 将投资 10 亿美元用于人工智能基础设施和高频交易。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786541037,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,31 +790,31 @@
     }
   ],
   "btc_score": {
-    "score": 33,
+    "score": 32.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17,
-    "weekly_score": 16,
-    "btc_price": 63619.8,
+    "daily_score": 16.6,
+    "weekly_score": 16.1,
+    "btc_price": 63653,
     "fear_greed": 36,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 7800000,
-        "score": 51,
+        "value": -46800000,
+        "score": 47,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006271,
-        "score": 48,
+        "value": 0.007156,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.87,
+        "value": 1.86,
         "score": 91,
         "weight": 5,
         "group": "daily"
@@ -884,8 +884,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -82.3,
-        "score": 22,
+        "value": -71.8,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1003,21 +1003,21 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 716,
+        "likes": 717,
         "retweets": 86
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1404,
+        "likes": 1405,
         "retweets": 82
       },
       {
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 360,
+        "likes": 361,
         "retweets": 21
       },
       {
@@ -1063,39 +1063,46 @@
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 2867,
-        "retweets": 258
+        "likes": 3279,
+        "retweets": 298
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1692,
-        "retweets": 187
+        "likes": 1727,
+        "retweets": 191
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2235,
-        "retweets": 254
+        "likes": 2292,
+        "retweets": 261
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6559,
-        "retweets": 623
+        "likes": 6701,
+        "retweets": 632
       },
       {
         "text": "Digital Money is being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087151260168311020",
         "time": "Tue Aug 11 12:16:52 +0000 2026",
-        "likes": 1557,
-        "retweets": 172
+        "likes": 1561,
+        "retweets": 173
       }
     ],
     "viktorfischer": [
+      {
+        "text": "Explanation of the estimate of $90bn crypto market size growing to $300bn in 5 years - presented at @SolanaEvents last May in Miami",
+        "url": "https://x.com/viktorfischer/status/2087735631221047366",
+        "time": "Thu Aug 13 02:58:57 +0000 2026",
+        "likes": 1,
+        "retweets": 0
+      },
       {
         "text": "Interesting - I come to similar market size: roughly $90bn currently across on-chain and off-chain. But I split it by segments: \n. Largest segment is and will be trading (CEX, DEX, Trading terminals, etc)\n. Second largest is betting (online casinos, prediction markets)\n. Highest https://t.co/ohT7G96Ywq",
         "url": "https://x.com/viktorfischer/status/2087382218155135023",
@@ -1123,13 +1130,6 @@
         "time": "Tue Aug 04 22:25:47 +0000 2026",
         "likes": 6,
         "retweets": 2
-      },
-      {
-        "text": "July was a big month for @RockawayX vaults, reaching $180m AUM. Yield on-chain is the future 🚀",
-        "url": "https://x.com/viktorfischer/status/2083216781125029956",
-        "time": "Fri Jul 31 15:42:39 +0000 2026",
-        "likes": 5,
-        "retweets": 1
       }
     ]
   },
@@ -1278,7 +1278,7 @@
     ],
     "BTC": [
       {
-        "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
+        "headline": "高盛以 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
         "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
         "datetime": 1786555263,
         "source": "CoinDesk"
@@ -1296,7 +1296,7 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "美国CPI通胀如预期放缓至3.4%，比特币守住64000美元附近",
+        "headline": "美国CPI通胀如预期放缓至3.4%，比特币守住64,000美元附近",
         "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
         "datetime": 1786538679,
         "source": "CoinDesk"
