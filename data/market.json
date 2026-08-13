@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T09:55:30.529Z",
+  "updated_at": "2026-08-13T10:55:31.541Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63695,
-      "change_pct": -0.48
+      "price": 63588,
+      "change_pct": -0.79
     },
     {
       "symbol": "ETH",
-      "price": 1887.11,
-      "change_pct": -0.78
+      "price": 1881.45,
+      "change_pct": -1.4
     },
     {
       "symbol": "SOL",
-      "price": 76.03,
-      "change_pct": -0.81
+      "price": 75.7,
+      "change_pct": -1.36
     },
     {
       "symbol": "HYPE",
-      "price": 57.65,
-      "change_pct": 4.19
+      "price": 57.44,
+      "change_pct": 3.51
     },
     {
       "symbol": "ZEC",
-      "price": 496.38,
-      "change_pct": 3.64
+      "price": 493.86,
+      "change_pct": 1.77
     },
     {
       "symbol": "TAO",
-      "price": 200.09,
-      "change_pct": -1.95
+      "price": 198.83,
+      "change_pct": -2.51
     },
     {
       "symbol": "SKY",
-      "price": 1223.78,
-      "change_pct": -0.81
+      "price": 1220.42,
+      "change_pct": -1.39
     },
     {
       "symbol": "AAVE",
-      "price": 89.01,
-      "change_pct": -0.69
+      "price": 88.89,
+      "change_pct": -0.97
     },
     {
       "symbol": "BNB",
-      "price": 611.41,
-      "change_pct": -0.2
+      "price": 610.1,
+      "change_pct": -0.56
     },
     {
       "symbol": "NEAR",
       "price": 1.66,
-      "change_pct": 0.38
+      "change_pct": 0.83
     },
     {
       "symbol": "DOGE",
-      "price": 0.070407,
-      "change_pct": -2.1
+      "price": 0.07011,
+      "change_pct": -2.45
     },
     {
       "symbol": "SPACEX",
-      "price": 553.62,
-      "change_pct": 12.52
+      "price": 549.72,
+      "change_pct": 11.85
     }
   ],
   "earnings": {
@@ -474,12 +474,30 @@
   },
   "news": [
     {
+      "headline": "币安 bStocks 超越 xStocks 成为第二大代币化股票发行商",
+      "summary": "Binance bStocks 在推出后不到两个月就成为第二大代币化股票发行商，以微弱优势领先于 Kraken 的 xStocks。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786614816,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "比特币投机者将 BTC 价格“固定”在 6.87 万美元以下：Glassnode",
       "summary": "Glassnode 表示，比特币在区间高点附近的疲软源于短期持有者试图在水下的 BTC 投资中实现收支平衡。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786613836,
       "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "华尔街等待批发通胀数据，国债收益率下跌",
+      "summary": "10 年期美国国债收益率（美国政府借款的主要基准）下跌超过 1 个基点至 4.674%。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
+      "datetime": 1786610417,
+      "category": "top news",
       "related": ""
     },
     {
@@ -574,7 +592,7 @@
     },
     {
       "headline": "澳大利亚证券交易所股东计划就失败的区块链项目起诉前董事",
-      "summary": "澳大利亚证券交易所承认误导市场后，基于区块链的 CHESS 改革失败，面临新的治理审查。",
+      "summary": "在澳大利亚证券交易所承认误导市场后，基于区块链的 CHESS 改革失败，面临新的治理审查。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786582857,
@@ -583,7 +601,7 @@
     },
     {
       "headline": "亚利桑那州加密 ATM 法帮助 35 名诈骗受害者追回 17.1 万美元",
-      "summary": "符合条件的新客户如果在 30 天内通知运营商和执法部门，可以获得全额退款，包括费用。",
+      "summary": "符合条件的新客户如果在 30 天内通知运营商和执法部门，即可获得全额退款，包括费用。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786578171,
@@ -708,7 +726,7 @@
       "related": ""
     },
     {
-      "headline": "高盛以 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
+      "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
@@ -722,24 +740,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786553932,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "英格兰银行测试稳定币、数字英镑在跨境支付中的互操作性",
-      "summary": "数字英镑实验室正在测试将稳定币支付与模拟数字英镑结算相结合的跨境贸易融资流程。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786553425,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Wintermute 计划斥资 10 亿美元推动人工智能领域超越加密货币：彭博社",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-      "datetime": 1786552464,
       "category": "crypto",
       "related": ""
     }
@@ -782,9 +782,9 @@
     "score": 32.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 16.9,
-    "btc_price": 63762.1,
+    "daily_score": 16,
+    "weekly_score": 16.8,
+    "btc_price": 63646.5,
     "fear_greed": 36,
     "indicators": [
       {
@@ -796,15 +796,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005584,
+        "value": 0.005928,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.72,
-        "score": 81,
+        "value": 1.73,
+        "score": 82,
         "weight": 5,
         "group": "daily"
       },
@@ -866,14 +866,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.9,
-        "score": 27,
+        "value": 35.8,
+        "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -59.7,
+        "value": -57.5,
         "score": 29,
         "weight": 4,
         "group": "weekly"
@@ -1052,36 +1052,36 @@
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 271,
-        "retweets": 35
+        "likes": 1043,
+        "retweets": 104
       },
       {
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 3900,
-        "retweets": 351
+        "likes": 3992,
+        "retweets": 361
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1780,
+        "likes": 1796,
         "retweets": 197
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2358,
+        "likes": 2370,
         "retweets": 272
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6889,
-        "retweets": 652
+        "likes": 6919,
+        "retweets": 653
       }
     ],
     "viktorfischer": [
@@ -1089,14 +1089,14 @@
         "text": "This is how I like to look at @BitGo : tough Q2 with -25% blended take-rate margin decrease vs Q1:\n. Although gross revenues increased +14%, the direct costs associated to gross revenues increased +15%\n. Notice the -50% decline in both Trading and Staking take-rate margin\n. https://t.co/zTsaBN1ej7",
         "url": "https://x.com/viktorfischer/status/2087755929219682421",
         "time": "Thu Aug 13 04:19:36 +0000 2026",
-        "likes": 3,
+        "likes": 6,
         "retweets": 0
       },
       {
         "text": "Explanation of the estimate of $90bn crypto market size growing to $300bn in 5 years - presented at @SolanaEvents last May in Miami",
         "url": "https://x.com/viktorfischer/status/2087735631221047366",
         "time": "Thu Aug 13 02:58:57 +0000 2026",
-        "likes": 4,
+        "likes": 5,
         "retweets": 0
       },
       {
@@ -1125,37 +1125,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "随着软件遭受打击，CPI 的酷炫点燃了 AI 硬件的导火索",
-        "url": "https://finnhub.io/api/news?id=8e0b011a5673522bb64aecbf7ece47fbf08cd0f4aff0f5cdb8ff742812f72b7d",
-        "datetime": 1786608869,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "随着基本面改善，优步将迎来反弹",
-        "url": "https://finnhub.io/api/news?id=8aeb18dfa1f390f2147ec0e17e6e311787ad31d7a08713e4c74443c2de010b25",
-        "datetime": 1786606200,
+        "headline": "埃隆·马斯克 (Elon Musk) 表示，SpaceX 的卖空者可能无法生存。这三个盈利数字表明他错了。",
+        "url": "https://finnhub.io/api/news?id=d8e09678b59c454dd375cc469574bffe293faa4a04f0a825d920eebb8b6dd96c",
+        "datetime": 1786614600,
         "source": "Yahoo"
       },
       {
-        "headline": "1 个数字表明 Lowe's 股票在 8 月 19 日之前值得买入",
-        "url": "https://finnhub.io/api/news?id=bbb0b7a2daf0862981f57cc5241561e54a92638c5e1c6331000a7208355f908a",
-        "datetime": 1786604700,
+        "headline": "AI周刊：英伟达确实与华尔街打交道，中国的AI天气预报",
+        "url": "https://finnhub.io/api/news?id=fe3d7b57f311fbbdac10f343402108f6446f07604fe398ddee8e366b8b7732dc",
+        "datetime": 1786614426,
         "source": "Yahoo"
       },
       {
-        "headline": "迈克尔·伯里 (Michael Burry) 称 Nvidia 500B 美元的华尔街合作是“绝望的迹象”，而不断上升的违约预期也无济于事",
-        "url": "https://finnhub.io/api/news?id=bc8b9352e65bef32aae5e63a834cd9b30c571143b62596060149b764712cd7d3",
-        "datetime": 1786604471,
+        "headline": "XRP（瑞波币）刚刚做了自 2024 年以来从未做过的事情，这对投资者意味着什么",
+        "url": "https://finnhub.io/api/news?id=bf7aee1805d18d3599e39cebe296d95c001bdf4eb91c0474c3ffd0cce82110ca",
+        "datetime": 1786613640,
         "source": "Yahoo"
       },
       {
-        "headline": "得益于这一被忽视的商机，Nvidia 的价值可能达到 7.5 万亿美元",
-        "url": "https://finnhub.io/api/news?id=778caf38aa7160091ad70b27858da33c35f5ab69eebd0743570d16bdc2f77b43",
-        "datetime": 1786603860,
+        "headline": "谷歌母公司 Alphabet 刚刚透露了其拥有多少 SpaceX 股份……这个数字太棒了",
+        "url": "https://finnhub.io/api/news?id=ce6967c260aec8fb51291871ab3cdad4bb292e5d2f85d47a5d88713b41f0e60d",
+        "datetime": 1786613160,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "迈克尔·伯里 (Michael Burry) 警告称，将出现 1987 年式的崩盘。这里有 2 只值得购买的指数 ETF。",
+        "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
+        "datetime": 1786612800,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "谷歌母公司 Alphabet 刚刚透露了其拥有多少 SpaceX 股份……这个数字太棒了",
+        "url": "https://finnhub.io/api/news?id=ce6967c260aec8fb51291871ab3cdad4bb292e5d2f85d47a5d88713b41f0e60d",
+        "datetime": 1786613160,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "华尔街早餐播客：谷歌抛出传奇来激励双子座开发者",
+        "url": "https://finnhub.io/api/news?id=85f2ebd9e32b64e649dce35165629a8133972bf2176dc47679bb84836881d1b9",
+        "datetime": 1786602780,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "美光科技 (MU) 在新的人工智能股票竞赛中面临什么？",
         "url": "https://finnhub.io/api/news?id=421fcaf9fca3601087fbfe7ed6132dd9ea82102887b21084c4eeb8648b2f331d",
@@ -1169,53 +1181,41 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "Credo Brands Marketing Ltd（NSE：MUFTI）（2027 年第一季度）收益电话会议亮点：转型阶段...",
+        "headline": "Credo Brands Marketing Ltd（NSE：MUFTI）（2027 年第一季度）收益电话会议亮点：转型阶段......",
         "url": "https://finnhub.io/api/news?id=b41be491e103a24ef07532a87492534e2d049111646f630c176b8bf552110194",
         "datetime": 1786583484,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "渗透：朝鲜的秘密美国劳动力",
-        "url": "https://finnhub.io/api/news?id=9bb10660d2e2aabb07eca5000c543a9c380b325036db9fa258bbc543090ad37b",
-        "datetime": 1786582800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "巨型后门 Roth：科技工作者如何每年为 401(k) 免税增加 34,000 美元",
-        "url": "https://finnhub.io/api/news?id=c2cc2c6802bbd5a56b3b3c2cae8c86ca7ba998d549e49cace3aebaa4241fb43e",
-        "datetime": 1786576948,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "迈克尔·伯里 (Michael Burry) 警告称，将出现 1987 年式的崩盘。这里有 2 只值得购买的指数 ETF。",
+        "url": "https://finnhub.io/api/news?id=c7fbddc4198c1cc976e4e7d6dc0c43b1f3d60461b8c03034092757fc45d07281",
+        "datetime": 1786612800,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "韩国7月进口销售额增长14%",
+        "url": "https://finnhub.io/api/news?id=a2f2ce62d2f90e27983806dbb972c33bc9909aafcb1144bed881edd4995e4770",
+        "datetime": 1786612008,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "预测：到 2026 年底，Nvidia 的市值将达到 6 万亿美元",
+        "url": "https://finnhub.io/api/news?id=636af9c8ebf002eaf9fbb8644afc9e1660084f85a5cb227b94057ebfc3237217",
+        "datetime": 1786608900,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "TSLA 股价盘前攀升：查马斯表示，随着 100 亿美元德克萨斯州太阳能计划的出现，特斯拉将“全力投入核能”",
+        "url": "https://finnhub.io/api/news?id=db467a9f2084344aedfbcbf50b569ee45110fc28c1cb035c3bc40eb5aae65146",
+        "datetime": 1786608366,
+        "source": "Yahoo"
+      },
+      {
         "headline": "埃隆·马斯克 (Elon Musk) 的特斯拉 (Tesla) 斥资 101 亿美元建造太阳能发电厂，查马斯·帕里哈皮蒂亚 (Chamath Palihapitiya) 称其押注于核能：原因如下",
         "url": "https://finnhub.io/api/news?id=04cf38ca8a39abbb07b4d7660f15e5b5503724d1a4a655ac9c9b52ba57bc8203",
         "datetime": 1786601186,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "科技怎么了？",
-        "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
-        "datetime": 1786591800,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "EVgo 2026 年第二季度回顾：好消息，坏消息（评级下调）",
-        "url": "https://finnhub.io/api/news?id=716eac15cf3bb3afb4a585846aa11a039f9fcbb6aca5bcd51a3598d84c36ba56",
-        "datetime": 1786591604,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "SpaceX 空头利息从 34% 的峰值降至 11%：空头正在投降吗？",
-        "url": "https://finnhub.io/api/news?id=e163e5cac97bf71e6a17e518781b296abc9151d3131e6c9396dbf0a8e837ff4a",
-        "datetime": 1786590000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "最新的 Robotics IPO 获得 8000 倍超额认购。如果人形机器人是下一个大趋势，这些 ETF 可能会起飞。",
-        "url": "https://finnhub.io/api/news?id=b5da1b7ac2aba84a0da866f37b40115baf155b9bcdfdc1298020da5f8fc685a1",
-        "datetime": 1786575080,
         "source": "Yahoo"
       }
     ],
