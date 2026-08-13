@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T10:55:31.541Z",
+  "updated_at": "2026-08-13T11:41:10.599Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63588,
-      "change_pct": -0.79
+      "price": 63389,
+      "change_pct": -1.18
     },
     {
       "symbol": "ETH",
-      "price": 1881.45,
-      "change_pct": -1.4
+      "price": 1877.29,
+      "change_pct": -1.78
     },
     {
       "symbol": "SOL",
-      "price": 75.7,
-      "change_pct": -1.36
+      "price": 75.6,
+      "change_pct": -1.41
     },
     {
       "symbol": "HYPE",
-      "price": 57.44,
-      "change_pct": 3.51
+      "price": 57.08,
+      "change_pct": 2.6
     },
     {
       "symbol": "ZEC",
-      "price": 493.86,
-      "change_pct": 1.77
+      "price": 491.58,
+      "change_pct": 0.61
     },
     {
       "symbol": "TAO",
-      "price": 198.83,
-      "change_pct": -2.51
+      "price": 199.37,
+      "change_pct": -2.2
     },
     {
       "symbol": "SKY",
-      "price": 1220.42,
-      "change_pct": -1.39
+      "price": 1220.64,
+      "change_pct": -1.46
     },
     {
       "symbol": "AAVE",
-      "price": 88.89,
-      "change_pct": -0.97
+      "price": 88.26,
+      "change_pct": -1.57
     },
     {
       "symbol": "BNB",
-      "price": 610.1,
-      "change_pct": -0.56
+      "price": 608,
+      "change_pct": -0.93
     },
     {
       "symbol": "NEAR",
       "price": 1.66,
-      "change_pct": 0.83
+      "change_pct": 1.07
     },
     {
       "symbol": "DOGE",
-      "price": 0.07011,
-      "change_pct": -2.45
+      "price": 0.07001,
+      "change_pct": -2.68
     },
     {
       "symbol": "SPACEX",
-      "price": 549.72,
-      "change_pct": 11.85
+      "price": 549.59,
+      "change_pct": 9.88
     }
   ],
   "earnings": {
@@ -474,11 +474,47 @@
   },
   "news": [
     {
-      "headline": "币安 bStocks 超越 xStocks 成为第二大代币化股票发行商",
+      "headline": "门罗币、超流动性跑赢大盘，比特币稳定在 64,000 美元附近",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+      "datetime": 1786618963,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "安德烈·克罗涅 (Andre Cronje) 表示，“DeFi 已不复存在”，只有链上金融",
+      "summary": "Flying Tulip 创始人 Andre Cronje 认为，DeFi 协议已经发展成为“链上金融”的新金融范式，但牺牲了其固有的不变性和去中心化性。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786618224,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "三菱日联金融集团将测试日本政府债券交易的实时区块链结算",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "datetime": 1786616132,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "币安 bStocks 超过 xStocks 成为第二大代币化股票发行商",
       "summary": "Binance bStocks 在推出后不到两个月就成为第二大代币化股票发行商，以微弱优势领先于 Kraken 的 xStocks。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786614816,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "巴西最大的比特币金库公司计划将 95% 分配给 Strategy 的 STRC ETF",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
+      "datetime": 1786613992,
       "category": "crypto",
       "related": ""
     },
@@ -488,6 +524,24 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786613836,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时更新：美国通胀比 7 月温和 CPI 读数所显示的更为粘性",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
+      "datetime": 1786612699,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币财务公司 Metaplanet 推出 BitBonds，出售 130 万美元的私人债务",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
+      "datetime": 1786612455,
       "category": "crypto",
       "related": ""
     },
@@ -592,7 +646,7 @@
     },
     {
       "headline": "澳大利亚证券交易所股东计划就失败的区块链项目起诉前董事",
-      "summary": "在澳大利亚证券交易所承认误导市场后，基于区块链的 CHESS 改革失败，面临新的治理审查。",
+      "summary": "澳大利亚证券交易所承认误导市场后，基于区块链的 CHESS 改革失败，面临新的治理审查。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786582857,
@@ -601,7 +655,7 @@
     },
     {
       "headline": "亚利桑那州加密 ATM 法帮助 35 名诈骗受害者追回 17.1 万美元",
-      "summary": "符合条件的新客户如果在 30 天内通知运营商和执法部门，即可获得全额退款，包括费用。",
+      "summary": "符合条件的新客户如果在 30 天内通知运营商和执法部门，可以获得全额退款，包括费用。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786578171,
@@ -688,60 +742,6 @@
       "datetime": 1786560956,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "英特尔首席执行官刚刚给吉姆·克莱默（Jim Cramer）又一个理由称其为他最喜欢的股票",
-      "summary": "英特尔周三透露，首席执行官陈立武 (Lip-Bu Tan) 是该公司本周宣布的大规模股票出售的大买家。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
-      "datetime": 1786559909,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "标准普尔指数有望结束连续两天的下滑，高盛加强其资产管理部门",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/the-sp-paces-to-snap-a-2-day-skid-and-goldman-beefs-up-its-asset-management-unit.html",
-      "datetime": 1786558424,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Bitwise 裁员 14%，但仍预期增长",
-      "summary": "Coinbase、BitGo、Robinhood、Polygon 和 Pump.fun 等加密货币公司今年宣布裁员，理由有多种，包括转向人工智能和市场力量。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786557675,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "“没人想要”：由于环孢子虫吓坏了消费者，生菜价格创纪录暴跌",
-      "summary": "由于食客在环孢子虫爆发期间重新考虑生菜，生菜价格出现了有记录以来的最大月度跌幅。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
-      "datetime": 1786557464,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "高盛斥资 22.5 亿美元收购 NEOS，进军比特币收益 ETF",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-      "datetime": 1786555263,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "FlightAware 在提交一天后撤销了 Kalshi 诉讼",
-      "summary": "在最初的诉讼之后，卡尔什的至少一份活动合同被更改，将“主要来源机构”列为验证航班取消数据的实体。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786553932,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,12 +779,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.8,
+    "score": 32.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16,
-    "weekly_score": 16.8,
-    "btc_price": 63646.5,
+    "weekly_score": 16.9,
+    "btc_price": 63456.7,
     "fear_greed": 36,
     "indicators": [
       {
@@ -796,15 +796,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005928,
+        "value": 0.005194,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.73,
-        "score": 82,
+        "value": 1.74,
+        "score": 83,
         "weight": 5,
         "group": "daily"
       },
@@ -866,15 +866,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.8,
+        "value": 35.6,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -57.5,
-        "score": 29,
+        "value": -53.4,
+        "score": 30,
         "weight": 4,
         "group": "weekly"
       }
@@ -1052,39 +1052,46 @@
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 1043,
-        "retweets": 104
+        "likes": 1460,
+        "retweets": 145
       },
       {
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 3992,
-        "retweets": 361
+        "likes": 4071,
+        "retweets": 366
       },
       {
         "text": "Digital Money and Digital Yield are being built on Digital Credit. $STRC",
         "url": "https://x.com/saylor/status/2087484630131769569",
         "time": "Wed Aug 12 10:21:34 +0000 2026",
-        "likes": 1796,
-        "retweets": 197
+        "likes": 1802,
+        "retweets": 198
       },
       {
         "text": "Our BTC Credit model uses a 10% BTC ARR reference case, color-codes spreads by tier (Investment Grade, High Yield, Distressed), and shows BTC Floor prices below which instruments are undercollateralized. Track the impact of our capital markets actions: https://t.co/uTlyGWcQWW https://t.co/xAfXYQoU8d",
         "url": "https://x.com/saylor/status/2087438105489862730",
         "time": "Wed Aug 12 07:16:41 +0000 2026",
-        "likes": 2370,
+        "likes": 2374,
         "retweets": 272
       },
       {
         "text": "Everyone is against Bitcoin before they are for Bitcoin. https://t.co/knjD8TfHBh",
         "url": "https://x.com/saylor/status/2087252266533175311",
         "time": "Tue Aug 11 18:58:14 +0000 2026",
-        "likes": 6919,
-        "retweets": 653
+        "likes": 6935,
+        "retweets": 654
       }
     ],
     "viktorfischer": [
+      {
+        "text": "Solana is where founders go to make money 💵 with their apps 🚀",
+        "url": "https://x.com/viktorfischer/status/2087857960777318727",
+        "time": "Thu Aug 13 11:05:03 +0000 2026",
+        "likes": 3,
+        "retweets": 0
+      },
       {
         "text": "This is how I like to look at @BitGo : tough Q2 with -25% blended take-rate margin decrease vs Q1:\n. Although gross revenues increased +14%, the direct costs associated to gross revenues increased +15%\n. Notice the -50% decline in both Trading and Staking take-rate margin\n. https://t.co/zTsaBN1ej7",
         "url": "https://x.com/viktorfischer/status/2087755929219682421",
@@ -1096,7 +1103,7 @@
         "text": "Explanation of the estimate of $90bn crypto market size growing to $300bn in 5 years - presented at @SolanaEvents last May in Miami",
         "url": "https://x.com/viktorfischer/status/2087735631221047366",
         "time": "Thu Aug 13 02:58:57 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 0
       },
       {
@@ -1112,13 +1119,6 @@
         "time": "Mon Aug 10 04:58:23 +0000 2026",
         "likes": 2,
         "retweets": 1
-      },
-      {
-        "text": "Just constructed my equities portfolio using @jtx_trade (very smooth experience, feels like tradfi):\n. solana:XsafvsGtzFqqHgTnA3aPC83EAMkacU5mcGtcSayhpVV  - every NVDA GPU, AMD GPU, and hyperscaler ASIC is fabbed at TSMC. ~19x forward earnings for 40%+ guided growth while https://t.co/PDnsXK0gJx",
-        "url": "https://x.com/viktorfischer/status/2084952783657054500",
-        "time": "Wed Aug 05 10:40:54 +0000 2026",
-        "likes": 10,
-        "retweets": 3
       }
     ]
   },
@@ -1163,6 +1163,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "AI泡沫破裂：黄氏警告和AI计算ABS解决方案",
+        "url": "https://finnhub.io/api/news?id=15c0a718647dd7486e60c2931c153d8db5fb744a96e71bc7204d9e3cd75c33d3",
+        "datetime": 1786606005,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "华尔街早餐播客：谷歌抛出传奇来激励双子座开发者",
         "url": "https://finnhub.io/api/news?id=85f2ebd9e32b64e649dce35165629a8133972bf2176dc47679bb84836881d1b9",
         "datetime": 1786602780,
@@ -1179,12 +1185,6 @@
         "url": "https://finnhub.io/api/news?id=b7712598b4feffec46ea5810425f208623f4da84db5c62630f2c0e39dbd4ee4e",
         "datetime": 1786591800,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Credo Brands Marketing Ltd（NSE：MUFTI）（2027 年第一季度）收益电话会议亮点：转型阶段......",
-        "url": "https://finnhub.io/api/news?id=b41be491e103a24ef07532a87492534e2d049111646f630c176b8bf552110194",
-        "datetime": 1786583484,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
@@ -1221,6 +1221,12 @@
     ],
     "CRCL": [
       {
+        "headline": "Virtus Silvant 中型成长基金 2026 年第二季度投资组合更新",
+        "url": "https://finnhub.io/api/news?id=742a92860e4a55cf011c33e3438b28c8463ed52dc0f16c3874ce37cf62f4bb80",
+        "datetime": 1786603500,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "TD Cowen 维持对 Circle Internet Group 的买入，并将目标价提高至 87 美元",
         "url": "https://finnhub.io/api/news?id=adcfd53fb5506e55f1c37ab3d79a2c49d7a535b08bc0bb6bbca2e7cb5fdcf660",
         "datetime": 1786530761,
@@ -1243,12 +1249,6 @@
         "url": "https://finnhub.io/api/news?id=617a8338029ea310f576c2fd3497dc7f778edcd423c0735daf357def0675da34",
         "datetime": 1786010497,
         "source": "Benzinga"
-      },
-      {
-        "headline": "今日股市：霍尔木兹协议谈判取得进展，道琼斯指数期货上涨，纳斯达克 100 指数下跌 - SpaceX、SanDisk、Applovin 成为焦点（已更新）",
-        "url": "https://finnhub.io/api/news?id=e5aae8061ef3aaff8a95381dfe9c1d065098d0230261dfecf19ede1df51de880",
-        "datetime": 1786005410,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [
@@ -1267,33 +1267,33 @@
     ],
     "BTC": [
       {
+        "headline": "门罗币、超流动性跑赢大盘，比特币稳定在 64,000 美元附近",
+        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+        "datetime": 1786618963,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "巴西最大的比特币金库公司计划将 95% 分配给 Strategy 的 STRC ETF",
+        "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
+        "datetime": 1786613992,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "比特币投机者将 BTC 价格“固定”在 6.87 万美元以下：Glassnode",
         "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786613836,
         "source": "Cointelegraph"
       },
       {
+        "headline": "比特币财务公司 Metaplanet 推出 BitBonds，出售 130 万美元的私人债务",
+        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
+        "datetime": 1786612455,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Metaplanet 否认出售价值 3.2 亿美元的比特币",
         "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
         "datetime": 1786599288,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币公司向人工智能实验室请求攻击者已经拥有的相同工具",
-        "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
-        "datetime": 1786598481,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Metaplanet 首席执行官在转账 3.22 亿美元后结束了比特币销售猜测",
-        "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786594526,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "随着交易员将消费者物价指数 (CPI) 转向美联储的下一次测试，比特币跌至 63,500 美元附近",
-        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-        "datetime": 1786592346,
         "source": "CoinDesk"
       }
     ],
@@ -1353,7 +1353,14 @@
         "source": "CoinDesk"
       }
     ],
-    "HYPE": [],
+    "HYPE": [
+      {
+        "headline": "门罗币、超流动性跑赢大盘，比特币稳定在 64,000 美元附近",
+        "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+        "datetime": 1786618963,
+        "source": "CoinDesk"
+      }
+    ],
     "TAO": [],
     "NEAR": [
       {
