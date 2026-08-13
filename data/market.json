@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-13T19:53:02.816Z",
+  "updated_at": "2026-08-13T20:33:21.733Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 714.7,
-      "change_pct": 0.64
+      "price": 714.95,
+      "change_pct": 0.67
     },
     {
       "symbol": "QQQ",
-      "price": 731.94,
-      "change_pct": 1.14
+      "price": 732.07,
+      "change_pct": 1.16
     },
     {
       "symbol": "QQQM",
-      "price": 301.39,
-      "change_pct": 1.14
+      "price": 301.41,
+      "change_pct": 1.15
     },
     {
       "symbol": "NVDA",
-      "price": 225.48,
-      "change_pct": 0.62
+      "price": 225.3,
+      "change_pct": 0.54
     },
     {
       "symbol": "TSLA",
-      "price": 339.36,
-      "change_pct": 3.62
+      "price": 339.96,
+      "change_pct": 3.8
     },
     {
       "symbol": "GOOG",
-      "price": 343.84,
-      "change_pct": 0.43
+      "price": 343.94,
+      "change_pct": 0.46
     },
     {
       "symbol": "RKLB",
-      "price": 80.11,
-      "change_pct": -1.31
+      "price": 80.1,
+      "change_pct": -1.32
     },
     {
       "symbol": "CRCL",
-      "price": 75.62,
-      "change_pct": 6.09
+      "price": 75.38,
+      "change_pct": 5.75
     },
     {
       "symbol": "PLTR",
-      "price": 179.79,
-      "change_pct": 5.12
+      "price": 179.01,
+      "change_pct": 4.66
     },
     {
       "symbol": "MSTR",
-      "price": 97.58,
-      "change_pct": 2.9
+      "price": 97.1,
+      "change_pct": 2.39
     },
     {
       "symbol": "GLD",
-      "price": 398.87,
-      "change_pct": -1.49
+      "price": 398.96,
+      "change_pct": -1.47
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63362,
-      "change_pct": 0.15
+      "price": 63396,
+      "change_pct": -0.08
     },
     {
       "symbol": "ETH",
-      "price": 1886.58,
-      "change_pct": 0.53
+      "price": 1885.9,
+      "change_pct": 0.18
     },
     {
       "symbol": "SOL",
-      "price": 76.1,
-      "change_pct": 0.68
+      "price": 76.19,
+      "change_pct": 0.47
     },
     {
       "symbol": "HYPE",
-      "price": 57.53,
-      "change_pct": 2.46
+      "price": 57.51,
+      "change_pct": 2.31
     },
     {
       "symbol": "ZEC",
-      "price": 484.55,
-      "change_pct": -1.21
+      "price": 486.69,
+      "change_pct": -0.84
     },
     {
       "symbol": "TAO",
-      "price": 202.33,
-      "change_pct": 2.27
+      "price": 202.28,
+      "change_pct": 1.45
     },
     {
       "symbol": "SKY",
-      "price": 1223.41,
-      "change_pct": -0.19
+      "price": 1223.08,
+      "change_pct": -0.45
     },
     {
       "symbol": "AAVE",
-      "price": 87.63,
-      "change_pct": -0.85
-    },
-    {
-      "symbol": "BNB",
-      "price": 609.14,
-      "change_pct": 0.09
-    },
-    {
-      "symbol": "NEAR",
-      "price": 1.62,
+      "price": 88.22,
       "change_pct": -0.57
     },
     {
+      "symbol": "BNB",
+      "price": 610.33,
+      "change_pct": -0.09
+    },
+    {
+      "symbol": "NEAR",
+      "price": 1.63,
+      "change_pct": -0.87
+    },
+    {
       "symbol": "DOGE",
-      "price": 0.070251,
-      "change_pct": -0.29
+      "price": 0.070186,
+      "change_pct": -0.43
     },
     {
       "symbol": "SPACEX",
-      "price": 546.69,
-      "change_pct": -0.28
+      "price": 545.72,
+      "change_pct": -0.79
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "克莱默：吉恩·哈克曼的智慧之言如何帮助我坦然面对投资错误",
+      "summary": "这是周四举行的 CNBC 投资俱乐部 8 月月度会议的摘录。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
+      "datetime": 1786649004,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "Delio 首席执行官因韩国加密货币欺诈被判处 15 年监禁",
       "summary": "在因与加密货币公司 Delio 的活动相关的欺诈指控而被起诉一年多后，郑相浩 (Jeong Sang-ho) 在韩国面临牢狱之灾。",
       "source": "Cointelegraph",
@@ -528,7 +537,7 @@
       "related": ""
     },
     {
-      "headline": "履行合作伙伴遭受数据泄露后，Trezor 向 14,000 名客户发出警告",
+      "headline": "Trezor 在履行合作伙伴遭受数据泄露后向 14,000 名客户发出警告",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
@@ -537,7 +546,7 @@
       "related": ""
     },
     {
-      "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
+      "headline": "随着人工智能基础设施收入的增长，公共比特币矿商将算力削减了 13.4%",
       "summary": "随着运营商重新调整电力和数据中心的用途，而一小部分矿工继续扩大比特币容量，人工智能和高性能计算正在重塑挖矿经济。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -627,7 +636,7 @@
       "related": ""
     },
     {
-      "headline": "随着区块链贷款市场数量激增，数字收入翻了一番",
+      "headline": "随着区块链贷款市场数量激增，收入翻倍",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
@@ -733,15 +742,6 @@
       "datetime": 1786618224,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "三菱日联金融集团将测试日本政府债券交易的实时区块链结算",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "datetime": 1786616132,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -784,7 +784,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.6,
     "weekly_score": 16.6,
-    "btc_price": 63413.9,
+    "btc_price": 63465.2,
     "fear_greed": 36,
     "indicators": [
       {
@@ -796,7 +796,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009694,
+        "value": 0.01,
         "score": 50,
         "weight": 8,
         "group": "daily"
@@ -873,8 +873,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -78.7,
-        "score": 23,
+        "value": -77.2,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -1066,36 +1066,36 @@
         "text": "You will never be done learning about Bitcoin. https://t.co/aHGJU8RKVK",
         "url": "https://x.com/saylor/status/2087975463729676768",
         "time": "Thu Aug 13 18:51:57 +0000 2026",
-        "likes": 1430,
-        "retweets": 139
+        "likes": 1934,
+        "retweets": 180
       },
       {
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 168,
+        "likes": 172,
         "retweets": 16
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 315,
+        "likes": 321,
         "retweets": 27
       },
       {
         "text": "Digital Assets form a monetary spectrum:\n\n$BTC = Digital Capital\n$STRC = Digital Credit\nSR-strcUSX = Digital Money\n$USDT = Digital Currency\n\nFrom left to right, volatility and return potential fall while stability and transactional utility rise. https://t.co/fBCONStR73",
         "url": "https://x.com/saylor/status/2087872413631459445",
         "time": "Thu Aug 13 12:02:28 +0000 2026",
-        "likes": 2108,
-        "retweets": 289
+        "likes": 2156,
+        "retweets": 301
       },
       {
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 2896,
-        "retweets": 288
+        "likes": 2929,
+        "retweets": 292
       }
     ],
     "viktorfischer": [
@@ -1139,69 +1139,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "请随时了解周四道琼斯指数的主要动向。",
-        "url": "https://finnhub.io/api/news?id=d809f45966630d8a19facd36d00cdb710b4ed6f03d04f981ead22bea0fe9d02d",
-        "datetime": 1786648206,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "今天的交易时段发生了什么：S&P500 最活跃的股票",
-        "url": "https://finnhub.io/api/news?id=8eb74779bd42b55da4886c5f0c5441ed981ae13ba62ff3d0b55448de918848d6",
-        "datetime": 1786644301,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "SK 集团董事长并不担心 Nvidia 的依赖：这就是 SKHY 上涨 8% 的原因吗？",
-        "url": "https://finnhub.io/api/news?id=2bd48566a2bbb6fc6bcf4a286228baacb91129f570288218b0ffc7ab5d6ce331",
-        "datetime": 1786643022,
+        "headline": "为什么泛美白银股票今天暴跌",
+        "url": "https://finnhub.io/api/news?id=e788098df21cbbc12e9311901459adbde63381096872bb8810fb2c731c3ebf44",
+        "datetime": 1786650593,
         "source": "Yahoo"
       },
       {
-        "headline": "第二季度财报季即将结束。以下是投资者应该了解的内容。",
-        "url": "https://finnhub.io/api/news?id=29d3277b78edd38a2da0abfade74bf7a469051123bd40dbfe76d956d071c8511",
-        "datetime": 1786642980,
+        "headline": "亚马逊是唯一一家从未支付过股息的 3 万亿美元公司",
+        "url": "https://finnhub.io/api/news?id=b1568ef924ebb492102e73103db3ae216f8794b301ac1e0c0c732802d4ba96ed",
+        "datetime": 1786650360,
         "source": "Yahoo"
       },
       {
-        "headline": "埃隆·马斯克声称 SpaceX 的大部分收入将来自下个月的人工智能",
-        "url": "https://finnhub.io/api/news?id=af3e65c89bdeb6083c59c9501230f23d52004a43f415feed2f990097494bd3d2",
-        "datetime": 1786642621,
+        "headline": "为什么 Yeti 股价今天暴跌",
+        "url": "https://finnhub.io/api/news?id=ad948e36723ba9a5b5940706c0ea7be1c39250ddd9ebf3787a2574f8ed8f3d83",
+        "datetime": 1786649512,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "美光和闪迪的股价暴跌。这就是为什么现在是购买的最佳时机",
+        "url": "https://finnhub.io/api/news?id=a66c60c974dc928a6b0288bd351d4a1166b3d3880f784584714c022d09a74898",
+        "datetime": 1786649100,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "对于太空投资者来说，Rocket Lab 股票是比 SpaceX 更安全的选择吗？",
+        "url": "https://finnhub.io/api/news?id=1eef1780b4c89929cb78cd77550b5467dddf5b8e8928b4ef3afdcdf5cc514dc6",
+        "datetime": 1786648800,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "SK 集团董事长并不担心 Nvidia 的依赖：这就是 SKHY 上涨 8% 的原因吗？",
-        "url": "https://finnhub.io/api/news?id=2bd48566a2bbb6fc6bcf4a286228baacb91129f570288218b0ffc7ab5d6ce331",
-        "datetime": 1786643022,
+        "headline": "亚马逊是唯一一家从未支付过股息的 3 万亿美元公司",
+        "url": "https://finnhub.io/api/news?id=b1568ef924ebb492102e73103db3ae216f8794b301ac1e0c0c732802d4ba96ed",
+        "datetime": 1786650360,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌豪赌苹果证明可行",
-        "url": "https://finnhub.io/api/news?id=dd529d4057b8de03d0c3440c75bc162c182fe2285afca176e08bf6160382b9e7",
-        "datetime": 1786641598,
+        "headline": "比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 因股票发行“失败”而退出，HTZ 股价遭受重创",
+        "url": "https://finnhub.io/api/news?id=512f5c06e627570d8ec4d37330ab373169fec6269c32dd4ddc855d6949963df0",
+        "datetime": 1786649138,
         "source": "Yahoo"
       },
       {
-        "headline": "OpenAI 接替首席营收官 Denise Dresser",
-        "url": "https://finnhub.io/api/news?id=73ea42a321a068540228dc0c99b4243d073923c002488bc0cd1cb8f1de865660",
-        "datetime": 1786641425,
+        "headline": "OpenAI 营收主管离职，标志着 AI 实验室最新高管离职",
+        "url": "https://finnhub.io/api/news?id=0a2f7e1d4f2e9c354741e9c183d6c8dd894703f393609f8217f88e2b8908c452",
+        "datetime": 1786648960,
         "source": "Yahoo"
       },
       {
-        "headline": "谷歌推出 Gemini 3.7 Flash AI 模型，用于编码、代理工作流程",
-        "url": "https://finnhub.io/api/news?id=0a14a8d2d0a69545bd38da9a95ece2c4ce72e4adf7e53509928b8725c820f02f",
-        "datetime": 1786640523,
+        "headline": "高盛警告盈利门槛过高，英伟达股价上涨 7%",
+        "url": "https://finnhub.io/api/news?id=4136a4be5d63d394bd302f15c4b40dd2f32ea15387a6bf1fd6f93ecba1b90f8e",
+        "datetime": 1786648658,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊的目标价为+32%，但没有一位分析师表示卖出",
-        "url": "https://finnhub.io/api/news?id=aa77a94e3624b8ed06f561c24d9f0bbb611b573743bf2c9b73095813298982f7",
-        "datetime": 1786640406,
+        "headline": "苹果股价上涨，挪威基金披露巨额头寸",
+        "url": "https://finnhub.io/api/news?id=b919d411393dae92c480e6a371ee6d08fb0dfaad50c45a57491306f29887d719",
+        "datetime": 1786647663,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "特斯拉 100 亿美元的太阳能赌注可能会改变其能源游戏",
+        "url": "https://finnhub.io/api/news?id=90d73d119bd3db3cdc4e0bb2cc19c53b350da17f0a6ecb9a2493d456212c1f58",
+        "datetime": 1786647577,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "数百万美国人拥有 Vanguard 的 VFIAX，但不知道他们实际购买了什么",
+        "url": "https://finnhub.io/api/news?id=629160cc8accb7191f2b98287dcbdaf523826e819e007d24e6b6e3ccd34aaebf",
+        "datetime": 1786647287,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "沃尔玛、特斯拉、联邦快递以及更多航运业波涛汹涌的赢家和输家",
+        "url": "https://finnhub.io/api/news?id=35f8f5dfcd64a6217601f03de93d8dd83a499d273b7972b9d610a55f281d3c8f",
+        "datetime": 1786643580,
+        "source": "Yahoo"
+      },
       {
         "headline": "到 2025 年，特斯拉作为首席执行官的薪酬将是普通员工的 250 万倍",
         "url": "https://finnhub.io/api/news?id=6298b20b8bc7cfb2e25971aa03f77f56e528abb8a47c862f8b94d805a773e4cf",
@@ -1213,27 +1231,15 @@
         "url": "https://finnhub.io/api/news?id=ef3c96470e4cc16bcaf8dcdabfef762ab3dbfa61e824d1aff4839ec2c4a078b4",
         "datetime": 1786635021,
         "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉 2026 年股价下跌 26%，落后于七大同行。以下是可以扭转局面的方法。",
-        "url": "https://finnhub.io/api/news?id=257795459ce8bc604963d97050787202252d82e7f5a4147c5be2d0ff7f6e6705",
-        "datetime": 1786633513,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "加里·布莱克 (Gary Black) 表示特斯拉需要在品牌方面下功夫：“如果没有出色的营销，苹果就不会成为一家市值 4.4 吨的公司”",
-        "url": "https://finnhub.io/api/news?id=0aadbd549abb948e74d16f585af1f14d3473f17ecb61a39bd7d6e84203f7bd66",
-        "datetime": 1786633111,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么特斯拉不需要赢得中国残酷的电动汽车价格战",
-        "url": "https://finnhub.io/api/news?id=4d0a78ea3ffa7b37e0408e28bce02277505a02476d154eae89a752371d2c9ebe",
-        "datetime": 1786629000,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Fortinet 公布好于预期的第四季度财务业绩以及第一季度和 2026 财年展望后，股价上涨。此外，罗森布拉特将该股目标价从 100 美元上调至 105 美元。",
+        "url": "https://finnhub.io/api/news?id=17adf0d15ec4079a9bb0faf5213b615bec6367c802fd3b9c203d6f8ad2dd2679",
+        "datetime": 1786634495,
+        "source": "Benzinga"
+      },
       {
         "headline": "Virtus Silvant 中型成长基金 2026 年第二季度投资组合更新",
         "url": "https://finnhub.io/api/news?id=742a92860e4a55cf011c33e3438b28c8463ed52dc0f16c3874ce37cf62f4bb80",
@@ -1256,12 +1262,6 @@
         "headline": "摩根士丹利维持对 Circle Internet Group 的减持，并将目标价下调至 37 美元",
         "url": "https://finnhub.io/api/news?id=e8325d52f8508d04823ba25e57c8588f8867cdd167cd2f80e6ff6e37ae25d72c",
         "datetime": 1786023855,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "两位分析师下调了 Circle 价格目标——这就是他们仍然保持看涨的原因",
-        "url": "https://finnhub.io/api/news?id=617a8338029ea310f576c2fd3497dc7f778edcd423c0735daf357def0675da34",
-        "datetime": 1786010497,
         "source": "Benzinga"
       }
     ],
@@ -1287,7 +1287,7 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
+        "headline": "随着人工智能基础设施收入的增长，公共比特币矿商将算力削减了 13.4%",
         "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786636823,
         "source": "Cointelegraph"
