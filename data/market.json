@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-08-13T15:52:31.161Z",
+  "updated_at": "2026-08-13T16:47:17.347Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 713.24,
-      "change_pct": 0.43
+      "price": 713.77,
+      "change_pct": 0.51
     },
     {
       "symbol": "QQQ",
-      "price": 730.62,
-      "change_pct": 0.96
+      "price": 731.79,
+      "change_pct": 1.12
     },
     {
       "symbol": "QQQM",
-      "price": 300.84,
-      "change_pct": 0.96
+      "price": 301.34,
+      "change_pct": 1.13
     },
     {
       "symbol": "NVDA",
-      "price": 224.58,
-      "change_pct": 0.22
+      "price": 225.06,
+      "change_pct": 0.43
     },
     {
       "symbol": "TSLA",
-      "price": 333.45,
-      "change_pct": 1.81
+      "price": 335.12,
+      "change_pct": 2.32
     },
     {
       "symbol": "GOOG",
-      "price": 343.38,
-      "change_pct": 0.29
+      "price": 344.21,
+      "change_pct": 0.54
     },
     {
       "symbol": "RKLB",
@@ -38,23 +38,23 @@
     },
     {
       "symbol": "CRCL",
-      "price": 71.19,
-      "change_pct": -0.13
+      "price": 70.58,
+      "change_pct": -0.98
     },
     {
       "symbol": "PLTR",
-      "price": 175.29,
-      "change_pct": 2.48
+      "price": 175.08,
+      "change_pct": 2.36
     },
     {
       "symbol": "MSTR",
-      "price": 96.33,
-      "change_pct": 1.58
+      "price": 94.44,
+      "change_pct": -0.41
     },
     {
       "symbol": "GLD",
-      "price": 400.74,
-      "change_pct": -1.03
+      "price": 400.48,
+      "change_pct": -1.1
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63579,
-      "change_pct": 0.2
+      "price": 62822,
+      "change_pct": -0.98
     },
     {
       "symbol": "ETH",
-      "price": 1886.25,
-      "change_pct": -0.28
+      "price": 1863.27,
+      "change_pct": -1.42
     },
     {
       "symbol": "SOL",
-      "price": 75.91,
-      "change_pct": 0.27
+      "price": 75.13,
+      "change_pct": -0.56
     },
     {
       "symbol": "HYPE",
-      "price": 57.95,
-      "change_pct": 2.84
+      "price": 57.4,
+      "change_pct": 1.85
     },
     {
       "symbol": "ZEC",
-      "price": 490.66,
-      "change_pct": 1.19
+      "price": 483.28,
+      "change_pct": -0.33
     },
     {
       "symbol": "TAO",
-      "price": 200.91,
-      "change_pct": 0.55
+      "price": 198.13,
+      "change_pct": -0.77
     },
     {
       "symbol": "SKY",
-      "price": 1223.28,
-      "change_pct": -0.55
+      "price": 1208.57,
+      "change_pct": -1.61
     },
     {
       "symbol": "AAVE",
-      "price": 87.98,
-      "change_pct": -1.6
+      "price": 86.99,
+      "change_pct": -2.51
     },
     {
       "symbol": "BNB",
-      "price": 608.03,
-      "change_pct": -0.4
+      "price": 605.38,
+      "change_pct": -0.74
     },
     {
       "symbol": "NEAR",
-      "price": 1.65,
-      "change_pct": 0.95
+      "price": 1.63,
+      "change_pct": -0.37
     },
     {
       "symbol": "DOGE",
-      "price": 0.069853,
-      "change_pct": -1.34
+      "price": 0.069579,
+      "change_pct": -1.71
     },
     {
       "symbol": "SPACEX",
-      "price": 546.29,
-      "change_pct": 2.79
+      "price": 546.19,
+      "change_pct": 4.07
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
+      "summary": "随着运营商重新调整电力和数据中心的用途，而一小部分矿工继续扩大比特币容量，人工智能和高性能计算正在重塑挖矿经济。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786636823,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "第二季度调整后 EBITDA 增长三倍以上，看涨股价上涨 10%",
       "summary": "随着调整后的 EBITDA 增加两倍以上，订阅和服务收入创下历史新高，这家加密货币交易所运营商的股价上涨了约 10%。",
       "source": "Cointelegraph",
@@ -497,6 +506,24 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786633658,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币顾问：加密货币建议差距",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+      "datetime": 1786633200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "B2C2 聘请施罗德资深人士追逐亚洲不断增长的加密货币财富",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "datetime": 1786632218,
       "category": "crypto",
       "related": ""
     },
@@ -654,7 +681,7 @@
       "related": ""
     },
     {
-      "headline": "币安 bStocks 超越 xStocks 成为第二大代币化股票发行商",
+      "headline": "币安 bStocks 超过 xStocks 成为第二大代币化股票发行商",
       "summary": "Binance bStocks 在推出后不到两个月就成为第二大代币化股票发行商，以微弱优势领先于 Kraken 的 xStocks。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -715,33 +742,6 @@
       "datetime": 1786609741,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "BitGo 第二季度亏损 1900 万美元，尽管收入飙升 80% 至 $4.3B",
-      "summary": "1880 万美元的未实现数字资产损失和交易利润率下降导致 BitGo 在第二季度陷入亏损。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786606979,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国铜业分部成为 FINRA 成员、SEC 注册经纪自营商",
-      "summary": "Copper Markets US 在获得美国监管后将提供合格的托管、质押、融资和场外交易服务。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786605259,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Hyperscale Data建立密歇根人工智能发展储备账户并计划每月提供密歇根人工智能基础设施进展报告",
-      "summary": "根据先前宣布的主服务协议，客户已存入约 1,060 万美元；公司预计获得 1.2 亿美元的专用开发资本 拉斯维加斯，2026 年 6 月 29 日 /美通社/ — Hyperscale Data, Inc.（纽约证券交易所股票代码：GPUS），一家人工智能 (“AI”) 数据中心",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/hyperscale-data-establishes-michigan-ai-development-reserve-account-and-plan-to-provide-monthly-michigan-ai-infrastructure-progress-reports/",
-      "datetime": 1786601675,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,12 +779,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.3,
+    "score": 32.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 17.4,
-    "btc_price": 63641.2,
+    "daily_score": 16.2,
+    "weekly_score": 16.4,
+    "btc_price": 62875,
     "fear_greed": 36,
     "indicators": [
       {
@@ -796,15 +796,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00803,
+        "value": 0.007164,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.68,
-        "score": 79,
+        "value": 1.76,
+        "score": 84,
         "weight": 5,
         "group": "daily"
       },
@@ -866,15 +866,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.8,
-        "score": 26,
+        "value": 35,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -6,
-        "score": 43,
+        "value": -89.8,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1043,7 +1043,7 @@
         "text": "think over a ~3 year time horizon crypto will meaningfully outperform stonks,\n\nand zcash will outperform the rest of the crypto",
         "url": "https://x.com/QwQiao/status/2074438929122472420",
         "time": "Tue Jul 07 10:22:36 +0000 2026",
-        "likes": 643,
+        "likes": 644,
         "retweets": 37
       }
     ],
@@ -1052,36 +1052,36 @@
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 140,
-        "retweets": 13
+        "likes": 147,
+        "retweets": 14
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 251,
-        "retweets": 20
+        "likes": 269,
+        "retweets": 24
       },
       {
         "text": "Digital Assets form a monetary spectrum:\n\n$BTC = Digital Capital\n$STRC = Digital Credit\nSR-strcUSX = Digital Money\n$USDT = Digital Currency\n\nFrom left to right, volatility and return potential fall while stability and transactional utility rise. https://t.co/fBCONStR73",
         "url": "https://x.com/saylor/status/2087872413631459445",
         "time": "Thu Aug 13 12:02:28 +0000 2026",
-        "likes": 1713,
-        "retweets": 221
+        "likes": 1853,
+        "retweets": 247
       },
       {
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 2482,
-        "retweets": 247
+        "likes": 2623,
+        "retweets": 261
       },
       {
         "text": "Bitcoin is for everyone. https://t.co/nBLx41I5wk",
         "url": "https://x.com/saylor/status/2087625514999578716",
         "time": "Wed Aug 12 19:41:23 +0000 2026",
-        "likes": 4421,
-        "retweets": 402
+        "likes": 4496,
+        "retweets": 409
       }
     ],
     "viktorfischer": [
@@ -1103,7 +1103,7 @@
         "text": "Explanation of the estimate of $90bn crypto market size growing to $300bn in 5 years - presented at @SolanaEvents last May in Miami",
         "url": "https://x.com/viktorfischer/status/2087735631221047366",
         "time": "Thu Aug 13 02:58:57 +0000 2026",
-        "likes": 7,
+        "likes": 8,
         "retweets": 0
       },
       {
@@ -1125,97 +1125,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "特朗普考虑实施全新减税政策，美国 7 月预算赤字飙升至 4,323 亿美元",
-        "url": "https://finnhub.io/api/news?id=427532ae90cfdf6914189dad06ec6600b4eff4be4ad06ea64a0649feb7fccd0a",
-        "datetime": 1786628704,
+        "headline": "为什么直观机器股票今天下跌",
+        "url": "https://finnhub.io/api/news?id=964f9d13993b862a53cbdf015e12c50602680321f7801651f2b2616ef3b8a185",
+        "datetime": 1786635905,
         "source": "Yahoo"
       },
       {
-        "headline": "家庭债务六年来首次下降——这就是为什么这是坏消息",
-        "url": "https://finnhub.io/api/news?id=978d1b2f4e506338e96bb5d120efe59df4ea414b0f88aefdc47f0963d7b80cb7",
-        "datetime": 1786628644,
+        "headline": "只要继续关注 CoreWeave 的资金飙升",
+        "url": "https://finnhub.io/api/news?id=899f317cfe8f3aef636d237f75a6dd9802447fc2e26a90009bcca112428b8fdb",
+        "datetime": 1786635818,
         "source": "Yahoo"
       },
       {
-        "headline": "Latigo Biotherapeutics 首次公开募股的内部：非阿片类止痛药物上市",
-        "url": "https://finnhub.io/api/news?id=f9ed0860d21fac5b45889bb5f7d101977f12066b6c9bab95f6a065bf9ebbfa7a",
-        "datetime": 1786628127,
+        "headline": "华尔街将 Nvidia GPU 视为永远的现金流机器。这就是打破这种幻想的方法",
+        "url": "https://finnhub.io/api/news?id=6e9083a3ae1fdc78d680aee7ccc0c08b6180f8f464258ff34adcbe70b13b33a3",
+        "datetime": 1786635775,
         "source": "Yahoo"
       },
       {
-        "headline": "阿彻航空首席执行官向投资者发出强劲的前景信号",
-        "url": "https://finnhub.io/api/news?id=96b861e1fb97a340117da82bfe92740ffc54d01097a83e4728f1a534a745a745",
-        "datetime": 1786628100,
+        "headline": "Nvidia，IBD 今日股票，在第二季度财报公布前接近买入点",
+        "url": "https://finnhub.io/api/news?id=40a9fa919f0352b78d14e335fdaa8a41e93a08a5e4e0f4dae4745ccf7d03a6a3",
+        "datetime": 1786635722,
         "source": "Yahoo"
       },
       {
-        "headline": "最大的芯片股收益率均低于 1%。这就是现金的实际去向。",
-        "url": "https://finnhub.io/api/news?id=8e5f063d0a9ac7519e8641eb906abfe19b61380b6837ad20c13bf8d9cb29e8c0",
-        "datetime": 1786627920,
+        "headline": "Jim Cramer 表示 Nvidia GPU 比汽车“更像精美珠宝”。这就是为什么这对 NVDA 投资者很重要。",
+        "url": "https://finnhub.io/api/news?id=871c36cb1fd3795872dbe1b009c371694428e518afd75be9e85ed1c226690743",
+        "datetime": 1786635718,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Steve Eisman 警告 AI 繁荣取决于 OpenAI 和 Anthropic",
-        "url": "https://finnhub.io/api/news?id=70adda6985a60719db0c22bab4d1b4919309c3380c6955571c9e3415ad96d122",
-        "datetime": 1786629088,
+        "headline": "预测：Alphabet 2000 亿美元的赌注将带来巨大的利润增长",
+        "url": "https://finnhub.io/api/news?id=3807bafba725539fe09505c9ca05c4ec764438d58886c1103785c9e99d3d2e69",
+        "datetime": 1786635540,
         "source": "Yahoo"
       },
       {
-        "headline": "Google、Meta、Reddit、Snap 和 TikTok for Business Workspaces 扩大 Kochava 生态系统动力 StationOne™",
-        "url": "https://finnhub.io/api/news?id=b9a76a6ba7b18d632b4e8e48876af38edcdaee1e3e3fe9bacbef5b7df9982dd7",
-        "datetime": 1786627800,
+        "headline": "“大空头”史蒂夫·艾斯曼表示，中国的人工智能模型是人工智能贸易的“阿喀琉斯之踵”",
+        "url": "https://finnhub.io/api/news?id=1f1a9a362dd96f796cbf8894491e6550478d828a876827c1a9f60960b478fe0b",
+        "datetime": 1786635213,
         "source": "Yahoo"
       },
       {
-        "headline": "如果 Anthropic 股票像 SpaceX 一样交易，投资者可能希望他们拥有 Alphabet",
-        "url": "https://finnhub.io/api/news?id=686674c5eab0f4a09ae89422f6cc288883a017f183d65e5dcfd20e39468ebb06",
-        "datetime": 1786626300,
+        "headline": "谷歌成为最新一家因内存短缺而提价的公司",
+        "url": "https://finnhub.io/api/news?id=7b47feade36c3f1afb7f5f31c58bf704c74251335928767f8c0213fef99f612e",
+        "datetime": 1786633804,
         "source": "Yahoo"
       },
       {
-        "headline": "该基金针对 Alphabet (GOOG) 激进的人工智能支出而加大力度",
-        "url": "https://finnhub.io/api/news?id=4ed36a1fd6380750e4665acdeb01463a161c7431b80587adcd298e2d256644a1",
-        "datetime": 1786626103,
+        "headline": "广告研究基金会公布 2026 年 ARF 大卫奥美奖入围名单",
+        "url": "https://finnhub.io/api/news?id=52bfa7e35dde7a9ac989f6330dfa4e876871b264aac6960fbbbe3c1c17a70378",
+        "datetime": 1786633320,
         "source": "Yahoo"
       },
       {
-        "headline": "随着品牌转向创意主导型增长，New Engen 宣布赢得包括 Arena Club 在内的一系列新客户",
-        "url": "https://finnhub.io/api/news?id=11e9d34ed1c8de45ed6fe6446c9c4b0fd480588a37a37669da7b34d763234805",
-        "datetime": 1786626000,
+        "headline": "Michael Burry再次敲响警钟：人工智能是一个循环融资网，英伟达处于中间",
+        "url": "https://finnhub.io/api/news?id=66f95d163eb2238749ca63efc77d996e95d078cc9330c1dec8a78505c6644a4e",
+        "datetime": 1786632114,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "更多分析师对特斯拉表示“持有”而不是“买入”。不管怎样，价格目标还是上涨了。",
+        "url": "https://finnhub.io/api/news?id=ef3c96470e4cc16bcaf8dcdabfef762ab3dbfa61e824d1aff4839ec2c4a078b4",
+        "datetime": 1786635021,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉 2026 年股价下跌 26%，落后于七大同行。以下是可以扭转局面的方法。",
+        "url": "https://finnhub.io/api/news?id=257795459ce8bc604963d97050787202252d82e7f5a4147c5be2d0ff7f6e6705",
+        "datetime": 1786633513,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "为什么特斯拉不需要赢得中国残酷的电动汽车价格战",
+        "url": "https://finnhub.io/api/news?id=4d0a78ea3ffa7b37e0408e28bce02277505a02476d154eae89a752371d2c9ebe",
+        "datetime": 1786629000,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉和 SpaceX 生态系统：真正的协同效应还是关联方需求？",
+        "url": "https://finnhub.io/api/news?id=9f27d5c10f05d93a362e34c41ccf89d7e834a38cf59773ceefafec9d9c95bb64",
+        "datetime": 1786627560,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Virtuix 将在 Sidoti 投资者大会上强调加速国防、机器人和医疗保健领域的消费者增长和扩张",
         "url": "https://finnhub.io/api/news?id=45f85bf8ada6db053a761dd60b2ab0ec00ccbbc960f091734cb94499f790a6f9",
         "datetime": 1786627020,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "特斯拉股票为何陷入困境——以及什么可以让它重振雄风",
-        "url": "https://finnhub.io/api/news?id=215225068bc053cd9550eb350eb25d7ff738bfcc772579be6eee20a90ddb5435",
-        "datetime": 1786625220,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Alloy Robotics 筹集 800 万美元，帮助工程师使用 AI 代理调试机器人车队",
-        "url": "https://finnhub.io/api/news?id=b432cd7b492e1bfbfbc636036c52eda0938f800ce3d21e25a89c825198b16ffa",
-        "datetime": 1786624620,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "加里·布莱克 (Gary Black) 对特斯拉的战略提出质疑，因为 Robotaxi 车队的车辆数量仍停留在 90-100 辆之间：“什么才能改变这一现状？”",
-        "url": "https://finnhub.io/api/news?id=4dd1d8f02641d36c1c9acfb61b64dd2c5abb0a44f3606d0b1a7ed4582d140ce2",
-        "datetime": 1786623331,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "本周能源转型——欧洲最大的电池在苏格兰启动",
-        "url": "https://finnhub.io/api/news?id=7b36873870b38cee0466606c291de9680a0a963c9066a7be67794b9ca8597393",
-        "datetime": 1786621023,
         "source": "Yahoo"
       }
     ],
@@ -1267,6 +1267,12 @@
     ],
     "BTC": [
       {
+        "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
+        "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786636823,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "随着美国生产者物价指数 (PPI) 数据走强，股市上涨，交易员猜测比特币价格接近 6.4 万美元",
         "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786633658,
@@ -1289,12 +1295,6 @@
         "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
         "datetime": 1786613992,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币投机者将 BTC 价格“固定”在 6.87 万美元以下：Glassnode",
-        "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786613836,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
