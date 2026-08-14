@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T23:33:38.729Z",
+  "updated_at": "2026-08-14T01:13:50.165Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63429,
-      "change_pct": 0.08
+      "price": 63460,
+      "change_pct": -0.13
     },
     {
       "symbol": "ETH",
-      "price": 1884.64,
-      "change_pct": 0.49
+      "price": 1885.42,
+      "change_pct": 0.32
     },
     {
       "symbol": "SOL",
-      "price": 76.16,
-      "change_pct": 0.94
+      "price": 75.94,
+      "change_pct": 0.41
     },
     {
       "symbol": "HYPE",
-      "price": 57.34,
-      "change_pct": 2.53
+      "price": 57.44,
+      "change_pct": 2
     },
     {
       "symbol": "ZEC",
-      "price": 488.74,
-      "change_pct": -0.12
+      "price": 490.13,
+      "change_pct": -0.72
     },
     {
       "symbol": "TAO",
-      "price": 203.04,
-      "change_pct": 1.64
+      "price": 201.95,
+      "change_pct": 1.01
     },
     {
       "symbol": "SKY",
-      "price": 1227.64,
-      "change_pct": 0.7
+      "price": 1275.92,
+      "change_pct": 4.37
     },
     {
       "symbol": "AAVE",
-      "price": 88.5,
-      "change_pct": 0.72
+      "price": 88.33,
+      "change_pct": 0.24
     },
     {
       "symbol": "BNB",
-      "price": 610.43,
-      "change_pct": 0.07
+      "price": 610.02,
+      "change_pct": -0.11
     },
     {
       "symbol": "NEAR",
-      "price": 1.64,
-      "change_pct": 0.19
+      "price": 1.62,
+      "change_pct": -1.15
     },
     {
       "symbol": "DOGE",
-      "price": 0.070025,
-      "change_pct": 0.79
+      "price": 0.070128,
+      "change_pct": 0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 546.45,
-      "change_pct": -4.07
+      "price": 539.69,
+      "change_pct": -5.25
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "以太坊基金会在后量子计划中放弃波塞冬",
+      "summary": "研究人员贾斯汀·德雷克 (Justin Drake) 表示，紧凑证明的进步已经消除了 Poseidon 之前的性能优势。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786664096,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "由于华尔街和白宫的担忧，美国证券交易委员会再次推迟代币化的“创新豁免”",
       "summary": "",
       "source": "CoinDesk",
@@ -582,7 +591,7 @@
       "related": ""
     },
     {
-      "headline": "Trezor 在履行合作伙伴遭受数据泄露后向 14,000 名客户发出警告",
+      "headline": "履行合作伙伴遭受数据泄露后，Trezor 向 14,000 名客户发出警告",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
@@ -591,7 +600,7 @@
       "related": ""
     },
     {
-      "headline": "随着人工智能基础设施收入的增长，公共比特币矿商将算力削减了 13.4%",
+      "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
       "summary": "随着运营商重新调整电力和数据中心的用途，而一小部分矿工继续扩大比特币容量，人工智能和高性能计算正在重塑挖矿经济。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -681,7 +690,7 @@
       "related": ""
     },
     {
-      "headline": "随着区块链贷款市场数量激增，收入翻倍",
+      "headline": "随着区块链贷款市场数量激增，数字收入翻了一番",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
@@ -733,15 +742,6 @@
       "datetime": 1786622427,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "SEC 允许富兰克林邓普顿基金投资链上货币基金",
-      "summary": "美国证券交易委员会表示，如果富兰克林邓普顿的基金开始向该资产管理公司自己的代币化货币市场基金投资现金，美国证券交易委员会将不会采取执法行动。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786621717,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,39 +779,39 @@
     }
   ],
   "btc_score": {
-    "score": 33.7,
+    "score": 33,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17,
-    "weekly_score": 16.7,
-    "btc_price": 63495,
-    "fear_greed": 36,
+    "daily_score": 16.2,
+    "weekly_score": 16.8,
+    "btc_price": 63522.1,
+    "fear_greed": 37,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 400000,
-        "score": 50,
+        "value": -125400000,
+        "score": 42,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.009066,
+        "value": 0.009502,
         "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.85,
-        "score": 90,
+        "value": 1.87,
+        "score": 91,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 36,
-        "score": 36,
+        "value": 37,
+        "score": 37,
         "weight": 7,
         "group": "daily"
       },
@@ -866,15 +866,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.6,
+        "value": 35.7,
         "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -72.2,
-        "score": 25,
+        "value": -60.9,
+        "score": 28,
         "weight": 4,
         "group": "weekly"
       }
@@ -883,7 +883,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 34
+      "days_until": 33
     },
     "schedule": [
       "2025-01-29",
@@ -1066,36 +1066,36 @@
         "text": "You will never be done learning about Bitcoin. https://t.co/aHGJU8RKVK",
         "url": "https://x.com/saylor/status/2087975463729676768",
         "time": "Thu Aug 13 18:51:57 +0000 2026",
-        "likes": 3191,
-        "retweets": 287
+        "likes": 3544,
+        "retweets": 314
       },
       {
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 180,
+        "likes": 182,
         "retweets": 17
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 342,
+        "likes": 345,
         "retweets": 29
       },
       {
         "text": "Digital Assets form a monetary spectrum:\n\n$BTC = Digital Capital\n$STRC = Digital Credit\nSR-strcUSX = Digital Money\n$USDT = Digital Currency\n\nFrom left to right, volatility and return potential fall while stability and transactional utility rise. https://t.co/fBCONStR73",
         "url": "https://x.com/saylor/status/2087872413631459445",
         "time": "Thu Aug 13 12:02:28 +0000 2026",
-        "likes": 2312,
-        "retweets": 324
+        "likes": 2381,
+        "retweets": 333
       },
       {
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 3050,
-        "retweets": 308
+        "likes": 3100,
+        "retweets": 310
       }
     ],
     "viktorfischer": [
@@ -1103,14 +1103,14 @@
         "text": "Alpenglow 🗻🌟 on @solana mainnet at the end of Sept🤞🚀 https://t.co/uQFKSgWct9",
         "url": "https://x.com/viktorfischer/status/2087951800267833533",
         "time": "Thu Aug 13 17:17:56 +0000 2026",
-        "likes": 6,
+        "likes": 7,
         "retweets": 0
       },
       {
         "text": "Solana is where founders go to make money 💵 with their apps 🚀",
         "url": "https://x.com/viktorfischer/status/2087857960777318727",
         "time": "Thu Aug 13 11:05:03 +0000 2026",
-        "likes": 6,
+        "likes": 7,
         "retweets": 0
       },
       {
@@ -1139,73 +1139,85 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "富达 (Fidelity) 的反向基金 FCNTX 与大众对赌，并获得了巨大的成功",
-        "url": "https://finnhub.io/api/news?id=8fd9ab5b9f93dcf3a7bb6363af7368aa7f680fa85d1ac4e677af32dd8d8b6660",
-        "datetime": 1786657844,
+        "headline": "1 个令人瞠目结舌的指标说明了为什么亚马逊是人工智能军备竞赛中不可忽视的力量",
+        "url": "https://finnhub.io/api/news?id=a8694d0c4cb44f128fff232a9623985e64b51994ba87eff8ba7f5c4ad2d3f3d5",
+        "datetime": 1786664760,
         "source": "Yahoo"
       },
       {
-        "headline": "股市刚刚发出了之前只出现过 5 次的警告。历史对于接下来发生的事情一清二楚（提示：这不好）。",
-        "url": "https://finnhub.io/api/news?id=cd6767d22cd3d4da92d4e214858e9eed1ef45c6c5db542682fd411d9057d5336",
-        "datetime": 1786657800,
+        "headline": "亿万富翁比尔·阿克曼 (Bill Ackman) 刚刚将潘兴广场资本管理公司 (Pershing Square Capital Management) 投资组合的 5% 投资于 Netflix。投资者应该效仿吗？",
+        "url": "https://finnhub.io/api/news?id=044a6b97ee36ac25510962f534910236f7abb6f5db979aa4b9f2c5f54f568c01",
+        "datetime": 1786662753,
         "source": "Yahoo"
       },
       {
-        "headline": "为什么 StubHub 股票今天下跌 10%",
-        "url": "https://finnhub.io/api/news?id=4fc3e6c7bad1a0b47c7e2e0cd8eca337704da1c9d5634ebf27f6b4e09cfdda98",
-        "datetime": 1786657482,
+        "headline": "CoreWeave 在价格上取胜并与自己的利息法案竞争",
+        "url": "https://finnhub.io/api/news?id=b85e7b23e0231fb9d02c8eb65a31bf84cf89e0096fd1421f8036323170e16006",
+        "datetime": 1786661553,
         "source": "Yahoo"
       },
       {
-        "headline": "华盛顿共同投资者基金 (AWSHX) 拒绝购买某些股票。这就是重点",
-        "url": "https://finnhub.io/api/news?id=08a9afa87625168a60ed8bd997ec76718406b29946f47275a0f1214dc6f432e2",
-        "datetime": 1786656643,
+        "headline": "为什么杂货店库存今天上涨",
+        "url": "https://finnhub.io/api/news?id=87bc2c80815d4fbbbdb5d4965be48032ccb3d5e644e9b6c697bdf93a7e542159",
+        "datetime": 1786661480,
         "source": "Yahoo"
       },
       {
-        "headline": "Creative Realities, Inc. 2026 年第二季度收益电话会议摘要",
-        "url": "https://finnhub.io/api/news?id=c08f4efa855ef4c25c085917aad8c8c47e8b1a866d7fcd559a338bbbaf4afd75",
-        "datetime": 1786656328,
+        "headline": "Netflix 股价下跌 39%，你应该逢低买入吗？",
+        "url": "https://finnhub.io/api/news?id=609e47aefd134e66ff305b79a4675d9ce764be652ed60f3eca4e224788be2bfb",
+        "datetime": 1786660140,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "OpenAI 新任营收官来自 Alphabet 的 Wiz",
-        "url": "https://finnhub.io/api/news?id=1fddc9e7e42a9fdd628ac7985a476e301b1b61f906250a57b2d02f319cd35764",
-        "datetime": 1786652090,
+        "headline": "尽管谷歌人工智能流量存在问题，Reddit 股票仍因标普 500 指数上涨而上涨 11%",
+        "url": "https://finnhub.io/api/news?id=8779c6371be369a612911e24be9a229182268618d00f42c948bdb46e63729cd4",
+        "datetime": 1786661717,
         "source": "Yahoo"
       },
       {
-        "headline": "自 2004 年以来，比尔·阿克曼 (Bill Ackman) 的潘兴广场 (Pershing Square) 实现了 15.9% 的年化回报率，每年比标准普尔 500 指数高出 5 个点以上。可以继续吗？",
-        "url": "https://finnhub.io/api/news?id=7298076b52707ebbb037d4a536a65fa54f2d228616a6c6ab31a518352f8daf11",
-        "datetime": 1786651980,
+        "headline": "CoreWeave 在价格上取胜并与自己的利息法案竞争",
+        "url": "https://finnhub.io/api/news?id=b85e7b23e0231fb9d02c8eb65a31bf84cf89e0096fd1421f8036323170e16006",
+        "datetime": 1786661553,
         "source": "Yahoo"
       },
       {
-        "headline": "Vanguard 的 VINIX 很有可能出现在您的 401(k) 计划中，而您却从未听说过它",
-        "url": "https://finnhub.io/api/news?id=d6dcb4bd3ffe3274d947de710d6268237b3f0c71a859945f4def3cc4d1620203",
-        "datetime": 1786651871,
+        "headline": "Reddit 股价本月晚些时候因纳入标普 500 指数而飙升",
+        "url": "https://finnhub.io/api/news?id=df74461fa32777da7648704a62412957f1c8b31eefed8a37f41062c37ae03de1",
+        "datetime": 1786658977,
         "source": "Yahoo"
       },
       {
-        "headline": "伯克希尔在第二季度购买了 Alphabet 股票，也许微软也购买了",
-        "url": "https://finnhub.io/api/news?id=ed31018989bcab2d566ca7b23639ee1caf7b35bac8d43b45e716c1a62d0ff443",
-        "datetime": 1786651620,
+        "headline": "David Abrams 2026 年第二季度的重大举措：Alphabet Inc 对投资组合的影响为 -3.07%",
+        "url": "https://finnhub.io/api/news?id=0d2591332fb13f72653fd0fe7722d7a0aa764752fe447aa515366e1cc13f77fa",
+        "datetime": 1786658512,
         "source": "Yahoo"
       },
       {
-        "headline": "Gemini 与 Zocdoc 推出人工智能预约医生",
-        "url": "https://finnhub.io/api/news?id=bae8b34106631d354f1e6e8a7e57c4af2039050c0da7448d2178f8a6e09c4d8a",
-        "datetime": 1786651172,
-        "source": "Yahoo"
+        "headline": "追踪 David Abrams 的 Abrams 资本管理投资组合 - 2026 年第 2 季度更新",
+        "url": "https://finnhub.io/api/news?id=1b17208bf56d937d30708d86cd81c097347d8c60e1290203ae9824521fa9c3b2",
+        "datetime": 1786653754,
+        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
       {
+        "headline": "瑞典工会结束特斯拉收购后近三年的罢工，特斯拉股价上涨",
+        "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
+        "datetime": 1786658320,
+        "source": "Yahoo"
+      },
+      {
         "headline": "迈克尔·伯里 (Michael Burry) 增持 QQQ 看跌期权，增加 MU 空头头寸，为“更大跌幅”做好准备——以下是他对 NVDA、PLTR 和 TSLA 所做的操作",
         "url": "https://finnhub.io/api/news?id=65330279aa584ddf1e94bf6d68f335b212b9fe35d33379aa257ce70ca1015094",
         "datetime": 1786651987,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "运输紧缩变得更加严重。这对沃尔玛、特斯拉等意味着什么。",
+        "url": "https://finnhub.io/api/news?id=482d348fe2a049aa69dbc768dfc1b42ac98abbe254121a4ffe6cc1f21084bdcf",
+        "datetime": 1786650420,
         "source": "Yahoo"
       },
       {
@@ -1219,18 +1231,6 @@
         "url": "https://finnhub.io/api/news?id=b6b8ed0a452d6c40cc8019e8f1c4fcd1e0ea4fd5e8902396f3dc4ca0318798fe",
         "datetime": 1786648010,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "特斯拉 100 亿美元的太阳能赌注可能会改变其能源游戏",
-        "url": "https://finnhub.io/api/news?id=90d73d119bd3db3cdc4e0bb2cc19c53b350da17f0a6ecb9a2493d456212c1f58",
-        "datetime": 1786647577,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "数百万美国人拥有 Vanguard 的 VFIAX，但不知道他们实际购买了什么",
-        "url": "https://finnhub.io/api/news?id=629160cc8accb7191f2b98287dcbdaf523826e819e007d24e6b6e3ccd34aaebf",
-        "datetime": 1786647287,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1257,12 +1257,6 @@
         "url": "https://finnhub.io/api/news?id=b9544ba52b047b5d05047164de47415931708aa920d744f5d5aa4609f2ac54a4",
         "datetime": 1786086600,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "摩根士丹利维持对 Circle Internet Group 的减持，并将目标价下调至 37 美元",
-        "url": "https://finnhub.io/api/news?id=e8325d52f8508d04823ba25e57c8588f8867cdd167cd2f80e6ff6e37ae25d72c",
-        "datetime": 1786023855,
-        "source": "Benzinga"
       }
     ],
     "LKNCY": [
@@ -1287,7 +1281,7 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "随着人工智能基础设施收入的增长，公共比特币矿商将算力削减了 13.4%",
+        "headline": "随着人工智能基础设施收入的增长，公共比特币矿工将算力削减了 13.4%",
         "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786636823,
         "source": "Cointelegraph"
@@ -1312,6 +1306,12 @@
       }
     ],
     "ETH": [
+      {
+        "headline": "以太坊基金会在后量子计划中放弃波塞冬",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786664096,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "富达向 SEC 提交文件，增加以太坊 ETF 的质押",
         "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
