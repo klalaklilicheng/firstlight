@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T05:38:57.879Z",
+  "updated_at": "2026-08-14T07:12:20.051Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63282,
-      "change_pct": -0.89
+      "price": 62992,
+      "change_pct": -1.36
     },
     {
       "symbol": "ETH",
-      "price": 1881.14,
-      "change_pct": -0.78
+      "price": 1873.45,
+      "change_pct": -1.22
     },
     {
       "symbol": "SOL",
-      "price": 75.85,
-      "change_pct": -0.61
+      "price": 75.5,
+      "change_pct": -1.19
     },
     {
       "symbol": "HYPE",
-      "price": 56.88,
-      "change_pct": -0.34
+      "price": 56.41,
+      "change_pct": -1.69
     },
     {
       "symbol": "ZEC",
-      "price": 490.24,
-      "change_pct": -1.44
+      "price": 487.91,
+      "change_pct": -1.74
     },
     {
       "symbol": "TAO",
-      "price": 200.95,
-      "change_pct": 0.26
+      "price": 199.76,
+      "change_pct": -0.06
     },
     {
       "symbol": "SKY",
-      "price": 1271.03,
-      "change_pct": 3.37
+      "price": 1290.53,
+      "change_pct": 4.92
     },
     {
       "symbol": "AAVE",
-      "price": 87.82,
-      "change_pct": -0.86
+      "price": 87.21,
+      "change_pct": -2.4
     },
     {
       "symbol": "BNB",
-      "price": 609.8,
-      "change_pct": -0.6
+      "price": 608.21,
+      "change_pct": -0.81
     },
     {
       "symbol": "NEAR",
-      "price": 1.62,
-      "change_pct": -2.95
+      "price": 1.61,
+      "change_pct": -3.69
     },
     {
       "symbol": "DOGE",
-      "price": 0.069956,
-      "change_pct": -0.44
+      "price": 0.069625,
+      "change_pct": -1.59
     },
     {
       "symbol": "SPACEX",
-      "price": 538.91,
-      "change_pct": -2.26
+      "price": 538.69,
+      "change_pct": -2.34
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "摩根大通终止了与预测平台 Polymarket 的银行业务关系：FT",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "datetime": 1786683892,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "比特币跌破 64,000 美元关键水平：BTC 接下来必须守住的重要支撑位",
       "summary": "<p>在我的<a href=\"https://investinglive.com/cryptocurrency/bitcoin-forecast-today-why-btc-is-struggling-below-64-000/\" rel=\"follow\">之前的比特币分析</a>中，我表明分配的分数为-4（这意味着适度看跌），事实证明空头确实比空头更强",
       "source": "Forexlive",
@@ -733,15 +742,6 @@
       "datetime": 1786626607,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "三菱日联金融集团 PoC 将日本政府债券回购交易引入链上",
-      "summary": "三菱日联金融集团的实验计划将日本政府债券回购交易引入链上，以实现 24/7 结算，并提高资本和运营效率。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786626037,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -785,12 +785,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.1,
+    "score": 33.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16,
+    "daily_score": 16.1,
     "weekly_score": 17.1,
-    "btc_price": 63354.7,
+    "btc_price": 63070,
     "fear_greed": 37,
     "indicators": [
       {
@@ -802,15 +802,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009254,
-        "score": 50,
+        "value": 0.008352,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.85,
-        "score": 90,
+        "value": 1.91,
+        "score": 94,
         "weight": 5,
         "group": "daily"
       },
@@ -872,15 +872,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.5,
-        "score": 26,
+        "value": 35.2,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -35.5,
-        "score": 35,
+        "value": -28.7,
+        "score": 37,
         "weight": 4,
         "group": "weekly"
       }
@@ -1006,7 +1006,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1406,
-        "retweets": 83
+        "retweets": 84
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1042,7 +1042,7 @@
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
         "url": "https://x.com/QwQiao/status/2077464434377642202",
         "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 57,
+        "likes": 58,
         "retweets": 0
       },
       {
@@ -1072,36 +1072,36 @@
         "text": "You will never be done learning about Bitcoin. https://t.co/aHGJU8RKVK",
         "url": "https://x.com/saylor/status/2087975463729676768",
         "time": "Thu Aug 13 18:51:57 +0000 2026",
-        "likes": 4140,
-        "retweets": 379
+        "likes": 4316,
+        "retweets": 392
       },
       {
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 187,
+        "likes": 189,
         "retweets": 21
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 353,
+        "likes": 355,
         "retweets": 32
       },
       {
         "text": "Digital Assets form a monetary spectrum:\n\n$BTC = Digital Capital\n$STRC = Digital Credit\nSR-strcUSX = Digital Money\n$USDT = Digital Currency\n\nFrom left to right, volatility and return potential fall while stability and transactional utility rise. https://t.co/fBCONStR73",
         "url": "https://x.com/saylor/status/2087872413631459445",
         "time": "Thu Aug 13 12:02:28 +0000 2026",
-        "likes": 2516,
-        "retweets": 361
+        "likes": 2567,
+        "retweets": 364
       },
       {
         "text": "Digital Credit is going global. 🇧🇷 DIGY11 brings $STRC and Digital Credit to Brazil through a B3-listed ETF with monthly BRL distributions, daily liquidity, and FX hedging. The future of credit is digital.",
         "url": "https://x.com/saylor/status/2087836473726767456",
         "time": "Thu Aug 13 09:39:40 +0000 2026",
-        "likes": 3180,
-        "retweets": 323
+        "likes": 3214,
+        "retweets": 327
       }
     ],
     "viktorfischer": [
@@ -1116,7 +1116,7 @@
         "text": "Alpenglow 🗻🌟 on @solana mainnet at the end of Sept🤞🚀 https://t.co/uQFKSgWct9",
         "url": "https://x.com/viktorfischer/status/2087951800267833533",
         "time": "Thu Aug 13 17:17:56 +0000 2026",
-        "likes": 7,
+        "likes": 8,
         "retweets": 0
       },
       {
@@ -1145,6 +1145,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "消息人士称，高盛在获得宝贵职位后正在与投资者就英伟达融资交易进行谈判",
+        "url": "https://finnhub.io/api/news?id=ae269d445bfd4ac3edb42c733e3cd55c124a1c4ecd875f0fb5afce4889320bb2",
+        "datetime": 1786680232,
+        "source": "Yahoo"
+      },
+      {
         "headline": "股市刚刚做出了沃伦·巴菲特警告的举动。历史告诉我们，投资者应该迈出这一步。",
         "url": "https://finnhub.io/api/news?id=1927459bd5654a50de7164c8bfa83465df983b0b76a9b25c62c2ef5435638999",
         "datetime": 1786677600,
@@ -1166,12 +1172,6 @@
         "headline": "据报道，阿斯利康与布里斯托尔·迈尔斯·施贵宝的 4000 亿美元大型合并是一场灌篮，还是一场即将发生的灾难？",
         "url": "https://finnhub.io/api/news?id=37ace6aaf9f47ac9aae2f6106e25276cc3374f51a8ccba81ebd7b0c6bb0c402f",
         "datetime": 1786674000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "为什么储户看好乡村股票本周萎靡不振",
-        "url": "https://finnhub.io/api/news?id=f3c85a98a13d5e268b2435957902abcecd7ffcd24fe3bb2120b5b2c2cc2e002c",
-        "datetime": 1786673182,
         "source": "Yahoo"
       }
     ],
@@ -1209,6 +1209,12 @@
     ],
     "TSLA": [
       {
+        "headline": "优步股票看起来很便宜。这就是为什么。",
+        "url": "https://finnhub.io/api/news?id=b7e2aa9c450226c06bc3cb9d36cc876bc27e09d067f21cecf7479cfb022f7ac2",
+        "datetime": 1786683600,
+        "source": "Yahoo"
+      },
+      {
         "headline": "微软和特斯拉有着共同的担忧，但这就是为什么其中一个更有道理",
         "url": "https://finnhub.io/api/news?id=415abf44dc4a47333b87ea6ae2f3a8deb1ebb022422ec4a418617566f95f26f0",
         "datetime": 1786666800,
@@ -1229,12 +1235,6 @@
       {
         "headline": "运输紧缩变得更加严重。这对沃尔玛、特斯拉等意味着什么。",
         "url": "https://finnhub.io/api/news?id=482d348fe2a049aa69dbc768dfc1b42ac98abbe254121a4ffe6cc1f21084bdcf",
-        "datetime": 1786650420,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "航运业波涛汹涌的大海中的赢家和输家",
-        "url": "https://finnhub.io/api/news?id=a527606837cc9899014337ceb49b63ed8fefcd857892e07def9a637e01f0006a",
         "datetime": 1786650420,
         "source": "Yahoo"
       }
