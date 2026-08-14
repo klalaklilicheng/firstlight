@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T11:38:48.634Z",
+  "updated_at": "2026-08-14T12:45:32.930Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 62836,
-      "change_pct": -0.84
+      "price": 62740,
+      "change_pct": -1.21
     },
     {
       "symbol": "ETH",
-      "price": 1875.94,
-      "change_pct": -0.01
+      "price": 1873.92,
+      "change_pct": -0.59
     },
     {
       "symbol": "SOL",
-      "price": 75.47,
-      "change_pct": -0.13
+      "price": 75.4,
+      "change_pct": -0.67
     },
     {
       "symbol": "HYPE",
-      "price": 56.4,
-      "change_pct": -1.19
+      "price": 56.09,
+      "change_pct": -2.5
     },
     {
       "symbol": "ZEC",
-      "price": 486.17,
-      "change_pct": -1.02
+      "price": 484.6,
+      "change_pct": -1.14
     },
     {
       "symbol": "TAO",
-      "price": 198.94,
-      "change_pct": -0.08
+      "price": 197.92,
+      "change_pct": -0.76
     },
     {
       "symbol": "SKY",
-      "price": 1224.34,
-      "change_pct": 0.33
+      "price": 1300.01,
+      "change_pct": 6.03
     },
     {
       "symbol": "AAVE",
-      "price": 86.47,
-      "change_pct": -2.01
+      "price": 85.5,
+      "change_pct": -3.51
     },
     {
       "symbol": "BNB",
-      "price": 604.7,
-      "change_pct": -0.51
+      "price": 604.71,
+      "change_pct": -0.65
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": -3.24
+      "price": 1.6,
+      "change_pct": -3.47
     },
     {
       "symbol": "DOGE",
-      "price": 0.069386,
-      "change_pct": -0.82
+      "price": 0.069354,
+      "change_pct": -1.12
     },
     {
       "symbol": "SPACEX",
-      "price": 538.64,
-      "change_pct": -1.98
+      "price": 538.65,
+      "change_pct": -1.91
     }
   ],
   "earnings": {
@@ -474,11 +474,65 @@
   },
   "news": [
     {
+      "headline": "尽管收入增长 37%，Gemini 第二季度净亏损 1.08 亿美元",
+      "summary": "信用卡和质押收入推动了 Gemini 第二季度的服务增长，交易所收入下降了 38%，交易量下降了三分之二。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786708928,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管美国-伊朗风险挥之不去，主权债务上升，加密货币和 TradFi 市场仍出现波动",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "datetime": 1786707230,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "新韩资产管理公司与 Plume 合作开展代币化基金试点",
+      "summary": "Shinhan Asset Management 和 Plume 将使用韩元计价的超短期债券基金作为基础资产来测试代币化基金。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786706608,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "特朗普家族的世界自由金融公司推迟出售马尔代夫度假村代币的计划",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
+      "datetime": 1786705669,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于美国通胀未能引发上涨，比特币下跌，ETF 出现 8 月首个两天下跌",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+      "datetime": 1786705572,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "币安多头面临“清理”，比特币跌至八月新低",
       "summary": "由于 CryptoQuant 上发布的分析表明杠杆多头面临越来越大的压力，币安上的比特币期货未平仓合约与 BTC 价格一起下跌。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786704237,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "彭博社称 RedotPay 将暂停 10 亿美元的美国 IPO 计划",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
+      "datetime": 1786703740,
       "category": "crypto",
       "related": ""
     },
@@ -688,60 +742,6 @@
       "datetime": 1786642569,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着 Uniswap 推动流动性，Robinhood Chain 的 TVL 接近 10 亿美元：渣打银行",
-      "summary": "渣打银行表示，Robinhood 的 Uniswap 集成可以解决新区块链的关键挑战，同时加速 UNI 代币销毁。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786642134,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Trezor 在履行合作伙伴遭受数据泄露后向 14,000 名客户发出警告",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "datetime": 1786641057,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着人工智能基础设施收入的增长，公共比特币矿商将算力削减了 13.4%",
-      "summary": "随着运营商重新调整电力和数据中心的用途，而一小部分矿工继续扩大比特币容量，人工智能和高性能计算正在重塑挖矿经济。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786636823,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "第二季度调整后 EBITDA 增长三倍以上，看涨股价上涨 10%",
-      "summary": "随着调整后的 EBITDA 增加两倍以上，订阅和服务收入创下历史新高，这家加密货币交易所运营商的股价上涨了约 10%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786635405,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Trezor 报告通过运输提供商暴露的 14K 用户的数据",
-      "summary": "该钱包提供商警告称，数千名用户可能面临网络钓鱼的风险，同时建议所有设备、私钥和备份都是安全的。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786634714,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着美国生产者物价指数 (PPI) 数据走强，股市上涨，交易员猜测比特币价格接近 6.4 万美元",
-      "summary": "在 7 月 PPI 通胀数据延续过去一个月的降温趋势后，比特币跟随美国股市小幅上涨。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786633658,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,7 +790,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.1,
     "weekly_score": 17.2,
-    "btc_price": 62933.3,
+    "btc_price": 62797.8,
     "fear_greed": 37,
     "indicators": [
       {
@@ -802,7 +802,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000433,
+        "value": 0.000281,
         "score": 45,
         "weight": 8,
         "group": "daily"
@@ -872,14 +872,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.1,
+        "value": 35,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 2.9,
+        "value": 5.2,
         "score": 46,
         "weight": 4,
         "group": "weekly"
@@ -1005,7 +1005,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1406,
+        "likes": 1405,
         "retweets": 84
       },
       {
@@ -1035,7 +1035,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 547,
+        "likes": 546,
         "retweets": 17
       },
       {
@@ -1072,35 +1072,35 @@
         "text": "Capital competes for wealth. Credit competes for income. Money competes for savings. Currency competes for payments. Digital Assets are not one market. They are a new architecture competing across the financial system. https://t.co/XPdJTnQalW",
         "url": "https://x.com/saylor/status/2088215622723264996",
         "time": "Fri Aug 14 10:46:16 +0000 2026",
-        "likes": 131,
-        "retweets": 11
+        "likes": 184,
+        "retweets": 18
       },
       {
         "text": "Digital Assets compete in four markets:\n\nDigital Capital ($BTC) for wealth vs stocks, real estate, gold &amp; art.\nDigital Credit ($STRC) for income vs bonds &amp; private credit.\nDigital Money for savings vs money market funds &amp; T-bills.\nDigital Currency for payments vs cash &amp; deposits. https://t.co/2zWPT2WLiZ",
         "url": "https://x.com/saylor/status/2088215614724727219",
         "time": "Fri Aug 14 10:46:14 +0000 2026",
-        "likes": 840,
-        "retweets": 113
+        "likes": 1334,
+        "retweets": 176
       },
       {
         "text": "You will never be done learning about Bitcoin. https://t.co/aHGJU8RKVK",
         "url": "https://x.com/saylor/status/2087975463729676768",
         "time": "Thu Aug 13 18:51:57 +0000 2026",
-        "likes": 4861,
-        "retweets": 440
+        "likes": 5019,
+        "retweets": 453
       },
       {
         "text": "Digital Capital is a bearer asset. Digital Credit, Digital Money, and Digital Currency are created and managed by Digital Finance companies. Their ownership layer is Digital Equity. Together they form the Digital Finance stack. https://t.co/VVNEXTZsSr",
         "url": "https://x.com/saylor/status/2087872420627583417",
         "time": "Thu Aug 13 12:02:30 +0000 2026",
-        "likes": 196,
+        "likes": 197,
         "retweets": 21
       },
       {
         "text": "$STRC is Digital Credit: semi-stable, high fixed income, Store of Value. Digital Money combines the technology of Digital Currency with the economics of Digital Capital: stability, income, transactional utility, and a Store of Value. https://t.co/7SozEwL6kF",
         "url": "https://x.com/saylor/status/2087872418245124190",
         "time": "Thu Aug 13 12:02:29 +0000 2026",
-        "likes": 362,
+        "likes": 363,
         "retweets": 32
       }
     ],
@@ -1183,6 +1183,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "伯克希尔哈撒韦公司：最终使用其现金储备",
+        "url": "https://finnhub.io/api/news?id=ed278a19d08e755240e6775a6c8725f0425884416b3ff148cf402192a0124d69",
+        "datetime": 1786695002,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "八月最佳买入“七大”股票",
         "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
         "datetime": 1786693800,
@@ -1199,12 +1205,6 @@
         "url": "https://finnhub.io/api/news?id=a9294718beb21c0f1df13faa453c3a2ce27e75fecb005673b45478f2253ac813",
         "datetime": 1786692000,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet：这就是 YouTube 改变商业和社会的方式",
-        "url": "https://finnhub.io/api/news?id=c74c828c3fb7888ed44178555ce5f18a8540a826b5af73f2248a0b602d2f0e27",
-        "datetime": 1786687874,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
@@ -1213,6 +1213,12 @@
         "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
         "datetime": 1786693800,
         "source": "Yahoo"
+      },
+      {
+        "headline": "特朗普可以削减资本利得税吗？",
+        "url": "https://finnhub.io/api/news?id=abb8a321bd1f34f8019fc708a796770b7e9d379e2e6b345e422749ef966e511a",
+        "datetime": 1786692632,
+        "source": "SeekingAlpha"
       },
       {
         "headline": "优步股票看起来很便宜。这就是为什么。",
@@ -1230,12 +1236,6 @@
         "headline": "瑞典工会结束特斯拉收购后近三年的罢工，特斯拉股价上涨",
         "url": "https://finnhub.io/api/news?id=8c3b3e474ad5c6247d385c0e99bc647cc12745d3382f82defc8ff1b2e76262f6",
         "datetime": 1786658320,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "迈克尔·伯里 (Michael Burry) 增持 QQQ 看跌期权，增加 MU 空头头寸，为“更大跌幅”做好准备——以下是他对 NVDA、PLTR 和 TSLA 所做的操作",
-        "url": "https://finnhub.io/api/news?id=65330279aa584ddf1e94bf6d68f335b212b9fe35d33379aa257ce70ca1015094",
-        "datetime": 1786651987,
         "source": "Yahoo"
       }
     ],
@@ -1281,6 +1281,12 @@
     ],
     "BTC": [
       {
+        "headline": "由于美国通胀未能引发上涨，比特币下跌，ETF 出现 8 月首个两天下跌",
+        "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+        "datetime": 1786705572,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "币安多头面临“清理”，比特币跌至八月新低",
         "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786704237,
@@ -1303,12 +1309,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
         "datetime": 1786688454,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币跌破 64,000 美元关键水平：BTC 接下来必须守住的重要支撑位",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-loses-key-64-000-level-the-important-support-levels-btc-must-hold-next/",
-        "datetime": 1786682905,
-        "source": "Forexlive"
       }
     ],
     "ETH": [
