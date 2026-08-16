@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T14:14:59.497Z",
+  "updated_at": "2026-08-16T15:13:57.434Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63006,
-      "change_pct": 0.05
+      "price": 63064,
+      "change_pct": 0.13
     },
     {
       "symbol": "ETH",
-      "price": 1880.62,
-      "change_pct": -0.03
+      "price": 1881.9,
+      "change_pct": 0
     },
     {
       "symbol": "SOL",
-      "price": 75.21,
-      "change_pct": -0.39
+      "price": 75.38,
+      "change_pct": -0.03
     },
     {
       "symbol": "HYPE",
-      "price": 57.13,
-      "change_pct": 1.48
+      "price": 57.25,
+      "change_pct": 1.57
     },
     {
       "symbol": "ZEC",
-      "price": 490.43,
-      "change_pct": 0.39
+      "price": 493.75,
+      "change_pct": 1.06
     },
     {
       "symbol": "TAO",
-      "price": 196.51,
-      "change_pct": -0.31
+      "price": 196.95,
+      "change_pct": -0.41
     },
     {
       "symbol": "SKY",
-      "price": 1224.68,
-      "change_pct": -0.02
+      "price": 1226.02,
+      "change_pct": -1.8
     },
     {
       "symbol": "AAVE",
-      "price": 86.15,
-      "change_pct": -0.38
+      "price": 86.74,
+      "change_pct": 0.07
     },
     {
       "symbol": "BNB",
-      "price": 607.19,
-      "change_pct": -0.29
+      "price": 607.23,
+      "change_pct": -0.48
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": -0.98
+      "change_pct": -1.07
     },
     {
       "symbol": "DOGE",
-      "price": 0.06986,
-      "change_pct": -0.21
+      "price": 0.07002,
+      "change_pct": 0.04
     },
     {
       "symbol": "SPACEX",
-      "price": 511.2,
-      "change_pct": -2.2
+      "price": 511.4,
+      "change_pct": -2.07
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "加密钱包 SafePal 揭露数据泄露，近 40,000 名客户的订单信息被泄露",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "datetime": 1786888952,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "MiCA 的清理工作正在欧盟掀起新的诈骗浪潮",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "datetime": 1786888800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "稳定币收益率冲突不会消失，银行、加密货币都在争夺传统",
       "summary": "",
       "source": "CoinDesk",
@@ -519,7 +537,7 @@
       "related": ""
     },
     {
-      "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前的永续债券阵容中",
+      "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前永续债券阵容中",
       "summary": "随着 Bybit 的 TradFi 永续产品阵容扩大到 200 多种产品，涵盖股票、ETF、大宗商品、指数和私营公司，这些产品也随之增加。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -578,6 +596,15 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
       "datetime": 1786803774,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "信实集团与劳斯莱斯合作开发印度先进战斗机发动机项目",
+      "summary": "此次拟议的合作正值印度寻求国防技术更大程度的自力更生并准备开发下一代双引擎战斗机之际",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/reliance-taps-rolls-royce-to-make-fighter-jet-engines-in-india",
+      "datetime": 1786803609,
       "category": "top news",
       "related": ""
     },
@@ -715,33 +742,6 @@
       "datetime": 1786733824,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着第二季度交易量下降，Kraken 母公司 Payward 收入增长 17%",
-      "summary": "尽管加密货币现货活动疲软，Payward 的收入仍然增长，资金账户增长了 42%，并且越来越多的收入来自外部交易活动。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786733061,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "闪存制造商 SanDisk 本周告诉投资者的内容对我们最新的股票来说是一个福音",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/14/what-sandisk-told-investors-this-week-is-a-boon-for-our-newest-stock.html",
-      "datetime": 1786732415,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "由于 SEC 的延迟为加密货币在华尔街的推动带来了“减速”，代币化股票下滑",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
-      "datetime": 1786729684,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -761,7 +761,7 @@
       "company": "宇树科技",
       "news": [
         {
-          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前的永续债券阵容中",
+          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前永续债券阵容中",
           "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1786822049
         },
@@ -795,7 +795,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.8,
     "weekly_score": 15.7,
-    "btc_price": 63058.5,
+    "btc_price": 63110.8,
     "fear_greed": 36,
     "indicators": [
       {
@@ -807,14 +807,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004017,
+        "value": 0.004481,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.06,
+        "value": 2.03,
         "score": 100,
         "weight": 5,
         "group": "daily"
@@ -877,14 +877,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.2,
+        "value": 35.3,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87,
+        "value": -86.1,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1047,7 +1047,7 @@
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
         "url": "https://x.com/QwQiao/status/2077464434377642202",
         "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 58,
+        "likes": 59,
         "retweets": 0
       },
       {
@@ -1077,36 +1077,36 @@
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 2953,
-        "retweets": 281
+        "likes": 3218,
+        "retweets": 312
       },
       {
         "text": "To understand Bitcoin, first understand money.\n\nMoney is energy. Bitcoin is digital monetary energy.",
         "url": "https://x.com/saylor/status/2088662012247126149",
         "time": "Sat Aug 15 16:20:03 +0000 2026",
-        "likes": 4744,
-        "retweets": 636
+        "likes": 4811,
+        "retweets": 642
       },
       {
         "text": "https://t.co/QMVtmKPGn2",
         "url": "https://x.com/saylor/status/2088600395257934028",
         "time": "Sat Aug 15 12:15:13 +0000 2026",
-        "likes": 3297,
-        "retweets": 628
+        "likes": 3311,
+        "retweets": 633
       },
       {
         "text": "We’ve upgraded the $STRC, $STRD, $STRK &amp; $STRF dashboards with BTC Rating, BTC Floor, BTC Floor ARR, Tax-Equivalent Effective Yield &amp; 1Y Sharpe. New tools to evaluate income, credit quality, downside protection &amp; risk-adjusted returns. Explore at https://t.co/S3OchsaeGQ. https://t.co/nciQtEnQWx",
         "url": "https://x.com/saylor/status/2088531228718764347",
         "time": "Sat Aug 15 07:40:22 +0000 2026",
-        "likes": 3159,
-        "retweets": 398
+        "likes": 3178,
+        "retweets": 404
       },
       {
         "text": "Spread Bitcoin with love. 🧡https://t.co/V8j8Wce7H1",
         "url": "https://x.com/saylor/status/2088307832290509049",
         "time": "Fri Aug 14 16:52:40 +0000 2026",
-        "likes": 5116,
-        "retweets": 493
+        "likes": 5147,
+        "retweets": 495
       }
     ],
     "viktorfischer": [
