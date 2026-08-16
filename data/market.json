@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:13:57.434Z",
+  "updated_at": "2026-08-16T16:15:17.835Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63064,
-      "change_pct": 0.13
+      "price": 63118,
+      "change_pct": 0.14
     },
     {
       "symbol": "ETH",
-      "price": 1881.9,
+      "price": 1882.95,
       "change_pct": 0
     },
     {
       "symbol": "SOL",
-      "price": 75.38,
-      "change_pct": -0.03
+      "price": 75.48,
+      "change_pct": 0.13
     },
     {
       "symbol": "HYPE",
-      "price": 57.25,
-      "change_pct": 1.57
+      "price": 57.82,
+      "change_pct": 1.73
     },
     {
       "symbol": "ZEC",
-      "price": 493.75,
-      "change_pct": 1.06
+      "price": 493.44,
+      "change_pct": 0.86
     },
     {
       "symbol": "TAO",
-      "price": 196.95,
-      "change_pct": -0.41
+      "price": 197.25,
+      "change_pct": -0.38
     },
     {
       "symbol": "SKY",
-      "price": 1226.02,
-      "change_pct": -1.8
+      "price": 1219.1,
+      "change_pct": -0.57
     },
     {
       "symbol": "AAVE",
-      "price": 86.74,
-      "change_pct": 0.07
+      "price": 86.88,
+      "change_pct": -0.1
     },
     {
       "symbol": "BNB",
-      "price": 607.23,
-      "change_pct": -0.48
+      "price": 606.68,
+      "change_pct": -0.7
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": -1.07
+      "change_pct": -1.23
     },
     {
       "symbol": "DOGE",
-      "price": 0.07002,
+      "price": 0.070016,
       "change_pct": 0.04
     },
     {
       "symbol": "SPACEX",
-      "price": 511.4,
-      "change_pct": -2.07
+      "price": 510.08,
+      "change_pct": -2.25
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "比特币分析显示多头下一步需要做什么才能结束 2026 年的熊市",
+      "summary": "<p>比特币稳定在 63,000 美元附近，但夺回 64,000 美元才是真正的考验</p><p>在买家捍卫其近期区间的下限后，比特币目前稳定在 63,100 美元附近。这是建设性的，但尚未得到确认的复苏。 BTC 必须首先克服 63,175-63,270 美元附近的阻力，而",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bitcoin-analysis-shows-what-bulls-need-to-do-next-to-end-this-bearish-2026/",
+      "datetime": 1786893086,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "加密钱包 SafePal 揭露数据泄露，近 40,000 名客户的订单信息被泄露",
       "summary": "",
       "source": "CoinDesk",
@@ -524,15 +533,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786878771,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Hyperscale Data 完成收购 48.5 英亩土地以扩建密歇根人工智能数据中心园区",
-      "summary": "收购将提供自然缓冲，并将公司密歇根园区总面积增加至约 83 英亩 拉斯维加斯，2026 年 6 月 26 日 /美通社/ — Hyperscale Data, Inc.（纽约证券交易所股票代码：GPUS），一家以比特币（“Hyperscale Data”或",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/hyperscale-data-completes-acquisition-of-48-5-acres-to-expand-michigan-ai-data-center-campus/",
-      "datetime": 1786846231,
       "category": "crypto",
       "related": ""
     },
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.5,
+    "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 16.8,
-    "weekly_score": 15.7,
-    "btc_price": 63110.8,
+    "weekly_score": 16.6,
+    "btc_price": 63206,
     "fear_greed": 36,
     "indicators": [
       {
@@ -807,7 +807,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004481,
+        "value": 0.004991,
         "score": 47,
         "weight": 8,
         "group": "daily"
@@ -842,15 +842,15 @@
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.89,
-        "score": 9,
+        "value": 0.961,
+        "score": 10,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.99,
-        "score": 40,
+        "value": 0.996,
+        "score": 46,
         "weight": 8,
         "group": "weekly"
       },
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 35.3,
-        "score": 25,
+        "value": 39.6,
+        "score": 33,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -86.1,
-        "score": 21,
+        "value": -98.8,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1077,35 +1077,35 @@
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 3218,
-        "retweets": 312
+        "likes": 3432,
+        "retweets": 334
       },
       {
         "text": "To understand Bitcoin, first understand money.\n\nMoney is energy. Bitcoin is digital monetary energy.",
         "url": "https://x.com/saylor/status/2088662012247126149",
         "time": "Sat Aug 15 16:20:03 +0000 2026",
-        "likes": 4811,
-        "retweets": 642
+        "likes": 4902,
+        "retweets": 661
       },
       {
         "text": "https://t.co/QMVtmKPGn2",
         "url": "https://x.com/saylor/status/2088600395257934028",
         "time": "Sat Aug 15 12:15:13 +0000 2026",
-        "likes": 3311,
-        "retweets": 633
+        "likes": 3335,
+        "retweets": 639
       },
       {
         "text": "We’ve upgraded the $STRC, $STRD, $STRK &amp; $STRF dashboards with BTC Rating, BTC Floor, BTC Floor ARR, Tax-Equivalent Effective Yield &amp; 1Y Sharpe. New tools to evaluate income, credit quality, downside protection &amp; risk-adjusted returns. Explore at https://t.co/S3OchsaeGQ. https://t.co/nciQtEnQWx",
         "url": "https://x.com/saylor/status/2088531228718764347",
         "time": "Sat Aug 15 07:40:22 +0000 2026",
-        "likes": 3178,
-        "retweets": 404
+        "likes": 3193,
+        "retweets": 408
       },
       {
         "text": "Spread Bitcoin with love. 🧡https://t.co/V8j8Wce7H1",
         "url": "https://x.com/saylor/status/2088307832290509049",
         "time": "Fri Aug 14 16:52:40 +0000 2026",
-        "likes": 5147,
+        "likes": 5181,
         "retweets": 495
       }
     ],
@@ -1128,7 +1128,7 @@
         "text": "Solana is where founders go to make money 💵 with their apps 🚀",
         "url": "https://x.com/viktorfischer/status/2087857960777318727",
         "time": "Thu Aug 13 11:05:03 +0000 2026",
-        "likes": 7,
+        "likes": 8,
         "retweets": 0
       },
       {
@@ -1280,6 +1280,12 @@
     ],
     "BTC": [
       {
+        "headline": "比特币分析显示多头下一步需要做什么才能结束 2026 年的熊市",
+        "url": "https://investinglive.com/cryptocurrency/bitcoin-analysis-shows-what-bulls-need-to-do-next-to-end-this-bearish-2026/",
+        "datetime": 1786893086,
+        "source": "Forexlive"
+      },
+      {
         "headline": "随着 TradFi 巨头纷纷拥抱数字资产，“做多比特币、做空银行家”的时代正式结束",
         "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
         "datetime": 1786881600,
@@ -1302,12 +1308,6 @@
         "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
         "datetime": 1786806749,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "马库斯·蒂伦 (Markus Thielen) 表示，比特币到 2030 年达到 100 万美元“在数学上是不可能的”",
-        "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786800600,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
@@ -1353,12 +1353,6 @@
       }
     ],
     "DOGE": [
-      {
-        "headline": "对狗狗币的投机回到 2025 年 10 月的水平。价格下降70%",
-        "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-        "datetime": 1786593976,
-        "source": "CoinDesk"
-      },
       {
         "headline": "提醒一下，这整件事一开始只是一个笑话，现在比你最喜欢的大多数应用程序还要老",
         "url": "https://x.com/dogecoin/status/2088356650264531073",
