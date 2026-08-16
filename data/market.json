@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:25:16.518Z",
+  "updated_at": "2026-08-16T14:14:59.497Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63017,
-      "change_pct": 0.06
+      "price": 63006,
+      "change_pct": 0.05
     },
     {
       "symbol": "ETH",
-      "price": 1879.23,
-      "change_pct": -0.1
+      "price": 1880.62,
+      "change_pct": -0.03
     },
     {
       "symbol": "SOL",
-      "price": 75.31,
-      "change_pct": -0.1
+      "price": 75.21,
+      "change_pct": -0.39
     },
     {
       "symbol": "HYPE",
-      "price": 57.21,
-      "change_pct": 1.22
+      "price": 57.13,
+      "change_pct": 1.48
     },
     {
       "symbol": "ZEC",
-      "price": 486.74,
-      "change_pct": -0.75
+      "price": 490.43,
+      "change_pct": 0.39
     },
     {
       "symbol": "TAO",
-      "price": 196.49,
-      "change_pct": -0.32
+      "price": 196.51,
+      "change_pct": -0.31
     },
     {
       "symbol": "SKY",
-      "price": 1224.52,
-      "change_pct": -0.05
+      "price": 1224.68,
+      "change_pct": -0.02
     },
     {
       "symbol": "AAVE",
-      "price": 85.91,
-      "change_pct": -0.56
+      "price": 86.15,
+      "change_pct": -0.38
     },
     {
       "symbol": "BNB",
-      "price": 607.63,
-      "change_pct": -0.22
+      "price": 607.19,
+      "change_pct": -0.29
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": -0.69
+      "change_pct": -0.98
     },
     {
       "symbol": "DOGE",
-      "price": 0.069942,
-      "change_pct": -0.11
+      "price": 0.06986,
+      "change_pct": -0.21
     },
     {
       "symbol": "SPACEX",
       "price": 511.2,
-      "change_pct": -2.25
+      "change_pct": -2.2
     }
   ],
   "earnings": {
@@ -474,11 +474,29 @@
   },
   "news": [
     {
+      "headline": "稳定币收益率冲突不会消失，银行、加密货币都在争夺传统",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "datetime": 1786885200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "DefiLlama 创始人表示，因 Apple Store 上的网络钓鱼应用而推迟了移动版的发布",
       "summary": "DefiLlama 的创始人表示，苹果公司记录了一款虚假应用程序从一个小型加密钱包中耗尽资金后几天内就删除了该应用程序。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786884489,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着 TradFi 巨头纷纷拥抱数字资产，“做多比特币、做空银行家”的时代正式结束",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "datetime": 1786881600,
       "category": "crypto",
       "related": ""
     },
@@ -724,24 +742,6 @@
       "datetime": 1786729684,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "英国当局在补选获胜后继续调查 Nigel Farage 的加密货币“礼物”",
-      "summary": "这位英国议员在补选后宣布获胜，引发议会专员恢复对其加密货币捐赠标准的调查。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786727018,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "以色列最大的银行利用 Galaxy 提供比特币、以太币和 Solana 交易",
-      "summary": "从 2027 年初开始，Leumi 银行的客户将能够直接通过该银行的投资应用程序购买、持有和出售三种主要加密货币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786722109,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 32.4,
+    "score": 32.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.7,
+    "daily_score": 16.8,
     "weekly_score": 15.7,
-    "btc_price": 63061.4,
+    "btc_price": 63058.5,
     "fear_greed": 36,
     "indicators": [
       {
@@ -807,8 +807,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002833,
-        "score": 46,
+        "value": 0.004017,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
@@ -884,7 +884,7 @@
       },
       {
         "name": "成交量变化",
-        "value": -87.4,
+        "value": -87,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1004,14 +1004,14 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 714,
-        "retweets": 90
+        "retweets": 91
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1406,
-        "retweets": 84
+        "retweets": 85
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1025,14 +1025,14 @@
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
         "likes": 538,
-        "retweets": 34
+        "retweets": 35
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1051,
-        "retweets": 84
+        "retweets": 85
       }
     ],
     "QwQiao": [
@@ -1077,36 +1077,36 @@
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 2651,
-        "retweets": 256
+        "likes": 2953,
+        "retweets": 281
       },
       {
         "text": "To understand Bitcoin, first understand money.\n\nMoney is energy. Bitcoin is digital monetary energy.",
         "url": "https://x.com/saylor/status/2088662012247126149",
         "time": "Sat Aug 15 16:20:03 +0000 2026",
-        "likes": 4685,
-        "retweets": 626
+        "likes": 4744,
+        "retweets": 636
       },
       {
         "text": "https://t.co/QMVtmKPGn2",
         "url": "https://x.com/saylor/status/2088600395257934028",
         "time": "Sat Aug 15 12:15:13 +0000 2026",
-        "likes": 3265,
-        "retweets": 617
+        "likes": 3297,
+        "retweets": 628
       },
       {
         "text": "We’ve upgraded the $STRC, $STRD, $STRK &amp; $STRF dashboards with BTC Rating, BTC Floor, BTC Floor ARR, Tax-Equivalent Effective Yield &amp; 1Y Sharpe. New tools to evaluate income, credit quality, downside protection &amp; risk-adjusted returns. Explore at https://t.co/S3OchsaeGQ. https://t.co/nciQtEnQWx",
         "url": "https://x.com/saylor/status/2088531228718764347",
         "time": "Sat Aug 15 07:40:22 +0000 2026",
-        "likes": 3146,
-        "retweets": 394
+        "likes": 3159,
+        "retweets": 398
       },
       {
         "text": "Spread Bitcoin with love. 🧡https://t.co/V8j8Wce7H1",
         "url": "https://x.com/saylor/status/2088307832290509049",
         "time": "Fri Aug 14 16:52:40 +0000 2026",
-        "likes": 5094,
-        "retweets": 491
+        "likes": 5116,
+        "retweets": 493
       }
     ],
     "viktorfischer": [
@@ -1182,6 +1182,12 @@
     ],
     "GOOG": [
       {
+        "headline": "按公司预测的 Robotaxi（自动驾驶叫车）增长以及为什么我将 Waymo 评为“买入”",
+        "url": "https://finnhub.io/api/news?id=39c381aa99b71324087353d3a5efa3591c1f04980b6a21e424e08c758959c44d",
+        "datetime": 1786871620,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "戴尔股票涨势暂停，但超微、联想盈利显示上涨",
         "url": "https://finnhub.io/api/news?id=d651f92ddd0ace78f7f92c2878d40e7535eac6be810461d173aaf4347482170d",
         "datetime": 1786813830,
@@ -1204,15 +1210,15 @@
         "url": "https://finnhub.io/api/news?id=2cc9dc5ef329148c496a5356990530b1f6726e257216fcfc99d35ce67aebc604",
         "datetime": 1786784400,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "伯克希尔哈撒韦公司增持 170 亿美元 Alphabet 股份",
-        "url": "https://finnhub.io/api/news?id=8fd437d0ef0b0e9cb59274bfc090421c1e73d5209ade2c1d0606f90cc9e33ab5",
-        "datetime": 1786783841,
-        "source": "CNBC"
       }
     ],
     "TSLA": [
+      {
+        "headline": "按公司预测的 Robotaxi（自动驾驶叫车）增长以及为什么我将 Waymo 评为“买入”",
+        "url": "https://finnhub.io/api/news?id=39c381aa99b71324087353d3a5efa3591c1f04980b6a21e424e08c758959c44d",
+        "datetime": 1786871620,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "消费科技（8 月 10 日至 14 日）：特朗普面临联邦诉讼，苹果和阿里巴巴为中国等创建人工智能模型",
         "url": "https://finnhub.io/api/news?id=80a4ff54930a1eea63dea0ec7e39c7509a9575579cacc01386fedde5b9601b2f",
@@ -1236,12 +1242,6 @@
         "url": "https://finnhub.io/api/news?id=b8a734e5a7a330b90fdad499ca20be27bb422d6bdd9a4ce4f72de1a0c8d1f92a",
         "datetime": 1786769080,
         "source": "Benzinga"
-      },
-      {
-        "headline": "周五交易时段：标准普尔 500 指数中最活跃的股票",
-        "url": "https://finnhub.io/api/news?id=8082095a0018fb084745611e82d9a5534f7a7f3464766a782a4e71a06a488c15",
-        "datetime": 1786730700,
-        "source": "ChartMill"
       }
     ],
     "CRCL": [
@@ -1280,6 +1280,12 @@
     ],
     "BTC": [
       {
+        "headline": "随着 TradFi 巨头纷纷拥抱数字资产，“做多比特币、做空银行家”的时代正式结束",
+        "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+        "datetime": 1786881600,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "瑞士大型银行瑞银 (UBS) ETF 看涨期权大幅增加 24 倍，增加了比特币敞口",
         "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
         "datetime": 1786809365,
@@ -1301,12 +1307,6 @@
         "headline": "马库斯·蒂伦 (Markus Thielen) 表示，比特币到 2030 年达到 100 万美元“在数学上是不可能的”",
         "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786800600,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Swan首席执行官表示，比特币可能在10月触底，山寨币“基本上已经死了”",
-        "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786798678,
         "source": "Cointelegraph"
       }
     ],
