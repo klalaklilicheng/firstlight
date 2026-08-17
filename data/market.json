@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-17T12:26:40.068Z",
+  "updated_at": "2026-08-17T13:33:51.307Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 713.61,
-      "change_pct": -0.19
+      "price": 713.84,
+      "change_pct": 0.03
     },
     {
       "symbol": "QQQ",
-      "price": 731.07,
-      "change_pct": -0.14
+      "price": 733.56,
+      "change_pct": 0.34
     },
     {
       "symbol": "QQQM",
-      "price": 301.01,
-      "change_pct": -0.13
+      "price": 302.09,
+      "change_pct": 0.36
     },
     {
       "symbol": "NVDA",
-      "price": 225.16,
-      "change_pct": -0.06
+      "price": 226.43,
+      "change_pct": 0.56
     },
     {
       "symbol": "TSLA",
-      "price": 342.27,
-      "change_pct": 0.68
+      "price": 338.05,
+      "change_pct": -1.23
     },
     {
       "symbol": "GOOG",
-      "price": 343.54,
-      "change_pct": -0.12
+      "price": 344.89,
+      "change_pct": 0.39
     },
     {
       "symbol": "RKLB",
-      "price": 80.25,
-      "change_pct": 0.19
+      "price": 80.7,
+      "change_pct": 0.56
     },
     {
       "symbol": "CRCL",
-      "price": 71.6,
-      "change_pct": -5.01
+      "price": 72.48,
+      "change_pct": 1.23
     },
     {
       "symbol": "PLTR",
-      "price": 174.04,
-      "change_pct": -2.78
+      "price": 174.86,
+      "change_pct": 0.47
     },
     {
       "symbol": "MSTR",
-      "price": 93.04,
-      "change_pct": -4.18
+      "price": 95.19,
+      "change_pct": 2.31
     },
     {
       "symbol": "GLD",
-      "price": 401.48,
-      "change_pct": 0.63
+      "price": 402.5,
+      "change_pct": 0.25
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63571,
-      "change_pct": 0.95
+      "price": 63423,
+      "change_pct": 0.66
     },
     {
       "symbol": "ETH",
-      "price": 1900.56,
-      "change_pct": 1.16
+      "price": 1896.5,
+      "change_pct": 0.89
     },
     {
       "symbol": "SOL",
-      "price": 75.49,
-      "change_pct": 0.38
+      "price": 75.24,
+      "change_pct": -0.13
     },
     {
       "symbol": "HYPE",
-      "price": 59.37,
-      "change_pct": 3.77
+      "price": 58.96,
+      "change_pct": 3.18
     },
     {
       "symbol": "ZEC",
-      "price": 511.27,
-      "change_pct": 5.48
+      "price": 509.35,
+      "change_pct": 4.75
     },
     {
       "symbol": "TAO",
-      "price": 196.28,
-      "change_pct": -0.04
+      "price": 195.11,
+      "change_pct": -0.83
     },
     {
       "symbol": "SKY",
-      "price": 1231.15,
-      "change_pct": -32.07
+      "price": 1235.81,
+      "change_pct": 0.96
     },
     {
       "symbol": "AAVE",
-      "price": 86.68,
-      "change_pct": 0.45
+      "price": 86.73,
+      "change_pct": 0.95
     },
     {
       "symbol": "BNB",
-      "price": 604.14,
-      "change_pct": -0.4
+      "price": 603.56,
+      "change_pct": -0.67
     },
     {
       "symbol": "NEAR",
-      "price": 1.65,
-      "change_pct": 1.28
+      "price": 1.64,
+      "change_pct": 1.18
     },
     {
       "symbol": "DOGE",
-      "price": 0.070081,
-      "change_pct": 0.45
+      "price": 0.069984,
+      "change_pct": 0.08
     },
     {
       "symbol": "SPACEX",
-      "price": 527.87,
-      "change_pct": 3.27
+      "price": 527.67,
+      "change_pct": 3.23
     }
   ],
   "earnings": {
@@ -474,6 +474,60 @@
   },
   "news": [
     {
+      "headline": "Strategy 通过股票销售筹集了 3.34 亿美元，但没有购买比特币",
+      "summary": "所得款项用于支付 STRC 股息和回购，同时为 Strategy 的美元储备增加 1.491 亿美元，达到 48 亿美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786971063,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Harmony 计划回滚，在一次漏洞利用后擦除 109,000 笔交易",
+      "summary": "Harmony 表示，有选择地恢复交易可能会造成链状态不一致，因为 Ravencoin 在漏洞利用后面临着单独的回滚争议。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786969896,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于Strategy增加了美元储备，上周回购了更多STRC，比特币持有量没有变化",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
+      "datetime": 1786969185,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以太坊的下一次重大升级有 66 项提案，其中包括重大隐私修复",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+      "datetime": 1786968130,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以色列最大的加密货币经纪商 Bits of Gold 遭遇数据泄露，影响 20 万客户",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
+      "datetime": 1786967963,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管夏季平静，但比特币期权仍然昂贵。这就是为什么它很重要",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
+      "datetime": 1786966982,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着 2022 年的重演，比特币价格失去了 200 周趋势线：本周比特币需要了解的五件事",
       "summary": "比特币确认每周蜡烛收盘价低于 200 周移动均线，复制了 2022 年的熊市，交易员警告接下来 BTC 价格将进一步下跌。",
       "source": "Cointelegraph",
@@ -488,6 +542,15 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1786966723,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币最大的持有者 Strategy 和 Metaplanet 正在押注数学，而不是价格",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+      "datetime": 1786966121,
       "category": "crypto",
       "related": ""
     },
@@ -679,69 +742,6 @@
       "datetime": 1786893086,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "加密钱包 SafePal 揭露数据泄露，近 40,000 名客户的订单信息被泄露",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "datetime": 1786888952,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "MiCA 的清理工作正在欧盟掀起新的诈骗浪潮",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "datetime": 1786888800,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "稳定币收益率冲突不会消失，银行、加密货币都在争夺传统",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "datetime": 1786885200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "DefiLlama 创始人表示，因 Apple Store 上的网络钓鱼应用而推迟了移动版的发布",
-      "summary": "DefiLlama 的创始人表示，苹果公司记录了一款虚假应用程序从一个小型加密钱包中耗尽资金后几天内就删除了该应用程序。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786884489,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着 TradFi 巨头拥抱数字资产，“做多比特币、做空银行家”时代正式结束",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "datetime": 1786881600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "以太坊开发者缩小了与 Hegotá 升级相关的 66 项提案范围",
-      "summary": "Hegotá 升级旨在为以太坊应用程序引入更多原生隐私。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786878771,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前的永续债券阵容中",
-      "summary": "随着 Bybit 的 TradFi 永续产品阵容扩大到 200 多种产品，涵盖股票、ETF、大宗商品、指数和私营公司，这些产品也随之增加。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786822049,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -790,12 +790,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.2,
+    "score": 33.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.5,
-    "weekly_score": 16.7,
-    "btc_price": 63605.7,
+    "daily_score": 16.6,
+    "weekly_score": 16.8,
+    "btc_price": 63687.5,
     "fear_greed": 36,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005929,
-        "score": 48,
+        "value": 0.007007,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.88,
-        "score": 92,
+        "value": 1.89,
+        "score": 93,
         "weight": 5,
         "group": "daily"
       },
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 40.3,
+        "value": 40.5,
         "score": 34,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -40.4,
-        "score": 34,
+        "value": -35.8,
+        "score": 35,
         "weight": 4,
         "group": "weekly"
       }
@@ -1077,36 +1077,36 @@
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 1151,
-        "retweets": 137
+        "likes": 3129,
+        "retweets": 343
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2089322295667867775",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 111,
-        "retweets": 3
+        "likes": 180,
+        "retweets": 11
       },
       {
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 7178,
-        "retweets": 635
+        "likes": 7351,
+        "retweets": 649
       },
       {
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 4464,
-        "retweets": 458
+        "likes": 4504,
+        "retweets": 464
       },
       {
         "text": "To understand Bitcoin, first understand money.\n\nMoney is energy. Bitcoin is digital monetary energy.",
         "url": "https://x.com/saylor/status/2088662012247126149",
         "time": "Sat Aug 15 16:20:03 +0000 2026",
-        "likes": 5602,
-        "retweets": 761
+        "likes": 5634,
+        "retweets": 764
       }
     ],
     "viktorfischer": [
@@ -1114,7 +1114,7 @@
         "text": "20% APY on stablecoins in this bear market? Easy: @onrefinance multiply strategies on @kamino",
         "url": "https://x.com/viktorfischer/status/2089304427446542602",
         "time": "Mon Aug 17 10:52:47 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 1
       },
       {
@@ -1150,6 +1150,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "无人定价的 BDC 不对称性",
+        "url": "https://finnhub.io/api/news?id=5e1502b095cda1176bb8688161b93f9ac1a28cfede6f85ff5b00c32c0bf9f624",
+        "datetime": 1786958100,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "FTXL：“态势感知贸易”仍然青睐人工智能芯片",
         "url": "https://finnhub.io/api/news?id=745e1b1c2311a9a2e0041ec0feb3545d6142daf1d19b8eb4053efc4a5173960e",
         "datetime": 1786953600,
@@ -1168,15 +1174,9 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Horizon 1 交付后，Iren 无需在很长时间内筹集资金",
+        "headline": "Horizo​​n 1 交付后，Iren 无需在很长时间内筹集资金",
         "url": "https://finnhub.io/api/news?id=cd43b191a9417f18312accd23c0414768a3f063a21b70acd588ee77fa7c80475",
         "datetime": 1786817700,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "5 只月度股息 ETF 将支付 7% 至 14% 进入 2027 年",
-        "url": "https://finnhub.io/api/news?id=ac5ae008cd1c7b76d6138106b448ed1cf2fd03311b8b1548a08fd4ef4d7a8048",
-        "datetime": 1786813908,
         "source": "Yahoo"
       }
     ],
@@ -1273,37 +1273,43 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Strategy 通过股票销售筹集了 3.34 亿美元，但没有购买比特币",
+        "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1786971063,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "由于Strategy增加了美元储备，上周回购了更多STRC，比特币持有量没有变化",
+        "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
+        "datetime": 1786969185,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "尽管夏季平静，但比特币期权仍然昂贵。这就是为什么它很重要",
+        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
+        "datetime": 1786966982,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "随着 2022 年的重演，比特币价格失去了 200 周趋势线：本周比特币需要了解的五件事",
         "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786966732,
         "source": "Cointelegraph"
       },
       {
-        "headline": "比特币追踪股市反弹，但本周 3.9 亿美元的 ETF 流出让多头望而却步",
-        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
-        "datetime": 1786960795,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "实时更新：比特币持平于 63,500 美元附近；美伊停火失效再次引发石油威胁",
-        "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-        "datetime": 1786955906,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币期货市场看起来就像一个拥挤的俱乐部，出口很小——这可能会带来痛苦",
-        "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
-        "datetime": 1786945878,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "HYPE 本周上涨 8%，比特币在亚洲早盘突破 64,000 美元",
-        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-        "datetime": 1786940040,
+        "headline": "比特币最大的持有者 Strategy 和 Metaplanet 正在押注数学，而不是价格",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+        "datetime": 1786966121,
         "source": "CoinDesk"
       }
     ],
     "ETH": [
+      {
+        "headline": "以太坊的下一次重大升级有 66 项提案，其中包括重大隐私修复",
+        "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+        "datetime": 1786968130,
+        "source": "CoinDesk"
+      },
       {
         "headline": "以太坊开发者缩小了与 Hegotá 升级相关的 66 项提案范围",
         "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
