@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:28:29.809Z",
+  "updated_at": "2026-08-17T06:36:59.452Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63495,
-      "change_pct": 0.75
+      "price": 63524,
+      "change_pct": 0.82
     },
     {
       "symbol": "ETH",
-      "price": 1900.93,
-      "change_pct": 1.16
+      "price": 1899.94,
+      "change_pct": 1.14
     },
     {
       "symbol": "SOL",
-      "price": 75.5,
-      "change_pct": 0.22
+      "price": 75.44,
+      "change_pct": 0.2
     },
     {
       "symbol": "HYPE",
       "price": 58.94,
-      "change_pct": 3.36
+      "change_pct": 3.58
     },
     {
       "symbol": "ZEC",
-      "price": 492.8,
-      "change_pct": 1.2
+      "price": 508.9,
+      "change_pct": 4.64
     },
     {
       "symbol": "TAO",
-      "price": 197.1,
-      "change_pct": 0.65
+      "price": 196.94,
+      "change_pct": 0.67
     },
     {
       "symbol": "SKY",
-      "price": 1232.81,
-      "change_pct": -26.71
+      "price": 1230.83,
+      "change_pct": -26.81
     },
     {
       "symbol": "AAVE",
-      "price": 86.67,
-      "change_pct": 0.76
+      "price": 86.24,
+      "change_pct": 0.48
     },
     {
       "symbol": "BNB",
-      "price": 605.66,
-      "change_pct": 0.03
+      "price": 605.46,
+      "change_pct": 0.18
     },
     {
       "symbol": "NEAR",
       "price": 1.64,
-      "change_pct": 1.9
+      "change_pct": 1.68
     },
     {
       "symbol": "DOGE",
-      "price": 0.070164,
-      "change_pct": 0.72
+      "price": 0.070196,
+      "change_pct": 0.83
     },
     {
       "symbol": "SPACEX",
-      "price": 525.91,
-      "change_pct": 3.14
+      "price": 526.13,
+      "change_pct": 3.16
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "Greenlane 的 7000 万美元 BERA 金库在第二季度结束时价值 1600 万美元",
+      "summary": "由于 BERA 的股价今年迄今下跌了近 76%，Greenlane 录得 1,910 万美元的非现金估值损失。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1786945975,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着价格跌至 1 美元且看跌言论激增，XRP 交易者押注反弹",
       "summary": "",
       "source": "CoinDesk",
@@ -733,15 +742,6 @@
       "datetime": 1786798800,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Swan首席执行官表示，比特币可能在10月触底，山寨币“基本上已经死了”",
-      "summary": "Klippsten 表示，比特币可能会在之前的峰值一年后触底，并认为加密货币的最佳结果是成为 TradFi 的一部分。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786798678,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -793,9 +793,9 @@
     "score": 34,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17,
-    "weekly_score": 17,
-    "btc_price": 63516.7,
+    "daily_score": 16.9,
+    "weekly_score": 17.1,
+    "btc_price": 63587.2,
     "fear_greed": 36,
     "indicators": [
       {
@@ -807,15 +807,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009169,
-        "score": 50,
+        "value": 0.008521,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.05,
-        "score": 100,
+        "value": 1.99,
+        "score": 99,
         "weight": 5,
         "group": "daily"
       },
@@ -856,7 +856,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 84.1,
+        "value": 84,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -877,15 +877,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 40.2,
+        "value": 40.3,
         "score": 34,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -62.5,
-        "score": 28,
+        "value": -59.2,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1040,7 +1040,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 546,
+        "likes": 545,
         "retweets": 16
       },
       {
@@ -1077,36 +1077,36 @@
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 6293,
-        "retweets": 550
+        "likes": 6448,
+        "retweets": 559
       },
       {
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 4272,
-        "retweets": 435
+        "likes": 4307,
+        "retweets": 439
       },
       {
         "text": "To understand Bitcoin, first understand money.\n\nMoney is energy. Bitcoin is digital monetary energy.",
         "url": "https://x.com/saylor/status/2088662012247126149",
         "time": "Sat Aug 15 16:20:03 +0000 2026",
-        "likes": 5398,
-        "retweets": 730
+        "likes": 5427,
+        "retweets": 731
       },
       {
         "text": "https://t.co/QMVtmKPGn2",
         "url": "https://x.com/saylor/status/2088600395257934028",
         "time": "Sat Aug 15 12:15:13 +0000 2026",
-        "likes": 3503,
-        "retweets": 673
+        "likes": 3510,
+        "retweets": 674
       },
       {
         "text": "We’ve upgraded the $STRC, $STRD, $STRK &amp; $STRF dashboards with BTC Rating, BTC Floor, BTC Floor ARR, Tax-Equivalent Effective Yield &amp; 1Y Sharpe. New tools to evaluate income, credit quality, downside protection &amp; risk-adjusted returns. Explore at https://t.co/S3OchsaeGQ. https://t.co/nciQtEnQWx",
         "url": "https://x.com/saylor/status/2088531228718764347",
         "time": "Sat Aug 15 07:40:22 +0000 2026",
-        "likes": 3412,
-        "retweets": 430
+        "likes": 3415,
+        "retweets": 431
       }
     ],
     "viktorfischer": [
