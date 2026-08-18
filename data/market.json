@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T20:14:46.826Z",
+  "updated_at": "2026-08-18T21:15:53.650Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -23,8 +23,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 336.93,
-      "change_pct": -0.7
+      "price": 336.87,
+      "change_pct": -0.72
     },
     {
       "symbol": "GOOG",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64591,
-      "change_pct": 0.54
-    },
-    {
-      "symbol": "ETH",
-      "price": 1911.99,
-      "change_pct": 0.38
-    },
-    {
-      "symbol": "SOL",
-      "price": 77.12,
-      "change_pct": 1.94
-    },
-    {
-      "symbol": "HYPE",
-      "price": 58.9,
+      "price": 64610,
       "change_pct": 0.44
     },
     {
+      "symbol": "ETH",
+      "price": 1913.47,
+      "change_pct": 0.36
+    },
+    {
+      "symbol": "SOL",
+      "price": 77.03,
+      "change_pct": 1.49
+    },
+    {
+      "symbol": "HYPE",
+      "price": 58.67,
+      "change_pct": -0.09
+    },
+    {
       "symbol": "ZEC",
-      "price": 509.99,
-      "change_pct": -0.86
+      "price": 509.67,
+      "change_pct": -1.61
     },
     {
       "symbol": "TAO",
-      "price": 191.29,
-      "change_pct": -2.51
+      "price": 191.12,
+      "change_pct": -2.72
     },
     {
       "symbol": "SKY",
-      "price": 1284.15,
-      "change_pct": 3.28
+      "price": 1288.36,
+      "change_pct": 3.52
     },
     {
       "symbol": "AAVE",
-      "price": 89.33,
-      "change_pct": 1.94
+      "price": 88.36,
+      "change_pct": 0.19
     },
     {
       "symbol": "BNB",
-      "price": 602.46,
-      "change_pct": -0.35
+      "price": 602.62,
+      "change_pct": -0.43
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": -0.61
+      "price": 1.6,
+      "change_pct": -1.51
     },
     {
       "symbol": "DOGE",
-      "price": 0.070335,
-      "change_pct": 0.25
+      "price": 0.070231,
+      "change_pct": -0.19
     },
     {
       "symbol": "SPACEX",
-      "price": 516.17,
-      "change_pct": -3.62
+      "price": 517.64,
+      "change_pct": -2.14
     }
   ],
   "earnings": {
@@ -475,11 +475,47 @@
   },
   "news": [
     {
+      "headline": "FalconX、Interstice 将 Canton 连接到以太坊、Solana 和 Robinhood 链",
+      "summary": "非托管跨链交换引擎将 Canton 的机构代币化资产市场与主要公共区块链的流动性和交易活动连接起来。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787085948,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Ripple 和 Coinbase 资助的 PAC 在佛罗里达州竞选中花费了 200 万美元，但很少提及加密货币",
+      "summary": "一名未竞选连任、投票反对《天才法案》和《清晰法案》的佛罗里达州代表支持了一位民主党候选人，这可能会导致 PAC 资助的负面广告。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787082856,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Cypherpunk 推出 Zcash 矿机，控制 18% 的网络算力",
       "summary": "Winklevoss Capital 价值 3330 万美元的交易扩大了 Cypherpunk 的 ZEC 战略，因为它的目标是获得加密货币流通供应量的 5% 所有权。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787081476,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国 SEC 意外宣布提出首个主要加密货币规则",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "datetime": 1787080173,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "怀俄明州加入了价值 150 亿美元的 LayerZero 外流，并推出了州稳定币举措",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "datetime": 1787079420,
       "category": "crypto",
       "related": ""
     },
@@ -490,15 +526,6 @@
       "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787074777,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国政府债务收益率在一个糟糕的时期飙升。这是此举背后的原因",
-      "summary": "固定收益市场观察人士将 6 月份开始的上涨归因于多个变数。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "datetime": 1787073994,
-      "category": "top news",
       "related": ""
     },
     {
@@ -529,16 +556,7 @@
       "related": ""
     },
     {
-      "headline": "环孢菌正在改变美国工作场所午餐：“我们立即改变了营销方式，”Saladworks 首席执行官表示",
-      "summary": "在该国持续爆发的环孢子虫疫情中，Sweetgreen 和 Saladworks 等以沙拉为主的餐厅正在改变营销方式。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/cyclospora-outbreak-changing-american-workplace-salad-lunch.html",
-      "datetime": 1787069950,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 在欧洲增加了美国股票",
+      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 增加了美国股票在欧洲的交易",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
@@ -565,30 +583,12 @@
       "related": ""
     },
     {
-      "headline": "我们正在增持因中东紧张局势重燃而受损的股票",
-      "summary": "尽管有一系列积极的更新，但该股最近几周仍有所回落。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/were-adding-to-our-position-in-a-stock-thats-been-hurt-by-rekindled-middle-east-tensions-.html",
-      "datetime": 1787066599,
-      "category": "top news",
-      "related": ""
-    },
-    {
       "headline": "为什么特朗普支持的加密货币企业正在与香港人工智能聚合商 WorldClaw 保持距离",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
       "datetime": 1787065672,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "LinkedIn 研究显示，千禧一代和 Z 世代正在寻找快速增长的高薪人工智能工作",
-      "summary": "LinkedIn 的最新研究显示，年轻员工在人工智能就业市场中占据一席之地。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/millennials-and-gen-z-are-landing-fast-growing-high-paying-ai-jobs-linkedin-study.html",
-      "datetime": 1787064601,
-      "category": "top news",
       "related": ""
     },
     {
@@ -616,33 +616,6 @@
       "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
       "datetime": 1787063708,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "经过长时间的求职后，这位 45 岁的女士正在放弃公司，转而去护士学校——她希望自己早点这么做",
-      "summary": "克里斯蒂·莱登 (Kristy Layden) 失去了电子商务和履行部门高级经理的工作后，花了一年多的时间寻找工作。现在她要去护士学校。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/after-a-layoff-and-long-job-search-kristy-layden-is-going-to-nursing-school.html",
-      "datetime": 1787063101,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Hims & Hers 首席执行官表示 FTC 诉讼误解了公司的运作方式",
-      "summary": "Hims & Hers 首席执行官 Andrew Dudum 在接受 CNBC 采访时谈到了 FTC 针对该公司、复合 GLP-1 药物和人工智能的诉讼。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
-      "datetime": 1787062805,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "我的未婚夫发现了一个秘密的童年股票账户——我学到了为孩子投资的知识",
-      "summary": "我未婚夫的祖父母在 90 年代为他设立了一个托管账户，这一举动对他成年后的财务产生了重大影响。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/how-to-educate-your-children-about-custodial-accounts-and-trump-acccounts.html",
-      "datetime": 1787062650,
-      "category": "top news",
       "related": ""
     },
     {
@@ -682,33 +655,6 @@
       "related": ""
     },
     {
-      "headline": "迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对 FCC 提起诉讼",
-      "summary": "迪士尼旗下的美国广播公司 (ABC) 起诉美国联邦通信委员会 (FCC)，声称其调查和提前更新广播许可证是对其节目的“报复性行动”。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-      "datetime": 1787058690,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周二股市最值得关注的 10 件事",
-      "summary": "债券市场是当今的焦点。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "datetime": 1787058031,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国航空将增加座椅靠背屏幕和更大的头等舱以追赶达美航空和联合航空",
-      "summary": "在落后于竞争对手达美航空和联合航空后，美国航空正试图增加更多的高级座位和乘客福利。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
-      "datetime": 1787058001,
-      "category": "business",
-      "related": ""
-    },
-    {
       "headline": "MoonPay 为美国客户购买加密货币添加了现金应用支付",
       "summary": "随着支付公司扩展到其核心入口业务之外，符合条件的美国用户可以使用 Cash App 余额为 MoonPay 加密货币购买提供资金。",
       "source": "Cointelegraph",
@@ -743,6 +689,60 @@
       "datetime": 1787055425,
       "category": "crypto",
       "related": ""
+    },
+    {
+      "headline": "能源市场的“裂缝”比以往任何时候都更大。比特币可能会感觉到。",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "datetime": 1787052111,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "韩国加入 30 多个司法管辖区的行列，限制 Polymarket 准入",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "datetime": 1787051156,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Kraken 为欧洲经济区客户推出美国上市股票交易",
+      "summary": "符合条件的 EEA 用户可以通过 Kraken 的欧洲实体交易传统美国股票以及 700 多种代币化 xStocks。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787050401,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着收益率上升、石油拖累股市走低，比特币价格暂停在 64,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "datetime": 1787049536,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币罕见地战胜标准普尔 500 指数，上涨 2.6%，而下跌 0.5%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "datetime": 1787047283,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "分析：比特币价格飙升至 6.45 万美元是“低交易量流动性陷阱”",
+      "summary": "比特币衍生品市场造成了空头挤压，导致周一 BTC 价格上涨 3%。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787045475,
+      "category": "crypto",
+      "related": ""
     }
   ],
   "ipo_watch": [
@@ -757,23 +757,12 @@
           "headline": "Kraken 母公司 Payward 加入 Anthropic 的 Glasswing 项目，推动人工智能安全",
           "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
           "datetime": 1787004720
-        },
-        {
-          "headline": "吉姆·克莱默 (Jim Cramer) 周一股市最值得关注的 10 件事",
-          "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-          "datetime": 1786973365
         }
       ]
     },
     {
       "company": "OpenAI",
-      "news": [
-        {
-          "headline": "Nvidia 支持俄亥俄州 OpenAI 数据中心的融资",
-          "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-          "datetime": 1786975816
-        }
-      ]
+      "news": []
     },
     {
       "company": "宇树科技",
@@ -813,7 +802,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.7,
     "weekly_score": 17.7,
-    "btc_price": 64661.4,
+    "btc_price": 64631.3,
     "fear_greed": 40,
     "indicators": [
       {
@@ -825,14 +814,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000998,
+        "value": 0.000683,
         "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.35,
+        "value": 1.36,
         "score": 57,
         "weight": 5,
         "group": "daily"
@@ -895,14 +884,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 42.3,
+        "value": 42.2,
         "score": 37,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -88.1,
+        "value": -86.4,
         "score": 21,
         "weight": 4,
         "group": "weekly"
@@ -1058,8 +1047,8 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2311,
-        "retweets": 61
+        "likes": 2411,
+        "retweets": 63
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1095,28 +1084,28 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 883,
-        "retweets": 79
+        "likes": 1538,
+        "retweets": 124
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 2789,
-        "retweets": 386
+        "likes": 2848,
+        "retweets": 395
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4442,
-        "retweets": 449
+        "likes": 4479,
+        "retweets": 453
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7243,
+        "likes": 7261,
         "retweets": 832
       },
       {
@@ -1329,6 +1318,12 @@
     ],
     "ETH": [
       {
+        "headline": "FalconX、Interstice 将 Canton 连接到以太坊、Solana 和 Robinhood 链",
+        "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787085948,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "以太坊的下一次升级打破了钱包所依赖的“21,000 Gas”规则",
         "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
         "datetime": 1787055425,
@@ -1351,15 +1346,15 @@
         "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786982672,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "在最新的 ETH 购买之后，Tom Lee 的 Bitmine 现在拥有 4.8% 的以太坊供应量",
-        "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-        "datetime": 1786975461,
-        "source": "CoinDesk"
       }
     ],
     "SOL": [
+      {
+        "headline": "FalconX、Interstice 将 Canton 连接到以太坊、Solana 和 Robinhood 链",
+        "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787085948,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "到处",
         "url": "https://x.com/solana/status/2089721481932525696",
@@ -1418,6 +1413,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全保持隐藏。你只要交易。\n\n不可用",
+        "url": "https://x.com/NEARProtocol/status/2089816892294783460",
+        "datetime": 1787086148,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "IronClaw 的质押将承诺转化为托管积分。 NEAR AI 质押将其转化为机密推理能力。\n\n进入用户拥有的人工智能的两种方法，均由@ilblac介绍",
         "url": "https://x.com/NEARProtocol/status/2089747350289863158",
         "datetime": 1787069568,
@@ -1427,12 +1428,6 @@
         "headline": "完整发行说明：",
         "url": "https://x.com/NEARProtocol/status/2089703636305604720",
         "datetime": 1787059146,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "2.13，主网上线：\n\n- Gas 密钥：预先资助的 Gas、1,024 个并行随机数\n- 后量子签名（FIPS-204 / ML-DSA）\n- 动态重新分片：分片在纪元边界自动分裂",
-        "url": "https://x.com/NEARProtocol/status/2089703424879182041",
-        "datetime": 1787059095,
         "source": "@NEARProtocol"
       }
     ],
