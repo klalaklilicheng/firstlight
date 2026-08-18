@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-18T19:22:30.176Z",
+  "updated_at": "2026-08-18T20:14:46.826Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 705.85,
-      "change_pct": -0.62
+      "price": 705.4,
+      "change_pct": -0.69
     },
     {
       "symbol": "QQQ",
-      "price": 717.38,
-      "change_pct": -1.71
+      "price": 717.51,
+      "change_pct": -1.69
     },
     {
       "symbol": "QQQM",
-      "price": 295.39,
-      "change_pct": -1.71
+      "price": 295.45,
+      "change_pct": -1.69
     },
     {
       "symbol": "NVDA",
-      "price": 219.37,
-      "change_pct": -2.51
+      "price": 219.74,
+      "change_pct": -2.34
     },
     {
       "symbol": "TSLA",
-      "price": 336.25,
-      "change_pct": -0.9
+      "price": 336.93,
+      "change_pct": -0.7
     },
     {
       "symbol": "GOOG",
-      "price": 341.63,
-      "change_pct": 0.05
+      "price": 341.28,
+      "change_pct": -0.05
     },
     {
       "symbol": "RKLB",
-      "price": 79.53,
-      "change_pct": -3.11
+      "price": 79.16,
+      "change_pct": -3.56
     },
     {
       "symbol": "CRCL",
-      "price": 71.97,
-      "change_pct": -3.51
+      "price": 71.73,
+      "change_pct": -3.83
     },
     {
       "symbol": "PLTR",
-      "price": 172.2,
-      "change_pct": -0.2
+      "price": 171.54,
+      "change_pct": -0.59
     },
     {
       "symbol": "MSTR",
-      "price": 92.99,
-      "change_pct": -4.8
+      "price": 92.52,
+      "change_pct": -5.28
     },
     {
       "symbol": "GLD",
-      "price": 399.39,
-      "change_pct": -1.5
+      "price": 398.55,
+      "change_pct": -1.71
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64675,
-      "change_pct": 0.58
+      "price": 64591,
+      "change_pct": 0.54
     },
     {
       "symbol": "ETH",
-      "price": 1912.41,
+      "price": 1911.99,
       "change_pct": 0.38
     },
     {
       "symbol": "SOL",
-      "price": 77.2,
+      "price": 77.12,
       "change_pct": 1.94
     },
     {
       "symbol": "HYPE",
-      "price": 58.76,
-      "change_pct": -0.2
+      "price": 58.9,
+      "change_pct": 0.44
     },
     {
       "symbol": "ZEC",
-      "price": 508.69,
-      "change_pct": -1.3
+      "price": 509.99,
+      "change_pct": -0.86
     },
     {
       "symbol": "TAO",
-      "price": 191.44,
-      "change_pct": -2.3
+      "price": 191.29,
+      "change_pct": -2.51
     },
     {
       "symbol": "SKY",
-      "price": 1276.81,
-      "change_pct": 2.69
+      "price": 1284.15,
+      "change_pct": 3.28
     },
     {
       "symbol": "AAVE",
-      "price": 89.57,
-      "change_pct": 2.02
+      "price": 89.33,
+      "change_pct": 1.94
     },
     {
       "symbol": "BNB",
-      "price": 602.6,
-      "change_pct": -0.38
+      "price": 602.46,
+      "change_pct": -0.35
     },
     {
       "symbol": "NEAR",
       "price": 1.61,
-      "change_pct": -0.19
+      "change_pct": -0.61
     },
     {
       "symbol": "DOGE",
-      "price": 0.070359,
-      "change_pct": 0.18
+      "price": 0.070335,
+      "change_pct": 0.25
     },
     {
       "symbol": "SPACEX",
-      "price": 524.03,
-      "change_pct": -3.17
+      "price": 516.17,
+      "change_pct": -3.62
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "Cypherpunk 推出 Zcash 矿机，控制 18% 的网络算力",
+      "summary": "Winklevoss Capital 价值 3330 万美元的交易扩大了 Cypherpunk 的 ZEC 战略，因为它的目标是获得加密货币流通供应量的 5% 所有权。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787081476,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "随着Payward扩大金融服务业务，Kraken的Krak在美国推出借记卡",
       "summary": "随着 Kraken 母公司在金融服务领域的扩张，这张多资产卡让美国客户可以使用加密货币和法定货币消费并赚取现金返还。",
       "source": "Cointelegraph",
@@ -529,7 +538,7 @@
       "related": ""
     },
     {
-      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 增加了美国股票在欧洲的交易",
+      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 在欧洲增加了美国股票",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
@@ -539,7 +548,7 @@
     },
     {
       "headline": "Neuberger 与 Securitize 合作推出多链代币化固定收益基金",
-      "summary": "这家价值 6130 亿美元的资产管理公司将为一支跨以太坊、Solana、Avalanche 和 Sui 代币化的高收益基金提供建议。",
+      "summary": "这家资产规模达 6130 亿美元的资产管理公司将为一支跨以太坊、Solana、Avalanche 和 Sui 代币化的高收益基金提供建议。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787068794,
@@ -610,7 +619,7 @@
       "related": ""
     },
     {
-      "headline": "经过长时间的求职后，这位 45 岁的女士正在放弃公司，前往护士学校——她希望自己早点这么做",
+      "headline": "经过长时间的求职后，这位 45 岁的女士正在放弃公司，转而去护士学校——她希望自己早点这么做",
       "summary": "克里斯蒂·莱登 (Kristy Layden) 失去了电子商务和履行部门高级经理的工作后，花了一年多的时间寻找工作。现在她要去护士学校。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/18/after-a-layoff-and-long-job-search-kristy-layden-is-going-to-nursing-school.html",
@@ -709,7 +718,7 @@
       "related": ""
     },
     {
-      "headline": "Cash App 的加密支持通过 MoonPay 扩展到比特币和 USDC 之外",
+      "headline": "Cash App 的加密货币支持通过 MoonPay 扩展到比特币和 USDC 之外",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
@@ -733,15 +742,6 @@
       "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
       "datetime": 1787055425,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "预测市场新进入者 Novig 在第一周的交易量就超过 1.25 亿美元",
-      "summary": "新推出的Novig 的名义交易量已超过1.25 亿美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/novig-posts-more-than-125-million-in-trading-volume-in-its-first-week.html",
-      "datetime": 1787054401,
-      "category": "top news",
       "related": ""
     }
   ],
@@ -813,7 +813,7 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.7,
     "weekly_score": 17.7,
-    "btc_price": 64729,
+    "btc_price": 64661.4,
     "fear_greed": 40,
     "indicators": [
       {
@@ -825,15 +825,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001287,
-        "score": 46,
+        "value": 0.000998,
+        "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.34,
-        "score": 56,
+        "value": 1.35,
+        "score": 57,
         "weight": 5,
         "group": "daily"
       },
@@ -895,15 +895,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 42.4,
+        "value": 42.3,
         "score": 37,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89.8,
-        "score": 20,
+        "value": -88.1,
+        "score": 21,
         "weight": 4,
         "group": "weekly"
       }
@@ -1058,8 +1058,8 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2228,
-        "retweets": 57
+        "likes": 2311,
+        "retweets": 61
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1092,25 +1092,32 @@
     ],
     "saylor": [
       {
+        "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
+        "url": "https://x.com/saylor/status/2089798858872099115",
+        "time": "Tue Aug 18 19:37:29 +0000 2026",
+        "likes": 883,
+        "retweets": 79
+      },
+      {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 2705,
-        "retweets": 373
+        "likes": 2789,
+        "retweets": 386
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4404,
-        "retweets": 445
+        "likes": 4442,
+        "retweets": 449
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7226,
-        "retweets": 830
+        "likes": 7243,
+        "retweets": 832
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1118,13 +1125,6 @@
         "time": "Mon Aug 17 12:03:47 +0000 2026",
         "likes": 327,
         "retweets": 19
-      },
-      {
-        "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
-        "url": "https://x.com/saylor/status/2089024403619127652",
-        "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 8638,
-        "retweets": 798
       }
     ],
     "viktorfischer": [
@@ -1168,6 +1168,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "探索今天交易中道琼斯指数中涨幅最大的股票和跌幅最大的股票。",
+        "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
+        "datetime": 1787080206,
+        "source": "ChartMill"
+      },
+      {
         "headline": "对今天交易中最活跃的 S&P500 股票感到好奇吗？",
         "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
         "datetime": 1787076302,
@@ -1186,19 +1192,25 @@
         "source": "ChartMill"
       },
       {
-        "headline": "IREN 在一项重要的 AI 指标上悄然超越 CoreWeave",
-        "url": "https://finnhub.io/api/news?id=304e38a4326cd4a42c434d73f8f1f685a2700f91e22be6ff1072c7c9b1cbe0b3",
-        "datetime": 1787061070,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "你已经在为人工智能泡沫提供资金——而且你将为泡沫破灭付出代价",
-        "url": "https://finnhub.io/api/news?id=af79542519554dd06b03debbfd4f9fd13ec9750dd9f6dadcc348f70c82e6ad27",
-        "datetime": 1787060240,
-        "source": "Benzinga"
+        "headline": "SK 海力士：相信 HBM 领导者",
+        "url": "https://finnhub.io/api/news?id=5bcb77326368d578aa97a2a913551aca5ea4f487c926e532282fd144f2e46cb4",
+        "datetime": 1787067974,
+        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "人工智能泡沫的数学原理正在发生变化",
+        "url": "https://finnhub.io/api/news?id=8dd69aabbe43c613b7278c0d5e797403c3ad736312c150014a177208d23e5709",
+        "datetime": 1787066531,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "美国债务接近 40T；家得宝盈利好于预期",
+        "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2",
+        "datetime": 1787063039,
+        "source": "Benzinga"
+      },
       {
         "headline": "XLC：字母表和元数据不断变化",
         "url": "https://finnhub.io/api/news?id=90836467a4e2ed96426dd09492f4bf24abf02bb02849dbc087d69bd04d2cfba1",
@@ -1216,18 +1228,6 @@
         "url": "https://finnhub.io/api/news?id=500c10a1c96bef92e5179f17a2b87f82403829553ea1ccc071ecef97cabdb7eb",
         "datetime": 1787054412,
         "source": "Benzinga"
-      },
-      {
-        "headline": "沃伦·巴菲特弟子塞思·卡拉曼第二季度押注于邮轮、汽车零部件、亚马逊和比尔·阿克曼",
-        "url": "https://finnhub.io/api/news?id=7a0923142f4e79f7c0843e127d5fe066087883fcfd22c32fedcef46c9704915e",
-        "datetime": 1787053961,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Sandisk 的 Nvidia Catalyst 刚刚出现（评级升级）",
-        "url": "https://finnhub.io/api/news?id=c3e5cbbc28b448df3697394d77148468ce1d882e0b2ca0fbf71f4814c78bf310",
-        "datetime": 1787048727,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
@@ -1236,6 +1236,18 @@
         "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
         "datetime": 1787076302,
         "source": "ChartMill"
+      },
+      {
+        "headline": "加里·布莱克表示社交媒体上的特斯拉牛市就像大学生在喝“龙舌兰酒”",
+        "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
+        "datetime": 1787063849,
+        "source": "Benzinga"
+      },
+      {
+        "headline": "美国债务接近 40T；家得宝盈利好于预期",
+        "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2",
+        "datetime": 1787063039,
+        "source": "Benzinga"
       },
       {
         "headline": "特斯拉：重回负自由现金流领域",
@@ -1248,18 +1260,6 @@
         "url": "https://finnhub.io/api/news?id=c72c281529f57a71ec992c40b253a421c53b8fa4b522b66a5a9c0b159bc2e730",
         "datetime": 1787057783,
         "source": "CNBC"
-      },
-      {
-        "headline": "Tesla Semi 部署使 Einride 的运力增加了两倍，已有 500 辆汽车加入亚马逊货运计划",
-        "url": "https://finnhub.io/api/news?id=e017f315763d0097f0f870b24a96f2461c7d66c5812184c26401b90f0ecde5e5",
-        "datetime": 1787051870,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "特斯拉从 Einride 获得 500 辆卡车订单，这是全球最大的特斯拉半挂车部署",
-        "url": "https://finnhub.io/api/news?id=47e331be568ad55c139e846dd553c04981c3189b686bb6c2d3db1406dfeb8249",
-        "datetime": 1787048908,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1353,7 +1353,7 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "在最新一次 ETH 购买后，Tom Lee 的 Bitmine 现在拥有 4.8% 的以太坊供应量",
+        "headline": "在最新的 ETH 购买之后，Tom Lee 的 Bitmine 现在拥有 4.8% 的以太坊供应量",
         "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
         "datetime": 1786975461,
         "source": "CoinDesk"
@@ -1436,7 +1436,14 @@
         "source": "@NEARProtocol"
       }
     ],
-    "ZEC": [],
+    "ZEC": [
+      {
+        "headline": "Cypherpunk 推出 Zcash 矿机，控制 18% 的网络算力",
+        "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787081476,
+        "source": "Cointelegraph"
+      }
+    ],
     "SPACEX": []
   }
 }
