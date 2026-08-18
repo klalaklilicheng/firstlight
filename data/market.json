@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T23:15:51.988Z",
+  "updated_at": "2026-08-18T00:45:01.245Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64305,
-      "change_pct": 2.31
+      "price": 64341,
+      "change_pct": 2.5
     },
     {
       "symbol": "ETH",
-      "price": 1906.41,
-      "change_pct": 1.78
+      "price": 1907.42,
+      "change_pct": 1.84
     },
     {
       "symbol": "SOL",
-      "price": 75.76,
-      "change_pct": 1.75
+      "price": 75.86,
+      "change_pct": 1.81
     },
     {
       "symbol": "HYPE",
-      "price": 59.19,
-      "change_pct": 3.46
+      "price": 59.53,
+      "change_pct": 3.96
     },
     {
       "symbol": "ZEC",
-      "price": 513.13,
-      "change_pct": 5.41
+      "price": 512.33,
+      "change_pct": 5.53
     },
     {
       "symbol": "TAO",
-      "price": 195.85,
-      "change_pct": -0.08
+      "price": 196.06,
+      "change_pct": 0.36
     },
     {
       "symbol": "SKY",
-      "price": 1244.44,
-      "change_pct": 1.7
+      "price": 1238.68,
+      "change_pct": 1.23
     },
     {
       "symbol": "AAVE",
-      "price": 88.69,
-      "change_pct": 3.26
+      "price": 89.12,
+      "change_pct": 3.84
     },
     {
       "symbol": "BNB",
-      "price": 604.66,
-      "change_pct": 0.5
+      "price": 604.78,
+      "change_pct": 0.53
     },
     {
       "symbol": "NEAR",
-      "price": 1.63,
-      "change_pct": 2.21
+      "price": 1.64,
+      "change_pct": 2.34
     },
     {
       "symbol": "DOGE",
-      "price": 0.070185,
-      "change_pct": 0.85
+      "price": 0.070202,
+      "change_pct": 0.88
     },
     {
       "symbol": "SPACEX",
-      "price": 526.03,
-      "change_pct": 4.46
+      "price": 525.82,
+      "change_pct": 2.76
     }
   ],
   "earnings": {
@@ -430,10 +430,11 @@
     },
     "LKNCY": {
       "next": {
-        "date": "2026-11-19",
+        "date": "2026-11-16",
         "quarter": 3,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": 0.9615,
+        "revenue_estimate": 2782311169
       },
       "history": [
         {
@@ -474,7 +475,16 @@
   },
   "news": [
     {
-      "headline": "OCC 批准特朗普家族加密货币公司信托许可",
+      "headline": "Kraken 母公司 Payward 加入 Anthropic 的 Glasswing 项目，推动人工智能安全",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "datetime": 1787004720,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "OCC 批准特朗普家族加密货币公司信托章程",
       "summary": "美国金融监管机构有条件地批准了世界自由金融公司的特许经营申请，十名民主党人签署了一项“防止银行申请中的腐败”法案。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -601,7 +611,7 @@
     },
     {
       "headline": "Nvidia 支持俄亥俄州 OpenAI 数据中心的融资",
-      "summary": "科技巨头正在斥资数十亿美元来扩展容量，以满足海量数据中心的需求。",
+      "summary": "科技巨头正在斥资数十亿美元扩大容量，以满足庞大的数据中心需求。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "datetime": 1786975816,
@@ -733,15 +743,6 @@
       "datetime": 1786963951,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "桑托利：将市场推向创纪录水平的盈利繁荣可能并不像看上去的那样",
-      "summary": "标准普尔 500 指数在 12 个交易日内上涨超过 6%，创历史新高。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
-      "datetime": 1786962693,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -752,6 +753,11 @@
     {
       "company": "Anthropic",
       "news": [
+        {
+          "headline": "Kraken 母公司 Payward 加入 Anthropic 的 Glasswing 项目，推动人工智能安全",
+          "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+          "datetime": 1787004720
+        },
         {
           "headline": "吉姆·克莱默 (Jim Cramer) 周一股市最值得关注的 10 件事",
           "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
@@ -773,7 +779,7 @@
       "company": "宇树科技",
       "news": [
         {
-          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前永续债券阵容中",
+          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前的永续债券阵容中",
           "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1786822049
         },
@@ -802,39 +808,39 @@
     }
   ],
   "btc_score": {
-    "score": 32.5,
+    "score": 33.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 16.6,
-    "btc_price": 64361.7,
-    "fear_greed": 36,
+    "daily_score": 17,
+    "weekly_score": 16.7,
+    "btc_price": 64387.2,
+    "fear_greed": 40,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 25400000,
-        "score": 52,
+        "value": 137300000,
+        "score": 59,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.004182,
-        "score": 47,
+        "value": 0.005032,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.52,
-        "score": 68,
+        "value": 1.47,
+        "score": 65,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 36,
-        "score": 36,
+        "value": 40,
+        "score": 40,
         "weight": 7,
         "group": "daily"
       },
@@ -882,22 +888,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 0.98,
-        "score": 16,
+        "value": 1.01,
+        "score": 17,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 41.7,
+        "value": 41.8,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -63.4,
-        "score": 28,
+        "value": -56.8,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -906,7 +912,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 30
+      "days_until": 29
     },
     "schedule": [
       "2025-01-29",
@@ -1089,36 +1095,36 @@
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 2835,
-        "retweets": 256
+        "likes": 3052,
+        "retweets": 274
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 6493,
-        "retweets": 732
+        "likes": 6599,
+        "retweets": 750
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2089322295667867775",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 306,
-        "retweets": 17
+        "likes": 311,
+        "retweets": 18
       },
       {
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 8124,
-        "retweets": 729
+        "likes": 8168,
+        "retweets": 732
       },
       {
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 4686,
-        "retweets": 487
+        "likes": 4702,
+        "retweets": 490
       }
     ],
     "viktorfischer": [
@@ -1194,13 +1200,19 @@
     ],
     "GOOG": [
       {
+        "headline": "追踪 Seth Klarman 的 Baupost 集团持股 - 2026 年第 2 季度更新",
+        "url": "https://finnhub.io/api/news?id=adf36bd6d8d33f0eda81a3ffe443bb9cac2a47726dfa0107317ec0ca23d0c555",
+        "datetime": 1786996813,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Alphabet：最便宜的大型科技公司",
         "url": "https://finnhub.io/api/news?id=38cb145ab5f0a8c07e992eae1a30182b3eab15e70caf7db2ae1da18633327153",
         "datetime": 1786985318,
         "source": "SeekingAlpha"
       },
       {
-        "headline": "不要指望苹果在这个切入点会有巨大的上涨空间",
+        "headline": "不要指望苹果会在这个切入点带来巨大的上涨",
         "url": "https://finnhub.io/api/news?id=8a31c7a08e8eb59bf54f4fcc11667cdc1e6604b3ab03451a11f895bc441b611d",
         "datetime": 1786983479,
         "source": "SeekingAlpha"
@@ -1216,12 +1228,6 @@
         "url": "https://finnhub.io/api/news?id=fff8288435cd26a239c8b7c2fa38d9012a701470a99e9d2e014d4e5d2cc84cdf",
         "datetime": 1786974355,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Anthropic 的收入猛增 14 倍；中国人工智能瞄准英伟达的护城河",
-        "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b",
-        "datetime": 1786973866,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1232,13 +1238,19 @@
         "source": "Benzinga"
       },
       {
+        "headline": "特斯拉准备在 8 月份推出 Cyber​​cab，其没有方向盘的机器人出租车；特斯拉计划八月在奥斯汀公开推出 Cybercab Robotaxi - The Information",
+        "url": "https://finnhub.io/api/news?id=0f03c138c712e26936f5d8f5ee0def8e900f1cdf040d1d38a597cd178a1d6ba0",
+        "datetime": 1786980544,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Anthropic 的收入猛增 14 倍；中国人工智能瞄准英伟达的护城河",
         "url": "https://finnhub.io/api/news?id=55b16960fc5530a3a894d5bd5a104f289290cc1784c955f3127ce2a195b4dc6b",
         "datetime": 1786973866,
         "source": "Benzinga"
       },
       {
-        "headline": "尽管 SpaceX 有可能收购特斯拉，但按目前价格，加里·布莱克 (Gary Black) 对特斯拉股票“兴趣不大”",
+        "headline": "即使 SpaceX 可能收购，加里·布莱克 (Gary Black) 对特斯拉股票目前的价格也“兴趣不大”",
         "url": "https://finnhub.io/api/news?id=96d7288e8429719bfc126ac141eb9df7683eb22c5fd123ce77d8d9e0e94438cd",
         "datetime": 1786971652,
         "source": "Benzinga"
@@ -1248,12 +1260,6 @@
         "url": "https://finnhub.io/api/news?id=87f14dea12312475eee8406c1cb72d8c4c2f3f4836b5aed900763b9ee9b6878c",
         "datetime": 1786969836,
         "source": "Benzinga"
-      },
-      {
-        "headline": "特斯拉前总裁乔恩·麦克尼尔：飞行 Roadster 的想法“从一开始”就存在",
-        "url": "https://finnhub.io/api/news?id=8abea5d49bd6a33225e1c66f7470b976a279a934388c732dd0a8caf55ec52665",
-        "datetime": 1786969728,
-        "source": "CNBC"
       }
     ],
     "CRCL": [
