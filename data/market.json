@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:26:14.629Z",
+  "updated_at": "2026-08-18T09:24:18.440Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64163,
-      "change_pct": 1.26
+      "price": 64131,
+      "change_pct": 1.29
     },
     {
       "symbol": "ETH",
-      "price": 1896.08,
-      "change_pct": 0.23
+      "price": 1895.22,
+      "change_pct": 0.12
     },
     {
       "symbol": "SOL",
-      "price": 75.87,
-      "change_pct": 0.67
+      "price": 75.93,
+      "change_pct": 0.92
     },
     {
       "symbol": "HYPE",
-      "price": 59.31,
-      "change_pct": 0.18
+      "price": 59.4,
+      "change_pct": 0.48
     },
     {
       "symbol": "ZEC",
-      "price": 504.97,
-      "change_pct": -1.05
+      "price": 505.76,
+      "change_pct": -0.96
     },
     {
       "symbol": "TAO",
-      "price": 192.03,
-      "change_pct": -1.9
+      "price": 193.02,
+      "change_pct": -0.76
     },
     {
       "symbol": "SKY",
-      "price": 1258.39,
-      "change_pct": 2.77
+      "price": 1258.52,
+      "change_pct": 2.63
     },
     {
       "symbol": "AAVE",
-      "price": 88.27,
-      "change_pct": 3
+      "price": 88.52,
+      "change_pct": 3.14
     },
     {
       "symbol": "BNB",
-      "price": 602.05,
-      "change_pct": -0.41
+      "price": 601.81,
+      "change_pct": -0.38
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": -1.03
+      "price": 1.62,
+      "change_pct": -1.13
     },
     {
       "symbol": "DOGE",
-      "price": 0.069714,
-      "change_pct": -0.57
+      "price": 0.069816,
+      "change_pct": -0.43
     },
     {
       "symbol": "SPACEX",
-      "price": 523.61,
-      "change_pct": -2.14
+      "price": 525.59,
+      "change_pct": -0.41
     }
   ],
   "earnings": {
@@ -475,6 +475,51 @@
   },
   "news": [
     {
+      "headline": "尽管英超俱乐部亏损飙升，投资者如何从足球中获利",
+      "summary": "尽管英国足球俱乐部越来越受到全球投资者的欢迎，但球队仍然存在风险，而且往往无利可图。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
+      "datetime": 1787044159,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "中国新增 8 家银行加入数字人民币网络 运营商数量达到 30 家",
+      "summary": "新授权的贷方将在完成运营和技术准备后开始提供电子人民币服务。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787042931,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "韩国因赌博问题而封锁 Polymarket",
+      "summary": "韩国媒体和通信委员会表示，尽管 Polymarket 采用非托管设计和智能合约，但其结构和运营构成非法赌博。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787042397,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时更新：随着收益率飙升和石油耗尽风险偏好，比特币保持在 64,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "datetime": 1787040971,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "BitBox 修复了可能导致资金面临风险的“严重”钱包缺陷",
+      "summary": "BitBox 建议所有用户更新至固件版本 9.26.5，并表示尚未收到有关利用或资金损失的报告。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787040424,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "30年期国债收益率刚刚触及19年高点。三件事可以推动它更高",
       "summary": "30年期美国国债收益率已飙升至19年来的最高水平，一些策略师认为还有进一步上涨的空间。",
       "source": "CNBC",
@@ -698,51 +743,6 @@
       "datetime": 1786975816,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Coldcard 黑客攻击证明声誉不是安全模型",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
-      "datetime": 1786975786,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "在最新的 ETH 购买之后，Tom Lee 的 Bitmine 现在拥有 4.8% 的以太坊供应量",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-      "datetime": 1786975461,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Coldcard 代码中的一个错误多年来未被注意到，如何导致 1 亿美元的资金被黑客入侵",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-      "datetime": 1786975031,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周一股市最值得关注的 10 件事",
-      "summary": "Anthropic第二季度营收较去年增长14倍，Melius Research力压戴尔。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "datetime": 1786973365,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Strategy 通过股票销售筹集了 3.34 亿美元，但没有购买比特币",
-      "summary": "所得款项用于支付 STRC 股息和回购，同时为 Strategy 的美元储备增加 1.491 亿美元，达到 48 亿美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786971063,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -808,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 35.2,
+    "score": 35.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.1,
-    "weekly_score": 18.1,
-    "btc_price": 64230.6,
+    "weekly_score": 18.4,
+    "btc_price": 64180.3,
     "fear_greed": 40,
     "indicators": [
       {
@@ -825,7 +825,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006056,
+        "value": 0.006629,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -853,8 +853,8 @@
       },
       {
         "name": "NUPL",
-        "value": 0.162,
-        "score": 41,
+        "value": 0.183,
+        "score": 43,
         "weight": 11,
         "group": "weekly"
       },
@@ -895,14 +895,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.5,
+        "value": 41.4,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -27.2,
+        "value": -25.5,
         "score": 38,
         "weight": 4,
         "group": "weekly"
@@ -1095,15 +1095,15 @@
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 3653,
-        "retweets": 351
+        "likes": 3699,
+        "retweets": 361
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 6928,
-        "retweets": 795
+        "likes": 6952,
+        "retweets": 798
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1116,8 +1116,8 @@
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 8377,
-        "retweets": 761
+        "likes": 8410,
+        "retweets": 766
       },
       {
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
@@ -1297,6 +1297,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "实时更新：随着收益率飙升和石油耗尽风险偏好，比特币保持在 64,000 美元",
+        "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+        "datetime": 1787040971,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "杠杆多头可能遭受打击的比特币价格水平",
         "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
         "datetime": 1787032543,
@@ -1319,12 +1325,6 @@
         "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1786971063,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "由于Strategy增加了美元储备，上周回购了更多STRC，比特币持有量没有变化",
-        "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-        "datetime": 1786969185,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
