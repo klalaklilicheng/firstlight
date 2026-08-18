@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T10:19:48.235Z",
+  "updated_at": "2026-08-18T11:18:15.111Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64098,
-      "change_pct": 1.32
+      "price": 64279,
+      "change_pct": 1.09
     },
     {
       "symbol": "ETH",
-      "price": 1894.39,
-      "change_pct": 0.17
+      "price": 1900.48,
+      "change_pct": -0.2
     },
     {
       "symbol": "SOL",
-      "price": 75.85,
-      "change_pct": 0.74
+      "price": 76.01,
+      "change_pct": 0.47
     },
     {
       "symbol": "HYPE",
-      "price": 59.58,
-      "change_pct": 0.7
+      "price": 59.77,
+      "change_pct": 0.08
     },
     {
       "symbol": "ZEC",
-      "price": 504.46,
-      "change_pct": -0.89
+      "price": 506.6,
+      "change_pct": -1.16
     },
     {
       "symbol": "TAO",
-      "price": 193.2,
-      "change_pct": -0.76
+      "price": 193.17,
+      "change_pct": -1.98
     },
     {
       "symbol": "SKY",
-      "price": 1261.08,
-      "change_pct": 2.91
+      "price": 1268.89,
+      "change_pct": 2.88
     },
     {
       "symbol": "AAVE",
-      "price": 88.63,
-      "change_pct": 3.09
+      "price": 89.36,
+      "change_pct": 3.13
     },
     {
       "symbol": "BNB",
-      "price": 600.61,
-      "change_pct": -0.52
+      "price": 601.39,
+      "change_pct": -0.51
     },
     {
       "symbol": "NEAR",
-      "price": 1.61,
-      "change_pct": -1.33
+      "price": 1.62,
+      "change_pct": -1.56
     },
     {
       "symbol": "DOGE",
-      "price": 0.06983,
-      "change_pct": -0.5
+      "price": 0.069915,
+      "change_pct": -0.52
     },
     {
       "symbol": "SPACEX",
-      "price": 525.93,
-      "change_pct": -0.27
+      "price": 526.18,
+      "change_pct": -0.23
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "随着收益率上升、石油拖累股市走低，比特币价格暂停在 64,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "datetime": 1787049536,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币罕见地战胜标准普尔 500 指数，上涨 2.6%，而下跌 0.5%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "datetime": 1787047283,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "分析：比特币价格飙升至 6.45 万美元是“低交易量流动性陷阱”",
       "summary": "比特币衍生品市场造成了空头挤压，导致周一 BTC 价格上涨 3%。",
       "source": "Cointelegraph",
@@ -725,24 +743,6 @@
       "datetime": 1786980750,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "美国财政部提出 GENIUS Act 稳定币规则",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "datetime": 1786977869,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "最高法院再次拒绝特朗普推翻 E. Jean Carroll 判决的请求",
-      "summary": "特朗普法律团队的发言人抨击卡罗尔的案件是政治迫害和骗局。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
-      "datetime": 1786975928,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -808,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 35.5,
+    "score": 35.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.1,
+    "daily_score": 17.3,
     "weekly_score": 18.4,
-    "btc_price": 64163.3,
+    "btc_price": 64343,
     "fear_greed": 40,
     "indicators": [
       {
@@ -825,15 +825,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006577,
-        "score": 48,
+        "value": 0.00721,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.51,
-        "score": 67,
+        "value": 1.54,
+        "score": 69,
         "weight": 5,
         "group": "daily"
       },
@@ -895,15 +895,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.4,
+        "value": 41.7,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -23.2,
-        "score": 39,
+        "value": -17.8,
+        "score": 40,
         "weight": 4,
         "group": "weekly"
       }
@@ -1095,36 +1095,36 @@
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 460,
-        "retweets": 57
+        "likes": 1004,
+        "retweets": 125
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 3755,
-        "retweets": 373
+        "likes": 3820,
+        "retweets": 377
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 6976,
-        "retweets": 802
+        "likes": 7001,
+        "retweets": 805
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2089322295667867775",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 318,
+        "likes": 320,
         "retweets": 19
       },
       {
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 8446,
-        "retweets": 772
+        "likes": 8482,
+        "retweets": 776
       }
     ],
     "viktorfischer": [
@@ -1297,6 +1297,18 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "随着收益率上升、石油拖累股市走低，比特币价格暂停在 64,000 美元",
+        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+        "datetime": 1787049536,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币罕见地战胜标准普尔 500 指数，上涨 2.6%，而下跌 0.5%",
+        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+        "datetime": 1787047283,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "分析：比特币价格飙升至 6.45 万美元是“低交易量流动性陷阱”",
         "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787045475,
@@ -1313,18 +1325,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
         "datetime": 1787032543,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "比特币攀升至 64,000 美元以上，而大多数主要货币都在下滑",
-        "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-        "datetime": 1787027558,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "随着黄金上涨，比特币触及 6.4 万美元，而石油摆脱了特朗普阿曼的威胁",
-        "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1786983400,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
