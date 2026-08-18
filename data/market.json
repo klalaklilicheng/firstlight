@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:28:41.226Z",
+  "updated_at": "2026-08-18T07:31:18.335Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64285,
-      "change_pct": 1.2
+      "price": 64247,
+      "change_pct": 1.13
     },
     {
       "symbol": "ETH",
-      "price": 1898.27,
-      "change_pct": -0.04
+      "price": 1898.84,
+      "change_pct": -0.25
     },
     {
       "symbol": "SOL",
-      "price": 75.89,
-      "change_pct": 0.65
+      "price": 76.01,
+      "change_pct": 0.3
     },
     {
       "symbol": "HYPE",
-      "price": 59.55,
-      "change_pct": 1.15
+      "price": 60.11,
+      "change_pct": 1.12
     },
     {
       "symbol": "ZEC",
-      "price": 509.9,
-      "change_pct": 1.77
+      "price": 508.25,
+      "change_pct": -1.06
     },
     {
       "symbol": "TAO",
-      "price": 193.45,
-      "change_pct": -1.61
+      "price": 193.14,
+      "change_pct": -2.07
     },
     {
       "symbol": "SKY",
-      "price": 1262,
-      "change_pct": 2.58
+      "price": 1259.83,
+      "change_pct": 2.16
     },
     {
       "symbol": "AAVE",
-      "price": 88.83,
-      "change_pct": 3.04
+      "price": 88.57,
+      "change_pct": 2.6
     },
     {
       "symbol": "BNB",
-      "price": 603.97,
-      "change_pct": -0.26
+      "price": 603.33,
+      "change_pct": -0.39
     },
     {
       "symbol": "NEAR",
-      "price": 1.66,
-      "change_pct": 1.75
+      "price": 1.64,
+      "change_pct": 0.04
     },
     {
       "symbol": "DOGE",
-      "price": 0.06997,
-      "change_pct": -0.31
+      "price": 0.069829,
+      "change_pct": -0.66
     },
     {
       "symbol": "SPACEX",
-      "price": 524.36,
-      "change_pct": -0.33
+      "price": 524.62,
+      "change_pct": -0.06
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "30年期国债收益率刚刚触及19年高点。三件事可以推动它更高",
+      "summary": "30年期美国国债收益率已飙升至19年来的最高水平，一些策略师认为还有进一步上涨的空间。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
+      "datetime": 1787033512,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "杠杆多头可能遭受打击的比特币价格水平",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "datetime": 1787032543,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "即使韩国地区银行采用 Ripple 支付，XRP 仍跌破 1 美元",
       "summary": "",
       "source": "CoinDesk",
@@ -502,7 +520,7 @@
       "related": ""
     },
     {
-      "headline": "比特币攀升至 64,000 美元以上，而大多数主要货币都在下滑",
+      "headline": "比特币攀升至 64,000 美元上方，而大多数主要货币都在下滑",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
@@ -547,7 +565,7 @@
       "related": ""
     },
     {
-      "headline": "OCC 批准特朗普家族加密货币公司信托章程",
+      "headline": "OCC 批准特朗普家族加密货币公司信托宪章",
       "summary": "美国金融监管机构有条件地批准了世界自由金融公司的特许经营申请，十名民主党人签署了一项“防止银行申请中的腐败”法案。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -674,7 +692,7 @@
     },
     {
       "headline": "Nvidia 支持俄亥俄州 OpenAI 数据中心的融资",
-      "summary": "科技巨头正在斥资数十亿美元来扩展容量，以满足海量数据中心的需求。",
+      "summary": "科技巨头正在斥资数十亿美元扩大容量，以满足庞大的数据中心需求。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
       "datetime": 1786975816,
@@ -725,24 +743,6 @@
       "datetime": 1786971063,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Harmony 计划回滚，在一次漏洞利用后擦除 109,000 笔交易",
-      "summary": "Harmony 表示，有选择地恢复交易可能会造成链状态不一致，因为 Ravencoin 在漏洞利用后面临着单独的回滚争议。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1786969896,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "由于Strategy增加了美元储备，上周回购了更多STRC，比特币持有量没有变化",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-      "datetime": 1786969185,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,7 +779,7 @@
       "company": "宇树科技",
       "news": [
         {
-          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前永续债券阵容中",
+          "headline": "Bybit 将 Unitree 和 Moonshot AI 添加到 IPO 前的永续债券阵容中",
           "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1786822049
         },
@@ -808,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.1,
+    "score": 34,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.1,
+    "daily_score": 17,
     "weekly_score": 17,
-    "btc_price": 64361.5,
+    "btc_price": 64312.6,
     "fear_greed": 40,
     "indicators": [
       {
@@ -825,15 +825,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003112,
+        "value": 0.004542,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.53,
-        "score": 69,
+        "value": 1.52,
+        "score": 68,
         "weight": 5,
         "group": "daily"
       },
@@ -895,14 +895,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.7,
+        "value": 41.6,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -37.8,
+        "value": -35,
         "score": 35,
         "weight": 4,
         "group": "weekly"
@@ -1058,7 +1058,7 @@
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
         "url": "https://x.com/QwQiao/status/2085001352401355163",
         "time": "Wed Aug 05 13:53:54 +0000 2026",
-        "likes": 546,
+        "likes": 545,
         "retweets": 16
       },
       {
@@ -1095,35 +1095,35 @@
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 3503,
-        "retweets": 334
+        "likes": 3592,
+        "retweets": 343
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 6851,
-        "retweets": 788
+        "likes": 6894,
+        "retweets": 793
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
         "url": "https://x.com/saylor/status/2089322295667867775",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 317,
+        "likes": 318,
         "retweets": 19
       },
       {
         "text": "Bitcoin is the only game in the casino where we can all win. https://t.co/ZziFSbnpZe",
         "url": "https://x.com/saylor/status/2089024403619127652",
         "time": "Sun Aug 16 16:20:04 +0000 2026",
-        "likes": 8319,
-        "retweets": 752
+        "likes": 8357,
+        "retweets": 759
       },
       {
         "text": "Over the past year, $BTC fell 47%. Our Digital Credit instruments ranged from -27% to +9%, with $STRC up 9%. Financial engineering can transform volatile Digital Capital into instruments designed for income, stability, and reduced downside risk. https://t.co/ZtiRoeIsBA",
         "url": "https://x.com/saylor/status/2088887563272474948",
         "time": "Sun Aug 16 07:16:19 +0000 2026",
-        "likes": 4727,
+        "likes": 4728,
         "retweets": 490
       }
     ],
@@ -1212,7 +1212,7 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "不要指望苹果在这个切入点会有巨大的上涨空间",
+        "headline": "不要指望苹果会在这个切入点带来巨大的上涨",
         "url": "https://finnhub.io/api/news?id=8a31c7a08e8eb59bf54f4fcc11667cdc1e6604b3ab03451a11f895bc441b611d",
         "datetime": 1786983479,
         "source": "SeekingAlpha"
@@ -1232,7 +1232,7 @@
     ],
     "TSLA": [
       {
-        "headline": "Nvidia 是过去 10 年、15 年、20 年表现最好的标准普尔 500 指数股票，但过去 5 年有 4 只股票击败了它",
+        "headline": "Nvidia 是过去 10 年、15 年、20 年中表现最好的标准普尔 500 指数股票，但过去 5 年有 4 只股票击败了它",
         "url": "https://finnhub.io/api/news?id=ce40230fb606f71ab2305d7395b5b280c15c4d8f82d10aa69714bb9bae8aa6b5",
         "datetime": 1786981995,
         "source": "Benzinga"
@@ -1250,7 +1250,7 @@
         "source": "Benzinga"
       },
       {
-        "headline": "尽管 SpaceX 有可能收购特斯拉，但按目前价格，加里·布莱克 (Gary Black) 对特斯拉股票“兴趣不大”",
+        "headline": "即使 SpaceX 可能收购，加里·布莱克 (Gary Black) 对特斯拉股票目前的价格也“兴趣不大”",
         "url": "https://finnhub.io/api/news?id=96d7288e8429719bfc126ac141eb9df7683eb22c5fd123ce77d8d9e0e94438cd",
         "datetime": 1786971652,
         "source": "Benzinga"
@@ -1297,7 +1297,13 @@
     "LKNCY": [],
     "BTC": [
       {
-        "headline": "比特币攀升至 64,000 美元以上，而大多数主要货币都在下滑",
+        "headline": "杠杆多头可能遭受打击的比特币价格水平",
+        "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+        "datetime": 1787032543,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "比特币攀升至 64,000 美元上方，而大多数主要货币都在下滑",
         "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
         "datetime": 1787027558,
         "source": "CoinDesk"
@@ -1318,12 +1324,6 @@
         "headline": "由于Strategy增加了美元储备，上周回购了更多STRC，比特币持有量没有变化",
         "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
         "datetime": 1786969185,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "尽管夏季平静，但比特币期权仍然昂贵。这就是为什么它很重要",
-        "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-        "datetime": 1786966982,
         "source": "CoinDesk"
       }
     ],
