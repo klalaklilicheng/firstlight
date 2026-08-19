@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T04:29:41.646Z",
+  "updated_at": "2026-08-19T05:22:32.523Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64324,
-      "change_pct": 0.37
+      "price": 64301,
+      "change_pct": 0.19
     },
     {
       "symbol": "ETH",
-      "price": 1911.51,
-      "change_pct": 1
+      "price": 1910.85,
+      "change_pct": 0.78
     },
     {
       "symbol": "SOL",
-      "price": 77.06,
-      "change_pct": 1.91
+      "price": 76.88,
+      "change_pct": 1.37
     },
     {
       "symbol": "HYPE",
-      "price": 58.52,
-      "change_pct": -1.06
+      "price": 58.51,
+      "change_pct": -1.55
     },
     {
       "symbol": "ZEC",
-      "price": 504.54,
-      "change_pct": -0.88
+      "price": 502.3,
+      "change_pct": -1.68
     },
     {
       "symbol": "TAO",
-      "price": 190.66,
-      "change_pct": -0.7
+      "price": 190.29,
+      "change_pct": -0.99
     },
     {
       "symbol": "SKY",
-      "price": 1296.58,
-      "change_pct": 4.74
+      "price": 1296.06,
+      "change_pct": 4.2
     },
     {
       "symbol": "AAVE",
-      "price": 87.56,
-      "change_pct": -0.46
+      "price": 87.41,
+      "change_pct": -0.99
     },
     {
       "symbol": "BNB",
-      "price": 601.99,
-      "change_pct": -0.1
+      "price": 601.12,
+      "change_pct": -0.34
     },
     {
       "symbol": "NEAR",
       "price": 1.6,
-      "change_pct": -2.76
+      "change_pct": -2.88
     },
     {
       "symbol": "DOGE",
-      "price": 0.070037,
-      "change_pct": 0.3
+      "price": 0.06997,
+      "change_pct": 0.17
     },
     {
       "symbol": "SPACEX",
-      "price": 511.55,
-      "change_pct": -2.49
+      "price": 509.77,
+      "change_pct": -2.82
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "比特币价格分析：6.4 万美元至 6.5 万美元之间的关键加密货币图表",
+      "summary": "<p>加密货币的关键图表在 64,085 美元到 65,050 美元之间波动</p><p>比特币现货交易在大约 64,085 美元到 65,050 美元之间的狭窄但重要的每日决策范围内。这些水平是上个月的控制点和价值区域高点。每日收盘价超出该区间 c",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bitcoin-price-analysis-the-critical-crypto-chart-between-64k-and-65k/",
+      "datetime": 1787112940,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国会计委员会 FASB 提出稳定币作为现金等价物的条件",
       "summary": "FASB 表示，仅靠二级市场流动性是不够的，持有人需要直接发行人赎回权和一对一的流动性储备。",
       "source": "Cointelegraph",
@@ -735,15 +744,6 @@
       "datetime": 1787061807,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "丰田金融通过移动支付应用程序向散户投资者开放代币化债券",
-      "summary": "散户投资者可以在没有证券账户的情况下申请购买10亿日元债券，并通过丰田的支付应用程序获得福利。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787060516,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,12 +809,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.9,
+    "score": 34.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.4,
+    "daily_score": 17.3,
     "weekly_score": 17.5,
-    "btc_price": 64361.1,
+    "btc_price": 64355.4,
     "fear_greed": 41,
     "indicators": [
       {
@@ -826,15 +826,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003121,
-        "score": 47,
+        "value": 0.002977,
+        "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.49,
-        "score": 66,
+        "value": 1.5,
+        "score": 67,
         "weight": 5,
         "group": "daily"
       },
@@ -903,8 +903,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -69.7,
-        "score": 26,
+        "value": -66.2,
+        "score": 27,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,7 +1059,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2828,
+        "likes": 2867,
         "retweets": 69
       },
       {
@@ -1096,28 +1096,28 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 3149,
-        "retweets": 304
+        "likes": 3280,
+        "retweets": 318
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3235,
-        "retweets": 452
+        "likes": 3266,
+        "retweets": 457
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4670,
-        "retweets": 475
+        "likes": 4689,
+        "retweets": 478
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7320,
+        "likes": 7330,
         "retweets": 842
       },
       {
@@ -1298,6 +1298,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "比特币价格分析：6.4 万美元至 6.5 万美元之间的关键加密货币图表",
+        "url": "https://investinglive.com/cryptocurrency/bitcoin-price-analysis-the-critical-crypto-chart-between-64k-and-65k/",
+        "datetime": 1787112940,
+        "source": "Forexlive"
+      },
+      {
         "headline": "随着交易者在其他地方追逐“5倍或10倍”的回报，比特币已经安静下来",
         "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
         "datetime": 1787072400,
@@ -1319,12 +1325,6 @@
         "headline": "比特币矿工的人工智能支点得到了回报，但采矿业可能会一转而复苏",
         "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
         "datetime": 1787064091,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "由于债务担忧考验比特币的对冲叙事，全球债券收益率飙升",
-        "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-        "datetime": 1787064041,
         "source": "CoinDesk"
       }
     ],
