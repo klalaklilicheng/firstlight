@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T23:14:53.547Z",
+  "updated_at": "2026-08-19T00:45:06.277Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,72 +65,73 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64644,
-      "change_pct": 0.51
+      "price": 64524,
+      "change_pct": 0.28
     },
     {
       "symbol": "ETH",
-      "price": 1914.94,
-      "change_pct": 0.45
+      "price": 1913.04,
+      "change_pct": 0.27
     },
     {
       "symbol": "SOL",
-      "price": 77.01,
-      "change_pct": 1.63
+      "price": 76.91,
+      "change_pct": 1.39
     },
     {
       "symbol": "HYPE",
-      "price": 58.44,
-      "change_pct": -1.28
+      "price": 58.64,
+      "change_pct": -1.55
     },
     {
       "symbol": "ZEC",
-      "price": 509.87,
-      "change_pct": -0.68
+      "price": 505.44,
+      "change_pct": -1.42
     },
     {
       "symbol": "TAO",
-      "price": 190.68,
-      "change_pct": -2.64
+      "price": 190.59,
+      "change_pct": -2.81
     },
     {
       "symbol": "SKY",
-      "price": 1282.21,
-      "change_pct": 3.04
+      "price": 1287.34,
+      "change_pct": 3.94
     },
     {
       "symbol": "AAVE",
-      "price": 87.24,
-      "change_pct": -1.64
+      "price": 87.26,
+      "change_pct": -2.05
     },
     {
       "symbol": "BNB",
-      "price": 603.14,
-      "change_pct": -0.25
+      "price": 603.73,
+      "change_pct": -0.16
     },
     {
       "symbol": "NEAR",
-      "price": 1.59,
-      "change_pct": -2.53
+      "price": 1.57,
+      "change_pct": -4.25
     },
     {
       "symbol": "DOGE",
-      "price": 0.070122,
-      "change_pct": -0.12
+      "price": 0.069988,
+      "change_pct": -0.33
     },
     {
       "symbol": "SPACEX",
-      "price": 516.36,
-      "change_pct": -1.84
+      "price": 513.69,
+      "change_pct": -2.3
     }
   ],
   "earnings": {
     "NVDA": {
       "next": {
-        "date": "2026-11-19",
-        "quarter": 2,
+        "date": "2026-11-17",
+        "quarter": 3,
         "year": 2027,
-        "is_estimate": true
+        "eps_estimate": 2.4084,
+        "revenue_estimate": 105666899459
       },
       "history": [
         {
@@ -808,39 +809,39 @@
     }
   ],
   "btc_score": {
-    "score": 33.4,
+    "score": 33.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.6,
+    "daily_score": 15.9,
     "weekly_score": 17.8,
-    "btc_price": 64700.7,
-    "fear_greed": 40,
+    "btc_price": 64641.1,
+    "fear_greed": 41,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 19000000,
-        "score": 51,
+        "value": 45700000,
+        "score": 53,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.001371,
+        "value": 0.001706,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.4,
-        "score": 60,
+        "value": 1.38,
+        "score": 59,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 40,
-        "score": 40,
+        "value": 41,
+        "score": 41,
         "weight": 7,
         "group": "daily"
       },
@@ -895,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 42.3,
+        "value": 42.2,
         "score": 37,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -83.8,
-        "score": 22,
+        "value": -81.2,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -912,7 +913,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 29
+      "days_until": 28
     },
     "schedule": [
       "2025-01-29",
@@ -1022,7 +1023,7 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 717,
-        "retweets": 92
+        "retweets": 91
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1043,14 +1044,14 @@
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
         "likes": 539,
-        "retweets": 36
+        "retweets": 35
       },
       {
         "text": "Finally reading \"Broken Money\" by @LynAldenContact and it's a good reminder that $BTC and other internet-native hard monies will most reward the patient ($ZEC the most credible complement to $BTC, in this category). \n\nFrom 2016-2025 there was a wave of impatience as the promise",
         "url": "https://x.com/cburniske/status/2076382678530826288",
         "time": "Sun Jul 12 19:06:22 +0000 2026",
         "likes": 1051,
-        "retweets": 87
+        "retweets": 85
       }
     ],
     "QwQiao": [
@@ -1058,7 +1059,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2567,
+        "likes": 2658,
         "retweets": 67
       },
       {
@@ -1095,29 +1096,29 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 2214,
-        "retweets": 211
+        "likes": 2538,
+        "retweets": 250
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 2968,
-        "retweets": 411
+        "likes": 3046,
+        "retweets": 429
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4539,
-        "retweets": 460
+        "likes": 4576,
+        "retweets": 462
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7282,
-        "retweets": 838
+        "likes": 7296,
+        "retweets": 839
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
