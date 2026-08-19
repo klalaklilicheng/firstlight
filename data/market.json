@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:21:03.561Z",
+  "updated_at": "2026-08-19T11:18:31.138Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64338,
-      "change_pct": 0.35
+      "price": 64444,
+      "change_pct": 0.24
     },
     {
       "symbol": "ETH",
-      "price": 1917.3,
-      "change_pct": 1.2
+      "price": 1922.33,
+      "change_pct": 1.11
     },
     {
       "symbol": "SOL",
-      "price": 77.23,
+      "price": 77.46,
       "change_pct": 1.82
     },
     {
       "symbol": "HYPE",
-      "price": 58.22,
-      "change_pct": -2.32
+      "price": 58.68,
+      "change_pct": -1.86
     },
     {
       "symbol": "ZEC",
-      "price": 504.98,
-      "change_pct": 0.03
+      "price": 507.63,
+      "change_pct": 0.22
     },
     {
       "symbol": "TAO",
-      "price": 191.91,
-      "change_pct": -0.7
+      "price": 192.04,
+      "change_pct": -0.68
     },
     {
       "symbol": "SKY",
-      "price": 1313.61,
-      "change_pct": 4.15
+      "price": 1317.25,
+      "change_pct": 3.75
     },
     {
       "symbol": "AAVE",
-      "price": 87.91,
-      "change_pct": -0.85
+      "price": 88.4,
+      "change_pct": -1.05
     },
     {
       "symbol": "BNB",
-      "price": 602.15,
-      "change_pct": 0.25
+      "price": 602.1,
+      "change_pct": 0.09
     },
     {
       "symbol": "NEAR",
-      "price": 1.6,
-      "change_pct": -0.88
+      "price": 1.61,
+      "change_pct": -0.29
     },
     {
       "symbol": "DOGE",
-      "price": 0.069971,
-      "change_pct": 0.18
+      "price": 0.07012,
+      "change_pct": 0.29
     },
     {
       "symbol": "SPACEX",
-      "price": 510.07,
-      "change_pct": -3.01
+      "price": 510.72,
+      "change_pct": -2.93
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "Nexo 在澳大利亚推出受监管的加密货币支持信贷",
+      "summary": "Nexo 推出了受监管的、由加密货币支持的信贷额度，允许用户通过以其数字资产借款来获得澳元或稳定币的流动性。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787134827,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "OpenAI 落后于 Anthropic，亏损加深且 Altman 暂停前沿人工智能培训",
       "summary": "",
       "source": "CoinDesk",
@@ -629,7 +638,7 @@
       "related": ""
     },
     {
-      "headline": "美国 SEC 意外宣布提出首个主要加密货币规则",
+      "headline": "美国 SEC 意外宣布提出首个主要加密规则",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/18/r",
@@ -711,7 +720,7 @@
     },
     {
       "headline": "Neuberger 与 Securitize 合作推出多链代币化固定收益基金",
-      "summary": "这家资产规模达 6130 亿美元的资产管理公司将为一支跨以太坊、Solana、Avalanche 和 Sui 代币化的高收益基金提供建议。",
+      "summary": "这家价值 6130 亿美元的资产管理公司将为一支跨以太坊、Solana、Avalanche 和 Sui 代币化的高收益基金提供建议。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787068794,
@@ -734,15 +743,6 @@
       "url": "https://www.cnbc.com/2026/08/18/were-adding-to-our-position-in-a-stock-thats-been-hurt-by-rekindled-middle-east-tensions-.html",
       "datetime": 1787066599,
       "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "为什么特朗普支持的加密货币企业正在与香港人工智能聚合商 WorldClaw 保持距离",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-      "datetime": 1787065672,
-      "category": "crypto",
       "related": ""
     }
   ],
@@ -814,12 +814,12 @@
     }
   ],
   "btc_score": {
-    "score": 35.5,
+    "score": 35.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 17.7,
-    "weekly_score": 17.8,
-    "btc_price": 64395,
+    "weekly_score": 17.9,
+    "btc_price": 64484.2,
     "fear_greed": 41,
     "indicators": [
       {
@@ -831,15 +831,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004582,
+        "value": 0.004135,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.58,
-        "score": 72,
+        "value": 1.6,
+        "score": 73,
         "weight": 5,
         "group": "daily"
       },
@@ -901,14 +901,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.8,
-        "score": 36,
+        "value": 41.9,
+        "score": 37,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -48.5,
+        "value": -46.1,
         "score": 32,
         "weight": 4,
         "group": "weekly"
@@ -1034,7 +1034,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1407,
+        "likes": 1408,
         "retweets": 86
       },
       {
@@ -1064,8 +1064,8 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2953,
-        "retweets": 72
+        "likes": 2981,
+        "retweets": 73
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1101,35 +1101,35 @@
         "text": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet.",
         "url": "https://x.com/saylor/status/2090007742215794727",
         "time": "Wed Aug 19 09:27:30 +0000 2026",
-        "likes": 1540,
-        "retweets": 163
+        "likes": 2773,
+        "retweets": 267
       },
       {
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 3865,
-        "retweets": 400
+        "likes": 4007,
+        "retweets": 416
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3471,
-        "retweets": 491
+        "likes": 3513,
+        "retweets": 496
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4762,
-        "retweets": 484
+        "likes": 4772,
+        "retweets": 485
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7365,
+        "likes": 7368,
         "retweets": 850
       }
     ],
@@ -1250,7 +1250,7 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "加里·布莱克表示社交媒体上的特斯拉牛市就像大学生在喝“龙舌兰酒”",
+        "headline": "加里·布莱克表示，社交媒体上的特斯拉牛市就像大学生在喝“龙舌兰酒”",
         "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
         "datetime": 1787063849,
         "source": "Benzinga"
