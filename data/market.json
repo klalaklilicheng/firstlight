@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T05:22:32.523Z",
+  "updated_at": "2026-08-19T06:29:36.638Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64301,
-      "change_pct": 0.19
+      "price": 64233,
+      "change_pct": -0.07
     },
     {
       "symbol": "ETH",
-      "price": 1910.85,
-      "change_pct": 0.78
+      "price": 1910.01,
+      "change_pct": 0.63
     },
     {
       "symbol": "SOL",
-      "price": 76.88,
-      "change_pct": 1.37
+      "price": 76.85,
+      "change_pct": 1.28
     },
     {
       "symbol": "HYPE",
-      "price": 58.51,
-      "change_pct": -1.55
+      "price": 58.21,
+      "change_pct": -2.26
     },
     {
       "symbol": "ZEC",
-      "price": 502.3,
-      "change_pct": -1.68
+      "price": 502.81,
+      "change_pct": -1.42
     },
     {
       "symbol": "TAO",
-      "price": 190.29,
-      "change_pct": -0.99
+      "price": 190.54,
+      "change_pct": -1.52
     },
     {
       "symbol": "SKY",
-      "price": 1296.06,
-      "change_pct": 4.2
+      "price": 1297.17,
+      "change_pct": 2.76
     },
     {
       "symbol": "AAVE",
-      "price": 87.41,
-      "change_pct": -0.99
+      "price": 87.67,
+      "change_pct": -1.27
     },
     {
       "symbol": "BNB",
-      "price": 601.12,
-      "change_pct": -0.34
+      "price": 601.25,
+      "change_pct": -0.48
     },
     {
       "symbol": "NEAR",
       "price": 1.6,
-      "change_pct": -2.88
+      "change_pct": -3.54
     },
     {
       "symbol": "DOGE",
-      "price": 0.06997,
-      "change_pct": 0.17
+      "price": 0.069942,
+      "change_pct": 0.01
     },
     {
       "symbol": "SPACEX",
-      "price": 509.77,
-      "change_pct": -2.82
+      "price": 509.58,
+      "change_pct": -2.83
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "MAYAChain 在遭受估计价值 170 万美元的攻击后停止了网络",
+      "summary": "初步分析显示，6 个连锁错误导致 23 条消息的交易消耗了 4887 万个 CACAO，导致代币下跌近 89%。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787116434,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "比特币价格分析：6.4 万美元至 6.5 万美元之间的关键加密货币图表",
       "summary": "<p>加密货币的关键图表在 64,085 美元到 65,050 美元之间波动</p><p>比特币现货交易在大约 64,085 美元到 65,050 美元之间的狭窄但重要的每日决策范围内。这些水平是上个月的控制点和价值区域高点。每日收盘价超出该区间 c",
       "source": "Forexlive",
@@ -735,15 +744,6 @@
       "datetime": 1787062650,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "HashKey 利用香港首个受监管的稳定币来解决保险和贸易交易",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
-      "datetime": 1787061807,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,12 +809,12 @@
     }
   ],
   "btc_score": {
-    "score": 34.8,
+    "score": 35,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.3,
+    "daily_score": 17.5,
     "weekly_score": 17.5,
-    "btc_price": 64355.4,
+    "btc_price": 64275,
     "fear_greed": 41,
     "indicators": [
       {
@@ -826,15 +826,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.002977,
-        "score": 46,
+        "value": 0.003295,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.5,
-        "score": 67,
+        "value": 1.53,
+        "score": 69,
         "weight": 5,
         "group": "daily"
       },
@@ -896,14 +896,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.7,
+        "value": 41.6,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -66.2,
+        "value": -63.8,
         "score": 27,
         "weight": 4,
         "group": "weekly"
@@ -1059,8 +1059,8 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2867,
-        "retweets": 69
+        "likes": 2889,
+        "retweets": 70
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1096,29 +1096,29 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 3280,
-        "retweets": 318
+        "likes": 3449,
+        "retweets": 337
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3266,
-        "retweets": 457
+        "likes": 3310,
+        "retweets": 461
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4689,
+        "likes": 4703,
         "retweets": 478
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7330,
-        "retweets": 842
+        "likes": 7337,
+        "retweets": 843
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1169,6 +1169,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "NVDY 不再是原来的基金 - 因为 Nvidia 不再是原来的股票",
+        "url": "https://finnhub.io/api/news?id=2b56a5687bdc80333f6fced8d708f8cdc6035e7faf00a87c0bf26aa4107159d3",
+        "datetime": 1787103707,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "探索今天交易中道琼斯指数中涨幅最大的股票和跌幅最大的股票。",
         "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
         "datetime": 1787080206,
@@ -1191,12 +1197,6 @@
         "url": "https://finnhub.io/api/news?id=66ab3affb53046c7710ef217f37050fe03579ce79910d4c241482d9ea6d6c1bc",
         "datetime": 1787073913,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "哪些道琼斯股票周二走势？",
-        "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
-        "datetime": 1787071206,
-        "source": "ChartMill"
       }
     ],
     "GOOG": [
@@ -1368,21 +1368,9 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "到处",
-        "url": "https://x.com/solana/status/2089721481932525696",
-        "datetime": 1787063401,
-        "source": "@solana"
-      },
-      {
-        "headline": "了解有关 HNIC 的更多信息：",
-        "url": "https://x.com/solana/status/2089707631099380096",
-        "datetime": 1787060098,
-        "source": "@solana"
-      },
-      {
-        "headline": "突发新闻：@Securitize 和 Neuberger 在 Solana 上推出了代币化固定收益基金。\n\n来自 $230B 固定收益平台的高收益债券、CLO 和杠杆贷款现已上线。",
-        "url": "https://x.com/solana/status/2089707626359849066",
-        "datetime": 1787060097,
+        "headline": ".@MeteoraAG 是 Solana DeFi 背后的流动性基础设施。\n\n每笔互换都经过一个流动性池，而迈泰奥拉已悄然成为其中最大的一块。成交量超过 $300B。奥夫",
+        "url": "https://x.com/solana/status/2089691280041230767",
+        "datetime": 1787056200,
         "source": "@solana"
       }
     ],
