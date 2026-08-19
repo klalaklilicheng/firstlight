@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:39:44.257Z",
+  "updated_at": "2026-08-19T04:29:41.646Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64295,
-      "change_pct": 0.35
+      "price": 64324,
+      "change_pct": 0.37
     },
     {
       "symbol": "ETH",
-      "price": 1909.67,
-      "change_pct": 1.03
+      "price": 1911.51,
+      "change_pct": 1
     },
     {
       "symbol": "SOL",
-      "price": 76.92,
-      "change_pct": 1.98
+      "price": 77.06,
+      "change_pct": 1.91
     },
     {
       "symbol": "HYPE",
-      "price": 58.26,
-      "change_pct": -1.54
+      "price": 58.52,
+      "change_pct": -1.06
     },
     {
       "symbol": "ZEC",
-      "price": 504.66,
-      "change_pct": -0.9
+      "price": 504.54,
+      "change_pct": -0.88
     },
     {
       "symbol": "TAO",
-      "price": 190.57,
-      "change_pct": -0.48
+      "price": 190.66,
+      "change_pct": -0.7
     },
     {
       "symbol": "SKY",
-      "price": 1292.07,
-      "change_pct": 4.64
+      "price": 1296.58,
+      "change_pct": 4.74
     },
     {
       "symbol": "AAVE",
-      "price": 87.49,
-      "change_pct": -0.38
+      "price": 87.56,
+      "change_pct": -0.46
     },
     {
       "symbol": "BNB",
-      "price": 601.57,
-      "change_pct": -0.22
+      "price": 601.99,
+      "change_pct": -0.1
     },
     {
       "symbol": "NEAR",
       "price": 1.6,
-      "change_pct": -1.73
+      "change_pct": -2.76
     },
     {
       "symbol": "DOGE",
-      "price": 0.069996,
-      "change_pct": 0.32
+      "price": 0.070037,
+      "change_pct": 0.3
     },
     {
       "symbol": "SPACEX",
-      "price": 512.89,
-      "change_pct": -2.11
+      "price": 511.55,
+      "change_pct": -2.49
     }
   ],
   "earnings": {
@@ -476,7 +476,16 @@
   },
   "news": [
     {
-      "headline": "“它必须通过”：安德鲁科莫警告美国在加密货币规则方面落后",
+      "headline": "美国会计委员会 FASB 提出稳定币作为现金等价物的条件",
+      "summary": "FASB 表示，仅靠二级市场流动性是不够的，持有人需要直接发行人赎回权和一对一的流动性储备。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787111893,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "“它必须通过”：安德鲁科莫警告美国在加密规则方面落后",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
@@ -539,7 +548,7 @@
       "related": ""
     },
     {
-      "headline": "美国 SEC 意外宣布提出首个主要加密规则",
+      "headline": "美国 SEC 意外宣布提出首个主要加密货币规则",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/18/r",
@@ -611,7 +620,7 @@
       "related": ""
     },
     {
-      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 在欧洲增加了美国股票",
+      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 增加了美国股票在欧洲的交易",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
@@ -735,15 +744,6 @@
       "datetime": 1787060516,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "花旗计划今年晚些时候为机构客户推出比特币托管服务",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-      "datetime": 1787059513,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,32 +809,32 @@
     }
   ],
   "btc_score": {
-    "score": 33.7,
+    "score": 34.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.2,
+    "daily_score": 17.4,
     "weekly_score": 17.5,
-    "btc_price": 64340.2,
+    "btc_price": 64361.1,
     "fear_greed": 41,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 45700000,
-        "score": 53,
+        "value": 189300000,
+        "score": 62,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.002578,
-        "score": 46,
+        "value": 0.003121,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.47,
-        "score": 65,
+        "value": 1.49,
+        "score": 66,
         "weight": 5,
         "group": "daily"
       },
@@ -903,8 +903,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -71.2,
-        "score": 25,
+        "value": -69.7,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,7 +1059,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2792,
+        "likes": 2828,
         "retweets": 69
       },
       {
@@ -1096,29 +1096,29 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 3063,
-        "retweets": 296
+        "likes": 3149,
+        "retweets": 304
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3208,
-        "retweets": 451
+        "likes": 3235,
+        "retweets": 452
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4645,
-        "retweets": 474
+        "likes": 4670,
+        "retweets": 475
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7311,
-        "retweets": 841
+        "likes": 7320,
+        "retweets": 842
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1133,14 +1133,14 @@
         "text": "20% APY on stablecoins in this bear market? Easy: @onrefinance multiply strategies on @kamino",
         "url": "https://x.com/viktorfischer/status/2089304427446542602",
         "time": "Mon Aug 17 10:52:47 +0000 2026",
-        "likes": 8,
+        "likes": 9,
         "retweets": 1
       },
       {
         "text": "Few",
         "url": "https://x.com/viktorfischer/status/2088124364537676099",
         "time": "Fri Aug 14 04:43:38 +0000 2026",
-        "likes": 3,
+        "likes": 4,
         "retweets": 0
       },
       {
@@ -1425,7 +1425,7 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全隐藏。你只是交易。\n\n不可用",
+        "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全保持隐藏。你只要交易。\n\n不可用",
         "url": "https://x.com/NEARProtocol/status/2089816892294783460",
         "datetime": 1787086148,
         "source": "@NEARProtocol"
