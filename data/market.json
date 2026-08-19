@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-19T12:28:39.152Z",
+  "updated_at": "2026-08-19T13:38:04.223Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 705.4,
-      "change_pct": -0.69
+      "price": 707.96,
+      "change_pct": 0.36
     },
     {
       "symbol": "QQQ",
-      "price": 717.51,
-      "change_pct": -1.69
+      "price": 719.9,
+      "change_pct": 0.33
     },
     {
       "symbol": "QQQM",
-      "price": 295.45,
-      "change_pct": -1.69
+      "price": 296.53,
+      "change_pct": 0.37
     },
     {
       "symbol": "NVDA",
-      "price": 219.74,
-      "change_pct": -2.34
+      "price": 221.33,
+      "change_pct": 0.72
     },
     {
       "symbol": "TSLA",
-      "price": 336.87,
-      "change_pct": -0.72
+      "price": 339.83,
+      "change_pct": 0.88
     },
     {
       "symbol": "GOOG",
-      "price": 341.28,
-      "change_pct": -0.05
+      "price": 340.13,
+      "change_pct": -0.34
     },
     {
       "symbol": "RKLB",
-      "price": 79.16,
-      "change_pct": -3.56
+      "price": 76.53,
+      "change_pct": -3.32
     },
     {
       "symbol": "CRCL",
-      "price": 71.73,
-      "change_pct": -3.83
+      "price": 77.58,
+      "change_pct": 8.16
     },
     {
       "symbol": "PLTR",
-      "price": 171.54,
-      "change_pct": -0.59
+      "price": 176.21,
+      "change_pct": 2.72
     },
     {
       "symbol": "MSTR",
-      "price": 92.52,
-      "change_pct": -5.28
+      "price": 96.78,
+      "change_pct": 4.6
     },
     {
       "symbol": "GLD",
-      "price": 398.55,
-      "change_pct": -1.71
+      "price": 407.66,
+      "change_pct": 2.29
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64443,
-      "change_pct": 0.31
+      "price": 65019,
+      "change_pct": 1.54
     },
     {
       "symbol": "ETH",
-      "price": 1921.59,
-      "change_pct": 1.15
+      "price": 1935.71,
+      "change_pct": 2.23
     },
     {
       "symbol": "SOL",
-      "price": 77.43,
-      "change_pct": 1.59
+      "price": 78.54,
+      "change_pct": 3.3
     },
     {
       "symbol": "HYPE",
-      "price": 58.73,
-      "change_pct": -1.3
+      "price": 59.26,
+      "change_pct": -0.11
     },
     {
       "symbol": "ZEC",
-      "price": 506.91,
-      "change_pct": 0.47
+      "price": 511.96,
+      "change_pct": 1.69
     },
     {
       "symbol": "TAO",
-      "price": 192.38,
-      "change_pct": 0.31
+      "price": 193.06,
+      "change_pct": 0.73
     },
     {
       "symbol": "SKY",
-      "price": 1316.1,
-      "change_pct": 4.59
+      "price": 1321.16,
+      "change_pct": 5.19
     },
     {
       "symbol": "AAVE",
-      "price": 89.18,
-      "change_pct": -0.35
+      "price": 89.39,
+      "change_pct": 0.46
     },
     {
       "symbol": "BNB",
-      "price": 602.62,
-      "change_pct": 0.27
+      "price": 604.72,
+      "change_pct": 0.84
     },
     {
       "symbol": "NEAR",
       "price": 1.62,
-      "change_pct": -0.18
+      "change_pct": 0.42
     },
     {
       "symbol": "DOGE",
-      "price": 0.070211,
-      "change_pct": 0.51
+      "price": 0.070526,
+      "change_pct": 1.1
     },
     {
       "symbol": "SPACEX",
-      "price": 509.45,
-      "change_pct": -3.21
+      "price": 520.3,
+      "change_pct": -0.84
     }
   ],
   "earnings": {
@@ -476,6 +476,51 @@
   },
   "news": [
     {
+      "headline": "吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事",
+      "summary": "Moderna 的癌症疫苗取得了可喜的成果，股价飙升。此外，塔吉特可能成为获利回吐的受害者。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "datetime": 1787144928,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "加强清晰度法案",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+      "datetime": 1787144400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "除了加密融资利率之外：Ethena 通过 10 亿美元的 FalconX 设施实现 USDe 支持多元化",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+      "datetime": 1787144400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "VanEck 表示，比特币正在闪烁 12 个投降信号中的 8 个，但尚未触底",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+      "datetime": 1787143535,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "在亏损 14.6 亿美元一年后，Bybit 表示人工智能帮助其节省了 7 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
+      "datetime": 1787140869,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Centrifuge 在 Janus Henderson 和 NYLIM 基金中增加了共生流动性网络，价值超过 1.6B 美元",
       "summary": "Symbiotic 的 Liquid Lane 通过 Janus Henderson 和 NYLIM 管理的三个 Centrifuge 基金为合格持有人提供即时 USDC 流动性。",
       "source": "Cointelegraph",
@@ -490,6 +535,15 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787140770,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "本周又有 8 家银行加入 CBDC，中国的电子人民币网络到 2026 年将增加两倍",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/19/china-triples-digital-yuan-bank-roster-year-to-date-as-eight-more-banks-join-network",
+      "datetime": 1787140545,
       "category": "crypto",
       "related": ""
     },
@@ -690,60 +744,6 @@
       "datetime": 1787085948,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Ripple 和 Coinbase 资助的 PAC 在佛罗里达州竞选中花费了 200 万美元，但很少提及加密货币",
-      "summary": "一名未竞选连任、投票反对《天才法案》和《清晰法案》的佛罗里达州代表支持了一位民主党候选人，这可能会导致 PAC 资助的负面广告。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787082856,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Cypherpunk 推出 Zcash 矿机，控制 18% 的网络算力",
-      "summary": "Winklevoss Capital 价值 3330 万美元的交易扩大了 Cypherpunk 的 ZEC 战略，因为它的目标是获得加密货币流通供应量的 5% 所有权。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787081476,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国 SEC 意外宣布提出首个主要加密货币规则",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/18/r",
-      "datetime": 1787080173,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "怀俄明州加入了价值 150 亿美元的 LayerZero 外流，并推出了州稳定币举措",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-      "datetime": 1787079420,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着Payward扩大金融服务业务，Kraken的Krak在美国推出借记卡",
-      "summary": "随着 Kraken 母公司在金融服务领域的扩张，这张多资产卡让美国客户可以使用加密货币和法定货币消费并赚取现金返还。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787074777,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国政府债务收益率在一个糟糕的时期飙升。这是此举背后的原因",
-      "summary": "固定收益市场观察人士将 6 月份开始的上涨归因于多个变数。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "datetime": 1787073994,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -814,12 +814,12 @@
     }
   ],
   "btc_score": {
-    "score": 35.7,
+    "score": 35.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.7,
-    "weekly_score": 18,
-    "btc_price": 64498.1,
+    "daily_score": 17.2,
+    "weekly_score": 18.2,
+    "btc_price": 64925.5,
     "fear_greed": 41,
     "indicators": [
       {
@@ -831,15 +831,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003777,
-        "score": 47,
+        "value": 0.005222,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.59,
-        "score": 73,
+        "value": 1.4,
+        "score": 60,
         "weight": 5,
         "group": "daily"
       },
@@ -901,15 +901,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 42,
-        "score": 37,
+        "value": 42.7,
+        "score": 38,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -41.8,
-        "score": 34,
+        "value": -23.7,
+        "score": 38,
         "weight": 4,
         "group": "weekly"
       }
@@ -1064,15 +1064,15 @@
         "text": "unitree ipo. kind of interesting how overwhelmingly negative chinese twitter is towards it\n\n\"a toy company masqueraded as a humanoid company\"\n\n\"one of the least interesting robotics companies in china\"\n\n\"founder does not look happy. he knows there's no way he can fulfill market's",
         "url": "https://x.com/QwQiao/status/2090048008905789515",
         "time": "Wed Aug 19 12:07:31 +0000 2026",
-        "likes": 13,
-        "retweets": 0
+        "likes": 63,
+        "retweets": 4
       },
       {
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 3029,
-        "retweets": 75
+        "likes": 3076,
+        "retweets": 77
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1098,39 +1098,39 @@
     ],
     "saylor": [
       {
+        "text": "Six securities. One Strategy.",
+        "url": "https://x.com/saylor/status/2090057003154522309",
+        "time": "Wed Aug 19 12:43:15 +0000 2026",
+        "likes": 945,
+        "retweets": 99
+      },
+      {
         "text": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet.",
         "url": "https://x.com/saylor/status/2090007742215794727",
         "time": "Wed Aug 19 09:27:30 +0000 2026",
-        "likes": 3848,
-        "retweets": 354
+        "likes": 4749,
+        "retweets": 421
       },
       {
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 4149,
-        "retweets": 435
+        "likes": 4262,
+        "retweets": 441
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3554,
-        "retweets": 500
+        "likes": 3599,
+        "retweets": 505
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4786,
-        "retweets": 486
-      },
-      {
-        "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
-        "url": "https://x.com/saylor/status/2089322293822468601",
-        "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7373,
-        "retweets": 851
+        "likes": 4794,
+        "retweets": 487
       }
     ],
     "viktorfischer": [
@@ -1138,8 +1138,8 @@
         "text": "On the Curator League Table @RockawayX is no.6. For us curation is a way how to help founders scale their yield-generating protocols from day one.",
         "url": "https://x.com/viktorfischer/status/2089974396811432131",
         "time": "Wed Aug 19 07:15:00 +0000 2026",
-        "likes": 8,
-        "retweets": 0
+        "likes": 12,
+        "retweets": 1
       },
       {
         "text": "20% APY on stablecoins in this bear market? Easy: @onrefinance multiply strategies on @kamino",
@@ -1186,7 +1186,7 @@
         "source": "ChartMill"
       },
       {
-        "headline": "Nvidia：因 GPU 周期延长和价值而升级为强力买入",
+        "headline": "Nvidia：因 GPU 周期延长和价值而升级至强力买入",
         "url": "https://finnhub.io/api/news?id=09bf27246db2d730d5ebb857c0f57903c8faaa5738e465411f67278caaf51866",
         "datetime": 1787126161,
         "source": "SeekingAlpha"
@@ -1205,6 +1205,12 @@
       }
     ],
     "GOOG": [
+      {
+        "headline": "代币经济学如何拯救人工智能电脑",
+        "url": "https://finnhub.io/api/news?id=6ade163bca54c2dab1e7b3718ce127e07fe6ad3b5150336e3f5a3f7801bb8f24",
+        "datetime": 1787128200,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "追踪阿尔·戈尔一代投资管理投资组合 - 2026 年第 2 季度更新",
         "url": "https://finnhub.io/api/news?id=9d71a11ac50f796cfd2586dab3cdda355e745abc81ec1890055606c493633591",
@@ -1228,12 +1234,6 @@
         "url": "https://finnhub.io/api/news?id=fc95bb776035a8a99f006e588d26997bf8c8186e805418709d8338d1a9d649c2",
         "datetime": 1787063039,
         "source": "Benzinga"
-      },
-      {
-        "headline": "XLC：字母表和元数据不断变化",
-        "url": "https://finnhub.io/api/news?id=90836467a4e2ed96426dd09492f4bf24abf02bb02849dbc087d69bd04d2cfba1",
-        "datetime": 1787061188,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
@@ -1250,7 +1250,7 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "加里·布莱克表示社交媒体上的特斯拉牛市就像大学生在喝“龙舌兰酒”",
+        "headline": "加里·布莱克表示，社交媒体上的特斯拉牛市就像大学生在喝“龙舌兰酒”",
         "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
         "datetime": 1787063849,
         "source": "Benzinga"
@@ -1303,6 +1303,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "VanEck 表示，比特币正在闪烁 12 个投降信号中的 8 个，但尚未触底",
+        "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+        "datetime": 1787143535,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "瑞典 H100 报告上半年亏损 2600 万美元，因比特币价值下跌",
         "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787140770,
@@ -1324,12 +1330,6 @@
         "headline": "全球债券收益率触及数十年来最高水平，比特币陷入六周区间",
         "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
         "datetime": 1787135397,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "实时更新：随着油价上涨，Kospi 指数下跌 6%，比特币仍保持在 64,000 美元以上",
-        "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
-        "datetime": 1787130345,
         "source": "CoinDesk"
       }
     ],
@@ -1411,6 +1411,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "以通常的方式在链之间转移资金，并且您拥有的每个钱包都会公开链接。\n\nOnchain默认是公开的。  翻转：存款和取款在链上结算，可验证，无需任何操作",
+        "url": "https://x.com/NEARProtocol/status/2090064143864746104",
+        "datetime": 1787145098,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全保持隐藏。你只要交易。\n\n不可用",
         "url": "https://x.com/NEARProtocol/status/2089816892294783460",
         "datetime": 1787086148,
@@ -1420,12 +1426,6 @@
         "headline": "IronClaw 的质押将承诺转化为托管积分。 NEAR AI 质押将其转化为机密推理能力。\n\n进入用户拥有的人工智能的两种方法，均由@ilblac介绍",
         "url": "https://x.com/NEARProtocol/status/2089747350289863158",
         "datetime": 1787069568,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "完整发行说明：",
-        "url": "https://x.com/NEARProtocol/status/2089703636305604720",
-        "datetime": 1787059146,
         "source": "@NEARProtocol"
       }
     ],
