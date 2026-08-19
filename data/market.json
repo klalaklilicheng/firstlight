@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T02:14:17.825Z",
+  "updated_at": "2026-08-19T03:39:44.257Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64336,
-      "change_pct": 0.28
+      "price": 64295,
+      "change_pct": 0.35
     },
     {
       "symbol": "ETH",
-      "price": 1911.29,
-      "change_pct": 0.63
+      "price": 1909.67,
+      "change_pct": 1.03
     },
     {
       "symbol": "SOL",
-      "price": 76.74,
-      "change_pct": 1.65
+      "price": 76.92,
+      "change_pct": 1.98
     },
     {
       "symbol": "HYPE",
-      "price": 58.42,
-      "change_pct": -1.14
+      "price": 58.26,
+      "change_pct": -1.54
     },
     {
       "symbol": "ZEC",
-      "price": 506.18,
-      "change_pct": -1.37
+      "price": 504.66,
+      "change_pct": -0.9
     },
     {
       "symbol": "TAO",
-      "price": 190.89,
-      "change_pct": -0.53
+      "price": 190.57,
+      "change_pct": -0.48
     },
     {
       "symbol": "SKY",
-      "price": 1292.03,
-      "change_pct": 4.13
+      "price": 1292.07,
+      "change_pct": 4.64
     },
     {
       "symbol": "AAVE",
-      "price": 87.07,
-      "change_pct": -1.23
+      "price": 87.49,
+      "change_pct": -0.38
     },
     {
       "symbol": "BNB",
-      "price": 602.72,
-      "change_pct": -0.03
+      "price": 601.57,
+      "change_pct": -0.22
     },
     {
       "symbol": "NEAR",
-      "price": 1.58,
-      "change_pct": -3.21
+      "price": 1.6,
+      "change_pct": -1.73
     },
     {
       "symbol": "DOGE",
-      "price": 0.069886,
-      "change_pct": -0.14
+      "price": 0.069996,
+      "change_pct": 0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 513.62,
-      "change_pct": -2.14
+      "price": 512.89,
+      "change_pct": -2.11
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "“它必须通过”：安德鲁科莫警告美国在加密货币规则方面落后",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "datetime": 1787103336,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Robinhood首席执行官敦促美国随着海外市场的发展为代币化股票扫清道路",
       "summary": "",
       "source": "CoinDesk",
@@ -735,15 +744,6 @@
       "datetime": 1787059513,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "加密货币的轻松赚钱时代正在以失败浪潮结束",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-      "datetime": 1787059360,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,12 +809,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.5,
+    "score": 33.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.1,
-    "weekly_score": 17.4,
-    "btc_price": 64413.5,
+    "daily_score": 16.2,
+    "weekly_score": 17.5,
+    "btc_price": 64340.2,
     "fear_greed": 41,
     "indicators": [
       {
@@ -826,15 +826,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001556,
+        "value": 0.002578,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.44,
-        "score": 63,
+        "value": 1.47,
+        "score": 65,
         "weight": 5,
         "group": "daily"
       },
@@ -896,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 41.8,
+        "value": 41.7,
         "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -76.3,
-        "score": 24,
+        "value": -71.2,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,7 +1059,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2747,
+        "likes": 2792,
         "retweets": 69
       },
       {
@@ -1096,29 +1096,29 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 2822,
-        "retweets": 279
+        "likes": 3063,
+        "retweets": 296
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3119,
-        "retweets": 439
+        "likes": 3208,
+        "retweets": 451
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4606,
-        "retweets": 465
+        "likes": 4645,
+        "retweets": 474
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7303,
-        "retweets": 840
+        "likes": 7311,
+        "retweets": 841
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1201,6 +1201,12 @@
     ],
     "GOOG": [
       {
+        "headline": "追踪阿尔·戈尔一代投资管理投资组合 - 2026 年第 2 季度更新",
+        "url": "https://finnhub.io/api/news?id=9d71a11ac50f796cfd2586dab3cdda355e745abc81ec1890055606c493633591",
+        "datetime": 1787091773,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "ReNew Energy：买入已获得回报，但现在是持有的时候了（评级下调）",
         "url": "https://finnhub.io/api/news?id=f7edbc3ed471f9093691c66f152989caca89da0b3b41e19da47bf4021190bf3b",
         "datetime": 1787077386,
@@ -1223,12 +1229,6 @@
         "url": "https://finnhub.io/api/news?id=90836467a4e2ed96426dd09492f4bf24abf02bb02849dbc087d69bd04d2cfba1",
         "datetime": 1787061188,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "“Anthropic 首次公开募股前信贷额度将突破 100 亿美元” - 彭博社",
-        "url": "https://finnhub.io/api/news?id=912557a963c654d0c80ccdba4466965f75facd0f65a69f8ba1aa600c717658db",
-        "datetime": 1787057283,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
