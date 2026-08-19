@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T00:45:06.277Z",
+  "updated_at": "2026-08-19T02:14:17.825Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 35.9,
-      "change_pct": 1.67
+      "price": 36.45,
+      "change_pct": 1.53
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64524,
+      "price": 64336,
       "change_pct": 0.28
     },
     {
       "symbol": "ETH",
-      "price": 1913.04,
-      "change_pct": 0.27
+      "price": 1911.29,
+      "change_pct": 0.63
     },
     {
       "symbol": "SOL",
-      "price": 76.91,
-      "change_pct": 1.39
+      "price": 76.74,
+      "change_pct": 1.65
     },
     {
       "symbol": "HYPE",
-      "price": 58.64,
-      "change_pct": -1.55
+      "price": 58.42,
+      "change_pct": -1.14
     },
     {
       "symbol": "ZEC",
-      "price": 505.44,
-      "change_pct": -1.42
+      "price": 506.18,
+      "change_pct": -1.37
     },
     {
       "symbol": "TAO",
-      "price": 190.59,
-      "change_pct": -2.81
+      "price": 190.89,
+      "change_pct": -0.53
     },
     {
       "symbol": "SKY",
-      "price": 1287.34,
-      "change_pct": 3.94
+      "price": 1292.03,
+      "change_pct": 4.13
     },
     {
       "symbol": "AAVE",
-      "price": 87.26,
-      "change_pct": -2.05
+      "price": 87.07,
+      "change_pct": -1.23
     },
     {
       "symbol": "BNB",
-      "price": 603.73,
-      "change_pct": -0.16
+      "price": 602.72,
+      "change_pct": -0.03
     },
     {
       "symbol": "NEAR",
-      "price": 1.57,
-      "change_pct": -4.25
+      "price": 1.58,
+      "change_pct": -3.21
     },
     {
       "symbol": "DOGE",
-      "price": 0.069988,
-      "change_pct": -0.33
+      "price": 0.069886,
+      "change_pct": -0.14
     },
     {
       "symbol": "SPACEX",
-      "price": 513.69,
-      "change_pct": -2.3
+      "price": 513.62,
+      "change_pct": -2.14
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "Robinhood首席执行官敦促美国随着海外市场的发展为代币化股票扫清道路",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "datetime": 1787094672,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "美国会计准则组织提出将稳定币视为“现金等价物”的方法",
       "summary": "",
       "source": "CoinDesk",
@@ -521,7 +530,7 @@
       "related": ""
     },
     {
-      "headline": "美国 SEC 意外宣布提出首个主要加密货币规则",
+      "headline": "美国 SEC 意外宣布提出首个主要加密规则",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/18/r",
@@ -593,7 +602,7 @@
       "related": ""
     },
     {
-      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 增加了美国股票在欧洲的交易",
+      "headline": "随着 TradFi 与加密货币的分歧变得模糊，Kraken 在欧洲增加了美国股票",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
@@ -735,15 +744,6 @@
       "datetime": 1787059360,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对 FCC 提起诉讼",
-      "summary": "迪士尼旗下的美国广播公司 (ABC) 起诉美国联邦通信委员会 (FCC)，声称其调查和提前更新广播许可证是对其节目的“报复性行动”。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-      "datetime": 1787058690,
-      "category": "business",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -809,12 +809,12 @@
     }
   ],
   "btc_score": {
-    "score": 33.7,
+    "score": 33.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.9,
-    "weekly_score": 17.8,
-    "btc_price": 64641.1,
+    "daily_score": 16.1,
+    "weekly_score": 17.4,
+    "btc_price": 64413.5,
     "fear_greed": 41,
     "indicators": [
       {
@@ -826,15 +826,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001706,
+        "value": 0.001556,
         "score": 46,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.38,
-        "score": 59,
+        "value": 1.44,
+        "score": 63,
         "weight": 5,
         "group": "daily"
       },
@@ -854,22 +854,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.183,
-        "score": 43,
+        "value": 0.186,
+        "score": 44,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.808,
-        "score": 7,
+        "value": 0.785,
+        "score": 6,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.005,
-        "score": 55,
+        "value": 1,
+        "score": 50,
         "weight": 8,
         "group": "weekly"
       },
@@ -896,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 42.2,
-        "score": 37,
+        "value": 41.8,
+        "score": 36,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -81.2,
-        "score": 23,
+        "value": -76.3,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,7 +1030,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1407,
-        "retweets": 87
+        "retweets": 86
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1059,8 +1059,8 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 2658,
-        "retweets": 67
+        "likes": 2747,
+        "retweets": 69
       },
       {
         "text": "i will always fund a smart 20yo to build a startup. no baggage, insane risk appetite, ruthless speed, massive ego.\n\nbut i i will never let a 20yo manage my money, for the exact same reasons.\n\nperhaps a defining mindset difference between the east coast and the west coast.",
@@ -1096,29 +1096,29 @@
         "text": "Volatility is energy. Engineers harness it. https://t.co/K5HMaom7cC",
         "url": "https://x.com/saylor/status/2089798858872099115",
         "time": "Tue Aug 18 19:37:29 +0000 2026",
-        "likes": 2538,
-        "retweets": 250
+        "likes": 2822,
+        "retweets": 279
       },
       {
         "text": "The Physics of Money\n\nEvery monetary instrument has a natural frequency — the time you need to hold it to use it as money.\n\nDigital Capital: ~4 years\nDigital Credit: ~4 months\nDigital Money: ~4 days\nDigital Currency: ~4 hours\nhttps://t.co/sCB2R1dYbV",
         "url": "https://x.com/saylor/status/2089652470083363100",
         "time": "Tue Aug 18 09:55:47 +0000 2026",
-        "likes": 3046,
-        "retweets": 429
+        "likes": 3119,
+        "retweets": 439
       },
       {
         "text": "If God designed money, what would it look like? https://t.co/C4sVVoXpst",
         "url": "https://x.com/saylor/status/2089401982335303747",
         "time": "Mon Aug 17 17:20:26 +0000 2026",
-        "likes": 4576,
-        "retweets": 462
+        "likes": 4606,
+        "retweets": 465
       },
       {
         "text": "Strategy added $150M to its USD Reserve and repurchased $132M of $STRC, extending USD Duration to 2.8 yrs (+41 days) and tightening STRC BTC Credit to 114 bps (-4 bps). As of 8/16/26: ₿840,447 BTC Reserve; $4.8B USD Reserve. $MSTR https://t.co/kNWPowilmT",
         "url": "https://x.com/saylor/status/2089322293822468601",
         "time": "Mon Aug 17 12:03:47 +0000 2026",
-        "likes": 7296,
-        "retweets": 839
+        "likes": 7303,
+        "retweets": 840
       },
       {
         "text": "STRC’s BTC Credit is calculated using our Credit model with assumed inputs of 10% BTC ARR, 40% BTC Vol, and a BTC price of $62,893. https://t.co/uTlyGWcQWW",
@@ -1425,7 +1425,7 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全保持隐藏。你只要交易。\n\n不可用",
+        "headline": "ICYMI：超流动犯罪分子仍在继续 \n\n由与跨链互换相同的账户提供资金。无需额外步骤即可进入 50 多个市场。\n\n跨链完全隐藏。你只是交易。\n\n不可用",
         "url": "https://x.com/NEARProtocol/status/2089816892294783460",
         "datetime": 1787086148,
         "source": "@NEARProtocol"
