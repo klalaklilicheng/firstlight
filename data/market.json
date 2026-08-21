@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:32:20.925Z",
+  "updated_at": "2026-08-21T07:36:32.704Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 75302,
-      "change_pct": 8.22
+      "price": 76370,
+      "change_pct": 9.82
     },
     {
       "symbol": "ETH",
-      "price": 2359.07,
-      "change_pct": 4.81
+      "price": 2379.89,
+      "change_pct": 5.91
     },
     {
       "symbol": "SOL",
-      "price": 90.05,
-      "change_pct": 5.48
+      "price": 90.14,
+      "change_pct": 4.84
     },
     {
       "symbol": "HYPE",
-      "price": 72.99,
-      "change_pct": 1.34
+      "price": 73.52,
+      "change_pct": 2.33
     },
     {
       "symbol": "ZEC",
-      "price": 597.21,
-      "change_pct": 8.22
+      "price": 629.1,
+      "change_pct": 12.68
     },
     {
       "symbol": "TAO",
-      "price": 218.93,
-      "change_pct": 6.71
+      "price": 221.07,
+      "change_pct": 8.45
     },
     {
       "symbol": "SKY",
-      "price": 1493.68,
-      "change_pct": 6.71
+      "price": 1502.33,
+      "change_pct": 7.72
     },
     {
       "symbol": "AAVE",
-      "price": 100.26,
-      "change_pct": 4.03
+      "price": 101.83,
+      "change_pct": 5.45
     },
     {
       "symbol": "BNB",
-      "price": 665.26,
-      "change_pct": 6.24
+      "price": 670.23,
+      "change_pct": 6.65
     },
     {
       "symbol": "NEAR",
-      "price": 1.83,
-      "change_pct": 5.6
+      "price": 1.86,
+      "change_pct": 7.11
     },
     {
       "symbol": "DOGE",
-      "price": 0.08339,
-      "change_pct": 11.31
+      "price": 0.083877,
+      "change_pct": 11.69
     },
     {
       "symbol": "SPACEX",
-      "price": 495.47,
-      "change_pct": -1.88
+      "price": 495.33,
+      "change_pct": -0.43
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "实时更新：随着资金流入连续第二天激增，比特币、以太坊 ETF 吸纳 8 亿美元资金",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+      "datetime": 1787294604,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于区块链被利用后停止运行，MANTRA 代币暴跌 18% 创历史新低",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "datetime": 1787291547,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "韩国立法者寻求扩大金融情报机构对未注册加密货币公司的权力",
       "summary": "该提案将让金融情报机构调查涉嫌违规行为，并将未注册的加密货币运营商直接提交给执法部门。",
       "source": "Cointelegraph",
@@ -726,24 +744,6 @@
       "datetime": 1787237548,
       "category": "business",
       "related": ""
-    },
-    {
-      "headline": "MiCA 在欧洲打击 USDT……但没人在乎",
-      "summary": "USDT 正在从受监管的欧洲平台上消失，但几乎没有迹象表明这会导致全球对 Tether 的需求减弱。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787232600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitdeer 为马来西亚工厂签署 4 亿美元人工智能云计算协议",
-      "summary": "Bitdeer 预计该五年协议的收入将于 2027 年初开始，到 2028 年其人工智能云容量将达到 350 兆瓦。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787231882,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -814,12 +814,12 @@
     }
   ],
   "btc_score": {
-    "score": 43.6,
+    "score": 44.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 20.7,
-    "weekly_score": 22.9,
-    "btc_price": 75450.5,
+    "daily_score": 20.8,
+    "weekly_score": 23.3,
+    "btc_price": 76424.3,
     "fear_greed": 64,
     "indicators": [
       {
@@ -831,15 +831,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004678,
+        "value": 0.004363,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1,
-        "score": 33,
+        "value": 1.04,
+        "score": 36,
         "weight": 5,
         "group": "daily"
       },
@@ -901,15 +901,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 56.6,
-        "score": 61,
+        "value": 57.5,
+        "score": 63,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 60.4,
-        "score": 62,
+        "value": 90.5,
+        "score": 70,
         "weight": 4,
         "group": "weekly"
       }
@@ -1035,7 +1035,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1406,
-        "retweets": 86
+        "retweets": 87
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1048,7 +1048,7 @@
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 540,
+        "likes": 541,
         "retweets": 35
       },
       {
@@ -1101,35 +1101,35 @@
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 737,
-        "retweets": 79
+        "likes": 2660,
+        "retweets": 284
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 9324,
-        "retweets": 836
+        "likes": 9567,
+        "retweets": 867
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 11701,
-        "retweets": 945
+        "likes": 11807,
+        "retweets": 960
       },
       {
         "text": "Bitcoin is classified information. https://t.co/B0z8B6RBAq",
         "url": "https://x.com/saylor/status/2090109106791092320",
         "time": "Wed Aug 19 16:10:18 +0000 2026",
-        "likes": 6040,
-        "retweets": 505
+        "likes": 6051,
+        "retweets": 506
       },
       {
         "text": "Six securities. One Strategy.",
         "url": "https://x.com/saylor/status/2090057003154522309",
         "time": "Wed Aug 19 12:43:15 +0000 2026",
-        "likes": 3321,
+        "likes": 3324,
         "retweets": 298
       }
     ],
@@ -1303,6 +1303,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "实时更新：随着资金流入连续第二天激增，比特币、以太坊 ETF 吸纳 8 亿美元资金",
+        "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+        "datetime": 1787294604,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "比特币、以太币和 solana 攀升，另外 10 亿美元空头被清空",
         "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
         "datetime": 1787288190,
@@ -1325,12 +1331,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-surges-after-us-debt-crosses-40t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787247838,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "策略师表示，美国国债回购可能会推动比特币下一步走向 18 万美元",
-        "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-        "datetime": 1787242652,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1430,14 +1430,7 @@
         "source": "@NEARProtocol"
       }
     ],
-    "ZEC": [
-      {
-        "headline": "Cypherpunk 推出 Zcash 矿机，控制 18% 的网络算力",
-        "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787081476,
-        "source": "Cointelegraph"
-      }
-    ],
+    "ZEC": [],
     "SPACEX": []
   }
 }
