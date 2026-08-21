@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-21T13:39:11.088Z",
+  "updated_at": "2026-08-21T14:26:57.318Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 703.18,
-      "change_pct": 0.31
-    },
-    {
-      "symbol": "QQQ",
-      "price": 712.21,
-      "change_pct": 0.18
-    },
-    {
-      "symbol": "QQQM",
-      "price": 293.2,
-      "change_pct": 0.14
-    },
-    {
-      "symbol": "NVDA",
-      "price": 217.43,
-      "change_pct": 0.27
-    },
-    {
-      "symbol": "TSLA",
-      "price": 348.19,
-      "change_pct": 0.89
-    },
-    {
-      "symbol": "GOOG",
-      "price": 339.13,
+      "price": 703,
       "change_pct": 0.28
     },
     {
+      "symbol": "QQQ",
+      "price": 710.08,
+      "change_pct": -0.12
+    },
+    {
+      "symbol": "QQQM",
+      "price": 292.34,
+      "change_pct": -0.15
+    },
+    {
+      "symbol": "NVDA",
+      "price": 214.89,
+      "change_pct": -0.9
+    },
+    {
+      "symbol": "TSLA",
+      "price": 357.9,
+      "change_pct": 3.7
+    },
+    {
+      "symbol": "GOOG",
+      "price": 340.18,
+      "change_pct": 0.59
+    },
+    {
       "symbol": "RKLB",
-      "price": 74.96,
-      "change_pct": 2.76
+      "price": 72.13,
+      "change_pct": -1.12
     },
     {
       "symbol": "CRCL",
-      "price": 89.49,
-      "change_pct": 6.97
+      "price": 90.19,
+      "change_pct": 7.81
     },
     {
       "symbol": "PLTR",
-      "price": 173.87,
-      "change_pct": -0.05
+      "price": 174.16,
+      "change_pct": 0.12
     },
     {
       "symbol": "MSTR",
-      "price": 117.61,
-      "change_pct": 4.64
+      "price": 118.75,
+      "change_pct": 5.66
     },
     {
       "symbol": "GLD",
-      "price": 420.29,
-      "change_pct": 1.21
+      "price": 421.72,
+      "change_pct": 1.56
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 76400,
-      "change_pct": 7.25
+      "price": 76878,
+      "change_pct": 7.37
     },
     {
       "symbol": "ETH",
-      "price": 2371.42,
-      "change_pct": 4.83
+      "price": 2375.86,
+      "change_pct": 4.29
     },
     {
       "symbol": "SOL",
-      "price": 89.93,
-      "change_pct": 4.2
+      "price": 91.01,
+      "change_pct": 5.29
     },
     {
       "symbol": "HYPE",
-      "price": 75.98,
-      "change_pct": 6.39
+      "price": 75.91,
+      "change_pct": 5.13
     },
     {
       "symbol": "ZEC",
-      "price": 645.01,
-      "change_pct": 14.87
+      "price": 648.76,
+      "change_pct": 15.01
     },
     {
       "symbol": "TAO",
-      "price": 224.38,
-      "change_pct": 9
+      "price": 228.74,
+      "change_pct": 9.83
     },
     {
       "symbol": "SKY",
-      "price": 1504.76,
-      "change_pct": 7.12
+      "price": 1504.75,
+      "change_pct": 7.18
     },
     {
       "symbol": "AAVE",
-      "price": 108.55,
-      "change_pct": 12.91
+      "price": 110.74,
+      "change_pct": 14.99
     },
     {
       "symbol": "BNB",
-      "price": 674.19,
-      "change_pct": 5.61
+      "price": 676.55,
+      "change_pct": 5.4
     },
     {
       "symbol": "NEAR",
-      "price": 1.86,
-      "change_pct": 7.93
+      "price": 1.89,
+      "change_pct": 9.95
     },
     {
       "symbol": "DOGE",
-      "price": 0.082775,
-      "change_pct": 7.62
+      "price": 0.083438,
+      "change_pct": 7.36
     },
     {
       "symbol": "SPACEX",
-      "price": 526.13,
-      "change_pct": 6.92
+      "price": 526.28,
+      "change_pct": 7.47
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "Solana 将区块链时隙时间缩短至 350 毫秒",
+      "summary": "Solana 自创世以来首次缩短了时隙时间，努力实现 200 毫秒的目标，以减少网络延迟。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787319913,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Laser Digital 获得日本 4 年来首个加密货币交易所批准",
       "summary": "野村证券支持的 Laser Digital Japan 获得注册，在扩展到机构加密货币交易之前提供国内流动性。",
       "source": "Cointelegraph",
@@ -575,7 +584,7 @@
       "related": ""
     },
     {
-      "headline": "比特币突破 77,000 美元，创 2023 年以来最佳一周，拉动山寨币一路上涨",
+      "headline": "比特币突破 77,000 美元，创 2023 年以来最佳单周，山寨币也随之上涨",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
@@ -602,8 +611,8 @@
       "related": ""
     },
     {
-      "headline": "策略 随着 BTC 价格突破 7.7 万美元，比特币国债触及盈亏平衡点",
-      "summary": "随着Strategy公司看到其BTC金库摆脱亏损，比特币在两天内上涨了20%。",
+      "headline": "策略 随着 BTC 价格突破 7.7 万美元，比特币国库触及盈亏平衡点",
+      "summary": "随着Strategy公司看到其BTC金库走出亏损，比特币在两天内上涨了20%。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787302132,
@@ -693,7 +702,7 @@
     },
     {
       "headline": "MEXC 报告称，继创纪录的微米盈利之后，MU 期货交易量激增 142%",
-      "summary": "塞舌尔维多利亚，2026 年 6 月 26 日 /美通社/ — 零费用数字资产交易先驱 MEXC 围绕美光 (MU) 收益报告发布了对股票相关期货交易活动的观察。美光公布季度营收约 414 亿美元，大幅超过市场水平",
+      "summary": "塞舌尔维多利亚，2026 年 6 月 26 日 /美通社/ — 零费用数字资产交易先驱 MEXC 围绕美光 (MU) 收益报告发布了对股票相关期货交易活动的观察。美光公布季度营收约 414 亿美元，大幅超过市场",
       "source": "Cryptocurrency News",
       "url": "https://cryptocurrencynews.com/crypto/mexc-reports-142-volume-surge-for-mu-futures-following-record-micron-earnings-beat/",
       "datetime": 1787281798,
@@ -733,15 +742,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787259801,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CFTC 主席表示，如果 CLARITY 失败，该机构将推进加密货币监管",
-      "summary": "Michael Selig 在创新咨询委员会的一次会议上表示，他已指示 CFTC 工作人员探索开发者保护和其他加密相关政策。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787259383,
       "category": "crypto",
       "related": ""
     }
@@ -808,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 47.3,
+    "score": 47.5,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
-    "daily_score": 20.9,
+    "daily_score": 21.1,
     "weekly_score": 26.4,
-    "btc_price": 76695.5,
+    "btc_price": 77000.8,
     "fear_greed": 64,
     "indicators": [
       {
@@ -832,8 +832,8 @@
       },
       {
         "name": "多空比",
-        "value": 1,
-        "score": 33,
+        "value": 1.05,
+        "score": 37,
         "weight": 5,
         "group": "daily"
       },
@@ -895,14 +895,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 57.8,
-        "score": 63,
+        "value": 58.1,
+        "score": 64,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 257.2,
+        "value": 274.9,
         "score": 100,
         "weight": 4,
         "group": "weekly"
@@ -1035,7 +1035,7 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 363,
+        "likes": 362,
         "retweets": 24
       },
       {
@@ -1058,7 +1058,7 @@
         "text": "own either the greatest cashflow-generating monopolies or oligopolies, or the purest non-sovereign store of value. everything in between is midcurve.",
         "url": "https://x.com/QwQiao/status/2090757192827773016",
         "time": "Fri Aug 21 11:05:33 +0000 2026",
-        "likes": 208,
+        "likes": 243,
         "retweets": 14
       },
       {
@@ -1092,39 +1092,39 @@
     ],
     "saylor": [
       {
+        "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
+        "url": "https://x.com/saylor/status/2090799524612612282",
+        "time": "Fri Aug 21 13:53:46 +0000 2026",
+        "likes": 1588,
+        "retweets": 158
+      },
+      {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 8461,
-        "retweets": 887
+        "likes": 8884,
+        "retweets": 934
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 10968,
-        "retweets": 1044
+        "likes": 11115,
+        "retweets": 1057
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 12284,
-        "retweets": 993
+        "likes": 12344,
+        "retweets": 997
       },
       {
         "text": "Bitcoin is classified information. https://t.co/B0z8B6RBAq",
         "url": "https://x.com/saylor/status/2090109106791092320",
         "time": "Wed Aug 19 16:10:18 +0000 2026",
-        "likes": 6118,
-        "retweets": 512
-      },
-      {
-        "text": "Six securities. One Strategy.",
-        "url": "https://x.com/saylor/status/2090057003154522309",
-        "time": "Wed Aug 19 12:43:15 +0000 2026",
-        "likes": 3344,
-        "retweets": 301
+        "likes": 6125,
+        "retweets": 513
       }
     ],
     "viktorfischer": [
@@ -1264,7 +1264,7 @@
     ],
     "CRCL": [
       {
-        "headline": "Bessent 的债券救援失败，沃尔玛跌幅 9%：今日股市",
+        "headline": "Bessent 的债券救援失败，沃尔玛陨石坑 9%：今日股市",
         "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
         "datetime": 1787230977,
         "source": "Benzinga"
@@ -1321,7 +1321,7 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "比特币突破 77,000 美元，创 2023 年以来最佳一周，拉动山寨币一路上涨",
+        "headline": "比特币突破 77,000 美元，创 2023 年以来最佳单周，山寨币也随之上涨",
         "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
         "datetime": 1787307336,
         "source": "CoinDesk"
@@ -1337,28 +1337,16 @@
     ],
     "SOL": [
       {
+        "headline": "Solana 将区块链时隙时间缩短至 350 毫秒",
+        "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787319913,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "比特币、以太币和 solana 攀升，另外 10 亿美元空头被清空",
         "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
         "datetime": 1787288190,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2090794127281500227",
-        "datetime": 1787319139,
-        "source": "@solana"
-      },
-      {
-        "headline": "监控情况",
-        "url": "https://x.com/solana/status/2090794124295217354",
-        "datetime": 1787319138,
-        "source": "@solana"
-      },
-      {
-        "headline": "我们正处于 350ms 的新时代\n\n下一站，300ms",
-        "url": "https://x.com/solana/status/2090752522247889223",
-        "datetime": 1787309220,
-        "source": "@solana"
       }
     ],
     "AAVE": [
@@ -1406,13 +1394,13 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "扩展设定了网络所能提供服务的上限。在性能下降之前它可以吸收多少用户、代理和交易，以及它是否通过集中化达到该上限（提高 h",
+        "headline": "扩展设置了网络所能提供服务的上限。在性能下降之前它可以吸收多少用户、代理和交易，以及它是否通过集中化达到该上限（提高 h",
         "url": "https://x.com/NEARProtocol/status/2090783913987706931",
         "datetime": 1787316704,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "这是实践中的人工智能资金：质押的 NEAR 转换为用于机密推理和自主代理的经常性计算积分。 \n\n股份的所有权永远不会离开您。超过 40 名模特遍布全国",
+        "headline": "这是实践中的人工智能资金：质押的 NEAR 转换为用于机密推理和自主代理的循环计算积分。 \n\n股份的所有权永远不会离开您。超过 40 名模特遍布全国",
         "url": "https://x.com/NEARProtocol/status/2090569051005161791",
         "datetime": 1787265477,
         "source": "@NEARProtocol"
