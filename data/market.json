@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:18:34.409Z",
+  "updated_at": "2026-08-21T00:49:09.051Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 72916,
-      "change_pct": 5.11
+      "price": 73626,
+      "change_pct": 5.77
     },
     {
       "symbol": "ETH",
-      "price": 2321.79,
-      "change_pct": 3.37
+      "price": 2335.85,
+      "change_pct": 2.9
     },
     {
       "symbol": "SOL",
-      "price": 87.4,
-      "change_pct": 2.44
+      "price": 87.92,
+      "change_pct": 2.82
     },
     {
       "symbol": "HYPE",
-      "price": 73.8,
-      "change_pct": 4.29
+      "price": 73.29,
+      "change_pct": 3.49
     },
     {
       "symbol": "ZEC",
-      "price": 573.03,
-      "change_pct": 1.67
+      "price": 567.4,
+      "change_pct": 0.47
     },
     {
       "symbol": "TAO",
-      "price": 215.28,
-      "change_pct": 5.12
+      "price": 215.27,
+      "change_pct": 3.98
     },
     {
       "symbol": "SKY",
-      "price": 1429.84,
-      "change_pct": 2.47
+      "price": 1439.52,
+      "change_pct": 1.94
     },
     {
       "symbol": "AAVE",
-      "price": 98.33,
-      "change_pct": 2.97
+      "price": 98.85,
+      "change_pct": 3.22
     },
     {
       "symbol": "BNB",
-      "price": 655.41,
-      "change_pct": 4.49
+      "price": 655.48,
+      "change_pct": 4.12
     },
     {
       "symbol": "NEAR",
-      "price": 1.77,
-      "change_pct": 2.06
+      "price": 1.76,
+      "change_pct": 1.27
     },
     {
       "symbol": "DOGE",
-      "price": 0.079651,
-      "change_pct": 6.76
+      "price": 0.081097,
+      "change_pct": 7.28
     },
     {
       "symbol": "SPACEX",
-      "price": 497.04,
-      "change_pct": -1.22
+      "price": 493.96,
+      "change_pct": -0.35
     }
   ],
   "earnings": {
@@ -530,7 +530,7 @@
       "related": ""
     },
     {
-      "headline": "美国商品期货交易委员会主席通知员工，如果《澄清法案》失败，将制定加密货币法规",
+      "headline": "美国商品期货交易委员会主席通知工作人员，如果《澄清法案》失败，将制定加密货币法规",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
@@ -630,7 +630,7 @@
     },
     {
       "headline": "消息人士称，Arctos 同意以 106 亿美元估值收购亚特兰大猎鹰队 10% 的股份",
-      "summary": "两名消息人士告诉 CNBC，私募股权公司 Arctos 已同意收购亚特兰大猎鹰队 10% 的股份，交易价值 106 亿美元。",
+      "summary": "两位消息人士告诉 CNBC，私募股权公司 Arctos 已同意收购亚特兰大猎鹰队 10% 的股份，交易价值 106 亿美元。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
       "datetime": 1787238508,
@@ -809,39 +809,39 @@
     }
   ],
   "btc_score": {
-    "score": 36.5,
+    "score": 38.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.4,
-    "weekly_score": 21.1,
-    "btc_price": 72917.9,
-    "fear_greed": 55,
+    "daily_score": 16.7,
+    "weekly_score": 21.5,
+    "btc_price": 73716.6,
+    "fear_greed": 64,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 38600000,
-        "score": 53,
+        "value": 103300000,
+        "score": 57,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.004073,
-        "score": 47,
+        "value": 0.005568,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 0.94,
-        "score": 29,
+        "value": 0.96,
+        "score": 31,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 55,
-        "score": 55,
+        "value": 64,
+        "score": 64,
         "weight": 7,
         "group": "daily"
       },
@@ -882,29 +882,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.78,
-        "score": 19,
+        "value": 0.8,
+        "score": 20,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 1.08,
-        "score": 19,
+        "value": 1.14,
+        "score": 21,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 53.9,
-        "score": 57,
+        "value": 54.8,
+        "score": 58,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -48.9,
-        "score": 32,
+        "value": -27,
+        "score": 38,
         "weight": 4,
         "group": "weekly"
       }
@@ -913,7 +913,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 27
+      "days_until": 26
     },
     "schedule": [
       "2025-01-29",
@@ -1059,14 +1059,14 @@
         "text": "unitree ipo. kind of interesting how overwhelmingly negative chinese twitter is towards it\n\n\"a toy company masqueraded as a humanoid company\"\n\n\"one of the least interesting robotics companies in china\"\n\n\"founder does not look happy. he knows there's no way he can fulfill market's",
         "url": "https://x.com/QwQiao/status/2090048008905789515",
         "time": "Wed Aug 19 12:07:31 +0000 2026",
-        "likes": 113,
+        "likes": 114,
         "retweets": 5
       },
       {
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 3131,
+        "likes": 3133,
         "retweets": 78
       },
       {
@@ -1080,7 +1080,7 @@
         "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
         "url": "https://x.com/QwQiao/status/2077464434377642202",
         "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 61,
+        "likes": 62,
         "retweets": 0
       },
       {
@@ -1096,36 +1096,36 @@
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 7292,
-        "retweets": 634
+        "likes": 7673,
+        "retweets": 671
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 10881,
-        "retweets": 874
+        "likes": 11029,
+        "retweets": 882
       },
       {
         "text": "Bitcoin is classified information. https://t.co/B0z8B6RBAq",
         "url": "https://x.com/saylor/status/2090109106791092320",
         "time": "Wed Aug 19 16:10:18 +0000 2026",
-        "likes": 5948,
-        "retweets": 496
+        "likes": 5966,
+        "retweets": 497
       },
       {
         "text": "Six securities. One Strategy.",
         "url": "https://x.com/saylor/status/2090057003154522309",
         "time": "Wed Aug 19 12:43:15 +0000 2026",
-        "likes": 3280,
-        "retweets": 292
+        "likes": 3291,
+        "retweets": 295
       },
       {
         "text": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet.",
         "url": "https://x.com/saylor/status/2090007742215794727",
         "time": "Wed Aug 19 09:27:30 +0000 2026",
-        "likes": 12470,
-        "retweets": 965
+        "likes": 12545,
+        "retweets": 972
       }
     ],
     "viktorfischer": [
@@ -1169,6 +1169,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "追踪 Mario Gabelli 的 Gabelli 基金 13F 投资组合 - 2026 年第 2 季度更新",
+        "url": "https://finnhub.io/api/news?id=d34e4cb40cc75d54d268277ce81d9c6581998aa1f8ad4091d34324375bc7500b",
+        "datetime": 1787257446,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "哪些道琼斯股票周四走势？",
         "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
         "datetime": 1787253006,
@@ -1187,19 +1193,25 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "标准普尔 500 指数刚刚获准升至 8000 点",
-        "url": "https://finnhub.io/api/news?id=1a961459316c8bdf0d9d3718475df173b3baef3c3c18a7fb603ef47084c11ff0",
-        "datetime": 1787237288,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "超大规模人工智能资本支出：头条新闻错过了什么",
-        "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
-        "datetime": 1787234760,
-        "source": "SeekingAlpha"
+        "headline": "阿里巴巴意外地对英伟达较旧的人工智能芯片投下了信任票",
+        "url": "https://finnhub.io/api/news?id=ff4b20fb34616e33078a1eb9925b3f608ec73b20ad0b0f8c484988c909b8e94e",
+        "datetime": 1787241859,
+        "source": "Benzinga"
       }
     ],
     "GOOG": [
+      {
+        "headline": "追踪 Mario Gabelli 的 Gabelli 基金 13F 投资组合 - 2026 年第 2 季度更新",
+        "url": "https://finnhub.io/api/news?id=d34e4cb40cc75d54d268277ce81d9c6581998aa1f8ad4091d34324375bc7500b",
+        "datetime": 1787257446,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "“Anthropic 计划将花旗集团纳入大型 IPO 银行之列”-彭博社",
+        "url": "https://finnhub.io/api/news?id=b953fcc1677023df0bb53e839bc4e97fcf76c4122fdfb3280c74f7c3d72c427e",
+        "datetime": 1787248712,
+        "source": "Benzinga"
+      },
       {
         "headline": "博通：Marvell 恐慌引发巨大买入机会",
         "url": "https://finnhub.io/api/news?id=42c8bba8655a078154193a1cbcdbdcab4010b3969600f3f8c0f4e073167a5b84",
@@ -1217,18 +1229,6 @@
         "url": "https://finnhub.io/api/news?id=b6a031ed740b031c4076bb06064ca30c3f09acc79ab1a9c6f4b2e11e4bb9f31a",
         "datetime": 1787235086,
         "source": "Benzinga"
-      },
-      {
-        "headline": "沃尔玛的前景表明未来支出谨慎；财政部的欣快感消退；三星股价飙升；比特币空头被击垮",
-        "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
-        "datetime": 1787234643,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Alphabet：2500 亿美元的资本支出卸载计划",
-        "url": "https://finnhub.io/api/news?id=7bdc39cbcc7f603f5a1e1dc62a3eb36c683b391e08b34ff3e80f4715d95ed4af",
-        "datetime": 1787234556,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
@@ -1265,7 +1265,7 @@
     ],
     "CRCL": [
       {
-        "headline": "Bessent 的债券救援失败，沃尔玛跌幅 9%：今日股市",
+        "headline": "Bessent 的债券救援失败，沃尔玛陨石坑 9%：今日股市",
         "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
         "datetime": 1787230977,
         "source": "Benzinga"
