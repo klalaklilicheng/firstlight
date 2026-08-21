@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:15:58.272Z",
+  "updated_at": "2026-08-21T23:16:15.544Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78645,
-      "change_pct": 8.34
+      "price": 78514,
+      "change_pct": 7.75
     },
     {
       "symbol": "ETH",
-      "price": 2539.51,
-      "change_pct": 9.83
+      "price": 2522.68,
+      "change_pct": 8.69
     },
     {
       "symbol": "SOL",
-      "price": 94.19,
-      "change_pct": 7.81
+      "price": 94.04,
+      "change_pct": 7.59
     },
     {
       "symbol": "HYPE",
-      "price": 76.84,
-      "change_pct": 4.23
+      "price": 75.89,
+      "change_pct": 2.69
     },
     {
       "symbol": "ZEC",
-      "price": 733.04,
-      "change_pct": 28.97
+      "price": 733.03,
+      "change_pct": 27.89
     },
     {
       "symbol": "TAO",
-      "price": 232.78,
-      "change_pct": 9.32
+      "price": 233.08,
+      "change_pct": 8.19
     },
     {
       "symbol": "SKY",
-      "price": 1606.97,
-      "change_pct": 12.6
+      "price": 1577.42,
+      "change_pct": 10.4
     },
     {
       "symbol": "AAVE",
-      "price": 121.2,
-      "change_pct": 24.16
+      "price": 120.8,
+      "change_pct": 22.83
     },
     {
       "symbol": "BNB",
-      "price": 689.14,
-      "change_pct": 5.46
+      "price": 689.88,
+      "change_pct": 5.27
     },
     {
       "symbol": "NEAR",
-      "price": 1.98,
-      "change_pct": 12.47
+      "price": 1.97,
+      "change_pct": 10.97
     },
     {
       "symbol": "DOGE",
-      "price": 0.093226,
-      "change_pct": 17.19
+      "price": 0.093817,
+      "change_pct": 17.78
     },
     {
       "symbol": "SPACEX",
-      "price": 516.91,
-      "change_pct": 1.38
+      "price": 516.87,
+      "change_pct": 3.99
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "加密货币倡导者联合起诉伊利诺伊州数字资产税",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+      "datetime": 1787350228,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Bitget首席执行官认为比特币年底将接近当前水平，怀疑美国是否会购买比特币",
       "summary": "Gracy Chen 表示，宏观经济的不确定性可能会使比特币价格维持在目前水平的 10,000 美元至 20,000 美元之内，而美国政府在未来两年内购买比特币的可能性仍然不大。",
       "source": "Cointelegraph",
@@ -735,15 +744,6 @@
       "datetime": 1787303835,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "策略 随着 BTC 价格突破 7.7 万美元，比特币国债触及盈亏平衡点",
-      "summary": "随着Strategy公司看到其BTC金库摆脱亏损，比特币在两天内上涨了20%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787302132,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -803,18 +803,18 @@
     }
   ],
   "btc_score": {
-    "score": 44.9,
+    "score": 40.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 21.1,
-    "weekly_score": 23.8,
-    "btc_price": 78662.6,
+    "daily_score": 16.6,
+    "weekly_score": 23.9,
+    "btc_price": 78592.1,
     "fear_greed": 64,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 606300000,
-        "score": 90,
+        "value": 33600000,
+        "score": 52,
         "weight": 12,
         "group": "daily"
       },
@@ -827,7 +827,7 @@
       },
       {
         "name": "多空比",
-        "value": 1.06,
+        "value": 1.05,
         "score": 37,
         "weight": 5,
         "group": "daily"
@@ -890,15 +890,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 59.6,
+        "value": 59.5,
         "score": 66,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -47.9,
-        "score": 32,
+        "value": -38.8,
+        "score": 34,
         "weight": 4,
         "group": "weekly"
       }
@@ -1016,14 +1016,14 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 723,
+        "likes": 724,
         "retweets": 92
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1408,
+        "likes": 1409,
         "retweets": 87
       },
       {
@@ -1050,10 +1050,17 @@
     ],
     "QwQiao": [
       {
+        "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
+        "url": "https://x.com/QwQiao/status/2090930531357614458",
+        "time": "Fri Aug 21 22:34:20 +0000 2026",
+        "likes": 122,
+        "retweets": 14
+      },
+      {
         "text": "own either the greatest cashflow-generating monopolies or oligopolies, or the purest non-sovereign store of value. everything in between is midcurve.",
         "url": "https://x.com/QwQiao/status/2090757192827773016",
         "time": "Fri Aug 21 11:05:33 +0000 2026",
-        "likes": 324,
+        "likes": 326,
         "retweets": 18
       },
       {
@@ -1067,7 +1074,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 3136,
+        "likes": 3137,
         "retweets": 78
       },
       {
@@ -1076,13 +1083,6 @@
         "time": "Wed Aug 05 13:53:54 +0000 2026",
         "likes": 548,
         "retweets": 16
-      },
-      {
-        "text": "getting ready for kane bellingham saka rice vs ankara messsssi https://t.co/g0jeOuIgOe",
-        "url": "https://x.com/QwQiao/status/2077464434377642202",
-        "time": "Wed Jul 15 18:44:53 +0000 2026",
-        "likes": 62,
-        "retweets": 0
       }
     ],
     "saylor": [
@@ -1090,35 +1090,35 @@
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 5859,
-        "retweets": 559
+        "likes": 6066,
+        "retweets": 582
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 11138,
-        "retweets": 1192
+        "likes": 11344,
+        "retweets": 1207
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 12195,
-        "retweets": 1199
+        "likes": 12299,
+        "retweets": 1210
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 12946,
-        "retweets": 1047
+        "likes": 13001,
+        "retweets": 1053
       },
       {
         "text": "Bitcoin is classified information. https://t.co/B0z8B6RBAq",
         "url": "https://x.com/saylor/status/2090109106791092320",
         "time": "Wed Aug 19 16:10:18 +0000 2026",
-        "likes": 6152,
+        "likes": 6159,
         "retweets": 515
       }
     ],
@@ -1175,6 +1175,12 @@
         "source": "ChartMill"
       },
       {
+        "headline": "MRNA、SPCX、MSTR 等：本周投资者热议的 5 只股票",
+        "url": "https://finnhub.io/api/news?id=54587dab906d987614824cfab5a6a06e39d1174079f537b68a0616ac939e493d",
+        "datetime": 1787335233,
+        "source": "Benzinga"
+      },
+      {
         "headline": "周五交易时段：最活跃的股票",
         "url": "https://finnhub.io/api/news?id=b62b5a1624ff2850df9325358f0ff808fb927cb74bae610bd929dc9712420e38",
         "datetime": 1787335200,
@@ -1185,15 +1191,15 @@
         "url": "https://finnhub.io/api/news?id=8f9d28002ee9400803c1bc65f23e8d2596ad9b71d181614b5198d194aed28983",
         "datetime": 1787330405,
         "source": "ChartMill"
-      },
-      {
-        "headline": "Nvidia：5000亿个理由解释为什么这是一次强力买入",
-        "url": "https://finnhub.io/api/news?id=de473d47c7154cab7bedd61dbe6401e23429d2b6b534b03c459cc77845107462",
-        "datetime": 1787326423,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "“Anthropic 聘请谷歌芯片资深人士作为进军硬件的一部分”-彭博社",
+        "url": "https://finnhub.io/api/news?id=6f7269847b3fca88813f12410a97898a915c1320386f56769e0aecafbfd21dbf",
+        "datetime": 1787328511,
+        "source": "Benzinga"
+      },
       {
         "headline": "SpaceXAI 在 Google Cloud Vertex AI 上推出 Grok 4.6",
         "url": "https://finnhub.io/api/news?id=050b225a5b32397771f115a515579afb5b638640c702ccd8810e09f6f9cd8c5a",
@@ -1217,12 +1223,6 @@
         "url": "https://finnhub.io/api/news?id=f82c9754c50b75f885b774fb033d245a87b41d2e46e1c8b139d8d187a762d00e",
         "datetime": 1787316733,
         "source": "Benzinga"
-      },
-      {
-        "headline": "拥有人工智能的无聊方式现在变成了廉价方式",
-        "url": "https://finnhub.io/api/news?id=33b759ae54ec2c1b7dd390a8b24d7dd5de93dea22c3e3bcb0be1805704410c5b",
-        "datetime": 1787312952,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
