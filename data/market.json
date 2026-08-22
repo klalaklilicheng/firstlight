@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:14:47.669Z",
+  "updated_at": "2026-08-22T17:13:59.587Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 76989,
-      "change_pct": 0.08
+      "price": 77267,
+      "change_pct": -0.37
     },
     {
       "symbol": "ETH",
-      "price": 2411.36,
-      "change_pct": 1.01
+      "price": 2424.18,
+      "change_pct": 0.46
     },
     {
       "symbol": "SOL",
-      "price": 93.24,
-      "change_pct": 2.41
+      "price": 94.28,
+      "change_pct": 2.87
     },
     {
       "symbol": "HYPE",
-      "price": 77.34,
-      "change_pct": 1.52
+      "price": 78.14,
+      "change_pct": 2.89
     },
     {
       "symbol": "ZEC",
-      "price": 785.58,
-      "change_pct": 19.55
+      "price": 816.33,
+      "change_pct": 21.49
     },
     {
       "symbol": "TAO",
-      "price": 220.52,
-      "change_pct": -3.98
+      "price": 224.54,
+      "change_pct": -2.65
     },
     {
       "symbol": "SKY",
-      "price": 1555.44,
-      "change_pct": 1.87
+      "price": 1558.31,
+      "change_pct": 1.71
     },
     {
       "symbol": "AAVE",
-      "price": 121.49,
-      "change_pct": 10.31
+      "price": 124.57,
+      "change_pct": 11.68
     },
     {
       "symbol": "BNB",
-      "price": 689.67,
-      "change_pct": 2.11
+      "price": 695.88,
+      "change_pct": 2.35
     },
     {
       "symbol": "NEAR",
-      "price": 1.87,
-      "change_pct": -0.83
+      "price": 1.9,
+      "change_pct": -0.06
     },
     {
       "symbol": "DOGE",
-      "price": 0.08998,
-      "change_pct": 7.35
+      "price": 0.091716,
+      "change_pct": 8.01
     },
     {
       "symbol": "SPACEX",
-      "price": 521.99,
-      "change_pct": -2.85
+      "price": 521.9,
+      "change_pct": -2.51
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "加密货币交易所 BitMart 在宣布关闭几周后权衡部分重启和债权人付款",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "datetime": 1787411801,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Web3 游戏网络 Sandbox 在被利用后停止了 Base 和 BNB 链桥接",
       "summary": "",
       "source": "CoinDesk",
@@ -566,7 +575,7 @@
       "related": ""
     },
     {
-      "headline": "随着灰度现货 ETF 的推高，Zcash 上涨 48%，至 800 美元以上，加剧了“下一个比特币”的热潮",
+      "headline": "随着灰度现货 ETF 的推动，Zcash 上涨 48%，至 800 美元以上，增加了“下一个比特币”的热度",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
@@ -629,7 +638,7 @@
       "related": ""
     },
     {
-      "headline": "随着比特币和黄金接近 100 日高点，比特币寻求 7.7 万美元附近的支撑",
+      "headline": "随着 BTC、黄金接近 100 日高点，比特币寻求 7.7 万美元附近的支撑",
       "summary": "在比特币触及 5 月中旬以来的最高水平后，比特币波动性有所缓解，而黄金也与加密货币一样接近三个月高点。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -735,15 +744,6 @@
       "datetime": 1787317692,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "以下是周五我们在股市中关注的十大事件",
-      "summary": "在周四受利率驱动的严重回调之后，周五股市将高开",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
-      "datetime": 1787317176,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -814,7 +814,7 @@
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.2,
     "weekly_score": 26.2,
-    "btc_price": 77073.3,
+    "btc_price": 77278.8,
     "fear_greed": 74,
     "indicators": [
       {
@@ -833,7 +833,7 @@
       },
       {
         "name": "多空比",
-        "value": 0.99,
+        "value": 1,
         "score": 33,
         "weight": 5,
         "group": "daily"
@@ -896,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 58.1,
+        "value": 58.3,
         "score": 64,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -98.5,
-        "score": 18,
+        "value": -91.2,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1022,15 +1022,15 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 965,
-        "retweets": 61
+        "likes": 1011,
+        "retweets": 63
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 734,
-        "retweets": 94
+        "retweets": 95
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1043,7 +1043,7 @@
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 363,
+        "likes": 362,
         "retweets": 24
       },
       {
@@ -1059,7 +1059,7 @@
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 365,
+        "likes": 368,
         "retweets": 32
       },
       {
@@ -1080,7 +1080,7 @@
         "text": "honeymoon with claude is over. its starting to talk like a pedantic and condescending tech bro who nitpicks small technicality while missing the big picture entirely.\n\ngrok is now my new go-to. good balance between iq and eq.",
         "url": "https://x.com/QwQiao/status/2089697642238332933",
         "time": "Tue Aug 18 12:55:17 +0000 2026",
-        "likes": 3139,
+        "likes": 3138,
         "retweets": 78
       },
       {
@@ -1096,36 +1096,36 @@
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 3853,
-        "retweets": 314
+        "likes": 4135,
+        "retweets": 333
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 7664,
-        "retweets": 741
+        "likes": 7737,
+        "retweets": 748
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 12941,
-        "retweets": 1373
+        "likes": 13015,
+        "retweets": 1385
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 13087,
+        "likes": 13092,
         "retweets": 1301
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 13363,
-        "retweets": 1088
+        "likes": 13364,
+        "retweets": 1089
       }
     ],
     "viktorfischer": [
@@ -1219,15 +1219,15 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "人工智能支出热潮超出了华尔街的预期",
-        "url": "https://finnhub.io/api/news?id=4c51e1de8fbf8969e1ab82ed8f25047738b8fcc05e1e09131c7dd756a259a83a",
-        "datetime": 1787378400,
-        "source": "Yahoo"
+        "headline": "本辛加公牛队和熊队：罗斯、莫德纳、韦伯尔",
+        "url": "https://finnhub.io/api/news?id=9c7c4b6e7a4bd983931392cae935ba5ee7de9fcf2e7462339dc649abae2c0a2a",
+        "datetime": 1787385673,
+        "source": "Benzinga"
       },
       {
-        "headline": "谷歌因购买 Marvell 芯片而获得 Marvell 股票认股权证",
-        "url": "https://finnhub.io/api/news?id=6caf38ab8ba9a2f6e73801672417a6805cfa580a5d37e9b2fab25f94c2f75c24",
-        "datetime": 1787374021,
+        "headline": "人工智能支出的繁荣超出了华尔街的预期",
+        "url": "https://finnhub.io/api/news?id=4c51e1de8fbf8969e1ab82ed8f25047738b8fcc05e1e09131c7dd756a259a83a",
+        "datetime": 1787378400,
         "source": "Yahoo"
       }
     ],
@@ -1245,6 +1245,12 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "Bernie Sanders Accuses Elon Musk of Trying to 'Buy' Texas Senate Seat With $200 Million Spending Plan",
+        "url": "https://finnhub.io/api/news?id=7ead3defc88250dd38773f88c9b41521049e7f8b29ad8b2c5104ed5a38f8210d",
+        "datetime": 1787363441,
+        "source": "Benzinga"
+      },
+      {
         "headline": "埃隆·马斯克 (Elon Musk) 不再是亿万富翁，但他仍然可以向地球上的每个人提供 69.420 美元，并保持世界首富的地位",
         "url": "https://finnhub.io/api/news?id=ef35e65e980dccc76512ecb19f01c4b55f12dbb767de4ea31211fe1dbad7c1cd",
         "datetime": 1787358724,
@@ -1254,12 +1260,6 @@
         "headline": "特斯拉控制着美国电动汽车市场 59% 的份额——这是 2023 年以来的最高份额",
         "url": "https://finnhub.io/api/news?id=d94d5d7768f6d196308c7192a1d8861c061ac9abe46015e7f7e77523468953e6",
         "datetime": 1787354700,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "摩根士丹利在财报公布前重置英伟达股票预测",
-        "url": "https://finnhub.io/api/news?id=5a5a4e6a068bdb20252c6475e749615238304cf78e16fa2dc711175e355359cd",
-        "datetime": 1787354220,
         "source": "Yahoo"
       }
     ],
@@ -1277,7 +1277,7 @@
         "source": "Benzinga"
       },
       {
-        "headline": "Bessent 的债券救援失败，沃尔玛跌幅 9%：今日股市",
+        "headline": "Bessent 的债券救援失败，沃尔玛陨石坑 9%：今日股市",
         "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
         "datetime": 1787230977,
         "source": "Benzinga"
@@ -1304,7 +1304,7 @@
         "source": "CoinDesk"
       },
       {
-        "headline": "随着灰度现货 ETF 的推高，Zcash 上涨 48%，至 800 美元以上，加剧了“下一个比特币”的热潮",
+        "headline": "随着灰度现货 ETF 的推动，Zcash 上涨 48%，至 800 美元以上，增加了“下一个比特币”的热度",
         "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
         "datetime": 1787377063,
         "source": "CoinDesk"
@@ -1415,7 +1415,7 @@
     ],
     "ZEC": [
       {
-        "headline": "随着灰度现货 ETF 的推高，Zcash 上涨 48%，至 800 美元以上，加剧了“下一个比特币”的热潮",
+        "headline": "随着灰度现货 ETF 的推动，Zcash 上涨 48%，至 800 美元以上，增加了“下一个比特币”的热度",
         "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
         "datetime": 1787377063,
         "source": "CoinDesk"
