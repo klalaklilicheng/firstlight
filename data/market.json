@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T04:24:28.831Z",
+  "updated_at": "2026-08-22T05:19:57.214Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78345,
-      "change_pct": 4.66
+      "price": 77212,
+      "change_pct": 2.43
     },
     {
       "symbol": "ETH",
-      "price": 2511.18,
-      "change_pct": 6.98
+      "price": 2435.82,
+      "change_pct": 3.25
     },
     {
       "symbol": "SOL",
-      "price": 96.99,
-      "change_pct": 8.68
+      "price": 92.61,
+      "change_pct": 3.22
     },
     {
       "symbol": "HYPE",
-      "price": 81.13,
-      "change_pct": 11.67
+      "price": 77.48,
+      "change_pct": 6.15
     },
     {
       "symbol": "ZEC",
-      "price": 805.33,
-      "change_pct": 40.46
+      "price": 778.82,
+      "change_pct": 29.08
     },
     {
       "symbol": "TAO",
-      "price": 247.16,
-      "change_pct": 13.16
+      "price": 228.95,
+      "change_pct": 4.44
     },
     {
       "symbol": "SKY",
-      "price": 1560.51,
-      "change_pct": 7.67
+      "price": 1513.81,
+      "change_pct": 2.52
     },
     {
       "symbol": "AAVE",
-      "price": 125.64,
-      "change_pct": 24
+      "price": 119.12,
+      "change_pct": 17.96
     },
     {
       "symbol": "BNB",
-      "price": 715.59,
-      "change_pct": 8.35
+      "price": 693.77,
+      "change_pct": 4.7
     },
     {
       "symbol": "NEAR",
-      "price": 2.12,
-      "change_pct": 17.44
+      "price": 1.87,
+      "change_pct": 3.02
     },
     {
       "symbol": "DOGE",
-      "price": 0.095172,
-      "change_pct": 15.63
+      "price": 0.089373,
+      "change_pct": 8.33
     },
     {
       "symbol": "SPACEX",
-      "price": 517.95,
-      "change_pct": 3.87
+      "price": 513.15,
+      "change_pct": 3.71
     }
   ],
   "earnings": {
@@ -749,11 +749,28 @@
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": []
+      "news": [
+        {
+          "headline": "Anthropic 预计将追平或超过 SpaceX 创纪录的 IPO 规模",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+          "datetime": 1787288192
+        }
+      ]
     },
     {
       "company": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "headline": "Anthropic 预计将追平或超过 SpaceX 创纪录的 IPO 规模",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+          "datetime": 1787288192
+        },
+        {
+          "headline": "Anthropic 计划更改高级人工智能的数据保留政策",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+          "datetime": 1787287149
+        }
+      ]
     },
     {
       "company": "OpenAI",
@@ -767,11 +784,6 @@
           "headline": "OpenAI 增强付费工具客户的安全流程",
           "url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
           "datetime": 1787191244
-        },
-        {
-          "headline": "Hugging Face 事件发生后，OpenAI 做出了人工智能安全方面的改变",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
-          "datetime": 1787113038
         }
       ]
     },
@@ -797,18 +809,18 @@
     }
   ],
   "btc_score": {
-    "score": 42.2,
+    "score": 44,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.6,
-    "weekly_score": 24.6,
-    "btc_price": 78503.1,
+    "daily_score": 19.3,
+    "weekly_score": 24.7,
+    "btc_price": 77080.6,
     "fear_greed": 74,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 68200000,
-        "score": 55,
+        "value": 307500000,
+        "score": 70,
         "weight": 12,
         "group": "daily"
       },
@@ -821,8 +833,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.05,
-        "score": 37,
+        "value": 1.02,
+        "score": 35,
         "weight": 5,
         "group": "daily"
       },
@@ -870,8 +882,8 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.83,
-        "score": 22,
+        "value": 0.82,
+        "score": 21,
         "weight": 6,
         "group": "weekly"
       },
@@ -884,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 59.4,
-        "score": 66,
+        "value": 58.1,
+        "score": 64,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -6.7,
-        "score": 43,
+        "value": 23.1,
+        "score": 51,
         "weight": 4,
         "group": "weekly"
       }
@@ -1047,14 +1059,14 @@
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 288,
-        "retweets": 26
+        "likes": 304,
+        "retweets": 27
       },
       {
         "text": "own either the greatest cashflow-generating monopolies or oligopolies, or the purest non-sovereign store of value. everything in between is midcurve.",
         "url": "https://x.com/QwQiao/status/2090757192827773016",
         "time": "Fri Aug 21 11:05:33 +0000 2026",
-        "likes": 347,
+        "likes": 349,
         "retweets": 20
       },
       {
@@ -1084,29 +1096,29 @@
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 6737,
-        "retweets": 651
+        "likes": 6851,
+        "retweets": 667
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 12093,
-        "retweets": 1275
+        "likes": 12189,
+        "retweets": 1284
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 12665,
-        "retweets": 1246
+        "likes": 12718,
+        "retweets": 1254
       },
       {
         "text": "8 ₿illion to serve. https://t.co/VIzrDILXcZ",
         "url": "https://x.com/saylor/status/2090354214568333559",
         "time": "Thu Aug 20 08:24:16 +0000 2026",
-        "likes": 13220,
-        "retweets": 1069
+        "likes": 13251,
+        "retweets": 1070
       },
       {
         "text": "Bitcoin is classified information. https://t.co/B0z8B6RBAq",
@@ -1402,6 +1414,13 @@
       }
     ],
     "ZEC": [],
-    "SPACEX": []
+    "SPACEX": [
+      {
+        "headline": "Anthropic 预计将追平或超过 SpaceX 创纪录的 IPO 规模",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+        "datetime": 1787288192,
+        "source": "Bloomberg"
+      }
+    ]
   }
 }
