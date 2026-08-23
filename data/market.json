@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:14:24.193Z",
+  "updated_at": "2026-08-23T16:16:07.151Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77261,
-      "change_pct": 0.38
+      "price": 77247,
+      "change_pct": 0.27
     },
     {
       "symbol": "ETH",
-      "price": 2436.38,
-      "change_pct": 1.13
+      "price": 2444.7,
+      "change_pct": 1.28
     },
     {
       "symbol": "SOL",
-      "price": 95.39,
-      "change_pct": 2.47
+      "price": 95.41,
+      "change_pct": 2.17
     },
     {
       "symbol": "HYPE",
-      "price": 79.47,
-      "change_pct": 2.72
+      "price": 79.64,
+      "change_pct": 2.71
     },
     {
       "symbol": "ZEC",
-      "price": 850.9,
-      "change_pct": 7.1
+      "price": 845,
+      "change_pct": 6.85
     },
     {
       "symbol": "TAO",
-      "price": 233.79,
-      "change_pct": 6.52
+      "price": 232.27,
+      "change_pct": 5
     },
     {
       "symbol": "SKY",
-      "price": 1585.85,
-      "change_pct": 2.19
+      "price": 1587.58,
+      "change_pct": 2.03
     },
     {
       "symbol": "AAVE",
-      "price": 137.57,
-      "change_pct": 12.63
+      "price": 140.33,
+      "change_pct": 15.18
     },
     {
       "symbol": "BNB",
-      "price": 695.46,
-      "change_pct": 0.56
+      "price": 695.83,
+      "change_pct": 0.7
     },
     {
       "symbol": "NEAR",
       "price": 1.95,
-      "change_pct": 4.4
+      "change_pct": 3.88
     },
     {
       "symbol": "DOGE",
-      "price": 0.09275,
-      "change_pct": 3.34
+      "price": 0.092395,
+      "change_pct": 2.3
     },
     {
       "symbol": "SPACEX",
-      "price": 502.41,
-      "change_pct": -3.75
+      "price": 501.82,
+      "change_pct": -3.86
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "summary": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787499053,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
       "summary": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
       "source": "CNBC",
@@ -735,15 +744,6 @@
       "datetime": 1787329529,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "summary": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787328667,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -779,11 +779,6 @@
           "headline": "Indian startup aims to compete with OpenAI in crowded voice arena",
           "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena",
           "datetime": 1787222270
-        },
-        {
-          "headline": "OpenAI to enhance safety processes for paid tool customers",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
-          "datetime": 1787191244
         }
       ]
     },
@@ -809,12 +804,12 @@
     }
   ],
   "btc_score": {
-    "score": 45.5,
-    "level": "中性",
-    "suggestion": "市场情绪平衡，保持现有仓位观望",
+    "score": 44.6,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
     "daily_score": 19.6,
-    "weekly_score": 25.9,
-    "btc_price": 77184.1,
+    "weekly_score": 25,
+    "btc_price": 77239.8,
     "fear_greed": 76,
     "indicators": [
       {
@@ -896,15 +891,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 58.2,
-        "score": 64,
+        "value": 61.3,
+        "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 8.5,
-        "score": 47,
+        "value": -99.6,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1022,7 +1017,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1296,
+        "likes": 1299,
         "retweets": 80
       },
       {
@@ -1059,8 +1054,8 @@
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 98,
-        "retweets": 8
+        "likes": 183,
+        "retweets": 10
       },
       {
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
@@ -1073,7 +1068,7 @@
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 391,
+        "likes": 392,
         "retweets": 35
       },
       {
@@ -1096,35 +1091,35 @@
         "text": "Bitcoin’s most profound breakthrough is the ability to convert economic energy into digital form and bind it securely to a person, family, company, machine, or nation.",
         "url": "https://x.com/saylor/status/2091501126013087838",
         "time": "Sun Aug 23 12:21:41 +0000 2026",
-        "likes": 4881,
-        "retweets": 496
+        "likes": 5606,
+        "retweets": 562
       },
       {
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 6020,
-        "retweets": 491
+        "likes": 6060,
+        "retweets": 494
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 8749,
+        "likes": 8756,
         "retweets": 857
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 13757,
-        "retweets": 1493
+        "likes": 13765,
+        "retweets": 1494
       },
       {
         "text": "Strategy, amplified. https://t.co/9xblesDexN",
         "url": "https://x.com/saylor/status/2090463815276105812",
         "time": "Thu Aug 20 15:39:47 +0000 2026",
-        "likes": 13185,
+        "likes": 13192,
         "retweets": 1312
       }
     ],
