@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T04:37:23.987Z",
+  "updated_at": "2026-08-24T05:31:59.275Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77190,
-      "change_pct": 0.45
+      "price": 77090,
+      "change_pct": 1.08
     },
     {
       "symbol": "ETH",
-      "price": 2442.89,
-      "change_pct": 1.61
+      "price": 2452.6,
+      "change_pct": 2.96
     },
     {
       "symbol": "SOL",
-      "price": 94.17,
-      "change_pct": 1.1
+      "price": 94.1,
+      "change_pct": 1.09
     },
     {
       "symbol": "HYPE",
-      "price": 80.22,
-      "change_pct": 3.5
+      "price": 79.99,
+      "change_pct": 1.98
     },
     {
       "symbol": "ZEC",
-      "price": 835.57,
-      "change_pct": 7.78
+      "price": 836.12,
+      "change_pct": 5.8
     },
     {
       "symbol": "TAO",
-      "price": 236.35,
-      "change_pct": 8.98
+      "price": 236.11,
+      "change_pct": 7.86
     },
     {
       "symbol": "SKY",
-      "price": 1587.13,
-      "change_pct": 6.38
+      "price": 1592.01,
+      "change_pct": 7.54
     },
     {
       "symbol": "AAVE",
-      "price": 143.54,
-      "change_pct": 16.82
+      "price": 142.54,
+      "change_pct": 15.18
     },
     {
       "symbol": "BNB",
-      "price": 697.74,
-      "change_pct": 1.71
+      "price": 697.76,
+      "change_pct": 2.1
     },
     {
       "symbol": "NEAR",
-      "price": 2.04,
-      "change_pct": 12
+      "price": 2.01,
+      "change_pct": 9.27
     },
     {
       "symbol": "DOGE",
-      "price": 0.092194,
-      "change_pct": 1.76
+      "price": 0.092205,
+      "change_pct": 1.97
     },
     {
       "symbol": "SPACEX",
-      "price": 497.82,
-      "change_pct": -3.23
+      "price": 497.87,
+      "change_pct": -3.13
     }
   ],
   "earnings": {
@@ -476,6 +476,33 @@
   },
   "news": [
     {
+      "headline": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+      "datetime": 1787548376,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "datetime": 1787546700,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "datetime": 1787546488,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Term Finance loses estimated $8.5M in vault governance exploit",
       "summary": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
       "source": "Cointelegraph",
@@ -717,33 +744,6 @@
       "datetime": 1787377063,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-      "datetime": 1787375113,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Crypto advocates join in suing Illinois over digital asset tax",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-      "datetime": 1787350228,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787343976,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -798,12 +798,12 @@
     }
   ],
   "btc_score": {
-    "score": 43.9,
+    "score": 44,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 19.7,
-    "weekly_score": 24.2,
-    "btc_price": 77196.5,
+    "weekly_score": 24.3,
+    "btc_price": 76931,
     "fear_greed": 78,
     "indicators": [
       {
@@ -885,15 +885,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 61.2,
-        "score": 69,
+        "value": 60.8,
+        "score": 68,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -53.2,
-        "score": 30,
+        "value": -47.3,
+        "score": 32,
         "weight": 4,
         "group": "weekly"
       }
@@ -1048,7 +1048,7 @@
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 322,
+        "likes": 329,
         "retweets": 18
       },
       {
@@ -1085,35 +1085,35 @@
         "text": "Bitcoin is ₿etter.  https://t.co/nfs0nW6yQ6",
         "url": "https://x.com/saylor/status/2091578903500406989",
         "time": "Sun Aug 23 17:30:44 +0000 2026",
-        "likes": 5596,
-        "retweets": 717
+        "likes": 5743,
+        "retweets": 731
       },
       {
         "text": "Bitcoin’s most profound breakthrough is the ability to convert economic energy into digital form and bind it securely to a person, family, company, machine, or nation.",
         "url": "https://x.com/saylor/status/2091501126013087838",
         "time": "Sun Aug 23 12:21:41 +0000 2026",
-        "likes": 8621,
-        "retweets": 855
+        "likes": 8709,
+        "retweets": 863
       },
       {
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 6397,
-        "retweets": 515
+        "likes": 6409,
+        "retweets": 517
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 8806,
+        "likes": 8808,
         "retweets": 863
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 13803,
+        "likes": 13805,
         "retweets": 1497
       }
     ],
@@ -1129,14 +1129,14 @@
         "text": "2026 is on pace to beat records set in 2025:\n. H1 industry return: ~7% vs ~4.5% last year. Long-term H1 average is 4.1%\n. Point72 +14.5%. Millennium +10.5%: the pod business model works best https://t.co/udMLc2SNop",
         "url": "https://x.com/viktorfischer/status/2091489139137122796",
         "time": "Sun Aug 23 11:34:03 +0000 2026",
-        "likes": 1,
+        "likes": 2,
         "retweets": 0
       },
       {
         "text": "Looking at tradfi hedge funds, 2025 was a record year:\n. Top 25 managers earned $36.65B in 2025 - more than 2020 record by $5B\n. Chris Hohn made $4.9B personally. His fund TCI was up 27.8% running a concentrated ~9 stock book\n. Meanwhile 9 of the 25 lagged the S&amp;P https://t.co/7ZRGstqaIA",
         "url": "https://x.com/viktorfischer/status/2091489127313420703",
         "time": "Sun Aug 23 11:34:00 +0000 2026",
-        "likes": 5,
+        "likes": 6,
         "retweets": 0
       },
       {
@@ -1287,6 +1287,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+        "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+        "datetime": 1787548376,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
         "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787529360,
@@ -1308,12 +1314,6 @@
         "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
         "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
         "datetime": 1787377063,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-        "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-        "datetime": 1787375113,
         "source": "CoinDesk"
       }
     ],
