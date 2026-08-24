@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:17:51.654Z",
+  "updated_at": "2026-08-24T23:16:02.960Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78853,
-      "change_pct": 1.48
+      "price": 78790,
+      "change_pct": 1.75
     },
     {
       "symbol": "ETH",
-      "price": 2480.4,
-      "change_pct": 0.7
+      "price": 2476.83,
+      "change_pct": 1.18
     },
     {
       "symbol": "SOL",
-      "price": 97.43,
-      "change_pct": 2.24
+      "price": 97.8,
+      "change_pct": 2.79
     },
     {
       "symbol": "HYPE",
-      "price": 77.96,
-      "change_pct": -4.85
+      "price": 77.92,
+      "change_pct": -5.34
     },
     {
       "symbol": "ZEC",
-      "price": 830.5,
-      "change_pct": -3.06
+      "price": 825.21,
+      "change_pct": -2.42
     },
     {
       "symbol": "TAO",
-      "price": 240.82,
-      "change_pct": -1.04
+      "price": 239.95,
+      "change_pct": -0.6
     },
     {
       "symbol": "SKY",
-      "price": 1566.53,
-      "change_pct": -2.45
+      "price": 1565.95,
+      "change_pct": -1.52
     },
     {
       "symbol": "AAVE",
-      "price": 133.12,
-      "change_pct": -6.35
+      "price": 131.86,
+      "change_pct": -6.45
     },
     {
       "symbol": "BNB",
-      "price": 702.47,
-      "change_pct": 0.04
+      "price": 701.79,
+      "change_pct": 0.11
     },
     {
       "symbol": "NEAR",
-      "price": 1.95,
-      "change_pct": -2.55
+      "price": 1.94,
+      "change_pct": -3.72
     },
     {
       "symbol": "DOGE",
-      "price": 0.089932,
-      "change_pct": -3.33
+      "price": 0.089409,
+      "change_pct": -3.76
     },
     {
       "symbol": "SPACEX",
-      "price": 499.85,
-      "change_pct": -0.32
+      "price": 498.9,
+      "change_pct": -0.81
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "datetime": 1787611876,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
+      "summary": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+      "datetime": 1787611201,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
       "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
       "source": "CNBC",
@@ -726,24 +744,6 @@
       "datetime": 1787570726,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
-      "summary": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787570638,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "ECB defends digital euro privacy as CBDCs face global scrutiny",
-      "summary": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787570479,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -781,24 +781,24 @@
     }
   ],
   "btc_score": {
-    "score": 43.6,
+    "score": 41.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 19.2,
+    "daily_score": 16.9,
     "weekly_score": 24.4,
-    "btc_price": 78919.2,
+    "btc_price": 78756,
     "fear_greed": 78,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 307500000,
-        "score": 70,
+        "value": 20800000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006713,
+        "value": 0.006103,
         "score": 48,
         "weight": 8,
         "group": "daily"
@@ -868,15 +868,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.8,
+        "value": 62.6,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -53.6,
-        "score": 30,
+        "value": -50.8,
+        "score": 31,
         "weight": 4,
         "group": "weekly"
       }
@@ -1068,36 +1068,36 @@
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 1071,
-        "retweets": 100
+        "likes": 1328,
+        "retweets": 123
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 310,
+        "likes": 323,
         "retweets": 24
       },
       {
         "text": "https://t.co/QXV2g9MhPE",
         "url": "https://x.com/saylor/status/2091923153542840808",
         "time": "Mon Aug 24 16:18:40 +0000 2026",
-        "likes": 1783,
-        "retweets": 263
+        "likes": 1863,
+        "retweets": 279
       },
       {
         "text": "These actions further strengthen $STRC. USD Duration is now 3.9 yrs (+414d) and STRC BTC Credit is 59 bps (-21 bps) assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $77,004. https://t.co/v4NLMZmC78",
         "url": "https://x.com/saylor/status/2091859025172258998",
         "time": "Mon Aug 24 12:03:51 +0000 2026",
-        "likes": 613,
+        "likes": 616,
         "retweets": 35
       },
       {
         "text": "Strategy increased USD Reserve to $5.10B, established additional USD Cash of $1.59B, and repurchased $136M of $STRC. As of 8/23/26: Strategy holds ~4% of Total BTC Supply and has ~0% Net Leverage. $MSTR https://t.co/WZ9GFtJBXh",
         "url": "https://x.com/saylor/status/2091859021456146659",
         "time": "Mon Aug 24 12:03:50 +0000 2026",
-        "likes": 8105,
-        "retweets": 877
+        "likes": 8212,
+        "retweets": 886
       }
     ],
     "viktorfischer": [
@@ -1147,6 +1147,12 @@
         "source": "ChartMill"
       },
       {
+        "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+        "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
+        "datetime": 1787595674,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "What's going on in today's session: S&P500 most active stocks",
         "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
         "datetime": 1787594700,
@@ -1163,15 +1169,15 @@
         "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
         "datetime": 1787589605,
         "source": "ChartMill"
-      },
-      {
-        "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
-        "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b",
-        "datetime": 1787587844,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
+        "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
+        "datetime": 1787595674,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
         "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b",
@@ -1185,22 +1191,16 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
+        "url": "https://finnhub.io/api/news?id=2bb2ded5a800effa78cb8653a84a46706ba0529ec7d7f6407e9c3107b4344745",
+        "datetime": 1787581265,
+        "source": "Benzinga"
+      },
+      {
         "headline": "The AI Trade Deleveraged, Its Suppliers Didn't",
         "url": "https://finnhub.io/api/news?id=40c34d0dd1185e79e8e69ffced14328b57b23f6c3c8acb7d14289e1b76115d73",
         "datetime": 1787578264,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
-        "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f",
-        "datetime": 1787576240,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
-        "url": "https://finnhub.io/api/news?id=26eabb9270556fcc992f45fdeb48c363a1a640f8990c5b8a2add623742488481",
-        "datetime": 1787574163,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1360,21 +1360,21 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Watch the full AI Money: Conversations with @ilblackdragon series:",
+        "url": "https://x.com/NEARProtocol/status/2092013774488125678",
+        "datetime": 1787609926,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "NEAR's account model enables a simple key rotation to post-quantum signing, not a full migration.\n\nIllia Polosukhin explains the quantum threat, why it's a problem for the whole industry (not any sing",
+        "url": "https://x.com/NEARProtocol/status/2092013772890108187",
+        "datetime": 1787609925,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "NEAR will only make fundamental upgrades like cryptography with rigorous research and confidence.\n\nUser assets are quantum-safe today. We're building the rest with the same care and diligence.",
         "url": "https://x.com/NEARProtocol/status/2091951355019579500",
         "datetime": 1787595044,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Every chain will face the quantum threat. NEAR is mapping the path to post-quantum security, for the protocol and for the cross-chain ecosystem it powers.\n\nFull deep dive on the roadmap, open question",
-        "url": "https://x.com/NEARProtocol/status/2091951356378558843",
-        "datetime": 1787595044,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR is one of the first blockchains with quantum-safe signing live on mainnet.\n\nNEAR's first quantum-safe signature scheme, ML-DSA (Dilithium), protects user accounts and assets today.\n\nHere's what's",
-        "url": "https://x.com/NEARProtocol/status/2091951341652324855",
-        "datetime": 1787595041,
         "source": "@NEARProtocol"
       }
     ],
