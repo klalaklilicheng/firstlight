@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:13:52.770Z",
+  "updated_at": "2026-08-24T00:47:40.722Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77439,
-      "change_pct": 0.6
+      "price": 77256,
+      "change_pct": 0.01
     },
     {
       "symbol": "ETH",
-      "price": 2449.81,
-      "change_pct": 1.43
+      "price": 2446.19,
+      "change_pct": 0.8
     },
     {
       "symbol": "SOL",
-      "price": 95.26,
-      "change_pct": 1.67
+      "price": 94.37,
+      "change_pct": -1.95
     },
     {
       "symbol": "HYPE",
-      "price": 82.4,
-      "change_pct": 4.23
+      "price": 80.81,
+      "change_pct": 0.7
     },
     {
       "symbol": "ZEC",
-      "price": 848.17,
-      "change_pct": 6.67
+      "price": 830.14,
+      "change_pct": 4.03
     },
     {
       "symbol": "TAO",
-      "price": 241.56,
-      "change_pct": 8.36
+      "price": 238.82,
+      "change_pct": 7.02
     },
     {
       "symbol": "SKY",
-      "price": 1591.86,
-      "change_pct": 5.48
+      "price": 1578.52,
+      "change_pct": 4.47
     },
     {
       "symbol": "AAVE",
-      "price": 141.16,
-      "change_pct": 12.02
+      "price": 139.12,
+      "change_pct": 10.14
     },
     {
       "symbol": "BNB",
-      "price": 701.6,
-      "change_pct": 1.18
+      "price": 699.85,
+      "change_pct": 0.12
     },
     {
       "symbol": "NEAR",
-      "price": 2.02,
-      "change_pct": 6.47
+      "price": 2.04,
+      "change_pct": 6.52
     },
     {
       "symbol": "DOGE",
-      "price": 0.092993,
-      "change_pct": 1.26
+      "price": 0.091814,
+      "change_pct": -2.16
     },
     {
       "symbol": "SPACEX",
-      "price": 502.93,
-      "change_pct": -2.36
+      "price": 500.19,
+      "change_pct": -2.89
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "summary": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787529360,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Regulation Crypto is here: State of Crypto",
       "summary": "",
       "source": "CoinDesk",
@@ -735,15 +744,6 @@
       "datetime": 1787342447,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "datetime": 1787340081,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -804,13 +804,13 @@
     }
   ],
   "btc_score": {
-    "score": 44.8,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 19.6,
-    "weekly_score": 25.2,
-    "btc_price": 77421.4,
-    "fear_greed": 76,
+    "score": 45.2,
+    "level": "中性",
+    "suggestion": "市场情绪平衡，保持现有仓位观望",
+    "daily_score": 19.8,
+    "weekly_score": 25.4,
+    "btc_price": 77228.6,
+    "fear_greed": 78,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -835,8 +835,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 76,
-        "score": 76,
+        "value": 78,
+        "score": 78,
         "weight": 7,
         "group": "daily"
       },
@@ -877,29 +877,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.84,
-        "score": 23,
+        "value": 0.86,
+        "score": 24,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 1.2,
-        "score": 23,
+        "value": 1.21,
+        "score": 24,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 61.4,
+        "value": 61.2,
         "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -74,
-        "score": 25,
+        "value": -68.1,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -908,7 +908,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 24
+      "days_until": 23
     },
     "schedule": [
       "2025-01-29",
@@ -1017,7 +1017,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1320,
+        "likes": 1323,
         "retweets": 81
       },
       {
@@ -1054,14 +1054,14 @@
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 290,
-        "retweets": 16
+        "likes": 303,
+        "retweets": 17
       },
       {
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
         "url": "https://x.com/QwQiao/status/2091217716535332935",
         "time": "Sat Aug 22 17:35:31 +0000 2026",
-        "likes": 209,
+        "likes": 210,
         "retweets": 5
       },
       {
@@ -1091,28 +1091,28 @@
         "text": "Bitcoin is ₿etter.  https://t.co/nfs0nW6yQ6",
         "url": "https://x.com/saylor/status/2091578903500406989",
         "time": "Sun Aug 23 17:30:44 +0000 2026",
-        "likes": 4610,
-        "retweets": 585
+        "likes": 4973,
+        "retweets": 634
       },
       {
         "text": "Bitcoin’s most profound breakthrough is the ability to convert economic energy into digital form and bind it securely to a person, family, company, machine, or nation.",
         "url": "https://x.com/saylor/status/2091501126013087838",
         "time": "Sun Aug 23 12:21:41 +0000 2026",
-        "likes": 7910,
-        "retweets": 790
+        "likes": 8131,
+        "retweets": 812
       },
       {
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 6294,
-        "retweets": 510
+        "likes": 6334,
+        "retweets": 511
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 8792,
+        "likes": 8796,
         "retweets": 862
       },
       {
@@ -1293,6 +1293,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+        "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787529360,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Hyperscale Data Cash, Restricted Cash, Bitcoin, and Silver Assets of Approximately $94.8 Million Represents Approximately 100.42% of Market Capitalization of Common Stock",
         "url": "https://cryptocurrencynews.com/crypto/hyperscale-data-cash-restricted-cash-bitcoin-and-silver-assets-of-approximately-94-8-million-represents-approximately-100-42-of-market-capitalization-of-common-stock/",
         "datetime": 1787478436,
@@ -1315,12 +1321,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
         "datetime": 1787375113,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-        "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787343976,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
