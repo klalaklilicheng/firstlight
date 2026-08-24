@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T05:31:59.275Z",
+  "updated_at": "2026-08-24T06:39:53.165Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77090,
-      "change_pct": 1.08
+      "price": 77284,
+      "change_pct": 1.37
     },
     {
       "symbol": "ETH",
-      "price": 2452.6,
-      "change_pct": 2.96
+      "price": 2448.78,
+      "change_pct": 2.46
     },
     {
       "symbol": "SOL",
-      "price": 94.1,
-      "change_pct": 1.09
+      "price": 94.08,
+      "change_pct": 1.72
     },
     {
       "symbol": "HYPE",
-      "price": 79.99,
-      "change_pct": 1.98
+      "price": 79.38,
+      "change_pct": 1.14
     },
     {
       "symbol": "ZEC",
-      "price": 836.12,
-      "change_pct": 5.8
+      "price": 837.17,
+      "change_pct": 6.04
     },
     {
       "symbol": "TAO",
-      "price": 236.11,
-      "change_pct": 7.86
+      "price": 233.73,
+      "change_pct": 6.87
     },
     {
       "symbol": "SKY",
-      "price": 1592.01,
-      "change_pct": 7.54
+      "price": 1589.1,
+      "change_pct": 7.06
     },
     {
       "symbol": "AAVE",
-      "price": 142.54,
-      "change_pct": 15.18
+      "price": 142.03,
+      "change_pct": 15.96
     },
     {
       "symbol": "BNB",
-      "price": 697.76,
-      "change_pct": 2.1
+      "price": 697.47,
+      "change_pct": 1.72
     },
     {
       "symbol": "NEAR",
-      "price": 2.01,
-      "change_pct": 9.27
+      "price": 1.97,
+      "change_pct": 7.48
     },
     {
       "symbol": "DOGE",
-      "price": 0.092205,
-      "change_pct": 1.97
+      "price": 0.091576,
+      "change_pct": 1.81
     },
     {
       "symbol": "SPACEX",
-      "price": 497.87,
-      "change_pct": -3.13
+      "price": 497.81,
+      "change_pct": -3.03
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "Banks, regulators join quantum-resistant crypto transfer pilot",
+      "summary": "Participating banks will test post-quantum wallets and onchain transfers while regulators from Abu Dhabi, Bhutan and Malta initially observe.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787550689,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+      "summary": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787548677,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
       "summary": "",
       "source": "CoinDesk",
@@ -726,24 +744,6 @@
       "datetime": 1787398531,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
-      "summary": "Indian companies are adopting locally-designed nuclear reactors to expedite approvals and enhance supply chain efficiency in energy projects.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
-      "datetime": 1787388034,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-      "datetime": 1787377063,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -798,12 +798,12 @@
     }
   ],
   "btc_score": {
-    "score": 44,
+    "score": 43.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 19.7,
+    "daily_score": 19.6,
     "weekly_score": 24.3,
-    "btc_price": 76931,
+    "btc_price": 77264.6,
     "fear_greed": 78,
     "indicators": [
       {
@@ -822,8 +822,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.06,
-        "score": 37,
+        "value": 1.03,
+        "score": 35,
         "weight": 5,
         "group": "daily"
       },
@@ -836,7 +836,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.55,
+        "value": 1.56,
         "score": 35,
         "weight": 12,
         "group": "weekly"
@@ -885,15 +885,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 60.8,
-        "score": 68,
+        "value": 61.3,
+        "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -47.3,
-        "score": 32,
+        "value": -43.7,
+        "score": 33,
         "weight": 4,
         "group": "weekly"
       }
@@ -1012,7 +1012,7 @@
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
         "likes": 1325,
-        "retweets": 82
+        "retweets": 83
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
@@ -1048,7 +1048,7 @@
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 329,
+        "likes": 331,
         "retweets": 18
       },
       {
@@ -1085,35 +1085,35 @@
         "text": "Bitcoin is ₿etter.  https://t.co/nfs0nW6yQ6",
         "url": "https://x.com/saylor/status/2091578903500406989",
         "time": "Sun Aug 23 17:30:44 +0000 2026",
-        "likes": 5743,
-        "retweets": 731
+        "likes": 5887,
+        "retweets": 750
       },
       {
         "text": "Bitcoin’s most profound breakthrough is the ability to convert economic energy into digital form and bind it securely to a person, family, company, machine, or nation.",
         "url": "https://x.com/saylor/status/2091501126013087838",
         "time": "Sun Aug 23 12:21:41 +0000 2026",
-        "likes": 8709,
-        "retweets": 863
+        "likes": 8806,
+        "retweets": 873
       },
       {
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 6409,
-        "retweets": 517
+        "likes": 6427,
+        "retweets": 518
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 8808,
+        "likes": 8811,
         "retweets": 863
       },
       {
         "text": "Take the orange pill. https://t.co/BlJ9r9X5OC",
         "url": "https://x.com/saylor/status/2090684641942360459",
         "time": "Fri Aug 21 06:17:16 +0000 2026",
-        "likes": 13805,
+        "likes": 13804,
         "retweets": 1497
       }
     ],
