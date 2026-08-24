@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:38:38.472Z",
+  "updated_at": "2026-08-24T09:38:30.753Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77017,
-      "change_pct": 0.89
+      "price": 77415,
+      "change_pct": 1.17
     },
     {
       "symbol": "ETH",
-      "price": 2443.5,
-      "change_pct": 1.22
+      "price": 2461.44,
+      "change_pct": 2.2
     },
     {
       "symbol": "SOL",
-      "price": 93.55,
-      "change_pct": 0.64
+      "price": 94.75,
+      "change_pct": 1.79
     },
     {
       "symbol": "HYPE",
-      "price": 77.72,
-      "change_pct": -1.94
+      "price": 78.39,
+      "change_pct": -0.71
     },
     {
       "symbol": "ZEC",
-      "price": 831.25,
-      "change_pct": 2.45
+      "price": 829.68,
+      "change_pct": 3.48
     },
     {
       "symbol": "TAO",
-      "price": 231.86,
-      "change_pct": 4.34
+      "price": 235.91,
+      "change_pct": 5.5
     },
     {
       "symbol": "SKY",
-      "price": 1584.7,
-      "change_pct": 5.36
+      "price": 1596.45,
+      "change_pct": 6.07
     },
     {
       "symbol": "AAVE",
-      "price": 137.49,
-      "change_pct": 11.51
+      "price": 139.65,
+      "change_pct": 12.97
     },
     {
       "symbol": "BNB",
-      "price": 694.3,
-      "change_pct": 0.86
+      "price": 698.49,
+      "change_pct": 1.5
     },
     {
       "symbol": "NEAR",
-      "price": 1.95,
-      "change_pct": 4.09
+      "price": 1.98,
+      "change_pct": 4.65
     },
     {
       "symbol": "DOGE",
-      "price": 0.090489,
-      "change_pct": -0.56
+      "price": 0.091413,
+      "change_pct": 0.51
     },
     {
       "symbol": "SPACEX",
-      "price": 497.73,
-      "change_pct": -1.45
+      "price": 498.12,
+      "change_pct": -1
     }
   ],
   "earnings": {
@@ -476,6 +476,15 @@
   },
   "news": [
     {
+      "headline": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "summary": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787561812,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
       "summary": "",
       "source": "CoinDesk",
@@ -656,6 +665,15 @@
       "related": ""
     },
     {
+      "headline": "Alibaba seeks $10 billion from share sale for AI expansion",
+      "summary": "The online retail giant-turned-AI player is offering 710 million shares at HK$112.7 each, represents a discount of 3.6 per cent to the closing price of Alibaba’s American depositary receipts on Friday",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
+      "datetime": 1787476632,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
       "summary": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
       "source": "Bloomberg",
@@ -726,24 +744,6 @@
       "datetime": 1787405400,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "summary": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787405400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "summary": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-      "datetime": 1787403901,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -798,12 +798,12 @@
     }
   ],
   "btc_score": {
-    "score": 44.1,
+    "score": 44.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 19.7,
-    "weekly_score": 24.4,
-    "btc_price": 77033.3,
+    "daily_score": 19.8,
+    "weekly_score": 24.5,
+    "btc_price": 77454.5,
     "fear_greed": 78,
     "indicators": [
       {
@@ -822,8 +822,8 @@
       },
       {
         "name": "多空比",
-        "value": 1.06,
-        "score": 37,
+        "value": 1.07,
+        "score": 38,
         "weight": 5,
         "group": "daily"
       },
@@ -885,15 +885,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 61,
-        "score": 68,
+        "value": 61.5,
+        "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -33.5,
-        "score": 36,
+        "value": -30.8,
+        "score": 37,
         "weight": 4,
         "group": "weekly"
       }
@@ -1011,8 +1011,8 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1326,
-        "retweets": 84
+        "likes": 1327,
+        "retweets": 86
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
@@ -1048,7 +1048,7 @@
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 338,
+        "likes": 340,
         "retweets": 18
       },
       {
@@ -1085,36 +1085,36 @@
         "text": "Think like a ₿illionaire. https://t.co/97bZog5muo",
         "url": "https://x.com/saylor/status/2091783503759224868",
         "time": "Mon Aug 24 07:03:45 +0000 2026",
-        "likes": 1451,
-        "retweets": 172
+        "likes": 1865,
+        "retweets": 216
       },
       {
         "text": "Bitcoin is ₿etter.  https://t.co/nfs0nW6yQ6",
         "url": "https://x.com/saylor/status/2091578903500406989",
         "time": "Sun Aug 23 17:30:44 +0000 2026",
-        "likes": 6184,
-        "retweets": 785
+        "likes": 6335,
+        "retweets": 799
       },
       {
         "text": "Bitcoin’s most profound breakthrough is the ability to convert economic energy into digital form and bind it securely to a person, family, company, machine, or nation.",
         "url": "https://x.com/saylor/status/2091501126013087838",
         "time": "Sun Aug 23 12:21:41 +0000 2026",
-        "likes": 9025,
-        "retweets": 892
+        "likes": 9146,
+        "retweets": 902
       },
       {
         "text": "Share the ₿ounty. https://t.co/OoxaPr1SfL",
         "url": "https://x.com/saylor/status/2091122447865016516",
         "time": "Sat Aug 22 11:16:57 +0000 2026",
-        "likes": 6447,
-        "retweets": 523
+        "likes": 6457,
+        "retweets": 524
       },
       {
         "text": "The Need for ₿itcoin. https://t.co/JRgOHoeyrX",
         "url": "https://x.com/saylor/status/2090799524612612282",
         "time": "Fri Aug 21 13:53:46 +0000 2026",
-        "likes": 8810,
-        "retweets": 863
+        "likes": 8814,
+        "retweets": 864
       }
     ],
     "viktorfischer": [
@@ -1287,6 +1287,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+        "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787561812,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
         "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
         "datetime": 1787554258,
@@ -1309,12 +1315,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
         "datetime": 1787548376,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
-        "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787529360,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
