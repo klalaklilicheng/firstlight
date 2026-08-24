@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-24T14:34:10.674Z",
+  "updated_at": "2026-08-24T15:31:53.191Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 701.77,
-      "change_pct": -0.28
+      "price": 702.03,
+      "change_pct": -0.24
     },
     {
       "symbol": "QQQ",
-      "price": 704.95,
-      "change_pct": -1.19
+      "price": 706.87,
+      "change_pct": -0.92
     },
     {
       "symbol": "QQQM",
-      "price": 290.28,
-      "change_pct": -1.18
+      "price": 291.05,
+      "change_pct": -0.92
     },
     {
       "symbol": "NVDA",
-      "price": 209.82,
-      "change_pct": -2.28
+      "price": 209.89,
+      "change_pct": -2.25
     },
     {
       "symbol": "TSLA",
-      "price": 355.29,
-      "change_pct": -2.09
+      "price": 357.5,
+      "change_pct": -1.48
     },
     {
       "symbol": "GOOG",
-      "price": 345.29,
-      "change_pct": 1.04
+      "price": 347.44,
+      "change_pct": 1.67
     },
     {
       "symbol": "RKLB",
-      "price": 69.8,
-      "change_pct": -3.82
+      "price": 69.46,
+      "change_pct": -4.29
     },
     {
       "symbol": "CRCL",
-      "price": 90.92,
-      "change_pct": 3.34
+      "price": 92.04,
+      "change_pct": 4.61
     },
     {
       "symbol": "PLTR",
-      "price": 174.24,
-      "change_pct": -3.17
+      "price": 177.58,
+      "change_pct": -1.31
     },
     {
       "symbol": "MSTR",
-      "price": 126.16,
-      "change_pct": 5.79
+      "price": 127.73,
+      "change_pct": 7.11
     },
     {
       "symbol": "GLD",
-      "price": 428.54,
-      "change_pct": 1.22
+      "price": 428.93,
+      "change_pct": 1.32
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79415,
-      "change_pct": 2.56
+      "price": 79938,
+      "change_pct": 3.54
     },
     {
       "symbol": "ETH",
-      "price": 2517.76,
-      "change_pct": 2.59
+      "price": 2525.7,
+      "change_pct": 3.58
     },
     {
       "symbol": "SOL",
-      "price": 95.96,
-      "change_pct": 0.77
+      "price": 97.32,
+      "change_pct": 1.79
     },
     {
       "symbol": "HYPE",
-      "price": 79.8,
-      "change_pct": -0.39
+      "price": 79.86,
+      "change_pct": 0.48
     },
     {
       "symbol": "ZEC",
-      "price": 861.94,
-      "change_pct": 0.24
+      "price": 857.93,
+      "change_pct": 1.66
     },
     {
       "symbol": "TAO",
-      "price": 241.06,
-      "change_pct": 3.89
+      "price": 244.3,
+      "change_pct": 5.5
     },
     {
       "symbol": "SKY",
-      "price": 1613.78,
-      "change_pct": 0.81
+      "price": 1623.2,
+      "change_pct": 2.47
     },
     {
       "symbol": "AAVE",
-      "price": 135.42,
-      "change_pct": -2.15
+      "price": 136.55,
+      "change_pct": -2.27
     },
     {
       "symbol": "BNB",
-      "price": 705.87,
-      "change_pct": 1.24
+      "price": 714.81,
+      "change_pct": 2.73
     },
     {
       "symbol": "NEAR",
-      "price": 2,
-      "change_pct": 0.67
+      "price": 2.03,
+      "change_pct": 4.57
     },
     {
       "symbol": "DOGE",
-      "price": 0.091799,
-      "change_pct": -2.4
+      "price": 0.092565,
+      "change_pct": 0.11
     },
     {
       "symbol": "SPACEX",
-      "price": 501.8,
-      "change_pct": -0.12
+      "price": 503.45,
+      "change_pct": 0.21
     }
   ],
   "earnings": {
@@ -781,12 +781,12 @@
     }
   ],
   "btc_score": {
-    "score": 44.9,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
+    "score": 45.1,
+    "level": "中性",
+    "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.4,
-    "weekly_score": 25.5,
-    "btc_price": 79550,
+    "weekly_score": 25.7,
+    "btc_price": 79932.5,
     "fear_greed": 78,
     "indicators": [
       {
@@ -805,7 +805,7 @@
       },
       {
         "name": "多空比",
-        "value": 0.97,
+        "value": 0.96,
         "score": 31,
         "weight": 5,
         "group": "daily"
@@ -868,15 +868,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.3,
-        "score": 72,
+        "value": 63.7,
+        "score": 73,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 42.4,
-        "score": 57,
+        "value": 58.9,
+        "score": 61,
         "weight": 4,
         "group": "weekly"
       }
@@ -1009,7 +1009,7 @@
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
         "likes": 1419,
-        "retweets": 89
+        "retweets": 90
       },
       {
         "text": "(said despite expecting more market pain ahead)",
@@ -1068,36 +1068,36 @@
         "text": "These actions further strengthen $STRC. USD Duration is now 3.9 yrs (+414d) and STRC BTC Credit is 59 bps (-21 bps) assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $77,004. https://t.co/v4NLMZmC78",
         "url": "https://x.com/saylor/status/2091859025172258998",
         "time": "Mon Aug 24 12:03:51 +0000 2026",
-        "likes": 408,
-        "retweets": 23
+        "likes": 460,
+        "retweets": 25
       },
       {
         "text": "Strategy increased USD Reserve to $5.10B, established additional USD Cash of $1.59B, and repurchased $136M of $STRC. As of 8/23/26: Strategy holds ~4% of Total BTC Supply and has ~0% Net Leverage. $MSTR https://t.co/WZ9GFtJBXh",
         "url": "https://x.com/saylor/status/2091859021456146659",
         "time": "Mon Aug 24 12:03:50 +0000 2026",
-        "likes": 5293,
-        "retweets": 580
+        "likes": 6015,
+        "retweets": 661
       },
       {
         "text": "USD Cash enhances our Digital Credit Capital Framework, and is separately designated for general Bitcoin Treasury Company purposes, including acquiring BTC, paying preferred dividends &amp; interest, repurchasing MSTR/preferred stock, repaying converts, and increasing USD Reserve.",
         "url": "https://x.com/saylor/status/2091859023318397319",
         "time": "Mon Aug 24 12:03:50 +0000 2026",
-        "likes": 733,
-        "retweets": 37
+        "likes": 824,
+        "retweets": 42
       },
       {
         "text": "Think like a ₿illionaire. https://t.co/97bZog5muo",
         "url": "https://x.com/saylor/status/2091783503759224868",
         "time": "Mon Aug 24 07:03:45 +0000 2026",
-        "likes": 3665,
-        "retweets": 414
+        "likes": 3928,
+        "retweets": 436
       },
       {
         "text": "Bitcoin is ₿etter.  https://t.co/nfs0nW6yQ6",
         "url": "https://x.com/saylor/status/2091578903500406989",
         "time": "Sun Aug 23 17:30:44 +0000 2026",
-        "likes": 7021,
-        "retweets": 905
+        "likes": 7144,
+        "retweets": 930
       }
     ],
     "viktorfischer": [
@@ -1141,6 +1141,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Nvidia: A Disruptor, Both With AI Chips And Its Financialization Strategy",
+        "url": "https://finnhub.io/api/news?id=e0665b2f98336b15334e7573b52b4a913863de3d52074a520fe3e0acca62154f",
+        "datetime": 1787569791,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "NVIDIA (NASDAQ:NVDA) Pairs High Growth Momentum with a Breakout Setup",
         "url": "https://finnhub.io/api/news?id=e1c60b399ed39a900e0d80fcbc0f1729243c862583550bf3d26340b2b803395f",
         "datetime": 1787566919,
@@ -1163,12 +1169,6 @@
         "url": "https://finnhub.io/api/news?id=14c4893a293de51c31c9bf5b654c26c24d36a351390f7301d682b0921f107bd4",
         "datetime": 1787562375,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Dividend Harvesting Portfolio Week 286: $28,600 Allocated, $3,258.87 In Projected Dividends",
-        "url": "https://finnhub.io/api/news?id=81c77f54c115f7f22d56de5258f065c35c8b5019b334448239e76dc706b67c0d",
-        "datetime": 1787560200,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
@@ -1185,22 +1185,22 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "Google Cloud Collaborates With Verizon To Deploy Its Full-Stake AI Into Verizon Operations",
+        "url": "https://finnhub.io/api/news?id=936fd0342e2fccaf85f8413669dd855cd0f2e5c0e83a27a7b4ba1f8274a10eb2",
+        "datetime": 1787562291,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Forget The Cloud Rally: Semiconductors Rule AI",
         "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf",
         "datetime": 1787559076,
         "source": "SeekingAlpha"
       },
       {
-        "headline": "Market Volatility Risk: Nvidia Earnings And Jackson Hole Next Week",
-        "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24",
-        "datetime": 1787521046,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
-        "url": "https://finnhub.io/api/news?id=b755aec59d124c591eb6696c5ca304ce325b5d8990412a76c0cd6678b9d2bf1c",
-        "datetime": 1787506699,
-        "source": "Yahoo"
+        "headline": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+        "url": "https://finnhub.io/api/news?id=4d12749ca51a34b99fa186306c2dc9a405263b637b62371643c2c6bdbd703c19",
+        "datetime": 1787550367,
+        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1211,28 +1211,28 @@
         "source": "ChartMill"
       },
       {
+        "headline": "Tesla Sets Cybercab Launch Event for September 3 but Prediction Markets Doubt It'll Impress",
+        "url": "https://finnhub.io/api/news?id=c333a64426bf605ba0855d0a844244f91a3f1083a16f70cd90bb25f968d0ecbd",
+        "datetime": 1787566227,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Bessent's Toolbox Gets a Rest as Gold Prints $4,600 and Ross Stores Cleans Up",
         "url": "https://finnhub.io/api/news?id=7787e77d790c82615e1e824a41688465d5bf2c4d110e7c42c19de2bdd668833b",
         "datetime": 1787563733,
         "source": "ChartMill"
       },
       {
-        "headline": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
-        "url": "https://finnhub.io/api/news?id=d20ff59edd41170a40244f2911c96f9c487755868f0f7bfa5cd1178ede73e2be",
-        "datetime": 1787505462,
-        "source": "Yahoo"
+        "headline": "TSLA Competitor? Xiaomi Joins NIO in Race to Build In-House Chips for Self-Driving Cars",
+        "url": "https://finnhub.io/api/news?id=6ab1c7962d91710079f7dd3a76f0e68630e1692b673bf5b0e0dbfc766b509a19",
+        "datetime": 1787553071,
+        "source": "Benzinga"
       },
       {
-        "headline": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
-        "url": "https://finnhub.io/api/news?id=77fc99515b5b160dd568e29c7f7b2d6683b2d5d9cd8dc2d554c1560c424d748c",
-        "datetime": 1787481300,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Wall Street Week Ahead",
-        "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
-        "datetime": 1787469186,
-        "source": "SeekingAlpha"
+        "headline": "Bernie Sanders Says He Was Labeled 'Radical,' 'Crazy' and an Extremist for His Data Center Moratorium Push: 'Today 75% of Americans Agree'",
+        "url": "https://finnhub.io/api/news?id=ced2bdb6ef5aa45b6f82256ee489d4eb47679611f41db8acebf1f6252037d208",
+        "datetime": 1787521602,
+        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1241,6 +1241,12 @@
         "url": "https://finnhub.io/api/news?id=44e03053226379535e0f02bc7ba54cd6a5e7d67651c9fa03ad2efb735fefaff0",
         "datetime": 1787563902,
         "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Cathie Wood Says Analysts Can’t ‘Fathom’ Circle, Calls It a ‘Prime Beneficiary’ of Payments Disruption",
+        "url": "https://finnhub.io/api/news?id=943fe35796ce0d7d1cc01c6c78e57e773460b2fac8f4cde6fe88495067c7f3cb",
+        "datetime": 1787551293,
+        "source": "Benzinga"
       },
       {
         "headline": "Reported Earlier, Bakkt Reports FY2025 GAAP Revenue Of $2.3B, Down 32.1% YoY, As Company Completes Restructuring And Pivots To Digital Financial Infrastructure",
@@ -1258,12 +1264,6 @@
         "headline": "Bessent's Bond Rescue Fizzles, Walmart Craters 9%: Stock Market Today",
         "url": "https://finnhub.io/api/news?id=3f3a28f79218cb81b53764c2f6a3e497a8c47216dad56246efc6c5c12b4bd996",
         "datetime": 1787230977,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Ripple CEO Garlinghouse Says Crypto Isn't 'Fringe' After President Trump Declares US Is 'Winning'",
-        "url": "https://finnhub.io/api/news?id=e9090e2ea3acf2567cdeceabce98cf12f5cdc8b5496476df7cb632ff3e614046",
-        "datetime": 1787222771,
         "source": "Benzinga"
       }
     ],
