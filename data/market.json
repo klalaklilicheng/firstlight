@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:18:33.283Z",
+  "updated_at": "2026-08-25T23:18:39.658Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78924,
-      "change_pct": 0.06
+      "price": 78920,
+      "change_pct": 0.19
     },
     {
       "symbol": "ETH",
-      "price": 2451.12,
-      "change_pct": -1.2
+      "price": 2454.19,
+      "change_pct": -0.95
     },
     {
       "symbol": "SOL",
-      "price": 97.62,
-      "change_pct": 0.01
+      "price": 97.16,
+      "change_pct": -0.45
     },
     {
       "symbol": "HYPE",
-      "price": 80.03,
-      "change_pct": 2.55
+      "price": 80.1,
+      "change_pct": 2.84
     },
     {
       "symbol": "ZEC",
-      "price": 782.47,
-      "change_pct": -6.14
+      "price": 780.51,
+      "change_pct": -5.14
     },
     {
       "symbol": "TAO",
-      "price": 232.81,
-      "change_pct": -3.52
+      "price": 233,
+      "change_pct": -3.13
     },
     {
       "symbol": "SKY",
-      "price": 1553.51,
-      "change_pct": -0.8
+      "price": 1555.52,
+      "change_pct": -0.66
     },
     {
       "symbol": "AAVE",
-      "price": 127.16,
-      "change_pct": -4.23
+      "price": 126.98,
+      "change_pct": -3.81
     },
     {
       "symbol": "BNB",
-      "price": 695.76,
-      "change_pct": -0.99
+      "price": 696.63,
+      "change_pct": -0.7
     },
     {
       "symbol": "NEAR",
       "price": 1.88,
-      "change_pct": -3.55
+      "change_pct": -2.73
     },
     {
       "symbol": "DOGE",
-      "price": 0.086866,
-      "change_pct": -3.45
+      "price": 0.086635,
+      "change_pct": -3.19
     },
     {
       "symbol": "SPACEX",
-      "price": 506.77,
-      "change_pct": 1.39
+      "price": 506.74,
+      "change_pct": 1.68
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
+      "datetime": 1787695017,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Zerohash back for second effort at OCC trust bank charter",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
+      "datetime": 1787693908,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "World Liberty Financial launches USD1 natively on Canton Network",
       "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
       "source": "Cointelegraph",
@@ -650,7 +668,7 @@
       "headline": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
       "summary": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787664600,
       "category": "crypto",
       "related": ""
@@ -726,24 +744,6 @@
       "datetime": 1787659435,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-      "summary": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787659053,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-      "datetime": 1787658378,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -792,24 +792,24 @@
     }
   ],
   "btc_score": {
-    "score": 46.8,
-    "level": "中性",
-    "suggestion": "市场情绪平衡，保持现有仓位观望",
-    "daily_score": 19.9,
+    "score": 44.3,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
+    "daily_score": 17.4,
     "weekly_score": 26.9,
-    "btc_price": 78896.8,
+    "btc_price": 78933.8,
     "fear_greed": 81,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 337600000,
-        "score": 72,
+        "value": 14500000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.008797,
+        "value": 0.008464,
         "score": 49,
         "weight": 8,
         "group": "daily"
@@ -886,8 +886,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -70.2,
-        "score": 26,
+        "value": -66.7,
+        "score": 27,
         "weight": 4,
         "group": "weekly"
       }
@@ -1006,7 +1006,7 @@
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
         "likes": 1333,
-        "retweets": 88
+        "retweets": 89
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
@@ -1042,7 +1042,7 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 328,
+        "likes": 331,
         "retweets": 25
       },
       {
@@ -1079,36 +1079,36 @@
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 22731,
-        "retweets": 2215
+        "likes": 24012,
+        "retweets": 2334
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 19799,
-        "retweets": 2148
+        "likes": 20020,
+        "retweets": 2175
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2656,
-        "retweets": 283
+        "likes": 2666,
+        "retweets": 286
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 450,
+        "likes": 451,
         "retweets": 38
       },
       {
         "text": "https://t.co/QXV2g9MhPE",
         "url": "https://x.com/saylor/status/2091923153542840808",
         "time": "Mon Aug 24 16:18:40 +0000 2026",
-        "likes": 2393,
-        "retweets": 393
+        "likes": 2398,
+        "retweets": 394
       }
     ],
     "viktorfischer": [
@@ -1116,7 +1116,7 @@
         "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
         "url": "https://x.com/viktorfischer/status/2092350910660055293",
         "time": "Tue Aug 25 20:38:25 +0000 2026",
-        "likes": 16,
+        "likes": 28,
         "retweets": 3
       },
       {
