@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-25T12:31:41.309Z",
+  "updated_at": "2026-08-25T13:42:12.871Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 701.83,
-      "change_pct": -0.27
+      "price": 704.32,
+      "change_pct": 0.35
     },
     {
       "symbol": "QQQ",
-      "price": 706.32,
-      "change_pct": -1
+      "price": 711.78,
+      "change_pct": 0.77
     },
     {
       "symbol": "QQQM",
-      "price": 290.81,
-      "change_pct": -1
+      "price": 293.07,
+      "change_pct": 0.78
     },
     {
       "symbol": "NVDA",
-      "price": 208.48,
-      "change_pct": -2.91
+      "price": 211.78,
+      "change_pct": 1.58
     },
     {
       "symbol": "TSLA",
-      "price": 348.95,
-      "change_pct": -3.83
+      "price": 350.72,
+      "change_pct": 0.51
     },
     {
       "symbol": "GOOG",
-      "price": 344.59,
-      "change_pct": 0.83
+      "price": 345.26,
+      "change_pct": 0.19
     },
     {
       "symbol": "RKLB",
-      "price": 68.28,
-      "change_pct": -5.91
+      "price": 67.96,
+      "change_pct": -0.47
     },
     {
       "symbol": "CRCL",
-      "price": 87.72,
-      "change_pct": -0.3
+      "price": 89.1,
+      "change_pct": 1.57
     },
     {
       "symbol": "PLTR",
-      "price": 175.89,
-      "change_pct": -2.25
+      "price": 178.67,
+      "change_pct": 1.58
     },
     {
       "symbol": "MSTR",
-      "price": 122.63,
-      "change_pct": 2.83
+      "price": 122.32,
+      "change_pct": -0.25
     },
     {
       "symbol": "GLD",
-      "price": 426.69,
-      "change_pct": 0.79
+      "price": 423.46,
+      "change_pct": -0.76
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78785,
-      "change_pct": 0.41
+      "price": 79092,
+      "change_pct": 0.74
     },
     {
       "symbol": "ETH",
-      "price": 2465.86,
-      "change_pct": -1.1
+      "price": 2472.39,
+      "change_pct": -0.73
     },
     {
       "symbol": "SOL",
-      "price": 97.87,
-      "change_pct": 2.54
+      "price": 98,
+      "change_pct": 2.97
     },
     {
       "symbol": "HYPE",
-      "price": 79.52,
-      "change_pct": -0.89
+      "price": 79.64,
+      "change_pct": 0.8
     },
     {
       "symbol": "ZEC",
-      "price": 830.76,
-      "change_pct": -2.36
+      "price": 826.33,
+      "change_pct": -1.82
     },
     {
       "symbol": "TAO",
-      "price": 235.94,
-      "change_pct": -1.6
+      "price": 236.25,
+      "change_pct": -0.93
     },
     {
       "symbol": "SKY",
-      "price": 1582.68,
-      "change_pct": -1.07
+      "price": 1576.81,
+      "change_pct": -1.75
     },
     {
       "symbol": "AAVE",
-      "price": 127.93,
-      "change_pct": -6.84
+      "price": 130.25,
+      "change_pct": -3.88
     },
     {
       "symbol": "BNB",
-      "price": 694.37,
-      "change_pct": -1.29
+      "price": 696.66,
+      "change_pct": -0.37
     },
     {
       "symbol": "NEAR",
-      "price": 1.93,
-      "change_pct": -3.89
+      "price": 1.91,
+      "change_pct": -2.51
     },
     {
       "symbol": "DOGE",
-      "price": 0.089529,
-      "change_pct": -3.22
+      "price": 0.089439,
+      "change_pct": -1.96
     },
     {
       "symbol": "SPACEX",
-      "price": 493.12,
-      "change_pct": -1.7
+      "price": 490.77,
+      "change_pct": -2.53
     }
   ],
   "earnings": {
@@ -474,7 +474,278 @@
       "comment": "上季超预期 (+2.1%)"
     }
   },
-  "news": [],
+  "news": [
+    {
+      "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
+      "summary": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
+      "datetime": 1787662817,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
+      "summary": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787662800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "summary": "Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "datetime": 1787662741,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+      "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+      "datetime": 1787662549,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "India plans first tokenized bonds using wholesale CBDC: Report",
+      "summary": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787659755,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+      "datetime": 1787659435,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Shipyard winds down IPFS work after Protocol Labs ends funding",
+      "summary": "The funding loss leaves InterPlanetary File System software without dedicated maintainers and puts the future of key public services in Protocol Labs’ hands.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/shipyard-winds-down-ipfs-protocol-labs-funding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787659053,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+      "datetime": 1787658378,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+      "summary": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+      "datetime": 1787656869,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+      "datetime": 1787656502,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today",
+      "summary": "United is betting big on premium, international travel with a host of new routes.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "datetime": 1787655601,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "A bitcoin short squeeze for the ages as futures open interest collapses",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+      "datetime": 1787655422,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin extends 7-day advance to roughly 25%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+      "datetime": 1787655123,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+      "summary": "Bitcoin price analysis eyes the potential end of its current macro downtrend based on weekly RSI signals.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787654983,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
+      "datetime": 1787653532,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+      "summary": "Thailand’s SEC opened consultations on local Bitcoin and Ether ETF rules and qualification standards for foreign digital asset custodians.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787653214,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+      "summary": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787651560,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "datetime": 1787649965,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+      "datetime": 1787647638,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+      "summary": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787647607,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
+      "summary": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787644690,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+      "datetime": 1787644518,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Treasury yields steady as traders await more economic data",
+      "summary": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
+      "datetime": 1787644137,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "datetime": 1787643611,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+      "summary": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787643509,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
+      "datetime": 1787643152,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
+      "datetime": 1787641309,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+      "datetime": 1787639189,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
+      "datetime": 1787637112,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+      "summary": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787635769,
+      "category": "crypto",
+      "related": ""
+    }
+  ],
   "ipo_watch": [
     {
       "company": "SpaceX",
@@ -486,7 +757,13 @@
     },
     {
       "company": "OpenAI",
-      "news": []
+      "news": [
+        {
+          "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
+          "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
+          "datetime": 1787656869
+        }
+      ]
     },
     {
       "company": "宇树科技",
@@ -510,12 +787,12 @@
     }
   ],
   "btc_score": {
-    "score": 48,
+    "score": 48.2,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
-    "daily_score": 19.6,
+    "daily_score": 19.8,
     "weekly_score": 28.4,
-    "btc_price": 78685.9,
+    "btc_price": 78940,
     "fear_greed": 81,
     "indicators": [
       {
@@ -534,8 +811,8 @@
       },
       {
         "name": "多空比",
-        "value": 0.89,
-        "score": 26,
+        "value": 0.93,
+        "score": 29,
         "weight": 5,
         "group": "daily"
       },
@@ -597,15 +874,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.6,
+        "value": 62.8,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 64.6,
-        "score": 63,
+        "value": 74.2,
+        "score": 65,
         "weight": 4,
         "group": "weekly"
       }
@@ -760,35 +1037,35 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 185,
-        "retweets": 15
+        "likes": 216,
+        "retweets": 18
       },
       {
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 350,
-        "retweets": 18
+        "likes": 352,
+        "retweets": 19
       },
       {
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
         "url": "https://x.com/QwQiao/status/2091217716535332935",
         "time": "Sat Aug 22 17:35:31 +0000 2026",
-        "likes": 210,
+        "likes": 211,
         "retweets": 5
       },
       {
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 395,
+        "likes": 396,
         "retweets": 35
       },
       {
         "text": "own either the greatest cashflow-generating monopolies or oligopolies, or the purest non-sovereign store of value. everything in between is midcurve.",
         "url": "https://x.com/QwQiao/status/2090757192827773016",
         "time": "Fri Aug 21 11:05:33 +0000 2026",
-        "likes": 391,
+        "likes": 392,
         "retweets": 22
       }
     ],
@@ -797,29 +1074,29 @@
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 12081,
-        "retweets": 1282
+        "likes": 14174,
+        "retweets": 1506
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2335,
-        "retweets": 235
+        "likes": 2384,
+        "retweets": 243
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 412,
+        "likes": 416,
         "retweets": 31
       },
       {
         "text": "https://t.co/QXV2g9MhPE",
         "url": "https://x.com/saylor/status/2091923153542840808",
         "time": "Mon Aug 24 16:18:40 +0000 2026",
-        "likes": 2271,
-        "retweets": 365
+        "likes": 2287,
+        "retweets": 368
       },
       {
         "text": "These actions further strengthen $STRC. USD Duration is now 3.9 yrs (+414d) and STRC BTC Credit is 59 bps (-21 bps) assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $77,004. https://t.co/v4NLMZmC78",
@@ -870,6 +1147,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+        "url": "https://finnhub.io/api/news?id=b79b5a302e89eb720873a11871229e2f0eddf4a13f019bd80f74fe4a1b7d1d34",
+        "datetime": 1787648947,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+        "url": "https://finnhub.io/api/news?id=15251ddaea213d3f888a9d0a33631e9ad615a0c37ab7141fe27766a0c565f0b8",
+        "datetime": 1787647677,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
         "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2",
         "datetime": 1787644800,
@@ -886,21 +1175,21 @@
         "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
         "datetime": 1787598606,
         "source": "ChartMill"
-      },
-      {
-        "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
-        "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
-        "datetime": 1787595674,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "What's going on in today's session: S&P500 most active stocks",
-        "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
-        "datetime": 1787594700,
-        "source": "ChartMill"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Marvell: The AI Inflection Has Arrived, But The Stock Has Run Ahead (Rating Downgrade)",
+        "url": "https://finnhub.io/api/news?id=b79b5a302e89eb720873a11871229e2f0eddf4a13f019bd80f74fe4a1b7d1d34",
+        "datetime": 1787648947,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+        "url": "https://finnhub.io/api/news?id=15251ddaea213d3f888a9d0a33631e9ad615a0c37ab7141fe27766a0c565f0b8",
+        "datetime": 1787647677,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "The Market Is Cheap: The AI Revolution Has Created Plenty Of Bargains",
         "url": "https://finnhub.io/api/news?id=99a8808d41a6c8c81c40512923000a5bd8120961867eefbbcb9e291f66fe8da2",
@@ -918,21 +1207,15 @@
         "url": "https://finnhub.io/api/news?id=d367226c7afd0def73450d4508a39879b195389ed00dee3bb31ce07eeba5fa78",
         "datetime": 1787598125,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
-        "url": "https://finnhub.io/api/news?id=6164f6385b35dc0f3b590f19a9191c2ede170765d8c82055d403a81a7c9365fa",
-        "datetime": 1787595674,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
-        "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b",
-        "datetime": 1787587844,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Tesla: I Want To Buy Back In But The Valuation Won't Let Me",
+        "url": "https://finnhub.io/api/news?id=91afeadcb6981238b3370b275dc57e5635739259f58005a928649917264cbad8",
+        "datetime": 1787646600,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Chips Take the Punch Ahead of Nvidia as Trump's Canada Tariffs Rattle Detroit",
         "url": "https://finnhub.io/api/news?id=2be168855ee50e913a997ad60b9ba46a6dce9f94c3f66325445b6b6e82be88ad",
@@ -956,12 +1239,6 @@
         "url": "https://finnhub.io/api/news?id=03e43707ec88b1cbb3d7bf62c30654eef16c1aba21213c240d939987abd8f3b0",
         "datetime": 1787582385,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
-        "url": "https://finnhub.io/api/news?id=39011b3b644558bdbe1eb2189feb7b87b44fe7ab77d7ec19972ebcfef56dcfa9",
-        "datetime": 1787580864,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -997,26 +1274,82 @@
       }
     ],
     "LKNCY": [],
-    "BTC": [],
-    "ETH": [],
+    "BTC": [
+      {
+        "headline": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
+        "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
+        "datetime": 1787656502,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "A bitcoin short squeeze for the ages as futures open interest collapses",
+        "url": "https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses",
+        "datetime": 1787655422,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin extends 7-day advance to roughly 25%",
+        "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25",
+        "datetime": 1787655123,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend",
+        "url": "https://cointelegraph.com/markets/bitcoin-rsi-bullish-divergence-draws-2022-comparisons-as-analysis-weighs-new-price-trend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787654983,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+        "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787653214,
+        "source": "Cointelegraph"
+      }
+    ],
+    "ETH": [
+      {
+        "headline": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+        "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+        "datetime": 1787659435,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Crypto news today: ETF inflows, Ethereum demand and US regulation lift sentiment",
+        "url": "https://investinglive.com/cryptocurrency/crypto-news-today-etf-inflows-ethereum-demand-and-us-regulation-lift-sentiment/",
+        "datetime": 1787634310,
+        "source": "Forexlive"
+      },
+      {
+        "headline": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+        "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+        "datetime": 1787552853,
+        "source": "CoinDesk"
+      }
+    ],
     "SOL": [
       {
-        "headline": "Shipping code takes a day. Shipping a physical product hasn't changed since the 90s.\n\n@NomuStores is fixing that.",
-        "url": "https://x.com/solana/status/2092146031677132939",
-        "datetime": 1787641458,
-        "source": "@solana"
+        "headline": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+        "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
+        "datetime": 1787653532,
+        "source": "CoinDesk"
       },
       {
-        "headline": "believe in something 🐧",
-        "url": "https://x.com/solana/status/2092079954003656751",
-        "datetime": 1787625704,
-        "source": "@solana"
+        "headline": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+        "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+        "datetime": 1787635511,
+        "source": "CoinDesk"
       },
       {
-        "headline": "solana looks good.",
-        "url": "https://x.com/solana/status/2092054295642357789",
-        "datetime": 1787619587,
-        "source": "@solana"
+        "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+        "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+        "datetime": 1787575950,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Solana cuts blockchain slot time to 350 milliseconds",
+        "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787319913,
+        "source": "Cointelegraph"
       }
     ],
     "AAVE": [
@@ -1051,6 +1384,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Shhh… It's Confidential, the next episode of Inside Confidential Intents, goes live tomorrow August 26 at 9am ET.\n\n@familiarcow from @near_intents together with @charlie_bst from  @ChadwickStrange fro",
+        "url": "https://x.com/NEARProtocol/status/2092237703068647433",
+        "datetime": 1787663314,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "NEAR is one of the first blockchains to support post-quantum signing and advance towards post-quantum readiness.\n\nThe full roadmap:",
         "url": "https://x.com/NEARProtocol/status/2092035310871875870",
         "datetime": 1787615060,
@@ -1061,15 +1400,22 @@
         "url": "https://x.com/NEARProtocol/status/2092013774488125678",
         "datetime": 1787609926,
         "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR's account model enables a simple key rotation to post-quantum signing, not a full migration.\n\nIllia Polosukhin explains the quantum threat, why it's a problem for the whole industry (not any sing",
-        "url": "https://x.com/NEARProtocol/status/2092013772890108187",
-        "datetime": 1787609925,
-        "source": "@NEARProtocol"
       }
     ],
-    "ZEC": [],
+    "ZEC": [
+      {
+        "headline": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+        "url": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+        "datetime": 1787558757,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+        "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+        "datetime": 1787377063,
+        "source": "CoinDesk"
+      }
+    ],
     "SPACEX": []
   }
 }
