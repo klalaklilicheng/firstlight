@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:19:44.679Z",
+  "updated_at": "2026-08-25T21:20:04.582Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78846,
-      "change_pct": 0.23
+      "price": 78304,
+      "change_pct": -0.8
     },
     {
       "symbol": "ETH",
-      "price": 2457.29,
-      "change_pct": -0.48
+      "price": 2430.47,
+      "change_pct": -2
     },
     {
       "symbol": "SOL",
-      "price": 97.75,
-      "change_pct": 1.78
+      "price": 96.61,
+      "change_pct": -0.17
     },
     {
       "symbol": "HYPE",
-      "price": 81.22,
-      "change_pct": 4.71
+      "price": 79.14,
+      "change_pct": 1.74
     },
     {
       "symbol": "ZEC",
-      "price": 784.33,
-      "change_pct": -3.26
+      "price": 762.83,
+      "change_pct": -7.27
     },
     {
       "symbol": "TAO",
-      "price": 231.67,
-      "change_pct": -3.8
+      "price": 228.28,
+      "change_pct": -5.72
     },
     {
       "symbol": "SKY",
-      "price": 1555.34,
-      "change_pct": -0.19
+      "price": 1542.28,
+      "change_pct": -1.35
     },
     {
       "symbol": "AAVE",
-      "price": 127.44,
-      "change_pct": -5.3
+      "price": 126.1,
+      "change_pct": -6.48
     },
     {
       "symbol": "BNB",
-      "price": 696.74,
-      "change_pct": -0.72
+      "price": 691.84,
+      "change_pct": -1.8
     },
     {
       "symbol": "NEAR",
-      "price": 1.87,
-      "change_pct": -3.5
+      "price": 1.86,
+      "change_pct": -4.82
     },
     {
       "symbol": "DOGE",
-      "price": 0.08769,
-      "change_pct": -1.39
+      "price": 0.085898,
+      "change_pct": -4.25
     },
     {
       "symbol": "SPACEX",
-      "price": 516.92,
-      "change_pct": 2.28
+      "price": 506.69,
+      "change_pct": 1.39
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "World Liberty Financial launches USD1 natively on Canton Network",
+      "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787690110,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "2 of our software stocks face major tests of whether their rallies are for real",
+      "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
+      "datetime": 1787689632,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
       "summary": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
       "source": "CNBC",
@@ -726,24 +744,6 @@
       "datetime": 1787658378,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-      "summary": "The AI company said the incident \"illustrates how influence actors can use AI as a supporting tool within a broader effort to manufacture authority.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-      "datetime": 1787656869,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Bitcoin's surging price faces 1 key level that could signal if the bear market is really over",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over",
-      "datetime": 1787656502,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -792,12 +792,12 @@
     }
   ],
   "btc_score": {
-    "score": 46.7,
+    "score": 46.8,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 20,
-    "weekly_score": 26.7,
-    "btc_price": 78957.2,
+    "weekly_score": 26.8,
+    "btc_price": 78442.3,
     "fear_greed": 81,
     "indicators": [
       {
@@ -809,15 +809,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.009735,
+        "value": 0.009034,
         "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.01,
-        "score": 34,
+        "value": 1,
+        "score": 33,
         "weight": 5,
         "group": "daily"
       },
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.8,
+        "value": 62.4,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -84.3,
-        "score": 22,
+        "value": -73.4,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1042,7 +1042,7 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 317,
+        "likes": 322,
         "retweets": 24
       },
       {
@@ -1079,39 +1079,46 @@
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 19120,
-        "retweets": 1883
+        "likes": 21232,
+        "retweets": 2100
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 19162,
-        "retweets": 2078
+        "likes": 19529,
+        "retweets": 2116
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2630,
-        "retweets": 278
+        "likes": 2645,
+        "retweets": 280
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 439,
-        "retweets": 36
+        "likes": 447,
+        "retweets": 37
       },
       {
         "text": "https://t.co/QXV2g9MhPE",
         "url": "https://x.com/saylor/status/2091923153542840808",
         "time": "Mon Aug 24 16:18:40 +0000 2026",
-        "likes": 2374,
-        "retweets": 389
+        "likes": 2390,
+        "retweets": 392
       }
     ],
     "viktorfischer": [
+      {
+        "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
+        "url": "https://x.com/viktorfischer/status/2092350910660055293",
+        "time": "Tue Aug 25 20:38:25 +0000 2026",
+        "likes": 8,
+        "retweets": 1
+      },
       {
         "text": "Big uptick last week: AI agents minting USDC on @solana 📈",
         "url": "https://x.com/viktorfischer/status/2091872967936573552",
@@ -1139,13 +1146,6 @@
         "time": "Sun Aug 23 11:34:00 +0000 2026",
         "likes": 7,
         "retweets": 0
-      },
-      {
-        "text": "On the Curator League Table @RockawayX is no.6. For us curation is a way how to help founders scale their yield-generating protocols from day one.",
-        "url": "https://x.com/viktorfischer/status/2089974396811432131",
-        "time": "Wed Aug 19 07:15:00 +0000 2026",
-        "likes": 19,
-        "retweets": 2
       }
     ]
   },
@@ -1190,6 +1190,12 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "Nvidia's AI Chips Are Making Liquid Cooling the New Standard as Cisco Expands Its AI Bet",
+        "url": "https://finnhub.io/api/news?id=db888e98b43af6fd0d53bb6a4568216a1e35097cf3436184052ca0153965543c",
+        "datetime": 1787668717,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
         "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750",
         "datetime": 1787666824,
@@ -1206,12 +1212,6 @@
         "url": "https://finnhub.io/api/news?id=8f5b10faf77cdd0375a8c76749a5a79281eba0c115865c9a89ed73b4503d0b02",
         "datetime": 1787663220,
         "source": "CNBC"
-      },
-      {
-        "headline": "'Anthropic Expected to Tell Investors It Sees Over $30 Trillion in Potential Revenue' - WSJ Exclusive",
-        "url": "https://finnhub.io/api/news?id=cee5faec1d2e782d538f1d54ce18c3aa1139b3390e67c37b5389f430018753c2",
-        "datetime": 1787659357,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
