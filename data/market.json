@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T10:23:24.491Z",
+  "updated_at": "2026-08-25T11:20:03.693Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79366,
-      "change_pct": 2.02
+      "price": 79118,
+      "change_pct": 1.7
     },
     {
       "symbol": "ETH",
-      "price": 2478.15,
-      "change_pct": 0.23
+      "price": 2475.27,
+      "change_pct": 0.35
     },
     {
       "symbol": "SOL",
-      "price": 99.52,
-      "change_pct": 4.92
+      "price": 98.97,
+      "change_pct": 4.59
     },
     {
       "symbol": "HYPE",
-      "price": 80.81,
-      "change_pct": 2.7
+      "price": 80.04,
+      "change_pct": 1.5
     },
     {
       "symbol": "ZEC",
-      "price": 839.67,
-      "change_pct": 0.29
+      "price": 834.42,
+      "change_pct": 0.15
     },
     {
       "symbol": "TAO",
-      "price": 236.08,
-      "change_pct": -0.6
+      "price": 236.48,
+      "change_pct": 0.72
     },
     {
       "symbol": "SKY",
-      "price": 1596.02,
-      "change_pct": -0.12
+      "price": 1594.41,
+      "change_pct": 0.21
     },
     {
       "symbol": "AAVE",
-      "price": 129.5,
-      "change_pct": -5.45
+      "price": 128.21,
+      "change_pct": -5.18
     },
     {
       "symbol": "BNB",
-      "price": 699.72,
-      "change_pct": -0.08
+      "price": 698.01,
+      "change_pct": -0.28
     },
     {
       "symbol": "NEAR",
-      "price": 1.92,
-      "change_pct": -3.58
+      "price": 1.91,
+      "change_pct": -2.31
     },
     {
       "symbol": "DOGE",
-      "price": 0.09066,
-      "change_pct": -0.89
+      "price": 0.090409,
+      "change_pct": -0.58
     },
     {
       "symbol": "SPACEX",
-      "price": 491.14,
-      "change_pct": -1.33
+      "price": 490.13,
+      "change_pct": -2.56
     }
   ],
   "earnings": {
@@ -476,8 +476,35 @@
   },
   "news": [
     {
-      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-      "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "headline": "美国联合航空 (United Airlines) 增加了 2027 个从撒丁岛飞往冲绳岛的航班。这是今天关于旅行的内容",
+      "summary": "美联航正在大力发展高端国际旅行，推出了一系列新航线。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
+      "datetime": 1787655601,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "泰国通过规则草案向比特币、以太币 ETF 迈进",
+      "summary": "泰国SEC就当地比特币和以太币ETF规则以及外国数字资产托管人资格标准展开磋商。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787653214,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "渣打银行成为港元稳定币首家银行经销商",
+      "summary": "随着 HKDAP 分阶段向传统银行业务推广，该银行计划在第四季度进行代币化货币市场基金结算。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787651560,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "黑莓首席执行官表示机器人技术是其增长最快的业务之一",
+      "summary": "黑莓首席执行官 John Giamatteo 表示，随着该公司将其软件扩展到汽车以外的领域，机器人技术是 QNX 增长最快的业务之一。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
       "datetime": 1787649965,
@@ -485,7 +512,7 @@
       "related": ""
     },
     {
-      "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "headline": "美国扩大对伊朗的打击范围，涵盖加密货币、黄金、航运和技术",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
@@ -494,8 +521,8 @@
       "related": ""
     },
     {
-      "headline": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
-      "summary": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+      "headline": "Galaxy 将 Coldcard 黑客攻击损失定为 1,789 BTC，87% 的人无动于衷",
+      "summary": "Galaxy Research 的最新统计显示，221 份 Coldcard 黑客受害者报告中，超过一半涉及个人损失超过 1 比特币。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787647607,
@@ -503,8 +530,8 @@
       "related": ""
     },
     {
-      "headline": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
-      "summary": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors.",
+      "headline": "价值 2400 万美元的加密庞氏骗局企业主将面临长达 280 年的监禁",
+      "summary": "布伦特·科瓦尔 (Brent Kovar) 从至少 400 名投资者那里收受 2400 万美元，联邦陪审团判定他犯有电汇欺诈、邮件欺诈和洗钱罪。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787644690,
@@ -512,7 +539,7 @@
       "related": ""
     },
     {
-      "headline": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "headline": "富兰克林邓普顿和 Hashkey 在亚洲推出美国代币化货币基金",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
@@ -521,8 +548,8 @@
       "related": ""
     },
     {
-      "headline": "Treasury yields steady as traders await more economic data",
-      "summary": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
+      "headline": "交易员等待更多经济数据，国债收益率稳定",
+      "summary": "由于投资者等待更多数据发布以深入了解美国经济形势，美国国债收益率周二持稳。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
       "datetime": 1787644137,
@@ -530,7 +557,7 @@
       "related": ""
     },
     {
-      "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "headline": "实时更新：比特币 ETF 连续第七天吸引资金流入，涨势维持在 80,000 美元以上",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
@@ -539,8 +566,8 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
-      "summary": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion.",
+      "headline": "比特币 ETF 增加 $338M，连续六天流入达到 $2.26B",
+      "summary": "比特币 ETF 在六个交易日内吸引了 22.6 亿美元，而年初至今的净流出已收窄至约 25.7 亿美元。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787643509,
@@ -548,7 +575,7 @@
       "related": ""
     },
     {
-      "headline": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "headline": "亿万富翁德鲁肯米勒表示，财政部的债券回购计划与市场作斗争并加剧了危险",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
@@ -557,7 +584,7 @@
       "related": ""
     },
     {
-      "headline": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "headline": "Monad 提出钱包升级，可以抵御丢失密钥和量子攻击",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
@@ -566,7 +593,7 @@
       "related": ""
     },
     {
-      "headline": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "headline": "随着小型代币在一周内翻倍，加密货币涨势蔓延至狗和猫模因币",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
@@ -575,7 +602,7 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000",
+      "headline": "比特币交易员押注 290 万美元，押注价格将迅速跃升至 82,000 美元以上",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000",
@@ -584,8 +611,8 @@
       "related": ""
     },
     {
-      "headline": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
-      "summary": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
+      "headline": "美国瞄准伊朗加密货币行业，称其与石油相关的支付金额超过 1 亿美元",
+      "summary": "美国财政部扩大了对伊朗数字资产行业的制裁，指控一家阿联酋经纪商为石油销售处理了超过 1 亿美元的加密货币。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787635769,
@@ -593,7 +620,7 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "headline": "比特币突破 80,000 美元，solana 上涨 8%，但反弹现陷入超买警告",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
@@ -602,8 +629,8 @@
       "related": ""
     },
     {
-      "headline": "Crypto news today: ETF inflows, Ethereum demand and US regulation lift sentiment",
-      "summary": "<p>Key crypto news for traders and investors today</p><ul><li><p>US spot Bitcoin and Ethereum ETFs attracted about $2.6 billion combined during the August 17-21 week, their strongest week since October 2025.</p></li><li><p>Ethereum demand came from two directions: nearly $700 million entered spot ETH ETFs, while BitMine disclosed another 32,447 ETH purchase.</p></li><li><p>US regulators are moving toward clearer crypto rules, but the main market-structure legislation sought by the industry remains stalled in the Senate.</p></li><li><p>Solana has started reducing its slot time, while Zcash is drawing attention around Grayscale's proposed ETF conversion and unusually heavy derivatives activity.</p></li><li><p>Some of the recent market acceleration came from short liquidations, which should not be confused with lasting investment demand.</p></li></ul><p>Crypto sentiment has improved sharply, but the more useful story is not simply that prices moved higher. Regulated fund demand returned, Ethereum attracted another large corporate buyer, US regulators advanced new proposals, and individual altcoins responded to their own catalysts.</p><p>For newer crypto traders and investors, this distinction matters. A rally driven by long-term fund inflows is different from one powered mainly by leveraged traders being forced out of losing positions. Both can move prices, but they say different things about the strength and durability of demand.</p><p>I'm closely tracking the momentum now that <a href=\"https://investinglive.com/cryptocurrency/bitcoin-jumps-above-us-80k-for-the-first-time-in-3-months/\" rel=\"noopener\" target=\"_blank\">Bitcoin jumped above the $80k threshold for the first time in three months</a>, confirming strong buyer absorption across key technical levels. </p><p>This impulsive surge directly follows the setup I highlighted when price was consolidating, where <a href=\"https://investinglive.com/cryptocurrency/is-bitcoin-at-77k-preparing-for-another-breakout-this-btcusd-analysis-shows-a-a-potential-bull-flag-pointing-to-84k-86k/\" rel=\"noopener\" target=\"_blank\">Bitcoin at $77k showed a potential bull flag breakout targeting $84k–$86k</a>. </p><p>While I manage these intraday extensions and watch for structural volume confirmation, active market participants should also frame these swings within the macro cycle by reviewing our comprehensive <a href=\"https://investinglive.com/cryptocurrency/bitcoin-price-forecasts-for-year-2028/\" rel=\"noopener\" target=\"_blank\">Bitcoin long-term price forecasts through 2028</a> to map out broader liquidity horizons.</p><p>Why are Bitcoin and Ethereum ETF inflows important?</p><p>US spot Bitcoin ETFs attracted approximately $1.92 billion during the August 17-21 trading week. Spot Ethereum ETFs added about $697 million. Together, the two groups received roughly $2.6 billion, while combined trading volume rose to approximately $29 billion, according to data reported by <a href=\"https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531\" rel=\"follow\">The Block</a>.</p><p></p><p>That was the strongest week for both categories since October 2025.</p><p>Bitcoin ETF inflows: About $1.92 billionThis was the larger share of the week's regulated crypto-fund demand.</p><p>Ethereum ETF inflows: About $697 millionThe strong ETH total shows that investors were not looking only at Bitcoin.</p><p>Combined ETF trading volume: About $29 billionHigher volume shows that participation increased as money returned to the funds.</p><p>An exchange-traded fund, or ETF, gives investors access to an asset through a familiar brokerage product. Crypto ETFs can be particularly useful for institutions and investors that do not want to manage wallets, private keys or direct custody.</p><p>What this means: ETF inflows show that more money entered these regulated funds. They do not guarantee that crypto prices will continue rising, but they are one of the clearest public signals that demand for regulated exposure has improved.</p><p>Does one strong ETF week reverse the weak 2026 trend?</p><p>No. The latest week was a major improvement, but it did not erase the year's earlier withdrawals.</p><p>After the rebound, US spot Bitcoin ETFs were still approximately $2.9 billion negative for 2026, while spot Ethereum ETFs remained roughly $192 million negative, based on the same weekly dataset.</p><p>This is an important reality check. One strong week can mark a change in behavior, but a durable institutional shift normally requires follow-through. The healthier signal would be continued inflows across several weeks, rather than one burst of demand during a fast market recovery.</p><p>Why does Ethereum have its own institutional demand story?</p><p>Ethereum is not only following Bitcoin. Its latest demand came from both ETFs and a corporate treasury buyer.</p><p>BitMine said it acquired another 32,447 ETH during the latest week. The company reported total holdings of approximately 5.85 million ETH, with total crypto and cash holdings valued at $14.9 billion as of August 23. The figures came from <a href=\"https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-5-85-million-tokens-and-total-crypto-and-total-cash-holdings-of-14-9-billion-302857967.html\" rel=\"follow\">BitMine's company announcement</a>.</p><p>A corporate crypto treasury is a company that holds digital assets on its balance sheet. If the company intends to hold those assets for a long period, the purchase can reduce the amount readily available for trading. It does not remove the coins from total supply, but it can reduce the liquid supply available in the market.</p><p>What this means: Ethereum demand is coming through more than one channel. ETF buyers provide regulated investment demand, while treasury companies provide direct corporate demand. Seeing both at the same time suggests broader interest than a rally driven by short-term traders alone.</p><p>There is still concentration risk. A very large treasury buyer can support demand while it is accumulating, but the market may also become more sensitive to any future change in that company's funding, strategy or holdings.</p><p></p><p>Two important Bitcoin price levels to keep in mind as you watch the BTCUSD daily chart</p><p>See my daily Bitcoin chart below. After its sharp recovery toward $80,000, Bitcoin is approaching two levels that may help us judge whether the move is gaining broader acceptance.</p><p></p><p>The first is approximately $82,833, the high reached during Bitcoin’s May recovery. This is the nearest resistance area because buyers previously failed to hold above it. A brief move through the level would not be enough on its own. Traders would normally look for Bitcoin to close above it and then defend the area during a pullback.</p><p>The larger level sits just above $89,000. This is the 12-month Value Area High, or VAH, which marks the upper boundary of the price region where much of the previous year’s trading activity occurred. When price returns to a major value-area boundary, it can become an important decision zone because many market participants previously traded around it.</p><p>In simple terms, $82,833 is the first nearby test, while the area just above $89,000 is the more important structural test. Holding above either level would carry more meaning than briefly touching it. Rejection would show that sellers are still active overhead.</p><p>The chart is a context map, not a prediction. It helps show where the market’s behavior may become more informative as the recovery develops.</p><p>Why did Strategy raise cash instead of buying more Bitcoin?</p><p>Strategy, the largest public corporate holder of Bitcoin, did not add to its position in its latest weekly update. Its holdings remained at 840,447 BTC.</p><p>The company raised about $2 billion by selling MSTR shares and created a separate cash pool of approximately $1.6 billion. According to <a href=\"https://www.reuters.com/legal/transactional/strategy-earmarks-16-billion-cash-pool-treasury-operations-buybacks-2026-08-24/\" rel=\"follow\">Reuters</a>, that money could support future treasury operations, including possible Bitcoin purchases, share buybacks or other corporate needs.</p><p>This does not automatically mean Strategy has turned bearish on Bitcoin. It is better understood as balance-sheet and liquidity management. The update is still useful because it challenges the idea that major crypto treasury companies must buy during every market rally.</p><p>What is changing in US crypto regulation?</p><p>US regulators are moving in a more constructive direction, but regulation is advancing on two separate tracks.</p><p>The first track is agency action. The US Securities and Exchange Commission has proposed Regulation Crypto Assets, which includes two tailored fundraising exemptions for certain crypto-related investment contracts. The proposal would allow qualifying offerings of up to $5 million over four years under one exemption and up to $75 million in a 12-month period under another, subject to disclosure and reporting conditions.</p><p>The proposal also includes a conditional safe harbor that could allow a qualifying crypto asset to no longer be treated as part of an investment contract under federal securities definitions. The details remain proposals, not final rules, and the <a href=\"https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets\" rel=\"follow\">SEC opened them for public comment</a>.</p><p>The Commodity Futures Trading Commission also used its August 20 Innovation Advisory Committee meeting to discuss crypto's regulatory evolution. CFTC Chair Michael Selig described a broader effort to keep US market rules aligned with financial innovation in his <a href=\"https://www.cftc.gov/PressRoom/SpeechesTestimony/opaselig10\" rel=\"follow\">opening remarks</a>.</p><p>The second track is legislation. The broader CLARITY Act, which would create a more lasting federal market-structure framework and divide responsibilities between the SEC and CFTC, remains stalled in the Senate. <a href=\"https://www.reuters.com/legal/government/trump-agencies-set-crypto-policy-bill-stalls-limiting-industrys-gains-2026-08-18/\" rel=\"follow\">Reuters reported</a> that agency action can move faster, but it may be easier for a future administration or the courts to change than a law passed by Congress.</p><p>What this means: The direction of travel is more crypto-friendly, but the legal framework is not complete. Proposed rules can improve clarity, while legislation would offer greater durability.</p><p>What does Solana's faster slot time change for users?</p><p>Solana has begun a staged network upgrade that reduced its target slot time from 400 milliseconds to 350 milliseconds. A slot is a short period during which the network can produce a block.</p><p>Shorter slots can make transactions feel faster because confirmations can reach users sooner. The first reduction is part of a tentative roadmap toward 200-millisecond slots, according to the <a href=\"https://solana.com/upgrades/reduced-slot-times\" rel=\"follow\">Solana Foundation's upgrade description</a>.</p><p>This should not be described as an instant increase in total network capacity. The immediate benefit is lower latency, or less waiting time, rather than an automatic multiplication of the number of transactions Solana can process.</p><p>Why is Zcash moving for a different reason than the wider market?</p><p>Zcash has a specific product catalyst. Grayscale filed another amendment seeking to convert its existing Zcash Trust into an exchange-traded product listed on NYSE Arca under the ticker ZCSH.</p><p>The latest <a href=\"https://www.sec.gov/Archives/edgar/data/1720265/000119312526361067/zec_s-3_amendment_5.htm\" rel=\"follow\">SEC filing</a>, dated August 21, was still a preliminary prospectus and subject to completion. That distinction matters: progress in a filing process is not the same as a completed launch or a guarantee of regulatory approval.</p><p>At the same time, Zcash futures activity surged far beyond spot-market trading. <a href=\"https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016\" rel=\"follow\">CoinDesk reported</a> that futures volume reached about $4.55 billion on August 21, compared with roughly $553 million of spot activity.</p><p>What this means: When futures volume is much larger than spot volume, leveraged speculation may be playing a major role. Leverage can accelerate a rally, but it can also make a reversal faster and more severe.</p><p>Other altcoins, including XRP, HYPE and AAVE, also attracted renewed interest as traders became more willing to move beyond Bitcoin. That does not prove that every altcoin is entering a lasting uptrend. Leadership remains selective, which makes asset-specific news more important than simply assuming all tokens will move together.</p><p>What the crypto performance table reveals: a broad rebound, but not yet a broad recovery</p><p>The first impression from this performance snapshot is strongly positive. Every cryptocurrency shown has gained at least 17% over the past month, while several altcoins have risen by more than 40%.</p><p>However, the longer-term columns tell a more complicated story. Only Zcash, Polygon and Bittensor are positive for 2026, and Zcash is the only asset in the table with a positive one-year return.</p><p>This suggests that risk appetite has returned quickly, but much of the market is still recovering from earlier losses rather than establishing a completely new long-term growth cycle.</p><p>Zcash is the clear outlier</p><p>Zcash stands far above the rest of the group:</p><ul><li><p>One month: +72.97%</p></li><li><p>Three months: +30.04%</p></li><li><p>Six months: +252.58%</p></li><li><p>2026 year to date: +65.73%</p></li><li><p>One year: +1,885.67%</p></li></ul><p>Most tokens in the table show a recent rebound inside a much weaker one-year performance. Zcash is different because its strength appears across every major timeframe.</p><p>Its proposed Grayscale ETF conversion has provided a clear asset-specific catalyst, while the extraordinary one-year gain helps explain why speculative interest has become so intense. It also means expectations are already elevated, so the size of the past gain should not be mistaken for evidence that the same performance can continue.</p><p>Altcoins are outperforming Bitcoin over the latest month</p><p>Bitcoin gained 25.55% over one month, a powerful move on its own. Yet it ranks only fifteenth in this particular table because many altcoins moved even faster.</p><p>Notable monthly performances include:</p><ul><li><p>Polygon: +51.79%</p></li><li><p>Aave: +41.46%</p></li><li><p>Chainlink: +41.12%</p></li><li><p>XRP: +38.53%</p></li><li><p>Cardano: +37.64%</p></li><li><p>Solana: +36.91%</p></li><li><p>Ethereum: +34.39%</p></li></ul><p>This is a sign that traders are becoming more willing to move beyond Bitcoin and accept greater risk. Smaller or more volatile tokens often rise faster when market confidence improves.</p><p>It is still too early to describe this as a complete altcoin recovery. Bitcoin is down only 8.13% in 2026, while Ethereum, Solana, XRP and many other major altcoins remain between approximately 16% and 19% lower for the year.</p><p>The monthly data show expanding risk appetite. The year-to-date data show that the repair remains incomplete.</p><p>DeFi and crypto infrastructure are showing meaningful strength</p><p>The rebound is not limited to meme tokens.</p><p>Aave has gained 51.58% over three months, the strongest quarterly performance in the table. Uniswap is up 30.25% over the same period, while Chainlink has gained 25.38% over three months and 38.61% over six months.</p><p>That combination suggests renewed interest in decentralized finance and blockchain infrastructure, not only short-term speculation.</p><p>However, all three remain negative over one year. Aave is down 62.48%, Chainlink is down 54.69%, and Uniswap is down 59.51%. Their recent gains therefore represent an important recovery, but not yet a complete reversal of the longer-term damage.</p><p>Meme-token rebounds require extra context</p><p>The TRUMP token is the second-strongest monthly performer, with a gain of 56.06%. It is also up 7.99% for the week.</p><p>Those numbers look impressive until they are compared with its 48.11% year-to-date loss and 71.81% one-year decline.</p><p>A similar pattern appears in Dogecoin and Shiba Inu:</p><ul><li><p>Dogecoin: +32.24% for the month, but -60.14% over one year</p></li><li><p>Shiba Inu: +35.07% for the month, but -56.22% over one year</p></li></ul><p>These are good examples of why a strong monthly return does not automatically mean an asset has repaired its longer-term trend. A token that has fallen heavily can produce a dramatic percentage rebound while remaining far below its earlier value.</p><p>Some rebounds still look more like relief than recovery</p><p>Bitcoin Cash has gained 30.69% over one month, but it remains down 20.16% over three months, 44.94% over six months and 53.71% in 2026.</p><p>Sonic tells an even more extreme story. It has risen 24.72% over the month, but remains down 60.60% year to date and 91.41% over one year.</p><p>Avalanche has also gained 22.28% over the month, while remaining negative over three months, six months, the year to date and the full year.</p><p>These performances may reflect bargain hunting, short covering or returning speculation. They do not yet carry the same multi-timeframe strength shown by Zcash.</p><p>Which assets show the strongest broader resilience?</p><p>Only three assets in the snapshot are positive for 2026:</p><ul><li><p>Zcash: +65.73%</p></li><li><p>Polygon: +18.15%</p></li><li><p>Bittensor: +10.63%</p></li></ul><p>Chainlink is relatively close to recovering its year-to-date decline at -3.18%.</p><p>Among the larger cryptocurrencies, BNB has shown notable longer-term resilience. It remains down 18.41% over one year, compared with Bitcoin's 28.82% decline and losses of roughly 47% to 52% for Ethereum, XRP and Solana.</p><p>The overall crypto story from this data</p><p>This is a broad and powerful monthly rebound. Even Uniswap, the weakest monthly performer in the table, has gained 17.82%.</p><p>But the recovery becomes much narrower as the timeframe expands:</p><ul><li><p>All 18 assets are positive over one month.</p></li><li><p>Only three are positive in 2026.</p></li><li><p>Only Zcash is positive over one year.</p></li></ul><p>The market appears to be moving from defensive positioning toward greater risk-taking. Bitcoin is participating, major altcoins are accelerating, and interest is spreading into DeFi, infrastructure and speculative tokens.</p><p>The central question is whether this monthly strength can survive long enough to improve the quarterly and year-to-date results. Until that happens, the data describe a strong rebound with selective leadership, not a complete recovery across the crypto market.</p><p>What is a crypto short liquidation?</p><p>A short position is a bet that an asset's price will fall. If the price rises far enough, an exchange may automatically close the position because the trader no longer has enough collateral to support it.</p><p>Closing a short requires buying back the asset. When many short positions are closed at the same time, that forced buying can push the market higher and trigger more liquidations. This feedback loop is known as a short squeeze.</p><p>Reports indicated that more than $3 billion in crypto short positions were liquidated during part of the latest rally. That figure normally refers to the notional value of positions closed, not the exact cash amount traders personally lost.</p><p>What this means: Short liquidations can make a rally move very quickly, but forced buying is not the same as steady investment demand. Once the forced buying fades, the market needs voluntary buyers to sustain interest.</p><p>Which crypto news signals matter next?</p><p>ETF follow-throughSeveral additional weeks of Bitcoin and Ethereum ETF inflows would provide stronger evidence that regulated investment demand has changed, while a quick return to outflows would weaken that conclusion.</p><p>Ethereum treasury activityFurther corporate purchases would support the idea that ETH has a demand story separate from Bitcoin. Funding choices and concentration risks at large treasury companies also deserve attention.</p><p>Final US rules, not only proposalsThe market should distinguish public proposals and committee discussions from finalized SEC or CFTC rules. Progress on the CLARITY Act would be a separate and potentially more durable development.</p><p>Real network usage after upgradesSolana's faster slot time is technically meaningful, but the longer-term test is whether users and applications experience better reliability and faster confirmations without new stability problems.</p><p>Spot demand versus leverage in altcoinsWhen an altcoin's futures activity greatly exceeds spot activity, the move may be more speculative. Spot participation and a concrete catalyst can help separate broader demand from short-lived excitement.</p><p>The practical crypto read</p><p>The crypto news backdrop is stronger than it was earlier in August. Regulated fund flows returned, Ethereum attracted major treasury demand, US agencies proposed clearer rules, Solana delivered the first stage of a speed upgrade, and Zcash gained an asset-specific product catalyst.</p><p>The evidence is encouraging, but it is not all the same quality. ETF inflows and corporate accumulation represent voluntary demand. Short liquidations represent forced buying. Regulatory proposals show direction, but not final law. Network upgrades improve infrastructure, but do not guarantee adoption.</p><p>That is the most useful way to read the current market: separate lasting demand from leverage, confirmed policy from proposals, and real product developments from social-media hype.</p><p>For continuing coverage of these developments, visit the <a href=\"https://investinglive.com/cryptocurrency/\" rel=\"follow\">investingLive cryptocurrency section</a>.</p><p>Crypto market update FAQs</p><p>Why do spot crypto ETF inflows matter?</p><p>They show that money is entering regulated investment products linked to Bitcoin or Ethereum. They can reflect stronger demand from institutions and traditional brokerage investors, but they do not guarantee future returns.</p><p>Are ETF inflows the same as a short squeeze?</p><p>No. ETF inflows represent investors choosing to allocate money to funds. A short squeeze involves traders being forced to buy back assets when bearish positions move against them.</p><p>Does Solana's 350-millisecond slot time mean the network has more capacity?</p><p>Not automatically. The immediate change is faster block timing and potentially quicker confirmations. Total capacity depends on other technical limits and network performance.</p><p>Has the CLARITY Act become US law?</p><p>No. The legislation remains stalled in the Senate as of August 25, 2026. US agencies are advancing separate regulatory proposals while Congress continues to debate a longer-lasting framework.</p>\n                            This article was written by Itai Levitan at investinglive.com.",
+      "headline": "今日加密货币新闻：ETF 流入、以太坊需求和美国监管提振市场情绪",
+      "summary": "<p>今天为交易者和投资者提供的重要加密新闻</p><ul><li><p>美国现货比特币和以太坊 ETF 在 8 月 17 日至 21 日当周共吸引了约 26 亿美元，这是自 2025 年 10 月以来最强劲的一周。</p></li><li><p>以太坊需求来自两个方向：近 7 亿美元进入现货 ET",
       "source": "Forexlive",
       "url": "https://investinglive.com/cryptocurrency/crypto-news-today-etf-inflows-ethereum-demand-and-us-regulation-lift-sentiment/",
       "datetime": 1787634310,
@@ -611,8 +638,8 @@
       "related": ""
     },
     {
-      "headline": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
-      "summary": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
+      "headline": "BNB Chain激活巴斯德硬分叉，加强桥梁安全",
+      "summary": "BNB 链激活 BSC 上的巴斯德硬分叉，缩小桥梁和验证器的安全漏洞，同时瞄准更大的交易容量。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787630189,
@@ -620,8 +647,8 @@
       "related": ""
     },
     {
-      "headline": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-      "summary": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
+      "headline": "韩国银行利用 Ripple 进行支付，巴基斯坦开放加密货币许可：Asia Express",
+      "summary": "亚洲最大的加密货币中心陷入了减税军备竞赛，而 Ripple 将帮助韩国全北银行跨境转移资金。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787623435,
@@ -629,7 +656,7 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+      "headline": "随着加密货币复苏加速，比特币自 5 月份以来首次触及 80,000 美元",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
@@ -638,8 +665,8 @@
       "related": ""
     },
     {
-      "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
-      "summary": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+      "headline": "洛杉矶湖人队价值 125 亿美元的“每一点”标价：76 人队和指挥官队老板乔什·哈里斯",
+      "summary": "洛杉矶湖人队以 125 亿美元的价格创下了职业球队售价的新纪录，体育投资人乔什·哈里斯 (Josh Harris) 表示，这支球队“物有所值”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
       "datetime": 1787611876,
@@ -647,8 +674,8 @@
       "related": ""
     },
     {
-      "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "summary": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
+      "headline": "吉姆·克莱默 (Jim Cramer) 表示，股票投资者需要了解债券市场",
+      "summary": "克莱默表示，投资者应关注长期国债收益率，由于通胀担忧、政府借款和人工智能相关企业债券发行，长期国债收益率已飙升。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
       "datetime": 1787611201,
@@ -656,8 +683,8 @@
       "related": ""
     },
     {
-      "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-      "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+      "headline": "派拉蒙首席执行官大卫·埃里森 (David Ellison) 正处于收购 WBD 之前的最后一个障碍。至今他还无法澄清",
+      "summary": "一群州总检察长发起的反垄断挑战迫使派拉蒙首席执行官大卫·埃里森寻找途径来完成 WBD 交易。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
       "datetime": 1787608585,
@@ -665,8 +692,8 @@
       "related": ""
     },
     {
-      "headline": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+      "headline": "Main Street Sports 起诉 Comcast、Charter 少付许可费",
+      "summary": "自今年早些时候 NHL 和 NBA 赛季结束以来，Main Street 一直在缩减其区域体育网络的投资组合。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
       "datetime": 1787608405,
@@ -674,8 +701,8 @@
       "related": ""
     },
     {
-      "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
-      "summary": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
+      "headline": "美国商品期货交易委员会 (CFTC) 与美国士兵被指控非法进行 Polymarket 投注，并就预测市场的解释发生争执",
+      "summary": "一名法官搁置了商品期货交易委员会针对一名士兵的民事案件，该士兵涉嫌使用非公开信息进行 Polymarket 投注，但监管机构正在试图对刑事案件进行权衡。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787607193,
@@ -683,8 +710,8 @@
       "related": ""
     },
     {
-      "headline": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-      "summary": "The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex’s FCM, expanding its prediction-market reach to brokerage clients.",
+      "headline": "Gemini 计划通过 Apex 经纪公司分销加密货币预测市场",
+      "summary": "拟议的交易将使 Gemini 成为通过 Apex 的 FCM 提供的加密货币活动合约的独家场所，从而将其预测市场范围扩大到经纪客户。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787604376,
@@ -692,8 +719,8 @@
       "related": ""
     },
     {
-      "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
-      "summary": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
+      "headline": "Bernstein 看到了新的 USDC 增长周期，设定了 140 美元的 Circle 价格目标",
+      "summary": "Bernstein 指出，USDC 的供应量在 7 天内增加了约 20 亿美元，交易活动增加以及多个可能支持进一步增长的因素。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787601639,
@@ -701,8 +728,8 @@
       "related": ""
     },
     {
-      "headline": "Here's what the charts say about Nvidia's stock heading into earnings",
-      "summary": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
+      "headline": "以下是图表中有关英伟达股票即将盈利的信息",
+      "summary": "我们在周三晚上的英伟达收益报告中看到了闪烁的黄灯。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
       "datetime": 1787601085,
@@ -710,39 +737,12 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "headline": "比特币逼近8万美元，但分析师称下一次回调将是关键",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
       "datetime": 1787600196,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
-      "summary": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787599086,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
-      "summary": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787598708,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "We're downgrading 2 AI stocks — plus, what we need to see to turn more positive",
-      "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/were-downgrading-2-ai-stocks-plus-what-we-need-to-see-.html",
-      "datetime": 1787596856,
-      "category": "top news",
       "related": ""
     }
   ],
@@ -786,7 +786,7 @@
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.6,
     "weekly_score": 28.3,
-    "btc_price": 79265.2,
+    "btc_price": 79230.1,
     "fear_greed": 81,
     "indicators": [
       {
@@ -805,8 +805,8 @@
       },
       {
         "name": "多空比",
-        "value": 0.88,
-        "score": 25,
+        "value": 0.89,
+        "score": 26,
         "weight": 5,
         "group": "daily"
       },
@@ -868,15 +868,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.1,
+        "value": 63,
         "score": 72,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 50.6,
-        "score": 59,
+        "value": 54.5,
+        "score": 60,
         "weight": 4,
         "group": "weekly"
       }
@@ -995,14 +995,14 @@
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
         "likes": 1331,
-        "retweets": 86
+        "retweets": 87
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 736,
-        "retweets": 95
+        "retweets": 96
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1031,14 +1031,14 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 66,
-        "retweets": 6
+        "likes": 138,
+        "retweets": 12
       },
       {
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 347,
+        "likes": 349,
         "retweets": 18
       },
       {
@@ -1068,35 +1068,35 @@
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 8526,
-        "retweets": 883
+        "likes": 9963,
+        "retweets": 1050
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2258,
-        "retweets": 227
+        "likes": 2286,
+        "retweets": 230
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 401,
+        "likes": 408,
         "retweets": 30
       },
       {
         "text": "https://t.co/QXV2g9MhPE",
         "url": "https://x.com/saylor/status/2091923153542840808",
         "time": "Mon Aug 24 16:18:40 +0000 2026",
-        "likes": 2221,
-        "retweets": 360
+        "likes": 2245,
+        "retweets": 362
       },
       {
         "text": "These actions further strengthen $STRC. USD Duration is now 3.9 yrs (+414d) and STRC BTC Credit is 59 bps (-21 bps) assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $77,004. https://t.co/v4NLMZmC78",
         "url": "https://x.com/saylor/status/2091859025172258998",
         "time": "Mon Aug 24 12:03:51 +0000 2026",
-        "likes": 659,
+        "likes": 662,
         "retweets": 37
       }
     ],
@@ -1270,6 +1270,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Thailand moves closer to Bitcoin, Ether ETFs with draft rules",
+        "url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787653214,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
         "url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
         "datetime": 1787643611,
@@ -1291,12 +1297,6 @@
         "headline": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
         "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
         "datetime": 1787635511,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
-        "url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
-        "datetime": 1787619332,
         "source": "CoinDesk"
       }
     ],
