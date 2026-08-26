@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T08:33:55.023Z",
+  "updated_at": "2026-08-26T09:33:08.647Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78964,
-      "change_pct": -1.48
+      "price": 78505,
+      "change_pct": -1.69
     },
     {
       "symbol": "ETH",
-      "price": 2461.03,
-      "change_pct": -1.28
+      "price": 2449.62,
+      "change_pct": -1.52
     },
     {
       "symbol": "SOL",
-      "price": 97.05,
-      "change_pct": -3.89
+      "price": 96.3,
+      "change_pct": -3.95
     },
     {
       "symbol": "HYPE",
-      "price": 82.18,
-      "change_pct": 0.54
+      "price": 81.59,
+      "change_pct": -0.2
     },
     {
       "symbol": "ZEC",
-      "price": 787.63,
-      "change_pct": -7.35
+      "price": 785.07,
+      "change_pct": -7.6
     },
     {
       "symbol": "TAO",
-      "price": 235.39,
-      "change_pct": -1.16
+      "price": 232.42,
+      "change_pct": -2.18
     },
     {
       "symbol": "SKY",
-      "price": 1598.41,
-      "change_pct": -0.82
+      "price": 1576.1,
+      "change_pct": -2
     },
     {
       "symbol": "AAVE",
-      "price": 127.15,
-      "change_pct": -3.05
+      "price": 126.02,
+      "change_pct": -3.29
     },
     {
       "symbol": "BNB",
-      "price": 698.36,
-      "change_pct": -1.3
+      "price": 695.47,
+      "change_pct": -1.04
     },
     {
       "symbol": "NEAR",
-      "price": 1.86,
-      "change_pct": -4.05
+      "price": 1.85,
+      "change_pct": -4.79
     },
     {
       "symbol": "DOGE",
-      "price": 0.086656,
-      "change_pct": -5.19
+      "price": 0.086036,
+      "change_pct": -5.59
     },
     {
       "symbol": "SPACEX",
-      "price": 506.76,
-      "change_pct": 3.41
+      "price": 506.71,
+      "change_pct": 3.15
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "Revolut rolls out euro stablecoin in three European markets",
+      "summary": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787733941,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+      "datetime": 1787731269,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
       "summary": "Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending motion for acquittal and related request for a continuance.",
       "source": "Cointelegraph",
@@ -726,24 +744,6 @@
       "datetime": 1787665730,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-      "summary": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787664600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
-      "summary": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
-      "datetime": 1787662817,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -792,12 +792,12 @@
     }
   ],
   "btc_score": {
-    "score": 47,
+    "score": 45.4,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.7,
-    "weekly_score": 27.3,
-    "btc_price": 78969,
+    "weekly_score": 25.7,
+    "btc_price": 78562.5,
     "fear_greed": 80,
     "indicators": [
       {
@@ -809,8 +809,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00604,
-        "score": 48,
+        "value": 0.008329,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
@@ -837,22 +837,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.329,
-        "score": 58,
+        "value": 0.325,
+        "score": 57,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.98,
+        "value": 1.004,
         "score": 11,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.045,
-        "score": 95,
+        "value": 1.026,
+        "score": 76,
         "weight": 8,
         "group": "weekly"
       },
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.8,
+        "value": 62.5,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -37.9,
-        "score": 35,
+        "value": -34.3,
+        "score": 36,
         "weight": 4,
         "group": "weekly"
       }
@@ -1042,7 +1042,7 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 367,
+        "likes": 372,
         "retweets": 29
       },
       {
@@ -1056,7 +1056,7 @@
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
         "url": "https://x.com/QwQiao/status/2091217716535332935",
         "time": "Sat Aug 22 17:35:31 +0000 2026",
-        "likes": 211,
+        "likes": 212,
         "retweets": 5
       },
       {
@@ -1070,7 +1070,7 @@
         "text": "own either the greatest cashflow-generating monopolies or oligopolies, or the purest non-sovereign store of value. everything in between is midcurve.",
         "url": "https://x.com/QwQiao/status/2090757192827773016",
         "time": "Fri Aug 21 11:05:33 +0000 2026",
-        "likes": 395,
+        "likes": 396,
         "retweets": 25
       }
     ],
@@ -1079,28 +1079,28 @@
         "text": "Bitcoin is Digital Capital. Study it.",
         "url": "https://x.com/saylor/status/2092505791420932522",
         "time": "Wed Aug 26 06:53:52 +0000 2026",
-        "likes": 1499,
-        "retweets": 138
+        "likes": 1904,
+        "retweets": 167
       },
       {
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 32382,
-        "retweets": 3154
+        "likes": 33023,
+        "retweets": 3230
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 21389,
-        "retweets": 2321
+        "likes": 21500,
+        "retweets": 2334
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2738,
+        "likes": 2744,
         "retweets": 292
       },
       {
@@ -1116,7 +1116,7 @@
         "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
         "url": "https://x.com/viktorfischer/status/2092350910660055293",
         "time": "Tue Aug 25 20:38:25 +0000 2026",
-        "likes": 44,
+        "likes": 46,
         "retweets": 3
       },
       {
@@ -1281,6 +1281,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility",
+        "url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
+        "datetime": 1787731269,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
         "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787729431,
@@ -1302,12 +1308,6 @@
         "headline": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
         "url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787681591,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
-        "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787676460,
         "source": "Cointelegraph"
       }
     ],
