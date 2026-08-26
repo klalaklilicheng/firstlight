@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:39:52.829Z",
+  "updated_at": "2026-08-26T08:33:55.023Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78970,
-      "change_pct": -1.94
+      "price": 78964,
+      "change_pct": -1.48
     },
     {
       "symbol": "ETH",
-      "price": 2463.85,
-      "change_pct": -1.43
+      "price": 2461.03,
+      "change_pct": -1.28
     },
     {
       "symbol": "SOL",
-      "price": 97.04,
-      "change_pct": -4.34
+      "price": 97.05,
+      "change_pct": -3.89
     },
     {
       "symbol": "HYPE",
-      "price": 82.07,
-      "change_pct": 0.74
+      "price": 82.18,
+      "change_pct": 0.54
     },
     {
       "symbol": "ZEC",
-      "price": 789.34,
-      "change_pct": -7.75
+      "price": 787.63,
+      "change_pct": -7.35
     },
     {
       "symbol": "TAO",
-      "price": 233.54,
-      "change_pct": -3
+      "price": 235.39,
+      "change_pct": -1.16
     },
     {
       "symbol": "SKY",
-      "price": 1599.69,
-      "change_pct": -0.97
+      "price": 1598.41,
+      "change_pct": -0.82
     },
     {
       "symbol": "AAVE",
-      "price": 127.89,
-      "change_pct": -2.6
+      "price": 127.15,
+      "change_pct": -3.05
     },
     {
       "symbol": "BNB",
-      "price": 698.48,
-      "change_pct": -1.55
+      "price": 698.36,
+      "change_pct": -1.3
     },
     {
       "symbol": "NEAR",
       "price": 1.86,
-      "change_pct": -4.59
+      "change_pct": -4.05
     },
     {
       "symbol": "DOGE",
-      "price": 0.086703,
-      "change_pct": -5.83
+      "price": 0.086656,
+      "change_pct": -5.19
     },
     {
       "symbol": "SPACEX",
       "price": 506.76,
-      "change_pct": 3.49
+      "change_pct": 3.41
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "Tornado Cash developer Roman Storm’s retrial delayed to April 2027",
+      "summary": "Judge Katherine Polk Failla adjourned the retrial in light of Storm’s pending motion for acquittal and related request for a continuance.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/roman-storm-retrial-delayed-april-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787730244,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+      "summary": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787729431,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
       "summary": "",
       "source": "CoinDesk",
@@ -726,24 +744,6 @@
       "datetime": 1787662817,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-      "datetime": 1787662800,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-      "datetime": 1787662800,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -797,7 +797,7 @@
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.7,
     "weekly_score": 27.3,
-    "btc_price": 79019.1,
+    "btc_price": 78969,
     "fear_greed": 80,
     "indicators": [
       {
@@ -809,15 +809,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006204,
+        "value": 0.00604,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.02,
-        "score": 35,
+        "value": 1.01,
+        "score": 34,
         "weight": 5,
         "group": "daily"
       },
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.9,
-        "score": 72,
+        "value": 62.8,
+        "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -39.7,
-        "score": 34,
+        "value": -37.9,
+        "score": 35,
         "weight": 4,
         "group": "weekly"
       }
@@ -1042,7 +1042,7 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 365,
+        "likes": 367,
         "retweets": 29
       },
       {
@@ -1079,35 +1079,35 @@
         "text": "Bitcoin is Digital Capital. Study it.",
         "url": "https://x.com/saylor/status/2092505791420932522",
         "time": "Wed Aug 26 06:53:52 +0000 2026",
-        "likes": 948,
-        "retweets": 93
+        "likes": 1499,
+        "retweets": 138
       },
       {
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 31745,
-        "retweets": 3092
+        "likes": 32382,
+        "retweets": 3154
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 21310,
-        "retweets": 2310
+        "likes": 21389,
+        "retweets": 2321
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2732,
+        "likes": 2738,
         "retweets": 292
       },
       {
         "text": "The network is not abandoning its principles. It is transcending its prejudices.\n\nBitcoin is for everyone.\n\nRead or download The Bitcoin Reformation:\nhttps://t.co/XTJE5k4sMV",
         "url": "https://x.com/saylor/status/2091926158682038633",
         "time": "Mon Aug 24 16:30:36 +0000 2026",
-        "likes": 465,
+        "likes": 466,
         "retweets": 40
       }
     ],
@@ -1116,7 +1116,7 @@
         "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
         "url": "https://x.com/viktorfischer/status/2092350910660055293",
         "time": "Tue Aug 25 20:38:25 +0000 2026",
-        "likes": 43,
+        "likes": 44,
         "retweets": 3
       },
       {
@@ -1152,34 +1152,34 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Cheaper Oil and a Chip Bid Set the Table Before Nvidia Speaks",
+        "url": "https://finnhub.io/api/news?id=bdd5ff242d5acf57f02c5b23519220e818af944279b3c1f3f5ab65b2e2fffb55",
+        "datetime": 1787727653,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "Nvidia Earnings Preview: AI Capex, Blackwell Ramp And 216.40 Bullish Breakout Hold The Key",
+        "url": "https://finnhub.io/api/news?id=e5dfd9a9c7a3047722edb217b4b2b5e56b50750a8d950342f7ecfab59f32308d",
+        "datetime": 1787717700,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "The Deep Unknowns Of AI",
+        "url": "https://finnhub.io/api/news?id=49c2fdfb4b8f477ddec3ad318d577a50fca4171092a596bd62854dea127dc82c",
+        "datetime": 1787716433,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
+        "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2",
+        "datetime": 1787716080,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "These dow jones stocks are moving in today's session",
         "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
         "datetime": 1787685007,
         "source": "ChartMill"
-      },
-      {
-        "headline": "Which S&P500 stocks are the most active on Tuesday?",
-        "url": "https://finnhub.io/api/news?id=a9251f9283b5230d33a2e52ed6096324c868b9a20066ede8525d714353dc782a",
-        "datetime": 1787681101,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "These stocks are the most active in today's session",
-        "url": "https://finnhub.io/api/news?id=ef9d112c99842b5333cb53c3d010e1efd966f64ddf0b9870aa741fdc3383fbbf",
-        "datetime": 1787680800,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "How To Retire: Stop Looking For Magic",
-        "url": "https://finnhub.io/api/news?id=b3ea1d3810b5b37c6bf5bb8f368c1231cd83526444e6d176c1d445c0e6450f8f",
-        "datetime": 1787680101,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Don't Sleep On Software",
-        "url": "https://finnhub.io/api/news?id=d7c7ff30c1b3e55ae13bdb52cc80cbe1f892ae0321e0f9170dd6c952b580763d",
-        "datetime": 1787679300,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
@@ -1216,6 +1216,12 @@
     ],
     "TSLA": [
       {
+        "headline": "AI's Bar Mitzvah Moment: From Hype And Hope To Business Questions",
+        "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2",
+        "datetime": 1787716080,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Which S&P500 stocks are the most active on Tuesday?",
         "url": "https://finnhub.io/api/news?id=a9251f9283b5230d33a2e52ed6096324c868b9a20066ede8525d714353dc782a",
         "datetime": 1787681101,
@@ -1238,12 +1244,6 @@
         "url": "https://finnhub.io/api/news?id=f61f9050df08e9286f04b9b46334336f41c60d0ec60c8b5f6408abbde5dee690",
         "datetime": 1787659379,
         "source": "Benzinga"
-      },
-      {
-        "headline": "BYD Company: Strong Export Growth Underpins Value",
-        "url": "https://finnhub.io/api/news?id=edfbd4ddd9593a5bfffaa795c7a39d4063a6f08cbcad6eef5b62aa0930f31c1b",
-        "datetime": 1787658248,
-        "source": "SeekingAlpha"
       }
     ],
     "CRCL": [
@@ -1281,6 +1281,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Bitcoin ETFs tear through 2026 outflows in 7-day hot streak",
+        "url": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787729431,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
         "url": "https://www.coindesk.com/markets/2026/08/26/E",
         "datetime": 1787723573,
@@ -1302,12 +1308,6 @@
         "headline": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
         "url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787676460,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin slips from $80K as gold cools with falling US bond yields",
-        "url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787670935,
         "source": "Cointelegraph"
       }
     ],
