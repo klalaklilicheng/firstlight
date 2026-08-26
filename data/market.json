@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-26T13:47:32.798Z",
+  "updated_at": "2026-08-26T14:37:01.570Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 704.67,
-      "change_pct": 0.09
+      "price": 703.38,
+      "change_pct": -0.09
     },
     {
       "symbol": "QQQ",
-      "price": 711.67,
-      "change_pct": 0.13
+      "price": 708.96,
+      "change_pct": -0.25
     },
     {
       "symbol": "QQQM",
-      "price": 292.96,
-      "change_pct": 0.1
+      "price": 291.92,
+      "change_pct": -0.25
     },
     {
       "symbol": "NVDA",
-      "price": 213.58,
-      "change_pct": 0.25
+      "price": 210.32,
+      "change_pct": -1.28
     },
     {
       "symbol": "TSLA",
-      "price": 350.54,
-      "change_pct": 0.08
+      "price": 346.17,
+      "change_pct": -1.16
     },
     {
       "symbol": "GOOG",
-      "price": 340.51,
-      "change_pct": -0.82
+      "price": 338.3,
+      "change_pct": -1.47
     },
     {
       "symbol": "RKLB",
-      "price": 67.34,
-      "change_pct": 0.64
+      "price": 66.66,
+      "change_pct": -0.37
     },
     {
       "symbol": "CRCL",
-      "price": 91.92,
-      "change_pct": -0.11
+      "price": 92.01,
+      "change_pct": -0.01
     },
     {
       "symbol": "PLTR",
-      "price": 172.51,
-      "change_pct": -0.13
+      "price": 175.52,
+      "change_pct": 1.62
     },
     {
       "symbol": "MSTR",
-      "price": 125.48,
-      "change_pct": -1.06
+      "price": 123.76,
+      "change_pct": -2.42
     },
     {
       "symbol": "GLD",
-      "price": 423.87,
-      "change_pct": -0.98
+      "price": 423.63,
+      "change_pct": -1.04
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78436,
-      "change_pct": -0.11
-    },
-    {
-      "symbol": "ETH",
-      "price": 2458.31,
-      "change_pct": -0.09
-    },
-    {
-      "symbol": "SOL",
-      "price": 96.68,
-      "change_pct": -0.43
-    },
-    {
-      "symbol": "HYPE",
-      "price": 81.79,
-      "change_pct": 3.12
-    },
-    {
-      "symbol": "ZEC",
-      "price": 776.34,
-      "change_pct": -4.85
-    },
-    {
-      "symbol": "TAO",
-      "price": 231.78,
+      "price": 78185,
       "change_pct": -1.32
     },
     {
+      "symbol": "ETH",
+      "price": 2449.53,
+      "change_pct": -1.18
+    },
+    {
+      "symbol": "SOL",
+      "price": 96.04,
+      "change_pct": -2.18
+    },
+    {
+      "symbol": "HYPE",
+      "price": 81.67,
+      "change_pct": 0.52
+    },
+    {
+      "symbol": "ZEC",
+      "price": 768.74,
+      "change_pct": -7.34
+    },
+    {
+      "symbol": "TAO",
+      "price": 229.5,
+      "change_pct": -3.04
+    },
+    {
       "symbol": "SKY",
-      "price": 1574.33,
-      "change_pct": 0.27
+      "price": 1572.85,
+      "change_pct": -0.62
     },
     {
       "symbol": "AAVE",
-      "price": 124.58,
-      "change_pct": -4.3
+      "price": 123.3,
+      "change_pct": -4.43
     },
     {
       "symbol": "BNB",
-      "price": 701.51,
-      "change_pct": 1.18
+      "price": 698.2,
+      "change_pct": -0.07
     },
     {
       "symbol": "NEAR",
       "price": 1.84,
-      "change_pct": -2.95
+      "change_pct": -4.89
     },
     {
       "symbol": "DOGE",
-      "price": 0.08594,
-      "change_pct": -3.28
+      "price": 0.085131,
+      "change_pct": -4.64
     },
     {
       "symbol": "SPACEX",
-      "price": 504.63,
-      "change_pct": 3.05
+      "price": 504.35,
+      "change_pct": 2.1
     }
   ],
   "earnings": {
@@ -476,21 +476,39 @@
   },
   "news": [
     {
+      "headline": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
+      "summary": "The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787751000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+      "datetime": 1787751000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "The evidence doesn't support the banks' case against stablecoin rewards",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+      "datetime": 1787749200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Students want crypto classes but learn on social media: OKX survey",
       "summary": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787749200,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "summary": "It's a monumental day of earnings, led by Nvidia.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1787748938,
-      "category": "top news",
       "related": ""
     },
     {
@@ -509,15 +527,6 @@
       "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1787745600,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
-      "summary": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/26/medical-device-maker-boston-scientific-is-being-hit-by-a-cyber-attack-the-shares-are-falling.html",
-      "datetime": 1787745389,
-      "category": "top news",
       "related": ""
     },
     {
@@ -728,21 +737,12 @@
       "related": ""
     },
     {
-      "headline": "2 of our software stocks face major tests of whether their rallies are for real",
-      "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
-      "datetime": 1787689632,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-      "summary": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
-      "datetime": 1787687563,
-      "category": "top news",
+      "headline": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+      "datetime": 1787686800,
+      "category": "crypto",
       "related": ""
     }
   ],
@@ -757,18 +757,7 @@
     },
     {
       "company": "OpenAI",
-      "news": [
-        {
-          "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
-          "url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
-          "datetime": 1787684515
-        },
-        {
-          "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-          "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-          "datetime": 1787656869
-        }
-      ]
+      "news": []
     },
     {
       "company": "宇树科技",
@@ -792,12 +781,12 @@
     }
   ],
   "btc_score": {
-    "score": 45.7,
+    "score": 45.8,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.8,
-    "weekly_score": 25.9,
-    "btc_price": 78280.8,
+    "weekly_score": 26,
+    "btc_price": 78154.7,
     "fear_greed": 80,
     "indicators": [
       {
@@ -809,8 +798,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00738,
-        "score": 49,
+        "value": 0.005653,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -879,15 +868,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.2,
+        "value": 62.1,
         "score": 70,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -11.9,
-        "score": 42,
+        "value": -4.5,
+        "score": 44,
         "weight": 4,
         "group": "weekly"
       }
@@ -1005,14 +994,14 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1336,
-        "retweets": 89
+        "likes": 1347,
+        "retweets": 92
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 737,
+        "likes": 738,
         "retweets": 96
       },
       {
@@ -1043,7 +1032,7 @@
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
         "likes": 372,
-        "retweets": 29
+        "retweets": 28
       },
       {
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
@@ -1063,7 +1052,7 @@
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 398,
+        "likes": 397,
         "retweets": 37
       },
       {
@@ -1079,36 +1068,36 @@
         "text": "Cold-blooded conviction.  https://t.co/I8YwpzVAPo",
         "url": "https://x.com/saylor/status/2092589286377808000",
         "time": "Wed Aug 26 12:25:38 +0000 2026",
-        "likes": 1949,
-        "retweets": 176
+        "likes": 2514,
+        "retweets": 214
       },
       {
         "text": "Bitcoin is Digital Capital. Study it.",
         "url": "https://x.com/saylor/status/2092505791420932522",
         "time": "Wed Aug 26 06:53:52 +0000 2026",
-        "likes": 3125,
-        "retweets": 264
+        "likes": 3266,
+        "retweets": 271
       },
       {
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 35668,
-        "retweets": 3520
+        "likes": 36047,
+        "retweets": 3563
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 21938,
-        "retweets": 2388
+        "likes": 22041,
+        "retweets": 2404
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2759,
-        "retweets": 294
+        "likes": 2764,
+        "retweets": 295
       }
     ],
     "viktorfischer": [
@@ -1116,7 +1105,7 @@
         "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
         "url": "https://x.com/viktorfischer/status/2092350910660055293",
         "time": "Tue Aug 25 20:38:25 +0000 2026",
-        "likes": 49,
+        "likes": 51,
         "retweets": 3
       },
       {
@@ -1152,6 +1141,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
+        "url": "https://finnhub.io/api/news?id=d4635b115859deb0a8ace9f2448781b896865820ed1ea9b645280b488285fb2e",
+        "datetime": 1787736075,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Why Amazon's Earnings Matter For Nvidia's Outlook",
         "url": "https://finnhub.io/api/news?id=605b07496038751bdcf6893d550beb3dcdef7cc203d959ecfb120f16ab048c6c",
         "datetime": 1787732100,
@@ -1174,15 +1169,15 @@
         "url": "https://finnhub.io/api/news?id=8552f760fa590f924bb521d88400a9689c2c2a7bf5bc3fc6aa6993d770f15ac7",
         "datetime": 1787721600,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nvidia Earnings Preview: AI Capex, Blackwell Ramp And 216.40 Bullish Breakout Hold The Key",
-        "url": "https://finnhub.io/api/news?id=e5dfd9a9c7a3047722edb217b4b2b5e56b50750a8d950342f7ecfab59f32308d",
-        "datetime": 1787717700,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "SpaceX: Explosive Growth Still Can't Justify This Stock Price",
+        "url": "https://finnhub.io/api/news?id=d4635b115859deb0a8ace9f2448781b896865820ed1ea9b645280b488285fb2e",
+        "datetime": 1787736075,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Big Tech Off-Balance Sheet Concerns",
         "url": "https://finnhub.io/api/news?id=a8f293655772bd08531737d5b9ab41904b5ef1c8de5759ac31e2a1d6cdb4ef23",
@@ -1205,12 +1200,6 @@
         "headline": "Broadcom: Moving Big Into Vendor Financing",
         "url": "https://finnhub.io/api/news?id=1e3a378c6c5ede2d5185cdc9938738b11f392691a0fd607ae87896267a54b8a3",
         "datetime": 1787678675,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
-        "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60",
-        "datetime": 1787672208,
         "source": "SeekingAlpha"
       }
     ],
@@ -1313,6 +1302,12 @@
     ],
     "ETH": [
       {
+        "headline": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
+        "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+        "datetime": 1787751000,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
         "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
         "datetime": 1787659435,
@@ -1383,6 +1378,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Shhh... It’s Confidential — Ep. 2 | NEAR Intents ft. RocketX, near(.)com &amp; ShieldSwap",
+        "url": "https://x.com/NEARProtocol/status/2092614473177571670",
+        "datetime": 1787753143,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Confidential Intents is now integrated into @unstoppablebyhs.\n\nPrivate Send, Unstoppable Wallet’s new feature, is powered by NEAR Intents’ Confidential Execution, enabling users to send supported asse",
         "url": "https://x.com/NEARProtocol/status/2092589329155596316",
         "datetime": 1787747149,
@@ -1392,12 +1393,6 @@
         "headline": "Illia Polosukhin on NEAR’s AI money thesis: staking NEAR unlocks access to confidential inference and IronClaw’s always-on agents.\n\nNEAR is your access key to user-owned intelligence.",
         "url": "https://x.com/NEARProtocol/status/2092362641528217992",
         "datetime": 1787693102,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR Co-Founder @ilblackdragon joined @Unchained_pod to unpack the post-quantum debate splitting the industry: lattice-based vs hash-based cryptography.\n\nFull conversation below:",
-        "url": "https://x.com/NEARProtocol/status/2092330231587639629",
-        "datetime": 1787685375,
         "source": "@NEARProtocol"
       }
     ],
