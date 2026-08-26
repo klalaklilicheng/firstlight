@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-26T18:52:32.287Z",
+  "updated_at": "2026-08-26T21:31:15.078Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 704.38,
-      "change_pct": 0.05
+      "price": 704.2,
+      "change_pct": 0.03
     },
     {
       "symbol": "QQQ",
-      "price": 711.77,
-      "change_pct": 0.15
+      "price": 711.37,
+      "change_pct": 0.09
     },
     {
       "symbol": "QQQM",
-      "price": 293.1,
-      "change_pct": 0.15
+      "price": 292.9,
+      "change_pct": 0.08
     },
     {
       "symbol": "NVDA",
-      "price": 211.1,
-      "change_pct": -0.92
+      "price": 209.66,
+      "change_pct": -1.59
     },
     {
       "symbol": "TSLA",
-      "price": 346.08,
-      "change_pct": -1.19
+      "price": 345.82,
+      "change_pct": -1.26
     },
     {
       "symbol": "GOOG",
-      "price": 338.64,
-      "change_pct": -1.37
+      "price": 339.1,
+      "change_pct": -1.23
     },
     {
       "symbol": "RKLB",
-      "price": 66.38,
-      "change_pct": -0.79
+      "price": 66.18,
+      "change_pct": -1.09
     },
     {
       "symbol": "CRCL",
-      "price": 90.24,
-      "change_pct": -1.93
+      "price": 89.91,
+      "change_pct": -2.29
     },
     {
       "symbol": "PLTR",
-      "price": 177.84,
-      "change_pct": 2.96
+      "price": 177.5,
+      "change_pct": 2.76
     },
     {
       "symbol": "MSTR",
-      "price": 123.77,
-      "change_pct": -2.41
+      "price": 123.19,
+      "change_pct": -2.87
     },
     {
       "symbol": "GLD",
-      "price": 421.61,
-      "change_pct": -1.51
+      "price": 421.32,
+      "change_pct": -1.58
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78393,
-      "change_pct": -1.01
+      "price": 78728,
+      "change_pct": 0.36
     },
     {
       "symbol": "ETH",
-      "price": 2467.84,
-      "change_pct": -0.01
+      "price": 2495.39,
+      "change_pct": 2.57
     },
     {
       "symbol": "SOL",
-      "price": 96.79,
-      "change_pct": -1.86
+      "price": 97.62,
+      "change_pct": 0.96
     },
     {
       "symbol": "HYPE",
-      "price": 80.98,
-      "change_pct": -1.67
+      "price": 81.67,
+      "change_pct": 3.6
     },
     {
       "symbol": "ZEC",
-      "price": 779.21,
-      "change_pct": -2.54
+      "price": 788.57,
+      "change_pct": 3.13
     },
     {
       "symbol": "TAO",
-      "price": 228.67,
-      "change_pct": -2.96
+      "price": 231.57,
+      "change_pct": 1.21
     },
     {
       "symbol": "SKY",
-      "price": 1579.48,
-      "change_pct": 0.73
+      "price": 1576.23,
+      "change_pct": 1.99
     },
     {
       "symbol": "AAVE",
-      "price": 123.75,
-      "change_pct": -3.71
+      "price": 125.1,
+      "change_pct": -1.04
     },
     {
       "symbol": "BNB",
-      "price": 697.93,
-      "change_pct": -0.26
+      "price": 702.39,
+      "change_pct": 1.54
     },
     {
       "symbol": "NEAR",
-      "price": 1.83,
-      "change_pct": -3.42
+      "price": 1.87,
+      "change_pct": 0.38
     },
     {
       "symbol": "DOGE",
-      "price": 0.084986,
-      "change_pct": -4.36
+      "price": 0.085967,
+      "change_pct": -0.23
     },
     {
       "symbol": "SPACEX",
-      "price": 512.86,
-      "change_pct": 3.27
+      "price": 516.16,
+      "change_pct": 1.86
     }
   ],
   "earnings": {
@@ -476,6 +476,24 @@
   },
   "news": [
     {
+      "headline": "Okta pops 15% after topping estimates as AI threat spikes demand for identity security",
+      "summary": "New products accounted for 30% of total bookings and Okta said it closed dozens of AI deals during the period",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+      "datetime": 1787775205,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+      "summary": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787774963,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Micron elevates two executives. Plus, what the Meta settlement means for its top line",
       "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
@@ -726,24 +744,6 @@
       "datetime": 1787740972,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
-      "summary": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787739344,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-      "datetime": 1787738623,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -792,12 +792,12 @@
     }
   ],
   "btc_score": {
-    "score": 45,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
+    "score": 45.1,
+    "level": "中性",
+    "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.9,
-    "weekly_score": 25.1,
-    "btc_price": 78403.5,
+    "weekly_score": 25.2,
+    "btc_price": 78709.3,
     "fear_greed": 80,
     "indicators": [
       {
@@ -809,15 +809,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.008723,
+        "value": 0.008022,
         "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.05,
-        "score": 37,
+        "value": 1.07,
+        "score": 38,
         "weight": 5,
         "group": "daily"
       },
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.3,
+        "value": 62.6,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89.5,
-        "score": 20,
+        "value": -84.1,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1005,7 +1005,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1415,
+        "likes": 1422,
         "retweets": 102
       },
       {
@@ -1079,35 +1079,35 @@
         "text": "Cold-blooded conviction.  https://t.co/I8YwpzVAPo",
         "url": "https://x.com/saylor/status/2092589286377808000",
         "time": "Wed Aug 26 12:25:38 +0000 2026",
-        "likes": 3911,
-        "retweets": 353
+        "likes": 4277,
+        "retweets": 383
       },
       {
         "text": "Bitcoin is Digital Capital. Study it.",
         "url": "https://x.com/saylor/status/2092505791420932522",
         "time": "Wed Aug 26 06:53:52 +0000 2026",
-        "likes": 3885,
-        "retweets": 332
+        "likes": 4130,
+        "retweets": 352
       },
       {
         "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
         "url": "https://x.com/saylor/status/2092277359034458361",
         "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 37608,
-        "retweets": 3724
+        "likes": 38307,
+        "retweets": 3782
       },
       {
         "text": "Get out of ₿ed. https://t.co/TdSz6i6kBH",
         "url": "https://x.com/saylor/status/2092138553736135089",
         "time": "Tue Aug 25 06:34:35 +0000 2026",
-        "likes": 22443,
-        "retweets": 2451
+        "likes": 22671,
+        "retweets": 2468
       },
       {
         "text": "Bitcoin is not abandoning its principles. It is transcending its prejudices.",
         "url": "https://x.com/saylor/status/2091991190405038414",
         "time": "Mon Aug 24 20:49:01 +0000 2026",
-        "likes": 2781,
+        "likes": 2786,
         "retweets": 296
       }
     ],
@@ -1116,7 +1116,7 @@
         "text": "So happy to welcome @AustinBarack and @RelayerCapital to the @RockawayX family - now 60+ team members across 5 continents - not colleagues but friends working together to push the boundaries of on-chain finance ✌️\n\nFor founders this means one partner for the whole journey: VC",
         "url": "https://x.com/viktorfischer/status/2092350910660055293",
         "time": "Tue Aug 25 20:38:25 +0000 2026",
-        "likes": 56,
+        "likes": 57,
         "retweets": 3
       },
       {
@@ -1152,6 +1152,12 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Explore the top gainers and losers within the dow jones index in today's session.",
+        "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
+        "datetime": 1787771406,
+        "source": "ChartMill"
+      },
+      {
         "headline": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
         "url": "https://finnhub.io/api/news?id=c710f4da94ba6b1816de5555e8b2151446aae51f52ce20fa254d5a2921bdc8fd",
         "datetime": 1787767501,
@@ -1170,19 +1176,25 @@
         "source": "ChartMill"
       },
       {
-        "headline": "SoftBank: A Discounted Bet On The Entire AI Stack",
-        "url": "https://finnhub.io/api/news?id=b0151f2b2730b4fffa3538733f7921ed3bd5a34daf40df0794bfe5cf02bdbfbb",
-        "datetime": 1787755064,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "AI Bubble Alert: The Rubber Hits The Road In 2027",
-        "url": "https://finnhub.io/api/news?id=f6018372a73257397902f83f94ec08db28d77e3e15820591182a0a76c1a5bcab",
-        "datetime": 1787752561,
+        "headline": "SpaceX: FOMO Is The Ultimate Wealth Destroyer",
+        "url": "https://finnhub.io/api/news?id=f2260c546e2d5d205ecd6228daee28ea77855a569dc0d52fd6b41731ff945040",
+        "datetime": 1787759200,
         "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet Stock Dips Wednesday as Investors Weigh AI Spending Against Cloud Growth",
+        "url": "https://finnhub.io/api/news?id=1dbbbd79949df8b4e2d169ae00b761bd98851f15ecb988f1faef94de16bf2c4f",
+        "datetime": 1787752283,
+        "source": "Benzinga"
+      },
+      {
+        "headline": "Google Selects 28 AI Energy Startups For Accelerator In North America And Europe; 2026 Accelerator Cohort To Use AI For Energy Efficiency And Grid Modernizatio",
+        "url": "https://finnhub.io/api/news?id=7da043046b8c41eb3d371ce349d06079068a984a7804d06947509ba41e57b144",
+        "datetime": 1787751362,
+        "source": "Benzinga"
+      },
       {
         "headline": "Broadcom Is The New Nvidia, And That's The Problem",
         "url": "https://finnhub.io/api/news?id=e1c1e0d11f02d847fa2f3da08bc17299451bda89bf10efc19cb8b201d06b0484",
@@ -1190,28 +1202,16 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "The Government Took Equity In Quantum Stocks, So Should We",
-        "url": "https://finnhub.io/api/news?id=526b9cab301084be2bd6dff7af650538fa06a5242359ebf2c95023bd0bb9e74d",
-        "datetime": 1787747163,
-        "source": "SeekingAlpha"
+        "headline": "'Nscale Will Use NVIDIA's Vera Rubin Chips, Which Will Start To Come Online Late Next Year, To Meet Anthropic’s Needs' - Bloomberg News",
+        "url": "https://finnhub.io/api/news?id=959b48fa3dbff2027c4d5cc441704d76db6739e56937d96096b2b36574da8506",
+        "datetime": 1787750432,
+        "source": "Benzinga"
       },
       {
-        "headline": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook",
-        "url": "https://finnhub.io/api/news?id=ed0641981f09fed7e00b31bcacc65f5f7d2e916eaf2c7bd9be37e6d0669fe4e0",
-        "datetime": 1787745601,
-        "source": "CNBC"
-      },
-      {
-        "headline": "ASC 842 Is About To Drop A Bomb On AI Hype",
-        "url": "https://finnhub.io/api/news?id=5a62231603660e362fa7ccc54abcfdcdb7cf826d42dacfd1052d6ff96b1982b2",
-        "datetime": 1787745520,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "3% Real Yields Are Changing How Retirees Should Invest",
-        "url": "https://finnhub.io/api/news?id=ec6f0e12d4caa3a4c7bfeceda7c45f0259d90bcd65a7cf2f6df39ebc255873f0",
-        "datetime": 1787745460,
-        "source": "SeekingAlpha"
+        "headline": "'Anthropic to Pay Nscale $45 Billion for AI Computing Power' - Bloomberg",
+        "url": "https://finnhub.io/api/news?id=6901e062ecece73daa4633570663715ae9d348277f09ba2ca904f277e0277f93",
+        "datetime": 1787750070,
+        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1228,6 +1228,12 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
+        "url": "https://finnhub.io/api/news?id=a85b7f6f2b36db6845325910aa53dd8c771a1724b70f359cb8e1af14cc3d4a5c",
+        "datetime": 1787749009,
+        "source": "Benzinga"
+      },
+      {
         "headline": "ROBO: For Diversified Exposure In Robotics At Reasonable Valuations",
         "url": "https://finnhub.io/api/news?id=930683f8d11453ce7cc0c9af044a3cb2389f347a5d65d65551d00234a7535470",
         "datetime": 1787731200,
@@ -1238,12 +1244,6 @@
         "url": "https://finnhub.io/api/news?id=33050069b185f62edc20d73ca7c1b76aac2cbd08e64f3ac8bac0a4c87663ecf2",
         "datetime": 1787716080,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a Sickness'",
-        "url": "https://finnhub.io/api/news?id=1d96a7dd4a638fca9ac9faa8a9f67aeb170e5763c3173c4d2b2bade3e32b6e44",
-        "datetime": 1787704067,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1281,6 +1281,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Better launches Bitcoin-backed mortgages powered by Coinbase",
+        "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1787774963,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Bitcoin dips below $78K as stocks, gold fall on higher US PCE Inflation data",
         "url": "https://cointelegraph.com/markets/bitcoin-dips-below-78k-as-stocks-gold-fall-on-higher-us-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787759935,
@@ -1303,12 +1309,6 @@
         "url": "https://cointelegraph.com/markets/supply-absorption-key-question-as-bitcoin-fails-to-reclaim-80k-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787741366,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
-        "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
-        "datetime": 1787741129,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1389,6 +1389,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Value and users are already fragmented across dozens of chains. How a network connects to the others determines whether it's an island or the connective tissue.\n\nThe historical answer, bridges that lo",
+        "url": "https://x.com/NEARProtocol/status/2092708148209504418",
+        "datetime": 1787775477,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Shhh... It’s Confidential — Ep. 2 | NEAR Intents ft. RocketX, near(.)com &amp; ShieldSwap",
         "url": "https://x.com/NEARProtocol/status/2092614473177571670",
         "datetime": 1787753143,
@@ -1398,12 +1404,6 @@
         "headline": "Confidential Intents is now integrated into @unstoppablebyhs.\n\nPrivate Send, Unstoppable Wallet’s new feature, is powered by NEAR Intents’ Confidential Execution, enabling users to send supported asse",
         "url": "https://x.com/NEARProtocol/status/2092589329155596316",
         "datetime": 1787747149,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Illia Polosukhin on NEAR’s AI money thesis: staking NEAR unlocks access to confidential inference and IronClaw’s always-on agents.\n\nNEAR is your access key to user-owned intelligence.",
-        "url": "https://x.com/NEARProtocol/status/2092362641528217992",
-        "datetime": 1787693102,
         "source": "@NEARProtocol"
       }
     ],
