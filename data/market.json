@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T23:24:55.833Z",
+  "updated_at": "2026-08-28T08:11:42.377Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 36.92,
-      "change_pct": 3.13
+      "price": 35.25,
+      "change_pct": -4.52
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 80326,
-      "change_pct": 2.03
+      "price": 79784,
+      "change_pct": -0.02
     },
     {
       "symbol": "ETH",
-      "price": 2513.85,
-      "change_pct": 0.75
+      "price": 2498.73,
+      "change_pct": -1.03
     },
     {
       "symbol": "SOL",
-      "price": 109.41,
-      "change_pct": 8.7
+      "price": 106.47,
+      "change_pct": 2.67
     },
     {
       "symbol": "HYPE",
-      "price": 85.08,
-      "change_pct": 3.65
+      "price": 84.48,
+      "change_pct": 2.87
     },
     {
       "symbol": "ZEC",
-      "price": 816.3,
-      "change_pct": 0.01
+      "price": 793.38,
+      "change_pct": -0.09
     },
     {
       "symbol": "TAO",
-      "price": 254.63,
-      "change_pct": 9.4
+      "price": 246.31,
+      "change_pct": -1.72
     },
     {
       "symbol": "SKY",
-      "price": 1581.66,
-      "change_pct": 0.38
+      "price": 1575.02,
+      "change_pct": -1.36
     },
     {
       "symbol": "AAVE",
-      "price": 128.21,
-      "change_pct": 1.39
+      "price": 125.94,
+      "change_pct": -2.23
     },
     {
       "symbol": "BNB",
-      "price": 712.48,
-      "change_pct": 0.99
+      "price": 708.46,
+      "change_pct": -0.35
     },
     {
       "symbol": "NEAR",
-      "price": 1.94,
-      "change_pct": 2.16
+      "price": 1.87,
+      "change_pct": -1.8
     },
     {
       "symbol": "DOGE",
-      "price": 0.089155,
-      "change_pct": 2.57
+      "price": 0.087571,
+      "change_pct": -1.24
     },
     {
       "symbol": "SPACEX",
-      "price": 533.96,
-      "change_pct": 3.46
+      "price": 533.37,
+      "change_pct": 1.37
     }
   ],
   "earnings": {
@@ -130,12 +130,12 @@
         "date": "2026-11-17",
         "quarter": 3,
         "year": 2027,
-        "eps_estimate": 2.4084,
-        "revenue_estimate": 105666899459
+        "eps_estimate": 2.4659,
+        "revenue_estimate": 108129157692
       },
       "history": [
         {
-          "period": "2027-06-30",
+          "period": "2026-09-30",
           "quarter": 2,
           "year": 2027,
           "actual": 2.22,
@@ -257,11 +257,10 @@
     },
     "RKLB": {
       "next": {
-        "date": "2026-11-09",
+        "date": "2026-11-19",
         "quarter": 3,
         "year": 2026,
-        "eps_estimate": -0.0625,
-        "revenue_estimate": 243303292
+        "is_estimate": true
       },
       "history": [
         {
@@ -304,8 +303,8 @@
         "date": "2026-11-10",
         "quarter": 3,
         "year": 2026,
-        "eps_estimate": 0.3016,
-        "revenue_estimate": 785824371
+        "eps_estimate": 0.3624,
+        "revenue_estimate": 795149302
       },
       "history": [
         {
@@ -434,8 +433,8 @@
         "date": "2026-11-16",
         "quarter": 3,
         "year": 2026,
-        "eps_estimate": 0.9615,
-        "revenue_estimate": 2782311169
+        "eps_estimate": 6.4926,
+        "revenue_estimate": 18786999129
       },
       "history": [
         {
@@ -450,9 +449,9 @@
           "period": "2026-03-31",
           "quarter": 1,
           "year": 2026,
-          "actual": 0.24,
-          "estimate": 0.1808,
-          "surprise_pct": 32.7434
+          "actual": 1.66174,
+          "estimate": 1.2397,
+          "surprise_pct": 34.0437
         },
         {
           "period": "2025-12-31",
@@ -475,6 +474,78 @@
     }
   },
   "news": [
+    {
+      "headline": "Visa works with Upbit parent on stablecoin payments, AI commerce",
+      "summary": "Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard’s proposed OUSD among several projects under review.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787902875,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+      "datetime": 1787898610,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Solana’s faster supply cuts lead vote while $800,000 daily burn plan trails",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
+      "datetime": 1787898130,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
+      "summary": "Eligible holders on Base and BNB Chain will receive Ethereum-based SAND from the project’s treasury, with claims expected to open within two weeks.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/the-sandbox-compensation-sand-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787895648,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+      "datetime": 1787893342,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
+      "datetime": 1787892052,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
+      "datetime": 1787890882,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
+      "summary": "Sheikh Tahnoon’s group reportedly backs a 49% stake in the holding company behind World Liberty’s conditionally approved US trust bank.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/abu-dhabi-royal-trump-world-liberty-crypto-bank-wsj?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1787890629,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "Jim Cramer says Nvidia and Salesforce earnings upended two bear narratives",
       "summary": "CNBC’s Jim Cramer said strong earnings from Nvidia and Salesforce shattered two major bear cases that had weighed on the tech stocks.",
@@ -672,78 +743,6 @@
       "datetime": 1787841161,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
-      "datetime": 1787839265,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Ripple Prime expands into US equity derivatives with Delta One business",
-      "summary": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787838862,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
-      "summary": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
-      "datetime": 1787838029,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "This is ‘one of the worst’ credit card habits, experts say—41% of cardholders do it",
-      "summary": "Missing a credit card payment can damage your credit for years, while paying only the minimum can leave you in debt for decades.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
-      "datetime": 1787835602,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Bank of England set for new innovation mandate covering stablecoins",
-      "summary": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1787835119,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "The Clarity Act will put Main Street banks at a disadvantage",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
-      "datetime": 1787833800,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-      "summary": "The policymaker stopped just short of calling for an interest rate hike.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-      "datetime": 1787833230,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-      "datetime": 1787832513,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -767,11 +766,6 @@
           "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
           "url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
           "datetime": 1787684515
-        },
-        {
-          "headline": "OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign",
-          "url": "https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html",
-          "datetime": 1787656869
         }
       ]
     },
@@ -797,45 +791,45 @@
     }
   ],
   "btc_score": {
-    "score": 42.2,
+    "score": 45,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.1,
-    "weekly_score": 25.1,
-    "btc_price": 80355.3,
-    "fear_greed": 81,
+    "daily_score": 19.2,
+    "weekly_score": 25.8,
+    "btc_price": 79820.1,
+    "fear_greed": 82,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 12900000,
-        "score": 51,
+        "value": 242300000,
+        "score": 66,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.00729,
-        "score": 49,
+        "value": 0.01,
+        "score": 50,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 0.92,
-        "score": 28,
+        "value": 0.95,
+        "score": 30,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 81,
-        "score": 81,
+        "value": 82,
+        "score": 82,
         "weight": 7,
         "group": "daily"
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.6,
+        "value": 1.62,
         "score": 37,
         "weight": 12,
         "group": "weekly"
@@ -870,29 +864,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.93,
-        "score": 29,
+        "value": 0.95,
+        "score": 30,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 1.23,
-        "score": 24,
+        "value": 1.25,
+        "score": 25,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 64,
+        "value": 63.6,
         "score": 73,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -68,
-        "score": 26,
+        "value": -14.7,
+        "score": 41,
         "weight": 4,
         "group": "weekly"
       }
@@ -901,7 +895,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 20
+      "days_until": 19
     },
     "schedule": [
       "2025-01-29",
@@ -1010,8 +1004,8 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1490,
-        "retweets": 108
+        "likes": 1491,
+        "retweets": 109
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
@@ -1047,7 +1041,7 @@
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 373,
+        "likes": 372,
         "retweets": 28
       },
       {
@@ -1081,39 +1075,39 @@
     ],
     "saylor": [
       {
+        "text": "Yield on the Bitcoin Standard. https://t.co/qPpiIfvRUr",
+        "url": "https://x.com/saylor/status/2093236351797744007",
+        "time": "Fri Aug 28 07:16:51 +0000 2026",
+        "likes": 747,
+        "retweets": 82
+      },
+      {
         "text": "All bears welcome. https://t.co/bLFkgkCqmG",
         "url": "https://x.com/saylor/status/2092983879464296578",
         "time": "Thu Aug 27 14:33:37 +0000 2026",
-        "likes": 5992,
-        "retweets": 583
+        "likes": 6958,
+        "retweets": 685
       },
       {
         "text": "Ride the ₿ull. https://t.co/NQpGefFkAO",
         "url": "https://x.com/saylor/status/2092878381268324795",
         "time": "Thu Aug 27 07:34:24 +0000 2026",
-        "likes": 13426,
-        "retweets": 1250
+        "likes": 14821,
+        "retweets": 1380
       },
       {
         "text": "Cold-blooded conviction.  https://t.co/I8YwpzVAPo",
         "url": "https://x.com/saylor/status/2092589286377808000",
         "time": "Wed Aug 26 12:25:38 +0000 2026",
-        "likes": 5748,
-        "retweets": 494
+        "likes": 5866,
+        "retweets": 500
       },
       {
         "text": "Bitcoin is Digital Capital. Study it.",
         "url": "https://x.com/saylor/status/2092505791420932522",
         "time": "Wed Aug 26 06:53:52 +0000 2026",
-        "likes": 5222,
-        "retweets": 467
-      },
-      {
-        "text": "Send more ₿ears. https://t.co/uxC4e5ZDmM",
-        "url": "https://x.com/saylor/status/2092277359034458361",
-        "time": "Tue Aug 25 15:46:09 +0000 2026",
-        "likes": 41817,
-        "retweets": 4172
+        "likes": 5266,
+        "retweets": 472
       }
     ],
     "viktorfischer": [
@@ -1121,7 +1115,7 @@
         "text": "7.5% on @NUVAFinance vault curated by @RockawayX on @Morpho; future of finance is on-chain",
         "url": "https://x.com/viktorfischer/status/2093082060197884221",
         "time": "Thu Aug 27 21:03:45 +0000 2026",
-        "likes": 2,
+        "likes": 5,
         "retweets": 1
       },
       {
@@ -1157,6 +1151,24 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Nvidia Is Becoming The AI Nation-State",
+        "url": "https://finnhub.io/api/news?id=c1f21ef0a9fda7ae70ea1fee206f61769ad636a8188e428004badb2cb7db3956",
+        "datetime": 1787882278,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Nvidia Picks Up The Slack",
+        "url": "https://finnhub.io/api/news?id=57173a9a84b6f555310e18def1a2ba8805ae1b041d6906c7384d9c58c7cd3c82",
+        "datetime": 1787877600,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Tracking George Soros's 13F Portfolio - Q2 2026 Update",
+        "url": "https://finnhub.io/api/news?id=13b2bc4b692d796c93baed31652eac9113d40ea10263965f9bce2ff9a56b98bb",
+        "datetime": 1787866837,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Thursday's session: top gainers and losers in the dow jones index",
         "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
         "datetime": 1787857806,
@@ -1167,27 +1179,15 @@
         "url": "https://finnhub.io/api/news?id=f563c106233d14ebb69586ee907707f00b570373de8f8e44db8bfd287e5b4889",
         "datetime": 1787857501,
         "source": "ChartMill"
-      },
-      {
-        "headline": "Marvell Q2: I Agree With The Market",
-        "url": "https://finnhub.io/api/news?id=f6ea36e7578e110c526702d56e4e49e3cb1b2da8c578cbd0b5435d64c91ff326",
-        "datetime": 1787857244,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Marvell Q2: Not Good Enough",
-        "url": "https://finnhub.io/api/news?id=0e41ce09491882242356dc16f075d68cbafb302a6ea2fe9bc854f67b1f464e0b",
-        "datetime": 1787854502,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nvidia: The 'Coiled Spring' Poised To Jump",
-        "url": "https://finnhub.io/api/news?id=2cc4a9c1f698b781123b0ae14a5b20f2743779d7e68ec543de2f90442810e647",
-        "datetime": 1787854138,
-        "source": "SeekingAlpha"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Tracking George Soros's 13F Portfolio - Q2 2026 Update",
+        "url": "https://finnhub.io/api/news?id=13b2bc4b692d796c93baed31652eac9113d40ea10263965f9bce2ff9a56b98bb",
+        "datetime": 1787866837,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Nvidia: The 'Coiled Spring' Poised To Jump",
         "url": "https://finnhub.io/api/news?id=2cc4a9c1f698b781123b0ae14a5b20f2743779d7e68ec543de2f90442810e647",
@@ -1211,12 +1211,6 @@
         "url": "https://finnhub.io/api/news?id=81855d00a9347dfd0f902e183ff49704a366bb73ec536d67d69ef89b2051cd75",
         "datetime": 1787837658,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Nvidia's Unusual Move Answers AI Trade’s Key Question; $40 Trillion US Debt Bomb Ticks; Key Fed Speech Awaited",
-        "url": "https://finnhub.io/api/news?id=586f505d7e72db784aca8e169728a1f0dfc9b7687c426d0c491ba3ce7f044961",
-        "datetime": 1787835602,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1286,6 +1280,24 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Here’s why Warsh’s Jackson Hole speech is a major event for bitcoin and gold",
+        "url": "https://www.coindesk.com/markets/2026/08/28/here-s-why-warsh-s-jackson-hole-speech-is-a-major-event-for-bitcoin-and-gold",
+        "datetime": 1787898610,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
+        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time",
+        "datetime": 1787893342,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
+        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
+        "datetime": 1787892052,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
         "url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787856662,
@@ -1296,24 +1308,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787850943,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
-        "url": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787846655,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
-        "url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-        "datetime": 1787832513,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-        "url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-        "datetime": 1787829068,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1332,6 +1326,18 @@
     ],
     "SOL": [
       {
+        "headline": "Solana’s faster supply cuts lead vote while $800,000 daily burn plan trails",
+        "url": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
+        "datetime": 1787898130,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
+        "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-holds-usd80-000-solana-leads-majors-higher-before-warsh-s-jackson-hole-debut",
+        "datetime": 1787892052,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
         "url": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1787847190,
@@ -1348,12 +1354,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
         "datetime": 1787717590,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Solana transactions hit record 4.2B as SOL rallies 40%",
-        "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787681338,
-        "source": "Cointelegraph"
       }
     ],
     "AAVE": [
