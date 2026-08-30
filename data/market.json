@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:18:56.374Z",
+  "updated_at": "2026-08-30T21:46:33.856Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78848,
-      "change_pct": 1.02
+      "price": 78604,
+      "change_pct": 0.65
     },
     {
       "symbol": "ETH",
-      "price": 2499.06,
-      "change_pct": 2.12
+      "price": 2477.71,
+      "change_pct": 1.08
     },
     {
       "symbol": "SOL",
-      "price": 106.24,
-      "change_pct": 1.34
+      "price": 104.36,
+      "change_pct": -0.59
     },
     {
       "symbol": "HYPE",
-      "price": 83.11,
-      "change_pct": 0.4
+      "price": 81.97,
+      "change_pct": -1.3
     },
     {
       "symbol": "ZEC",
-      "price": 871.66,
-      "change_pct": 4.75
+      "price": 873.06,
+      "change_pct": 4.23
     },
     {
       "symbol": "TAO",
-      "price": 239.4,
-      "change_pct": 1.13
+      "price": 235.88,
+      "change_pct": 0.17
     },
     {
       "symbol": "SKY",
-      "price": 1637.91,
-      "change_pct": 4.37
+      "price": 1628.15,
+      "change_pct": 3.62
     },
     {
       "symbol": "AAVE",
-      "price": 128.49,
-      "change_pct": 4.12
+      "price": 126.08,
+      "change_pct": 1
     },
     {
       "symbol": "BNB",
-      "price": 700.17,
-      "change_pct": 1.33
+      "price": 696.3,
+      "change_pct": 0.54
     },
     {
       "symbol": "NEAR",
       "price": 1.89,
-      "change_pct": 2.7
+      "change_pct": 1.14
     },
     {
       "symbol": "DOGE",
-      "price": 0.085748,
-      "change_pct": 0.78
+      "price": 0.084539,
+      "change_pct": -0.73
     },
     {
       "symbol": "SPACEX",
-      "price": 525.34,
-      "change_pct": -0.89
+      "price": 525.56,
+      "change_pct": -0.9
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "塞勒表示策略“回到”比特币购买",
+      "summary": "Michael Saylor 的“我们回来了”帖子暗示 Strategy 可能会在暂停两个月以加强其资产负债表后恢复比特币购买。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788112740,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "特朗普批评 NBC 的选举评论，财政部否认《纽约时报》、《华尔街日报》和彭博社记者的一些 G20 记者资格",
       "summary": "特朗普对 NBC 的攻击发生在财政部禁止《纽约时报》、《华尔街日报》和彭博社的记者参加 G20 峰会之后。",
       "source": "CNBC",
@@ -734,15 +743,6 @@
       "datetime": 1787970531,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "新拍卖制度下印度银行股 NSE-BSE 收盘价差距巨大",
-      "summary": "这种分歧加剧了对 8 月 3 日推出的机制的审查，交易员警告称，异常波动可能会削弱市场信心。",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
-      "datetime": 1787969592,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 38.8,
+    "score": 38.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.6,
+    "daily_score": 15.7,
     "weekly_score": 23.2,
-    "btc_price": 78874.2,
+    "btc_price": 78608.5,
     "fear_greed": 78,
     "indicators": [
       {
@@ -819,15 +819,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004307,
-        "score": 47,
+        "value": 0.007981,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.07,
-        "score": 38,
+        "value": 1.05,
+        "score": 37,
         "weight": 5,
         "group": "daily"
       },
@@ -889,15 +889,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.8,
-        "score": 73,
+        "value": 63.4,
+        "score": 72,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -89.6,
-        "score": 20,
+        "value": -81,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -1015,8 +1015,8 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1497,
-        "retweets": 114
+        "likes": 1498,
+        "retweets": 115
       },
       {
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
@@ -1052,35 +1052,35 @@
         "text": "to put things in context zcash outperformed every single name in the ai / semis complex except one over the past year. and that is during a crypto bear market and ai bull market. meanwhile half of ct is still fading it and no one outside this little circle is even paying https://t.co/ORVX0pwVgn",
         "url": "https://x.com/QwQiao/status/2094083816516145262",
         "time": "Sun Aug 30 15:24:22 +0000 2026",
-        "likes": 385,
-        "retweets": 60
+        "likes": 473,
+        "retweets": 68
       },
       {
         "text": "venture investing heuristic: when the smartest ppl u know are polarized on an asset - some bullish others convinced it won't work - u simply stop overthinking and smash the buy button. the smart skeptics are not necessarily wrong, but they are precisely the reason why the asset",
         "url": "https://x.com/QwQiao/status/2092191112542724479",
         "time": "Tue Aug 25 10:03:26 +0000 2026",
-        "likes": 381,
+        "likes": 382,
         "retweets": 28
       },
       {
         "text": "the best historical analog for zec imo is the 2013 btc double bubble. similar htf price action, marketcap range, and community. after breaking the first high (~$250) it took btc just 4 weeks to 4x and reach the second high (~$1100). the zcsh etf may just be the fuel needed for",
         "url": "https://x.com/QwQiao/status/2091533764648206509",
         "time": "Sun Aug 23 14:31:22 +0000 2026",
-        "likes": 357,
+        "likes": 358,
         "retweets": 20
       },
       {
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
         "url": "https://x.com/QwQiao/status/2091217716535332935",
         "time": "Sat Aug 22 17:35:31 +0000 2026",
-        "likes": 213,
+        "likes": 214,
         "retweets": 5
       },
       {
         "text": "if u r in memory stonks, pivot to zcash\n\n1st inning of the great memory to zcash rotation",
         "url": "https://x.com/QwQiao/status/2090930531357614458",
         "time": "Fri Aug 21 22:34:20 +0000 2026",
-        "likes": 398,
+        "likes": 399,
         "retweets": 37
       }
     ],
@@ -1089,36 +1089,36 @@
         "text": "We’re ₿ack. https://t.co/ciqOaCa908",
         "url": "https://x.com/saylor/status/2094033266906955896",
         "time": "Sun Aug 30 12:03:30 +0000 2026",
-        "likes": 15139,
-        "retweets": 1397
+        "likes": 17346,
+        "retweets": 1587
       },
       {
         "text": "₿usiness as usual. https://t.co/ymHGfb96n3",
         "url": "https://x.com/saylor/status/2093970108603371740",
         "time": "Sun Aug 30 07:52:32 +0000 2026",
-        "likes": 5420,
-        "retweets": 421
+        "likes": 6027,
+        "retweets": 454
       },
       {
         "text": "The signs are everywhere. https://t.co/wse9ytnL5d",
         "url": "https://x.com/saylor/status/2093699584212017362",
         "time": "Sat Aug 29 13:57:34 +0000 2026",
-        "likes": 8301,
-        "retweets": 944
+        "likes": 8565,
+        "retweets": 964
       },
       {
         "text": "Sorry, @fundstrat. There is no second best. https://t.co/NIME4qTP2U",
         "url": "https://x.com/saylor/status/2093313461312786883",
         "time": "Fri Aug 28 12:23:15 +0000 2026",
-        "likes": 9258,
+        "likes": 9274,
         "retweets": 871
       },
       {
         "text": "Yield on the Bitcoin Standard. https://t.co/qKDwiiLGRR",
         "url": "https://x.com/saylor/status/2093278976345075804",
         "time": "Fri Aug 28 10:06:13 +0000 2026",
-        "likes": 2909,
-        "retweets": 305
+        "likes": 2913,
+        "retweets": 306
       }
     ],
     "viktorfischer": [
@@ -1291,6 +1291,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+        "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1788112740,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
         "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
         "datetime": 1788104395,
@@ -1313,12 +1319,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
         "datetime": 1787977800,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-        "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1787931085,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
