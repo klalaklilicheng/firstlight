@@ -1,35 +1,30 @@
 {
-  "updated_at": "2026-08-31T20:33:25.462Z",
+  "updated_at": "2026-09-01T00:15:40.448Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 704.89,
+      "change_pct": -0.33
     },
     {
       "symbol": "QQQ",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 716.76,
+      "change_pct": 0.05
     },
     {
       "symbol": "QQQM",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 295.18,
+      "change_pct": 0.06
     },
     {
       "symbol": "NVDA",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 220.78,
+      "change_pct": 1.48
     },
     {
       "symbol": "TSLA",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 367.95,
+      "change_pct": 5.51
     },
     {
       "symbol": "GOOG",
@@ -43,15 +38,13 @@
     },
     {
       "symbol": "CRCL",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 95.55,
+      "change_pct": 9.65
     },
     {
       "symbol": "PLTR",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 186.38,
+      "change_pct": 0.05
     },
     {
       "symbol": "MSTR",
@@ -60,9 +53,8 @@
     },
     {
       "symbol": "GLD",
-      "price": 0,
-      "change_pct": 0,
-      "error": true
+      "price": 408.42,
+      "change_pct": -0.11
     },
     {
       "symbol": "LKNCY",
@@ -73,107 +65,376 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78915,
-      "change_pct": 0.21
+      "price": 78730,
+      "change_pct": 1.3
     },
     {
       "symbol": "ETH",
-      "price": 2476.92,
-      "change_pct": -0.86
+      "price": 2471.21,
+      "change_pct": 2.12
     },
     {
       "symbol": "SOL",
-      "price": 104.05,
-      "change_pct": -1.01
+      "price": 103.17,
+      "change_pct": 1.5
     },
     {
       "symbol": "HYPE",
-      "price": 84.28,
-      "change_pct": 2.63
+      "price": 84.37,
+      "change_pct": 5.46
     },
     {
       "symbol": "ZEC",
-      "price": 855.02,
-      "change_pct": -0.96
+      "price": 852.85,
+      "change_pct": 2.53
     },
     {
       "symbol": "TAO",
-      "price": 229.63,
-      "change_pct": -3.21
+      "price": 231.59,
+      "change_pct": 2.18
     },
     {
       "symbol": "SKY",
-      "price": 1590.55,
-      "change_pct": -3.03
+      "price": 1574.98,
+      "change_pct": -1.08
     },
     {
       "symbol": "AAVE",
-      "price": 124.13,
-      "change_pct": -1.99
+      "price": 124.8,
+      "change_pct": 1.36
     },
     {
       "symbol": "BNB",
-      "price": 691.58,
-      "change_pct": -1
+      "price": 692.4,
+      "change_pct": 1.13
     },
     {
       "symbol": "NEAR",
-      "price": 1.88,
-      "change_pct": -0.23
+      "price": 1.93,
+      "change_pct": 5.74
     },
     {
       "symbol": "DOGE",
-      "price": 0.083219,
-      "change_pct": -2.52
+      "price": 0.082888,
+      "change_pct": 1.07
     },
     {
       "symbol": "SPACEX",
-      "price": 523.94,
-      "change_pct": -0.27
+      "price": 522.53,
+      "change_pct": -0.54
     }
   ],
   "earnings": {
     "NVDA": {
-      "next": null,
-      "history": [],
-      "comment": ""
+      "next": {
+        "date": "2026-11-17",
+        "quarter": 3,
+        "year": 2027,
+        "eps_estimate": 2.4659,
+        "revenue_estimate": 108129157692
+      },
+      "history": [
+        {
+          "period": "2026-09-30",
+          "quarter": 2,
+          "year": 2027,
+          "actual": 2.22,
+          "estimate": 2.1384,
+          "surprise_pct": 3.8159
+        },
+        {
+          "period": "2026-06-30",
+          "quarter": 1,
+          "year": 2027,
+          "actual": 1.87,
+          "estimate": 1.7922,
+          "surprise_pct": 4.341
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 4,
+          "year": 2026,
+          "actual": 1.62,
+          "estimate": 1.5634,
+          "surprise_pct": 3.6203
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 3,
+          "year": 2026,
+          "actual": 1.3,
+          "estimate": 1.2746,
+          "surprise_pct": 1.9928
+        }
+      ],
+      "comment": "连续4季超预期 (+3.8%)"
     },
     "TSLA": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "GOOG": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "RKLB": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "CRCL": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "PLTR": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "MSTR": {
-      "next": null,
-      "history": [],
-      "comment": ""
-    },
-    "LKNCY": {
       "next": {
         "date": "2026-11-19",
         "quarter": 3,
         "year": 2026,
         "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 0.33,
+          "estimate": 0.5191,
+          "surprise_pct": -36.4284
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.41,
+          "estimate": 0.3773,
+          "surprise_pct": 8.6668
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.5,
+          "estimate": 0.4541,
+          "surprise_pct": 10.1079
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.5,
+          "estimate": 0.5586,
+          "surprise_pct": -10.4905
+        }
+      ],
+      "comment": "上季不及预期 (-36.4%)"
+    },
+    "GOOG": {
+      "next": {
+        "date": "2026-11-19",
+        "quarter": 3,
+        "year": 2026,
+        "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 2.85,
+          "estimate": 2.9798,
+          "surprise_pct": -4.356
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 2.62,
+          "estimate": 2.7051,
+          "surprise_pct": -3.1459
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 2.82,
+          "estimate": 2.7063,
+          "surprise_pct": 4.2013
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 3.1,
+          "estimate": 2.3954,
+          "surprise_pct": 29.4147
+        }
+      ],
+      "comment": "上季不及预期 (-4.4%)"
+    },
+    "RKLB": {
+      "next": {
+        "date": "2026-11-19",
+        "quarter": 3,
+        "year": 2026,
+        "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": -0.08,
+          "estimate": -0.0765,
+          "surprise_pct": -4.5752
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": -0.07,
+          "estimate": -0.0815,
+          "surprise_pct": 14.1104
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": -0.09,
+          "estimate": -0.0942,
+          "surprise_pct": 4.4586
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": -0.03,
+          "estimate": -0.1064,
+          "surprise_pct": 71.8045
+        }
+      ],
+      "comment": "上季不及预期 (-4.6%)"
+    },
+    "CRCL": {
+      "next": {
+        "date": "2026-11-10",
+        "quarter": 3,
+        "year": 2026,
+        "eps_estimate": 0.3624,
+        "revenue_estimate": 795149302
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 0.18,
+          "estimate": 0.1725,
+          "surprise_pct": 4.3478
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.21,
+          "estimate": 0.2006,
+          "surprise_pct": 4.6859
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.36,
+          "estimate": 0.251,
+          "surprise_pct": 43.4263
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.2,
+          "estimate": 0.2277,
+          "surprise_pct": -12.1651
+        }
+      ],
+      "comment": "上季超预期 (+4.3%)"
+    },
+    "PLTR": {
+      "next": {
+        "date": "2026-11-19",
+        "quarter": 3,
+        "year": 2026,
+        "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 0.41,
+          "estimate": 0.3544,
+          "surprise_pct": 15.6885
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": 0.33,
+          "estimate": 0.2849,
+          "surprise_pct": 15.8301
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": 0.25,
+          "estimate": 0.2348,
+          "surprise_pct": 6.4736
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 0.21,
+          "estimate": 0.1718,
+          "surprise_pct": 22.2352
+        }
+      ],
+      "comment": "连续4季超预期 (+15.7%)"
+    },
+    "MSTR": {
+      "next": {
+        "date": "2026-11-19",
+        "quarter": 3,
+        "year": 2026,
+        "is_estimate": true
+      },
+      "history": [
+        {
+          "period": "2026-06-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": -24.77,
+          "estimate": -7.6698,
+          "surprise_pct": -222.955
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 1,
+          "year": 2026,
+          "actual": -38.25,
+          "estimate": -4.3945,
+          "surprise_pct": -770.4062
+        },
+        {
+          "period": "2025-12-31",
+          "quarter": 4,
+          "year": 2025,
+          "actual": -42.93,
+          "estimate": 3.0277,
+          "surprise_pct": -1517.908
+        },
+        {
+          "period": "2025-09-30",
+          "quarter": 3,
+          "year": 2025,
+          "actual": 8.42,
+          "estimate": 8.3144,
+          "surprise_pct": 1.2701
+        }
+      ],
+      "comment": "上季不及预期 (-223.0%)"
+    },
+    "LKNCY": {
+      "next": {
+        "date": "2026-11-16",
+        "quarter": 3,
+        "year": 2026,
+        "eps_estimate": 6.4926,
+        "revenue_estimate": 18786999129
       },
       "history": [
         {
@@ -213,6 +474,24 @@
     }
   },
   "news": [
+    {
+      "headline": "随着特朗普推动加密货币平台登陆，朝鲜黑客正在通过 Hyperliquid 转移数千万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+      "datetime": 1788209320,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "爱尔兰将加密货币排除在新的税收优惠投资账户之外",
+      "summary": "爱尔兰计划的投资账户将为股票、债券和 ETF 提供税收优惠，同时排除加密货币和衍生品作为高风险产品。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ireland-crypto-tax-advantaged-investment-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788207925,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "Citadel 表示，随着历史上艰难的一个月开始，股票的风险回报前景变得越来越糟",
       "summary": "在股市购买保护的风险回报看起来很有吸引力。",
@@ -464,24 +743,6 @@
       "datetime": 1788175317,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "桑托利：为什么投资者在进入 9 月份时应保持高度警惕",
-      "summary": "投资者应该保持高度警惕，因为各种关键市场指标正在接近相应的阈值。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
-      "datetime": 1788174001,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "市场转向九月美联储加息：本周比特币需要了解的五件事",
-      "summary": "比特币 8 月收盘价接近关键阻力位下方，市场再次消化美联储 9 月加息的影响。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/markets-pivot-to-september-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788173509,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -536,24 +797,24 @@
     }
   ],
   "btc_score": {
-    "score": 39.5,
+    "score": 41.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
+    "daily_score": 16.9,
     "weekly_score": 24.2,
-    "btc_price": 78865.1,
+    "btc_price": 78749.4,
     "fear_greed": 75,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -201900000,
-        "score": 37,
+        "value": 17300000,
+        "score": 51,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.008293,
+        "value": 0.008631,
         "score": 49,
         "weight": 8,
         "group": "daily"
@@ -623,15 +884,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.8,
+        "value": 63.6,
         "score": 73,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -73.7,
-        "score": 25,
+        "value": -68.5,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -640,7 +901,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 16
+      "days_until": 15
     },
     "schedule": [
       "2025-01-29",
@@ -786,7 +1047,7 @@
         "text": "to put things in context zcash outperformed every single name in the ai / semis complex except one over the past year. and that is during a crypto bear market and ai bull market. meanwhile half of ct is still fading it and no one outside this little circle is even paying https://t.co/ORVX0pwVgn",
         "url": "https://x.com/QwQiao/status/2094083816516145262",
         "time": "Sun Aug 30 15:24:22 +0000 2026",
-        "likes": 591,
+        "likes": 592,
         "retweets": 79
       },
       {
@@ -807,7 +1068,7 @@
         "text": "data center opposition is unironically bullish for the market as it delays the supply overbuild.\n\ndemand for intelligence will far outweigh supply for a long stretch.",
         "url": "https://x.com/QwQiao/status/2091217716535332935",
         "time": "Sat Aug 22 17:35:31 +0000 2026",
-        "likes": 214,
+        "likes": 215,
         "retweets": 5
       },
       {
@@ -823,36 +1084,36 @@
         "text": "MSCI should be a mirror of the market, not an arbiter of it.",
         "url": "https://x.com/saylor/status/2094504567387906388",
         "time": "Mon Aug 31 19:16:17 +0000 2026",
-        "likes": 1366,
-        "retweets": 111
+        "likes": 2161,
+        "retweets": 188
       },
       {
         "text": "These actions further strengthen $STRC. USD Reserve is $5.10B and USD Cash is $1.61B, improving USD Duration to 4.0 yrs (+23d) and STRC’s BTC Credit to 56 bps (-3 bps).",
         "url": "https://x.com/saylor/status/2094395806879019172",
         "time": "Mon Aug 31 12:04:07 +0000 2026",
-        "likes": 1280,
-        "retweets": 73
+        "likes": 1333,
+        "retweets": 75
       },
       {
         "text": "STRC’s BTC Credit assumes 10% BTC ARR, 40% BTC Vol, and a BTC price of $77,558. Learn more about Strategy’s BTC Credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2094395808607039652",
         "time": "Mon Aug 31 12:04:07 +0000 2026",
-        "likes": 783,
+        "likes": 808,
         "retweets": 34
       },
       {
         "text": "Strategy has acquired 4,603 BTC for $370M, increased USD Cash by $29M, and repurchased $152M of $STRC. As of 8/30/26, we hold 845,050 bitcoin:native and $6.71B of USD Assets, bringing Net Leverage to 0.0%. $MSTR https://t.co/XAAEZV5Gil",
         "url": "https://x.com/saylor/status/2094395804962152885",
         "time": "Mon Aug 31 12:04:06 +0000 2026",
-        "likes": 13938,
-        "retweets": 1530
+        "likes": 14934,
+        "retweets": 1626
       },
       {
         "text": "Paint the ₿ears orange. https://t.co/eia8IE3R7O",
         "url": "https://x.com/saylor/status/2094329015431528794",
         "time": "Mon Aug 31 07:38:42 +0000 2026",
-        "likes": 7730,
-        "retweets": 611
+        "likes": 8197,
+        "retweets": 642
       }
     ],
     "viktorfischer": [
@@ -894,8 +1155,51 @@
     ]
   },
   "portfolio_news": {
-    "NVDA": [],
+    "NVDA": [
+      {
+        "headline": "周一交易中道琼斯指数涨幅最大的股票",
+        "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
+        "datetime": 1788203418,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "随时了解周一交易中 S&P500 指数中最活跃的股票。",
+        "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
+        "datetime": 1788199500,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "这些股票是今天交易中最活跃的",
+        "url": "https://finnhub.io/api/news?id=887b5967af6ac9f8ec388fcc84618334a77f30a01e6d2da215bb8e0468423b8a",
+        "datetime": 1788199200,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "英伟达：这座堡垒经得起情绪风暴",
+        "url": "https://finnhub.io/api/news?id=8ebab418c29d8b95bd9d4fbaa3f279658429e6b5908b4d304bc969b388b9c729",
+        "datetime": 1788198351,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "这些道琼斯股票在今天的交易中走势",
+        "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
+        "datetime": 1788194405,
+        "source": "ChartMill"
+      }
+    ],
     "GOOG": [
+      {
+        "headline": "MapQuest 与特朗普：地图 OG 保留安大略湖名称，为家长带来下载激增和库存增长",
+        "url": "https://finnhub.io/api/news?id=6ee3701f9f50830475a4f528b304d4a6bce93de3d0d516def3d75ff08a090182",
+        "datetime": 1788195602,
+        "source": "Benzinga"
+      },
+      {
+        "headline": "Marvell 技术：更高的清晰度并不令人印象深刻",
+        "url": "https://finnhub.io/api/news?id=5b4a71f6c01dc5299eafffd7f57c6315118979a3a2767dca80452da6a9f002aa",
+        "datetime": 1788193597,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Marvell：市场对 Alphabet 交易潜力的短视令人困惑",
         "url": "https://finnhub.io/api/news?id=4e98513098d2b5cc14bbfe6fb8c034e9bee1ed220022a46f52ccf43edf7d570d",
@@ -903,27 +1207,15 @@
         "source": "SeekingAlpha"
       },
       {
-        "headline": "Marvell 第二季度：逢低买入似乎为时过早",
-        "url": "https://finnhub.io/api/news?id=a99f625d38802459f85133681f842b100923c2296fe3f8b5d8f22a3e990d26b4",
-        "datetime": 1788183337,
-        "source": "SeekingAlpha"
+        "headline": "ChatGPT 广告激增：OpenAI 的快速扩张如何危及 Google 和 Meta",
+        "url": "https://finnhub.io/api/news?id=5b13fde1228411d2fc1d165a44b76169437e97d0cd0ce5c106ac338c6a40a306",
+        "datetime": 1788186121,
+        "source": "Benzinga"
       },
       {
-        "headline": "D-Wave Quantum：比 IonQ 更便宜，比 Rigetti 更安全",
-        "url": "https://finnhub.io/api/news?id=3101baf206684f503a32f2560333686a3895fc6f2907a5df3a1af381f6ecc254",
-        "datetime": 1788179826,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "随着支出接近 1 万亿美元，人工智能泡沫正进入最危险的阶段",
-        "url": "https://finnhub.io/api/news?id=d88940733070ec5c831b7c4329fde1f6367cc60bc05a6119c98dc3b970e36fdd",
-        "datetime": 1788179571,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "美国打击伊朗，油价上涨；沃什的鹰派态度回响；未来股市季节性疲弱",
-        "url": "https://finnhub.io/api/news?id=8254cead2ba94488fac39c41d8bf0f016fe92d3652f8e578b2f527cf4635645d",
-        "datetime": 1788178763,
+        "headline": "谷歌 2.6 亿英镑英国应用商店和解协议内幕：这对 Alphabet 股票意味着什么",
+        "url": "https://finnhub.io/api/news?id=7917f88768fa132366790b535ec26f91fbe1ad7c42d4de91d67ed9e071750dd2",
+        "datetime": 1788184107,
         "source": "Benzinga"
       }
     ],
@@ -947,16 +1239,16 @@
         "source": "ChartMill"
       },
       {
+        "headline": "人工智能繁荣需要电力——这些太阳能 ETF 可能成为受益者",
+        "url": "https://finnhub.io/api/news?id=fb6fe1c5b5bb64999b37840d0aed5d3b4dfddd5a56818d0d93413b95f58de3c8",
+        "datetime": 1788188426,
+        "source": "Benzinga"
+      },
+      {
         "headline": "比亚迪：从各个方面来看，全球排名第一的电动汽车制造商（评级升级）",
         "url": "https://finnhub.io/api/news?id=1d189faaef80fef8e11f0b4dd4414d89c6eaa67e576851f8645463fa22df7932",
         "datetime": 1788188397,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "伊朗风险和加州公用事业陷入困境，油价飙升至 90 美元附近：今日股市",
-        "url": "https://finnhub.io/api/news?id=8c679010ff60a94a4bf6183bb59b2027892362519d720c9538c25683fe6feb34",
-        "datetime": 1788184814,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -976,18 +1268,6 @@
         "headline": "Wolfe Research 维持 Circle Internet Group 表现不佳，将目标股价上调至 65 美元",
         "url": "https://finnhub.io/api/news?id=5cdcc5fb3d4b7e9010977bed4ac19dbbc2accb30dd10e247b044e1af40bc8d25",
         "datetime": 1787654490,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "以太坊、Circle、Coinbase 构成分析师的“银河三巨头”——原因如下",
-        "url": "https://finnhub.io/api/news?id=f31fed0cff34322ffe3643adb016ec414d9305a6da4c0787525512b1a52b48b2",
-        "datetime": 1787586392,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "伯恩斯坦表示，CRCL 可能会达到 140 美元，而 Cathie Wood 则赞扬了 Circle 的颠覆性",
-        "url": "https://finnhub.io/api/news?id=0487416f5380eb40a931d840bf2e3b3de84997948a78449513f32137615fef26",
-        "datetime": 1787576676,
         "source": "Benzinga"
       }
     ],
@@ -1106,6 +1386,12 @@
     ],
     "HYPE": [
       {
+        "headline": "随着特朗普推动加密货币平台登陆，朝鲜黑客正在通过 Hyperliquid 转移数千万美元",
+        "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+        "datetime": 1788209320,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Hyperliquid、Pump.fun 占创纪录的 6.38 亿美元加密货币回购的近 90%：FT",
         "url": "https://cointelegraph.com/news/hyperliquid-pumpfun-90-record-638m-crypto-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788175317,
@@ -1114,6 +1400,12 @@
     ],
     "TAO": [],
     "NEAR": [
+      {
+        "headline": "人工智能必须属于它的用户。\n\nNEAR 联合创始人@ilblackdragon 畅谈主权人工智能的真正含义 ↓",
+        "url": "https://x.com/NEARProtocol/status/2094547080630956520",
+        "datetime": 1788213913,
+        "source": "@NEARProtocol"
+      },
       {
         "headline": "机密意图 TVL 刚刚突破 5000 万美元。\n\n现在，near@3.33 活动的 7000 万美元快照触发器还剩 2000 万美元。在near​.com 上有 100 美元的机密余额和一笔机密交换就够了",
         "url": "https://x.com/NEARProtocol/status/2094495792287334669",
@@ -1124,12 +1416,6 @@
         "headline": "保密并立即加入该运动。",
         "url": "https://x.com/NEARProtocol/status/2094495794120335782",
         "datetime": 1788201685,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "从代理市场到私人推理再到跨链结算，NEAR 是用户拥有的人工智能经济的垂直集成堆栈。 \n\n@Delphi_Digital 关于 NEAR 如何构建的最新报告",
-        "url": "https://x.com/NEARProtocol/status/2094453738115149856",
-        "datetime": 1788191658,
         "source": "@NEARProtocol"
       }
     ],
