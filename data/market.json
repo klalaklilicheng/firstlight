@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:28:42.669Z",
+  "updated_at": "2026-09-02T23:43:51.992Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77273,
-      "change_pct": 0.11
+      "price": 77099,
+      "change_pct": -0.53
     },
     {
       "symbol": "ETH",
-      "price": 2391.64,
-      "change_pct": -0.95
+      "price": 2382.76,
+      "change_pct": -1.67
     },
     {
       "symbol": "SOL",
-      "price": 99.68,
-      "change_pct": 0.14
+      "price": 99.83,
+      "change_pct": -0.3
     },
     {
       "symbol": "HYPE",
-      "price": 81.67,
-      "change_pct": -0.7
+      "price": 81.63,
+      "change_pct": -1.39
     },
     {
       "symbol": "ZEC",
-      "price": 812.31,
-      "change_pct": -1.52
+      "price": 811.11,
+      "change_pct": -2.31
     },
     {
       "symbol": "TAO",
-      "price": 216.93,
-      "change_pct": -1.61
+      "price": 216.11,
+      "change_pct": -1.71
     },
     {
       "symbol": "SKY",
-      "price": 1581.24,
-      "change_pct": -5.61
+      "price": 1563.48,
+      "change_pct": -7.24
     },
     {
       "symbol": "AAVE",
-      "price": 126.88,
-      "change_pct": 0.7
+      "price": 126.68,
+      "change_pct": -0.82
     },
     {
       "symbol": "BNB",
-      "price": 687.53,
-      "change_pct": 1.07
+      "price": 686.56,
+      "change_pct": 0.5
     },
     {
       "symbol": "NEAR",
       "price": 1.88,
-      "change_pct": -0.92
+      "change_pct": -0.87
     },
     {
       "symbol": "DOGE",
-      "price": 0.081573,
-      "change_pct": 0.04
+      "price": 0.081335,
+      "change_pct": -0.59
     },
     {
       "symbol": "SPACEX",
-      "price": 523.48,
-      "change_pct": -1.76
+      "price": 523.22,
+      "change_pct": -1.19
     }
   ],
   "earnings": {
@@ -475,12 +475,48 @@
   },
   "news": [
     {
+      "headline": "吉姆·克莱默 (Jim Cramer) 表示，投资者并没有放弃科技股，他们只是想要更便宜的股票",
+      "summary": "CNBC 的 Jim Cramer 表示，投资者并没有放弃人工智能或科技股，他们正在从高市盈率股票转向更便宜的股票。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "datetime": 1788390549,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "美国官员与 CrowdStrike 合作打击加密货币盗窃背后的恶意软件",
+      "summary": "联邦当局和私营部门合作伙伴参与了一项破坏恶意软件的行动，该恶意软件在过去八年中转移了约 15 万美元的加密货币。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788384435,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国司法部表示，随着 FBI 接管筹款网站，哈马斯扣押的加密货币已达 56 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+      "datetime": 1788384266,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "NBA因科怀·伦纳德工资帽调查而对快船队老板鲍尔默禁赛一年",
-      "summary": "NBA还对洛杉矶快船队处以3000万美元的罚款，并表示该队将失去五个首轮选秀权，从2029年开始每年选秀中都会失去一个首轮选秀权。",
+      "summary": "NBA还对洛杉矶快船队罚款3000万美元，并表示该队将失去五个首轮选秀权，从2029年开始每年选秀中都会失去一个首轮选秀权。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "datetime": 1788382777,
       "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "Coinbase 在加拿大推出受监管的加密货币衍生品",
+      "summary": "随着美国主要交易平台扩大其在加拿大的加密业务，Coinbase 正在为符合条件的加拿大交易者提供高达 10 倍杠杆的永续和有期期货。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788382555,
+      "category": "crypto",
       "related": ""
     },
     {
@@ -592,7 +628,7 @@
       "related": ""
     },
     {
-      "headline": "博通即将发布的财报中值得关注的内容以及英伟达为何运行",
+      "headline": "博通即将发布的财报中值得关注的内容——以及英伟达为何运行",
       "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/02/what-to-watch-in-broadcoms-upcoming-earnings-and-why-nvidia-is-running-.html",
@@ -707,42 +743,6 @@
       "datetime": 1788351206,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "苹果股票正在做一些 20 年来从未做过的事情。这是发生的事情",
-      "summary": "自 2005 年以来，苹果股票与科技同行的相关性还没有出现过如此之大。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
-      "datetime": 1788351005,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "日本 Remixpoint 抛弃山寨币，留下 1,506 BTC 作为唯一的加密货币赌注",
-      "summary": "Remixpoint 出售了价值 550 万美元的 ETH、SOL、XRP 和 DOGE，净收益为 736,000 美元，因为该公司将加密战略缩小到专注于比特币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788350400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "泰国商人起诉 Tether 冻结价值 6100 万美元的生猪屠宰案中的 4200 万美元",
-      "summary": "原告并未对自己参与屠宰生猪骗局提出异议，但声称 Tether 当时无权冻结这 4200 万美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788350400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Capital B 计划在 Adam Back 投资 880 万美元后向比特币金库中添加 376 BTC",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-      "datetime": 1788349516,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -753,11 +753,6 @@
           "headline": "Anthropic 与 Nvidia 支持的 Lambda 达成 350 亿美元的云交易",
           "url": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
           "datetime": 1788227474
-        },
-        {
-          "headline": "SpaceX 发射 NASA 暗能量追踪太空望远镜",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-30/spacex-set-to-launch-nasa-s-dark-energy-hunting-space-telescope",
-          "datetime": 1788094299
         }
       ]
     },
@@ -823,25 +818,25 @@
     }
   ],
   "btc_score": {
-    "score": 38.6,
+    "score": 40.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 15.3,
+    "daily_score": 17.2,
     "weekly_score": 23.3,
-    "btc_price": 77276.6,
+    "btc_price": 77124.7,
     "fear_greed": 73,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -236500000,
-        "score": 34,
+        "value": -14300000,
+        "score": 49,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.003656,
-        "score": 47,
+        "value": 0.006426,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -910,15 +905,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 61.4,
+        "value": 61.1,
         "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -87.3,
-        "score": 21,
+        "value": -85.2,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1073,8 +1068,8 @@
         "text": "for my new side project i investigated 100+ supplements, drugs, procedures, tests, and behaviors promoted by longevity influencers. i had claude and grok audit the entire medical literature for evidence and counter evidence for each, and debate up to 10 rounds until they reach https://t.co/iNd7gcgc8M",
         "url": "https://x.com/QwQiao/status/2094767041366401343",
         "time": "Tue Sep 01 12:39:16 +0000 2026",
-        "likes": 316,
-        "retweets": 31
+        "likes": 319,
+        "retweets": 32
       },
       {
         "text": "to put things in context zcash outperformed every single name in the ai / semis complex except one over the past year. and that is during a crypto bear market and ai bull market. meanwhile half of ct is still fading it and no one outside this little circle is even paying https://t.co/ORVX0pwVgn",
@@ -1110,36 +1105,36 @@
         "text": "Strategy now has more Total Reserve Capital than every financial services company in the S&amp;P 500 except Berkshire Hathaway. $MSTR",
         "url": "https://x.com/saylor/status/2095216788153741432",
         "time": "Wed Sep 02 18:26:24 +0000 2026",
-        "likes": 4294,
-        "retweets": 455
+        "likes": 5572,
+        "retweets": 583
       },
       {
         "text": "Game. Set. ₿itcoin. https://t.co/7CHi2EJQ39",
         "url": "https://x.com/saylor/status/2095047682913939676",
         "time": "Wed Sep 02 07:14:26 +0000 2026",
-        "likes": 7294,
-        "retweets": 675
+        "likes": 7613,
+        "retweets": 709
       },
       {
         "text": "Credit on the ₿itcoin Standard.",
         "url": "https://x.com/saylor/status/2094905979062169997",
         "time": "Tue Sep 01 21:51:21 +0000 2026",
-        "likes": 2928,
-        "retweets": 266
+        "likes": 3004,
+        "retweets": 273
       },
       {
         "text": "Phong discusses Strategy with Bloomberg. $MSTR",
         "url": "https://x.com/saylor/status/2094841940562821358",
         "time": "Tue Sep 01 17:36:53 +0000 2026",
-        "likes": 2180,
-        "retweets": 210
+        "likes": 2202,
+        "retweets": 212
       },
       {
         "text": "Keep your eye on the ₿all. https://t.co/2n7zWWU6xm",
         "url": "https://x.com/saylor/status/2094681056255291755",
         "time": "Tue Sep 01 06:57:35 +0000 2026",
-        "likes": 5500,
-        "retweets": 494
+        "likes": 5530,
+        "retweets": 497
       }
     ],
     "viktorfischer": [
@@ -1147,7 +1142,7 @@
         "text": "#1 RWA in active TVL on @solana: @onrefinance 🚀",
         "url": "https://x.com/viktorfischer/status/2095241865456992487",
         "time": "Wed Sep 02 20:06:03 +0000 2026",
-        "likes": 5,
+        "likes": 7,
         "retweets": 1
       },
       {
@@ -1446,13 +1441,6 @@
       }
     ],
     "ZEC": [],
-    "SPACEX": [
-      {
-        "headline": "SpaceX launches NASA’s dark energy-hunting space telescope",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-30/spacex-set-to-launch-nasa-s-dark-energy-hunting-space-telescope",
-        "datetime": 1788094299,
-        "source": "Bloomberg"
-      }
-    ]
+    "SPACEX": []
   }
 }
