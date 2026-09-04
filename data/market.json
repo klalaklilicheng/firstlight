@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T00:34:37.066Z",
+  "updated_at": "2026-09-04T05:17:40.287Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 36.3,
-      "change_pct": -0.11
+      "price": 33.96,
+      "change_pct": -6.45
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81231,
-      "change_pct": 5.47
+      "price": 80978,
+      "change_pct": 4.36
     },
     {
       "symbol": "ETH",
-      "price": 2508.24,
-      "change_pct": 5.38
+      "price": 2511.35,
+      "change_pct": 4.61
     },
     {
       "symbol": "SOL",
-      "price": 103.78,
-      "change_pct": 4.16
+      "price": 103.79,
+      "change_pct": 3.27
     },
     {
       "symbol": "HYPE",
-      "price": 87.12,
-      "change_pct": 6.81
+      "price": 86.37,
+      "change_pct": 5.07
     },
     {
       "symbol": "ZEC",
-      "price": 945.47,
-      "change_pct": 16.7
+      "price": 951.12,
+      "change_pct": 15.82
     },
     {
       "symbol": "TAO",
-      "price": 225.77,
-      "change_pct": 4.63
+      "price": 229.9,
+      "change_pct": 4.87
     },
     {
       "symbol": "SKY",
-      "price": 1590.84,
-      "change_pct": 2.03
+      "price": 1601.53,
+      "change_pct": 1.24
     },
     {
       "symbol": "AAVE",
-      "price": 132.68,
-      "change_pct": 4.63
+      "price": 134.02,
+      "change_pct": 4.76
     },
     {
       "symbol": "BNB",
-      "price": 726.42,
-      "change_pct": 5.73
+      "price": 724.88,
+      "change_pct": 4.59
     },
     {
       "symbol": "NEAR",
-      "price": 1.95,
-      "change_pct": 4.39
+      "price": 1.94,
+      "change_pct": 2.53
     },
     {
       "symbol": "DOGE",
-      "price": 0.087602,
-      "change_pct": 7.75
+      "price": 0.087114,
+      "change_pct": 5.29
     },
     {
       "symbol": "SPACEX",
-      "price": 552.44,
-      "change_pct": 8.16
+      "price": 545.78,
+      "change_pct": 5.84
     }
   ],
   "earnings": {
@@ -475,8 +475,35 @@
   },
   "news": [
     {
-      "headline": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
-      "summary": "Thai businessmen sue Tether over $42M frozen USDT tied to pig butchering scam, Aussie crypto firms face big fines unless they meet licensing deadline.",
+      "headline": "美国和英国成立针对加密货币诈骗中心的联合联盟",
+      "summary": "该协议包括并行调查和信息共享，美国和英国当局计划 10 月份在伦敦开展私营部门破坏行动。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-uk-joint-alliance-crypto-scam-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788496435,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国银行机构授予区块链银行 OpenReserve 初步运营许可",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/09/03/u-s-banking-agency-gives-blockchain-bank-openreserve-initial-ok-to-operate",
+      "datetime": 1788492410,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "AMC首席执行官抨击Robinhood的股票代币，使合成股票成为人们关注的焦点",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/03/amc-ceo-blasts-robinhood-for-stock-token-putting-synthetic-shares-in-spotlight",
+      "datetime": 1788491005,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Tether 因冻结“猪屠夫”币被起诉，6,600 名学生获得加密货币贷款：亚洲快报",
+      "summary": "泰国商人起诉 Tether，指控其冻结的 4200 万美元 USDT 与屠宰骗局有关；澳大利亚加密货币公司除非在许可截止日期前完成，否则将面临巨额罚款。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788478809,
@@ -484,8 +511,8 @@
       "related": ""
     },
     {
-      "headline": "CFTC files to dismiss CME lawsuit over crypto perpetual futures",
-      "summary": "The CFTC’s lawyers called the lawsuit “much ado about nothing,“ claiming that the CME Group lacked standing to file and argued against its claims over crypto perpetual futures.",
+      "headline": "美国商品期货交易委员会 (CFTC) 提交申请驳回芝加哥商品交易所 (CME) 关于加密货币永续期货的诉讼",
+      "summary": "美国商品期货交易委员会的律师称该诉讼“无事生非”，声称芝商所缺乏提起诉讼的资格，并对其有关加密货币永续期货的索赔提出了异议。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788469753,
@@ -493,8 +520,8 @@
       "related": ""
     },
     {
-      "headline": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
-      "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+      "headline": "Adobe 任命 Anil Chakravarthy 为首席执行官，接替 Shantanu Narayen",
+      "summary": "Adobe 宣布 Anil Chakravarthy 担任下一任首席执行官，接替去年 3 月宣布离职的 Shantanu Narayen。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
       "datetime": 1788467368,
@@ -502,8 +529,8 @@
       "related": ""
     },
     {
-      "headline": "Mantle adds Paxos’ USDG stablecoin, joins Global Dollar Network",
-      "summary": "Mantle has added Paxos-issued USDG as a natively minted stablecoin while joining the network’s reward-sharing structure.",
+      "headline": "Mantle 添加 Paxos 的 USDG 稳定币，加入全球美元网络",
+      "summary": "Mantle 添加了 Paxos 发行的 USDG 作为本地铸造的稳定币，同时加入了网络的奖励共享结构。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788464216,
@@ -511,8 +538,8 @@
       "related": ""
     },
     {
-      "headline": "Michigan authorities continue pursuit to block Kalshi as Supreme Court fight looms",
-      "summary": "Kalshi previously said it had been placed in an “impossible position” after federal authorities directed the company to ignore a Michigan restraining order issued in June.",
+      "headline": "随着最高法院的斗争迫在眉睫，密歇根州当局继续寻求阻止卡尔希",
+      "summary": "Kalshi 此前表示，在联邦当局指示该公司无视密歇根州 6 月份发布的限制令后，该公司已处于“不可能的境地”。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/michigan-block-kalshi-supreme-court-legal-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788462706,
@@ -520,8 +547,8 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin reclaims $80K as DXY falls amid continuing suspected yen intervention",
-      "summary": "Bitcoin rallied 5% to reclaim $80,000 as the US dollar weakened amid a suspected Bank of Japan currency intervention, though analysts remain split on the impact.",
+      "headline": "由于日元汇率持续受到怀疑，美元指数下跌，比特币重拾 8 万美元",
+      "summary": "由于疑似日本央行货币干预，美元走弱，比特币上涨 5%，收复 80,000 美元，但分析师对其影响仍存在分歧。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/bitcoin-reclaims-810-dxy-falls-amid-continuing-suspected-yen-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788461062,
@@ -529,8 +556,8 @@
       "related": ""
     },
     {
-      "headline": "We're lifting our price targets on 2 stocks that have shaken off AI disruption concerns",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "headline": "我们正在上调两只已经摆脱了人工智能颠覆担忧的股票的价格目标",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/were-lifting-our-price-targets-on-2-stocks-that-have-shaken-off-ai-disruption-concerns.html",
       "datetime": 1788460053,
@@ -538,8 +565,8 @@
       "related": ""
     },
     {
-      "headline": "What's behind Nvidia buying Hugging Face? A past Microsoft deal offers clues",
-      "summary": "This is nothing new to the world of Big Tech.",
+      "headline": "Nvidia 收购 Hugging Face 背后的原因是什么？微软过去的一笔交易提供了线索",
+      "summary": "这对于大型科技世界来说并不是什么新鲜事。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/whats-behind-nvidia-buying-hugging-face-look-to-microsoft.html",
       "datetime": 1788459270,
@@ -547,8 +574,8 @@
       "related": ""
     },
     {
-      "headline": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
-      "summary": "Options traders are kicking off the historically worst month for stocks by piling on bullish bets on a handful of retail trading favorites.",
+      "headline": "随着罗宾汉和特斯拉的飙升，期权交易量在零售交易中激增",
+      "summary": "期权交易员通过对少数零售交易热门股票进行看涨押注，开启了股市历史上最糟糕的一个月。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
       "datetime": 1788458213,
@@ -556,8 +583,8 @@
       "related": ""
     },
     {
-      "headline": "Bybit Pay integrates with Mesh to expand crypto payments",
-      "summary": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
+      "headline": "Bybit Pay 与 Mesh 集成以扩展加密支付",
+      "summary": "通过此次集成，Bybit 用户可以直接从 Mesh 支持的平台上的交易余额中支出数字资产。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788455584,
@@ -565,8 +592,8 @@
       "related": ""
     },
     {
-      "headline": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
-      "summary": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
+      "headline": "BitMEX 联合创始人贡献了 Reform UK 2026 年第二季度捐款的 75%",
+      "summary": "英国政党及其领导人奈杰尔·法拉奇(Nigel Farage)接受了与加密货币行业相关的人士的捐款，引发了对政策潜在影响的质疑。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788455188,
@@ -574,8 +601,8 @@
       "related": ""
     },
     {
-      "headline": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
-      "summary": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+      "headline": "汽车制造商敦促国会永久禁止中国联网汽车在美国销售",
+      "summary": "美国主要汽车制造商敦促国会禁止在国内销售、进口和制造中国的联网汽车、硬件和软件。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
       "datetime": 1788454273,
@@ -583,8 +610,8 @@
       "related": ""
     },
     {
-      "headline": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
+      "headline": "Kraken 母公司 Payward 与 SoFi 合作开发稳定币、24/7 结算",
+      "summary": "该交易将把 SoFiUSD 引入 Kraken，将 Payward 连接到 SoFi 的 24/7 美元结算网络，并让 SoFi 通过 Kraken Prime 获得数字资产流动性。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788451451,
@@ -592,7 +619,7 @@
       "related": ""
     },
     {
-      "headline": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "headline": "渣打银行将现货加密货币交易引入迪拜外汇平台",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
@@ -601,8 +628,8 @@
       "related": ""
     },
     {
-      "headline": "Big lessons from 12 stock exits, including Cramer's biggest-ever disappointment",
-      "summary": "For stock investors, 2026 has meant constantly adjusting to geopolitical and economic pressures — and most importantly, protecting profits.",
+      "headline": "12次股票退出的重大教训，包括克莱默有史以来最大的失望",
+      "summary": "对于股票投资者来说，2026 年意味着不断调整以适应地缘政治和经济压力，最重要的是保护利润。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/big-lessons-from-12-stock-exits-including-cramers-biggest-ever-disappointment-.html",
       "datetime": 1788450786,
@@ -610,7 +637,7 @@
       "related": ""
     },
     {
-      "headline": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "headline": "顾问的加密货币：为什么加密货币收益报告可能具有误导性",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
@@ -619,7 +646,7 @@
       "related": ""
     },
     {
-      "headline": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+      "headline": "随着 Robinhood Chain 活动的爆炸式增长，memecoin 制作应用程序成为加密货币的最大费用产生者",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
@@ -628,7 +655,7 @@
       "related": ""
     },
     {
-      "headline": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "headline": "Bitget 正在与包括贝莱德在内的华尔街巨头进行谈判，以推动亚洲分销",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
@@ -637,8 +664,8 @@
       "related": ""
     },
     {
-      "headline": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "summary": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
+      "headline": "恢复专家破解了价值 10 亿美元的加密钱包...但只找到了 10 美元",
+      "summary": "加密货币恢复专家揭示了如何恢复丢失的钱包、密码和助记词，但如果钱一开始就不存在，那就没有任何帮助。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788442200,
@@ -646,8 +673,8 @@
       "related": ""
     },
     {
-      "headline": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-      "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
+      "headline": "VARA 与 Securitize 在迪拜签署代币化创新谅解备忘录",
+      "summary": "VARA 和 Securitize 签署了一份谅解备忘录，以在迪拜促进更多的代币化创新，并探索如何在该地区监管代币化金融创新。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788440400,
@@ -655,8 +682,8 @@
       "related": ""
     },
     {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "summary": "Snowflake is the big earnings winner, and Broadcom CEO Hock Tan offered bullish long-term AI targets.",
+      "headline": "吉姆·克莱默 (Jim Cramer) 周四股市最值得关注的 10 件事",
+      "summary": "Snowflake 是最大的盈利赢家，博通首席执行官 Hock Tan 提出了看涨的长期人工智能目标。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
       "datetime": 1788439722,
@@ -664,8 +691,8 @@
       "related": ""
     },
     {
-      "headline": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-      "summary": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
+      "headline": "Nvidia 以 12.9B 美元收购 Hugging Face，进军人工智能软件领域",
+      "summary": "Nvidia 同意以 129.3 亿美元收购 Hugging Face，获得了超过 1800 万开发者用来共享和部署 AI 模型的平台。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788439271,
@@ -673,8 +700,8 @@
       "related": ""
     },
     {
-      "headline": "How much money Americans in their 30s and 40s have in their 401(k)s—see how you stack up",
-      "summary": "Here's how financial pros say you can tell if you're on track to retire, and how to catch up if you've fallen behind.",
+      "headline": "30 多岁和 40 多岁的美国人的 401(k) 账户里有多少钱——看看你的情况如何",
+      "summary": "财务专家介绍了如何判断自己是否即将退休，以及如何在落后时迎头赶上。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/how-much-money-americans-in-their-30s-and-40s-have-in-their-401ks.html",
       "datetime": 1788436801,
@@ -682,8 +709,8 @@
       "related": ""
     },
     {
-      "headline": "Billionaire family offices back health care and biotech startups in August",
-      "summary": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
+      "headline": "亿万富翁家族办公室八月份支持医疗保健和生物技术初创公司",
+      "summary": "斯坦利·德鲁肯米勒等巨头的个人投资公司正在支持基因编辑、药物发现等方面的创新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
       "datetime": 1788436801,
@@ -691,7 +718,7 @@
       "related": ""
     },
     {
-      "headline": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
+      "headline": "SoFi 与 Kraken 联手，加密货币与银行业互相争锋",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
@@ -700,7 +727,7 @@
       "related": ""
     },
     {
-      "headline": "FX has stopped reading bond yields the old way. Bitcoin should too.",
+      "headline": "外汇已经停止以旧的方式解读债券收益率。比特币也应该如此。",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/daybook-us/2026/09/03/fx-has-stopped-reading-bond-yields-the-old-way-bitcoin-should-too",
@@ -709,38 +736,11 @@
       "related": ""
     },
     {
-      "headline": "The yen is surging and it’s helping bitcoin, for now",
+      "headline": "日元正在飙升，目前正在帮助比特币",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/03/the-yen-is-surging-and-it-s-helping-bitcoin-for-now",
       "datetime": 1788434396,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-      "summary": "Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788433174,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Live updates: Bitcoin shrugs off higher oil prices as Japanese yen rallies",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
-      "datetime": 1788432135,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitcoin recovers toward $78,000 as pons and arbitrum extend Robinhood Chain rally",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
-      "datetime": 1788431392,
       "category": "crypto",
       "related": ""
     }
@@ -754,7 +754,7 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "Hut 8's Texas power site sits inside Anthropic’s $35 billion AI deal",
+          "headline": "Hut 8 的德克萨斯州发电站位于 Anthropic 价值 350 亿美元的人工智能交易中",
           "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
           "datetime": 1788264704
         }
@@ -764,12 +764,12 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "OpenAI says its new 'Astra' AI can build attacks without human help",
+          "headline": "OpenAI 表示其新的“Astra”人工智能无需人工帮助即可发起攻击",
           "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
           "datetime": 1788326931
         },
         {
-          "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+          "headline": "OpenAI 表示 Astra 人工智能模型是第一个跨越“关键”网络安全能力的模型",
           "url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
           "datetime": 1788293555
         }
@@ -797,32 +797,32 @@
     }
   ],
   "btc_score": {
-    "score": 42.6,
-    "level": "偏恐慌",
-    "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 18.2,
-    "weekly_score": 24.4,
-    "btc_price": 81292.5,
+    "score": 46.7,
+    "level": "中性",
+    "suggestion": "市场情绪平衡，保持现有仓位观望",
+    "daily_score": 22.1,
+    "weekly_score": 24.6,
+    "btc_price": 80942.9,
     "fear_greed": 78,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 227200000,
-        "score": 65,
+        "value": 730800000,
+        "score": 98,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.009147,
-        "score": 50,
+        "value": 0.008486,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 0.79,
-        "score": 19,
+        "value": 0.8,
+        "score": 20,
         "weight": 5,
         "group": "daily"
       },
@@ -884,15 +884,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 65.9,
-        "score": 77,
+        "value": 65.6,
+        "score": 76,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -38.6,
-        "score": 34,
+        "value": -19.9,
+        "score": 40,
         "weight": 4,
         "group": "weekly"
       }
@@ -1010,7 +1010,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1506,
+        "likes": 1507,
         "retweets": 116
       },
       {
@@ -1054,7 +1054,7 @@
         "text": "owning a piece of a\n- frontier lab\n- trading at 17 fwd pe\n- growing 30% yoy\n- with half of global population on their platforms to distribute their ai products to\n- led by a founder ceo with big chip on his shoulder\n- with brutally efficient work culture\n- that survived multiple https://t.co/GkVq2wafjp",
         "url": "https://x.com/QwQiao/status/2095464249401147659",
         "time": "Thu Sep 03 10:49:43 +0000 2026",
-        "likes": 263,
+        "likes": 273,
         "retweets": 7
       },
       {
@@ -1068,7 +1068,7 @@
         "text": "to put things in context zcash outperformed every single name in the ai / semis complex except one over the past year. and that is during a crypto bear market and ai bull market. meanwhile half of ct is still fading it and no one outside this little circle is even paying https://t.co/ORVX0pwVgn",
         "url": "https://x.com/QwQiao/status/2094083816516145262",
         "time": "Sun Aug 30 15:24:22 +0000 2026",
-        "likes": 610,
+        "likes": 611,
         "retweets": 81
       },
       {
@@ -1084,36 +1084,36 @@
         "text": "Bears, this is your stop. https://t.co/PXSh2xgdOs",
         "url": "https://x.com/saylor/status/2095524315936530834",
         "time": "Thu Sep 03 14:48:24 +0000 2026",
-        "likes": 16213,
-        "retweets": 1571
+        "likes": 17854,
+        "retweets": 1746
       },
       {
         "text": "Play the long game. https://t.co/BXslAHd4Y5",
         "url": "https://x.com/saylor/status/2095419991440891984",
         "time": "Thu Sep 03 07:53:51 +0000 2026",
-        "likes": 5032,
-        "retweets": 469
+        "likes": 5327,
+        "retweets": 503
       },
       {
         "text": "Strategy now has more Total Reserve Capital than every financial services company in the S&amp;P 500 except Berkshire Hathaway. $MSTR",
         "url": "https://x.com/saylor/status/2095216788153741432",
         "time": "Wed Sep 02 18:26:24 +0000 2026",
-        "likes": 9853,
-        "retweets": 1028
+        "likes": 10163,
+        "retweets": 1067
       },
       {
         "text": "Game. Set. ₿itcoin. https://t.co/7CHi2EJQ39",
         "url": "https://x.com/saylor/status/2095047682913939676",
         "time": "Wed Sep 02 07:14:26 +0000 2026",
-        "likes": 9522,
-        "retweets": 905
+        "likes": 9630,
+        "retweets": 917
       },
       {
         "text": "Credit on the ₿itcoin Standard.",
         "url": "https://x.com/saylor/status/2094905979062169997",
         "time": "Tue Sep 01 21:51:21 +0000 2026",
-        "likes": 3233,
-        "retweets": 295
+        "likes": 3236,
+        "retweets": 297
       }
     ],
     "viktorfischer": [
@@ -1157,97 +1157,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Phreesia Stock Tumbled Today",
-        "url": "https://finnhub.io/api/news?id=6f6b95ddd41d7db72cb8d439272bc0613085809dfd0f853890310c6d8d878386",
-        "datetime": 1788478889,
+        "headline": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+        "url": "https://finnhub.io/api/news?id=9d36cc9eb490aa7103e7db5046afc338a6b06400fa583372f80ddb71940e8e44",
+        "datetime": 1788492000,
         "source": "Yahoo"
       },
       {
-        "headline": "Where Will Bitcoin Be in 2030?",
-        "url": "https://finnhub.io/api/news?id=6c9d8333a98a1a73abeba102c386a11e8746a088dfb710a28bb25f0741c133c1",
-        "datetime": 1788478860,
+        "headline": "Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road",
+        "url": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e",
+        "datetime": 1788491338,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Officially Launches the Cybercab -- 2 Things Investors Need to Know",
-        "url": "https://finnhub.io/api/news?id=88d566a367b8ab121343dd34f6d3c7f3d7e8d8ce5643096f3de4f7eda96e3677",
-        "datetime": 1788478445,
+        "headline": "Robinhood Now Runs 13 Revenue Lines Above $100 Million a Year. A 2-Month-Old Network Could Be Next.",
+        "url": "https://finnhub.io/api/news?id=1bc5180d29baff2acb00ff41dcd8eb303308f23933258ce3f9ed71da612e888d",
+        "datetime": 1788489961,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Microsoft Stock Is Up Today",
-        "url": "https://finnhub.io/api/news?id=5d1aefaa49dec1397eeeb379741fc0c1d31ff72cfacd148e83cbe4c8680c7da7",
-        "datetime": 1788477608,
+        "headline": "If Democrats Win the Midterms and Take Back the White House, What Happens to Bitcoin? VanEck Says Bitcoin Investors Don't Need to Worry.",
+        "url": "https://finnhub.io/api/news?id=b13a7fbfa4b1a21b9000196d4c036766b137023fa17c5ddc6e6897aa1e2f3cc0",
+        "datetime": 1788486600,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Copart Stock Ticked 4% Higher on Thursday",
-        "url": "https://finnhub.io/api/news?id=746b6308255335d0f56941d1d607ec84c9ec1198f23ae079339f4972b173fd53",
-        "datetime": 1788477370,
+        "headline": "Why Robinhood Stock Rocketed Higher Today",
+        "url": "https://finnhub.io/api/news?id=1d8d05fb1fd22f3a410a94aced45199d14582b1ae14242f8d693ea15bb46e2f5",
+        "datetime": 1788486378,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Eos Energy Enterprises (EOSE) Stock Dropped, So What Is Driving Attention Now?",
-        "url": "https://finnhub.io/api/news?id=688f68551e46ca94d9d89fcf743c95c06e30d3e077e66ebe51ac3d1e5ddd611c",
-        "datetime": 1788476985,
+        "headline": "Opinion: TSMC Is a Better Buy Than Any of the \"Magnificent Seven\" Stocks Right Now",
+        "url": "https://finnhub.io/api/news?id=9d36cc9eb490aa7103e7db5046afc338a6b06400fa583372f80ddb71940e8e44",
+        "datetime": 1788492000,
         "source": "Yahoo"
       },
       {
-        "headline": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy?",
-        "url": "https://finnhub.io/api/news?id=c780a6e8d681c986341e46c249623dc3e4009a0803b16b3c4aa0c73616f51a7d",
-        "datetime": 1788474180,
+        "headline": "Microsoft drops $101.9 billion surprise as AI reshapes company",
+        "url": "https://finnhub.io/api/news?id=62b589b09e675758a950d2ff51ded5901c1fc14c245f5dbcb92a9fa33c44a3c7",
+        "datetime": 1788489180,
         "source": "Yahoo"
       },
       {
-        "headline": "Should You Buy Reddit Stock Because Its Renewal Risk Is Already Priced In?",
-        "url": "https://finnhub.io/api/news?id=938f14789a95c845259a01e18c8aaa49af27fc1d94254cb07136f54afd32a71a",
-        "datetime": 1788473279,
+        "headline": "Does Marvell (MRVL) Signal Patience or Urgency With Its AI Data Center Timeline and Buybacks?",
+        "url": "https://finnhub.io/api/news?id=34e2e60420052a6c879f3b870fb3ba08349ac15433e4c96b3dba701e7cdcece1",
+        "datetime": 1788481263,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Launching Cybercab Robotaxis. Here's What To Look For.",
-        "url": "https://finnhub.io/api/news?id=57e1df34c2dd2abc235ea2b85e9974ccb5a2b31591153b23dcadc0c36e801c95",
-        "datetime": 1788472897,
+        "headline": "Google Just Won the Right to Keep Its Ad Tech Tools. They Live in the One Business It Has That Is Shrinking.",
+        "url": "https://finnhub.io/api/news?id=a4f9c7399d26a285830d0f12e83fd19af9b433576f19536e973f7064cbe3618e",
+        "datetime": 1788480721,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla's 45 Cybercabs Face a $1.3 Trillion Reality Check",
-        "url": "https://finnhub.io/api/news?id=8b507ea66e33c68f118a0a4f17ca1178848f72a9f9e5e024b74cbd029d53cde7",
-        "datetime": 1788471247,
-        "source": "Yahoo"
+        "headline": "Alphabet: AI Pivot Creates A New Frontier For Growth",
+        "url": "https://finnhub.io/api/news?id=aac0ab04a2bd772f95a02f268f4666e518232363daf7feaaa6998049976059dd",
+        "datetime": 1788477319,
+        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
       {
-        "headline": "TSLA Stock Rallies Into Invite-Only Cybercab Event — Then Trades Flat After-Hours As The Wheel-Free Car Hits Austin Streets",
-        "url": "https://finnhub.io/api/news?id=3c7ce04190cf6db13ccdcb730e893259303639ae4d66e1895eb4b7753d61357b",
-        "datetime": 1788478923,
+        "headline": "Dow Jones Futures Await Jobs Report After Bullish Market Move; Tesla Cybercabs Hit The Road",
+        "url": "https://finnhub.io/api/news?id=4d47d9e4de9b2edd086977f6f843750a1d541ce8429472ff501406f87e95f81e",
+        "datetime": 1788491338,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Officially Launches the Cybercab -- 2 Things Investors Need to Know",
-        "url": "https://finnhub.io/api/news?id=88d566a367b8ab121343dd34f6d3c7f3d7e8d8ce5643096f3de4f7eda96e3677",
-        "datetime": 1788478445,
+        "headline": "Dow, S&P 500, Nasdaq Futures Tread Water As August Jobs Data Looms: TSLA, LULU, PL, CRDO Stocks In Focus",
+        "url": "https://finnhub.io/api/news?id=728a0f19bb7e14e4d433d3269cf626cd80aeca0ba4bbba1ea418453976212f3c",
+        "datetime": 1788491100,
         "source": "Yahoo"
       },
       {
-        "headline": "Musk Said Robots Will Outproduce All Humans, Then Promised Austin 30,000 Jobs",
-        "url": "https://finnhub.io/api/news?id=30614bf9877b604d48f3facc2f5418c25eea9c596993b9ef8a70db09d5e1b9f2",
-        "datetime": 1788475705,
+        "headline": "TSLA Stock Slips Overnight As Safety Regulator Scrutinizes Cybercab — Retail Fumes Over Event Blackout",
+        "url": "https://finnhub.io/api/news?id=70a6e8489a212bfe64aac69079f9f9e670963e3360184d59e484a064a892b7f7",
+        "datetime": 1788487093,
         "source": "Yahoo"
       },
       {
-        "headline": "Someone Just Staked $10 Million That Musk’s SpaceX Will Reclaim a Price It Lost in June",
-        "url": "https://finnhub.io/api/news?id=6eb9cbcb16c550b9aaa719d2a905f5f1640e1204f638f79f624b68995c8fc0aa",
-        "datetime": 1788474963,
+        "headline": "Why Are Tesla (TSLA) Shares Soaring Today",
+        "url": "https://finnhub.io/api/news?id=dee6f604d6ece1718f96068d52ac10f4c765d9f9e870df7600d869fc9206d864",
+        "datetime": 1788486198,
         "source": "Yahoo"
       },
       {
-        "headline": "S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus",
-        "url": "https://finnhub.io/api/news?id=780091ce7a9d12e6e56a2a3c17630077b5692f9b64c6f55609fb0985a89526b0",
-        "datetime": 1788474298,
+        "headline": "Dow Jones Futures: Tesla Cybercabs Hit The Road, Jobs Report Looms",
+        "url": "https://finnhub.io/api/news?id=770043a0590350ef40bc9806df720b7731d3ff079ab2c9423d2d6f229b45267a",
+        "datetime": 1788483244,
         "source": "Yahoo"
       }
     ],
@@ -1332,21 +1332,21 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "JUST IN: @SuperteamAU has helped launch the Buy Australian AI Partnership as a founding partner, alongside the National AI Centre, Stone &amp; Chalk and four of Australia's major banks.",
+        "url": "https://x.com/solana/status/2095738924177973409",
+        "datetime": 1788498071,
+        "source": "@solana"
+      },
+      {
+        "headline": "Agents are booking restaurants, buying on Amazon, using APIs, and paying for their own compute on Solana\n\n- @moonpay launched PayBox\n- @tryramp added agent wallets\n- Solana leads in x402 transactions ",
+        "url": "https://x.com/solana/status/2095697752625725459",
+        "datetime": 1788488255,
+        "source": "@solana"
+      },
+      {
         "headline": "1,000,000 payments per second. Live on Solana today with Payment Channels.\n\n\"Think of it like a bar tab or a prepaid meter: you put money down up front, run up usage without paying for each transactio",
         "url": "https://x.com/solana/status/2095623657406029907",
         "datetime": 1788470589,
-        "source": "@solana"
-      },
-      {
-        "headline": "Solana has the strongest founder ecosystem in crypto\n\nTime to prove it in a bigger @colosseum arena",
-        "url": "https://x.com/solana/status/2095598841621786803",
-        "datetime": 1788464672,
-        "source": "@solana"
-      },
-      {
-        "headline": "Payment Channels is now live on Solana\n\nLearn more about how to achieve 1M payments per second on Solana via x402 and MPP from @_rishinsharma, Head of AI Growth, @SolanaFndn",
-        "url": "https://x.com/solana/status/2095585115250585952",
-        "datetime": 1788461400,
         "source": "@solana"
       }
     ],
