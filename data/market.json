@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T00:31:00.981Z",
+  "updated_at": "2026-09-05T05:07:05.697Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 33.96,
-      "change_pct": -6.45
+      "price": 34.81,
+      "change_pct": 2.5
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79663,
-      "change_pct": -1.84
+      "price": 79475,
+      "change_pct": -1.88
     },
     {
       "symbol": "ETH",
-      "price": 2453.32,
-      "change_pct": -2.12
+      "price": 2446.7,
+      "change_pct": -2.44
     },
     {
       "symbol": "SOL",
-      "price": 101.88,
-      "change_pct": -1.71
+      "price": 101.65,
+      "change_pct": -2.06
     },
     {
       "symbol": "HYPE",
-      "price": 84.53,
-      "change_pct": -2.63
+      "price": 83.83,
+      "change_pct": -3.03
     },
     {
       "symbol": "ZEC",
-      "price": 1019.3,
-      "change_pct": 8.03
+      "price": 1014.14,
+      "change_pct": 6.86
     },
     {
       "symbol": "TAO",
-      "price": 226.29,
-      "change_pct": 0.33
+      "price": 226.21,
+      "change_pct": -1.53
     },
     {
       "symbol": "SKY",
-      "price": 1559.64,
-      "change_pct": -1.94
+      "price": 1548.48,
+      "change_pct": -3.08
     },
     {
       "symbol": "AAVE",
-      "price": 130.95,
-      "change_pct": -1.16
+      "price": 128.92,
+      "change_pct": -3.58
     },
     {
       "symbol": "BNB",
-      "price": 720.15,
-      "change_pct": -0.82
+      "price": 721.05,
+      "change_pct": -0.64
     },
     {
       "symbol": "NEAR",
-      "price": 2.24,
-      "change_pct": 15.38
+      "price": 2.2,
+      "change_pct": 13.31
     },
     {
       "symbol": "DOGE",
-      "price": 0.084743,
-      "change_pct": -3.02
+      "price": 0.084548,
+      "change_pct": -2.9
     },
     {
       "symbol": "SPACEX",
-      "price": 541.03,
-      "change_pct": -2.07
+      "price": 538.08,
+      "change_pct": -1.39
     }
   ],
   "earnings": {
@@ -484,7 +484,7 @@
       "related": ""
     },
     {
-      "headline": "法官考虑如何驳回对奥林匹亚运动员的反射池破坏行为指控",
+      "headline": "法官考虑如何驳回对奥林匹克运动员的倒影池破坏行为指控",
       "summary": "特朗普总统表示，倒影池的损坏是由于故意破坏造成的，而不是像检察官所说的那样，是因为新班轮的安装有缺陷。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
@@ -574,7 +574,7 @@
       "related": ""
     },
     {
-      "headline": "从警告到上市：英国最大的零售投资平台开放加密 ETN 访问",
+      "headline": "从警告到上市：英国最大的零售投资平台开放加密货币 ETN",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
@@ -673,7 +673,7 @@
       "related": ""
     },
     {
-      "headline": "监管压力加大，美国 Kalshi 访问量猛增 1,500%",
+      "headline": "随着监管压力加大，美国 Kalshi 访问量猛增 1,500%",
       "summary": "Kalshi 的美国网络流量在不到一年的时间里增长了 1,500% 以上，而交易量增长得更快，对其体育合同的法律审查也加强了。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -763,6 +763,11 @@
           "datetime": 1788500983
         },
         {
+          "headline": "OpenAI 推出带有网络护栏的 GPT-6 Astra 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
+          "datetime": 1788484514
+        },
+        {
           "headline": "OpenAI 表示其新的“Astra”人工智能无需人工帮助即可发起攻击",
           "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
           "datetime": 1788326931
@@ -791,32 +796,32 @@
     }
   ],
   "btc_score": {
-    "score": 47.7,
-    "level": "中性",
-    "suggestion": "市场情绪平衡，保持现有仓位观望",
-    "daily_score": 22.3,
+    "score": 43.4,
+    "level": "偏恐慌",
+    "suggestion": "市场偏冷，可适度布局",
+    "daily_score": 18,
     "weekly_score": 25.4,
-    "btc_price": 79677.4,
+    "btc_price": 79469.7,
     "fear_greed": 75,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 730800000,
-        "score": 98,
+        "value": 174600000,
+        "score": 62,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.000057,
+        "value": 0.000382,
         "score": 45,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.01,
-        "score": 34,
+        "value": 1.02,
+        "score": 35,
         "weight": 5,
         "group": "daily"
       },
@@ -878,15 +883,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 64.5,
+        "value": 64.3,
         "score": 74,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -77.8,
-        "score": 24,
+        "value": -71.7,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1004,7 +1009,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1508,
+        "likes": 1509,
         "retweets": 116
       },
       {
@@ -1041,8 +1046,8 @@
         "text": "watched the astra launch video, looks like full computer use. if the real product is that good, then it's a major inflection point: chat -&gt; reasoning -&gt; coding -&gt; full computer use. tam (most white collar jobs) is at least 1 order of magnitude, maybe 2 or 3, that of coding. which",
         "url": "https://x.com/QwQiao/status/2095828684703678481",
         "time": "Fri Sep 04 10:57:51 +0000 2026",
-        "likes": 160,
-        "retweets": 5
+        "likes": 169,
+        "retweets": 6
       },
       {
         "text": "this past year has been the best opportunity in 10yrs to accumulate shares of hyperscalers. every one of them traded near 10yr price multiple lows because the market didn’t believe their capex will pay off (lol)",
@@ -1069,7 +1074,7 @@
         "text": "to put things in context zcash outperformed every single name in the ai / semis complex except one over the past year. and that is during a crypto bear market and ai bull market. meanwhile half of ct is still fading it and no one outside this little circle is even paying https://t.co/ORVX0pwVgn",
         "url": "https://x.com/QwQiao/status/2094083816516145262",
         "time": "Sun Aug 30 15:24:22 +0000 2026",
-        "likes": 613,
+        "likes": 618,
         "retweets": 81
       }
     ],
@@ -1078,36 +1083,36 @@
         "text": "Water under the ₿ridge.  https://t.co/arLzSfBplt",
         "url": "https://x.com/saylor/status/2095957375979003929",
         "time": "Fri Sep 04 19:29:14 +0000 2026",
-        "likes": 3652,
-        "retweets": 324
+        "likes": 4584,
+        "retweets": 413
       },
       {
         "text": "America added 162,000 payroll jobs on a base of 159.1 million—0.10%. BLS puts the 90% confidence interval on the monthly change at roughly ±122,000. Yet trillions in assets reprice because economists guessed 56,000. We have turned statistical noise into monetary policy.",
         "url": "https://x.com/saylor/status/2095861651769573550",
         "time": "Fri Sep 04 13:08:51 +0000 2026",
-        "likes": 7553,
-        "retweets": 707
+        "likes": 7988,
+        "retweets": 739
       },
       {
         "text": "In America, you don’t need a license to discuss Bitcoin, advocate for it, or publicly recommend owning it. Bitcoin is a commodity, not a security. Fraud and manipulation are illegal. Bitcoin advocacy is free speech.",
         "url": "https://x.com/saylor/status/2095820138012447121",
         "time": "Fri Sep 04 10:23:54 +0000 2026",
-        "likes": 8144,
-        "retweets": 738
+        "likes": 8663,
+        "retweets": 794
       },
       {
         "text": "Bears, this is your stop. https://t.co/PXSh2xgdOs",
         "url": "https://x.com/saylor/status/2095524315936530834",
         "time": "Thu Sep 03 14:48:24 +0000 2026",
-        "likes": 21024,
-        "retweets": 2087
+        "likes": 21320,
+        "retweets": 2130
       },
       {
         "text": "Play the long game. https://t.co/BXslAHd4Y5",
         "url": "https://x.com/saylor/status/2095419991440891984",
         "time": "Thu Sep 03 07:53:51 +0000 2026",
-        "likes": 5854,
-        "retweets": 548
+        "likes": 5880,
+        "retweets": 553
       }
     ],
     "viktorfischer": [
@@ -1151,33 +1156,33 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Quanex Stock Skyrocketed by 22% on Friday",
-        "url": "https://finnhub.io/api/news?id=b6de1679abaf28164da1784c7e1973589f2282f3a7e56d4d603f8b1ac0d1eb50",
-        "datetime": 1788568470,
+        "headline": "Honeywell Is Now Three Companies. Here's Which Piece I'd Actually Own.",
+        "url": "https://finnhub.io/api/news?id=a27d21fb8fe0749c92fe9fce7a59f4d3f2048d6a70c14eb816b58bf89f026be6",
+        "datetime": 1788575700,
         "source": "Yahoo"
       },
       {
-        "headline": "ChronoScale Says It Plans a 50 MW Microsoft AI Deployment. Can CHRN Fund the Build Without Diluting Shareholders?",
-        "url": "https://finnhub.io/api/news?id=7d2f2ebf4d76116c9839a16c7d0ac9322a0abf855fddaa7bd0d6c0eb4392f6f0",
-        "datetime": 1788567034,
+        "headline": "Why UiPath Stock Plunged Today",
+        "url": "https://finnhub.io/api/news?id=523db478ed122e76e113e3e4734de8bd3d109547d2feaa7f6ddfdd79c2b090cb",
+        "datetime": 1788575251,
         "source": "Yahoo"
       },
       {
-        "headline": "AWS Plans 2 Million More NVIDIA GPUs. Is This Better News for AMZN’s Cloud Growth or NVDA’s Backlog?",
-        "url": "https://finnhub.io/api/news?id=f6b9f36a37d028d8a79a72f803fd07ef6925ba669ef79ed010f22b1c59c53d75",
-        "datetime": 1788566659,
+        "headline": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
+        "url": "https://finnhub.io/api/news?id=67a905d722fae62095fd741e3d2986e00ad34ed43109c5c29eff4a95be6294b0",
+        "datetime": 1788575054,
         "source": "Yahoo"
       },
       {
-        "headline": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
-        "url": "https://finnhub.io/api/news?id=f9dd7c83e09f821cfb11546d263bb0df470ca36bd8f1c4bc717fa4ede41c4c85",
-        "datetime": 1788566113,
+        "headline": "Spot Memory Prices Are Running 4 Times Contract Prices. That Is Not What a Cycle Peak Looks Like.",
+        "url": "https://finnhub.io/api/news?id=bdcf1a6e451c63c1ffa73f84186529cab6d2a311f280b3586230b29b917839dc",
+        "datetime": 1788573481,
         "source": "Yahoo"
       },
       {
-        "headline": "Why ASML Holding Stock Bumped 4% Higher Today",
-        "url": "https://finnhub.io/api/news?id=deecba037999ae67da7f57dcf03779b17b67d418a340d44ae38c2ffec73439a8",
-        "datetime": 1788565882,
+        "headline": "Where Will Solana Be in 5 Years?",
+        "url": "https://finnhub.io/api/news?id=64d8f4c8a790f874ad5563185f0437c51dfb3dcb32456c9c9b1130178515a0cb",
+        "datetime": 1788571020,
         "source": "Yahoo"
       }
     ],
@@ -1215,6 +1220,18 @@
     ],
     "TSLA": [
       {
+        "headline": "SpaceX is now in your 401(k), and Musk is the risk",
+        "url": "https://finnhub.io/api/news?id=3efa4f469f452582e3926ff67b3cde1e4a264600f89f8e21bb7ca83951e10ee8",
+        "datetime": 1788573780,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla (TSLA) Stock Trades Down, Here Is Why",
+        "url": "https://finnhub.io/api/news?id=8c35cf54ba6d28bf5d1cc75f688d6c084060c0ba2a4b0d214cf8129ea628605b",
+        "datetime": 1788573490,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Tesla Launched the Cybercab Thursday, 6 Weeks After Removing Volume Production of It From This Year's Plan",
         "url": "https://finnhub.io/api/news?id=8872255e3277849cfc14a56c7d9c0d0935ef8d2a026b10d9390ba1d51c83c0b0",
         "datetime": 1788565261,
@@ -1227,21 +1244,9 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Volkswagen Targets 10% Margin by 2030 With €135B Plan, 50,000 Job Cuts",
-        "url": "https://finnhub.io/api/news?id=097b64f506ae901b599f98534aeefd8a718bcd48404c3bfdd42675afbf145a89",
-        "datetime": 1788559317,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "From Launch Party to Federal Probe: What Went Wrong With Tesla's Cybercab in 24 Hours",
-        "url": "https://finnhub.io/api/news?id=c60d480af4ed2a78af0d7e2e7e913ee06adfc9a13b5ce57fc4547f9c586cd7fe",
-        "datetime": 1788558601,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
-        "url": "https://finnhub.io/api/news?id=d08321505de6b22b47457f27ed25b47254cdcf566153031645707b4b37a014b6",
-        "datetime": 1788558303,
+        "headline": "Self-Driving’s Next Task: Potholes",
+        "url": "https://finnhub.io/api/news?id=b32a2f6aee931ae85cc74dc68caa109016852fd17d4b1cbe93af98a2136d3301",
+        "datetime": 1788563820,
         "source": "Yahoo"
       }
     ],
