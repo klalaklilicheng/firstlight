@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T13:26:10.560Z",
+  "updated_at": "2026-09-06T16:36:43.854Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79833,
-      "change_pct": 0.09
+      "price": 79751,
+      "change_pct": -0.26
     },
     {
       "symbol": "ETH",
-      "price": 2493.81,
-      "change_pct": 1.33
+      "price": 2484.73,
+      "change_pct": 0.72
     },
     {
       "symbol": "SOL",
-      "price": 106.25,
-      "change_pct": 2.92
+      "price": 106.2,
+      "change_pct": 2.86
     },
     {
       "symbol": "HYPE",
-      "price": 88.92,
-      "change_pct": 4.04
+      "price": 88.36,
+      "change_pct": 2.96
     },
     {
       "symbol": "ZEC",
-      "price": 1184.31,
-      "change_pct": 16.26
+      "price": 1180.25,
+      "change_pct": 15.12
     },
     {
       "symbol": "TAO",
-      "price": 245.5,
-      "change_pct": 3.33
+      "price": 248.81,
+      "change_pct": 5.8
     },
     {
       "symbol": "SKY",
-      "price": 1654.01,
-      "change_pct": 6.5
+      "price": 1631.1,
+      "change_pct": 4.82
     },
     {
       "symbol": "AAVE",
-      "price": 134.94,
-      "change_pct": 3.26
+      "price": 134.01,
+      "change_pct": 1.59
     },
     {
       "symbol": "BNB",
-      "price": 751.37,
-      "change_pct": -1.79
+      "price": 747.64,
+      "change_pct": -3.1
     },
     {
       "symbol": "NEAR",
-      "price": 2.38,
-      "change_pct": 7.02
+      "price": 2.44,
+      "change_pct": 11.14
     },
     {
       "symbol": "DOGE",
-      "price": 0.089511,
-      "change_pct": 2.2
+      "price": 0.089126,
+      "change_pct": 1.82
     },
     {
       "symbol": "SPACEX",
-      "price": 588.64,
-      "change_pct": 9.55
+      "price": 592.15,
+      "change_pct": 12.49
     }
   ],
   "earnings": {
@@ -475,6 +475,42 @@
   },
   "news": [
     {
+      "headline": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
+      "summary": "Through her project \"What We Tell AI,\" Olivia Tai has collected over 350 handwritten secrets about how people use AI to navigate dating, work and life.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/artists-ai-secrets-project-collects-hundreds-of-anonymous-confessions.html",
+      "datetime": 1788703201,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+      "datetime": 1788703200,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Parents who are really good at handling tantrums do 5 things—their kids become more emotionally intelligent, says psychologist",
+      "summary": "\"These kids become more emotionally intelligent, which helps them weather setbacks, embrace independence and try new things,\" says Juli Fraga.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/06/parents-who-are-really-good-at-handling-tantrums-do-things-psychologist.html",
+      "datetime": 1788701761,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788699708,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "AI data centers are transforming rural land markets — and fueling a backlash",
       "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
       "source": "CNBC",
@@ -511,11 +547,29 @@
       "related": ""
     },
     {
+      "headline": "World’s biggest money managers are rebuilding gold positions",
+      "summary": "Major money managers are increasing gold holdings, anticipating long-term value despite Fed's inflation measures and rising interest rates.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-s-biggest-money-managers-are-rebuilding-gold-positions",
+      "datetime": 1788624962,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "I'm a nutritionist from Japan: 7 'essential' anti-inflammatory foods that I swear by",
       "summary": "Japanese nutritionist and longevity expert Michiko Tomioka shares the inflammation-fighting foods that are always in her kitchen.",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/05/nutritionist-from-japan-essential-anti-inflammatory-foods-i-swear-by.html",
       "datetime": 1788622201,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Singapore government won’t interfere in Singapore Air’s Air India decisions",
+      "summary": "Singapore says it will not interfere in Singapore Air’s Air India investment decisions as the carrier is reportedly seeking Rs 100 billion in shareholder aid.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india",
+      "datetime": 1788620372,
       "category": "top news",
       "related": ""
     },
@@ -689,60 +743,6 @@
       "datetime": 1788531791,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "U.S. Sheriff’s association shifts opposition stance to Clarity Act to 'neutral'",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-      "datetime": 1788531154,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
-      "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
-      "datetime": 1788531022,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "Gloria Steinem hosted salons in her living room for decades—how to gather for conversation and connection, says expert",
-      "summary": "Steinem's living room \"cracked open opportunities to lend support, let ideas flow, and build trust face-to-face,\" says journalist and author Allison Gilbert, founder of More Connected.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html",
-      "datetime": 1788529092,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
-      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788528870,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Token buybacks are booming. But are they good for crypto projects?",
-      "summary": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788528600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
-      "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
-      "datetime": 1788527366,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 43.3,
+    "score": 43.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 18.4,
-    "weekly_score": 24.9,
-    "btc_price": 79816.1,
+    "weekly_score": 24.8,
+    "btc_price": 79739,
     "fear_greed": 76,
     "indicators": [
       {
@@ -808,14 +808,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003405,
+        "value": 0.003282,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.06,
+        "value": 1.05,
         "score": 37,
         "weight": 5,
         "group": "daily"
@@ -836,22 +836,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.333,
+        "value": 0.334,
         "score": 58,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.966,
-        "score": 10,
+        "value": 1.389,
+        "score": 20,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.013,
-        "score": 63,
+        "value": 1.005,
+        "score": 55,
         "weight": 8,
         "group": "weekly"
       },
@@ -878,15 +878,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 64.6,
-        "score": 74,
+        "value": 65.3,
+        "score": 76,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -56.6,
-        "score": 29,
+        "value": -99.3,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1041,14 +1041,14 @@
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
         "url": "https://x.com/QwQiao/status/2096563656624365873",
         "time": "Sun Sep 06 11:38:22 +0000 2026",
-        "likes": 341,
-        "retweets": 42
+        "likes": 654,
+        "retweets": 82
       },
       {
         "text": "watched the astra launch video, looks like full computer use. if the real product is that good, then it's a major inflection point: chat -&gt; reasoning -&gt; coding -&gt; full computer use. tam (most white collar jobs) is at least 1 order of magnitude, maybe 2 or 3, that of coding. which",
         "url": "https://x.com/QwQiao/status/2095828684703678481",
         "time": "Fri Sep 04 10:57:51 +0000 2026",
-        "likes": 184,
+        "likes": 185,
         "retweets": 8
       },
       {
@@ -1078,36 +1078,36 @@
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 4127,
-        "retweets": 396
+        "likes": 5410,
+        "retweets": 511
       },
       {
         "text": "Bye-bye, ₿ears. https://t.co/URp5mz74FW",
         "url": "https://x.com/saylor/status/2096147642774437985",
         "time": "Sat Sep 05 08:05:17 +0000 2026",
-        "likes": 9852,
-        "retweets": 917
+        "likes": 10149,
+        "retweets": 934
       },
       {
         "text": "Water under the ₿ridge.  https://t.co/arLzSfBplt",
         "url": "https://x.com/saylor/status/2095957375979003929",
         "time": "Fri Sep 04 19:29:14 +0000 2026",
-        "likes": 6878,
-        "retweets": 628
+        "likes": 7001,
+        "retweets": 641
       },
       {
         "text": "America added 162,000 payroll jobs on a base of 159.1 million—0.10%. BLS puts the 90% confidence interval on the monthly change at roughly ±122,000. Yet trillions in assets reprice because economists guessed 56,000. We have turned statistical noise into monetary policy.",
         "url": "https://x.com/saylor/status/2095861651769573550",
         "time": "Fri Sep 04 13:08:51 +0000 2026",
-        "likes": 9095,
-        "retweets": 849
+        "likes": 9100,
+        "retweets": 850
       },
       {
         "text": "In America, you don’t need a license to discuss Bitcoin, advocate for it, or publicly recommend owning it. Bitcoin is a commodity, not a security. Fraud and manipulation are illegal. Bitcoin advocacy is free speech.",
         "url": "https://x.com/saylor/status/2095820138012447121",
         "time": "Fri Sep 04 10:23:54 +0000 2026",
-        "likes": 10119,
-        "retweets": 942
+        "likes": 10141,
+        "retweets": 945
       }
     ],
     "viktorfischer": [
@@ -1151,6 +1151,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "Nvidia: 70% Growth Guidance Makes This A Strong Buy",
+        "url": "https://finnhub.io/api/news?id=fdf5d51f3a9aae5ead5a1f75b77a161f52b5363e1555c9b2b80d641dfb56e383",
+        "datetime": 1788691800,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "It's Not Worth Buying VOO Or QQQ Anymore",
+        "url": "https://finnhub.io/api/news?id=44f3fe11fe61c2b78958df16f3840894fea030b437964de520df95e3c637730e",
+        "datetime": 1788687000,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "What I Found By Analyzing How Seeking Alpha Analysts Rated The Mag 7",
         "url": "https://finnhub.io/api/news?id=eba233ff3388800a9f35b66ef6f1f68eff2afea31b642f11a07505e75d4043ea",
         "datetime": 1788683400,
@@ -1167,21 +1179,15 @@
         "url": "https://finnhub.io/api/news?id=7c894a3a8d556b8d736a1e286c9cc55bc7c49c8203ca8ab596d47ff8eb33e2ab",
         "datetime": 1788676462,
         "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Michael Burry Says Palantir's Books Look More Like a Consultant's Than a Software Company's",
-        "url": "https://finnhub.io/api/news?id=5714bc35e234c84b1b652560d57698764d9188429e146be68b146a681ea2b14e",
-        "datetime": 1788666361,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "August Job Gains Blew Past Estimates. Here's What It Means for the Fed.",
-        "url": "https://finnhub.io/api/news?id=e330dd4e192533bbf27c638160cf8547e962f868224141a73f6800aa8abd2e5d",
-        "datetime": 1788663900,
-        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "It's Not Worth Buying VOO Or QQQ Anymore",
+        "url": "https://finnhub.io/api/news?id=44f3fe11fe61c2b78958df16f3840894fea030b437964de520df95e3c637730e",
+        "datetime": 1788687000,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "What I Found By Analyzing How Seeking Alpha Analysts Rated The Mag 7",
         "url": "https://finnhub.io/api/news?id=eba233ff3388800a9f35b66ef6f1f68eff2afea31b642f11a07505e75d4043ea",
@@ -1204,12 +1210,6 @@
         "headline": "Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit",
         "url": "https://finnhub.io/api/news?id=f88c67a8eb7e654a2e18acfe5ec3cd20b85ac37a2f40b73ee3c575d7171c36ca",
         "datetime": 1788629593,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Michael Dell’s Net Worth Up $110 Billion So Far 2026: Why the Surge May Continue",
-        "url": "https://finnhub.io/api/news?id=5d8fde8474956130cb95bbe2618fb4e7954f56a1d0128a63995f07b867493262",
-        "datetime": 1788626405,
         "source": "Benzinga"
       }
     ],
@@ -1293,6 +1293,18 @@
     ],
     "BTC": [
       {
+        "headline": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+        "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+        "datetime": 1788703200,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+        "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1788699708,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
         "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
         "datetime": 1788631511,
@@ -1309,18 +1321,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788595386,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-        "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1788553847,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1788542578,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
@@ -1333,21 +1333,21 @@
     ],
     "SOL": [
       {
-        "headline": "No summer slowdown. August wrapped at $143M in app revenue and 5.2B transactions, and September opened with rails built for AI agents.\n\nFrom SHEIN's listing-day debut to Birkins coming onchain, here's",
-        "url": "https://x.com/solana/status/2096584206360969439",
-        "datetime": 1788699602,
+        "headline": "$ARB is available in your favorite Solana apps\n\n@Backpack, @tryfomo, @dflow, @Titan_Exchange, @phantom, @JupiterExchange, @solflare, @kamino_swap, @Raydium, @mayan and more",
+        "url": "https://x.com/solana/status/2096629700479344804",
+        "datetime": 1788710448,
         "source": "@solana"
       },
       {
-        "headline": "3",
-        "url": "https://x.com/solana/status/2096566100930535617",
-        "datetime": 1788695285,
+        "headline": "Arbitrum ($ARB) is a Layer 2 scaling network, processing transactions at lower cost while inheriting the security of the underlying settlement layer.\n\nVerify the address on @tokens:",
+        "url": "https://x.com/solana/status/2096629688764674209",
+        "datetime": 1788710445,
         "source": "@solana"
       },
       {
-        "headline": "Alpenglow is coming.\n\n\"To go from 12 seconds to 400 milliseconds, we took a guess that our idea would work without any proof. Ignorance is bliss.\"\n\n\"A professor from Zurich called me up and said, I'm ",
-        "url": "https://x.com/solana/status/2096501152061821025",
-        "datetime": 1788679800,
+        "headline": "BREAKING: $ARB is now on Solana via @sunrise\n\nSame asset, better spread and lower fees. By 10x.",
+        "url": "https://x.com/solana/status/2096629676127166873",
+        "datetime": 1788710442,
         "source": "@solana"
       }
     ],
@@ -1389,6 +1389,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Formal verification earns its place in the software lifecycle when it’s cheap enough to run on every commit.\n\nNEAR AI’s Lean agent just solved all 672 Putnam Bench problems for $111, 250x below the ne",
+        "url": "https://x.com/NEARProtocol/status/2096611571489251556",
+        "datetime": 1788706126,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "NEAR AI Cloud now supports over 40 open-source and frontier models. \n\nRun DeepSeek V4 Flash, Qwen 3.8, and GLM 5.3 inside sealed hardware with a signed attestation on every request. Claude Opus 5 and ",
         "url": "https://x.com/NEARProtocol/status/2096257953196069020",
         "datetime": 1788621817,
@@ -1398,12 +1404,6 @@
         "headline": "Full catalog and live pricing:",
         "url": "https://x.com/NEARProtocol/status/2096257955897151682",
         "datetime": 1788621817,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "40% of enterprises with $1B+ revenue are now scaling AI agents, up from 27% a year ago, according to the latest report from McKinsey.\n\nThe agent economy is scaling. Users, and enterprises especially, ",
-        "url": "https://x.com/NEARProtocol/status/2096029188994023892",
-        "datetime": 1788567275,
         "source": "@NEARProtocol"
       }
     ],
