@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T16:36:43.854Z",
+  "updated_at": "2026-09-06T18:46:18.223Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79751,
-      "change_pct": -0.26
+      "price": 79929,
+      "change_pct": -0.03
     },
     {
       "symbol": "ETH",
-      "price": 2484.73,
-      "change_pct": 0.72
+      "price": 2498.02,
+      "change_pct": 0.83
     },
     {
       "symbol": "SOL",
-      "price": 106.2,
-      "change_pct": 2.86
+      "price": 106.39,
+      "change_pct": 2.46
     },
     {
       "symbol": "HYPE",
-      "price": 88.36,
-      "change_pct": 2.96
+      "price": 88.07,
+      "change_pct": 2.98
     },
     {
       "symbol": "ZEC",
-      "price": 1180.25,
-      "change_pct": 15.12
+      "price": 1233.03,
+      "change_pct": 20.26
     },
     {
       "symbol": "TAO",
-      "price": 248.81,
-      "change_pct": 5.8
+      "price": 258.56,
+      "change_pct": 10.51
     },
     {
       "symbol": "SKY",
-      "price": 1631.1,
-      "change_pct": 4.82
+      "price": 1626.58,
+      "change_pct": 3.42
     },
     {
       "symbol": "AAVE",
-      "price": 134.01,
-      "change_pct": 1.59
+      "price": 133.67,
+      "change_pct": -0.93
     },
     {
       "symbol": "BNB",
-      "price": 747.64,
-      "change_pct": -3.1
+      "price": 749.04,
+      "change_pct": -3.74
     },
     {
       "symbol": "NEAR",
-      "price": 2.44,
-      "change_pct": 11.14
+      "price": 2.41,
+      "change_pct": 8.13
     },
     {
       "symbol": "DOGE",
-      "price": 0.089126,
-      "change_pct": 1.82
+      "price": 0.089532,
+      "change_pct": -2.56
     },
     {
       "symbol": "SPACEX",
-      "price": 592.15,
-      "change_pct": 12.49
+      "price": 592.45,
+      "change_pct": -2.04
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "datetime": 1788710400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "'Everyone has an AI secret': This artist has spent a year collecting and sharing hundreds of anonymous AI confessions",
       "summary": "Through her project \"What We Tell AI,\" Olivia Tai has collected over 350 handwritten secrets about how people use AI to navigate dating, work and life.",
       "source": "CNBC",
@@ -734,15 +743,6 @@
       "datetime": 1788533760,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "From warning to listing: UK’s largest retail investment platform opens access to crypto ETNs",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-      "datetime": 1788531791,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 43.2,
+    "score": 43.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 18.4,
+    "daily_score": 18.5,
     "weekly_score": 24.8,
-    "btc_price": 79739,
+    "btc_price": 79936,
     "fear_greed": 76,
     "indicators": [
       {
@@ -808,14 +808,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003282,
-        "score": 47,
+        "value": 0.005774,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.05,
+        "value": 1.06,
         "score": 37,
         "weight": 5,
         "group": "daily"
@@ -878,14 +878,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 65.3,
+        "value": 65.5,
         "score": 76,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -99.3,
+        "value": -96.9,
         "score": 18,
         "weight": 4,
         "group": "weekly"
@@ -1041,8 +1041,8 @@
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
         "url": "https://x.com/QwQiao/status/2096563656624365873",
         "time": "Sun Sep 06 11:38:22 +0000 2026",
-        "likes": 654,
-        "retweets": 82
+        "likes": 745,
+        "retweets": 90
       },
       {
         "text": "watched the astra launch video, looks like full computer use. if the real product is that good, then it's a major inflection point: chat -&gt; reasoning -&gt; coding -&gt; full computer use. tam (most white collar jobs) is at least 1 order of magnitude, maybe 2 or 3, that of coding. which",
@@ -1078,35 +1078,35 @@
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 5410,
-        "retweets": 511
+        "likes": 5918,
+        "retweets": 552
       },
       {
         "text": "Bye-bye, ₿ears. https://t.co/URp5mz74FW",
         "url": "https://x.com/saylor/status/2096147642774437985",
         "time": "Sat Sep 05 08:05:17 +0000 2026",
-        "likes": 10149,
-        "retweets": 934
+        "likes": 10296,
+        "retweets": 947
       },
       {
         "text": "Water under the ₿ridge.  https://t.co/arLzSfBplt",
         "url": "https://x.com/saylor/status/2095957375979003929",
         "time": "Fri Sep 04 19:29:14 +0000 2026",
-        "likes": 7001,
-        "retweets": 641
+        "likes": 7083,
+        "retweets": 650
       },
       {
         "text": "America added 162,000 payroll jobs on a base of 159.1 million—0.10%. BLS puts the 90% confidence interval on the monthly change at roughly ±122,000. Yet trillions in assets reprice because economists guessed 56,000. We have turned statistical noise into monetary policy.",
         "url": "https://x.com/saylor/status/2095861651769573550",
         "time": "Fri Sep 04 13:08:51 +0000 2026",
-        "likes": 9100,
+        "likes": 9104,
         "retweets": 850
       },
       {
         "text": "In America, you don’t need a license to discuss Bitcoin, advocate for it, or publicly recommend owning it. Bitcoin is a commodity, not a security. Fraud and manipulation are illegal. Bitcoin advocacy is free speech.",
         "url": "https://x.com/saylor/status/2095820138012447121",
         "time": "Fri Sep 04 10:23:54 +0000 2026",
-        "likes": 10141,
+        "likes": 10158,
         "retweets": 945
       }
     ],
@@ -1195,6 +1195,12 @@
         "source": "SeekingAlpha"
       },
       {
+        "headline": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+        "url": "https://finnhub.io/api/news?id=40ff8d57a306d2282f291e686c8a14791db8f71a7e9540e73c0489b86bf6fec4",
+        "datetime": 1788681601,
+        "source": "CNBC"
+      },
+      {
         "headline": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
         "url": "https://finnhub.io/api/news?id=637e9aa1d50656e33eca79927bbee46855a41ce9f83908a276fb7b91f2b3e3fb",
         "datetime": 1788653670,
@@ -1205,12 +1211,6 @@
         "url": "https://finnhub.io/api/news?id=372822162d1d5b0765b427b9a1dbf5610fd5ca95d7e01bdce5489b7ce7060f52",
         "datetime": 1788637200,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit",
-        "url": "https://finnhub.io/api/news?id=f88c67a8eb7e654a2e18acfe5ec3cd20b85ac37a2f40b73ee3c575d7171c36ca",
-        "datetime": 1788629593,
-        "source": "Benzinga"
       }
     ],
     "TSLA": [
@@ -1389,21 +1389,21 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "",
+        "url": "https://x.com/NEARProtocol/status/2096653022994526495",
+        "datetime": 1788716009,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "Confidential Intents TVL just crossed $60M. \n\n$10M from the $70M mark that triggers the Drop 1 snapshot for NEAR@3.33.\n\nAllocation is calculated from onchain activity, the earlier you're active on  th",
+        "url": "https://x.com/NEARProtocol/status/2096652663240687711",
+        "datetime": 1788715923,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Formal verification earns its place in the software lifecycle when it’s cheap enough to run on every commit.\n\nNEAR AI’s Lean agent just solved all 672 Putnam Bench problems for $111, 250x below the ne",
         "url": "https://x.com/NEARProtocol/status/2096611571489251556",
         "datetime": 1788706126,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR AI Cloud now supports over 40 open-source and frontier models. \n\nRun DeepSeek V4 Flash, Qwen 3.8, and GLM 5.3 inside sealed hardware with a signed attestation on every request. Claude Opus 5 and ",
-        "url": "https://x.com/NEARProtocol/status/2096257953196069020",
-        "datetime": 1788621817,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Full catalog and live pricing:",
-        "url": "https://x.com/NEARProtocol/status/2096257955897151682",
-        "datetime": 1788621817,
         "source": "@NEARProtocol"
       }
     ],
