@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T20:19:40.032Z",
+  "updated_at": "2026-09-07T23:12:36.272Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 79229,
-      "change_pct": -0.71
+      "price": 79110,
+      "change_pct": -1.34
     },
     {
       "symbol": "ETH",
-      "price": 2488.85,
-      "change_pct": -0.1
+      "price": 2486.37,
+      "change_pct": -0.96
     },
     {
       "symbol": "SOL",
-      "price": 103.96,
-      "change_pct": -1.38
+      "price": 103.79,
+      "change_pct": -2.15
     },
     {
       "symbol": "HYPE",
-      "price": 85.43,
-      "change_pct": -2.02
+      "price": 85.35,
+      "change_pct": -2.95
     },
     {
       "symbol": "ZEC",
-      "price": 1156.14,
-      "change_pct": -5.05
+      "price": 1139.29,
+      "change_pct": -8.05
     },
     {
       "symbol": "TAO",
-      "price": 260.09,
-      "change_pct": -2.88
+      "price": 258.59,
+      "change_pct": -1.44
     },
     {
       "symbol": "SKY",
-      "price": 1579.47,
-      "change_pct": -2.66
+      "price": 1579.07,
+      "change_pct": -2.26
     },
     {
       "symbol": "AAVE",
-      "price": 132.22,
-      "change_pct": -0.48
+      "price": 131.92,
+      "change_pct": -2.13
     },
     {
       "symbol": "BNB",
-      "price": 739.64,
-      "change_pct": -1.35
+      "price": 739.47,
+      "change_pct": -1.73
     },
     {
       "symbol": "NEAR",
-      "price": 2.31,
-      "change_pct": -4.92
+      "price": 2.3,
+      "change_pct": -6.56
     },
     {
       "symbol": "DOGE",
-      "price": 0.090208,
-      "change_pct": 0.61
+      "price": 0.090567,
+      "change_pct": 0.05
     },
     {
       "symbol": "SPACEX",
-      "price": 610.02,
-      "change_pct": 0.79
+      "price": 586.12,
+      "change_pct": -0.91
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "英国金融监管机构考虑解除预测市场禁令：报告",
+      "summary": "根据 FCA 的指令，自 2019 年起，为散户投资者提供二元期权的公司被禁止在英国销售、营销和分销产品。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788813617,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以太坊基金会指定了 2 个“必须交付”的 Hegotá 升级 EIP",
+      "summary": "以太坊的 Hegotá 升级将集中在 FOCIL 和 Frame Transactions 上，开发人员正在权衡其他数十项提议的更改以纳入其中。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788812491,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "乔·拜登的儿子将推出模因币，将发送给特朗普持有者：《华尔街日报》",
       "summary": "据报道，亨特·拜登将向他的子堆栈订阅者、邮件列表成员以及唐纳德·特朗普总统模因币的投资者分发 2 亿个 LAPTOP 代币。",
       "source": "Cointelegraph",
@@ -725,24 +743,6 @@
       "datetime": 1788767139,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着 ZEC 突破 1,200 美元，这款猫模因币已向 Zcash 持有者支付 280 万美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
-      "datetime": 1788760364,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "据称“白帽子”撤回 3.2 亿美元 BTC 后，比特币侧链 Liquid 暂停",
-      "summary": "参与者告诉 Blockstream，在网络上修补 Elements 漏洞后，他们将返还 4,000 BTC 中的大部分。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788759605,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,12 +791,12 @@
     }
   ],
   "btc_score": {
-    "score": 43.6,
+    "score": 43.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 18.6,
-    "weekly_score": 25,
-    "btc_price": 79238.6,
+    "daily_score": 18.7,
+    "weekly_score": 25.1,
+    "btc_price": 79124,
     "fear_greed": 75,
     "indicators": [
       {
@@ -808,8 +808,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00259,
-        "score": 46,
+        "value": 0.004344,
+        "score": 47,
         "weight": 8,
         "group": "daily"
       },
@@ -878,15 +878,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 64.5,
+        "value": 64.3,
         "score": 74,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -93.9,
-        "score": 19,
+        "value": -88.1,
+        "score": 21,
         "weight": 4,
         "group": "weekly"
       }
@@ -1041,7 +1041,7 @@
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
         "url": "https://x.com/QwQiao/status/2096563656624365873",
         "time": "Sun Sep 06 11:38:22 +0000 2026",
-        "likes": 990,
+        "likes": 995,
         "retweets": 108
       },
       {
@@ -1078,36 +1078,36 @@
         "text": "Capital gravitates toward Bitcoin. https://t.co/NDJzp4gc6Q",
         "url": "https://x.com/saylor/status/2096942497268166673",
         "time": "Mon Sep 07 12:43:45 +0000 2026",
-        "likes": 4309,
-        "retweets": 426
+        "likes": 4649,
+        "retweets": 460
       },
       {
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 8376,
-        "retweets": 787
+        "likes": 8484,
+        "retweets": 794
       },
       {
         "text": "Bye-bye, ₿ears. https://t.co/URp5mz74FW",
         "url": "https://x.com/saylor/status/2096147642774437985",
         "time": "Sat Sep 05 08:05:17 +0000 2026",
-        "likes": 11040,
-        "retweets": 1039
+        "likes": 11044,
+        "retweets": 1040
       },
       {
         "text": "Water under the ₿ridge.  https://t.co/arLzSfBplt",
         "url": "https://x.com/saylor/status/2095957375979003929",
         "time": "Fri Sep 04 19:29:14 +0000 2026",
-        "likes": 7197,
-        "retweets": 657
+        "likes": 7201,
+        "retweets": 660
       },
       {
         "text": "America added 162,000 payroll jobs on a base of 159.1 million—0.10%. BLS puts the 90% confidence interval on the monthly change at roughly ±122,000. Yet trillions in assets reprice because economists guessed 56,000. We have turned statistical noise into monetary policy.",
         "url": "https://x.com/saylor/status/2095861651769573550",
         "time": "Fri Sep 04 13:08:51 +0000 2026",
         "likes": 9141,
-        "retweets": 853
+        "retweets": 854
       }
     ],
     "viktorfischer": [
@@ -1239,10 +1239,10 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla vs SpaceX: Elon Musk’s Two Companies Are Chasing the Same AI Prize. Only One Is Positioned to Win It",
-        "url": "https://finnhub.io/api/news?id=613dc5dd04d9a6e3bc5a51c2757dfd228be70ec34d8022d9d772e483283aa72c",
-        "datetime": 1788781799,
-        "source": "Yahoo"
+        "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today’s Session",
+        "url": "https://finnhub.io/api/news?id=ba62c2070b0ae8a72d65d7aaa8c1b675eb9df4790dfbfcb75f02dfa4874b51c0",
+        "datetime": 1788788115,
+        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1325,6 +1325,12 @@
     ],
     "ETH": [
       {
+        "headline": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
+        "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1788812491,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
         "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
         "datetime": 1788789247,
@@ -1389,21 +1395,21 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "$65M/$70M. $5M from the snapshot.\n\nLast stretch before Drop 1 eligibility closes.\n\nHold $100+ in your confidential balance and complete one confidential swap. That’s the bar to qualify. Activity and r",
-        "url": "https://x.com/NEARProtocol/status/2096993505650315275",
-        "datetime": 1788797186,
+        "headline": "Full details on the cross-regional pilot:",
+        "url": "https://x.com/NEARProtocol/status/2097057778468577381",
+        "datetime": 1788812510,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "Pay anyone onchain from a single account on \n\nThey get the money, not your history. No new address, no linked wallets.\n\nAll confidential.",
-        "url": "https://x.com/NEARProtocol/status/2096952785845555703",
-        "datetime": 1788787478,
+        "headline": "NEAR's roadmap to post-quantum security:",
+        "url": "https://x.com/NEARProtocol/status/2097057780414779536",
+        "datetime": 1788812510,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "is your one-stop shop for the multi-chain economy: swap, send and earn across 30 chains and 100+ assets, confidential by default.",
-        "url": "https://x.com/NEARProtocol/status/2096772888313340347",
-        "datetime": 1788744587,
+        "headline": "NEAR is one of the first blockchains with post-quantum signing live on mainnet and a quantum security roadmap already in motion.\n\nICYMI: A consortium of banks and regulators, led by RFI and Safeheron,",
+        "url": "https://x.com/NEARProtocol/status/2097057775427744130",
+        "datetime": 1788812509,
         "source": "@NEARProtocol"
       }
     ],
