@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-09T14:57:01.170Z",
+  "updated_at": "2026-09-09T18:15:24.355Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 702.03,
-      "change_pct": -0.29
+      "price": 701.1,
+      "change_pct": -0.42
     },
     {
       "symbol": "QQQ",
-      "price": 717.72,
-      "change_pct": -0.09
+      "price": 716.31,
+      "change_pct": -0.29
     },
     {
       "symbol": "QQQM",
-      "price": 295.52,
-      "change_pct": -0.08
+      "price": 294.92,
+      "change_pct": -0.28
     },
     {
       "symbol": "NVDA",
-      "price": 224.33,
-      "change_pct": -0.62
+      "price": 224.15,
+      "change_pct": -0.7
     },
     {
       "symbol": "TSLA",
-      "price": 373.27,
-      "change_pct": 1.39
+      "price": 368.22,
+      "change_pct": 0.02
     },
     {
       "symbol": "GOOG",
-      "price": 328.09,
-      "change_pct": -2.17
+      "price": 328.03,
+      "change_pct": -2.19
     },
     {
       "symbol": "RKLB",
-      "price": 63.74,
-      "change_pct": -3.23
+      "price": 64,
+      "change_pct": -2.84
     },
     {
       "symbol": "CRCL",
-      "price": 95.44,
-      "change_pct": -0.77
+      "price": 94.41,
+      "change_pct": -1.84
     },
     {
       "symbol": "PLTR",
-      "price": 170.84,
-      "change_pct": 0.32
+      "price": 170.45,
+      "change_pct": 0.09
     },
     {
       "symbol": "MSTR",
-      "price": 135.62,
-      "change_pct": -0.66
+      "price": 134.23,
+      "change_pct": -1.68
     },
     {
       "symbol": "GLD",
-      "price": 405.32,
-      "change_pct": 1.4
+      "price": 405.38,
+      "change_pct": 1.42
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78981,
-      "change_pct": 0.62
+      "price": 78626,
+      "change_pct": -0.04
     },
     {
       "symbol": "ETH",
-      "price": 2500.46,
-      "change_pct": 0.67
+      "price": 2489.59,
+      "change_pct": -0.28
     },
     {
       "symbol": "SOL",
-      "price": 103.61,
-      "change_pct": 0.32
+      "price": 103.4,
+      "change_pct": -0.62
     },
     {
       "symbol": "HYPE",
-      "price": 86.04,
-      "change_pct": 2.93
+      "price": 86.47,
+      "change_pct": 2.59
     },
     {
       "symbol": "ZEC",
-      "price": 1279.5,
-      "change_pct": 9
+      "price": 1262.48,
+      "change_pct": 6.93
     },
     {
       "symbol": "TAO",
-      "price": 262.58,
-      "change_pct": 2.03
+      "price": 258.59,
+      "change_pct": -1.57
     },
     {
       "symbol": "SKY",
-      "price": 1493.11,
-      "change_pct": -4.66
+      "price": 1483.29,
+      "change_pct": -5.33
     },
     {
       "symbol": "AAVE",
-      "price": 129.81,
-      "change_pct": 0.61
+      "price": 128.71,
+      "change_pct": -0.91
     },
     {
       "symbol": "BNB",
-      "price": 743.24,
-      "change_pct": -0.92
+      "price": 740.23,
+      "change_pct": -1.71
     },
     {
       "symbol": "NEAR",
-      "price": 2.62,
-      "change_pct": 11.92
+      "price": 2.59,
+      "change_pct": 9.07
     },
     {
       "symbol": "DOGE",
-      "price": 0.089906,
-      "change_pct": 0.3
+      "price": 0.088738,
+      "change_pct": -1.86
     },
     {
       "symbol": "SPACEX",
-      "price": 587.87,
-      "change_pct": 1.16
+      "price": 583.26,
+      "change_pct": -4.29
     }
   ],
   "earnings": {
@@ -475,6 +475,123 @@
   },
   "news": [
     {
+      "headline": "新报告称，美国工人权利排名前 10 的州，其中 8 个州的最低工资超过 15 美元",
+      "summary": "根据乐施会的研究，这些州提供了强有力的最低工资、工人保护和组织权。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/the-top-us-states-for-workers-in-2026-according-to-oxfam-report.html",
+      "datetime": 1788975405,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "TRM Labs 在 C 轮扩张中将估值翻倍至 2B 美元",
+      "summary": "这家区块链情报公司表示，随着其人工智能驱动的调查业务的扩展，其年度经常性收入在过去三年中翻了两番。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788975006,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国银行在跨境恒星币交易中测试专有稳定币",
+      "summary": "该试点项目在公共 Stellar 区块链上的银行北美和欧洲实体之间移动了 USBDC。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788971828,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币未能夺回 8 万美元，Bessent 推动日元兑美元汇率升至 153 左右",
+      "summary": "随着伊朗局势升级，美国股市走低，而美国财政部长斯科特·贝森特(Scott Bessent)加剧了对日元套利交易平仓的担忧。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788971299,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "为什么克莱默仍然建议对数据中心股票“更加保留一点”",
+      "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
+      "datetime": 1788970280,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "贸易组织寻求在 1 月生效日期之前阻止伊利诺伊州加密税",
+      "summary": "继之前的诉讼之后，CCI 和区块链协会试图阻止伊利诺伊州征收 0.2% 的加密税，认为这是违宪的，并且会带来高昂的合规负担。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788969427,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "洛杉矶公羊队主席凯文·德莫夫称赞澳大利亚在历史性的 NFL 比赛中取得了进展",
+      "summary": "公羊队花了五年时间在澳大利亚打造自己的品牌。本周，洛杉矶将在 NFL 的首场常规赛澳大利亚赛中对阵旧金山。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+      "datetime": 1788968489,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "Meta 股票仍然便宜且值得购买。这就是为什么",
+      "summary": "Meta 的新模式和个人代理应用程序展示了社交媒体巨头内部隐藏的价值。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/meta-shares-are-still-cheap-and-worth-buying-heres-why.html",
+      "datetime": 1788968276,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Tether 和 Fasanara 推出 4 亿美元私人信贷基金，目标为 30 亿美元",
+      "summary": "长青基金将利用 USDT 基础设施，通过 60 多个国家的金融科技平台支持资产抵押贷款。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788967304,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币多空：美元与欧元之间 300 比 1 的链上差距",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "datetime": 1788965887,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "PayPal 通过定制代币发行平台扩展稳定币轨道",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "datetime": 1788962400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国中期选举前卡尔希选举数据在 DoubleZero 上上线",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+      "datetime": 1788962400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "亨特·拜登的新 LAPTOP 代币首次亮相后不到一个小时价值就蒸发了 98%，价值 16 亿美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+      "datetime": 1788962277,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "德国财政部提议从 2028 年开始征收 25% 的加密税：报告",
       "summary": "据报道，德国财政部正在寻求对加密货币征收 25% 的税，这与现行法律规定加密货币收益在持有一年后免税。",
       "source": "Cointelegraph",
@@ -507,6 +624,24 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788959068,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "KYC数据对于黑客来说是不可抗拒的蜜罐，我们必须改变它的收集方式",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
+      "datetime": 1788958969,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Algorand 任命 Chainlink 前高管 William Herkelrath 为首席执行官",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
+      "datetime": 1788958800,
       "category": "crypto",
       "related": ""
     },
@@ -608,141 +743,6 @@
       "datetime": 1788953016,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Metaplanet 首席执行官解决 MMXX 关系，高管股票池引发股东强烈反对",
-      "summary": "Metaplanet 的高管股票池继续因稀释担忧而受到强烈反对，投资者敦促该公司冻结 2.73 亿股股票的行权权。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788952523,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "油价突破 100 美元，比特币攀升，伊朗袭击后股市下跌",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
-      "datetime": 1788950843,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着新分析挑战熊市，比特币 SOPR 指标预计将在 2026 年实现最长利润运行",
-      "summary": "比特币链上总利润进入第四周，但一位受欢迎的分析师警告称，比特币价格“下行风险”仍然存在。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788948736,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Silvergate前首席执行官将银行2023年倒闭归咎于拜登的压力",
-      "summary": "艾伦·莱恩表示，拜登政府的“协同攻击”使 Silvergate 的持续运营难以为继，并促使其清算。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788948300,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "伊朗放松货币管制，允许交易者通过加密货币将收入带回家：FT",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
-      "datetime": 1788947979,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "22 岁新加坡人承认自己是 2.45 亿美元加密货币欺诈案的头目",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
-      "datetime": 1788947682,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "印度金融情报部门标记 15 个存在反洗钱漏洞的加密货币平台",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
-      "datetime": 1788941874,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "伊朗放宽货币规则，以加密货币绕过美国制裁：报告",
-      "summary": "据英国《金融时报》报道，出口商现在可以用海外收入为进口提供资金，而无需先按官方汇率出售外币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788939399,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Jack Dorsey 的 Block 寻求美国信托银行特许经营比特币和稳定币",
-      "summary": "拟议的建筑商银行将提供联邦监督的数字资产托管，但不接受存款或发放贷款。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788939381,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "实时更新：布伦特原油自 7 月以来首次触及 100 美元，比特币维持在 79,000 美元以上",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-      "datetime": 1788938451,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "人类研究人员因对人工智能的警告而辞职，这与《终结者》的剧本相呼应",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "datetime": 1788934838,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Gemini 获得新加坡加密服务支付许可证",
-      "summary": "Gemini 的本地实体被授权提供数字支付代币和跨境汇款服务，无标准交易量限制。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1788931632,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "亨特·拜登在周三推出笔记本电脑之前为笔记本电脑辩护，称特朗普是“欺诈”",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
-      "datetime": 1788931377,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Moonshot 的 Kimi 震惊了市场。美国机构现在称其接受了美国模特的培训",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-      "datetime": 1788928854,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着 Zcash ETF 交易额达到 5 亿美元，比特币价格回升至 79,000 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
-      "datetime": 1788928555,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -813,12 +813,12 @@
     }
   ],
   "btc_score": {
-    "score": 41.2,
+    "score": 40.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.5,
-    "weekly_score": 24.7,
-    "btc_price": 78923.7,
+    "daily_score": 16.7,
+    "weekly_score": 23.9,
+    "btc_price": 78607.9,
     "fear_greed": 72,
     "indicators": [
       {
@@ -830,15 +830,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.00369,
-        "score": 47,
+        "value": 0.006425,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.12,
-        "score": 41,
+        "value": 1.16,
+        "score": 44,
         "weight": 5,
         "group": "daily"
       },
@@ -900,15 +900,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.9,
-        "score": 73,
+        "value": 63.4,
+        "score": 72,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -26.8,
-        "score": 38,
+        "value": -94,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1033,14 +1033,14 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 755,
+        "likes": 756,
         "retweets": 102
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1425,
+        "likes": 1426,
         "retweets": 92
       },
       {
@@ -1063,15 +1063,15 @@
         "text": "demis hassabis stepping back to let a couple of pathologically deceptive guys with god complex take over as our ai overlords is a major glitch in this branch of reality",
         "url": "https://x.com/QwQiao/status/2097645914420568349",
         "time": "Wed Sep 09 11:18:53 +0000 2026",
-        "likes": 98,
-        "retweets": 5
+        "likes": 115,
+        "retweets": 6
       },
       {
         "text": "so we went from failing to count # of “r”s in “strawberry” to solving a millennium prize problem in under 2 yrs",
         "url": "https://x.com/QwQiao/status/2097390830755446887",
         "time": "Tue Sep 08 18:25:16 +0000 2026",
-        "likes": 1917,
-        "retweets": 62
+        "likes": 2150,
+        "retweets": 66
       },
       {
         "text": "the biggest diff between bitcoin and zcash imo is not privacy or quantum resistance, but the fact that the latter is capable of changes and the former is not. \n\nand this is a tradeoff rather than strict superiority. ossification of bitcoin does offer stronger guarantee of",
@@ -1084,7 +1084,7 @@
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
         "url": "https://x.com/QwQiao/status/2096563656624365873",
         "time": "Sun Sep 06 11:38:22 +0000 2026",
-        "likes": 1017,
+        "likes": 1016,
         "retweets": 115
       },
       {
@@ -1100,36 +1100,36 @@
         "text": "₿uy Cyberspace. https://t.co/qFWaBHm5ec",
         "url": "https://x.com/saylor/status/2097689620498514155",
         "time": "Wed Sep 09 14:12:33 +0000 2026",
-        "likes": 1199,
-        "retweets": 118
+        "likes": 2737,
+        "retweets": 278
       },
       {
         "text": "STRC’s BTC Credit tightened to 53 bps (-1 bp), assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $79,809. Learn more about Strategy’s BTC Credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2097295952067400147",
         "time": "Tue Sep 08 12:08:15 +0000 2026",
-        "likes": 376,
-        "retweets": 26
+        "likes": 380,
+        "retweets": 30
       },
       {
         "text": "Strategy has repurchased $176M of $STRC and increased the size of its Digital Credit Securities Repurchase Program from $1.0B to $2.0B. As of 9/7/26, we hold 845,050 $BTC and $6.5B of USD Assets. $MSTR https://t.co/mxqv9QCRat",
         "url": "https://x.com/saylor/status/2097295103639355844",
         "time": "Tue Sep 08 12:04:53 +0000 2026",
-        "likes": 7833,
-        "retweets": 789
+        "likes": 7939,
+        "retweets": 801
       },
       {
         "text": "Capital gravitates toward Bitcoin. https://t.co/NDJzp4gc6Q",
         "url": "https://x.com/saylor/status/2096942497268166673",
         "time": "Mon Sep 07 12:43:45 +0000 2026",
-        "likes": 6272,
-        "retweets": 652
+        "likes": 6278,
+        "retweets": 656
       },
       {
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 8828,
-        "retweets": 832
+        "likes": 8835,
+        "retweets": 833
       }
     ],
     "viktorfischer": [
@@ -1173,127 +1173,127 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "美敦力即将成为股息之王。该股票适合收入投资者购买吗？",
-        "url": "https://finnhub.io/api/news?id=83ff436322cf725c950eb17e96f142f6cee8b1437f353c090f80fa30da928815",
-        "datetime": 1788961260,
+        "headline": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+        "url": "https://finnhub.io/api/news?id=48fe5d32221e8645ac03005b10b31cc0fe4cc84b1f53e1d862bfc204d109fae9",
+        "datetime": 1788976200,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊计划在人工智能领域投入超过 2000 亿美元。这是明智之举吗？",
-        "url": "https://finnhub.io/api/news?id=e998b739df3ca5ca63165e6ef562f50f0e49a1c61d7efae22ba52250ccf89691",
-        "datetime": 1788960900,
+        "headline": "Inditex Breaks Records and Still Gets Marked Down",
+        "url": "https://finnhub.io/api/news?id=cd7bd47de9facf2e91986a80c9419c669d5f061b3ab721e8cfd568ddff9b7fd3",
+        "datetime": 1788975598,
         "source": "Yahoo"
       },
       {
-        "headline": "Rivian 的 R2 生产斜坡现在就是整个论文了。这是数字背后的数学原理。",
-        "url": "https://finnhub.io/api/news?id=8614a5bbf2bc15cbf166d530e6f7ce98299b6bb51530ff25b4f9e45d98c85510",
-        "datetime": 1788960000,
+        "headline": "Core & Main, Inc. Q2 2027 Earnings Call Summary",
+        "url": "https://finnhub.io/api/news?id=89fcc8c5bdffc880460c3d2396ef4c8b2fef6c087460549f8d0a24bcbc303490",
+        "datetime": 1788975366,
         "source": "Yahoo"
       },
       {
-        "headline": "Mindgard 与 Anthropic、NVIDIA、Microsoft、Google Cloud 和 AWS 一起扩展人工智能和云生态系统",
-        "url": "https://finnhub.io/api/news?id=fac957f51e459dfe8c748dd3d0882844f372fcac6a355c6fcb8fffd0cb549005",
-        "datetime": 1788960000,
+        "headline": "Bill Ackman Bets Big on Uber Stock. Should You Follow Him?",
+        "url": "https://finnhub.io/api/news?id=cd4ba00e05f5c23fd6b9ea5f47247752f24224098da8c74134409bde0f168b2f",
+        "datetime": 1788975300,
         "source": "Yahoo"
       },
       {
-        "headline": "汽油价格刚刚创下新纪录，并且仍在上涨。他们会引发市场崩盘吗？",
-        "url": "https://finnhub.io/api/news?id=91734199c44576e23874235e4050ef60df0bec71d5eb82d902aad0c769be1445",
-        "datetime": 1788959495,
+        "headline": "My Top Dividend Growth Stock to Buy in September and Hold Forever",
+        "url": "https://finnhub.io/api/news?id=f95a518f7660f6b88039e5dc9b1e82f3eb99cc288653aceb2e4edb8dfaf2734c",
+        "datetime": 1788975060,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "前谷歌董事总经理 Gina Fratarcangeli 加入 Qtonic Quantum 以推进企业后量子准备",
-        "url": "https://finnhub.io/api/news?id=a056f9ff950a7c6f6822cb7b0e99970098aa97bd8260c800b5fe70f0904977bd",
-        "datetime": 1788961980,
+        "headline": "Amazon raises £4.25 billion in debut sterling bond sale for AI",
+        "url": "https://finnhub.io/api/news?id=5f2095fce057c6b95b82873b3a0d1ba3043f74c070653a3fb0413f30b91f2bba",
+        "datetime": 1788975331,
         "source": "Yahoo"
       },
       {
-        "headline": "密切关注微软和 Alphabet，因为担心加息会扰乱市场",
-        "url": "https://finnhub.io/api/news?id=78712aa865fe26275288e6d289d402f4ac911418e71a114c58aa238644266f6b",
-        "datetime": 1788960710,
+        "headline": "Palantir Changed The Number It Wants You To Judge It By",
+        "url": "https://finnhub.io/api/news?id=744977225f7d1f6aea4493a76236af91e6781e0013581bb2c1437b30e2eebce1",
+        "datetime": 1788975270,
         "source": "Yahoo"
       },
       {
-        "headline": "随着 Muse AI Agent 推出付费订阅套餐，Meta 上涨 6%； Alphabet 下跌 2%",
-        "url": "https://finnhub.io/api/news?id=8e348d519e5547c3a08ffcc50d94f71572d887abf644ed767e87d7922d1afb9f",
-        "datetime": 1788959967,
+        "headline": "Verily Health Secures New Investment From NVIDIA and CU Healthcare Innovation Fund",
+        "url": "https://finnhub.io/api/news?id=e90ea950ccaa2e363e2a06e87a79010ffb566c1da4c1808c1496304dfa42d2e9",
+        "datetime": 1788975000,
         "source": "Yahoo"
       },
       {
-        "headline": "迈克尔·戴尔超越杰夫·贝佐斯成为全球第三富有的人",
-        "url": "https://finnhub.io/api/news?id=6afd2d25ca746853c60af982f3e9e356ea7b46cbc5aa6a28a86e16f92730c66b",
-        "datetime": 1788959305,
+        "headline": "Jim Cramer on Alphabet (GOOGL): “I Don’t Care Where It Went, I Care Where It’s Going”",
+        "url": "https://finnhub.io/api/news?id=9645efdfe4b887c1d31f6dd658bdb025810553c78c3fb8569ec65fa44e3ebe4f",
+        "datetime": 1788973970,
         "source": "Yahoo"
       },
       {
-        "headline": "AI 的未来是未知的：Tresic 选择 Speechmatics 为其对话智能平台的语音层提供支持",
-        "url": "https://finnhub.io/api/news?id=40a7da53b163955a21ceff132bb5d534013e511a0e7e1e529c2b267f975d18bc",
-        "datetime": 1788959220,
+        "headline": "Google Cloud Grew 82% Last Quarter -- Here's Why Amazon and Microsoft Investors Should Care",
+        "url": "https://finnhub.io/api/news?id=810ef97349ea20bf45ac6145dbabede5d13ece39e80df2cf9c61d9c1c3fad2c0",
+        "datetime": 1788973500,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "AlphaCheck：随着油价突破 100 美元，债券收益率走高",
-        "url": "https://finnhub.io/api/news?id=b8f3a2a0fe76b853094acb266a3c041fa13e5a035115a7245c0386696549e944",
-        "datetime": 1788962260,
+        "headline": "PayrollOrg Brings Payroll Leaders Together in San Antonio for 2026 Payroll Leaders Conference",
+        "url": "https://finnhub.io/api/news?id=6a7eb4648f659a2fc132c1ffb1d46eaafc61d3227db206589d934f7cbdc27042",
+        "datetime": 1788973980,
         "source": "Yahoo"
       },
       {
-        "headline": "斯洛文尼亚的 FSD 批准是否会让特斯拉更接近欧盟范围内的批准？",
-        "url": "https://finnhub.io/api/news?id=cd58fceee60281633eb3572ac2fec535f33c9828253d985c1af73f06f4f853a0",
-        "datetime": 1788961020,
+        "headline": "45 Tesla Cybercabs Are Now Roaming Austin. Here's What That Means for the Robotaxi Business Wall Street Has Been Waiting For.",
+        "url": "https://finnhub.io/api/news?id=99a677ec4cf665b629a92b42115236392ed42a00b3719588f54f15efed30dc16",
+        "datetime": 1788972870,
         "source": "Yahoo"
       },
       {
-        "headline": "迈克尔·戴尔超越杰夫·贝佐斯成为全球第三富有的人",
-        "url": "https://finnhub.io/api/news?id=6afd2d25ca746853c60af982f3e9e356ea7b46cbc5aa6a28a86e16f92730c66b",
-        "datetime": 1788959305,
+        "headline": "Entrepreneurs could hold the key to Tesla's Cybercab plans",
+        "url": "https://finnhub.io/api/news?id=f9b2373c28a981d0767214cb6368474b25e9704370e6fe7fb45532274df42c5d",
+        "datetime": 1788969610,
         "source": "Yahoo"
       },
       {
-        "headline": "凯茜·伍德 (Cathie Wood) 增持罗宾汉 (Robinhood) 股份；放弃更多 AMD、Palantir",
-        "url": "https://finnhub.io/api/news?id=358a0ef370860a3e059cef5e4b953f3c2a0388653934baf3228a54b1948d2582",
-        "datetime": 1788959216,
+        "headline": "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
+        "url": "https://finnhub.io/api/news?id=552fadc6fc542c5ea3a4de8150ed261ddd1cbca0e28035b674bbb1bfc43db732",
+        "datetime": 1788964980,
         "source": "Yahoo"
       },
       {
-        "headline": "自动驾驶转向燃气汽车，以保持汽车订阅的梦想",
-        "url": "https://finnhub.io/api/news?id=1f5967f8f5c41490593ec6ffce703d2ed5768140a8eadd042d3837ce9e2dd697",
-        "datetime": 1788958800,
+        "headline": "Seagate Technology and Western Union have been highlighted as Zacks Bull and Bear of the Day",
+        "url": "https://finnhub.io/api/news?id=a20cebd25726ec41e3803ba548270e9646a82f5c2cb6c849febea0f3a5097132",
+        "datetime": 1788964320,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
-        "headline": "Circle 同意收购新加坡支付平台 Tazapay",
+        "headline": "Circle agrees to buy Singapore-based payments platform Tazapay",
         "url": "https://finnhub.io/api/news?id=97dfbcc21f56ba704cd911a348b012dd081fd8203dc45c9f99510dd4467da7e9",
         "datetime": 1788938162,
         "source": "Yahoo"
       },
       {
-        "headline": "尽管有新的收购消息，Circle 股价仍下跌",
+        "headline": "Circle stock slips despite new acquisition news",
         "url": "https://finnhub.io/api/news?id=b66b1cfe619be308a0b56ccf9ba6b7e478d894834345029ec485ab553bf066eb",
         "datetime": 1788895332,
         "source": "Yahoo"
       },
       {
-        "headline": "尽管分析师看好 Tazapay 前景，但 CRCL 股价仍下跌——交易使支付量翻倍",
+        "headline": "CRCL Stock Slides Despite Analysts’ Bullish Tazapay Outlook — Deal Seen Doubling Payments Volume",
         "url": "https://finnhub.io/api/news?id=6e6ecfd41e1b1583406f84a9262a687592b9be960b23202a7092fe586eb3fe08",
         "datetime": 1788889160,
         "source": "Yahoo"
       },
       {
-        "headline": "软件公司的股价走低，可能是为了应对中东紧张局势升级以及通胀担忧再度抬头，这可能促使美联储加息。对本周晚些时候公布的关键经济数据的担忧可能会促使交易者抛售成长型股票。",
+        "headline": "Shares of software companies are trading lower, possibly in response to escalating tensions in the Middle East and renewed inflation concerns that may shift the Fed towards a rate hike. Concerns about key economic data due later this week may prompt traders to rotate out of growth stocks.",
         "url": "https://finnhub.io/api/news?id=c69408f6b2e2de87abefeb217619a19db915930e139f14fc71586990a574b37b",
         "datetime": 1788881059,
         "source": "Benzinga"
       },
       {
-        "headline": "英特尔升级，Reddit发起：华尔街顶级分析师呼吁",
+        "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
         "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920",
         "datetime": 1788874698,
         "source": "Yahoo"
@@ -1301,7 +1301,7 @@
     ],
     "LKNCY": [
       {
-        "headline": "Vita Coco 的创新推动：长期增长的秘诀？",
+        "headline": "Vita Coco's Innovation Push: A Recipe for Long-Term Growth?",
         "url": "https://finnhub.io/api/news?id=157cc237d7171bb984b5ec7afdd8219c15007674278682df02aaac34fe321aa7",
         "datetime": 1788531540,
         "source": "Yahoo"
@@ -1309,51 +1309,51 @@
     ],
     "BTC": [
       {
-        "headline": "德国将像股票一样对比特币征税，新法案草案的目标是免税收益",
+        "headline": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
+        "url": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1788971299,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
         "url": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
         "datetime": 1788956039,
         "source": "CoinDesk"
       },
       {
-        "headline": "油价突破 100 美元，比特币攀升，伊朗袭击后股市下跌",
+        "headline": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
         "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-climbs-as-oil-tops-usd100-equities-drop-after-iran-strikes",
         "datetime": 1788950843,
         "source": "CoinDesk"
       },
       {
-        "headline": "随着新分析挑战熊市，比特币 SOPR 指标预计将在 2026 年实现最长利润运行",
+        "headline": "Bitcoin SOPR metric sees longest profit run of 2026 as new analysis challenges bear market",
         "url": "https://cointelegraph.com/markets/bitcoin-sopr-metric-sees-longest-profit-run-of-2026-as-new-analysis-challenges-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788948736,
         "source": "Cointelegraph"
       },
       {
-        "headline": "Jack Dorsey 的 Block 寻求美国信托银行特许经营比特币和稳定币",
+        "headline": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
         "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788939381,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "实时更新：布伦特原油自 7 月以来首次触及 100 美元，比特币维持在 79,000 美元以上",
-        "url": "https://www.coindesk.com/business/2026/09/09/live-updates-xrp-funds-stand-out-among-u-s-etfs-as-bitcoin-ether-solana-funds-see-outflows",
-        "datetime": 1788938451,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
       {
-        "headline": "以太坊将量子抗性作为重中之重，截止日期为 2029 年",
+        "headline": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
         "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
         "datetime": 1788873504,
         "source": "CoinDesk"
       },
       {
-        "headline": "以太坊基金会指定了 2 个“必须交付”的 Hegotá 升级 EIP",
+        "headline": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
         "url": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788812491,
         "source": "Cointelegraph"
       },
       {
-        "headline": "以太坊承诺让用户无需持有 ETH 即可支付 Gas 费",
+        "headline": "Ethereum commits to letting users pay gas fees without having to hold ETH",
         "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
         "datetime": 1788789247,
         "source": "CoinDesk"
@@ -1361,33 +1361,33 @@
     ],
     "SOL": [
       {
-        "headline": "随着应用程序为更复杂的交易提供空间，Solana 的交易规模增加了两倍",
+        "headline": "Solana to triple transaction size as apps get room for more complex trades",
         "url": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
         "datetime": 1788782891,
         "source": "CoinDesk"
       },
       {
-        "headline": "突发新闻：@world_xyz 现已在 Solana 上直播：",
-        "url": "https://x.com/solana/status/2097676109651345679",
-        "datetime": 1788959932,
+        "headline": "BIG DAY 🆘",
+        "url": "https://x.com/solana/status/2097732906236178919",
+        "datetime": 1788973473,
         "source": "@solana"
       },
       {
-        "headline": "你通过智商测试了吗？",
-        "url": "https://x.com/solana/status/2097667443585900979",
-        "datetime": 1788957865,
+        "headline": "Students, this is your invite to Breakpoint 2026 in London 👇",
+        "url": "https://x.com/solana/status/2097723364811178182",
+        "datetime": 1788971198,
         "source": "@solana"
       },
       {
-        "headline": "Solana 在每月@USDC 发件人中排名第一：过去 30 天内有 620 万发件人。\n\n42% 的人发送 USDC，是下一个网络的 2.5 倍。",
-        "url": "https://x.com/solana/status/2097631542155870578",
-        "datetime": 1788949306,
+        "headline": "",
+        "url": "https://x.com/solana/status/2097720809938936196",
+        "datetime": 1788970589,
         "source": "@solana"
       }
     ],
     "AAVE": [
       {
-        "headline": "请访问@aave👻",
+        "headline": "Please visit @aave 👻",
         "url": "https://x.com/AaveAave/status/1721121202507317273",
         "datetime": 1699182246,
         "source": "@AaveAave"
@@ -1395,19 +1395,19 @@
     ],
     "DOGE": [
       {
-        "headline": "咳咳，还得排队呢。",
+        "headline": "Ahem, there is a queue.",
         "url": "https://x.com/dogecoin/status/2096912777495646349",
         "datetime": 1788777939,
         "source": "@dogecoin"
       },
       {
-        "headline": "抵制👊",
+        "headline": "Resist 👊",
         "url": "https://x.com/dogecoin/status/2095878544941543714",
         "datetime": 1788531359,
         "source": "@dogecoin"
       },
       {
-        "headline": "如果早午餐是你睡过去 10 点时吃的早餐，那么你睡过去 2 点时吃的早餐叫什么？  求个朋友。",
+        "headline": "If brunch is the breakfast you have when you sleep in past 10, what do you call the breakfast you have when you sleep in past 2?  Asking for a frien.",
         "url": "https://x.com/dogecoin/status/2093917427440791642",
         "datetime": 1788063792,
         "source": "@dogecoin"
@@ -1417,53 +1417,47 @@
     "TAO": [],
     "NEAR": [
       {
-        "headline": "$ZEC 在 Zcash 上。 $VVV 位于基地。 $NEAR 位于 NEAR 上。三个钱包和一座你不想使用的桥。\n\n或者是一个帐户，您在其中所做的操作与您的身份无关。",
+        "headline": "NEAR is the rail for the privacy renaissance.\n\nUsers and enterprises want to own their data, assets, and activity, from inference to onchain markets. \n\nAI is the frontend, blockchain is the backend, c",
+        "url": "https://x.com/NEARProtocol/status/2097730397127737352",
+        "datetime": 1788972875,
+        "source": "@NEARProtocol"
+      },
+      {
+        "headline": "$ZEC is on Zcash. $VVV is on Base. $NEAR is on NEAR. Three wallets and a bridge you'd rather not use.\n\nOr one  account, where what you do in it isn't tied to your identity.",
         "url": "https://x.com/NEARProtocol/status/2097688982846861762",
         "datetime": 1788963001,
         "source": "@NEARProtocol"
       },
       {
-        "headline": "无需会议证。 Virtual NEAR Day 将于美国东部时间 9 月 10 日星期四上午 11 点至下午 2 点将整个 NEAR 堆栈的更新直接传输到 YouTube 和 X。",
+        "headline": "No conference badge required. Virtual NEAR Day streams updates across the full NEAR stack directly to YouTube and X on Thursday September 10th from 11AM–2PM ET.",
         "url": "https://x.com/NEARProtocol/status/2097472783433253346",
         "datetime": 1788911455,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Venice 和 NEAR 关闭了机密 AI + DeFi 循环。\n\n- 保密地兑换成 $VVV \n- 在 Venice 上质押 $VVV 以获得 Venice Pro 访问权限\n- Venice的端到端加密在NEAR AI Cloud上运行",
-        "url": "https://x.com/NEARProtocol/status/2097382756531507233",
-        "datetime": 1788889991,
         "source": "@NEARProtocol"
       }
     ],
     "ZEC": [
       {
-        "headline": "随着 Zcash ETF 交易额达到 5 亿美元，比特币价格回升至 79,000 美元",
+        "headline": "Bitcoin recovers toward $79,000 as Zcash records a $500 million ETF haul",
         "url": "https://www.coindesk.com/markets/2026/09/09/bitcoin-recovers-toward-usd79-000-as-zcash-records-a-usd500-million-etf-haul",
         "datetime": 1788928555,
         "source": "CoinDesk"
       },
       {
-        "headline": "比特币跌破 79,000 美元，Zcash 领跌，美联储加息可能性接近 60%",
+        "headline": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
         "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
         "datetime": 1788842457,
         "source": "CoinDesk"
       },
       {
-        "headline": "Zcash 触及 2016 年以来最高价格，市值突破 $20B",
+        "headline": "Zcash hits highest price since 2016 as market cap tops $20B",
         "url": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788784283,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "实时更新：随着加息赔率攀升，比特币持稳 79,000 美元，zcash 一周上涨 45%",
-        "url": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
-        "datetime": 1788769032,
-        "source": "CoinDesk"
       }
     ],
     "SPACEX": [
       {
-        "headline": "这种替代能源股票在期权交易中比 SpaceX 更受欢迎。这就是为什么",
+        "headline": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
         "url": "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
         "datetime": 1788899001,
         "source": "CNBC"
