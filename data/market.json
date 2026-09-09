@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T22:13:43.843Z",
+  "updated_at": "2026-09-09T00:55:30.638Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78489,
-      "change_pct": -0.84
+      "price": 78747,
+      "change_pct": -0.63
     },
     {
       "symbol": "ETH",
-      "price": 2482.81,
-      "change_pct": -0.26
+      "price": 2495.11,
+      "change_pct": 0.11
     },
     {
       "symbol": "SOL",
-      "price": 103.13,
-      "change_pct": -0.71
+      "price": 103.74,
+      "change_pct": -0.25
     },
     {
       "symbol": "HYPE",
-      "price": 84.59,
-      "change_pct": -0.74
+      "price": 85.76,
+      "change_pct": 0.94
     },
     {
       "symbol": "ZEC",
-      "price": 1169.34,
-      "change_pct": 1.2
+      "price": 1186.22,
+      "change_pct": 4.24
     },
     {
       "symbol": "TAO",
-      "price": 256.97,
-      "change_pct": -1.16
+      "price": 258.75,
+      "change_pct": -0.97
     },
     {
       "symbol": "SKY",
-      "price": 1554.07,
-      "change_pct": -2.12
+      "price": 1561.86,
+      "change_pct": -2.28
     },
     {
       "symbol": "AAVE",
-      "price": 128.92,
-      "change_pct": -2.18
+      "price": 129.15,
+      "change_pct": -2.53
     },
     {
       "symbol": "BNB",
-      "price": 751.27,
-      "change_pct": 1.64
+      "price": 755.15,
+      "change_pct": 1.98
     },
     {
       "symbol": "NEAR",
-      "price": 2.3,
-      "change_pct": -0.64
+      "price": 2.35,
+      "change_pct": -1.02
     },
     {
       "symbol": "DOGE",
-      "price": 0.089689,
-      "change_pct": -0.88
+      "price": 0.090572,
+      "change_pct": -0.95
     },
     {
       "symbol": "SPACEX",
-      "price": 608.62,
-      "change_pct": 1.8
+      "price": 580.41,
+      "change_pct": -1.88
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "Dorsey's Block 申请联邦银行执照来托管比特币和稳定币",
+      "summary": "<p dir=\"ltr\">比特币对该申请仅表现出温和的反应，从 9 月 8 日接近 78,900 美元的盘中高点回落至 78,000 美元左右的低点，这一走势太浅，无法解读为明确的市场判决。这种克制符合新闻的性质：特许申请表明意图，而不是重新",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/dorsey-s-block-applies-for-federal-bank-charter-to-custody-bitcoin-and-stablecoins/",
+      "datetime": 1788910998,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "纽约市考虑禁止加密货币挖矿和人工智能数据中心",
       "summary": "美国首批禁止比特币挖矿 18 个月的城镇之一正在考虑将另一项临时禁令扩展到数据中心和其他加密货币挖矿业务。",
       "source": "Cointelegraph",
@@ -628,17 +637,8 @@
       "related": ""
     },
     {
-      "headline": "比特币技术面：当日比特币价格走低，技术倾斜度小幅走低",
-      "summary": "<p>在买家未能将最近的涨势延续到日线图上的重要阻力区域后，比特币的技术面开始转向下行。</p><p>日线图：复苏遇到阻力</p><p>从更广泛的日线图开始，作为对比特币的回顾",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/bitcoin-technicals-the-price-of-bitcoin-is-lower-on-the-day-and-the-technical-tilt-is-modestly-lower/",
-      "datetime": 1788875121,
-      "category": "crypto",
-      "related": ""
-    },
-    {
       "headline": "比特币的波动性是否太高，以至于不能让你冒着退休的风险？",
-      "summary": "比特币信徒将其视为几乎肯定的长期投资，但退休需要不同的方法。对于您的退休账户来说，多少加密货币风险太大了？",
+      "summary": "比特币信徒将其视为几乎肯定的长期投资，但退休需要不同的方法。对于您的退休账户来说，多少加密货币暴露过多？",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/is-bitcoin-too-volatile-to-risk-your-retirement-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1788874200,
@@ -797,25 +797,25 @@
     }
   ],
   "btc_score": {
-    "score": 42.8,
+    "score": 41.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 18.9,
-    "weekly_score": 23.9,
-    "btc_price": 78480.7,
-    "fear_greed": 73,
+    "daily_score": 17.1,
+    "weekly_score": 24,
+    "btc_price": 78774,
+    "fear_greed": 72,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": 174600000,
-        "score": 62,
+        "value": -57301445.86999999,
+        "score": 46,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.002353,
-        "score": 46,
+        "value": 0.006528,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -828,8 +828,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 73,
-        "score": 73,
+        "value": 72,
+        "score": 72,
         "weight": 7,
         "group": "daily"
       },
@@ -877,22 +877,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.22,
+        "value": 1.21,
         "score": 24,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 63.2,
-        "score": 72,
+        "value": 63.7,
+        "score": 73,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -85.1,
-        "score": 22,
+        "value": -81.8,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -901,7 +901,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 8
+      "days_until": 7
     },
     "schedule": [
       "2025-01-29",
@@ -1024,7 +1024,7 @@
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1424,
+        "likes": 1425,
         "retweets": 92
       },
       {
@@ -1038,7 +1038,7 @@
         "text": "slowly, slowly, then all at once.",
         "url": "https://x.com/cburniske/status/2080748864085361137",
         "time": "Fri Jul 24 20:16:02 +0000 2026",
-        "likes": 551,
+        "likes": 552,
         "retweets": 44
       }
     ],
@@ -1047,15 +1047,15 @@
         "text": "so we went from failing to count # of “r”s in “strawberry” to solving a millennium prize problem in under 2 yrs",
         "url": "https://x.com/QwQiao/status/2097390830755446887",
         "time": "Tue Sep 08 18:25:16 +0000 2026",
-        "likes": 350,
-        "retweets": 16
+        "likes": 638,
+        "retweets": 25
       },
       {
         "text": "the biggest diff between bitcoin and zcash imo is not privacy or quantum resistance, but the fact that the latter is capable of changes and the former is not. \n\nand this is a tradeoff rather than strict superiority. ossification of bitcoin does offer stronger guarantee of",
         "url": "https://x.com/QwQiao/status/2097321622755500269",
         "time": "Tue Sep 08 13:50:15 +0000 2026",
-        "likes": 340,
-        "retweets": 44
+        "likes": 360,
+        "retweets": 49
       },
       {
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
@@ -1084,35 +1084,35 @@
         "text": "STRC’s BTC Credit tightened to 53 bps (-1 bp), assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $79,809. Learn more about Strategy’s BTC Credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2097295952067400147",
         "time": "Tue Sep 08 12:08:15 +0000 2026",
-        "likes": 329,
+        "likes": 338,
         "retweets": 21
       },
       {
         "text": "Strategy has repurchased $176M of $STRC and increased the size of its Digital Credit Securities Repurchase Program from $1.0B to $2.0B. As of 9/7/26, we hold 845,050 $BTC and $6.5B of USD Assets. $MSTR https://t.co/mxqv9QCRat",
         "url": "https://x.com/saylor/status/2097295103639355844",
         "time": "Tue Sep 08 12:04:53 +0000 2026",
-        "likes": 6766,
-        "retweets": 656
+        "likes": 7017,
+        "retweets": 684
       },
       {
         "text": "Capital gravitates toward Bitcoin. https://t.co/NDJzp4gc6Q",
         "url": "https://x.com/saylor/status/2096942497268166673",
         "time": "Mon Sep 07 12:43:45 +0000 2026",
-        "likes": 6061,
-        "retweets": 623
+        "likes": 6127,
+        "retweets": 629
       },
       {
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 8815,
+        "likes": 8817,
         "retweets": 829
       },
       {
         "text": "Bye-bye, ₿ears. https://t.co/URp5mz74FW",
         "url": "https://x.com/saylor/status/2096147642774437985",
         "time": "Sat Sep 05 08:05:17 +0000 2026",
-        "likes": 11075,
+        "likes": 11079,
         "retweets": 1047
       }
     ],
@@ -1157,37 +1157,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Nebius Stock Jumped Today",
-        "url": "https://finnhub.io/api/news?id=69a068883347b8c33063474d34f1561a1f9f6fca07abd60f84bf58fd58327c53",
-        "datetime": 1788896701,
+        "headline": "Why Delek Holdings Stock Triumphed on Tuesday",
+        "url": "https://finnhub.io/api/news?id=035c5d167b23eb352a5180425e6307efbdb2fe81a6d97332938393b88ba6b11c",
+        "datetime": 1788912001,
         "source": "Yahoo"
       },
       {
-        "headline": "NextEra Just Secured Up to $1.9 Billion to Restart Iowa's Only Nuclear Plant. Here's The Real Reason Why.",
-        "url": "https://finnhub.io/api/news?id=ce672e316b6159b0218699015d82a416416fc241c9199b85aa152fb4ebcf3a21",
-        "datetime": 1788895501,
+        "headline": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+        "url": "https://finnhub.io/api/news?id=c3f7479f0ef0e61dc2f603c5537982ee47ceb78678bde79027b3c3042d7329dc",
+        "datetime": 1788911881,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: This Overlooked International ETF Will Outperform the S&P 500 Over the Next 20 Years",
-        "url": "https://finnhub.io/api/news?id=84c560a226e80ac3f5db91fa9f1d5e24b3b75f9dd72702aecaca34b330e7c7fa",
-        "datetime": 1788895200,
+        "headline": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+        "url": "https://finnhub.io/api/news?id=cd6d68021a949cdb1ddc3c820f58998eda93e19230e21105b3368311d1bd49c6",
+        "datetime": 1788910819,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Broadcom Stock Rallied Tuesday Morning",
-        "url": "https://finnhub.io/api/news?id=1456dbfd7d4bbf92713a586286d1a1659ac9bb2d58dae1518b25e3baf75de046",
-        "datetime": 1788894897,
+        "headline": "Why Braze Stock Tumbled by Over 5% on Tuesday",
+        "url": "https://finnhub.io/api/news?id=04603f9217844f34d1ae42bbed7d08448fb5a1fd102d55dd9c3d911f5343d7ca",
+        "datetime": 1788910524,
         "source": "Yahoo"
       },
       {
-        "headline": "Stay informed with the top movers within the dow jones index on Tuesday.",
-        "url": "https://finnhub.io/api/news?id=c0bbe00c3de9e1f537c499d1785bfb81b11a11392b437598f038f326339af575",
-        "datetime": 1788894604,
-        "source": "ChartMill"
+        "headline": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here’s What to Watch.",
+        "url": "https://finnhub.io/api/news?id=9c944bfd7e95ceddad932e2ed49b79c048e9667dbe94024b40e8b7ac5bba222e",
+        "datetime": 1788910501,
+        "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
+        "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7",
+        "datetime": 1788909114,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
+        "url": "https://finnhub.io/api/news?id=d3c44e35067c13af7cdf79dffc2a06f9496b616809fdaa616737a9e2f5786b53",
+        "datetime": 1788909012,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him",
+        "url": "https://finnhub.io/api/news?id=e840de6c3e3b8f8ad7453a5c1174ae3f5e3348e614cd098f6600218f0452b8ee",
+        "datetime": 1788908442,
+        "source": "Yahoo"
+      },
       {
         "headline": "Google Warns EU Regulations Will Result In Lower Search Quality",
         "url": "https://finnhub.io/api/news?id=87ccf687f2cd9f009cd5f36895793bc2a184e39d0c477e754a7f353ff7fd3c14",
@@ -1199,27 +1217,21 @@
         "url": "https://finnhub.io/api/news?id=7fff043b579798030768e1c5e453791e812be970d54e6fcf21b4aad8c3e576bf",
         "datetime": 1788901324,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Bank of America Spots Reassuring Signal for Google Stock",
-        "url": "https://finnhub.io/api/news?id=ba1b13d2d8832d9cc8e548d814128f2166f423431d2e95543b150ec3e2170ad0",
-        "datetime": 1788901073,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
-        "url": "https://finnhub.io/api/news?id=a1b99458c5427a565844555e2fb2d127e5c6b75c46e590c9df2b351eb9eb14e9",
-        "datetime": 1788899110,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "The Unusual Cash Offer Sitting In TTD Stock",
-        "url": "https://finnhub.io/api/news?id=e625189bc9fae1182705a511b6545e48ddaf12f02058e548eddd9d38d7c12662",
-        "datetime": 1788898290,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
+        "url": "https://finnhub.io/api/news?id=d739d186225075e9056a68cc4ae547229f640d03a5923e585c062ac070f8f2e0",
+        "datetime": 1788900585,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla Cybercab Could Beat Waymo on Cost by Up to 30 Cents A Mile, Goldman Says",
+        "url": "https://finnhub.io/api/news?id=19def9baae7279089c08711e8f48665126e62c736a4752ebedfe010d9ed2a12e",
+        "datetime": 1788899925,
+        "source": "Yahoo"
+      },
       {
         "headline": "Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%",
         "url": "https://finnhub.io/api/news?id=b890242de378ed9adda730e34d574ce3f59d9a98fb911133f1299f77d54de5ee",
@@ -1233,22 +1245,10 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Lucid Just Dropped 33% in a Month. Is It Time to Sell?",
-        "url": "https://finnhub.io/api/news?id=813c92f2358695ce46dad3d5d9fff0c561138d3ae1e67c997d878606983adc71",
-        "datetime": 1788892294,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Which S&P500 stocks are the most active on Tuesday?",
-        "url": "https://finnhub.io/api/news?id=71df634472679672cbba113b47bdb93092bfd0fa038e96e7e1e616b1bf5b7146",
-        "datetime": 1788890700,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "Intel Stock Jumps on Major Analyst Upgrade",
-        "url": "https://finnhub.io/api/news?id=49a3447dff7403c9eca797433ba74d6f3d682c62f57a8bcc013d2782d463f1f3",
-        "datetime": 1788888396,
-        "source": "Yahoo"
+        "headline": "SpaceX Stock Shrugs Off First 2 Share Unlocks — Will Round 3 Break the Streak?",
+        "url": "https://finnhub.io/api/news?id=232f4136ae80ba9072cf1a98094d245e51d7f7e0753bc18cb4de9530d7c280f2",
+        "datetime": 1788892573,
+        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1289,26 +1289,20 @@
         "url": "https://finnhub.io/api/news?id=157cc237d7171bb984b5ec7afdd8219c15007674278682df02aaac34fe321aa7",
         "datetime": 1788531540,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Luckin Coffee Announces Upsizing of Share Repurchase Program",
-        "url": "https://finnhub.io/api/news?id=43c2f12d64b31e4c315d5f6a38f0f55702118fc5e5f0127ae36faa0756fc6aa7",
-        "datetime": 1788256800,
-        "source": "Yahoo"
       }
     ],
     "BTC": [
+      {
+        "headline": "Dorsey's Block applies for federal bank charter to custody bitcoin and stablecoins",
+        "url": "https://investinglive.com/cryptocurrency/dorsey-s-block-applies-for-federal-bank-charter-to-custody-bitcoin-and-stablecoins/",
+        "datetime": 1788910998,
+        "source": "Forexlive"
+      },
       {
         "headline": "Bitcoin faces key support test at $78.3K as US crude oil hits three-month high",
         "url": "https://cointelegraph.com/markets/bitcoin-faces-key-support-test-at-783k-as-us-crude-oil-hits-three-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1788882071,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin technicals: The price of bitcoin is lower on the day and the technical tilt is modestly lower",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-technicals-the-price-of-bitcoin-is-lower-on-the-day-and-the-technical-tilt-is-modestly-lower/",
-        "datetime": 1788875121,
-        "source": "Forexlive"
       },
       {
         "headline": "Is Bitcoin too volatile to risk your retirement on?",
@@ -1407,6 +1401,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "No conference badge required. Virtual NEAR Day streams updates across the full NEAR stack directly to YouTube and X on Thursday September 10th from 11AM–2PM ET.",
+        "url": "https://x.com/NEARProtocol/status/2097472783433253346",
+        "datetime": 1788911455,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Venice and NEAR close the confidential AI + DeFi loop.\n\n- Swap into $VVV confidentially on \n- Stake $VVV on Venice for Venice Pro access\n- Venice's end-to-end encryption runs on NEAR AI Cloud",
         "url": "https://x.com/NEARProtocol/status/2097382756531507233",
         "datetime": 1788889991,
@@ -1416,12 +1416,6 @@
         "headline": "NEAR Intents is now integrated into @DecibelTrade as its canonical cross-chain swap provider.\n\nUsers can now bring BTC from 30+ chains into Decibel, an @Aptos-based perpetuals exchange, all within its",
         "url": "https://x.com/NEARProtocol/status/2097374257311289637",
         "datetime": 1788887964,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "You can now stake NEAR on  and keep it confidential. \n\nStake, and withdraw from one account. All confidential.",
-        "url": "https://x.com/NEARProtocol/status/2097312017073738159",
-        "datetime": 1788873125,
         "source": "@NEARProtocol"
       }
     ],
