@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T00:55:30.638Z",
+  "updated_at": "2026-09-09T05:37:07.713Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 34.81,
-      "change_pct": 2.5
+      "price": 33.55,
+      "change_pct": -3.62
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78747,
-      "change_pct": -0.63
+      "price": 79034,
+      "change_pct": 0.44
     },
     {
       "symbol": "ETH",
-      "price": 2495.11,
-      "change_pct": 0.11
+      "price": 2497.57,
+      "change_pct": 0.84
     },
     {
       "symbol": "SOL",
-      "price": 103.74,
-      "change_pct": -0.25
+      "price": 104.23,
+      "change_pct": 1
     },
     {
       "symbol": "HYPE",
-      "price": 85.76,
-      "change_pct": 0.94
+      "price": 85.85,
+      "change_pct": 2.02
     },
     {
       "symbol": "ZEC",
-      "price": 1186.22,
-      "change_pct": 4.24
+      "price": 1223.78,
+      "change_pct": 8.02
     },
     {
       "symbol": "TAO",
-      "price": 258.75,
-      "change_pct": -0.97
+      "price": 257.9,
+      "change_pct": 0.88
     },
     {
       "symbol": "SKY",
-      "price": 1561.86,
-      "change_pct": -2.28
-    },
-    {
-      "symbol": "AAVE",
-      "price": 129.15,
-      "change_pct": -2.53
-    },
-    {
-      "symbol": "BNB",
-      "price": 755.15,
-      "change_pct": 1.98
-    },
-    {
-      "symbol": "NEAR",
-      "price": 2.35,
+      "price": 1563.5,
       "change_pct": -1.02
     },
     {
+      "symbol": "AAVE",
+      "price": 129.18,
+      "change_pct": -1.86
+    },
+    {
+      "symbol": "BNB",
+      "price": 752.23,
+      "change_pct": 0.11
+    },
+    {
+      "symbol": "NEAR",
+      "price": 2.34,
+      "change_pct": 2.55
+    },
+    {
       "symbol": "DOGE",
-      "price": 0.090572,
-      "change_pct": -0.95
+      "price": 0.090174,
+      "change_pct": 0.21
     },
     {
       "symbol": "SPACEX",
-      "price": 580.41,
-      "change_pct": -1.88
+      "price": 590.99,
+      "change_pct": 10.39
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "Malone Lam 承认共谋 2.45 亿美元加密货币盗窃罪",
+      "summary": "美国检察官表示，林郑月娥组织了一个国际网络，通过社会工程和入室盗窃来针对加密货币持有者。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1788926991,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Dorsey's Block 申请联邦银行执照来托管比特币和稳定币",
       "summary": "<p dir=\"ltr\">比特币对该申请仅表现出温和的反应，从 9 月 8 日接近 78,900 美元的盘中高点回落至 78,000 美元左右的低点，这一走势太浅，无法解读为明确的市场判决。这种克制符合新闻的性质：特许申请表明意图，而不是重新",
       "source": "Forexlive",
@@ -734,15 +743,6 @@
       "datetime": 1788867194,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "比特币 ETF 到 2026 年仍需 10 亿美元才能实现收支平衡",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/08/bitcoin-etfs-are-still-usd1-billion-shy-of-breaking-even-in-2026",
-      "datetime": 1788866787,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -758,7 +758,13 @@
     },
     {
       "company": "Anthropic",
-      "news": []
+      "news": [
+        {
+          "headline": "据称，Anthropic 将放弃 60 亿美元收购迪卡特 (Decart) 的交易",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+          "datetime": 1788838770
+        }
+      ]
     },
     {
       "company": "OpenAI",
@@ -797,31 +803,31 @@
     }
   ],
   "btc_score": {
-    "score": 41.1,
+    "score": 41.4,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.1,
-    "weekly_score": 24,
-    "btc_price": 78774,
+    "daily_score": 17.3,
+    "weekly_score": 24.1,
+    "btc_price": 78987.7,
     "fear_greed": 72,
     "indicators": [
       {
         "name": "ETF 每日净流入",
-        "value": -57301445.86999999,
-        "score": 46,
+        "value": -46646405.86999999,
+        "score": 47,
         "weight": 12,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006528,
-        "score": 48,
+        "value": 0.007771,
+        "score": 49,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.3,
+        "value": 1.29,
         "score": 53,
         "weight": 5,
         "group": "daily"
@@ -884,15 +890,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.7,
-        "score": 73,
+        "value": 64.1,
+        "score": 74,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -81.8,
-        "score": 23,
+        "value": -67.5,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -1010,7 +1016,7 @@
         "text": "Coming off the bottom, setting up for the barrel, conscious of the peril... https://t.co/SKlXW8bnmJ",
         "url": "https://x.com/cburniske/status/2091077365925302489",
         "time": "Sat Aug 22 08:17:49 +0000 2026",
-        "likes": 1512,
+        "likes": 1513,
         "retweets": 117
       },
       {
@@ -1047,28 +1053,28 @@
         "text": "so we went from failing to count # of “r”s in “strawberry” to solving a millennium prize problem in under 2 yrs",
         "url": "https://x.com/QwQiao/status/2097390830755446887",
         "time": "Tue Sep 08 18:25:16 +0000 2026",
-        "likes": 638,
-        "retweets": 25
+        "likes": 1368,
+        "retweets": 44
       },
       {
         "text": "the biggest diff between bitcoin and zcash imo is not privacy or quantum resistance, but the fact that the latter is capable of changes and the former is not. \n\nand this is a tradeoff rather than strict superiority. ossification of bitcoin does offer stronger guarantee of",
         "url": "https://x.com/QwQiao/status/2097321622755500269",
         "time": "Tue Sep 08 13:50:15 +0000 2026",
-        "likes": 360,
+        "likes": 384,
         "retweets": 49
       },
       {
         "text": "zcash is simultaneously\n\n- the most important unfinished project in crypto (in the eyes of many ogs at least)\n- the last opportunity with an infinite tam (non-sovereign store of value)\n- the most compelling price action setup (breakout after decade-long distribution)\n\nconfluence",
         "url": "https://x.com/QwQiao/status/2096563656624365873",
         "time": "Sun Sep 06 11:38:22 +0000 2026",
-        "likes": 1015,
+        "likes": 1016,
         "retweets": 115
       },
       {
         "text": "watched the astra launch video, looks like full computer use. if the real product is that good, then it's a major inflection point: chat -&gt; reasoning -&gt; coding -&gt; full computer use. tam (most white collar jobs) is at least 1 order of magnitude, maybe 2 or 3, that of coding. which",
         "url": "https://x.com/QwQiao/status/2095828684703678481",
         "time": "Fri Sep 04 10:57:51 +0000 2026",
-        "likes": 187,
+        "likes": 188,
         "retweets": 8
       },
       {
@@ -1084,39 +1090,46 @@
         "text": "STRC’s BTC Credit tightened to 53 bps (-1 bp), assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $79,809. Learn more about Strategy’s BTC Credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2097295952067400147",
         "time": "Tue Sep 08 12:08:15 +0000 2026",
-        "likes": 338,
-        "retweets": 21
+        "likes": 352,
+        "retweets": 22
       },
       {
         "text": "Strategy has repurchased $176M of $STRC and increased the size of its Digital Credit Securities Repurchase Program from $1.0B to $2.0B. As of 9/7/26, we hold 845,050 $BTC and $6.5B of USD Assets. $MSTR https://t.co/mxqv9QCRat",
         "url": "https://x.com/saylor/status/2097295103639355844",
         "time": "Tue Sep 08 12:04:53 +0000 2026",
-        "likes": 7017,
-        "retweets": 684
+        "likes": 7333,
+        "retweets": 721
       },
       {
         "text": "Capital gravitates toward Bitcoin. https://t.co/NDJzp4gc6Q",
         "url": "https://x.com/saylor/status/2096942497268166673",
         "time": "Mon Sep 07 12:43:45 +0000 2026",
-        "likes": 6127,
-        "retweets": 629
+        "likes": 6193,
+        "retweets": 640
       },
       {
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 8817,
+        "likes": 8819,
         "retweets": 829
       },
       {
         "text": "Bye-bye, ₿ears. https://t.co/URp5mz74FW",
         "url": "https://x.com/saylor/status/2096147642774437985",
         "time": "Sat Sep 05 08:05:17 +0000 2026",
-        "likes": 11079,
-        "retweets": 1047
+        "likes": 11078,
+        "retweets": 1048
       }
     ],
     "viktorfischer": [
+      {
+        "text": "12.7% on USDC these days? No problem - use @protocol_fx ecosystem vault on @Morpho ; by @RockawayX",
+        "url": "https://x.com/viktorfischer/status/2097555545133662709",
+        "time": "Wed Sep 09 05:19:47 +0000 2026",
+        "likes": 0,
+        "retweets": 0
+      },
       {
         "text": "Just like the internet in the 2000s, the crypto industry is moving from an era of *infrastructure build-out* to an era of *revenue-generating applications*. Hear @AustinBarack's views on @AskVenice base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf, @Pumpfun",
         "url": "https://x.com/viktorfischer/status/2096953606549143794",
@@ -1144,50 +1157,49 @@
         "time": "Tue Aug 25 20:38:25 +0000 2026",
         "likes": 60,
         "retweets": 4
-      },
-      {
-        "text": "Big uptick last week: AI agents minting USDC on @solana 📈",
-        "url": "https://x.com/viktorfischer/status/2091872967936573552",
-        "time": "Mon Aug 24 12:59:15 +0000 2026",
-        "likes": 12,
-        "retweets": 1
       }
     ]
   },
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Delek Holdings Stock Triumphed on Tuesday",
-        "url": "https://finnhub.io/api/news?id=035c5d167b23eb352a5180425e6307efbdb2fe81a6d97332938393b88ba6b11c",
-        "datetime": 1788912001,
+        "headline": "1 Chart That Destroys The Nvidia Bear Thesis",
+        "url": "https://finnhub.io/api/news?id=53838cddac5bd160897a546c1768e6aa0cf1db3a62cff141778b7f5f4b092fcf",
+        "datetime": 1788924001,
         "source": "Yahoo"
       },
       {
-        "headline": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
-        "url": "https://finnhub.io/api/news?id=c3f7479f0ef0e61dc2f603c5537982ee47ceb78678bde79027b3c3042d7329dc",
-        "datetime": 1788911881,
+        "headline": "Rocket Lab's Next Neutron Milestone Is a Pad Delivery, Not a Launch. I'd Hold Off on Buying the Stock.",
+        "url": "https://finnhub.io/api/news?id=3ab34e17eb3397b04bcc5a3ba49803f741de121b0434cd078769caac42de6893",
+        "datetime": 1788922861,
         "source": "Yahoo"
       },
       {
-        "headline": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
-        "url": "https://finnhub.io/api/news?id=cd6d68021a949cdb1ddc3c820f58998eda93e19230e21105b3368311d1bd49c6",
-        "datetime": 1788910819,
+        "headline": "Fed Chairman Kevin Warsh Called Inflation 'More Concerning' at His First Jackson Hole Speech. Does That Signal a Rate Hike Is Coming?",
+        "url": "https://finnhub.io/api/news?id=dfed6f72b61b619403963e19b9fca06683f86aa98de6fc7df0805462ad204b93",
+        "datetime": 1788921300,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Braze Stock Tumbled by Over 5% on Tuesday",
-        "url": "https://finnhub.io/api/news?id=04603f9217844f34d1ae42bbed7d08448fb5a1fd102d55dd9c3d911f5343d7ca",
-        "datetime": 1788910524,
+        "headline": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood’s ARK Sees Trillions Ahead",
+        "url": "https://finnhub.io/api/news?id=201d0df4e84abddf20f34b946b134d6b411693a51a5e9b485b85e159085d9f00",
+        "datetime": 1788919508,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here’s What to Watch.",
-        "url": "https://finnhub.io/api/news?id=9c944bfd7e95ceddad932e2ed49b79c048e9667dbe94024b40e8b7ac5bba222e",
-        "datetime": 1788910501,
+        "headline": "If I Were in My 20s, I'd Buy This Vanguard ETF Warren Buffett Recommended and Hold It Forever",
+        "url": "https://finnhub.io/api/news?id=dab6aeadac5c73d5d0d5eb8ffb0361a8a8c6904da7ef36d5aca83cfb3c018619",
+        "datetime": 1788918600,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Bill Ackman's surprising $934 million bet after dumping Alphabet",
+        "url": "https://finnhub.io/api/news?id=8c25c9ed4059c4fd1afd5fbd551aecd4f4835eea5a3a8a60e6d2b8bad6904ff8",
+        "datetime": 1788923220,
+        "source": "Yahoo"
+      },
       {
         "headline": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
         "url": "https://finnhub.io/api/news?id=ebc88ed8c055359f55158cd3e5655db5833a39dee816a95542f05eb6c12857a7",
@@ -1211,15 +1223,15 @@
         "url": "https://finnhub.io/api/news?id=87ccf687f2cd9f009cd5f36895793bc2a184e39d0c477e754a7f353ff7fd3c14",
         "datetime": 1788903949,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
-        "url": "https://finnhub.io/api/news?id=7fff043b579798030768e1c5e453791e812be970d54e6fcf21b4aad8c3e576bf",
-        "datetime": 1788901324,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "TSLA Stock Slips Overnight Even As Musk Hypes Cybercab Speed And Cathie Wood’s ARK Sees Trillions Ahead",
+        "url": "https://finnhub.io/api/news?id=201d0df4e84abddf20f34b946b134d6b411693a51a5e9b485b85e159085d9f00",
+        "datetime": 1788919508,
+        "source": "Yahoo"
+      },
       {
         "headline": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
         "url": "https://finnhub.io/api/news?id=d739d186225075e9056a68cc4ae547229f640d03a5923e585c062ac070f8f2e0",
@@ -1243,15 +1255,21 @@
         "url": "https://finnhub.io/api/news?id=06fdad6af46f1bc9172ed7416615e908b6dde2340d9e2760b1de7415a7cb0c3c",
         "datetime": 1788894000,
         "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX Stock Shrugs Off First 2 Share Unlocks — Will Round 3 Break the Streak?",
-        "url": "https://finnhub.io/api/news?id=232f4136ae80ba9072cf1a98094d245e51d7f7e0753bc18cb4de9530d7c280f2",
-        "datetime": 1788892573,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Circle stock slips despite new acquisition news",
+        "url": "https://finnhub.io/api/news?id=b66b1cfe619be308a0b56ccf9ba6b7e478d894834345029ec485ab553bf066eb",
+        "datetime": 1788895332,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "CRCL Stock Slides Despite Analysts’ Bullish Tazapay Outlook — Deal Seen Doubling Payments Volume",
+        "url": "https://finnhub.io/api/news?id=6e6ecfd41e1b1583406f84a9262a687592b9be960b23202a7092fe586eb3fe08",
+        "datetime": 1788889160,
+        "source": "Yahoo"
+      },
       {
         "headline": "Shares of software companies are trading lower, possibly in response to escalating tensions in the Middle East and renewed inflation concerns that may shift the Fed towards a rate hike. Concerns about key economic data due later this week may prompt traders to rotate out of growth stocks.",
         "url": "https://finnhub.io/api/news?id=c69408f6b2e2de87abefeb217619a19db915930e139f14fc71586990a574b37b",
@@ -1259,28 +1277,16 @@
         "source": "Benzinga"
       },
       {
-        "headline": "Keefe, Bruyette & Woods Initiates Coverage On Circle Internet Group with Market Perform Rating, Announces Price Target of $105",
-        "url": "https://finnhub.io/api/news?id=9f352e34277fa4a6b9cc3ea4c0004aaea015cb673992ab83d825dd60e4ab4549",
-        "datetime": 1788863138,
-        "source": "Benzinga"
+        "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
+        "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920",
+        "datetime": 1788874698,
+        "source": "Yahoo"
       },
       {
-        "headline": "Circle Doubles Down on Stablecoin Payments With Tazapay Acquisition",
-        "url": "https://finnhub.io/api/news?id=00430a3d4b45668c614700a47057ba1ea893ecebba771e3ce7b123339b6a8d37",
-        "datetime": 1788859152,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Circle: At The Forefront Of The Stablecoin Revolution",
-        "url": "https://finnhub.io/api/news?id=494e20933cc48976f6566dac7806781601ff064b9447d5d8f8a91b61b92def34",
-        "datetime": 1788848679,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Circle Internet Group To Acquire Singapore-Based Payments Infrastructure Company Tazapay; Financial Terms Not Disclosed",
-        "url": "https://finnhub.io/api/news?id=e8fbaef8a555e4a684ec1fa5e284683d46d12a5ca9c105327566ef961aee3ad3",
-        "datetime": 1788848363,
-        "source": "Benzinga"
+        "headline": "Circle Is Buying Its Own Cross-Border Payment Rails for $400 Million – and Skipping the ‘Build’ Phase Entirely",
+        "url": "https://finnhub.io/api/news?id=2739f873b9b69906b0fac8f7a24319ee619e63ef8e17c4a9e7fff61fa6ecd96f",
+        "datetime": 1788874067,
+        "source": "Yahoo"
       }
     ],
     "LKNCY": [
