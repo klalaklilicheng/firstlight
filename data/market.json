@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T23:42:50.303Z",
+  "updated_at": "2026-09-10T02:20:07.228Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 33.55,
-      "change_pct": -3.62
+      "price": 33.98,
+      "change_pct": 1.28
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78209,
-      "change_pct": -0.31
+      "price": 77989,
+      "change_pct": -0.99
     },
     {
       "symbol": "ETH",
-      "price": 2465.89,
-      "change_pct": -0.77
+      "price": 2460.1,
+      "change_pct": -1.36
     },
     {
       "symbol": "SOL",
-      "price": 101.68,
-      "change_pct": -1.68
+      "price": 101.01,
+      "change_pct": -2.47
     },
     {
       "symbol": "HYPE",
-      "price": 83.35,
-      "change_pct": -1.91
+      "price": 83.31,
+      "change_pct": -2.55
     },
     {
       "symbol": "ZEC",
-      "price": 1238.55,
-      "change_pct": 5.07
+      "price": 1215.9,
+      "change_pct": 2.84
     },
     {
       "symbol": "TAO",
-      "price": 253.88,
-      "change_pct": -2.62
+      "price": 251.44,
+      "change_pct": -1.49
     },
     {
       "symbol": "SKY",
-      "price": 1433.69,
-      "change_pct": -7.83
+      "price": 1415.08,
+      "change_pct": -9.36
     },
     {
       "symbol": "AAVE",
-      "price": 125.5,
-      "change_pct": -2.6
+      "price": 124.08,
+      "change_pct": -3.89
     },
     {
       "symbol": "BNB",
-      "price": 722.04,
-      "change_pct": -4.01
+      "price": 720.72,
+      "change_pct": -4.2
     },
     {
       "symbol": "NEAR",
-      "price": 2.48,
-      "change_pct": 6.95
+      "price": 2.45,
+      "change_pct": 6.69
     },
     {
       "symbol": "DOGE",
-      "price": 0.086115,
-      "change_pct": -4.37
+      "price": 0.085437,
+      "change_pct": -5.01
     },
     {
       "symbol": "SPACEX",
-      "price": 582.88,
-      "change_pct": -3.06
+      "price": 583.75,
+      "change_pct": 0.58
     }
   ],
   "earnings": {
@@ -485,7 +485,7 @@
     },
     {
       "headline": "杰克逊维尔美洲虎队老板沙德·汗表示，NFL球队仍然“被低估”",
-      "summary": "杰克逊维尔美洲虎队老板沙德·汗表示，与其他职业体育联盟的球队相比，NFL球队的价值仍然被低估。",
+      "summary": "杰克逊维尔美洲虎队老板沙德·汗表示，与其他职业体育联盟的球队相比，NFL 球队的价值仍然被低估。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
       "datetime": 1788992988,
@@ -718,7 +718,7 @@
       "related": ""
     },
     {
-      "headline": "KYC数据对于黑客来说是不可抗拒的蜜罐，我们必须改变它的收集方式",
+      "headline": "KYC 数据对于黑客来说是不可抗拒的蜜罐，我们必须改变它的收集方式",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
@@ -808,13 +808,13 @@
     }
   ],
   "btc_score": {
-    "score": 40.5,
+    "score": 40.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 16.5,
-    "weekly_score": 24,
-    "btc_price": 78219.9,
-    "fear_greed": 72,
+    "daily_score": 16.7,
+    "weekly_score": 24.1,
+    "btc_price": 78052.9,
+    "fear_greed": 71,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -825,22 +825,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003918,
+        "value": 0.00392,
         "score": 47,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.27,
-        "score": 51,
+        "value": 1.35,
+        "score": 57,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 72,
-        "score": 72,
+        "value": 71,
+        "score": 71,
         "weight": 7,
         "group": "daily"
       },
@@ -895,15 +895,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.8,
+        "value": 62.5,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -80.9,
-        "score": 23,
+        "value": -73.7,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -912,7 +912,7 @@
   "fomc": {
     "next": {
       "date": "2026-09-16",
-      "days_until": 7
+      "days_until": 6
     },
     "schedule": [
       "2025-01-29",
@@ -1029,7 +1029,7 @@
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
         "likes": 756,
-        "retweets": 102
+        "retweets": 103
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
@@ -1065,14 +1065,14 @@
         "text": "so we went from failing to count # of “r”s in “strawberry” to solving a millennium prize problem in under 2 yrs",
         "url": "https://x.com/QwQiao/status/2097390830755446887",
         "time": "Tue Sep 08 18:25:16 +0000 2026",
-        "likes": 2195,
+        "likes": 2193,
         "retweets": 68
       },
       {
         "text": "the biggest diff between bitcoin and zcash imo is not privacy or quantum resistance, but the fact that the latter is capable of changes and the former is not. \n\nand this is a tradeoff rather than strict superiority. ossification of bitcoin does offer stronger guarantee of",
         "url": "https://x.com/QwQiao/status/2097321622755500269",
         "time": "Tue Sep 08 13:50:15 +0000 2026",
-        "likes": 403,
+        "likes": 404,
         "retweets": 51
       },
       {
@@ -1095,36 +1095,36 @@
         "text": "₿uy Cyberspace. https://t.co/qFWaBHm5ec",
         "url": "https://x.com/saylor/status/2097689620498514155",
         "time": "Wed Sep 09 14:12:33 +0000 2026",
-        "likes": 3591,
-        "retweets": 350
+        "likes": 3878,
+        "retweets": 380
       },
       {
         "text": "STRC’s BTC Credit tightened to 53 bps (-1 bp), assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $79,809. Learn more about Strategy’s BTC Credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2097295952067400147",
         "time": "Tue Sep 08 12:08:15 +0000 2026",
-        "likes": 382,
-        "retweets": 32
+        "likes": 385,
+        "retweets": 33
       },
       {
         "text": "Strategy has repurchased $176M of $STRC and increased the size of its Digital Credit Securities Repurchase Program from $1.0B to $2.0B. As of 9/7/26, we hold 845,050 $BTC and $6.5B of USD Assets. $MSTR https://t.co/mxqv9QCRat",
         "url": "https://x.com/saylor/status/2097295103639355844",
         "time": "Tue Sep 08 12:04:53 +0000 2026",
-        "likes": 8031,
-        "retweets": 815
+        "likes": 8063,
+        "retweets": 820
       },
       {
         "text": "Capital gravitates toward Bitcoin. https://t.co/NDJzp4gc6Q",
         "url": "https://x.com/saylor/status/2096942497268166673",
         "time": "Mon Sep 07 12:43:45 +0000 2026",
-        "likes": 6282,
-        "retweets": 658
+        "likes": 6284,
+        "retweets": 659
       },
       {
         "text": "Run like your money depends on it. https://t.co/01GpT0Nuhc",
         "url": "https://x.com/saylor/status/2096509437414388179",
         "time": "Sun Sep 06 08:02:55 +0000 2026",
-        "likes": 8836,
-        "retweets": 835
+        "likes": 8837,
+        "retweets": 834
       }
     ],
     "viktorfischer": [
@@ -1168,69 +1168,75 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Argan Stock Swooned by Almost 8% Today",
-        "url": "https://finnhub.io/api/news?id=0dfb03048f6c8d5c24b31f5fa1b46e679f6030cc85eec784d6b78f6836a5638c",
-        "datetime": 1788989607,
+        "headline": "What Is an IPO, and Should You Buy One? My Contrarian Take After 15 Years at The Fool.",
+        "url": "https://finnhub.io/api/news?id=3fbbe87031492236859b2088773b07cc72110a014e40cb7d6bec367cf8b7cb47",
+        "datetime": 1789003200,
         "source": "Yahoo"
       },
       {
-        "headline": "What History Reveals When the S&P 500 Sends Its Rarest Warning Signal",
-        "url": "https://finnhub.io/api/news?id=daab08f4c6f5460b6b0559c003e90251c65509480fd37298499224d5a39ff14b",
-        "datetime": 1788988800,
+        "headline": "Prediction: CoreWeave's Contracted Backlog Passes $150 Billion Before 2028",
+        "url": "https://finnhub.io/api/news?id=a075ac0df06fed9bc7176db6896fc1222e9dacbce615d53202b7d79b984806ee",
+        "datetime": 1789001821,
         "source": "Yahoo"
       },
       {
-        "headline": "Apple Releases the iPhone 18 Pro Lineup and the Foldable iPhone Duo. Do These New Products Signal a Golden Age of Product Innovation Under CEO John Ternus?",
-        "url": "https://finnhub.io/api/news?id=07e764c750f3dd8b21631c04b640f0636fcefa3a54f807830cd190ca9edc0bb9",
-        "datetime": 1788988501,
+        "headline": "Better eVTOL Stock: Archer Aviation vs. Joby Aviation",
+        "url": "https://finnhub.io/api/news?id=ddd3fd7051e7adcb5db412b9ef7f7a70ae3c344c7c47c71d8d3631d747287744",
+        "datetime": 1788999900,
         "source": "Yahoo"
       },
       {
-        "headline": "SailPoint, Inc. Q2 2027 Earnings Call Summary",
-        "url": "https://finnhub.io/api/news?id=f22cac0e23fa19f0d3183735c218c5cb5d613a06822bd6fa49fcbe8dd4116458",
-        "datetime": 1788987164,
+        "headline": "AeroVironment Just Delivered Historic Results. Wall Street Says It's a Buy",
+        "url": "https://finnhub.io/api/news?id=c3ac639ef11ff3670cfc0a0a4a4d02812dcd12b9a4f37c80a7189ba8ca7d50a3",
+        "datetime": 1788999892,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Is Loading Up on Ionis Pharmaceuticals (IONS) Stock. Here's the Bet She's Making.",
-        "url": "https://finnhub.io/api/news?id=d824389cfa7c80064244e84df4c1f60e58377230cd56332cfc832421fad99508",
-        "datetime": 1788987000,
+        "headline": "Why Signet Jewelers Stock Popped Today",
+        "url": "https://finnhub.io/api/news?id=41ff7eb158ef628a62d41ba776cd26f2121cfd7ef4f6a7a2b7e19c811b2aa6ee",
+        "datetime": 1788999107,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Dan Ives Warns 10%-15% of US Data Center Projects Could Be Cut as AI Boom Faces Political Backlash, Calls It the ‘Biggest Threat’",
+        "url": "https://finnhub.io/api/news?id=01344eed6869260b8a9e6f7af97d8fde8461e6323f182a4e6ceb4e06c6386e91",
+        "datetime": 1789000213,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+        "url": "https://finnhub.io/api/news?id=34f11eaf89e2a676db850950a1967980551c18a67bd73bde0e46e2adf21a9398",
+        "datetime": 1788994424,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
+        "url": "https://finnhub.io/api/news?id=ff951a80c9793bdca05d94c4fe4ff878b33f0975aae72c736f349c009566553d",
+        "datetime": 1788992400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Multi-Category Presence Key To AI Visibility For Fintech Brands",
+        "url": "https://finnhub.io/api/news?id=0870c01e5af14b8633b168976a3d382d20d3ee190d993efbe68691e3a6a10ecc",
+        "datetime": 1788991064,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Stock Market Today, Sept. 9: Meta Surges Over 6.5% on Muse AI Agent Launch",
         "url": "https://finnhub.io/api/news?id=2c50c9c122ce361357da6c5f6f43119bb626ae70541fda74045942e1bcefff7f",
         "datetime": 1788989729,
         "source": "Yahoo"
-      },
-      {
-        "headline": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
-        "url": "https://finnhub.io/api/news?id=4844d095a2ba9ad4c216955ed49fa3250cf37fb47466d25dd03a5fc1631fe4a7",
-        "datetime": 1788989362,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Legal AI leaders like Harvey are sprinting to scale while they still can",
-        "url": "https://finnhub.io/api/news?id=16ce888180ee6f406becf953e187b4c252dd9d2405435b786d991f9ee68ac65d",
-        "datetime": 1788988744,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades",
-        "url": "https://finnhub.io/api/news?id=9dd6f77af6d75e57041ff7cee8092c7d12025e51237e1f236d61912aeb04e066",
-        "datetime": 1788988402,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "This billionaire is now worth more than Jeff Bezos",
-        "url": "https://finnhub.io/api/news?id=14ff168478ab1fd26d9dc15f1ae845710b97c720dc4794d24c9121aa30f1c828",
-        "datetime": 1788987695,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Goldman Sachs sends stark message to Tesla investors",
+        "url": "https://finnhub.io/api/news?id=8aa96b0611041f2eb10e1ab86c10c14498054c5faca0de3b76ac428dd98a4d78",
+        "datetime": 1788994800,
+        "source": "Yahoo"
+      },
       {
         "headline": "This billionaire is now worth more than Jeff Bezos",
         "url": "https://finnhub.io/api/news?id=14ff168478ab1fd26d9dc15f1ae845710b97c720dc4794d24c9121aa30f1c828",
@@ -1244,57 +1250,57 @@
         "source": "Yahoo"
       },
       {
+        "headline": "Tesla: Cybercab Event Fumble",
+        "url": "https://finnhub.io/api/news?id=2495668f8253333bcccf20783787e071f6b6e023a031fba17590ea6f1293d480",
+        "datetime": 1788984037,
+        "source": "SeekingAlpha"
+      },
+      {
         "headline": "Tesla Cybercab Strength Comes with Weakness in China: A Tale of Two Growth Stories",
         "url": "https://finnhub.io/api/news?id=18d52df75ce17d22d939278a9f2936c80391cdcf5c4d8980abd4ca6d77608b30",
         "datetime": 1788978133,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Vs. Alphabet's Waymo: Battle Of The Robotaxi Behemoths Post Cybercab Launch",
-        "url": "https://finnhub.io/api/news?id=e2d083ed0ad8a98ffd469429dce3233d8cab355a10d4d5a9c405abf2d338e353",
-        "datetime": 1788977139,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "What's going on in today's session: S&P500 most active stocks",
-        "url": "https://finnhub.io/api/news?id=a5660c5f55f29a62a647296a45344f416da2245c84fdb28af5dc79f76f039bab",
-        "datetime": 1788977100,
-        "source": "ChartMill"
       }
     ],
     "CRCL": [
       {
-        "headline": "Circle agrees to buy Singapore-based payments platform Tazapay",
-        "url": "https://finnhub.io/api/news?id=97dfbcc21f56ba704cd911a348b012dd081fd8203dc45c9f99510dd4467da7e9",
-        "datetime": 1788938162,
+        "headline": "Iran relaxes controls as it turns to crypto for foreign trade",
+        "url": "https://finnhub.io/api/news?id=7b094c6cde3919f078809bc933a9b0cb83324dd9b8a1dbaf1ca355cd9d3ecbd2",
+        "datetime": 1788978600,
         "source": "Yahoo"
       },
       {
-        "headline": "Circle stock slips despite new acquisition news",
-        "url": "https://finnhub.io/api/news?id=b66b1cfe619be308a0b56ccf9ba6b7e478d894834345029ec485ab553bf066eb",
-        "datetime": 1788895332,
+        "headline": "Circle buys USDC global payment network in major crypto expansion",
+        "url": "https://finnhub.io/api/news?id=993d0dceb9f42c6269a3ce186fd0150dbace2be0ba8481efc9ee3859e13b17c5",
+        "datetime": 1788974168,
         "source": "Yahoo"
       },
       {
-        "headline": "CRCL Stock Slides Despite Analysts’ Bullish Tazapay Outlook — Deal Seen Doubling Payments Volume",
-        "url": "https://finnhub.io/api/news?id=6e6ecfd41e1b1583406f84a9262a687592b9be960b23202a7092fe586eb3fe08",
-        "datetime": 1788889160,
+        "headline": "How Circle's latest acquisition brings the company one step closer to stablecoin supremacy",
+        "url": "https://finnhub.io/api/news?id=db9f0d3d430125587f66d9f884f968e846959fcc014869c287fe32e30f4a42d7",
+        "datetime": 1788973221,
         "source": "Yahoo"
       },
       {
-        "headline": "Shares of software companies are trading lower, possibly in response to escalating tensions in the Middle East and renewed inflation concerns that may shift the Fed towards a rate hike. Concerns about key economic data due later this week may prompt traders to rotate out of growth stocks.",
-        "url": "https://finnhub.io/api/news?id=c69408f6b2e2de87abefeb217619a19db915930e139f14fc71586990a574b37b",
-        "datetime": 1788881059,
-        "source": "Benzinga"
+        "headline": "Circle to buy Tazapay for $400M",
+        "url": "https://finnhub.io/api/news?id=8ae6d5468b55934eef81dfe5f2fcff1d238b321d57fd9286f2e205c14e21d1f0",
+        "datetime": 1788964243,
+        "source": "Yahoo"
       },
       {
-        "headline": "Intel upgraded, Reddit initiated: Wall Street's top analyst calls",
-        "url": "https://finnhub.io/api/news?id=953fd7c963e0c5c7fefec12d69c7c78db5d8c24be2387123c7a503f0a80f1920",
-        "datetime": 1788874698,
+        "headline": "Crypto Firm Block Files For U.S. Bank Charter",
+        "url": "https://finnhub.io/api/news?id=f593e603154d44a6fea5fdb537c1631dc559dbc0890fd8468dcb1bc9bd3eb150",
+        "datetime": 1788960900,
         "source": "Yahoo"
       }
     ],
     "LKNCY": [
+      {
+        "headline": "UNFI Q4 Earnings Beat Estimates on Margin Gains and Cost Savings",
+        "url": "https://finnhub.io/api/news?id=f5fe2a26e0fb157219735b44edfaa33cd426fecbbdf3552ba81a342739c55f9a",
+        "datetime": 1788967020,
+        "source": "Yahoo"
+      },
       {
         "headline": "Vita Coco's Innovation Push: A Recipe for Long-Term Growth?",
         "url": "https://finnhub.io/api/news?id=157cc237d7171bb984b5ec7afdd8219c15007674278682df02aaac34fe321aa7",
@@ -1406,6 +1412,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "Every layer of the NEAR stack, one event. Both co-founders kick it off.\n\nVirtual NEAR Day goes live tomorrow with @therollupco from 11am–2pm ET.\n\nIllia Polosukhin and Alex Skidanov open with a firesid",
+        "url": "https://x.com/NEARProtocol/status/2097863751529558433",
+        "datetime": 1789004669,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Whoever owns the models and interfaces owns the intelligence of billions. The closed AI stack trains on your data and hides what ran. \n\nNEAR AI is built for the alternative: verifiable, confidential, ",
         "url": "https://x.com/NEARProtocol/status/2097803482707419248",
         "datetime": 1788990300,
@@ -1415,12 +1427,6 @@
         "headline": "NEAR Intents is now bringing multichain asset flow to ShieldSwap.",
         "url": "https://x.com/NEARProtocol/status/2097765637405684036",
         "datetime": 1788981277,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR is the rail for the privacy renaissance.\n\nUsers and enterprises want to own their data, assets, and activity, from inference to onchain markets. \n\nAI is the frontend, blockchain is the backend, c",
-        "url": "https://x.com/NEARProtocol/status/2097730397127737352",
-        "datetime": 1788972875,
         "source": "@NEARProtocol"
       }
     ],
