@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:34:27.419Z",
+  "updated_at": "2026-09-12T19:56:02.392Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77273,
-      "change_pct": -0.68
+      "price": 77103,
+      "change_pct": -0.29
     },
     {
       "symbol": "ETH",
-      "price": 2527.08,
-      "change_pct": -1.9
+      "price": 2516.88,
+      "change_pct": -0.92
     },
     {
       "symbol": "SOL",
-      "price": 102.02,
-      "change_pct": -0.25
+      "price": 101.26,
+      "change_pct": -0.67
     },
     {
       "symbol": "HYPE",
-      "price": 80.46,
-      "change_pct": -1.88
+      "price": 79.5,
+      "change_pct": -1.62
     },
     {
       "symbol": "ZEC",
-      "price": 1139.94,
-      "change_pct": -3.34
+      "price": 1117.41,
+      "change_pct": -5.05
     },
     {
       "symbol": "TAO",
-      "price": 234.2,
-      "change_pct": -1.81
+      "price": 231.61,
+      "change_pct": -1.97
     },
     {
       "symbol": "SKY",
-      "price": 1463.03,
-      "change_pct": -0.43
+      "price": 1454.72,
+      "change_pct": 0.5
     },
     {
       "symbol": "AAVE",
-      "price": 125.94,
-      "change_pct": -0.05
+      "price": 126.07,
+      "change_pct": 1.26
     },
     {
       "symbol": "BNB",
-      "price": 731.27,
-      "change_pct": 0.19
+      "price": 725.84,
+      "change_pct": 0.1
     },
     {
       "symbol": "NEAR",
-      "price": 2.38,
-      "change_pct": -8.55
+      "price": 2.34,
+      "change_pct": -7.03
     },
     {
       "symbol": "DOGE",
-      "price": 0.084868,
-      "change_pct": -0.71
+      "price": 0.084761,
+      "change_pct": 0.32
     },
     {
       "symbol": "SPACEX",
-      "price": 605.67,
-      "change_pct": 0.77
+      "price": 597.36,
+      "change_pct": -0.72
     }
   ],
   "earnings": {
@@ -484,6 +484,24 @@
       "related": ""
     },
     {
+      "headline": "放弃债券转向比特币：加密货币如何解决以人工智能为主的投资组合困境",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+      "datetime": 1789228800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Ripple稳定币负责人认为RLUSD有13万亿美元的企业财务机会",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+      "datetime": 1789228800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "法拉奇的改革英国获得加密货币亿万富翁有史以来最大一笔捐款：报告",
       "summary": "BitMEX 联合创始人 Ben Delo 向 Nigel Farage 领导的英国改革党捐赠了近 5000 万美元。",
       "source": "Cointelegraph",
@@ -725,24 +743,6 @@
       "datetime": 1789134267,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Zodia Custody 首席执行官朱利安·索耶 (Julian Sawyer) 辞职，出任顾问",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
-      "datetime": 1789133572,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "用 BONER 交易股票是 DeFi degens 的最新趋势",
-      "summary": "为什么有人想用像 BONER 这样的模因币交易医疗保健股票？为什么他们不去问 Robinhood Chain 上的那些正在打造 DeFi 奇怪新角落的人们呢？",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1789133400,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -812,12 +812,12 @@
     }
   ],
   "btc_score": {
-    "score": 41.2,
+    "score": 41.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 18.2,
-    "weekly_score": 23,
-    "btc_price": 77265.6,
+    "weekly_score": 23.1,
+    "btc_price": 77126.7,
     "fear_greed": 68,
     "indicators": [
       {
@@ -829,14 +829,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006279,
+        "value": 0.00565,
         "score": 48,
         "weight": 8,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.62,
+        "value": 1.63,
         "score": 75,
         "weight": 5,
         "group": "daily"
@@ -899,15 +899,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 61.3,
+        "value": 61.1,
         "score": 69,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -98.4,
-        "score": 18,
+        "value": -96.2,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1032,21 +1032,21 @@
         "text": "$ZECBTC continues to put in work that suggests this cycle could indeed be different for $ZEC https://t.co/56InC0nGo2",
         "url": "https://x.com/cburniske/status/2086350464879038649",
         "time": "Sun Aug 09 07:14:48 +0000 2026",
-        "likes": 757,
+        "likes": 758,
         "retweets": 103
       },
       {
         "text": "While I'm not an equities specialist, I do think the spell has been broken, and am viewing these violent rebounds as deadcats, with the expectation that crypto will catch shrapnel early, but also bottom earlier than equities do.",
         "url": "https://x.com/cburniske/status/2083292223186276738",
         "time": "Fri Jul 31 20:42:26 +0000 2026",
-        "likes": 1425,
+        "likes": 1426,
         "retweets": 93
       },
       {
         "text": "(said despite expecting more market pain ahead)",
         "url": "https://x.com/cburniske/status/2080765686952165605",
         "time": "Fri Jul 24 21:22:53 +0000 2026",
-        "likes": 365,
+        "likes": 366,
         "retweets": 32
       },
       {
@@ -1096,39 +1096,39 @@
     ],
     "saylor": [
       {
+        "text": "Bitcoin is an open, global reserve asset with absolute scarcity. The Investor Guide explores Bitcoin’s monetary properties, investment case, market structure, portfolio role, custody and risks. $BTC\nhttps://t.co/MAt57RCG8y",
+        "url": "https://x.com/saylor/status/2098834170290045116",
+        "time": "Sat Sep 12 18:00:35 +0000 2026",
+        "likes": 1618,
+        "retweets": 210
+      },
+      {
         "text": "₿uild something extraordinary. https://t.co/iVzHUJo9Wj",
         "url": "https://x.com/saylor/status/2098691840518062481",
         "time": "Sat Sep 12 08:35:01 +0000 2026",
-        "likes": 3464,
-        "retweets": 313
+        "likes": 3766,
+        "retweets": 343
       },
       {
         "text": "Just buy Bitcoin. https://t.co/eIUUBsFVDl",
         "url": "https://x.com/saylor/status/2098375716882546807",
         "time": "Fri Sep 11 11:38:51 +0000 2026",
-        "likes": 10379,
-        "retweets": 942
+        "likes": 10532,
+        "retweets": 959
       },
       {
         "text": "Buy Bitcoin. Save yourself the trip. https://t.co/mMfVGpPKme",
         "url": "https://x.com/saylor/status/2098020313091002745",
         "time": "Thu Sep 10 12:06:36 +0000 2026",
-        "likes": 7705,
+        "likes": 7712,
         "retweets": 728
       },
       {
         "text": "₿uy Cyberspace. https://t.co/qFWaBHm5ec",
         "url": "https://x.com/saylor/status/2097689620498514155",
         "time": "Wed Sep 09 14:12:33 +0000 2026",
-        "likes": 5309,
+        "likes": 5312,
         "retweets": 564
-      },
-      {
-        "text": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes.",
-        "url": "https://x.com/saylor/status/2040438683380146574",
-        "time": "Sat Apr 04 14:37:46 +0000 2026",
-        "likes": 31484,
-        "retweets": 4608
       }
     ],
     "viktorfischer": [
@@ -1172,37 +1172,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Should You Buy Archer Aviation Stock While It's Below $6?",
-        "url": "https://finnhub.io/api/news?id=c062527d32718e929f7af43b50ff640bdd2f855fcdf5a48e2d57dfe41d79a447",
-        "datetime": 1789227900,
+        "headline": "Better AI Chip Stock: Broadcom vs. Nvidia",
+        "url": "https://finnhub.io/api/news?id=ab387b35d7ed1e8494a84d333ddb04d21bb394133f5a5a7f1a718918f8740ffe",
+        "datetime": 1789235160,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia’s $10B Anchor in Anthropic’s $100B IPO Closes the Compute Landlord Loop",
-        "url": "https://finnhub.io/api/news?id=199912f3548b907164542849c2c4b67e004974aa132bd04c32e68c0db3c56eb1",
-        "datetime": 1789227237,
+        "headline": "Analyst sets jaw-dropping Nvidia price target",
+        "url": "https://finnhub.io/api/news?id=a0136fe497c969f80e5e6bb6f6fb9d6ad056fbc5d508b8759bfd2f9abd1aa34e",
+        "datetime": 1789234380,
         "source": "Yahoo"
       },
       {
-        "headline": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
-        "url": "https://finnhub.io/api/news?id=e636d5b3b1141659209e7f8262b58cd3da4ca09e600c56769b161aa8d5657fe2",
-        "datetime": 1789226700,
+        "headline": "Dividend King Altria Recently Raised Its Quarterly Dividend by Nearly 5%. Is the Stock a Buy?",
+        "url": "https://finnhub.io/api/news?id=f0e4f225d7b226252a83b5fa27383313f192bcd0e8d44612e52db76bf3d86aee",
+        "datetime": 1789233960,
         "source": "Yahoo"
       },
       {
-        "headline": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
-        "url": "https://finnhub.io/api/news?id=70892c751a33ab684aff24f51726faba9956edadf4641e6b146f221b03e26c7c",
-        "datetime": 1789226100,
+        "headline": "Prediction: Nvidia Stock Could Be Worth This Much by January 2028",
+        "url": "https://finnhub.io/api/news?id=6ff9cd0726de49630ffec23022eb2632ef6d59a41cf49fd3e075c74bfb3279c8",
+        "datetime": 1789233420,
         "source": "Yahoo"
       },
       {
-        "headline": "40,000 Employees Today and 4 Million Agents Tomorrow: Nvidia CEO Jensen Huang Believes Agentic AI Will Soon Become the Norm in the Workplace",
-        "url": "https://finnhub.io/api/news?id=c70bc12967b9b53426b5fb105233d6ad0ea0567a6a23a89826a78205dbcc2cf4",
-        "datetime": 1789225080,
+        "headline": "This 5.8%-Yielding Dividend Stock Has Made 3 Deals -- Including Nearly $3.2 Billion in Acquisitions -- in the Last 2 Weeks. Should Income Investors Be Worried or Excited?",
+        "url": "https://finnhub.io/api/news?id=00cf6969b9bc2fb40235010378d8274713d6825aef786c2a2fde7084d6665889",
+        "datetime": 1789231801,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Anthropic’s Prisoner’s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+        "url": "https://finnhub.io/api/news?id=485f6577a9a81ce3a8dd89eab7650f5df4a35b969d4a7205b6268b48116fa74d",
+        "datetime": 1789228374,
+        "source": "Yahoo"
+      },
       {
         "headline": "‘The Oil of the Next 50 Years’ — Trump Touts AI Data Centers Delivering Wealth and Investment to Communities",
         "url": "https://finnhub.io/api/news?id=c6fda5281bcc5c74347deecedbd837319e29d03db24552d88fcccb91186f6001",
@@ -1225,12 +1231,6 @@
         "headline": "Jim Cramer on Why Marvell (MRVL) Plunged",
         "url": "https://finnhub.io/api/news?id=71f20311d85709c2524efeef7646061f74dce20e10501c7515fd3fc0a5f68885",
         "datetime": 1789211173,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "CP Group leader tells of modernizing Boca’s Innovation Campus: ‘It became a place’",
-        "url": "https://finnhub.io/api/news?id=42a3c1464b93ac7d87c0260c189de0dfe1a8f4578711bc421230f8b02b856f43",
-        "datetime": 1789210800,
         "source": "Yahoo"
       }
     ],
@@ -1260,10 +1260,10 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Michael Burry Is Staying Short Nvidia, Palantir, and Tesla, Warning of a Possible \"1987-Type Fall\" for AI Stocks. Should Investors Take the Bet Seriously?",
-        "url": "https://finnhub.io/api/news?id=8684d6d6991c450552622d4b3ad43a48707665f98c6cbf28c139e264b45a02e0",
-        "datetime": 1789192200,
-        "source": "Yahoo"
+        "headline": "A Dating App Is Outperforming Apple, Meta and Microsoft on This Metric— Only Nvidia Can Claim a Higher Number",
+        "url": "https://finnhub.io/api/news?id=a3e863c155e3d9e03bd50d3caa2c0b7222617d3f03e498706a94a0392b99bc0a",
+        "datetime": 1789207218,
+        "source": "Benzinga"
       }
     ],
     "CRCL": [
@@ -1320,6 +1320,12 @@
     ],
     "BTC": [
       {
+        "headline": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+        "url": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
+        "datetime": 1789228800,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
         "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
         "datetime": 1789207861,
@@ -1342,12 +1348,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1789130018,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Rising yields, oil prices leave bitcoin vulnerable ahead of U.S. inflation report",
-        "url": "https://www.coindesk.com/daybook-us/2026/09/11/rising-yields-oil-prices-leave-bitcoin-vulnerable-ahead-of-u-s-inflation-report",
-        "datetime": 1789125626,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1372,6 +1372,12 @@
         "source": "Cointelegraph"
       },
       {
+        "headline": "$FLWS is now live on Solana via @sunrise, issued by @Backpack Securities",
+        "url": "https://x.com/solana/status/2098840973367500837",
+        "datetime": 1789237657,
+        "source": "@solana"
+      },
+      {
         "headline": "",
         "url": "https://x.com/solana/status/2098750994205356070",
         "datetime": 1789216204,
@@ -1380,12 +1386,6 @@
       {
         "headline": "Kristin Smith on the biggest market in tokenization\n\n\"Solana is infrastructure for issuing any kind of asset, and we want to bring more assets onchain. The biggest market we're most interested in is t",
         "url": "https://x.com/solana/status/2098713235658768845",
-        "datetime": 1789207202,
-        "source": "@solana"
-      },
-      {
-        "headline": "Watch full interview with @CryptoAmerica_",
-        "url": "https://x.com/solana/status/2098713236111859793",
         "datetime": 1789207202,
         "source": "@solana"
       }
