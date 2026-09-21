@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:50:02.907Z",
+  "updated_at": "2026-09-21T00:42:36.322Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81151,
-      "change_pct": -0.05
+      "price": 81661,
+      "change_pct": 0.47
     },
     {
       "symbol": "ETH",
-      "price": 2637.66,
-      "change_pct": 0.35
+      "price": 2688.94,
+      "change_pct": 2.27
     },
     {
       "symbol": "SOL",
-      "price": 110.37,
-      "change_pct": -0.25
+      "price": 112.47,
+      "change_pct": 1.29
     },
     {
       "symbol": "HYPE",
-      "price": 93.31,
-      "change_pct": 1.99
+      "price": 93.94,
+      "change_pct": 1.71
     },
     {
       "symbol": "ZEC",
-      "price": 1513.32,
-      "change_pct": 2.4
+      "price": 1532.97,
+      "change_pct": 4.22
     },
     {
       "symbol": "TAO",
-      "price": 263.03,
-      "change_pct": -0.6
+      "price": 264.77,
+      "change_pct": -1.07
     },
     {
       "symbol": "SKY",
-      "price": 1621.33,
-      "change_pct": 2.51
+      "price": 1625.19,
+      "change_pct": 2.81
     },
     {
       "symbol": "AAVE",
-      "price": 138.02,
-      "change_pct": -2.16
+      "price": 138.88,
+      "change_pct": -1.46
     },
     {
       "symbol": "BNB",
-      "price": 773.8,
-      "change_pct": 1.73
+      "price": 779.04,
+      "change_pct": 2.17
     },
     {
       "symbol": "NEAR",
-      "price": 4.1,
-      "change_pct": 14.41
+      "price": 4.26,
+      "change_pct": 19.81
     },
     {
       "symbol": "DOGE",
-      "price": 0.087389,
-      "change_pct": -0.33
+      "price": 0.088494,
+      "change_pct": 0.82
     },
     {
       "symbol": "SPACEX",
-      "price": 589.08,
-      "change_pct": -1.74
+      "price": 592.87,
+      "change_pct": -2.28
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "无论如何，谁需要清晰度？ ARB 可能会增长 70 倍：Hodler’s Digest",
+      "summary": "加密货币错过了 CLARITY，但代币化股票合法化，比特币储备上涨。与此同时，渣打银行表示，到 2030 年，Arbitrum 的价格可能会上涨 70 倍。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1789947459,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "加密货币平台 Gemini 的股价较 IPO 下跌 80%。这重燃了收购猜测",
       "summary": "",
       "source": "CoinDesk",
@@ -734,15 +743,6 @@
       "datetime": 1789748067,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "媒体巨头扩大技术推广，迪士尼首次任命首席技术官",
-      "summary": "迪士尼聘请了一名首席技术官，这是该公司新设立的职位，希望在首席执行官乔什·达马罗 (Josh D'Amaro) 的领导下进一步拥抱科技。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html",
-      "datetime": 1789748066,
-      "category": "business",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -763,11 +763,6 @@
     {
       "company": "OpenAI",
       "news": [
-        {
-          "headline": "查尔斯国王呼吁 Nvidia 和 OpenAI 负责人控制人工智能",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
-          "datetime": 1789635320
-        },
         {
           "headline": "OpenAI 披露了 6 个新的“错位”人工智能行为案例",
           "url": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -797,13 +792,13 @@
     }
   ],
   "btc_score": {
-    "score": 45.6,
+    "score": 45.8,
     "level": "中性",
     "suggestion": "市场情绪平衡，保持现有仓位观望",
     "daily_score": 19.9,
-    "weekly_score": 25.7,
-    "btc_price": 81171,
-    "fear_greed": 73,
+    "weekly_score": 25.9,
+    "btc_price": 81729.8,
+    "fear_greed": 72,
     "indicators": [
       {
         "name": "ETF 每日净流入",
@@ -814,8 +809,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003898,
-        "score": 47,
+        "value": 0.005711,
+        "score": 48,
         "weight": 8,
         "group": "daily"
       },
@@ -828,8 +823,8 @@
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 73,
-        "score": 73,
+        "value": 72,
+        "score": 72,
         "weight": 7,
         "group": "daily"
       },
@@ -870,8 +865,8 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.97,
-        "score": 31,
+        "value": 0.98,
+        "score": 32,
         "weight": 6,
         "group": "weekly"
       },
@@ -884,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 64.6,
-        "score": 74,
+        "value": 65.1,
+        "score": 75,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -78.1,
-        "score": 24,
+        "value": -67.7,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -901,7 +896,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 38
+      "days_until": 37
     },
     "schedule": [
       "2025-01-29",
@@ -1061,7 +1056,7 @@
         "text": "https://t.co/d19JGOozQb",
         "url": "https://x.com/QwQiao/status/2099876494482850162",
         "time": "Tue Sep 15 15:02:24 +0000 2026",
-        "likes": 10030,
+        "likes": 10029,
         "retweets": 1003
       },
       {
@@ -1084,36 +1079,36 @@
         "text": "A little more orange. https://t.co/Z3n9jDAEpn",
         "url": "https://x.com/saylor/status/2101655944945930253",
         "time": "Sun Sep 20 12:53:18 +0000 2026",
-        "likes": 13301,
-        "retweets": 1065
+        "likes": 13769,
+        "retweets": 1098
       },
       {
         "text": "My thoughts on why the rejection of CLARITY marks a positive inflection point for Digital Assets, and why supportive rules and free markets should now accelerate innovation and growth.",
         "url": "https://x.com/saylor/status/2101431844172415227",
         "time": "Sat Sep 19 22:02:49 +0000 2026",
-        "likes": 5473,
-        "retweets": 713
+        "likes": 5541,
+        "retweets": 721
       },
       {
         "text": "https://t.co/YhBIagcKpP",
         "url": "https://x.com/saylor/status/2101358105795711331",
         "time": "Sat Sep 19 17:09:48 +0000 2026",
-        "likes": 2793,
-        "retweets": 434
+        "likes": 2811,
+        "retweets": 437
       },
       {
         "text": "Fetch Bitcoin. https://t.co/c6doAyo0kB",
         "url": "https://x.com/saylor/status/2101295661589102770",
         "time": "Sat Sep 19 13:01:40 +0000 2026",
-        "likes": 8196,
-        "retweets": 801
+        "likes": 8309,
+        "retweets": 809
       },
       {
         "text": "Bitcoin takes you higher. https://t.co/JhWIlCz3sv",
         "url": "https://x.com/saylor/status/2100987664849572071",
         "time": "Fri Sep 18 16:37:48 +0000 2026",
-        "likes": 17684,
-        "retweets": 1479
+        "likes": 17689,
+        "retweets": 1480
       }
     ],
     "viktorfischer": [
@@ -1157,37 +1152,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34 of the Last 41.",
-        "url": "https://finnhub.io/api/news?id=b644f3ed60bfc1bc146976a61d462d0a5f8067c093075c8c1cd98fafe0881bb7",
-        "datetime": 1789940641,
+        "headline": "Should You Buy Goldman Sachs Stock After Its 26% Run-Up From Its 52-Week Low?",
+        "url": "https://finnhub.io/api/news?id=914f697be0912acb6c203d7c04a0324191aef76f4b038612d5ac888ba84d3bbc",
+        "datetime": 1789948200,
         "source": "Yahoo"
       },
       {
-        "headline": "The Ultimate Dividend Growth stock to Buy With $1,000 Right Now.",
-        "url": "https://finnhub.io/api/news?id=877160de7e7ec1fd614c09b3f0c6826bd3186e7c21f2c350c78bf542c516578c",
-        "datetime": 1789940100,
+        "headline": "Prediction: Nvidia's Revenue Growth Will Drive Shares to $400 Next Year",
+        "url": "https://finnhub.io/api/news?id=d83ca8a35caceecee4eb9b849a83f6789e213dcb95f5dbc4b375f2e0d2890d4c",
+        "datetime": 1789947180,
         "source": "Yahoo"
       },
       {
-        "headline": "AI Bubble Fears Grow, But Nvidia CEO Gives Bulls a New Argument Anyway",
-        "url": "https://finnhub.io/api/news?id=41996a5858355b87711a83155df6ddc625644823c734dfbf2f3216b729bd8331",
-        "datetime": 1789939906,
+        "headline": "Palantir Nearly Doubled Its Revenue. Its Stock Stood Still. Is It Time to Buy the Stock?",
+        "url": "https://finnhub.io/api/news?id=a1be0ba270d37e86f0c50ae75bc4a60caedbe0901a3fbb802035fc022f39d416",
+        "datetime": 1789945921,
         "source": "Yahoo"
       },
       {
-        "headline": "Why CrowdStrike, Palo Alto Networks, SentinelOne, and Other Cybersecurity Stocks Surged This Week",
-        "url": "https://finnhub.io/api/news?id=6ac758b08867c75879bc3b16a15b96bdc03508f044b058fe73dbd2593f239c0b",
-        "datetime": 1789939211,
+        "headline": "Meet the Vanguard ETF That Increased Its SpaceX Holding by 39% in 1 Month and Shows No Signs of Slowing Down",
+        "url": "https://finnhub.io/api/news?id=55053f0f29e4c504186942c5e9d2658c1bdfb1f2590edea186d87b7782fb60a2",
+        "datetime": 1789945500,
         "source": "Yahoo"
       },
       {
-        "headline": "Pfizer Says Its Biggest Headwinds Are Finally Easing. Does That Change the Story for This Ultra-High-Yield Dividend Stock?",
-        "url": "https://finnhub.io/api/news?id=2ff3e23f3dfbd2e05f3d480a501283b086ba520c75421b6124b4c5f04e6b99bd",
-        "datetime": 1789939200,
+        "headline": "Bill Ackman Built a $2.4 Billion Stake in Microsoft, Calling It a \"Core Holding\" Bought at a \"Highly Compelling Valuation.\" Here's Why He's Betting Big on Big Tech.",
+        "url": "https://finnhub.io/api/news?id=596aec6a30db280a627f885e4fc370738d976e03cc9c76c7e85b82f7d4896cec",
+        "datetime": 1789943340,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout",
+        "url": "https://finnhub.io/api/news?id=34a6ce19bbca6ed99288f4fc674fa3ea99dc1b7490cac9440b43e1d2434d64e0",
+        "datetime": 1789945594,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Nvidia CEO Jensen Huang Expects Chip Sales To Double Next Year as He Downplays AI Slowdown Calls: 'When a Product is Not Safe...'",
+        "url": "https://finnhub.io/api/news?id=383f38f0b4b6a98e3eef0ef94199e8885f4261665c393e8f04dd63422c06535a",
+        "datetime": 1789939834,
+        "source": "Yahoo"
+      },
       {
         "headline": "10 Years Later: 5 Low-Risk Stocks for the Next Year",
         "url": "https://finnhub.io/api/news?id=d238cf149199dfb297c5c7a7ac8373648dcde4c35ada6fa278c7873e72806c98",
@@ -1204,18 +1211,6 @@
         "headline": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
         "url": "https://finnhub.io/api/news?id=56a88259e6c7a2b419478646572c22a8e11ababde44e86683f8b7b0d43bdbdeb",
         "datetime": 1789924980,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "The AI Agent Wars Just Got Personal: Google’s CC vs. Meta’s Muse",
-        "url": "https://finnhub.io/api/news?id=b452909f257addb1629a989aa4bde6663116f35071b10066d07a3c8cacb90520",
-        "datetime": 1789920897,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
-        "url": "https://finnhub.io/api/news?id=2135af56a081e5a1aa904bd0f0433fac8503f549c15382bf1fd95e5556188d0f",
-        "datetime": 1789915201,
         "source": "Yahoo"
       }
     ],
