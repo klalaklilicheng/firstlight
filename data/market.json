@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:49:25.771Z",
+  "updated_at": "2026-09-29T06:27:21.581Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 32.54,
-      "change_pct": -1.93
+      "price": 33.79,
+      "change_pct": 3.84
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 83418,
-      "change_pct": -1.24
+      "price": 83803,
+      "change_pct": 0.87
     },
     {
       "symbol": "ETH",
-      "price": 2686.23,
-      "change_pct": 0.04
+      "price": 2690.69,
+      "change_pct": 1.65
     },
     {
       "symbol": "SOL",
-      "price": 118.73,
-      "change_pct": -2.93
+      "price": 118.89,
+      "change_pct": 0.14
     },
     {
       "symbol": "HYPE",
-      "price": 86.99,
-      "change_pct": -4.32
+      "price": 87.77,
+      "change_pct": -1.06
     },
     {
       "symbol": "ZEC",
-      "price": 1484.76,
-      "change_pct": -6.2
+      "price": 1400.19,
+      "change_pct": -9.34
     },
     {
       "symbol": "TAO",
-      "price": 305.81,
-      "change_pct": -3.89
+      "price": 303.8,
+      "change_pct": -0.62
     },
     {
       "symbol": "SKY",
-      "price": 1805,
-      "change_pct": -4.88
+      "price": 1800.92,
+      "change_pct": -2.82
     },
     {
       "symbol": "AAVE",
-      "price": 149.31,
-      "change_pct": -3.31
+      "price": 155.47,
+      "change_pct": 4.34
     },
     {
       "symbol": "BNB",
-      "price": 763.27,
-      "change_pct": -2.21
+      "price": 761.99,
+      "change_pct": -0.11
     },
     {
       "symbol": "NEAR",
-      "price": 4.82,
-      "change_pct": -9.85
+      "price": 4.7,
+      "change_pct": -8.43
     },
     {
       "symbol": "DOGE",
-      "price": 0.094195,
-      "change_pct": -3.05
+      "price": 0.094288,
+      "change_pct": 1.37
     },
     {
       "symbol": "SPACEX",
-      "price": 578.56,
-      "change_pct": -2.58
+      "price": 578.21,
+      "change_pct": -0.89
     }
   ],
   "earnings": {
@@ -475,8 +475,62 @@
   },
   "news": [
     {
-      "headline": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
-      "summary": "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+      "headline": "Tether 表示今年帮助冻结了 5.5 亿美元与伊朗相关的 USDT",
+      "summary": "这一披露是在参议院民主党调查人员声称 USDT 已成为伊朗影子银行网络的关键部分之际进行的。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1790659768,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "ZEC 下跌 12%，油价再次攀升，比特币持稳 83,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "datetime": 1790655440,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Coinbase 获得美国商品期货交易委员会 (CFTC) 批准设立美国衍生品清算所",
+      "summary": "在 Kraken 的母公司于 5 月份收购了 Bitnomial 及其受 CFTC 监管的交易所、清算所和经纪公司后，Coinbase 与 Kraken 一起将美国衍生品基础设施纳入内部。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1790654549,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Nvidia推出人工智能安全平台来遏制“流氓”人工智能代理",
+      "summary": "此次发布是在今年几位人工智能代理突破其测试环境之后推出的，这进一步呼吁公司放慢自主人工智能系统的开发。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1790649156,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "ICYMI：据《华尔街日报》报道，参议院报告称伊朗依靠 Tether 的 USDT 绕过制裁",
+      "summary": "<p dir=\"ltr\">该报告是一方调查人员的指控，并未宣布任何行动，因此直接的市场影响可能仅限于围绕 USDT 和其他稳定币发行人的整体风险。 Tether 约占稳定币市场 60% 的份额，意味着美国官方的任何举动",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/icymi-senate-report-says-iran-relied-on-tether-s-usdt-to-bypass-sanctions-wsj-reports/",
+      "datetime": 1790645421,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "NEAR Intents 称其阻止了与 Bitget 黑客相关的 5000 万美元",
+      "summary": "该跨链协议表示，它积极防止被盗资金被洗钱，这与 THORChain 不选择性审查交易的立场形成鲜明对比。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1790644669,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "迈克尔·伯里 (Michael Burry) 认为人工智能泡沫“可能会比他最初认为的更早破灭”",
+      "summary": "这位著名的卖空者正在将其主要的科技空头押注转向六月到期的看跌期权。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
       "datetime": 1790628194,
@@ -484,8 +538,8 @@
       "related": ""
     },
     {
-      "headline": "Canadian ‘crypto king’ set to represent himself at fraud trial",
-      "summary": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
+      "headline": "加拿大“加密货币之王”将在欺诈审判中代表自己",
+      "summary": "据称，Aiden Pleterski 是 2021 年至 2022 年间加密货币庞氏骗局的幕后黑手，该骗局导致了绑架和相关刑事指控。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790628104,
@@ -493,8 +547,8 @@
       "related": ""
     },
     {
-      "headline": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-      "summary": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
+      "headline": "随着加密货币资本市场解冻，Blockchain.com 计划进行 5 亿美元的 IPO：报告",
+      "summary": "这家加密货币公司正在寻求高达 60 亿美元的估值，远低于 2022 年的峰值，因为最近上市的加密货币股票难以保持涨幅。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790627293,
@@ -502,8 +556,8 @@
       "related": ""
     },
     {
-      "headline": "Meta's splashy new business AI hire offers yet another reason to bank on Zuckerberg",
-      "summary": "By poaching MongoDB's CJ Desai, Mark Zuckerberg shows he's serious about building an enterprise AI business.",
+      "headline": "Meta 引人注目的新业务 AI 招聘为扎克伯格提供了另一个理由",
+      "summary": "通过挖走 MongoDB 的 CJ Desai，马克·扎克伯格表明了他对建立企业人工智能业务的认真态度。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/metas-splashy-new-business-ai-hire-offers-yet-another-reason-to-bank-on-zuckerberg.html",
       "datetime": 1790625676,
@@ -511,8 +565,8 @@
       "related": ""
     },
     {
-      "headline": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-      "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+      "headline": "FAA 称波音 737 Max 10 认证因软件问题而推迟",
+      "summary": "FAA 管理员表示，Max 10 将被推迟，直到该机构能够评估飞机上的软件问题。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
       "datetime": 1790624802,
@@ -520,8 +574,8 @@
       "related": ""
     },
     {
-      "headline": "What the market needs to branch out beyond AI stocks. Plus, a win for CrowdStrike",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "headline": "市场需要扩展到人工智能股票之外的领域。另外，CrowdStrike 的胜利",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/what-the-market-needs-to-branch-out-beyond-ai-stocks-plus-a-win-for-crowdstrike-.html",
       "datetime": 1790621646,
@@ -529,8 +583,8 @@
       "related": ""
     },
     {
-      "headline": "Feds can't withhold counterterrorism funds from states to force election admin changes, judge rules",
-      "summary": "The judge said FEMA never explained how the election changes it wanted were \"tied to the goal of shoring up vulnerabilities to terrorist attacks.\"",
+      "headline": "法官规定，美联储不能扣留各州的反恐资金以迫使选举管理机构发生变化",
+      "summary": "法官表示，联邦应急管理局从未解释过它想要的选举改变是如何“与加强恐怖袭击脆弱性的目标联系在一起的”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
       "datetime": 1790620911,
@@ -538,8 +592,8 @@
       "related": ""
     },
     {
-      "headline": "US SEC follows CFTC in staff guidance for crypto",
-      "summary": "With the failed cloture vote on the CLARITY Act, the SEC announced updates on how federal securities laws could apply to token issuers, following similar guidance from the CFTC.",
+      "headline": "美国 SEC 遵循 CFTC 的加密货币员工指南",
+      "summary": "随着《清晰法案》的最终投票失败，美国证券交易委员会 (SEC) 遵循美国商品期货交易委员会 (CFTC) 的类似指导，宣布了联邦证券法如何适用于代币发行人的最新信息。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790620749,
@@ -547,8 +601,8 @@
       "related": ""
     },
     {
-      "headline": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
-      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+      "headline": "Bybit 接受富兰克林邓普顿代币化基金作为交易抵押品",
+      "summary": "符合条件的机构可以将本次发行的基金份额质押以获得稳定币授信额度，同时将基础资产进行场外托管。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790618574,
@@ -556,7 +610,7 @@
       "related": ""
     },
     {
-      "headline": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "headline": "高盛将 1000 亿美元的财政部资金投入到加密货币的机构管道中",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
@@ -565,8 +619,8 @@
       "related": ""
     },
     {
-      "headline": "A key test looms for the AI trade this week. Here's how Mike Khouw is trading it",
-      "summary": "Micron reports after the bell Wednesday.",
+      "headline": "本周人工智能行业即将迎来一场关键考验。以下是 Mike Khouw 的交易方式",
+      "summary": "美光周三盘后报告。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/a-key-test-looms-for-the-ai-trade-this-week-heres-how-mike-khouw-is-trading-it.html",
       "datetime": 1790617695,
@@ -574,8 +628,8 @@
       "related": ""
     },
     {
-      "headline": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-      "summary": "Fairshake pledged an initial $30 million on media opposing the Democratic candidate in Ohio’s Senate race in what some see as a repeat of spending by the crypto industry in 2024.",
+      "headline": "Crypto PAC 斥资 1100 万美元反对俄亥俄州的 Sherrod Brown",
+      "summary": "Fairshake 承诺向反对俄亥俄州参议员竞选的民主党候选人的媒体提供 3000 万美元的初始资金，一些人认为这是 2024 年加密货币行业支出的重演。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790614080,
@@ -583,7 +637,7 @@
       "related": ""
     },
     {
-      "headline": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "headline": "重新抵押的淘金热已经结束，顶级协议几乎没有盈利",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
@@ -592,7 +646,7 @@
       "related": ""
     },
     {
-      "headline": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "headline": "参议院民主党在新报告中表示，Tether 是伊朗政权的“生命线”",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
@@ -601,8 +655,8 @@
       "related": ""
     },
     {
-      "headline": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
-      "summary": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
+      "headline": "迪士尼前首席执行官鲍勃·查佩克 (Bob Chapek) 表示，在艾格权力之争期间，他“每周”都会向董事会提出担忧",
+      "summary": "迪士尼前首席执行官鲍勃·查佩克 (Bob Chapek) 于 2022 年底被解除首席执行官职务，即上任不到三年，由艾格接替。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
       "datetime": 1790611337,
@@ -610,8 +664,8 @@
       "related": ""
     },
     {
-      "headline": "Nvidia says it can keep AI models under control — plus, what to do about Boeing's dip",
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "headline": "英伟达表示它可以控制人工智能模型 - 另外，如何应对波音的下滑",
+      "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/nvidia-says-it-can-control-ai-models-plus-how-to-act-on-boeings-dip.html",
       "datetime": 1790610654,
@@ -619,8 +673,8 @@
       "related": ""
     },
     {
-      "headline": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-      "summary": "Some stolen assets have been frozen, but Bitget has yet to disclose how much has been recovered as investigators continue to assess a possible North Korea link.",
+      "headline": "Bitget首席执行官表示，黑客利用第三方安全漏洞造成价值3.88亿美元的黑客攻击",
+      "summary": "一些被盗资产已被冻结，但随着调查人员继续评估可能与朝鲜有关的情况，Bitget 尚未透露已追回多少资产。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790606781,
@@ -628,8 +682,8 @@
       "related": ""
     },
     {
-      "headline": "New grads say employers set the bar too high for entry-level roles: 'No job is willing to give you that first experience'",
-      "summary": "77% of new grads believe businesses call for too much experience when hiring for entry-level jobs, shutting them out of an increasingly competitive market.",
+      "headline": "应届毕业生表示，雇主对入门级职位的要求太高：“没有工作愿意给你第一次经验”",
+      "summary": "77% 的应届毕业生认为，企业在招聘初级职位时要求太多经验，从而将他们排除在竞争日益激烈的市场之外。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/new-grads-entry-level-job-experience.html",
       "datetime": 1790605611,
@@ -637,8 +691,8 @@
       "related": ""
     },
     {
-      "headline": "MiCA focus shifts from rulemaking to supervision, ESMA chair says",
-      "summary": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
+      "headline": "ESMA主席表示MiCA重点从规则制定转向监管",
+      "summary": "ESMA 将重点关注 CASP 的弹性、外包和反向招标，同时寻求跨国家监管机构的统一报告。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790604165,
@@ -646,8 +700,8 @@
       "related": ""
     },
     {
-      "headline": "Altseason is coming — and traders are more discerning this time",
-      "summary": "Altseason is almost here and early signs suggest traders are becoming more selective, with capital flowing into revenue-generating protocols across a number of different narratives.",
+      "headline": "山寨季即将到来——交易者这次更加挑剔",
+      "summary": "山寨季即将到来，早期迹象表明交易者变得更加挑剔，资本通过多种不同的方式流入创收协议。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790602200,
@@ -655,7 +709,7 @@
       "related": ""
     },
     {
-      "headline": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+      "headline": "阿波罗公司的托斯顿·斯洛克警告说，人工智能代理可能会耗尽廉价的银行存款",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
@@ -664,8 +718,8 @@
       "related": ""
     },
     {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "summary": "The relentless climb in bond yields continues, and Nvidia adds $150 billion to its buyback program.",
+      "headline": "吉姆·克莱默 (Jim Cramer) 周一股市最值得关注的 10 件事",
+      "summary": "债券收益率持续攀升，Nvidia 为其回购计划增加了 1500 亿美元。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/09/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
       "datetime": 1790599824,
@@ -673,8 +727,8 @@
       "related": ""
     },
     {
-      "headline": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
-      "summary": "Strategy sold 1.47 million MSTR shares for $246.2 million, using the proceeds for Bitcoin purchases and STRC preferred stock repurchases.",
+      "headline": "随着 BTC 堆栈达到 847,666，策略以 1.43 亿美元购买 1,665 比特币",
+      "summary": "Strategy 以 2.462 亿美元的价格出售了 147 万股 MSTR 股票，所得款项用于购买比特币和回购 STRC 优先股。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1790599081,
@@ -682,66 +736,12 @@
       "related": ""
     },
     {
-      "headline": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
+      "headline": "在竞争对手遭受 2.92 亿美元黑客攻击暴露风险数月后，Chainlink 更新了其加密桥技术",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
       "datetime": 1790598600,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "BTC price eyes best Q3 in nine years: Three things to know in Bitcoin this week",
-      "summary": "Bitcoin fell below $83,000 to start the week amid US-Iran war developments but remains up more than 40% for Q3 ahead of key inflation and jobs data.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/btc-price-eyes-best-q3-in-nine-years-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790598110,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Solana erases Friday's gains as US-Iran tensions weigh on risk sentiment. What to watch next?",
-      "summary": "<p class=\"MsoNormal\" style=\"margin: 0 0 11px; font-family: Aptos, sans-serif; line-height: 101%; font-size: 15px;\">FUNDAMENTAL OVERVIEW</p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\"> </p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">In terms\n        of idiosyncratic catalysts, Alpenglow, which is Solana's major consensus\n        upgrade, reached the second public test network on September 26. It aims to\n        reduce transaction finality from roughly 12.8 seconds to around 150\n        milliseconds by replacing the existing TowerBFT architecture with the Votor\n        consensus mechanism. The rollout is occurring in phases and it’s one of the\n        largest protocol upgrades in Solana’s history. </p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 105%; font-family: Aptos, sans-serif; font-size: 15px;\">On the\n        macro side, heading into the weekend, the hopes for a US-Iran deal returned after Iran\n        sent a proposal to reopen the Strait of Hormuz within seven days on certain\n        conditions. That helped turning the risk sentiment around and give Solana a\n        boost to reach new highs.</p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 105%; font-family: Aptos, sans-serif; font-size: 15px;\">Unfortunately, <a href=\"https://www.wsj.com/world/middle-east/trump-rejects-iran-ceasefire-expects-renewed-bombing-after-midterms-5982ee50\" rel=\"follow\" style=\"color: rgba(70, 120, 134, 1); text-decoration: underline;\">Trump rejected the proposal on\n            Saturday and told reporters that he expected to resume bombing Iran after the\n            midterms</a>. The negative development weighed on the crypto market, with Solana erasing\n        Friday’s gains. </p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 105%; font-family: Aptos, sans-serif; font-size: 15px;\">The focus will remain on the Middle East and the Fed. A breakthrough would\n        be positive for Solana as the aggressive rate hike bets will likely get pared\n        back. A prolonged stalemate or even a re-escalation, on the other hand, will\n        likely continue to weigh on the cryptocurrency.</p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 105%; font-family: Aptos, sans-serif; font-size: 15px;\">We just got a report from Reuters saying that mediators are expected to\n        hold separate talks with the US and Iran on Monday or Tuesday, with Iran's\n        Araghchi and Qatari mediators remaining in the US. The talks will focus on an\n        amended version of the seven-day proposal Iran presented. Markets will continue\n        to watch carefully further developments.</p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\"> </p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; font-family: Aptos, sans-serif; line-height: 101%; font-size: 15px;\">SOLANA TECHNICAL ANALYSIS – DAILY TIMEFRAME</p><p></p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">On the\n        daily chart, we can see that <a href=\"https://www.tradingview.com/symbols/SOLUSD/\" rel=\"follow\">Solana</a>managed to extend the gains on Friday on some better risk sentiment\n            but eventually gave back the gains as the earlier optimism faded. We have a major\n            trendline defining the bullish structure. If we get a pullback, we can expect\n            the buyers to lean on the trendline with a defined risk below it to keep\n            pushing into the 149.00 level. The sellers, on the other hand, will look for a\n            break lower to extend the pullback into the 97.00 support.</p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\"> </p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; font-family: Aptos, sans-serif; line-height: 101%; font-size: 15px;\">SOLANA TECHNICAL ANALYSIS – 4 HOUR TIMEFRAME</p><p></p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">On the 4\n        hour chart, we have another minor trendline defining the recent price action.\n        The buyers will likely lean on the trendline with a defined risk below it to\n        keep pushing into new highs, while the sellers will look for a break to pile in\n        for a drop into the major trendline around the 107.00 level.</p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\"> </p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">SOLANA TECHNICAL\n        ANALYSIS – 1 HOUR TIMEFRAME</p><p></p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">On the 1\n        hour chart, we have a minor downward trendline defining the recent pullback. If\n        the price rebounds from the upward trendline, we can expect the sellers to lean\n        on the downward trendline, with a defined risk above it, to position for a\n        break below the upward trendline. The buyers, on the other hand, will want to\n        see the price breaking higher to increase the bullish bets into new highs.</p><p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; line-height: normal; font-size: 15px;\">UPCOMING CATALYSTS</p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; font-family: Aptos, sans-serif; line-height: 103%; font-size: 15px;\"><a href=\"https://investinglive.com/EconomicCalendar\" rel=\"follow\">Tomorrow</a>, we get the US Consumer Confidence report and the US\n        Job Openings data. On Wednesday, we have the US ADP and the US PCE price index.\n        On Thursday, we get the US ISM Manufacturing PMI and the latest US Jobless\n        Claims figures. On Friday, we conclude the week with the US NFP report. </p>\n                            This article was written by Giuseppe Dellamotta at investinglive.com.",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/solana-erases-friday-s-gains-as-us-iran-tensions-weigh-on-risk-sentiment-what-to-watch-next/",
-      "datetime": 1790597884,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-      "datetime": 1790597589,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Traders aren't panicking yet despite cooling crypto sentiment",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
-      "datetime": 1790595153,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bitget resumes Bitcoin withdrawals as hacker swaps ETH via THORChain",
-      "summary": "Ether withdrawals are scheduled to return Tuesday and USDt on Wednesday as Bitget restores services following last week’s $388 million hack.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790593524,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Whole Foods co-founder shares 3 tips for launching a successful second act: 'I'm relearning some lessons'",
-      "summary": "John Mackey is learning that what helped him build Whole Foods Market into a multibillion-dollar business can help him in his second act, but only if he's patient.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/28/whole-foods-co-founders-3-tips-for-launching-a-successful-second-act.html",
-      "datetime": 1790593201,
-      "category": "top news",
       "related": ""
     }
   ],
@@ -754,12 +754,12 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "Trump to have dinner with Anthropic CEO Amodei at the White House, Axios reports",
+          "headline": "据 Axios 报道，特朗普将在白宫与 Anthropic 首席执行官阿莫迪共进晚餐",
           "url": "https://www.cnbc.com/2026/09/27/trump-dinner-anthropic-ceo-amodei.html",
           "datetime": 1790534647
         },
         {
-          "headline": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report",
+          "headline": "澳大利亚要求 OpenAI 和 Anthropic 负责人就健康数据黑客事件进行参议院调查：报告",
           "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1790513188
         }
@@ -769,19 +769,14 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report",
+          "headline": "澳大利亚要求 OpenAI 和 Anthropic 负责人就健康数据黑客事件进行参议院调查：报告",
           "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1790513188
         },
         {
-          "headline": "Australia PM warns of AI’s ‘furious pace’ after agent breached government site",
+          "headline": "澳大利亚总理警告人工智能在特工入侵政府网站后的“疯狂步伐”",
           "url": "https://cointelegraph.com/news/australia-pm-warns-of-ais-furious-pace-after-agent-breached-government-site?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1790312782
-        },
-        {
-          "headline": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
-          "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "datetime": 1790292437
         }
       ]
     },
@@ -807,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 39.6,
+    "score": 40,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.8,
+    "daily_score": 14.2,
     "weekly_score": 25.8,
-    "btc_price": 83413.8,
+    "btc_price": 83849.5,
     "fear_greed": 70,
     "indicators": [
       {
@@ -824,22 +819,22 @@
       },
       {
         "name": "ETF 每日净流入",
-        "value": -23800000,
-        "score": 48,
+        "value": 31000000,
+        "score": 52,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.003871,
-        "score": 47,
+        "value": 0.00648,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.36,
-        "score": 57,
+        "value": 1.37,
+        "score": 58,
         "weight": 3,
         "group": "daily"
       },
@@ -859,22 +854,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.366,
-        "score": 62,
+        "value": 0.358,
+        "score": 61,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.235,
-        "score": 16,
+        "value": 1.096,
+        "score": 13,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 1.002,
-        "score": 52,
+        "value": 1.004,
+        "score": 54,
         "weight": 8,
         "group": "weekly"
       },
@@ -901,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.9,
-        "score": 73,
+        "value": 64.6,
+        "score": 74,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -69.4,
-        "score": 26,
+        "value": -51.3,
+        "score": 31,
         "weight": 4,
         "group": "weekly"
       }
@@ -1027,7 +1022,7 @@
         "text": "The Internet Needs Crypto to Survive AI: https://t.co/quiHQpmcuA\n\nOne of the most exciting, and underrated, developments in crypto atm revolves around this @Bankless conversation with @eastdakota of @Cloudflare.\n\n~20% of all websites are routed through Cloudflare, and in this",
         "url": "https://x.com/cburniske/status/2102441295717560708",
         "time": "Tue Sep 22 16:54:01 +0000 2026",
-        "likes": 414,
+        "likes": 415,
         "retweets": 51
       },
       {
@@ -1064,14 +1059,14 @@
         "text": "recorded history is often debatable or incomplete so i have 2 agents that wake up every 15min play with the product find historical inaccuracies and update the map when they reach consensus",
         "url": "https://x.com/QwQiao/status/2102728319565258831",
         "time": "Wed Sep 23 11:54:32 +0000 2026",
-        "likes": 20,
+        "likes": 21,
         "retweets": 0
       },
       {
         "text": "i enjoy watching chronological empire-border videos so i made https://t.co/ds64JKgStb https://t.co/v1Mov4jYCN",
         "url": "https://x.com/QwQiao/status/2102725594769498337",
         "time": "Wed Sep 23 11:43:43 +0000 2026",
-        "likes": 113,
+        "likes": 112,
         "retweets": 6
       },
       {
@@ -1085,7 +1080,7 @@
         "text": "big bang makes stars\nstars make carbon\ncarbon makes life\nlife makes minds\nminds make civilization\ncivilization makes silicon life &lt;- u r here\n\np(witness one of the top 5-10 biggest milestones in 14 billion years | human life is &lt;100 years) ~= 0 \n\nincredible time to be alive",
         "url": "https://x.com/QwQiao/status/2102339840486347170",
         "time": "Tue Sep 22 10:10:52 +0000 2026",
-        "likes": 194,
+        "likes": 195,
         "retweets": 18
       },
       {
@@ -1101,36 +1096,36 @@
         "text": "Spread Bitcoin with love. https://t.co/n37ltlUBwb",
         "url": "https://x.com/saylor/status/2104701900209983759",
         "time": "Mon Sep 28 22:36:51 +0000 2026",
-        "likes": 2046,
-        "retweets": 170
+        "likes": 3822,
+        "retweets": 313
       },
       {
         "text": "USD Duration is 3.8 yrs. STRC's BTC Credit tightened to 49 bps (-1 bp), assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $84,006. Learn more about Strategy's credit metrics: https://t.co/H0Xmf1xcuD",
         "url": "https://x.com/saylor/status/2104542257324155230",
         "time": "Mon Sep 28 12:02:29 +0000 2026",
-        "likes": 579,
-        "retweets": 46
+        "likes": 593,
+        "retweets": 47
       },
       {
         "text": "Strategy has acquired 1,665 $BTC and repurchased $152M of $STRC. As of 9/27/26, we hold 847,666 BTC and $6.02B of USD Assets. $MSTR https://t.co/h3BVtsbcBb",
         "url": "https://x.com/saylor/status/2104542254857633997",
         "time": "Mon Sep 28 12:02:28 +0000 2026",
-        "likes": 11478,
-        "retweets": 1320
+        "likes": 11976,
+        "retweets": 1363
       },
       {
         "text": "Ciao, ₿ears. https://t.co/zXsgpCztu9",
         "url": "https://x.com/saylor/status/2104270833606910443",
         "time": "Sun Sep 27 18:03:56 +0000 2026",
-        "likes": 15085,
-        "retweets": 1226
+        "likes": 15327,
+        "retweets": 1243
       },
       {
         "text": "Even more orange. https://t.co/FucHwoJSzg",
         "url": "https://x.com/saylor/status/2104175752342098125",
         "time": "Sun Sep 27 11:46:07 +0000 2026",
-        "likes": 15247,
-        "retweets": 1374
+        "likes": 15357,
+        "retweets": 1384
       }
     ],
     "viktorfischer": [
@@ -1174,37 +1169,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Sandisk Jumped 22% the Day After Micron's Last Report. Micron Reports Again Wednesday.",
-        "url": "https://finnhub.io/api/news?id=5ff074e5fec7d83b8412dd3e55777c4841c6d12da019cd7f11093055805adce3",
-        "datetime": 1790638441,
+        "headline": "Stock-Split Watch: Is Meta Platforms Next?",
+        "url": "https://finnhub.io/api/news?id=f37fb55e32606aa769ef6d44591c76595ae3da15c276fd54f1689792ff8d61a3",
+        "datetime": 1790659980,
         "source": "Yahoo"
       },
       {
-        "headline": "3 Australian AI Stocks For September 2026",
-        "url": "https://finnhub.io/api/news?id=8857b00eb96175a3ee816d34e9c02f150359a8c2a1d3cd34c68a3620e2191d43",
-        "datetime": 1790637366,
+        "headline": "Nvidia turns to insurers to spread risk of AI build-out - FT",
+        "url": "https://finnhub.io/api/news?id=62d89ab530bbd287d3772f1a9f93cd5d053cefc91719f4d95c60a5c850aa0d64",
+        "datetime": 1790659305,
         "source": "Yahoo"
       },
       {
-        "headline": "S&P 500, Dow, Nasdaq Drop Under Pressure From Elevated Yields As Investors Shrug Off Trump’s Iran Sanction Relief — NVDA, BA, AMD, NVTS, CBRS In Focus",
-        "url": "https://finnhub.io/api/news?id=b057d340744e7590865880f8a83751b466d402f8a17a19fb34b5a008d6e818fb",
-        "datetime": 1790636878,
+        "headline": "Michael Burry Said AI Bursts in 2028. One Weekend of Research Changed That",
+        "url": "https://finnhub.io/api/news?id=18b6edf8b6cb325876d06b874189f906a0bd0d17b83362a95b36d84738964841",
+        "datetime": 1790659198,
         "source": "Yahoo"
       },
       {
-        "headline": "Samsung Commits $1 Billion to Helix Digital Infrastructure to Support Global AI Infrastructure Buildout",
-        "url": "https://finnhub.io/api/news?id=729053f57b7f799d1d0a9d68c8c0760c37bec4af6e63ac52716b7ee89205f01d",
-        "datetime": 1790636400,
+        "headline": "Move Over, SpaceX. Anthropic Will Soon Go Public. Why It Could Be Critical for AI Stocks",
+        "url": "https://finnhub.io/api/news?id=61f7aea5bf03794a8dc2aae148b447369966f5ca362ea69ea794e388bac50e48",
+        "datetime": 1790655456,
         "source": "Yahoo"
       },
       {
-        "headline": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
-        "url": "https://finnhub.io/api/news?id=8ffa71ff00307bfeefda924e9a40c9f0f291abdf22791184ab10849c7b231464",
-        "datetime": 1790635800,
+        "headline": "PANW, CRWD, ZS Lead Nasdaq-100 Gains As Nvidia's AI Agent Safety Push, Security Scares Lift Cybersecurity Stocks",
+        "url": "https://finnhub.io/api/news?id=57dbde5cbf5b804634d82a2d9c1b53131cc463cfd5b70364a9bba4cf5986bca4",
+        "datetime": 1790653108,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Can Cloudflare (NET) Become the Gatekeeper of the AI Web?",
+        "url": "https://finnhub.io/api/news?id=44af249db12c507d9f4cffdb2c5ab3f4564f40893fb0a0de727a8772d2ca1675",
+        "datetime": 1790643355,
+        "source": "Yahoo"
+      },
       {
         "headline": "Robotaxi Firms Quietly Growing Real Estate Footprint, Even Where They're Not Yet Legal",
         "url": "https://finnhub.io/api/news?id=8fbc6f4b69d3142f8dda7630b2e816a4114ec161f9b3ff3adaec9404e521fbfc",
@@ -1224,19 +1225,31 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Crusoe Developing Data Center Campus in Armstrong County, Texas",
-        "url": "https://finnhub.io/api/news?id=5539118d729eb2815fc6770de78e9a6618a7fd7ee3bbf50167fe1e4a8551da1d",
-        "datetime": 1790632380,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Investors Concerned As Google Again Playing From Behind",
-        "url": "https://finnhub.io/api/news?id=73a87e8bcb7730c8d0006e03c997b9c0f8fb884e1b181f7ee4a3ae3da7132aed",
-        "datetime": 1790631390,
-        "source": "Yahoo"
+        "headline": "Alphabet: Buy Before It Cashes In On Its TPUs",
+        "url": "https://finnhub.io/api/news?id=cea73a9489948d1a5650a29bfefc174d7553035c1663fd74978eb33a8dd3a083",
+        "datetime": 1790632800,
+        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "TSLA Stock Slides As Retail Turns Cautious Ahead Of Q3 Deliveries — But Musk’s Terafab Is Moving Fast",
+        "url": "https://finnhub.io/api/news?id=c8e2ab8c800cb9ca99f05de4a4ee2dd0be9aa919f0515aea74468ee5089658fe",
+        "datetime": 1790653866,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Elon Musk’s Path to Trillionaire Stalls Ahead of Key Tesla and SpaceX Events",
+        "url": "https://finnhub.io/api/news?id=062621ccceb50a85b4e3e929ac4946b9b636a6c6c0d1697944e26dd31ebed1dc",
+        "datetime": 1790652610,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla (TSLA) has a Growing Warranty Bill. Are Future Margins Paying for Past Sales?",
+        "url": "https://finnhub.io/api/news?id=7e95261c59ea3411791a01cdbeeb5fda5130dcc418c034ab2675ea9cb65f9fc5",
+        "datetime": 1790647737,
+        "source": "Yahoo"
+      },
       {
         "headline": "TSLA Heads Into Friday’s Delivery Print With Family-Targeted Model Y L Already Sold Into Next Year",
         "url": "https://finnhub.io/api/news?id=93d50588cb143e8f54f1cab060e147735ae5c8b6e8008d6a306f45b3f5a88727",
@@ -1247,24 +1260,6 @@
         "headline": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
         "url": "https://finnhub.io/api/news?id=d777b7d8148f7b2b8689697fdc95da80ba10c833252d406594e74681dafd42c0",
         "datetime": 1790637289,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Pushes Roadster Event To Oct. 15 After Storm Forecast, Says It ‘Can Only Be Held Outdoors’",
-        "url": "https://finnhub.io/api/news?id=4d1735f286c50f89525ad11369367a52f3afcb7ccbdea007dc0efff1981d3a4a",
-        "datetime": 1790626825,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Postpones Roadster Unveil Ahead Of Q3 Delivery Release; Stock Drops",
-        "url": "https://finnhub.io/api/news?id=5ab519aaa7a2991bc868acf27c737166293ea5042e2cb2dd9b0ba9468b2526fd",
-        "datetime": 1790625414,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Stock Drops Over 3% Before Cybercab's Federal Answers Come Due",
-        "url": "https://finnhub.io/api/news?id=46e0875621e2fd187a512423ac7323d77d7ecf27fc5d45af60ac53c0e0a7abec",
-        "datetime": 1790623329,
         "source": "Yahoo"
       }
     ],
@@ -1328,6 +1323,12 @@
     ],
     "BTC": [
       {
+        "headline": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+        "url": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+        "datetime": 1790655440,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Strategy buys 1,665 Bitcoin for $143M as BTC stack hits 847,666",
         "url": "https://cointelegraph.com/news/strategy-1665-bitcoin-buy-holdings-847666-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1790599081,
@@ -1350,12 +1351,6 @@
         "url": "https://cointelegraph.com/news/bitget-btc-withdrawal-hacker-eth-swap-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1790593524,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin falls to $83,000 while altcoins unwind Friday's rally",
-        "url": "https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally",
-        "datetime": 1790590504,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1373,12 +1368,6 @@
       }
     ],
     "SOL": [
-      {
-        "headline": "Solana erases Friday's gains as US-Iran tensions weigh on risk sentiment. What to watch next?",
-        "url": "https://investinglive.com/cryptocurrency/solana-erases-friday-s-gains-as-us-iran-tensions-weigh-on-risk-sentiment-what-to-watch-next/",
-        "datetime": 1790597884,
-        "source": "Forexlive"
-      },
       {
         "headline": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
         "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
