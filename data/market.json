@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T05:56:27.484Z",
+  "updated_at": "2026-10-03T10:54:38.667Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 84617,
-      "change_pct": -1.59
+      "price": 84609,
+      "change_pct": -1.94
     },
     {
       "symbol": "ETH",
-      "price": 2676.31,
-      "change_pct": -1.51
+      "price": 2682.39,
+      "change_pct": -2.24
     },
     {
       "symbol": "SOL",
-      "price": 119.5,
-      "change_pct": -1.95
+      "price": 119.47,
+      "change_pct": -1.86
     },
     {
       "symbol": "HYPE",
-      "price": 88.4,
-      "change_pct": -1.74
+      "price": 87.99,
+      "change_pct": -3.32
     },
     {
       "symbol": "ZEC",
-      "price": 1319.45,
-      "change_pct": -4.58
+      "price": 1315.28,
+      "change_pct": -4.95
     },
     {
       "symbol": "TAO",
-      "price": 290.8,
-      "change_pct": -5.86
+      "price": 291.55,
+      "change_pct": -6.13
     },
     {
       "symbol": "SKY",
-      "price": 2024.4,
-      "change_pct": 5.45
+      "price": 2042.63,
+      "change_pct": 0.55
     },
     {
       "symbol": "AAVE",
-      "price": 179.1,
-      "change_pct": -1.11
+      "price": 181.95,
+      "change_pct": -1.7
     },
     {
       "symbol": "BNB",
-      "price": 766.87,
-      "change_pct": -1.27
+      "price": 768.14,
+      "change_pct": -1.01
     },
     {
       "symbol": "NEAR",
       "price": 4.7,
-      "change_pct": -5.53
+      "change_pct": -4.06
     },
     {
       "symbol": "DOGE",
-      "price": 0.092977,
-      "change_pct": -2.86
+      "price": 0.092887,
+      "change_pct": -3.87
     },
     {
       "symbol": "SPACEX",
-      "price": 574.07,
-      "change_pct": 2.1
+      "price": 574.33,
+      "change_pct": 2.91
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "社区银行就加密货币公司的信托银行章程起诉 OCC",
+      "summary": "社区银行集团的诉讼称 OCC 超越了国会的授权。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791019501,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "特朗普预计将任命杰伊·克莱顿（Jay Clayton）为新任人工智能沙皇：报告",
+      "summary": "美国英特尔首席执行官克莱顿可能还被要求与“自我监管”的科技首席执行官一起监督人工智能的创新和发展。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791011168,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "银行集团起诉美国监管机构授予加密信托许可证",
       "summary": "",
       "source": "CoinDesk",
@@ -725,24 +743,6 @@
       "datetime": 1790937446,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "随着比特币主导地位接近恢复 60%，加密货币交易者处于冒险模式",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "datetime": 1790937076,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CONNECT 回顾：Arthur Hayes 谈印钞，华尔街转向链上",
-      "summary": "Arthur Hayes 表示，印钞可能会提高加密货币价格，而 CONNECT 首尔发言人则审视了华尔街在链上的竞争优势。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790936975,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -803,12 +803,12 @@
     }
   ],
   "btc_score": {
-    "score": 40.7,
+    "score": 40.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.6,
-    "weekly_score": 27.1,
-    "btc_price": 84649.7,
+    "daily_score": 13.5,
+    "weekly_score": 27.4,
+    "btc_price": 84639.2,
     "fear_greed": 67,
     "indicators": [
       {
@@ -827,8 +827,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.000878,
-        "score": 45,
+        "value": -0.001377,
+        "score": 44,
         "weight": 5,
         "group": "daily"
       },
@@ -848,8 +848,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.7,
-        "score": 40,
+        "value": 1.72,
+        "score": 41,
         "weight": 12,
         "group": "weekly"
       },
@@ -904,8 +904,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -55.9,
-        "score": 30,
+        "value": -38.2,
+        "score": 34,
         "weight": 4,
         "group": "weekly"
       }
@@ -1044,14 +1044,14 @@
         "text": "\"To put it simply: a @Backpack tokenized stock is the only tokenized stock in the market right now that is directly redeemable 1:1 into a real share held at a brokerage account in seconds and at no fee. \n\nMost alternatives, including xStocks, Ondo and Robinhood's tokens, are",
         "url": "https://x.com/cburniske/status/2105374417874563375",
         "time": "Wed Sep 30 19:09:11 +0000 2026",
-        "likes": 235,
+        "likes": 237,
         "retweets": 26
       },
       {
         "text": "If you haven't noticed, @Backpack has been crushing. It's a CEX that runs like a blockchain, allowing for real time proof of reserves, as well as a nativity and fluidity between the TradFi and onchain worlds that's unmatched. Advantage appears small now, but will compound. Stats:",
         "url": "https://x.com/cburniske/status/2105374414128984259",
         "time": "Wed Sep 30 19:09:10 +0000 2026",
-        "likes": 1164,
+        "likes": 1163,
         "retweets": 119
       }
     ],
@@ -1060,8 +1060,8 @@
         "text": "the crypto era of the 2010s and early 2020s will forever be goated. anyone on the planet with an internet connection was able to own eventual trillion dollar assets at sub billion dollar valuations. by contrast almost every other tech wave including ai begins in the silicon",
         "url": "https://x.com/QwQiao/status/2105965905406566766",
         "time": "Fri Oct 02 10:19:33 +0000 2026",
-        "likes": 646,
-        "retweets": 44
+        "likes": 676,
+        "retweets": 46
       },
       {
         "text": "if this is not 90% of ur ai portfolio for the next few years, weighted by how close they sit to potus/vpotus, u r doing it wrong https://t.co/MaNohJDThY",
@@ -1081,7 +1081,7 @@
         "text": "i enjoy watching chronological empire-border videos so i made https://t.co/ds64JKgStb https://t.co/v1Mov4jYCN",
         "url": "https://x.com/QwQiao/status/2102725594769498337",
         "time": "Wed Sep 23 11:43:43 +0000 2026",
-        "likes": 116,
+        "likes": 117,
         "retweets": 6
       },
       {
@@ -1097,22 +1097,22 @@
         "text": "Digital Credit is an alloy of capital and currency. $STRC https://t.co/BxarYKnaOx",
         "url": "https://x.com/saylor/status/2106130240716292556",
         "time": "Fri Oct 02 21:12:34 +0000 2026",
-        "likes": 1685,
-        "retweets": 166
+        "likes": 2056,
+        "retweets": 205
       },
       {
         "text": "Still living comfortably. $STRC https://t.co/FuqNd35DnG",
         "url": "https://x.com/saylor/status/2105995008109109423",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 4045,
-        "retweets": 311
+        "likes": 4237,
+        "retweets": 326
       },
       {
         "text": "https://t.co/B9M8TNiDCB",
         "url": "https://x.com/saylor/status/2105995010500088192",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 393,
-        "retweets": 28
+        "likes": 406,
+        "retweets": 29
       },
       {
         "text": "https://t.co/CbbMkZOqFq",
@@ -1125,8 +1125,8 @@
         "text": "A Tutorial on Digital Credit. $STRC https://t.co/uK3F9VwD71",
         "url": "https://x.com/saylor/status/2105636794205356232",
         "time": "Thu Oct 01 12:31:47 +0000 2026",
-        "likes": 3327,
-        "retweets": 424
+        "likes": 3343,
+        "retweets": 428
       }
     ],
     "viktorfischer": [
@@ -1170,37 +1170,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix",
-        "url": "https://finnhub.io/api/news?id=7bd654cc16c1a204350abb6c65b331bca1ea8b98c07c861c4435537372e5b1df",
-        "datetime": 1790997307,
+        "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It’s Not Nvidia, AMD, or Broadcom)",
+        "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
+        "datetime": 1791020401,
         "source": "Yahoo"
       },
       {
-        "headline": "4 Stocks Delivered About Half of the S&P 500's Gain This Year",
-        "url": "https://finnhub.io/api/news?id=8059ec9010011df28acdd80f2a66b2a9dce90775aaa92ffe90c65a0c17d5b0d5",
-        "datetime": 1790996581,
+        "headline": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
+        "url": "https://finnhub.io/api/news?id=a816f75853bc3bf992a77481d9c15a118ffff20d25f14404dd94d96f084a779b",
+        "datetime": 1791019921,
         "source": "Yahoo"
       },
       {
-        "headline": "Why the iShares Semiconductor ETF Gained 11% in September",
-        "url": "https://finnhub.io/api/news?id=72692bc8b6c721ac5debbf61e2ff58dcef1edb67ce712de68a7b79cd53baa1ac",
-        "datetime": 1790993102,
+        "headline": "Looking For a Crypto ETF With Upside Potential? These 3 ETFs Are Worth a Closer Look.",
+        "url": "https://finnhub.io/api/news?id=990b101b4a45b88f43924c24e3a5a70dd4599ef412626fe081e9b12271227240",
+        "datetime": 1791019200,
         "source": "Yahoo"
       },
       {
-        "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
-        "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1",
-        "datetime": 1790992895,
+        "headline": "Which Is the Better Dividend ETF for Income Investors: JEPQ or SCHD?",
+        "url": "https://finnhub.io/api/news?id=66b2746494ace20b0be41496703bbee4fa80bab913eebb24d75c534914a8e67b",
+        "datetime": 1791018241,
         "source": "Yahoo"
       },
       {
-        "headline": "2 Insurance Stocks to Buy With Dividend Streaks Longer Than 50 Years",
-        "url": "https://finnhub.io/api/news?id=8479d5610e8c051910dc661d1d45e3fe4941cd4b5ab15dd5ecc2f1fd835a7e83",
-        "datetime": 1790991300,
+        "headline": "If You Invest $300 Per Month in the Vanguard Information Technology ETF for 20 Years, Here's What History Says You Could End Up With",
+        "url": "https://finnhub.io/api/news?id=51a0db8eda418fd54dbb46beb50cdd04d3c6543b9c4c420e68114f6b8074f1b7",
+        "datetime": 1791017880,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
+        "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
+        "datetime": 1791015140,
+        "source": "Yahoo"
+      },
       {
         "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
         "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1",
@@ -1224,15 +1230,15 @@
         "url": "https://finnhub.io/api/news?id=0f2d1c3d53eedfae80145cee9847b938daf52ad0d758e9803e034794d9215f82",
         "datetime": 1790972281,
         "source": "Yahoo"
-      },
-      {
-        "headline": "SPCX Stock Climbs As Three Thursday Launches Meet Start Of Google’s $920 Million AI Pact",
-        "url": "https://finnhub.io/api/news?id=2a7776e834dca6c2b0ebc4a861be7977a6d592f84149e54306c8264bc8cab7cd",
-        "datetime": 1790971358,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus",
+        "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
+        "datetime": 1791011381,
+        "source": "Yahoo"
+      },
       {
         "headline": "Stocktwits Zero To Sixty —  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
         "url": "https://finnhub.io/api/news?id=60d814640e97dc01325b04fc7406e6348ef22627208dd8789ecad9f0bcf5bf10",
@@ -1255,12 +1261,6 @@
         "headline": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
         "url": "https://finnhub.io/api/news?id=7415edc4c47df1de5ed4a18f1d422797cdb1567b55c872df92885f919e72fb7a",
         "datetime": 1790976688,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Stock Market Today, Oct. 2: Rivian Beats Q3 Delivery Estimates on Record Production Pace",
-        "url": "https://finnhub.io/api/news?id=90207b1fd72d90fd5df48023b4c90bc8bc1f9f6d1d82ebc70f1454021d965321",
-        "datetime": 1790975266,
         "source": "Yahoo"
       }
     ],
@@ -1388,21 +1388,21 @@
     ],
     "SOL": [
       {
+        "headline": "Vibhu explains how @Backpack lets users turn tokenized stocks back into actual shares\n\n\"Backpack is a full brokerage, so it's one-to-one. They seed liquidity, and if demand outweighs the supply onchai",
+        "url": "https://x.com/solana/status/2106285623657017726",
+        "datetime": 1791012600,
+        "source": "@solana"
+      },
+      {
+        "headline": "Watch the full interview with @KrutzkyTrades",
+        "url": "https://x.com/solana/status/2106285624420430269",
+        "datetime": 1791012600,
+        "source": "@solana"
+      },
+      {
         "headline": "JUST IN: Solana processed a record 14.2B non-vote transactions in Q3, up 45% from Q2.\n\nSource: @Blockworks",
         "url": "https://x.com/solana/status/2106244521831109112",
         "datetime": 1791002800,
-        "source": "@solana"
-      },
-      {
-        "headline": "$PUSA is available in your favorite Solana apps\n@tryfomo, @dflow, @Titan_Exchange, @phantom, @JupiterExchange, @Raydium, @ArcherExchange_, @kamino_swap, @mayan and more",
-        "url": "https://x.com/solana/status/2106038098253480288",
-        "datetime": 1790953585,
-        "source": "@solana"
-      },
-      {
-        "headline": "Powerus ($PUSA) builds autonomous drone and defense systems for high-risk environments, spanning heavy-lift platforms, counter-drone interceptors, and US-based manufacturing.\n\nVerify the address on @t",
-        "url": "https://x.com/solana/status/2106038092318568630",
-        "datetime": 1790953584,
         "source": "@solana"
       }
     ],
@@ -1487,14 +1487,7 @@
         "source": "@NEARProtocol"
       }
     ],
-    "ZEC": [
-      {
-        "headline": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-        "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-        "datetime": 1790766249,
-        "source": "CoinDesk"
-      }
-    ],
+    "ZEC": [],
     "SPACEX": [
       {
         "headline": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
