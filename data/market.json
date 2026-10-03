@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:54:38.667Z",
+  "updated_at": "2026-10-03T15:01:00.899Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 84609,
-      "change_pct": -1.94
+      "price": 84829,
+      "change_pct": -0.98
     },
     {
       "symbol": "ETH",
-      "price": 2682.39,
-      "change_pct": -2.24
+      "price": 2682.49,
+      "change_pct": -1
     },
     {
       "symbol": "SOL",
-      "price": 119.47,
-      "change_pct": -1.86
+      "price": 119.72,
+      "change_pct": -0.76
     },
     {
       "symbol": "HYPE",
-      "price": 87.99,
-      "change_pct": -3.32
+      "price": 88.79,
+      "change_pct": -1.23
     },
     {
       "symbol": "ZEC",
-      "price": 1315.28,
-      "change_pct": -4.95
+      "price": 1305.86,
+      "change_pct": -4.92
     },
     {
       "symbol": "TAO",
-      "price": 291.55,
-      "change_pct": -6.13
+      "price": 293.62,
+      "change_pct": -5.21
     },
     {
       "symbol": "SKY",
-      "price": 2042.63,
-      "change_pct": 0.55
+      "price": 2031.29,
+      "change_pct": -3.82
     },
     {
       "symbol": "AAVE",
-      "price": 181.95,
-      "change_pct": -1.7
+      "price": 180.74,
+      "change_pct": -1.17
     },
     {
       "symbol": "BNB",
-      "price": 768.14,
-      "change_pct": -1.01
+      "price": 778.26,
+      "change_pct": 0.37
     },
     {
       "symbol": "NEAR",
-      "price": 4.7,
-      "change_pct": -4.06
+      "price": 4.68,
+      "change_pct": -4.09
     },
     {
       "symbol": "DOGE",
-      "price": 0.092887,
-      "change_pct": -3.87
+      "price": 0.093351,
+      "change_pct": -2.17
     },
     {
       "symbol": "SPACEX",
-      "price": 574.33,
-      "change_pct": 2.91
+      "price": 572.36,
+      "change_pct": 5.27
     }
   ],
   "earnings": {
@@ -475,6 +475,69 @@
   },
   "news": [
     {
+      "headline": "阿尔法一代的孩子们正在赚钱。父母可以如何帮助他们储蓄和投资",
+      "summary": "阿尔法一代的孩子们自己挣钱、花自己的钱。父母可以使用储蓄、投资和教育工具来养成健康的习惯。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
+      "datetime": 1791036001,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Novig 将平台增长的激增归功于 Sydney Sweeney 支持的活动",
+      "summary": "诺维格的“Just Sports”活动引起了一些女运动员的强烈反对，但也带来了交易量的激增。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+      "datetime": 1791034248,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "贝莱德让您一睹代币化如何改变您的投资组合",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "datetime": 1791032400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币的西西弗斯式斗争",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "datetime": 1791032400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "私人资本正在重塑好莱坞电影制作",
+      "summary": "随着好莱坞融资结构的多元化，私人资本越来越多地为大银幕提供资金，并改变了正在制作的电影类型。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+      "datetime": 1791028801,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "NEAR Intents 在向利用者发出最后通牒后追回了全部被盗的 380 万美元",
+      "summary": "漏洞利用者在被发现后将全部金额返还给 NEAR Intents，并给予 48 小时的响应时间。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791028750,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "大卫·埃里森 (David Ellison) 刚刚聘请了一位联合首席执行官来运营他的新帝国：认识伊农·克雷兹 (Ynon Kreiz)",
+      "summary": "Ynon Kreiz 被任命为 Skydance 联合首席执行官，解决了埃里森即将合并的公司面临的一个关键治理问题。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "datetime": 1791025201,
+      "category": "business",
+      "related": ""
+    },
+    {
       "headline": "社区银行就加密货币公司的信托银行章程起诉 OCC",
       "summary": "社区银行集团的诉讼称 OCC 超越了国会的授权。",
       "source": "Cointelegraph",
@@ -539,7 +602,7 @@
     },
     {
       "headline": "标准普尔 500 指数周五的反弹可能还不够，但林德已经走出了这个世界",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
       "datetime": 1790964215,
@@ -556,7 +619,7 @@
       "related": ""
     },
     {
-      "headline": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
+      "headline": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
@@ -583,7 +646,7 @@
       "related": ""
     },
     {
-      "headline": "报告称，到 2035 年，每年将新增 170 万个技术贸易岗位——专家们不知道谁将填补这些岗位",
+      "headline": "报告称，到 2035 年，每年将新增 170 万个技术贸易岗位——专家不知道谁将填补这些岗位",
       "summary": "由于该行业难以跟上创造就业机会、劳动力老龄化和高流动率的步伐，技术行业的就业机会非常丰富。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/1point7-million-skilled-trade-jobs-to-open-annually-through-2035-report-says.html",
@@ -655,7 +718,7 @@
       "related": ""
     },
     {
-      "headline": "关于 THORChain 与 NEAR 的激烈争论表明理想主义有其局限性",
+      "headline": "关于 THORChain 与 NEAR 的激烈争论表明理想主义是有限度的",
       "summary": "关于 Bitget 3.877 亿美元被黑资金的激烈争论归结为围绕“无需许可和去中心化”技术的理想是否意味着永远不要干预——即使你可以。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/furious-debate-about-thorchain-vs-near-shows-idealism-has-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -678,69 +741,6 @@
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
       "datetime": 1790946808,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美国9月仅新增2.9万个就业岗位 失业率升至4.2%",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-      "datetime": 1790944313,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Circle敦促欧盟在MiCA审查中修改稳定币储备规则",
-      "summary": "Circle 希望欧盟用更灵活的流动性规则取代强制性的银行存款最低限额，并保留跨境稳定币发行。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790943956,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着市场触及 $3.7B，BNB Chain 代币化股票和 ETF 价格突破 $1B",
-      "summary": "随着大盘攀升至 37 亿美元，BNB 链上的代币化股票和 ETF 达到 11 亿美元，使该网络的份额约为 30%。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790941221,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "芝加哥期权交易所希望将 VIX 变成永无休止的交易",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-      "datetime": 1790940600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "实时更新：市场等待美国就业报告，比特币、黄金和科技期货小幅走高",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
-      "datetime": 1790940160,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "阿莫斯表示，比特币国债可能很难跟上策略",
-      "summary": "《比特币标准》一书的作者 Saifedean Ammous 表示，该策略的规模和现金储备使其比金融竞争对手更具优势。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1790938473,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "债券抛售可能结束的秘密迹象",
-      "summary": "涉及公用事业部门的大额期权押注可能表明收益率已见顶。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html",
-      "datetime": 1790937446,
       "category": "top news",
       "related": ""
     }
@@ -803,12 +803,12 @@
     }
   ],
   "btc_score": {
-    "score": 40.9,
+    "score": 41.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.5,
-    "weekly_score": 27.4,
-    "btc_price": 84639.2,
+    "daily_score": 13.7,
+    "weekly_score": 27.5,
+    "btc_price": 84816.1,
     "fear_greed": 67,
     "indicators": [
       {
@@ -827,15 +827,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.001377,
-        "score": 44,
+        "value": 0.002152,
+        "score": 46,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.21,
-        "score": 47,
+        "value": 1.22,
+        "score": 48,
         "weight": 3,
         "group": "daily"
       },
@@ -897,15 +897,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 65.7,
-        "score": 76,
+        "value": 65.9,
+        "score": 77,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -38.2,
-        "score": 34,
+        "value": -29,
+        "score": 37,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,28 +1030,28 @@
         "text": "What happened to stablecoins will happen to tokenized equities -- blockchains are unapologetically superior to TradFi's rails.",
         "url": "https://x.com/cburniske/status/2105375638014308365",
         "time": "Wed Sep 30 19:14:02 +0000 2026",
-        "likes": 814,
+        "likes": 815,
         "retweets": 91
       },
       {
         "text": "Don't believe the @backpack hype? Listen to @armaniferrante with @defi_kay_ on @Lightspeedpodhq here: https://t.co/60oaM5U37A",
         "url": "https://x.com/cburniske/status/2105374419329991163",
         "time": "Wed Sep 30 19:09:12 +0000 2026",
-        "likes": 133,
+        "likes": 134,
         "retweets": 9
       },
       {
         "text": "\"To put it simply: a @Backpack tokenized stock is the only tokenized stock in the market right now that is directly redeemable 1:1 into a real share held at a brokerage account in seconds and at no fee. \n\nMost alternatives, including xStocks, Ondo and Robinhood's tokens, are",
         "url": "https://x.com/cburniske/status/2105374417874563375",
         "time": "Wed Sep 30 19:09:11 +0000 2026",
-        "likes": 237,
-        "retweets": 26
+        "likes": 238,
+        "retweets": 27
       },
       {
         "text": "If you haven't noticed, @Backpack has been crushing. It's a CEX that runs like a blockchain, allowing for real time proof of reserves, as well as a nativity and fluidity between the TradFi and onchain worlds that's unmatched. Advantage appears small now, but will compound. Stats:",
         "url": "https://x.com/cburniske/status/2105374414128984259",
         "time": "Wed Sep 30 19:09:10 +0000 2026",
-        "likes": 1163,
+        "likes": 1164,
         "retweets": 119
       }
     ],
@@ -1060,7 +1060,7 @@
         "text": "the crypto era of the 2010s and early 2020s will forever be goated. anyone on the planet with an internet connection was able to own eventual trillion dollar assets at sub billion dollar valuations. by contrast almost every other tech wave including ai begins in the silicon",
         "url": "https://x.com/QwQiao/status/2105965905406566766",
         "time": "Fri Oct 02 10:19:33 +0000 2026",
-        "likes": 676,
+        "likes": 683,
         "retweets": 46
       },
       {
@@ -1094,39 +1094,39 @@
     ],
     "saylor": [
       {
+        "text": "A milestone for Digital Credit: $STRC’s 30-day historical volatility is now 9%, below $SPY. We’re harnessing the power of Bitcoin while reducing price volatility for income investors. This is what financial engineering should do. https://t.co/Jka7oOesa1",
+        "url": "https://x.com/saylor/status/2106384681419608310",
+        "time": "Sat Oct 03 14:03:37 +0000 2026",
+        "likes": 1196,
+        "retweets": 130
+      },
+      {
         "text": "Digital Credit is an alloy of capital and currency. $STRC https://t.co/BxarYKnaOx",
         "url": "https://x.com/saylor/status/2106130240716292556",
         "time": "Fri Oct 02 21:12:34 +0000 2026",
-        "likes": 2056,
-        "retweets": 205
+        "likes": 2376,
+        "retweets": 249
       },
       {
         "text": "Still living comfortably. $STRC https://t.co/FuqNd35DnG",
         "url": "https://x.com/saylor/status/2105995008109109423",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 4237,
-        "retweets": 326
+        "likes": 4416,
+        "retweets": 341
       },
       {
         "text": "https://t.co/B9M8TNiDCB",
         "url": "https://x.com/saylor/status/2105995010500088192",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 406,
-        "retweets": 29
+        "likes": 426,
+        "retweets": 30
       },
       {
         "text": "https://t.co/CbbMkZOqFq",
         "url": "https://x.com/saylor/status/2105636876803850625",
         "time": "Thu Oct 01 12:32:06 +0000 2026",
-        "likes": 259,
+        "likes": 265,
         "retweets": 24
-      },
-      {
-        "text": "A Tutorial on Digital Credit. $STRC https://t.co/uK3F9VwD71",
-        "url": "https://x.com/saylor/status/2105636794205356232",
-        "time": "Thu Oct 01 12:31:47 +0000 2026",
-        "likes": 3343,
-        "retweets": 428
       }
     ],
     "viktorfischer": [
@@ -1155,8 +1155,8 @@
         "text": "In the end it's all about the people:\n• @keoneHD's Calendly has slots on Saturdays and Sundays too; that's the level of grind I look for in founders\n• @keoneHD keeps a feedback form pinned in his X profile :)\n• We put our money where our mouth is: @RockawayX runs risk on a",
         "url": "https://x.com/viktorfischer/status/2104861146218201328",
         "time": "Tue Sep 29 09:09:38 +0000 2026",
-        "likes": 96,
-        "retweets": 5
+        "likes": 97,
+        "retweets": 6
       },
       {
         "text": "And let's not forget that solana:Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs is estimating to reach $70m revenue this year 🚀 https://t.co/JnLpOHPjpb",
@@ -1170,37 +1170,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It’s Not Nvidia, AMD, or Broadcom)",
-        "url": "https://finnhub.io/api/news?id=3cbc6c6c0489fd7871ef6ef60d42c8e47422fbe7010e81af63fcff7e378e40de",
-        "datetime": 1791020401,
+        "headline": "3 Reasons Why This Dividend King Yielding 4X the S&P 500 Looks Like a Buy Right Now",
+        "url": "https://finnhub.io/api/news?id=b0c38d199b2ba0926945129c70d5484e92ab9905749637818c5371834c01bb92",
+        "datetime": 1791035100,
         "source": "Yahoo"
       },
       {
-        "headline": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
-        "url": "https://finnhub.io/api/news?id=a816f75853bc3bf992a77481d9c15a118ffff20d25f14404dd94d96f084a779b",
-        "datetime": 1791019921,
+        "headline": "This Stock Posted the Best Performance in the “Magnificent Seven” in September. (Hint: It’s Not Nvidia.)",
+        "url": "https://finnhub.io/api/news?id=284602e45d1ad9c65269f1aa8700a068da02e30cd374a7b4dfbdf8b4e1940659",
+        "datetime": 1791034201,
         "source": "Yahoo"
       },
       {
-        "headline": "Looking For a Crypto ETF With Upside Potential? These 3 ETFs Are Worth a Closer Look.",
-        "url": "https://finnhub.io/api/news?id=990b101b4a45b88f43924c24e3a5a70dd4599ef412626fe081e9b12271227240",
-        "datetime": 1791019200,
+        "headline": "Midterm Elections Are One Month Away: Almost a Century of History Says This Would Be the Best Outcome for Stocks",
+        "url": "https://finnhub.io/api/news?id=55802ad46a991de9974eed3bf5d47bd57c8b4b2009f09f4177e3ac98b5601bd8",
+        "datetime": 1791033961,
         "source": "Yahoo"
       },
       {
-        "headline": "Which Is the Better Dividend ETF for Income Investors: JEPQ or SCHD?",
-        "url": "https://finnhub.io/api/news?id=66b2746494ace20b0be41496703bbee4fa80bab913eebb24d75c534914a8e67b",
-        "datetime": 1791018241,
+        "headline": "Energy Transfer's 2020 Dividend Cut Still Haunts Some Investors. Here's Whether That Risk Is Still Real.",
+        "url": "https://finnhub.io/api/news?id=1eb652ba7d9203c344f5bf12a61b3d233dfccf6d553b3ccb798062b86ebd583b",
+        "datetime": 1791033300,
         "source": "Yahoo"
       },
       {
-        "headline": "If You Invest $300 Per Month in the Vanguard Information Technology ETF for 20 Years, Here's What History Says You Could End Up With",
-        "url": "https://finnhub.io/api/news?id=51a0db8eda418fd54dbb46beb50cdd04d3c6543b9c4c420e68114f6b8074f1b7",
-        "datetime": 1791017880,
+        "headline": "Rise of the Machines: AI Agents Now Burn 5x More Tokens Than Humans — and the Gap Is Widening Fast",
+        "url": "https://finnhub.io/api/news?id=d203be2c57576dcb8271188cccd65bb4120decbfb6172e06ebacdd0e41b843dc",
+        "datetime": 1791031317,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "AI's 'labor enhancement' will be 'more powerful' than job displacements: Mohamed El-Erian",
+        "url": "https://finnhub.io/api/news?id=c285f5d2803494c097c2205c87efd5e8d9d25e16648046a1e3797d997a8759aa",
+        "datetime": 1791028800,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Micron, Nike, Meta and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+        "url": "https://finnhub.io/api/news?id=4ad332166f4319c2fcf4c9006101bd1eff1553040404abe77f126421aed826ae",
+        "datetime": 1791016220,
+        "source": "Benzinga"
+      },
       {
         "headline": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
         "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
@@ -1208,31 +1220,31 @@
         "source": "Yahoo"
       },
       {
+        "headline": "Benzinga Bulls and Bears: Alphabet, Micron, Nike",
+        "url": "https://finnhub.io/api/news?id=b301adb08f6739782553d10de0a5a721e5aa0f60e2845376e59ef852f1edaf54",
+        "datetime": 1791014409,
+        "source": "Benzinga"
+      },
+      {
         "headline": "Mag 7 Voices: Huang Defends AI Spending, Pichai Ramps Up Gemini, Nadella Calls Copilot A ‘New OS For Work’ This Week",
         "url": "https://finnhub.io/api/news?id=46d3c6a7d717e97fd24c883d9bfe1437bda2f3237c110f4776dbe0b335daddb1",
         "datetime": 1790992895,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Planet Labs (PL) Shares Skyrocket, What You Need To Know",
-        "url": "https://finnhub.io/api/news?id=4e7ec6e3338d021d5260e205541afd98ccf97bb99b1f980a9cce1f05cac7dd30",
-        "datetime": 1790983083,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "HigherVisibility Analysis: Google's AI Fact-Check Rule Now Covers Metadata",
-        "url": "https://finnhub.io/api/news?id=9c7c18bf656f52f8ae6d68bcf7e8765d356cef842b946f4bb551d0c79525b634",
-        "datetime": 1790978100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Microsoft Entered the Smart Home Through Your Washing Machine, Not Your Phone",
-        "url": "https://finnhub.io/api/news?id=0f2d1c3d53eedfae80145cee9847b938daf52ad0d758e9803e034794d9215f82",
-        "datetime": 1790972281,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
+        "url": "https://finnhub.io/api/news?id=d5beecf837c542a790a8cab82dd530010a359668c4f76c5adf640e9ac0829ca5",
+        "datetime": 1791033305,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
+        "url": "https://finnhub.io/api/news?id=2b892ea2017ef309bd3f6990028921e6f7a7f855897b953a5e30d736bce6967c",
+        "datetime": 1791027300,
+        "source": "Yahoo"
+      },
       {
         "headline": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus",
         "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
@@ -1249,18 +1261,6 @@
         "headline": "Tesla, Rivian Deliveries Beat Estimates: Analysts Explain Why TSLA Rallied While RIVN Fell",
         "url": "https://finnhub.io/api/news?id=4f52a436cea7a388c8866a49bcb2eeedb1a05a6fb2a409f75c3c13fbaca3d05f",
         "datetime": 1790987082,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Why Tesla (TSLA) Stock Is Trading Up Today",
-        "url": "https://finnhub.io/api/news?id=8ab3ecebd9da68a2a418c0017b9a04831085a6e2c07c25613be91b69b8593c8b",
-        "datetime": 1790985963,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Stock Market Today, Oct. 2: Tesla Rises on Q3 Delivery Beat",
-        "url": "https://finnhub.io/api/news?id=7415edc4c47df1de5ed4a18f1d422797cdb1567b55c872df92885f919e72fb7a",
-        "datetime": 1790976688,
         "source": "Yahoo"
       }
     ],
@@ -1388,6 +1388,12 @@
     ],
     "SOL": [
       {
+        "headline": "",
+        "url": "https://x.com/solana/status/2106353639245991961",
+        "datetime": 1791028816,
+        "source": "@solana"
+      },
+      {
         "headline": "Vibhu explains how @Backpack lets users turn tokenized stocks back into actual shares\n\n\"Backpack is a full brokerage, so it's one-to-one. They seed liquidity, and if demand outweighs the supply onchai",
         "url": "https://x.com/solana/status/2106285623657017726",
         "datetime": 1791012600,
@@ -1397,12 +1403,6 @@
         "headline": "Watch the full interview with @KrutzkyTrades",
         "url": "https://x.com/solana/status/2106285624420430269",
         "datetime": 1791012600,
-        "source": "@solana"
-      },
-      {
-        "headline": "JUST IN: Solana processed a record 14.2B non-vote transactions in Q3, up 45% from Q2.\n\nSource: @Blockworks",
-        "url": "https://x.com/solana/status/2106244521831109112",
-        "datetime": 1791002800,
         "source": "@solana"
       }
     ],
@@ -1469,6 +1469,12 @@
     ],
     "NEAR": [
       {
+        "headline": "The latest on NEAR Protocol, from scalability to quantum security:",
+        "url": "https://x.com/NEARProtocol/status/2106383779350864317",
+        "datetime": 1791036002,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Large-scale enterprise AI adoption hinges on both confidential computing and independent attestation.\n\nSVRN CEO Sal Ternullo on how NEAR AI delivers both in one stack, in production today.",
         "url": "https://x.com/NEARProtocol/status/2106149728077443095",
         "datetime": 1790980200,
@@ -1478,12 +1484,6 @@
         "headline": "NEAR AI is now #1 on Lean Eval v1, Lean FRO's active benchmark of extremely hard formalization problems.\n\nThe system runs almost entirely on open-weight DeepSeek V4.1 Flash, so it's low cost and has n",
         "url": "https://x.com/NEARProtocol/status/2106133117559877693",
         "datetime": 1790976239,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "World-renowned cryptographer @danboneh moderates an expert roundtable with @ilblackdragon, @_bendersgreat_, @drakefjustin, and @P3b7_ on how blockchains and wallets are preparing for the post-quantum ",
-        "url": "https://x.com/NEARProtocol/status/2106113225570021718",
-        "datetime": 1790971497,
         "source": "@NEARProtocol"
       }
     ],
