@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T18:36:41.349Z",
+  "updated_at": "2026-10-03T21:56:06.475Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 84947,
-      "change_pct": 0.6
+      "price": 84716,
+      "change_pct": 0.23
     },
     {
       "symbol": "ETH",
-      "price": 2684.88,
-      "change_pct": 0.3
+      "price": 2685.63,
+      "change_pct": 0.78
     },
     {
       "symbol": "SOL",
-      "price": 119.78,
-      "change_pct": 0.96
+      "price": 119.7,
+      "change_pct": 1.33
     },
     {
       "symbol": "HYPE",
-      "price": 89,
-      "change_pct": 1.22
+      "price": 89.5,
+      "change_pct": 3.7
     },
     {
       "symbol": "ZEC",
-      "price": 1293.73,
-      "change_pct": -2.72
+      "price": 1316.04,
+      "change_pct": 1.92
     },
     {
       "symbol": "TAO",
-      "price": 293.73,
-      "change_pct": 0.55
+      "price": 300.26,
+      "change_pct": 4.32
     },
     {
       "symbol": "SKY",
-      "price": 2017.21,
-      "change_pct": -3.91
+      "price": 2046.14,
+      "change_pct": 2.69
     },
     {
       "symbol": "AAVE",
-      "price": 178.96,
-      "change_pct": -1.61
+      "price": 180.49,
+      "change_pct": -0.26
     },
     {
       "symbol": "BNB",
-      "price": 788.83,
-      "change_pct": 2.81
+      "price": 785.83,
+      "change_pct": 2.56
     },
     {
       "symbol": "NEAR",
-      "price": 4.65,
-      "change_pct": -0.2
+      "price": 4.75,
+      "change_pct": 1.85
     },
     {
       "symbol": "DOGE",
-      "price": 0.093102,
-      "change_pct": 0.22
+      "price": 0.092909,
+      "change_pct": 0.98
     },
     {
       "symbol": "SPACEX",
-      "price": 552.46,
-      "change_pct": 1.35
+      "price": 596.6,
+      "change_pct": 4
     }
   ],
   "earnings": {
@@ -629,7 +629,7 @@
     },
     {
       "headline": "标准普尔 500 指数周五的反弹可能还不够，但林德已经走出了这个世界",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
       "datetime": 1790964215,
@@ -646,7 +646,7 @@
       "related": ""
     },
     {
-      "headline": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
+      "headline": "曾经价值 20 亿美元的以太坊第二层 Blast 在资产暴跌 98% 后即将关闭",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
@@ -673,7 +673,7 @@
       "related": ""
     },
     {
-      "headline": "报告称，到 2035 年，每年将新增 170 万个技术贸易岗位——专家不知道谁将填补这些岗位",
+      "headline": "报告称，到 2035 年，每年将新增 170 万个技术贸易岗位——专家们不知道谁将填补这些岗位",
       "summary": "由于该行业难以跟上创造就业机会、劳动力老龄化和高流动率的步伐，技术行业的就业机会非常丰富。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/02/1point7-million-skilled-trade-jobs-to-open-annually-through-2035-report-says.html",
@@ -803,12 +803,12 @@
     }
   ],
   "btc_score": {
-    "score": 41.2,
+    "score": 41,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.8,
+    "daily_score": 13.6,
     "weekly_score": 27.4,
-    "btc_price": 84949.4,
+    "btc_price": 84707.9,
     "fear_greed": 67,
     "indicators": [
       {
@@ -827,15 +827,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005069,
-        "score": 48,
+        "value": 0.000476,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.23,
-        "score": 49,
+        "value": 1.21,
+        "score": 47,
         "weight": 3,
         "group": "daily"
       },
@@ -897,15 +897,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 66,
-        "score": 77,
+        "value": 65.8,
+        "score": 76,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -96.7,
-        "score": 18,
+        "value": -92.6,
+        "score": 20,
         "weight": 4,
         "group": "weekly"
       }
@@ -1030,7 +1030,7 @@
         "text": "What happened to stablecoins will happen to tokenized equities -- blockchains are unapologetically superior to TradFi's rails.",
         "url": "https://x.com/cburniske/status/2105375638014308365",
         "time": "Wed Sep 30 19:14:02 +0000 2026",
-        "likes": 815,
+        "likes": 816,
         "retweets": 91
       },
       {
@@ -1060,14 +1060,14 @@
         "text": "the crypto era of the 2010s and early 2020s will forever be goated. anyone on the planet with an internet connection was able to own eventual trillion dollar assets at sub billion dollar valuations. by contrast almost every other tech wave including ai begins in the silicon",
         "url": "https://x.com/QwQiao/status/2105965905406566766",
         "time": "Fri Oct 02 10:19:33 +0000 2026",
-        "likes": 697,
-        "retweets": 48
+        "likes": 708,
+        "retweets": 50
       },
       {
         "text": "if this is not 90% of ur ai portfolio for the next few years, weighted by how close they sit to potus/vpotus, u r doing it wrong https://t.co/MaNohJDThY",
         "url": "https://x.com/QwQiao/status/2105295192982986845",
         "time": "Wed Sep 30 13:54:23 +0000 2026",
-        "likes": 2062,
+        "likes": 2061,
         "retweets": 150
       },
       {
@@ -1097,36 +1097,36 @@
         "text": "₿ears Anonymous https://t.co/hXfoeG8oHP",
         "url": "https://x.com/saylor/status/2106433880576360465",
         "time": "Sat Oct 03 17:19:07 +0000 2026",
-        "likes": 2287,
-        "retweets": 225
+        "likes": 4386,
+        "retweets": 432
       },
       {
         "text": "A milestone for Digital Credit: $STRC’s 30-day historical volatility is now 9%, below $SPY. We’re harnessing the power of Bitcoin while reducing price volatility for income investors. This is what financial engineering should do. https://t.co/Jka7oOesa1",
         "url": "https://x.com/saylor/status/2106384681419608310",
         "time": "Sat Oct 03 14:03:37 +0000 2026",
-        "likes": 2298,
-        "retweets": 247
+        "likes": 2704,
+        "retweets": 296
       },
       {
         "text": "Digital Credit is an alloy of capital and currency. $STRC https://t.co/BxarYKnaOx",
         "url": "https://x.com/saylor/status/2106130240716292556",
         "time": "Fri Oct 02 21:12:34 +0000 2026",
-        "likes": 2541,
-        "retweets": 265
+        "likes": 2659,
+        "retweets": 283
       },
       {
         "text": "Still living comfortably. $STRC https://t.co/FuqNd35DnG",
         "url": "https://x.com/saylor/status/2105995008109109423",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 4527,
-        "retweets": 355
+        "likes": 4625,
+        "retweets": 361
       },
       {
         "text": "https://t.co/B9M8TNiDCB",
         "url": "https://x.com/saylor/status/2105995010500088192",
         "time": "Fri Oct 02 12:15:12 +0000 2026",
-        "likes": 437,
-        "retweets": 31
+        "likes": 442,
+        "retweets": 32
       }
     ],
     "viktorfischer": [
@@ -1170,37 +1170,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "$1,000 Invested in Walt Disney (DIS) at Its 52-Week Low Is Worth This Much Today",
-        "url": "https://finnhub.io/api/news?id=764bf28449cb8c1ae666c61bdda1865edd8348c2f058ee64ead9bff304d6e954",
-        "datetime": 1791050040,
+        "headline": "3 Trends That Will Push Copper Higher in 2028",
+        "url": "https://finnhub.io/api/news?id=21df14319b7e7103f168cbafaf4c6cf433fb4d86298165e320739f7850264f5d",
+        "datetime": 1791057000,
         "source": "Yahoo"
       },
       {
-        "headline": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
-        "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
-        "datetime": 1791048900,
+        "headline": "Berkshire Hathaway Is Buying Up Shares of This Beaten-Down Stock. Should You Invest Too?",
+        "url": "https://finnhub.io/api/news?id=68345a1daae76e2d4ca5c7a5428221c21f14f1895c32d2cfd87ac0b6b647d7dd",
+        "datetime": 1791056160,
         "source": "Yahoo"
       },
       {
-        "headline": "Investors: This Is the Most Expensive Risk You Might Be Taking Without Even Realizing It",
-        "url": "https://finnhub.io/api/news?id=fe1158390b496a1bf2bec996790e02461cd9c99e22b01037637e37443046d49f",
-        "datetime": 1791046980,
+        "headline": "Dell Raised Its Quarterly Dividend by 20% This Year After Only Initiating Its Dividend Program in 2023. Can Passive Income Investors Trust the Stock?",
+        "url": "https://finnhub.io/api/news?id=868667daf30aa2606783ded81a5a7a798a019189729693ed3000f20d6f0a6440",
+        "datetime": 1791055200,
         "source": "Yahoo"
       },
       {
-        "headline": "How much Nvidia stock does CEO Jensen Huang actually own?",
-        "url": "https://finnhub.io/api/news?id=2268de4601104293da1cb4f44334b6837be428a83b65772a8538aea6cb6be7fb",
-        "datetime": 1791046380,
+        "headline": "Rocket Lab Just Signed the Biggest Commercial Electron Deal in Its History. Its Launch Backlog Now Tops 100.",
+        "url": "https://finnhub.io/api/news?id=4e46eb633f0349bd017ad93ac28f47e63123b61f69155551c0b79c25e7f2fbfb",
+        "datetime": 1791054421,
         "source": "Yahoo"
       },
       {
-        "headline": "Caterpillar Trades Above $800. Here's Why It Could Be a $1,000 Stock by 2028.",
-        "url": "https://finnhub.io/api/news?id=7ce045ced50f3900f62fefa7f2086ba4aa37b263a6f2ef9f6090a0a85989687c",
-        "datetime": 1791046260,
+        "headline": "Should You Buy Intel Stock as Its Foundry Turnaround Takes Shape?",
+        "url": "https://finnhub.io/api/news?id=ddbfbbb9fa7da9d6e25e8b59e16bf1b38aa3e71345fc9de013e5a36767dd358a",
+        "datetime": 1791054300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Alphabet (GOOGL) Prevails In Two US Antitrust Lawsuits",
+        "url": "https://finnhub.io/api/news?id=a67b61ce3b52370842677277426eb40658fad73d45752068de23fd418bbe9301",
+        "datetime": 1791054449,
+        "source": "Yahoo"
+      },
       {
         "headline": "The S&P 500 Is Not Enough: My 3-Stock Starter Portfolio for New Investors",
         "url": "https://finnhub.io/api/news?id=1808834a7d9308a7a154d508d24cd51f3a2a5c1e021d54fa4ef43aedd91d1b3f",
@@ -1224,12 +1230,6 @@
         "url": "https://finnhub.io/api/news?id=4ad332166f4319c2fcf4c9006101bd1eff1553040404abe77f126421aed826ae",
         "datetime": 1791016220,
         "source": "Benzinga"
-      },
-      {
-        "headline": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
-        "url": "https://finnhub.io/api/news?id=7a50acb9a5cf72d49e00b4619f0f2071e6a7367cf32f10afde07b48aea4fa9fa",
-        "datetime": 1791015140,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
@@ -1246,6 +1246,12 @@
         "source": "Yahoo"
       },
       {
+        "headline": "Robinhood’s new AI bots will trade stocks while you sleep",
+        "url": "https://finnhub.io/api/news?id=d8b832cf94d5c37e886b2ea0627548b71c712b7e9d3cc5855dac05281f3aefed",
+        "datetime": 1791012613,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Dan Ives Says Tesla Could Have A ‘Golden Year’ In 2027 — Robotaxis, Optimus And Cybercab In Focus",
         "url": "https://finnhub.io/api/news?id=cd5acbc96f4f7e5e641bdaaaf473b6d77f070580963e2b4f2e0ee2196c5e5361",
         "datetime": 1791011381,
@@ -1256,12 +1262,6 @@
         "url": "https://finnhub.io/api/news?id=65ea1f431dfbec59e9385e95702ccc0cda18a538d91cb49c6f944db7c48fcb82",
         "datetime": 1791010801,
         "source": "CNBC"
-      },
-      {
-        "headline": "Stocktwits Zero To Sixty —  Tesla Deliveries Clear The Street, BYD Widens The Gap, Rivian Holds Forecast, Ford And GM EV Sales Fall Hard",
-        "url": "https://finnhub.io/api/news?id=60d814640e97dc01325b04fc7406e6348ef22627208dd8789ecad9f0bcf5bf10",
-        "datetime": 1790987380,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
@@ -1469,6 +1469,12 @@
     ],
     "NEAR": [
       {
+        "headline": "The NEAR community is built different.\n\nWith an influx of new and returning builders shipping on the stack, Co-Founder Illia Polosukhin provides a clear place to start.\n\nWhat are you shipping first?",
+        "url": "https://x.com/NEARProtocol/status/2106498297489981835",
+        "datetime": 1791063305,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "The latest on NEAR Protocol, from scalability to quantum security:",
         "url": "https://x.com/NEARProtocol/status/2106383779350864317",
         "datetime": 1791036002,
@@ -1478,12 +1484,6 @@
         "headline": "Large-scale enterprise AI adoption hinges on both confidential computing and independent attestation.\n\nSVRN CEO Sal Ternullo on how NEAR AI delivers both in one stack, in production today.",
         "url": "https://x.com/NEARProtocol/status/2106149728077443095",
         "datetime": 1790980200,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR AI is now #1 on Lean Eval v1, Lean FRO's active benchmark of extremely hard formalization problems.\n\nThe system runs almost entirely on open-weight DeepSeek V4.1 Flash, so it's low cost and has n",
-        "url": "https://x.com/NEARProtocol/status/2106133117559877693",
-        "datetime": 1790976239,
         "source": "@NEARProtocol"
       }
     ],
