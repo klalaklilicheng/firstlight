@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T17:20:08.275Z",
+  "updated_at": "2026-10-04T20:43:04.648Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 85304,
-      "change_pct": 0.48
+      "price": 85595,
+      "change_pct": 0.87
     },
     {
       "symbol": "ETH",
-      "price": 2702.38,
-      "change_pct": 0.65
+      "price": 2702.05,
+      "change_pct": 0.57
     },
     {
       "symbol": "SOL",
-      "price": 121.66,
-      "change_pct": 1.48
+      "price": 120.91,
+      "change_pct": 0.84
     },
     {
       "symbol": "HYPE",
-      "price": 89.82,
-      "change_pct": 0.93
+      "price": 90.5,
+      "change_pct": 1.22
     },
     {
       "symbol": "ZEC",
-      "price": 1330.6,
-      "change_pct": 1.83
+      "price": 1334.5,
+      "change_pct": 0.59
     },
     {
       "symbol": "TAO",
-      "price": 304.05,
-      "change_pct": 3.24
+      "price": 302.76,
+      "change_pct": 1.26
     },
     {
       "symbol": "SKY",
-      "price": 2127.86,
-      "change_pct": 4.36
+      "price": 2215.83,
+      "change_pct": 9.47
     },
     {
       "symbol": "AAVE",
-      "price": 179.26,
-      "change_pct": -0.18
+      "price": 179.59,
+      "change_pct": -0.65
     },
     {
       "symbol": "BNB",
-      "price": 788.66,
-      "change_pct": -0.13
+      "price": 790.04,
+      "change_pct": 0.22
     },
     {
       "symbol": "NEAR",
-      "price": 4.95,
-      "change_pct": 4.96
+      "price": 4.98,
+      "change_pct": 3.84
     },
     {
       "symbol": "DOGE",
-      "price": 0.095366,
-      "change_pct": 2.14
+      "price": 0.095496,
+      "change_pct": 2.46
     },
     {
       "symbol": "SPACEX",
-      "price": 573.06,
-      "change_pct": 3.69
+      "price": 567.12,
+      "change_pct": 3.43
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "下个月有一场选举：加密货币现状",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "datetime": 1791138600,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "最高法院法官阿利托表示，由于参议院控制权悬而未决，他“考虑”退休",
+      "summary": "11 月中期选举后，参议院可能会转向民主党，从而危及唐纳德·特朗普总统可能提名的最高法院大法官。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+      "datetime": 1791136391,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "以下是未来一周我们在股市中关注的三件事",
       "summary": "石油和债券市场仍将是股市的关键驱动力。",
       "source": "CNBC",
@@ -725,24 +743,6 @@
       "datetime": 1790964215,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "纽约银行与 Kraken 母公司 Payward 就基础设施合作进行谈判",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-      "datetime": 1790962480,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "曾经价值 20 亿美元的以太坊 Layer-2 Blast 在资产暴跌 98% 后即将关闭",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/tech/2026/10/02/once-a-usd2-billion-ethereum-layer-2-blast-is-shutting-down-after-assets-plunge-98",
-      "datetime": 1790961335,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -808,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 39.7,
+    "score": 39.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 13.5,
-    "weekly_score": 26.2,
-    "btc_price": 85335,
+    "weekly_score": 26.3,
+    "btc_price": 85653.7,
     "fear_greed": 67,
     "indicators": [
       {
@@ -832,7 +832,7 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.003112,
+        "value": 0.00398,
         "score": 47,
         "weight": 5,
         "group": "daily"
@@ -902,15 +902,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 67.2,
+        "value": 67.5,
         "score": 79,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -98.7,
-        "score": 18,
+        "value": -94.3,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1035,7 +1035,7 @@
         "text": "What happened to stablecoins will happen to tokenized equities -- blockchains are unapologetically superior to TradFi's rails.",
         "url": "https://x.com/cburniske/status/2105375638014308365",
         "time": "Wed Sep 30 19:14:02 +0000 2026",
-        "likes": 816,
+        "likes": 817,
         "retweets": 91
       },
       {
@@ -1065,7 +1065,7 @@
         "text": "the crypto era of the 2010s and early 2020s will forever be goated. anyone on the planet with an internet connection was able to own eventual trillion dollar assets at sub billion dollar valuations. by contrast almost every other tech wave including ai begins in the silicon",
         "url": "https://x.com/QwQiao/status/2105965905406566766",
         "time": "Fri Oct 02 10:19:33 +0000 2026",
-        "likes": 715,
+        "likes": 717,
         "retweets": 51
       },
       {
@@ -1102,36 +1102,36 @@
         "text": "Don’t sleep on Bitcoin. https://t.co/25RRknpdj4",
         "url": "https://x.com/saylor/status/2106781251856154836",
         "time": "Sun Oct 04 16:19:27 +0000 2026",
-        "likes": 2442,
-        "retweets": 224
+        "likes": 5606,
+        "retweets": 503
       },
       {
         "text": "More orange than ever. https://t.co/on52TtcFO1",
         "url": "https://x.com/saylor/status/2106721794761879957",
         "time": "Sun Oct 04 12:23:11 +0000 2026",
-        "likes": 11041,
-        "retweets": 1062
+        "likes": 12936,
+        "retweets": 1219
       },
       {
         "text": "Digital Credit built on Bitcoin opens a new chapter in the history of finance. $STRC https://t.co/I3A3XaNAxX",
         "url": "https://x.com/saylor/status/2106519818388095074",
         "time": "Sat Oct 03 23:00:36 +0000 2026",
-        "likes": 3902,
-        "retweets": 512
+        "likes": 4094,
+        "retweets": 526
       },
       {
         "text": "₿ears Anonymous https://t.co/hXfoeG8oHP",
         "url": "https://x.com/saylor/status/2106433880576360465",
         "time": "Sat Oct 03 17:19:07 +0000 2026",
-        "likes": 7769,
-        "retweets": 754
+        "likes": 8020,
+        "retweets": 777
       },
       {
         "text": "A milestone for Digital Credit: $STRC’s 30-day historical volatility is now 9%, below $SPY. We’re harnessing the power of Bitcoin while reducing price volatility for income investors. This is what financial engineering should do. https://t.co/Jka7oOesa1",
         "url": "https://x.com/saylor/status/2106384681419608310",
         "time": "Sat Oct 03 14:03:37 +0000 2026",
-        "likes": 3700,
-        "retweets": 410
+        "likes": 3799,
+        "retweets": 423
       }
     ],
     "viktorfischer": [
@@ -1175,37 +1175,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "未来 20 年值得购买和持有的 4 只简单 Vanguard ETF",
-        "url": "https://finnhub.io/api/news?id=0edd7d7900fa928b0d4ae22f815765000f74c2a50e3c954595e3d1645216aa6b",
-        "datetime": 1791129000,
+        "headline": "Netflix (NFLX) 股票值得买入吗？",
+        "url": "https://finnhub.io/api/news?id=65535319e5c80c42efbbaaf91db99628448227a94ad098ca5f0e4466109642d6",
+        "datetime": 1791141900,
         "source": "Yahoo"
       },
       {
-        "headline": "亚马逊希望将 80 亿美元的 Nvidia 芯片从其账簿上剥离。 AI的融资模式开始改变吗？",
-        "url": "https://finnhub.io/api/news?id=00a6a27373db4d8893dcdcfae1a5c751a7be4379a50f1e3287e4ed2e5b11bc1d",
-        "datetime": 1791128309,
+        "headline": "将 7,500 美元平均分配给这 3 只股息股票，并在 2046 年之前忽略它们",
+        "url": "https://finnhub.io/api/news?id=7679ae9a0128f33acfaa9ec8e17bb0ddfb5b56d7d2f09976f43051e190f3af62",
+        "datetime": 1791141660,
         "source": "Yahoo"
       },
       {
-        "headline": "Broadcom 与 Anthropic 的 420 亿美元大规模芯片购买交易引发循环融资担忧",
-        "url": "https://finnhub.io/api/news?id=fa5a7e2ff4db3144d26d7401b8f1e3c66c64a9fe94fce1abfc45c0e57c65422d",
-        "datetime": 1791128028,
+        "headline": "Cathie Wood 预测这种加密货币可能会从此飙升 1,665%",
+        "url": "https://finnhub.io/api/news?id=29e393914167af462cf8d106c0b7aa4e32f71b8fab1f2fb373e2cee60553b921",
+        "datetime": 1791140040,
         "source": "Yahoo"
       },
       {
-        "headline": "美联储主席凯文·沃什仅用5个字形容美联储2023年以来的首次加息，称美联储“取消了一剂宽松政策”。投资者今年应该准备迎接更多加息吗？",
-        "url": "https://finnhub.io/api/news?id=699fc7caa3d11e37391a002e06266845820abf304c8243c798ccb33411792c51",
-        "datetime": 1791126600,
+        "headline": "“市场有充分的理由抛售”——但事实并非如此",
+        "url": "https://finnhub.io/api/news?id=dab1e6f0961a5942faa64d0cbfe10c4b9969197b810fa82ed86fadc4b276190f",
+        "datetime": 1791139728,
         "source": "Yahoo"
       },
       {
-        "headline": "CIBC 的新优先票据和强劲的季度是否刚刚改变了加拿大帝国商业银行 (TSX:CM) 的投资叙述？",
-        "url": "https://finnhub.io/api/news?id=f7b5ac1fde3f9bb2832f83ac522b11e20c9a54275b46f0127511cdc65fae3eca",
-        "datetime": 1791126544,
+        "headline": "为什么量子计算股票 Xanadu Quantum Technologies 9 月份暴跌 56.2%",
+        "url": "https://finnhub.io/api/news?id=3c78f220b4a40852cb207e14cabfe57164a2cad6e63b540e82db6accbee70fb5",
+        "datetime": 1791138919,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "人工智能所消耗的资金比历史上任何技术繁荣都多——现在困难的部分来了",
+        "url": "https://finnhub.io/api/news?id=b23db0738aeb4d842f9c5dd5f12c994c79f5c9048a3cd81959d5c7a009dd51f6",
+        "datetime": 1791129199,
+        "source": "Yahoo"
+      },
       {
         "headline": "LinkDaddy 向 AI Verified Registration 报告 152 万个 AI 爬虫请求",
         "url": "https://finnhub.io/api/news?id=f10bd690d927fe333449c920233038783e3b7dc085d6c9df4106dadc673a439c",
@@ -1229,15 +1235,21 @@
         "url": "https://finnhub.io/api/news?id=bc6d12d345b098c0f6ea24c9b561ebf6eff93ae6abe3125690a92cb4c6daa6f5",
         "datetime": 1791111165,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet 首次公布负自由现金流。这就是为什么这个里程碑对股东很重要。",
-        "url": "https://finnhub.io/api/news?id=33ba808bf1186222a73af9fd73abd1529b716f4a55035f363b1e7cac4e919b06",
-        "datetime": 1791107460,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "你可以比特斯拉做得更好。而是购买微米。",
+        "url": "https://finnhub.io/api/news?id=b211853ddfa0784ecc01f3bf289b394761d9e97a915076ccc2548bf65b8c2228",
+        "datetime": 1791136200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "特斯拉第三季度交付量比生产量多 22,141 辆。这是决定下一步的生产数量",
+        "url": "https://finnhub.io/api/news?id=adc7baba8df5714e5bc48d63a225c9ad3b5b6296ee613194c02e81cc944af446",
+        "datetime": 1791128921,
+        "source": "Yahoo"
+      },
       {
         "headline": "特斯拉。太空探索技术公司。星链。詹姆斯·阿尔图彻 (James Altucher) 表示，专家称三人均已死亡，但他们又重蹈覆辙",
         "url": "https://finnhub.io/api/news?id=193f05f0670d56389db75f7397cd7cd2c5a81e6b59aa94e1662e1dbdb0c43630",
@@ -1255,18 +1267,6 @@
         "url": "https://finnhub.io/api/news?id=5d7f79593bc9f48912b2934b565c2fa7d7a4c4e992675dae030eed4e0d155cc4",
         "datetime": 1791108025,
         "source": "Benzinga"
-      },
-      {
-        "headline": "Meltdown Income：2 只备兑看涨 ETF 收益率高达 13%",
-        "url": "https://finnhub.io/api/news?id=27aa17c46857fa49731828f1ee0872232adacdad3c57764b932fdeb7ba7c3ed1",
-        "datetime": 1791105300,
-        "source": "SeekingAlpha"
-      },
-      {
-        "headline": "Rivian 与 Lucid：这些电动汽车股票中只有一只能存活到 2030 年。以下是哪一只。",
-        "url": "https://finnhub.io/api/news?id=c9b7e5ee32c8413a354a0ac1501fd51e894bc95c3da731d4ccb39035dbb810e8",
-        "datetime": 1791095100,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
