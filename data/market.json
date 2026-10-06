@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T20:02:55.086Z",
+  "updated_at": "2026-10-06T01:12:23.892Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -23,8 +23,8 @@
     },
     {
       "symbol": "TSLA",
-      "price": 378.69,
-      "change_pct": 2.18
+      "price": 378.73,
+      "change_pct": 2.2
     },
     {
       "symbol": "GOOG",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 85719,
-      "change_pct": 0.38
+      "price": 86020,
+      "change_pct": -0.58
     },
     {
       "symbol": "ETH",
-      "price": 2708.48,
-      "change_pct": 0.3
+      "price": 2718.3,
+      "change_pct": -0.26
     },
     {
       "symbol": "SOL",
-      "price": 120.22,
-      "change_pct": -0.63
+      "price": 121.13,
+      "change_pct": 0
     },
     {
       "symbol": "HYPE",
-      "price": 94.21,
-      "change_pct": 4.41
+      "price": 94.66,
+      "change_pct": 5.04
     },
     {
       "symbol": "ZEC",
-      "price": 1340.16,
-      "change_pct": 0.76
+      "price": 1356.56,
+      "change_pct": 0.85
     },
     {
       "symbol": "TAO",
-      "price": 304.3,
-      "change_pct": 0.66
+      "price": 304.89,
+      "change_pct": 0.33
     },
     {
       "symbol": "SKY",
-      "price": 2056.74,
-      "change_pct": -6.55
+      "price": 2040.96,
+      "change_pct": -7.58
     },
     {
       "symbol": "AAVE",
-      "price": 182.25,
-      "change_pct": 1.05
+      "price": 184.57,
+      "change_pct": 2.06
     },
     {
       "symbol": "BNB",
-      "price": 787.28,
-      "change_pct": -0.24
+      "price": 785.69,
+      "change_pct": -1.3
     },
     {
       "symbol": "NEAR",
-      "price": 5.19,
-      "change_pct": 4.67
+      "price": 5.3,
+      "change_pct": 8.36
     },
     {
       "symbol": "DOGE",
-      "price": 0.095446,
-      "change_pct": 0.13
+      "price": 0.095422,
+      "change_pct": -1.01
     },
     {
       "symbol": "SPACEX",
-      "price": 592.97,
-      "change_pct": 4.56
+      "price": 647.46,
+      "change_pct": 11.03
     }
   ],
   "earnings": {
@@ -475,11 +475,47 @@
   },
   "news": [
     {
+      "headline": "在达到 126,000 美元峰值一年后，比特币的交易就像利率押注，而不是通胀对冲",
+      "summary": "<p dir=\"ltr\">比特币的走势现在看来更多地与美国利率和美元挂钩，而不是与加密货币相关的新闻挂钩，这使得周三的<a href=\"https://investinglive.com/central-banks/fed-minutes-preview-one-more-hike-guidance-meets-softer-data-as-october-odds-fade/\" rel=\"follow\">美联储会议纪要</a>和",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/a-year-after-its-126-000-peak-bitcoin-trades-like-a-rates-bet-not-an-inflation-hedge/",
+      "datetime": 1791241118,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Crypto PAC 宣布在美国中期选举中支持 32 名众议院候选人",
+      "summary": "Fairshake 表示，将在财政上支持 32 名众议院候选人，他们在 2025 年都投票支持 CLARITY 市场结构法案，因为该法案在参议院仍悬而未决。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791236550,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "FinCEN 因“合法活动”担忧而撤回拟议的加密货币混合规则",
+      "summary": "美国财政部下属的局表示，“作为特朗普政府放松管制议程的一部分”，它将撤回两项关于非托管钱包和加密货币混合器的拟议规则。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791233213,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "现代财政部寻求美国信托银行执照进行数字资产托管",
       "summary": "这家支付基础设施公司正在寻求联邦政府批准，通过一家有限目的国家信托银行提供稳定币托管和相关法定服务。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1791230032,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Crypto 的竞选团队 Fairshake 列出了美国众议院最喜欢的项目清单",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "datetime": 1791228066,
       "category": "crypto",
       "related": ""
     },
@@ -592,15 +628,6 @@
       "related": ""
     },
     {
-      "headline": "比特币涨势停滞在 87,334 美元以下。买家和卖家下一步必须做什么？",
-      "summary": "<p dir=\"ltr\">比特币的交易价格高于和低于今天的交易水平不变。   从基本面看，机构需求有所回归。 9 月份现货比特币 ETF 收入达 27 亿美元，美国现货 ETF 管理资产总额目前已超过 1110 亿美元。华尔街正在转向",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/bitcoin-rally-stalls-below-87-334-what-must-buyers-and-sellers-do-next/",
-      "datetime": 1791206341,
-      "category": "crypto",
-      "related": ""
-    },
-    {
       "headline": "尽管加密货币受到限制，中国 P2P 稳定币钱包增长了 43 倍：Chainaanalysis",
       "summary": "随着加密货币活动越来越多地转向直接钱包到钱包的转账，2024 年第一季度到 2026 年第二季度，中国发送 P2P 稳定币交易的独特钱包增长了 43 倍。",
       "source": "Cointelegraph",
@@ -631,7 +658,7 @@
       "headline": "太大而不能暂停：人工智能放缓会导致经济崩溃吗？",
       "summary": "减缓最强大人工智能模型开发速度的呼声与 8000 亿美元的投资热潮发生冲突。人工智能放缓会拖累美国经济吗？",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/features/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/magazine/too-big-to-pause-the-economic-stakes-of-an-ai-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1791203400,
       "category": "crypto",
       "related": ""
@@ -716,33 +743,6 @@
       "datetime": 1791196650,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "维韦克·拉马斯瓦米 (Vivek Ramaswamy) 的州长竞选缺乏总统竞选中的加密言论",
-      "summary": "这位俄亥俄州共和党候选人持有一家数字资产管理公司的股份，并获得了业内许多人的捐款，但避免将加密货币作为竞选的核心问题。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791195086,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "技术面信号表明比特币发生转变，以太坊为 Glamsterdam 做好准备：加密货币周即将到来",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "datetime": 1791193033,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Kraken 运营商 Payward 和新加坡海湾银行平台提供 24/7 机构加密货币结算",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "datetime": 1791192384,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -808,46 +808,46 @@
     }
   ],
   "btc_score": {
-    "score": 42.1,
+    "score": 39.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.7,
-    "weekly_score": 27.4,
-    "btc_price": 85717.9,
-    "fear_greed": 70,
+    "daily_score": 12.1,
+    "weekly_score": 27.6,
+    "btc_price": 85871.9,
+    "fear_greed": 67,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.5899,
-        "score": 20,
+        "value": 0.5785,
+        "score": 19,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": 189900000,
-        "score": 63,
+        "value": -159700000,
+        "score": 39,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": -0.000144,
-        "score": 45,
+        "value": -0.002029,
+        "score": 44,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.13,
-        "score": 42,
+        "value": 1.08,
+        "score": 39,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 70,
-        "score": 70,
+        "value": 67,
+        "score": 67,
         "weight": 5,
         "group": "daily"
       },
@@ -888,29 +888,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 1.07,
-        "score": 38,
+        "value": 1.08,
+        "score": 39,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 1.31,
+        "value": 1.3,
         "score": 27,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 67.5,
-        "score": 79,
+        "value": 67.7,
+        "score": 80,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -91.3,
-        "score": 20,
+        "value": -82.6,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -919,7 +919,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 23
+      "days_until": 22
     },
     "schedule": [
       "2025-01-29",
@@ -1029,7 +1029,7 @@
         "url": "https://x.com/cburniske/status/2105404356518678933",
         "time": "Wed Sep 30 21:08:09 +0000 2026",
         "likes": 340,
-        "retweets": 18
+        "retweets": 20
       },
       {
         "text": "What happened to stablecoins will happen to tokenized equities -- blockchains are unapologetically superior to TradFi's rails.",
@@ -1065,7 +1065,7 @@
         "text": "the crypto era of the 2010s and early 2020s will forever be goated. anyone on the planet with an internet connection was able to own eventual trillion dollar assets at sub billion dollar valuations. by contrast almost every other tech wave including ai begins in the silicon",
         "url": "https://x.com/QwQiao/status/2105965905406566766",
         "time": "Fri Oct 02 10:19:33 +0000 2026",
-        "likes": 722,
+        "likes": 723,
         "retweets": 52
       },
       {
@@ -1086,7 +1086,7 @@
         "text": "i enjoy watching chronological empire-border videos so i made https://t.co/ds64JKgStb https://t.co/v1Mov4jYCN",
         "url": "https://x.com/QwQiao/status/2102725594769498337",
         "time": "Wed Sep 23 11:43:43 +0000 2026",
-        "likes": 117,
+        "likes": 118,
         "retweets": 6
       },
       {
@@ -1099,39 +1099,39 @@
     ],
     "saylor": [
       {
+        "text": "What we do for Bitcoin echoes in eternity. https://t.co/DL0M3H5ck4",
+        "url": "https://x.com/saylor/status/2107225482991472757",
+        "time": "Mon Oct 05 21:44:40 +0000 2026",
+        "likes": 2655,
+        "retweets": 261
+      },
+      {
         "text": "I was told there would be an elevator. https://t.co/kWBSdRfjXi",
         "url": "https://x.com/saylor/status/2107144761555726484",
         "time": "Mon Oct 05 16:23:54 +0000 2026",
-        "likes": 4111,
-        "retweets": 345
+        "likes": 5782,
+        "retweets": 473
       },
       {
         "text": "Strategy reports a $21 billion gain on digital assets in Q3 2026. Last week, we acquired 334 $BTC and repurchased $176M of $STRC. As of 10/4/26, we hold 848,000 BTC and $5.7B of USD Assets. $MSTR https://t.co/jvwiJahdMm",
         "url": "https://x.com/saylor/status/2107079051525362126",
         "time": "Mon Oct 05 12:02:48 +0000 2026",
-        "likes": 8477,
-        "retweets": 896
+        "likes": 9236,
+        "retweets": 1000
       },
       {
         "text": "USD Duration is 3.6 yrs and STRC's BTC Credit is 50 bps assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $84,289. Learn more about Strategy's credit metrics: https://t.co/lB8tTrPJVE",
         "url": "https://x.com/saylor/status/2107079052859212247",
         "time": "Mon Oct 05 12:02:48 +0000 2026",
-        "likes": 477,
-        "retweets": 27
+        "likes": 501,
+        "retweets": 29
       },
       {
         "text": "Bitcoin can serve very different investors. $BTC offers direct ownership, $MSTR amplified exposure, and $STRC income with less 30-day price volatility than every Mag 7 stock. Digital Capital is the foundation for Digital Equity and Digital Credit. https://t.co/Jvenbigni4",
         "url": "https://x.com/saylor/status/2106858356656779529",
         "time": "Sun Oct 04 21:25:50 +0000 2026",
-        "likes": 3935,
-        "retweets": 421
-      },
-      {
-        "text": "Don’t sleep on Bitcoin. https://t.co/25RRknpdj4",
-        "url": "https://x.com/saylor/status/2106781251856154836",
-        "time": "Sun Oct 04 16:19:27 +0000 2026",
-        "likes": 10325,
-        "retweets": 966
+        "likes": 4040,
+        "retweets": 430
       }
     ],
     "viktorfischer": [
@@ -1146,7 +1146,7 @@
         "text": "Marketcap of base:0x832bcced5bd431b31663576490344ea1c0bea295 stables is less than $1B. Comparing to tradfi usage of $USD vs base:0x832bcced5bd431b31663576490344ea1c0bea295, the base:0x832bcced5bd431b31663576490344ea1c0bea295 stablecoin marketcap should be $100B =&gt;",
         "url": "https://x.com/viktorfischer/status/2107134118920348110",
         "time": "Mon Oct 05 15:41:37 +0000 2026",
-        "likes": 12,
+        "likes": 13,
         "retweets": 2
       },
       {
@@ -1175,97 +1175,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Monday's session: top gainers and losers in the dow jones index",
-        "url": "https://finnhub.io/api/news?id=0e88a10f0ad90454a5ff9c1b9d8c6be70f11a0beeaf98797fe4fc38372abaa20",
-        "datetime": 1791227409,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-        "url": "https://finnhub.io/api/news?id=b7c18e4ce8373b2dcb8bf352e2ddf6e61d31d2e8247495f06d086b29877dfd12",
-        "datetime": 1791223500,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "Stock Market Today: Dow Up As Microsoft, SpaceX Pop; Brazil Play, Chip Leader Offer Entries (Live Coverage)",
-        "url": "https://finnhub.io/api/news?id=9cb40806a1edccc2be135ed333e8a8f34bac9588a9f2e93874bf96ad7b0c0645",
-        "datetime": 1791223003,
+        "headline": "Here's What $10,000 in Sandisk Stock Could Be Worth if Memory Demand Holds Through 2030",
+        "url": "https://finnhub.io/api/news?id=fd8e7c904ebcd38461a7f1cb6abee974bb641ffb1ff2346a56dd7193b826a37e",
+        "datetime": 1791239700,
         "source": "Yahoo"
       },
       {
-        "headline": "Nebius Has Been One of 2026's Best-Performing AI Cloud Stocks. Here's What $1,000 Invested Could Be Worth by 2030.",
-        "url": "https://finnhub.io/api/news?id=bb9889cf6aac8336ba6aac0398e5b677c71a2b7085b8924573d1e1fbfd4b1b75",
-        "datetime": 1791222600,
+        "headline": "Could Disney End Up Being the Next Nike?",
+        "url": "https://finnhub.io/api/news?id=a9ed2089c1d40b78fff4499c5e66114c3257b8797663b1cfe9059a545a8f091b",
+        "datetime": 1791238501,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Nu Holdings Stock Rallied Today",
-        "url": "https://finnhub.io/api/news?id=64d2f4eed99083fd5569a09541cc2b1dd5c10bfd5d06c692547ffc8002d701da",
-        "datetime": 1791221910,
+        "headline": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+        "url": "https://finnhub.io/api/news?id=8b05235329873b3a6aefc1263a0519dcf558fad2478525d7f31f7e0d1584bf58",
+        "datetime": 1791238172,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Elon Musk Confirmed Terafab Talks With TSMC. Intel Has Been Its Only Named Chip Partner.",
+        "url": "https://finnhub.io/api/news?id=aa7639a3c3a678974d5c11023c41de02bbca0849f0cd6e88e4114867505ad50e",
+        "datetime": 1791237421,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Why Campbell's Soup Stock Plummeted by 16% in September",
+        "url": "https://finnhub.io/api/news?id=81050affc1d4dbdac55735cd8067a60dc2f54b36ba11953dc55c992762408a0f",
+        "datetime": 1791236238,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Sector Update: Consumer Stocks Advance in Afternoon Trading",
-        "url": "https://finnhub.io/api/news?id=e63c89cc5d8ba3a9e8cd7cd757cbe585c1e1085229a33a821356e959ebf74b6c",
-        "datetime": 1791222236,
+        "headline": "Microsoft cutting off a best-seller with no extension on Oct. 13",
+        "url": "https://finnhub.io/api/news?id=33c9cbccef88a394d540d6db7b324d6c25668c05ac1ff3bd30a73e1d2d816677",
+        "datetime": 1791241920,
         "source": "Yahoo"
       },
       {
-        "headline": "Here's What a $1,000 Investment in Alphabet Stock Could Be Worth in 5 Years. (Hint: It Could More Than Double.)",
-        "url": "https://finnhub.io/api/news?id=50bb441c497d700cfcb8b2b5aa9c3bb5a4522adeab57c6621eb214efce2e040e",
-        "datetime": 1791221700,
+        "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
+        "url": "https://finnhub.io/api/news?id=9767c1ce7486f49d389c61175a1b19215ba5e905cd954d700da4629eee67a564",
+        "datetime": 1791236825,
         "source": "Yahoo"
       },
       {
-        "headline": "Airbnb CEO: ChatGPT Traffic “Converts Better” Than Google’s. That’s a Problem for Alphabet",
-        "url": "https://finnhub.io/api/news?id=87e571fdbc88cba377c5694db4d9693eeda62a58ade7f30d386b2629a69c0abc",
-        "datetime": 1791220975,
+        "headline": "Update: Nasdaq Composite Reaches New High, 10-Year Yield Tops 5.3%",
+        "url": "https://finnhub.io/api/news?id=b4ad436004be207328b3bc3fcea619ade6737b8632b7adedb0724372db330b0e",
+        "datetime": 1791232363,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",
-        "url": "https://finnhub.io/api/news?id=cce2b8118f4ec0562be2b34fb75a4187fb2c2fd4ce6fa84035917edcd60d451e",
-        "datetime": 1791219574,
+        "headline": "The Simple Reason Meta and Google Will Win AI: Only “2% of US Households” Pay for It.",
+        "url": "https://finnhub.io/api/news?id=898527f37f586052a6c22e453923ba0d2fc57d7669983be07029fbdc106f6390",
+        "datetime": 1791229332,
         "source": "Yahoo"
       },
       {
-        "headline": "For Sensible Investors, The Worst Performing Mag 7 Should Be a No-Brainer",
-        "url": "https://finnhub.io/api/news?id=bb28a266f4297b491c2f9acdedc41da8362f158aa5442837d80b83d6967f9cf4",
-        "datetime": 1791218734,
+        "headline": "Update: Equity Markets Rise Intraday Despite Higher Yields",
+        "url": "https://finnhub.io/api/news?id=be7f281847b240432fa54378d280bcc48e4724a298cbe9004e03e357e23cb47d",
+        "datetime": 1791224092,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-        "url": "https://finnhub.io/api/news?id=b7c18e4ce8373b2dcb8bf352e2ddf6e61d31d2e8247495f06d086b29877dfd12",
-        "datetime": 1791223500,
-        "source": "ChartMill"
-      },
-      {
-        "headline": "Nasdaq hits record high as AI stocks rally amid high bond yields",
-        "url": "https://finnhub.io/api/news?id=eeda09aa32c5116813a8b009d8aa12a51c7a03e68d14b4ebcd7e4713e8516da3",
-        "datetime": 1791220755,
+        "headline": "LCID Stock Stays Flat After-Hours On Q3 Sales Dip While TSLA, RIVN Beat Estimates",
+        "url": "https://finnhub.io/api/news?id=fadbb4f03b808d98398992a895ff8954a03560bb64a330e0adcc40136d59d6c7",
+        "datetime": 1791243080,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk Hits Trillionaire Status for the 2nd Time After SpaceX and Tesla Stocks Rise",
-        "url": "https://finnhub.io/api/news?id=b5ef63599ec0bfc98f61bad8ae77bf7f5a7b79dc409669a30f45e8a2aa7fdf10",
-        "datetime": 1791220471,
+        "headline": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
+        "url": "https://finnhub.io/api/news?id=8b05235329873b3a6aefc1263a0519dcf558fad2478525d7f31f7e0d1584bf58",
+        "datetime": 1791238172,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla’s Q3 Deliveries Beat UBS’ Estimates — But Energy Storage Miss Keeps This Analyst Neutral",
-        "url": "https://finnhub.io/api/news?id=356bd59b33fde8616cda78ee3d1508ec0c13e0e739496644bbd5b27f7755ab9c",
-        "datetime": 1791219811,
+        "headline": "Elon Musk Agrees Tesla's Early Custom AI Chit Bet May be More Important Than Ever, Backs TSLA Engineer's Warning: ‘Current Compute Shortage Is Only the Tip of the Iceberg’",
+        "url": "https://finnhub.io/api/news?id=0e3cc89cee51d5790561b10f32ebf23ec12e9e7563eb5b4920b19149499431a8",
+        "datetime": 1791237605,
         "source": "Yahoo"
       },
       {
-        "headline": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
-        "url": "https://finnhub.io/api/news?id=d89809b5fe7ae90f25828d4185f4c2b74754d57ddca04f3477497806713e73cf",
-        "datetime": 1791219759,
+        "headline": "SPCX Stock Ends Higher On Starship Fuel Plans, Analyst Optimism And TSMC Talks",
+        "url": "https://finnhub.io/api/news?id=805ce9bb4226391a3512b96a45de01670b386160af8fb3ad5f9a32dbe46ad4ca",
+        "datetime": 1791235563,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Dow Jones Futures: Nasdaq Hits Record Highs; TSMC, Nvidia, Elon Musk-Led SpaceX, Tesla Rally",
+        "url": "https://finnhub.io/api/news?id=e2c64a14c0e41f421fd4f7a4b4ae51527ec82124dcaaade89b0072a2daea6227",
+        "datetime": 1791234660,
         "source": "Yahoo"
       }
     ],
@@ -1335,6 +1335,12 @@
     ],
     "BTC": [
       {
+        "headline": "A year after its $126,000 peak, bitcoin trades like a rates bet, not an inflation hedge",
+        "url": "https://investinglive.com/cryptocurrency/a-year-after-its-126-000-peak-bitcoin-trades-like-a-rates-bet-not-an-inflation-hedge/",
+        "datetime": 1791241118,
+        "source": "Forexlive"
+      },
+      {
         "headline": "Treasury yields at 5% threaten extending Bitcoin’s best quarter since 2017",
         "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1791219188,
@@ -1345,12 +1351,6 @@
         "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1791212997,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin rally stalls below $87,334. What must buyers and sellers do next?",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-rally-stalls-below-87-334-what-must-buyers-and-sellers-do-next/",
-        "datetime": 1791206341,
-        "source": "Forexlive"
       },
       {
         "headline": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
@@ -1433,6 +1433,12 @@
     ],
     "DOGE": [
       {
+        "headline": "Quiet crypto scene but of things lots is still happening in dogecoin.  For a quiet time and a 'old meme joke', this is a lot of work being put in by a lot of people.  Anyone else working on something ",
+        "url": "https://x.com/dogecoin/status/2107244340611625009",
+        "datetime": 1791241176,
+        "source": "@dogecoin"
+      },
+      {
         "headline": "A huge milestone for Dogecoin. Builder shibes! The DogeOS test net is waiting for you!\n\nOther cryptos coming off of a down market cat nap * and dogecoin out making moves to be the only currency the wo",
         "url": "https://x.com/dogecoin/status/2105301887679701198",
         "datetime": 1790778059,
@@ -1442,12 +1448,6 @@
         "headline": "Much ecosystem news soon, with more to follow.\n\n*(Disclaimer: nothing wrong with cats or sleeping off the down market hangover. Shibes understand that it can be very traumatic for the average crypto b",
         "url": "https://x.com/dogecoin/status/2105301889705504780",
         "datetime": 1790778059,
-        "source": "@dogecoin"
-      },
-      {
-        "headline": "The MyDoge team have been grinding relentlessly for many moon-moons on their upgraded self-custodial wallet 🔥  Thanks for being an awesome part of the Dogecoin Ecosystem &amp; Community for half a de",
-        "url": "https://x.com/dogecoin/status/2101544140060409869",
-        "datetime": 1789882142,
         "source": "@dogecoin"
       }
     ],
@@ -1474,6 +1474,12 @@
     ],
     "NEAR": [
       {
+        "headline": "MyNearWallet will be sunset on October 31.\n\nYour assets are stored onchain. You only need a new way to access them. Move them to  to swap, pay, earn, and more across 30+ chains, confidential by defaul",
+        "url": "https://x.com/NEARProtocol/status/2107247398216958014",
+        "datetime": 1791241905,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "GPT-6.1 Sol is now on NEAR AI Cloud.\n\nReasoning for complex coding. 1050K context. Optimized for agents. \n\nTry it free 👇",
         "url": "https://x.com/NEARProtocol/status/2107199144234541494",
         "datetime": 1791230400,
@@ -1483,12 +1489,6 @@
         "headline": "Devs are flocking to NEAR. Use this quickstart from @ilblackdragon as inspo. \n\nYou can combine confidential inference from NEAR AI and universal execution from NEAR Intents to build stuff that was nea",
         "url": "https://x.com/NEARProtocol/status/2107187818573222154",
         "datetime": 1791227700,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Grayscale names NEAR among the leaders of crypto's AI sector, calling it the \"platform for agentic commerce.\"\n\nNEAR was co-founded by @ilblackdragon, co-author of \"Attention Is All You Need,\" the pape",
-        "url": "https://x.com/NEARProtocol/status/2107176494497972368",
-        "datetime": 1791225000,
         "source": "@NEARProtocol"
       }
     ],
