@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T03:35:13.843Z",
+  "updated_at": "2026-10-10T10:19:10.395Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 82522,
-      "change_pct": 0.46
+      "price": 82761,
+      "change_pct": 0.16
     },
     {
       "symbol": "ETH",
-      "price": 2489.13,
-      "change_pct": 0.11
+      "price": 2492.87,
+      "change_pct": -0.22
     },
     {
       "symbol": "SOL",
-      "price": 109.55,
-      "change_pct": -0.48
+      "price": 109.58,
+      "change_pct": -0.63
     },
     {
       "symbol": "HYPE",
-      "price": 83.98,
-      "change_pct": -1.56
+      "price": 84.04,
+      "change_pct": -2.4
     },
     {
       "symbol": "ZEC",
-      "price": 1211.43,
-      "change_pct": -0.6
+      "price": 1223.34,
+      "change_pct": -0.27
     },
     {
       "symbol": "TAO",
-      "price": 276.61,
-      "change_pct": 0.93
+      "price": 283.62,
+      "change_pct": 3.32
     },
     {
       "symbol": "SKY",
-      "price": 1755.98,
-      "change_pct": -0.7
+      "price": 1784.7,
+      "change_pct": 0
     },
     {
       "symbol": "AAVE",
-      "price": 170.79,
-      "change_pct": 3.18
+      "price": 174.23,
+      "change_pct": 4.63
     },
     {
       "symbol": "BNB",
-      "price": 744.31,
-      "change_pct": 0.64
+      "price": 749.12,
+      "change_pct": 0.91
     },
     {
       "symbol": "NEAR",
-      "price": 4.95,
-      "change_pct": 4.64
+      "price": 5.3,
+      "change_pct": 10.53
     },
     {
       "symbol": "DOGE",
-      "price": 0.086196,
-      "change_pct": 1.57
+      "price": 0.085939,
+      "change_pct": 1.21
     },
     {
       "symbol": "SPACEX",
-      "price": 635.1,
-      "change_pct": 3.75
+      "price": 631.6,
+      "change_pct": -2.34
     }
   ],
   "earnings": {
@@ -474,6 +474,51 @@
   },
   "news": [
     {
+      "headline": "技术负责人表示欧盟可以抵御流氓人工智能风险：报告",
+      "summary": "OpenAI 和 Anthropic 事件引发了全球关注，人们担心流氓人工智能代理可能会超出人类的控制范围。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791621666,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "与此同时，萨姆·奥尔特曼支持的比特币人寿保险公司筹集了更多资金",
+      "summary": "本轮融资是在宏观不稳定的情况下，国际上对比特币人寿保险保单的需求增加而进行的。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791616243,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币波动性大幅下降，但价格极端波动比 2018 年更加频繁",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "datetime": 1791610980,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Robinhood Chain 放缓从费用蔓延到交易，交易量下降超过 40%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "datetime": 1791607475,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "XRP Ledger 修复了十年之久的错误，该错误可能会从无到有创造数十亿美元的 XRP",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "datetime": 1791606007,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Visa 调查显示，到 2031 年，近一半亚太地区消费者愿意使用稳定币",
       "summary": "",
       "source": "CoinDesk",
@@ -697,51 +742,6 @@
       "datetime": 1791555155,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "蜻蜓合作伙伴拒绝“地堡模式”的厄运论，呼吁采取积极的区块链措施",
-      "summary": "Dragonfly 的 Qureshi 认为，在人工智能模型破坏加密签名的情况下，资产迁移并不是真正的解决方案，并敦促区块链采取积极主动的措施。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791553762,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "法国是世界上对比特币爱好者最危险的地方：7 个月内发生 90 次攻击",
-      "summary": "法国当局在七个月内记录了 90 起与加密货币相关的案件，涉及绑架、勒索、威胁和暴力盗窃。是什么让法国成为如此热点？",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791552600,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "科技股的韧性令投资者感到困惑。期权市场可能提供一些线索",
-      "summary": "在期权交易场，交易员对自初夏以来科技股回调的准备最为充分。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-      "datetime": 1791551250,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周五股市最值得关注的 10 件事",
-      "summary": "在昨天科技股引发的大幅抛售之后，今天上午股市出现反弹。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "datetime": 1791550892,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "DWF Labs 子公司因涉嫌代币锁定违规而起诉 BitGo 并索赔 1.41 亿美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "datetime": 1791548634,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -764,6 +764,11 @@
       "company": "Anthropic",
       "news": [
         {
+          "headline": "技术负责人表示欧盟可以抵御流氓人工智能风险：报告",
+          "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1791621666
+        },
+        {
           "headline": "加密货币项目申请 Anthropic 的新前沿人工智能安全扫描仪",
           "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1791524073
@@ -773,6 +778,11 @@
     {
       "company": "OpenAI",
       "news": [
+        {
+          "headline": "技术负责人表示欧盟可以抵御流氓人工智能风险：报告",
+          "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1791621666
+        },
         {
           "headline": "Common Sense Media 发现，面向青少年的 ChatGPT 不一定“比以前的版本更安全”",
           "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
@@ -802,12 +812,12 @@
     }
   ],
   "btc_score": {
-    "score": 38.1,
+    "score": 38.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 13.4,
-    "weekly_score": 24.7,
-    "btc_price": 82599.1,
+    "weekly_score": 24.8,
+    "btc_price": 82837.2,
     "fear_greed": 56,
     "indicators": [
       {
@@ -819,22 +829,22 @@
       },
       {
         "name": "ETF 每日净流入",
-        "value": -1300000,
-        "score": 50,
+        "value": 21100000,
+        "score": 51,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.001565,
-        "score": 46,
+        "value": -0.00311,
+        "score": 43,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.51,
-        "score": 67,
+        "value": 1.53,
+        "score": 69,
         "weight": 3,
         "group": "daily"
       },
@@ -847,7 +857,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.66,
+        "value": 1.68,
         "score": 39,
         "weight": 12,
         "group": "weekly"
@@ -875,7 +885,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 82.9,
+        "value": 82.8,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -896,15 +906,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.7,
-        "score": 71,
+        "value": 63.1,
+        "score": 72,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -82.6,
-        "score": 22,
+        "value": -74.9,
+        "score": 24,
         "weight": 4,
         "group": "weekly"
       }
@@ -1022,29 +1032,29 @@
         "text": "Tokens with sustained demand, and diminishing annual supply inflation, stand to do well over time, and explains why some “dinocoins” have awoken this cycle.",
         "url": "https://x.com/cburniske/status/2108567570605654232",
         "time": "Fri Oct 09 14:37:38 +0000 2026",
-        "likes": 94,
+        "likes": 99,
         "retweets": 5
       },
       {
         "text": "Alongside strong demand growth, Jamie also points out new token supply has fallen from 26.5% annually in Dec 2021 to 3.3% today.",
         "url": "https://x.com/cburniske/status/2108567566528729340",
         "time": "Fri Oct 09 14:37:37 +0000 2026",
-        "likes": 258,
+        "likes": 271,
         "retweets": 13
       },
       {
         "text": "Market seems to be waking up to the insane throughput of Fibre, one of the few architectures able to satisfy the mind-numbing scale of an agentic wave of demand.",
         "url": "https://x.com/cburniske/status/2108272607594434651",
         "time": "Thu Oct 08 19:05:34 +0000 2026",
-        "likes": 440,
+        "likes": 443,
         "retweets": 39
       },
       {
         "text": "Love the smell of fear in an early bull",
         "url": "https://x.com/cburniske/status/2108251395938013321",
         "time": "Thu Oct 08 17:41:16 +0000 2026",
-        "likes": 2114,
-        "retweets": 178
+        "likes": 2125,
+        "retweets": 180
       },
       {
         "text": "woke up from a long nap, what'd i miss?",
@@ -1059,28 +1069,28 @@
         "text": "bears threw the kitchen sink (ai breaks cryptography, yields, oil, openai reves, ledger hack) and btc *checks prices* is green on the 24h",
         "url": "https://x.com/QwQiao/status/2108560948529357135",
         "time": "Fri Oct 09 14:11:19 +0000 2026",
-        "likes": 405,
-        "retweets": 40
+        "likes": 448,
+        "retweets": 43
       },
       {
         "text": "historical 30-year survival rate of the average public company: ~10% \nhistorical long-term survival rate of fiat monies: 0%\nhistorical 30-year survival rate of ecdsa: 100%",
         "url": "https://x.com/QwQiao/status/2108510350047920573",
         "time": "Fri Oct 09 10:50:16 +0000 2026",
-        "likes": 51,
+        "likes": 53,
         "retweets": 1
       },
       {
         "text": "over the next 5yrs, the probability of a us debt crisis and the probability of any individual tech company getting existentially disrupted by ai are materially higher than the probability of ai/quantum breaking crypto \n\nso sell ur btc, but sell it into what? cash and bonds that",
         "url": "https://x.com/QwQiao/status/2108506872609141229",
         "time": "Fri Oct 09 10:36:27 +0000 2026",
-        "likes": 840,
-        "retweets": 91
+        "likes": 888,
+        "retweets": 96
       },
       {
         "text": "no one can break cryptography except for mayyybe a handful of labs and governments and even if they do they are not going to hack ur coins for a tiny gain while revealing they have a nuclear weapon \n\nso chill the fuck out",
         "url": "https://x.com/QwQiao/status/2108226846324060271",
         "time": "Thu Oct 08 16:03:43 +0000 2026",
-        "likes": 834,
+        "likes": 833,
         "retweets": 77
       },
       {
@@ -1088,7 +1098,7 @@
         "url": "https://x.com/QwQiao/status/2108155365145878896",
         "time": "Thu Oct 08 11:19:41 +0000 2026",
         "likes": 1044,
-        "retweets": 103
+        "retweets": 104
       }
     ],
     "saylor": [
@@ -1096,36 +1106,36 @@
         "text": "All signs point to Bitcoin. https://t.co/W71NpeMkAX",
         "url": "https://x.com/saylor/status/2108528489917776267",
         "time": "Fri Oct 09 12:02:21 +0000 2026",
-        "likes": 4948,
-        "retweets": 458
+        "likes": 5248,
+        "retweets": 491
       },
       {
         "text": "Probably nothing.",
         "url": "https://x.com/saylor/status/2108300606985077203",
         "time": "Thu Oct 08 20:56:49 +0000 2026",
-        "likes": 3966,
-        "retweets": 357
+        "likes": 4105,
+        "retweets": 371
       },
       {
         "text": "Four of CoinGecko’s top 10 tokenized stocks are based on $MSTR and $STRC. Digital Equity and Digital Credit are going global. https://t.co/FGz8pv6e3u",
         "url": "https://x.com/saylor/status/2108218466406908057",
         "time": "Thu Oct 08 15:30:25 +0000 2026",
-        "likes": 1810,
-        "retweets": 211
+        "likes": 1850,
+        "retweets": 213
       },
       {
         "text": "Digital Credit is raising the bar for income investors. $STRC https://t.co/iYbQDpgzYx",
         "url": "https://x.com/saylor/status/2108171319842132396",
         "time": "Thu Oct 08 12:23:05 +0000 2026",
-        "likes": 2288,
-        "retweets": 229
+        "likes": 2328,
+        "retweets": 235
       },
       {
         "text": "Cool credit. Hot equity. $STRC $MSTR https://t.co/JAmSYZR8iq",
         "url": "https://x.com/saylor/status/2107976985297494124",
         "time": "Wed Oct 07 23:30:52 +0000 2026",
-        "likes": 2449,
-        "retweets": 223
+        "likes": 2456,
+        "retweets": 227
       }
     ],
     "viktorfischer": [
@@ -1169,69 +1179,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "With Oil Over $100 and a $7 Billion Offer on the Table, Is ConocoPhillips the Most Interesting Oil Stock to Buy Right Now?",
-        "url": "https://finnhub.io/api/news?id=cd8e913506414fc0f537ba425bd8e38264d8b31587522e2d63c944ba50620f35",
-        "datetime": 1791596100,
+        "headline": "2 Dividend Stocks Worth Holding Forever (Including 1 Dividend King)",
+        "url": "https://finnhub.io/api/news?id=f66b0423a2a2b3fa6a5276bf2b8754aec04cf879a0e567a372fda1137e62cc17",
+        "datetime": 1791625800,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Palantir Stock Powered to a More Than 5% Gain Today",
-        "url": "https://finnhub.io/api/news?id=3cecb423e83b2d3527b73c5468da1bfdbe5b8ced5d2093546471cc565869cef6",
-        "datetime": 1791591392,
+        "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% to $24.8 Billion Last Quarter, With the Gemini App Reaching 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+        "url": "https://finnhub.io/api/news?id=6bea1f0ad582883844af27c929239d63c4e89a68d209c266ac30b10264e83fe7",
+        "datetime": 1791625740,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Moderna Stock Surged Today",
-        "url": "https://finnhub.io/api/news?id=f56bd64c9b264ca01fd46e7475092dc34ffa8ab476200e9a0d2c7a0ddb5ec296",
-        "datetime": 1791590851,
+        "headline": "The 10-Year Treasury Yield Is Near a 24-Year High. History Says Stock Investors Should Do This 1 Thing.",
+        "url": "https://finnhub.io/api/news?id=d7a45c20e2aa8bd2a020e090427685aeb2f13f7b504bd997416f45135ab79152",
+        "datetime": 1791625502,
         "source": "Yahoo"
       },
       {
-        "headline": "What Is Physical AI? Nvidia Is the Stock I'd Buy to Own It.",
-        "url": "https://finnhub.io/api/news?id=279861e38a471d720b9f9f11539ab19c25cb0885ef6bc7d6153ad16624995f70",
-        "datetime": 1791590461,
+        "headline": "Palantir Stock Rose 60% in the Third Quarter. Here's What Its Other Big Quarters Did Next.",
+        "url": "https://finnhub.io/api/news?id=90b14a12247df914672da0b02818a860591207cf4329fca3847e984c71860f9c",
+        "datetime": 1791624782,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Quanta Services Stock Flew Higher on Friday",
-        "url": "https://finnhub.io/api/news?id=872c21ba687524a0c5b196a67675b5f428a3b4130cf99b36c54ae2dd7165649c",
-        "datetime": 1791589815,
+        "headline": "PayPal Is Yesterday's News. Is This Fintech Stock the Better Buy?",
+        "url": "https://finnhub.io/api/news?id=b042cd8ba2492112364e08130b3a862e0cbdc3ddabe98171dce99cd8583ddff3",
+        "datetime": 1791624000,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Tech Edge Will be Onsite at Money20/20 2026 in Las Vegas",
-        "url": "https://finnhub.io/api/news?id=b6382fd6de755b68d7a074b2b4820da8de199292ac510da7a69d9953f06dd2a5",
-        "datetime": 1791584466,
+        "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% to $24.8 Billion Last Quarter, With the Gemini App Reaching 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+        "url": "https://finnhub.io/api/news?id=6bea1f0ad582883844af27c929239d63c4e89a68d209c266ac30b10264e83fe7",
+        "datetime": 1791625740,
         "source": "Yahoo"
       },
       {
-        "headline": "Microsoft vs. Alphabet: Which AI Cloud Stock Is Cheaper After the Capital Spending?",
-        "url": "https://finnhub.io/api/news?id=3e46aa14aebfbe2956ee8255726d8af6a69e90a7b7afe9d82fde9e9856f2a09d",
-        "datetime": 1791580827,
+        "headline": "Cathie Wood-Led Ark Invest Sells AMD, SPCX, GOOG Stocks — But Loads Up On CMPS, NTLA, CRSP And Other Healthcare Firms",
+        "url": "https://finnhub.io/api/news?id=35c31d32c5cef3edbb11bcd2a91ba841cc85bdbde509b3d2f9df13d64db91ae9",
+        "datetime": 1791612152,
         "source": "Yahoo"
       },
       {
-        "headline": "Are markets still overconcentrated in tech heading into earnings season?",
-        "url": "https://finnhub.io/api/news?id=ed78a891e9e8edaf64ffa329aaafae031836fe1d66cc691f988092441d276b1a",
-        "datetime": 1791579855,
+        "headline": "S&P 500 Index Concentration - Room At The Top",
+        "url": "https://finnhub.io/api/news?id=5222804a331d6195d734c895846797694e420afaf28c306ce296846077083e17",
+        "datetime": 1791606300,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Which Stocks Have the Biggest Exposure to Anthropic's Growth?",
+        "url": "https://finnhub.io/api/news?id=f6f70c9d6b8ebfe7b1372cf4e2ea005fb3a773c4264b2763179188008db07565",
+        "datetime": 1791606000,
         "source": "Yahoo"
       },
       {
-        "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-        "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-        "datetime": 1791575469,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What Could Surprise CoreWeave Stock Investors On The Upside?",
-        "url": "https://finnhub.io/api/news?id=7a66c1ae291228008e867b66f618835d7689b935959909a9860572fe7fffb98f",
-        "datetime": 1791574896,
+        "headline": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week",
+        "url": "https://finnhub.io/api/news?id=5ed97e542b4f63c0d4753236fb6f6abbb87923357a06e16b4a65ec207a3f3edd",
+        "datetime": 1791602797,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Solana’s New Addresses Surge 124% While SOL Price Drops 9%. What’s Going On?",
+        "url": "https://finnhub.io/api/news?id=f4d8924b618ca4a58d40427d6c2d578c4ffc9c4bf24238e10541fa427d857176",
+        "datetime": 1791620494,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla Drops “Full Self-Driving” in Europe, Where Its Revenue Fell 10% Last Year",
+        "url": "https://finnhub.io/api/news?id=40ffa75a3815cb4a8c73ec65f4af311fb7276b0ccb30c5f828e19c1798c05e80",
+        "datetime": 1791615178,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "The Hidden Risk In This Record-Breaking Market",
+        "url": "https://finnhub.io/api/news?id=25c9fd3aa4181b193f642f12cb69304ac2130209a29d310805872cba84474226",
+        "datetime": 1791602100,
+        "source": "SeekingAlpha"
+      },
       {
         "headline": "Stocktwits Zero To Sixty — Tesla Shanghai Exports Shine, Texas Cybercab Fleet Scales, And Lucid Built Fewer Cars Than It Sold",
         "url": "https://finnhub.io/api/news?id=e5bde37a505721c13b8cef4d946e0683abff1c949244dce34cc90f254409a564",
@@ -1242,24 +1270,6 @@
         "headline": "Weekly Wrap: Rising Treasury Yields Sink Bitcoin",
         "url": "https://finnhub.io/api/news?id=6926f57532a418c63dcbb5dfc81fb0dd720ba1ba698592723ae879660d2e59c3",
         "datetime": 1791579120,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Sector Update: Consumer Stocks Rise Late Afternoon",
-        "url": "https://finnhub.io/api/news?id=4bf1c55308cb0fec95eb17650c3c090a99ff1faebec0cc2ef7980b15d9e47416",
-        "datetime": 1791575469,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla is one of the 'clearest ways to own physical AI,' analyst says",
-        "url": "https://finnhub.io/api/news?id=8de008c1648491066823775c4275abe7573446715841a6c429601433bcfaa03a",
-        "datetime": 1791573743,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla's China Retail Sales Fall 9% Even as Shanghai Exports Surge 58%",
-        "url": "https://finnhub.io/api/news?id=944790fe393b3933662a5437347aec4faeeae83e6e89db1152ade76489f3247f",
-        "datetime": 1791571517,
         "source": "Yahoo"
       }
     ],
@@ -1298,6 +1308,18 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+        "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1791616243,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+        "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+        "datetime": 1791610980,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
         "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1791559236,
@@ -1313,18 +1335,6 @@
         "headline": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
         "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
         "datetime": 1791544144,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-        "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-        "datetime": 1791542662,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Thailand opens door to locally listed bitcoin and ether ETFs",
-        "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-        "datetime": 1791541015,
         "source": "CoinDesk"
       }
     ],
