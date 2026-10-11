@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T20:25:15.859Z",
+  "updated_at": "2026-10-11T00:01:49.216Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 82987,
-      "change_pct": 0.76
+      "price": 82918,
+      "change_pct": 0.44
     },
     {
       "symbol": "ETH",
-      "price": 2506.42,
-      "change_pct": 1.14
+      "price": 2504.34,
+      "change_pct": 0.75
     },
     {
       "symbol": "SOL",
-      "price": 110.21,
-      "change_pct": 1.14
+      "price": 110,
+      "change_pct": 0.87
     },
     {
       "symbol": "HYPE",
-      "price": 85.2,
-      "change_pct": 2.07
-    },
-    {
-      "symbol": "ZEC",
-      "price": 1221.27,
-      "change_pct": 1.08
-    },
-    {
-      "symbol": "TAO",
-      "price": 284.77,
-      "change_pct": 4.59
-    },
-    {
-      "symbol": "SKY",
-      "price": 1775.05,
-      "change_pct": 2.24
-    },
-    {
-      "symbol": "AAVE",
-      "price": 170.16,
-      "change_pct": 1.81
-    },
-    {
-      "symbol": "BNB",
-      "price": 750.29,
+      "price": 85.39,
       "change_pct": 1.55
     },
     {
+      "symbol": "ZEC",
+      "price": 1219.68,
+      "change_pct": 1.31
+    },
+    {
+      "symbol": "TAO",
+      "price": 284.73,
+      "change_pct": 3.57
+    },
+    {
+      "symbol": "SKY",
+      "price": 1773.51,
+      "change_pct": 1.4
+    },
+    {
+      "symbol": "AAVE",
+      "price": 168.36,
+      "change_pct": 0.66
+    },
+    {
+      "symbol": "BNB",
+      "price": 749.63,
+      "change_pct": 1.07
+    },
+    {
       "symbol": "NEAR",
-      "price": 5.33,
-      "change_pct": 14.08
+      "price": 5.29,
+      "change_pct": 8.52
     },
     {
       "symbol": "DOGE",
-      "price": 0.085895,
-      "change_pct": 1.41
+      "price": 0.085701,
+      "change_pct": 0.44
     },
     {
       "symbol": "SPACEX",
-      "price": 597.93,
-      "change_pct": -6.61
+      "price": 597.85,
+      "change_pct": -5.91
     }
   ],
   "earnings": {
@@ -474,7 +474,7 @@
   },
   "news": [
     {
-      "headline": "股市创下新高并大幅下跌：波动的人工智能交易如何影响上周的市场",
+      "headline": "股市创下新高并大幅下跌：波动的人工智能交易如何影响上周市场",
       "summary": "为了平衡我们的人工智能风险，我们投入了更多的大量现金。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
@@ -807,17 +807,17 @@
     }
   ],
   "btc_score": {
-    "score": 38.1,
+    "score": 37.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.5,
+    "daily_score": 13.3,
     "weekly_score": 24.6,
-    "btc_price": 83052.7,
+    "btc_price": 82995.1,
     "fear_greed": 56,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.533,
+        "value": 0.5367,
         "score": 18,
         "weight": 10,
         "group": "daily"
@@ -831,15 +831,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.000775,
-        "score": 45,
+        "value": -0.002718,
+        "score": 44,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.5,
-        "score": 67,
+        "value": 1.48,
+        "score": 65,
         "weight": 3,
         "group": "daily"
       },
@@ -901,14 +901,14 @@
       },
       {
         "name": "周线 RSI",
-        "value": 63.4,
+        "value": 63.3,
         "score": 72,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -96,
+        "value": -93.9,
         "score": 19,
         "weight": 4,
         "group": "weekly"
@@ -918,7 +918,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 18
+      "days_until": 17
     },
     "schedule": [
       "2025-01-29",
@@ -1027,7 +1027,7 @@
         "text": "Tokens with sustained demand, and diminishing annual supply inflation, stand to do well over time, and explains why some “dinocoins” have awoken this cycle.",
         "url": "https://x.com/cburniske/status/2108567570605654232",
         "time": "Fri Oct 09 14:37:38 +0000 2026",
-        "likes": 108,
+        "likes": 110,
         "retweets": 5
       },
       {
@@ -1041,8 +1041,8 @@
         "text": "Market seems to be waking up to the insane throughput of Fibre, one of the few architectures able to satisfy the mind-numbing scale of an agentic wave of demand.",
         "url": "https://x.com/cburniske/status/2108272607594434651",
         "time": "Thu Oct 08 19:05:34 +0000 2026",
-        "likes": 446,
-        "retweets": 39
+        "likes": 447,
+        "retweets": 40
       },
       {
         "text": "Love the smell of fear in an early bull",
@@ -1064,14 +1064,14 @@
         "text": "if u r bearish because “ai breaks crypto”, one observation that should give u pause is that a looot of ppl seem to think this is a quantum computer story, when it’s in fact a classical algorithm story. i bet 99% of ppl who sold their coins don’t even know wtf the difference is.",
         "url": "https://x.com/QwQiao/status/2108882284283613353",
         "time": "Sat Oct 10 11:28:12 +0000 2026",
-        "likes": 255,
-        "retweets": 13
+        "likes": 269,
+        "retweets": 14
       },
       {
         "text": "bears threw the kitchen sink (ai breaks cryptography, yields, oil, openai reves, ledger hack) and btc *checks prices* is green on the 24h",
         "url": "https://x.com/QwQiao/status/2108560948529357135",
         "time": "Fri Oct 09 14:11:19 +0000 2026",
-        "likes": 461,
+        "likes": 462,
         "retweets": 47
       },
       {
@@ -1085,7 +1085,7 @@
         "text": "over the next 5yrs, the probability of a us debt crisis and the probability of any individual tech company getting existentially disrupted by ai are materially higher than the probability of ai/quantum breaking crypto \n\nso sell ur btc, but sell it into what? cash and bonds that",
         "url": "https://x.com/QwQiao/status/2108506872609141229",
         "time": "Fri Oct 09 10:36:27 +0000 2026",
-        "likes": 907,
+        "likes": 909,
         "retweets": 96
       },
       {
@@ -1101,29 +1101,29 @@
         "text": "All signs point to Bitcoin. https://t.co/W71NpeMkAX",
         "url": "https://x.com/saylor/status/2108528489917776267",
         "time": "Fri Oct 09 12:02:21 +0000 2026",
-        "likes": 5823,
-        "retweets": 555
+        "likes": 5934,
+        "retweets": 569
       },
       {
         "text": "Probably nothing.",
         "url": "https://x.com/saylor/status/2108300606985077203",
         "time": "Thu Oct 08 20:56:49 +0000 2026",
-        "likes": 4320,
-        "retweets": 401
+        "likes": 4339,
+        "retweets": 403
       },
       {
         "text": "Four of CoinGecko’s top 10 tokenized stocks are based on $MSTR and $STRC. Digital Equity and Digital Credit are going global. https://t.co/FGz8pv6e3u",
         "url": "https://x.com/saylor/status/2108218466406908057",
         "time": "Thu Oct 08 15:30:25 +0000 2026",
-        "likes": 1905,
-        "retweets": 219
+        "likes": 1907,
+        "retweets": 220
       },
       {
         "text": "Digital Credit is raising the bar for income investors. $STRC https://t.co/iYbQDpgzYx",
         "url": "https://x.com/saylor/status/2108171319842132396",
         "time": "Thu Oct 08 12:23:05 +0000 2026",
-        "likes": 2342,
-        "retweets": 237
+        "likes": 2346,
+        "retweets": 239
       },
       {
         "text": "Cool credit. Hot equity. $STRC $MSTR https://t.co/JAmSYZR8iq",
@@ -1174,6 +1174,18 @@
   "portfolio_news": {
     "NVDA": [
       {
+        "headline": "VOO Doesn't Hold SpaceX, Taiwan Semiconductor, Samsung Electronics, SK Hynix, or ASML. Meet the Vanguard ETF That Does.",
+        "url": "https://finnhub.io/api/news?id=f1b67d7cfed671be3de632bd1afffede8f4a8531c32c9b799f2a0ae4c427eb9c",
+        "datetime": 1791665493,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Where Will Credo Technology Be in 3 Years?",
+        "url": "https://finnhub.io/api/news?id=c6d15ba1c270706a1ea0b7ab7d786d04590e905d6dacd7e9a434760017ecca03",
+        "datetime": 1791664260,
+        "source": "Yahoo"
+      },
+      {
         "headline": "2 Cryptocurrencies Poised to Surge 100% in the Coming Years That Savvy Investors Are Already Buying",
         "url": "https://finnhub.io/api/news?id=14c18f2b4928acb0441085673740898e8ae9a94e25c0b29030fe8127ec023cf4",
         "datetime": 1791661260,
@@ -1189,18 +1201,6 @@
         "headline": "Could $1,000 Invested in Bitcoin Help You Retire a Millionaire?",
         "url": "https://finnhub.io/api/news?id=897947f1c75f6c3e5bf0adf4e81ea33faf69c695d6cd90c133dbf8a32585287c",
         "datetime": 1791659220,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Is It Too Late to Buy Palantir Stock?",
-        "url": "https://finnhub.io/api/news?id=ba8cd1956b3d0fe6f23703ccbae1213d97b7f9b49b00a8fef444d7dd5db09e29",
-        "datetime": 1791658200,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "History Says Abbott Stock Could More Than Double by 2036. Here’s Why I Just Added It to My Portfolio.",
-        "url": "https://finnhub.io/api/news?id=859e82577547b18a243a9ac7014dac846a9d2e786648027974aab72ad1d9852e",
-        "datetime": 1791657301,
         "source": "Yahoo"
       }
     ],
@@ -1412,6 +1412,12 @@
     ],
     "NEAR": [
       {
+        "headline": "NEAR was designed with quantum in mind since 2018. \n\nNEAR accounts already support post-quantum signing on mainnet.",
+        "url": "https://x.com/NEARProtocol/status/2109035052919373882",
+        "datetime": 1791668115,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "NEAR Intents GM @AlexAuroraDev breaks down the NEAR x Zcash connection and the beautiful simplicity of",
         "url": "https://x.com/NEARProtocol/status/2108912937305784484",
         "datetime": 1791639000,
@@ -1421,12 +1427,6 @@
         "headline": "SVRN has acquired FastNEAR.  CEO of SVRN @sal_ternullo breaks down why they did it, what this means, and where they go from here:",
         "url": "https://x.com/NEARProtocol/status/2108687701608378456",
         "datetime": 1791585300,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/NEARProtocol/status/2108647041266073724",
-        "datetime": 1791575606,
         "source": "@NEARProtocol"
       }
     ],
