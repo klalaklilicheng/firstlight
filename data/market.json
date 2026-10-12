@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T22:36:48.218Z",
+  "updated_at": "2026-10-12T01:57:09.762Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 83577,
-      "change_pct": 0.7
+      "price": 83420,
+      "change_pct": 0.57
     },
     {
       "symbol": "ETH",
-      "price": 2531.22,
-      "change_pct": 1
+      "price": 2533.34,
+      "change_pct": 1.02
     },
     {
       "symbol": "SOL",
-      "price": 111,
-      "change_pct": 0.61
+      "price": 111.02,
+      "change_pct": 0.97
     },
     {
       "symbol": "HYPE",
-      "price": 86.15,
-      "change_pct": 0.79
+      "price": 86.32,
+      "change_pct": 1
     },
     {
       "symbol": "ZEC",
-      "price": 1252.53,
-      "change_pct": 2.5
+      "price": 1266.7,
+      "change_pct": 3.32
     },
     {
       "symbol": "TAO",
-      "price": 292.38,
-      "change_pct": 2.49
+      "price": 292.61,
+      "change_pct": 2.71
     },
     {
       "symbol": "SKY",
-      "price": 1863.16,
-      "change_pct": 4.74
+      "price": 1842.15,
+      "change_pct": 3.72
     },
     {
       "symbol": "AAVE",
-      "price": 171.23,
-      "change_pct": 1.24
+      "price": 170.1,
+      "change_pct": 0.7
     },
     {
       "symbol": "BNB",
-      "price": 752.24,
-      "change_pct": 0.28
+      "price": 750.35,
+      "change_pct": 0.31
     },
     {
       "symbol": "NEAR",
-      "price": 5.78,
-      "change_pct": 8.6
+      "price": 5.82,
+      "change_pct": 9.97
     },
     {
       "symbol": "DOGE",
-      "price": 0.086604,
-      "change_pct": 0.93
+      "price": 0.086356,
+      "change_pct": 0.47
     },
     {
       "symbol": "SPACEX",
-      "price": 613.03,
-      "change_pct": 2.52
+      "price": 614.04,
+      "change_pct": 2.79
     }
   ],
   "earnings": {
@@ -474,12 +474,39 @@
   },
   "news": [
     {
+      "headline": "XRP Ledger 为无限 XRP 漏洞辩护紧急补丁",
+      "summary": "XRP Ledger 基金会反驳了有关其紧急安全补丁被强加给网络运营商的说法。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791768089,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "账本攻击蔓延至欧盟，人工智能发现“18万亿瑞波币”漏洞：霍德勒文摘",
+      "summary": "一名用户报告从欧洲一家大型零售商处购买了被篡改的账本。安全研究人员利用 AI 发现了一个“价值 940 亿美元”的 XRP 漏洞，但仅获得了 25 万美元的赏金。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1791759473,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "以下是本周我们在股市中关注的 6 大事件",
       "summary": "本周财报季即将到来，四家俱乐部持股将公布财报。两份主要通胀报告也已发布。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/11/here-are-the-6-big-things-were-watching-in-the-stock-market-this-week.html",
       "datetime": 1791747965,
       "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "每个人都希望 SCOTUS 占领预测市场：加密货币现状",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "datetime": 1791743400,
+      "category": "crypto",
       "related": ""
     },
     {
@@ -564,7 +591,7 @@
       "related": ""
     },
     {
-      "headline": "股市创下新高并大幅下跌：波动的人工智能交易如何影响上周的市场",
+      "headline": "股市创下新高并大幅下跌：波动的人工智能交易如何影响上周市场",
       "summary": "为了平衡我们的人工智能风险，我们投入了更多的大量现金。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
@@ -715,33 +742,6 @@
       "datetime": 1791580914,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "美国计划本周扣押与伊朗有关的 10 亿美元加密货币：Scott Bessent",
-      "summary": "作为美国制裁的一部分，美国财政部宣布扣押了几起与对伊朗制裁有关的数字资产。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791578357,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "纽约永久禁止摄氏度创始人 Mashinsky 参与 3500 万美元的欺诈和解",
-      "summary": "该协议解决了 2023 年针对摄氏度创始人的民事欺诈诉讼，并永久禁止他进入加密货币、证券和大宗商品行业。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791576842,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "THORChain 高管指责 Tether 暂时冻结 USDT 金库",
-      "summary": "该网络的技术联合创始人查德·巴拉福德 (Chad Barraford) 表示，资金被冻结，然后又在没有任何解释的情况下解冻。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1791572643,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -812,12 +812,12 @@
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 13.3,
     "weekly_score": 26.3,
-    "btc_price": 83663,
-    "fear_greed": 57,
+    "btc_price": 83570.3,
+    "fear_greed": 58,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.5367,
+        "value": 0.546,
         "score": 18,
         "weight": 10,
         "group": "daily"
@@ -831,22 +831,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.001708,
-        "score": 46,
+        "value": -0.000641,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.4,
-        "score": 60,
+        "value": 1.39,
+        "score": 59,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 57,
-        "score": 57,
+        "value": 58,
+        "score": 58,
         "weight": 5,
         "group": "daily"
       },
@@ -894,22 +894,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.25,
+        "value": 1.26,
         "score": 25,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 65,
+        "value": 64.9,
         "score": 75,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -86.4,
-        "score": 21,
+        "value": -79.1,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -918,7 +918,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 17
+      "days_until": 16
     },
     "schedule": [
       "2025-01-29",
@@ -1027,35 +1027,35 @@
         "text": "In 2017 a wise man told me: “When you think it’s over, it’ll just be getting started.”\n\nI think we’ll reflect upon 2026 as such a period for blockchains.",
         "url": "https://x.com/cburniske/status/2109304969421840737",
         "time": "Sun Oct 11 15:27:48 +0000 2026",
-        "likes": 1317,
-        "retweets": 123
+        "likes": 1506,
+        "retweets": 141
       },
       {
         "text": "Tokens with sustained demand, and diminishing annual supply inflation, stand to do well over time, and explains why some “dinocoins” have awoken this cycle.",
         "url": "https://x.com/cburniske/status/2108567570605654232",
         "time": "Fri Oct 09 14:37:38 +0000 2026",
-        "likes": 119,
+        "likes": 120,
         "retweets": 7
       },
       {
         "text": "Alongside strong demand growth, Jamie also points out new token supply has fallen from 26.5% annually in Dec 2021 to 3.3% today.",
         "url": "https://x.com/cburniske/status/2108567566528729340",
         "time": "Fri Oct 09 14:37:37 +0000 2026",
-        "likes": 288,
+        "likes": 289,
         "retweets": 18
       },
       {
         "text": "Market seems to be waking up to the insane throughput of Fibre, one of the few architectures able to satisfy the mind-numbing scale of an agentic wave of demand.",
         "url": "https://x.com/cburniske/status/2108272607594434651",
         "time": "Thu Oct 08 19:05:34 +0000 2026",
-        "likes": 461,
+        "likes": 462,
         "retweets": 41
       },
       {
         "text": "Love the smell of fear in an early bull",
         "url": "https://x.com/cburniske/status/2108251395938013321",
         "time": "Thu Oct 08 17:41:16 +0000 2026",
-        "likes": 2138,
+        "likes": 2140,
         "retweets": 179
       }
     ],
@@ -1064,15 +1064,15 @@
         "text": "fwiw i agree with terence tao’s core argument, that it’s counter productive to use ai to brute force solutions without generating genuine insights. however, it appears to me that in the latest openai release ai has in fact generated novel insights even if the process is brute",
         "url": "https://x.com/QwQiao/status/2109258451314414031",
         "time": "Sun Oct 11 12:22:57 +0000 2026",
-        "likes": 22,
+        "likes": 23,
         "retweets": 1
       },
       {
         "text": "mathematicians' negative reaction towards ai is the epitome of ilya's quote \"if you value intelligence above all other human qualities you’re gonna have a bad time\"\n\nof all domains, pure math is the purest form of intellectual pursuit, with virtually no immediate \"real-world\" https://t.co/zA3DIHGsF2",
         "url": "https://x.com/QwQiao/status/2109253355100905648",
         "time": "Sun Oct 11 12:02:42 +0000 2026",
-        "likes": 393,
-        "retweets": 26
+        "likes": 470,
+        "retweets": 31
       },
       {
         "text": "if u r bearish because “ai breaks crypto”, one observation that should give u pause is that a looot of ppl seem to think this is a quantum computer story, when it’s in fact a classical algorithm story. i bet 99% of ppl who sold their coins don’t even know wtf the difference is.",
@@ -1085,14 +1085,14 @@
         "text": "bears threw the kitchen sink (ai breaks cryptography, yields, oil, openai reves, ledger hack) and btc *checks prices* is green on the 24h",
         "url": "https://x.com/QwQiao/status/2108560948529357135",
         "time": "Fri Oct 09 14:11:19 +0000 2026",
-        "likes": 468,
+        "likes": 469,
         "retweets": 47
       },
       {
         "text": "historical 30-year survival rate of the average public company: ~10% \nhistorical long-term survival rate of fiat monies: 0%\nhistorical 30-year survival rate of ecdsa: 100%",
         "url": "https://x.com/QwQiao/status/2108510350047920573",
         "time": "Fri Oct 09 10:50:16 +0000 2026",
-        "likes": 53,
+        "likes": 54,
         "retweets": 1
       }
     ],
@@ -1101,35 +1101,35 @@
         "text": "There’s always room for more orange. https://t.co/hndZf0Acp7",
         "url": "https://x.com/saylor/status/2109253809176232059",
         "time": "Sun Oct 11 12:04:30 +0000 2026",
-        "likes": 11499,
-        "retweets": 1071
+        "likes": 12083,
+        "retweets": 1108
       },
       {
         "text": "All signs point to Bitcoin. https://t.co/W71NpeMkAX",
         "url": "https://x.com/saylor/status/2108528489917776267",
         "time": "Fri Oct 09 12:02:21 +0000 2026",
-        "likes": 6313,
-        "retweets": 608
+        "likes": 6316,
+        "retweets": 607
       },
       {
         "text": "Probably nothing.",
         "url": "https://x.com/saylor/status/2108300606985077203",
         "time": "Thu Oct 08 20:56:49 +0000 2026",
-        "likes": 4377,
+        "likes": 4381,
         "retweets": 404
       },
       {
         "text": "Four of CoinGecko’s top 10 tokenized stocks are based on $MSTR and $STRC. Digital Equity and Digital Credit are going global. https://t.co/FGz8pv6e3u",
         "url": "https://x.com/saylor/status/2108218466406908057",
         "time": "Thu Oct 08 15:30:25 +0000 2026",
-        "likes": 1929,
+        "likes": 1931,
         "retweets": 220
       },
       {
         "text": "Digital Credit is raising the bar for income investors. $STRC https://t.co/iYbQDpgzYx",
         "url": "https://x.com/saylor/status/2108171319842132396",
         "time": "Thu Oct 08 12:23:05 +0000 2026",
-        "likes": 2362,
+        "likes": 2363,
         "retweets": 240
       }
     ],
@@ -1138,7 +1138,7 @@
         "text": "Excited to be backing @AntSeed - a protocol for decentralized AI inference 🚀 \n\nWhy now?\n. 90%+ of inference TOKENS will run on open-weight models\n. 90%+ of those tokens will be burned by AI agents, not humans. Agents don't have loyalty to one API\n\n@AntSeed is the permissionless",
         "url": "https://x.com/viktorfischer/status/2107684444865998871",
         "time": "Wed Oct 07 04:08:25 +0000 2026",
-        "likes": 8,
+        "likes": 9,
         "retweets": 3
       },
       {
@@ -1152,7 +1152,7 @@
         "text": "Marketcap of base:0x832bcced5bd431b31663576490344ea1c0bea295 stables is less than $1B. Comparing to tradfi usage of $USD vs base:0x832bcced5bd431b31663576490344ea1c0bea295, the base:0x832bcced5bd431b31663576490344ea1c0bea295 stablecoin marketcap should be $100B =&gt;",
         "url": "https://x.com/viktorfischer/status/2107134118920348110",
         "time": "Mon Oct 05 15:41:37 +0000 2026",
-        "likes": 15,
+        "likes": 16,
         "retweets": 2
       },
       {
@@ -1174,33 +1174,33 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "History Says This Will Happen to AMD Stock in 2027",
-        "url": "https://finnhub.io/api/news?id=5a0df68ae0ee258cbb2fcad2d9c11df6e6f128c8d5cce3fc08d89fbc95491936",
-        "datetime": 1791754500,
+        "headline": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
+        "url": "https://finnhub.io/api/news?id=268402ca4ba5360b71536086597da3438fd85a1c5b48d0b3d40093224f69ae0f",
+        "datetime": 1791762902,
         "source": "Yahoo"
       },
       {
-        "headline": "Treasury Yields Are Now Above 5%. Here's Why That's Bearish For Bitcoin.",
-        "url": "https://finnhub.io/api/news?id=f46598660e98130840dff493be3a12cc4dd3f4b1ca8bff01db9123a2a5fba8fa",
-        "datetime": 1791753900,
+        "headline": "Dow Jones Futures Rise As Trump Claims Russia-Ukraine 'Energy Ceasefire'; ASML, Nvidia Chipmaker Taiwan Semi Earnings Loom",
+        "url": "https://finnhub.io/api/news?id=ed25adcec36bfeaf4bbd72151bdf89fbe721c57a345f77016680c9d44028466c",
+        "datetime": 1791762799,
         "source": "Yahoo"
       },
       {
-        "headline": "3 AI Stocks To Own In October 2026",
-        "url": "https://finnhub.io/api/news?id=122bfd7df8b803c0ca64e1fd6e1a83652cc1d1e2efbb095893b835d07c595f6d",
-        "datetime": 1791753372,
+        "headline": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret.",
+        "url": "https://finnhub.io/api/news?id=48e3301fa687f34640b060c5a4135c07a2eb52670133fb68e27497a37c862e98",
+        "datetime": 1791762600,
         "source": "Yahoo"
       },
       {
-        "headline": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
-        "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
-        "datetime": 1791752400,
+        "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
+        "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
+        "datetime": 1791760800,
         "source": "Yahoo"
       },
       {
-        "headline": "AST SpaceMobile Shipped 3 More BlueBird Satellites to Cape Canaveral. Here's How Many It Needs in Orbit Before Revenue Shows Up.",
-        "url": "https://finnhub.io/api/news?id=794b79c7ccdeb07003137095e656147e1eb66f79aea851ea26fb53bdf19d4a29",
-        "datetime": 1791749760,
+        "headline": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next.",
+        "url": "https://finnhub.io/api/news?id=717f178bc903713631201bfe611ab4eb3a523f6112d10a795dc61737454f6076",
+        "datetime": 1791759000,
         "source": "Yahoo"
       }
     ],
@@ -1238,6 +1238,18 @@
     ],
     "TSLA": [
       {
+        "headline": "Elon Musk’s 250,000 Cybertruck Goal Falls Well Short: New Data Shows Only 13% of Goal Sold Annually",
+        "url": "https://finnhub.io/api/news?id=ce451ca76f764ec2674fcbb9e6d5a6b159cf1228b8df2decd3e1f083addfa827",
+        "datetime": 1791761410,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Forget Chasing Volume. Here's the Most Active Stock I'd Actually Hold for 5 Years.",
+        "url": "https://finnhub.io/api/news?id=2945336890d7786e356d796c62f2a4ac16657e67e077c716cf623d4d440deac2",
+        "datetime": 1791760800,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Forget the Recent Delivery Beat: Here's the Key Number That Will Decide Investors' Reaction to Tesla's Earnings",
         "url": "https://finnhub.io/api/news?id=db472ad82dcab6773385554482d6b9c631cb1c016f31a90c77992662879c0f65",
         "datetime": 1791752400,
@@ -1254,21 +1266,15 @@
         "url": "https://finnhub.io/api/news?id=3c025dbaf329a9aa0c05cfebe1d9f379d7dacb2d04d2e7574d1ed6095798e950",
         "datetime": 1791749182,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-        "url": "https://finnhub.io/api/news?id=2597804cae0fd34fe837db72dc90e2806e399a02ffd74fb2eecc52e13f2878a2",
-        "datetime": 1791738663,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "It Now Takes $4.4B To Make the Forbes 400: See America's 10 Richest People",
-        "url": "https://finnhub.io/api/news?id=efeecc16c57e17c46d04074221da4494af5c4c2acfc5edb20566d9cdfd57eaf9",
-        "datetime": 1791738028,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Stellar Now Hosts More Tokenized Assets Than the XRP Ledger. Why Is XRP Still Worth Nearly 13 Times More?",
+        "url": "https://finnhub.io/api/news?id=b6ac0a03e40b994326cff97901fa22ce98c171df55e31ebe923d1f7810db2983",
+        "datetime": 1791756852,
+        "source": "Yahoo"
+      },
       {
         "headline": "Bitcoin, XRP Get the Spotlight—Could These 5 Altcoins Be Next?",
         "url": "https://finnhub.io/api/news?id=011571cccd9b8c39a81bc46756d0bd4f94e6b073453f20876ad71f3f744d9226",
@@ -1291,12 +1297,6 @@
         "headline": "Blockchain is having a moment: A look at Citrini Research's map of winners",
         "url": "https://finnhub.io/api/news?id=a4dbd982091d2543cb48f0d75d4d11726cd7abde92b5d8891ba1a4b661b4ed44",
         "datetime": 1791565200,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "JPMorgan forecasts $50B in crypto inflows this year",
-        "url": "https://finnhub.io/api/news?id=45d4419f088384f72e7d22a3fc8592b562f39c3ee92709faeb6f47c03f8eb887",
-        "datetime": 1791562200,
         "source": "Yahoo"
       }
     ],
