@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:28:56.813Z",
+  "updated_at": "2026-10-16T02:27:44.926Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 82126,
-      "change_pct": 0.79
+      "price": 82072,
+      "change_pct": 1.51
     },
     {
       "symbol": "ETH",
-      "price": 2438.89,
-      "change_pct": 0.88
+      "price": 2438.29,
+      "change_pct": 3.15
     },
     {
       "symbol": "SOL",
-      "price": 105.22,
-      "change_pct": 0.82
+      "price": 105.38,
+      "change_pct": 3.17
     },
     {
       "symbol": "HYPE",
-      "price": 81.55,
-      "change_pct": 0.81
+      "price": 81.54,
+      "change_pct": 3.1
     },
     {
       "symbol": "ZEC",
-      "price": 1219.17,
-      "change_pct": 6.69
+      "price": 1224.02,
+      "change_pct": 10.62
     },
     {
       "symbol": "TAO",
-      "price": 277.55,
-      "change_pct": 2.39
+      "price": 280.67,
+      "change_pct": 7.7
     },
     {
       "symbol": "SKY",
-      "price": 1632.61,
-      "change_pct": 0.47
+      "price": 1630.95,
+      "change_pct": 2.39
     },
     {
       "symbol": "AAVE",
-      "price": 156.71,
-      "change_pct": 1.77
+      "price": 159.69,
+      "change_pct": 6.27
     },
     {
       "symbol": "BNB",
-      "price": 726.51,
-      "change_pct": -0.43
+      "price": 727.35,
+      "change_pct": 1.34
     },
     {
       "symbol": "NEAR",
-      "price": 5.24,
-      "change_pct": 7.01
+      "price": 5.31,
+      "change_pct": 12.67
     },
     {
       "symbol": "DOGE",
-      "price": 0.08087,
-      "change_pct": -1.32
+      "price": 0.081396,
+      "change_pct": 2.26
     },
     {
       "symbol": "SPACEX",
-      "price": 604.95,
-      "change_pct": -2.36
+      "price": 617.34,
+      "change_pct": -0.04
     }
   ],
   "earnings": {
@@ -474,6 +474,24 @@
   },
   "news": [
     {
+      "headline": "MSCI adopts index exclusion rules that could oust Strategy",
+      "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792111700,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+      "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792107259,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
       "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
       "source": "Cointelegraph",
@@ -724,24 +742,6 @@
       "datetime": 1792065600,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "You can take it with you: Five tax tips before selling your business",
-      "summary": "Business owners can leave millions of dollars on the table by delaying tax planning. Here are five tips for entrepreneurs to maximize their windfall.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html",
-      "datetime": 1792063979,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "datetime": 1792062900,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,17 +791,17 @@
     }
   ],
   "btc_score": {
-    "score": 37,
+    "score": 37.2,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13,
-    "weekly_score": 24,
-    "btc_price": 82210.7,
-    "fear_greed": 50,
+    "daily_score": 13.1,
+    "weekly_score": 24.1,
+    "btc_price": 82125.2,
+    "fear_greed": 51,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.5164,
+        "value": 0.5222,
         "score": 17,
         "weight": 10,
         "group": "daily"
@@ -815,22 +815,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005229,
-        "score": 48,
+        "value": 0.004157,
+        "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.49,
-        "score": 66,
+        "value": 1.52,
+        "score": 68,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 50,
-        "score": 50,
+        "value": 51,
+        "score": 51,
         "weight": 5,
         "group": "daily"
       },
@@ -843,7 +843,7 @@
       },
       {
         "name": "NUPL",
-        "value": 0.338,
+        "value": 0.344,
         "score": 59,
         "weight": 11,
         "group": "weekly"
@@ -885,15 +885,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.6,
+        "value": 62.4,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -77.4,
-        "score": 24,
+        "value": -69.9,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -902,7 +902,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 13
+      "days_until": 12
     },
     "schedule": [
       "2025-01-29",
@@ -1011,21 +1011,21 @@
         "text": "My, what big bounce you have.",
         "url": "https://x.com/cburniske/status/2110782103029977567",
         "time": "Thu Oct 15 17:17:24 +0000 2026",
-        "likes": 563,
+        "likes": 622,
         "retweets": 16
       },
       {
         "text": "Crypto in its value era, while AI is in its inflated token era. \n\nValue tends to be where few are looking.",
         "url": "https://x.com/cburniske/status/2110158205208895689",
         "time": "Tue Oct 13 23:58:15 +0000 2026",
-        "likes": 1449,
+        "likes": 1452,
         "retweets": 118
       },
       {
         "text": "The accelerating rate of software development is going to close the gap between blockchains and meatspace accounting systems (finance, legal, health, etc) shockingly fast.",
         "url": "https://x.com/cburniske/status/2109654111973253341",
         "time": "Mon Oct 12 14:35:10 +0000 2026",
-        "likes": 539,
+        "likes": 540,
         "retweets": 32
       },
       {
@@ -1048,7 +1048,7 @@
         "text": "when valuing anthropic's ipo, don't forget to include p(boom) and p(doom) in ur ev calculus:\n\np(boom): they get us to infinite abundance, in which case money doesn't matter anymore\n\np(doom): they kill us all, in which case money doesn't matter anymore\n\ni put p(boom or doom) at",
         "url": "https://x.com/QwQiao/status/2110680296379052493",
         "time": "Thu Oct 15 10:32:51 +0000 2026",
-        "likes": 136,
+        "likes": 139,
         "retweets": 3
       },
       {
@@ -1063,7 +1063,7 @@
         "url": "https://x.com/QwQiao/status/2109682480965996586",
         "time": "Mon Oct 12 16:27:54 +0000 2026",
         "likes": 1377,
-        "retweets": 95
+        "retweets": 96
       },
       {
         "text": "fwiw i agree with terence tao’s core argument, that it’s counter productive to use ai to brute force solutions without generating genuine insights. however, it appears to me that in the latest openai release ai has in fact generated novel insights even if the process is brute",
@@ -1085,36 +1085,36 @@
         "text": "I’ve done the math. https://t.co/VyucFDRwqJ",
         "url": "https://x.com/saylor/status/2110784638310638037",
         "time": "Thu Oct 15 17:27:28 +0000 2026",
-        "likes": 4252,
-        "retweets": 335
+        "likes": 4785,
+        "retweets": 366
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit and Digital Equity. $BTC $STRC $MSTR https://t.co/iXEnFt8mpN",
         "url": "https://x.com/saylor/status/2110722489160732892",
         "time": "Thu Oct 15 13:20:31 +0000 2026",
-        "likes": 2471,
-        "retweets": 248
+        "likes": 2613,
+        "retweets": 263
       },
       {
         "text": "Digital Credit, powered by Bitcoin. Our most senior preferred stock, $STRF (“Strife”), explained in three minutes. https://t.co/Aue0f3Guvi",
         "url": "https://x.com/saylor/status/2110460760531021924",
         "time": "Wed Oct 14 20:00:30 +0000 2026",
-        "likes": 2338,
-        "retweets": 212
+        "likes": 2393,
+        "retweets": 214
       },
       {
         "text": "Just getting my steps in. https://t.co/wBvWhDBMvQ",
         "url": "https://x.com/saylor/status/2110345003322999188",
         "time": "Wed Oct 14 12:20:31 +0000 2026",
-        "likes": 8484,
-        "retweets": 704
+        "likes": 8615,
+        "retweets": 714
       },
       {
         "text": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes.",
         "url": "https://x.com/saylor/status/2040438683380146574",
         "time": "Sat Apr 04 14:37:46 +0000 2026",
-        "likes": 31920,
-        "retweets": 4666
+        "likes": 31917,
+        "retweets": 4665
       }
     ],
     "viktorfischer": [
@@ -1158,37 +1158,55 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Deutsche Bank has blunt advice after NVIDIA-linked stock sinks 15%",
-        "url": "https://finnhub.io/api/news?id=c12cac0c14a575c6f5b2580b92addb7dbc7e05ab2527bf42d11aa07267cc09c0",
-        "datetime": 1792101000,
+        "headline": "Elon Musk Promised \"a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
+        "url": "https://finnhub.io/api/news?id=c58870d6423efd66a3e12dac33df72690c3eb02e58502f1b9ab68b8c94a3c04d",
+        "datetime": 1792113900,
         "source": "Yahoo"
       },
       {
-        "headline": "Is Apple the Ultimate Stock to Buy Right Now?",
-        "url": "https://finnhub.io/api/news?id=f71f28e99aeb9d57c0ae9a2b30f40d2f9f45124040fd7bf690c5a79a75ac46bf",
-        "datetime": 1792100580,
+        "headline": "How to Earn $600 a Month From a Company That Builds and Operates Power Plants for Data Centers",
+        "url": "https://finnhub.io/api/news?id=32a4f3307097e18b6e6643b14f657e92c8d3fdf217bd384d257dc6b5eb2921e3",
+        "datetime": 1792110900,
         "source": "Yahoo"
       },
       {
-        "headline": "Boeing Fell Back Below $200 Ahead of a Strike Deadline. Here's Why I'd Buy the Fear After New Contracts Were Signed",
-        "url": "https://finnhub.io/api/news?id=ee8ce29ee1c12da218ade7e3ae7e2ef1a6b2e4ef8e2647ec90e49506b78edbe5",
-        "datetime": 1792099500,
+        "headline": "Review & Preview: Bounce Back",
+        "url": "https://finnhub.io/api/news?id=6482f046f5f9faf95bfdd2ef7884d8f7d218425ea8ce354a3506abd15a69790e",
+        "datetime": 1792108500,
         "source": "Yahoo"
       },
       {
-        "headline": "Cisco (CSCO) Backs A New 400G Optical Standard For AI Data Centers",
-        "url": "https://finnhub.io/api/news?id=1ae9332e437ee0758049f0c3797d6c3effb8bb025f163f2d6d01154e263bccc3",
-        "datetime": 1792099013,
+        "headline": "Rocket Lab's Neutron Won't Launch Until 2027. Is the Stock a Buy 65% Below Its Record?",
+        "url": "https://finnhub.io/api/news?id=67da48805f9a3b473b09ab7298b0f8a572ce1520b298379b95511d08d7a13dde",
+        "datetime": 1792108082,
         "source": "Yahoo"
       },
       {
-        "headline": "Update: CoreWeave Execution Outweighs Financing Worries, BofA Says",
-        "url": "https://finnhub.io/api/news?id=1505245110923a7b6cb0966cc7603132217d9715da09d1c18a2001f0cd8fc965",
-        "datetime": 1792098841,
+        "headline": "Not Nvidia. Not Cisco. This Is the AI Networking Stock Quietly Wiring Every Data Center",
+        "url": "https://finnhub.io/api/news?id=a92d93fd6a4c182ac52b31baedcc63a3647190f9123d8874e2d3b82df87d8b9b",
+        "datetime": 1792107300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Jim Cramer's Rate Test: Why He Backs Reddit but Passes on SiTime",
+        "url": "https://finnhub.io/api/news?id=1a58fa8dc53f82c5bef81464f6723d553b571f813f235346065f41ef7659722b",
+        "datetime": 1792113685,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Should You Buy Adobe Stock For Its Cash?",
+        "url": "https://finnhub.io/api/news?id=c81a82ce23251632b994d0dddc4d22e700e88d7e6492cf55d5f751a01c607e0e",
+        "datetime": 1792111712,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Here Are the 3 Magnificent Seven Stocks I'd Buy Today",
+        "url": "https://finnhub.io/api/news?id=816e187e4a0bf51322ce7f442885bd26ddd1a669648d8506dd56e5233d17de30",
+        "datetime": 1792101660,
+        "source": "Yahoo"
+      },
       {
         "headline": "JPMorgan's Chicago Office Renovation Costing Bank Over $800M, Dimon Says",
         "url": "https://finnhub.io/api/news?id=1a19b1109a5c0f931139231509bf303c0cc7a9206349d1fa8241ef0c47605ac7",
@@ -1200,59 +1218,59 @@
         "url": "https://finnhub.io/api/news?id=aed5d3110786b7e996da57c15fc87811bf6a8e3a6f32ccdae11b8dd53979632d",
         "datetime": 1792098063,
         "source": "Yahoo"
-      },
-      {
-        "headline": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
-        "url": "https://finnhub.io/api/news?id=1acfb8f181fa92d06970adec64ca819ba0b9d8103d77fe0fefad6234be53ccb8",
-        "datetime": 1792095180,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Google’s $180 Fitbit Edge makes a bet on smartwatch fatigue",
-        "url": "https://finnhub.io/api/news?id=57c315422a725ad9e30d6b2e129b5cef5f0c7fdc788f3bb9749682ae08a4d062",
-        "datetime": 1792094820,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Amazon’s New Devices Show Push to Avoid Getting Shut Out of Personal AI",
-        "url": "https://finnhub.io/api/news?id=6f20c1bff68155561ba030183cda07ea5ce12ba5884349deb96fa08e99d1a712",
-        "datetime": 1792093920,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Dow Jones Futures: Disney, Salesforce Lead New Buys After Wild Session; Tesla Roadster On Tap",
-        "url": "https://finnhub.io/api/news?id=8c4466a106586c69fcf398599a49c953e5f2d539166ea1ab32b7c897076e25d3",
-        "datetime": 1792100880,
+        "headline": "Elon Musk Promised \"a Million Robotaxis\" by 2020. None Materialized, and a Dedicated Robotaxi Fleet Isn't Expected Until at Least 2027. Here's What That Track Record Means for Tesla's Valuation.",
+        "url": "https://finnhub.io/api/news?id=c58870d6423efd66a3e12dac33df72690c3eb02e58502f1b9ab68b8c94a3c04d",
+        "datetime": 1792113900,
         "source": "Yahoo"
       },
       {
-        "headline": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say",
-        "url": "https://finnhub.io/api/news?id=0743143e538afc0b94ea46c2f5166960f1becebf55eefaf9b4cc4abc33edb6a3",
-        "datetime": 1792100233,
+        "headline": "Did Elon Musk Just Hint at Tesla x SpaceX Merger, or Will Cars Fly First?",
+        "url": "https://finnhub.io/api/news?id=96d83df6b3797dfd0fc6b7c6c998687aba45b9fc5cbd5363558474576fc63046",
+        "datetime": 1792113418,
         "source": "Yahoo"
       },
       {
-        "headline": "What Would You Have Needed To Notice In GM Stock?",
-        "url": "https://finnhub.io/api/news?id=ed5adbca8ffb568e17fc06041fa686ac9bac0f1dedca0f46b025314c5e9a542f",
-        "datetime": 1792094920,
+        "headline": "Dow Jones Futures: Techs Slide On Anthropic Valuation Doubts; Tesla Roadster On Tap",
+        "url": "https://finnhub.io/api/news?id=09b1845b75974887144b8bd0a95f4e3361a620741cbe4de76488ef54fdd2f8e8",
+        "datetime": 1792111198,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Roadster Is Coming. How To Watch the Launch Event.",
-        "url": "https://finnhub.io/api/news?id=a5d37b47079fcdddeb92633d7e651eb9253a6c04c0e23cf036d72e38ca207180",
-        "datetime": 1792093740,
+        "headline": "Dow Jones Futures Fall: Disney, Salesforce Lead 12 Buys After Wild Session; Tesla Roadster On Tap",
+        "url": "https://finnhub.io/api/news?id=4102a0515c79206bd032c8e8ea3932c5d4f124d14fa08a496c3bdc104e3ddb12",
+        "datetime": 1792108099,
         "source": "Yahoo"
       },
       {
-        "headline": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
-        "url": "https://finnhub.io/api/news?id=423a910da1e18e0cf9ae9a1bda7a373012ba8db302e228d6a9de79a43f79a63b",
-        "datetime": 1792092841,
+        "headline": "Tesla Energy Chief Mike Snyder Reportedly Exits As Elon Musk Pushes AI And Robotics Pivot",
+        "url": "https://finnhub.io/api/news?id=ee67a332fd9afd3c495875459799304ad9486603b007599753ec58418d61aeb0",
+        "datetime": 1792106305,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Citi Stands Behind 2 Crypto Stocks as Its Top Picks for the Rest of 2026",
+        "url": "https://finnhub.io/api/news?id=3a6c2a8cbb4c46a21b2246b35febbf312c2bcd4dc873c39d29103b6f1302f485",
+        "datetime": 1792085400,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "USDC’s EU Reserves and Capital Shift to EBA Supervision in MiCA’s First ‘Significant’ Call",
+        "url": "https://finnhub.io/api/news?id=2a0a1a3817d591113f3820c6669411a3c042334a39ba797660936d01018c606c",
+        "datetime": 1792082290,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Citi’s Names Top Digital Asset Picks",
+        "url": "https://finnhub.io/api/news?id=627e43b83969ec025349ee4d9d4b1eea70f505babeeab153f6f3d19cbce2b9e9",
+        "datetime": 1792075177,
+        "source": "Yahoo"
+      },
       {
         "headline": "Ondo Finance Says Total Value Locked Has Topped $4 Billion",
         "url": "https://finnhub.io/api/news?id=42764b8e465a12b5d0bb85e6203679855ffc1884fdc748bf1890e9ccc0776d72",
@@ -1263,24 +1281,6 @@
         "headline": "Standard Chartered Says USDC Faces Competition In Payments, Delays $2T Stablecoin Forecast",
         "url": "https://finnhub.io/api/news?id=3f5916a284990d974dc4c9330b3ae395b299bdeb88cbe0a3215e3ab8ace00df4",
         "datetime": 1792003395,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Why Circle Internet Group, Inc. (CRCL) is Poised to Beat Earnings Estimates Again",
-        "url": "https://finnhub.io/api/news?id=9613be0bcdc92f5de6548ba5600ef415ffb28f19ea4917cb3098861c2ed53774",
-        "datetime": 1791990605,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "France Proposes 31.4% Tax On Stablecoin Capital Gains",
-        "url": "https://finnhub.io/api/news?id=d8922c7726c4a7f21ab2ebdd315c5bbfb651ce62859974c060958cfc2d1f4562",
-        "datetime": 1791987480,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "AI agents are on a shopping spree: Total transactions on Base blockchain eclipse 138 million, Chainalysis finds",
-        "url": "https://finnhub.io/api/news?id=644ae0b8041a5df07f90a99b31c9c529369c53136f9b49c00a9bee9be039d3bb",
-        "datetime": 1791982800,
         "source": "Yahoo"
       }
     ],
