@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:44:34.171Z",
+  "updated_at": "2026-10-16T12:54:16.436Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 82112,
-      "change_pct": 0.98
+      "price": 82023,
+      "change_pct": 1.57
     },
     {
       "symbol": "ETH",
-      "price": 2449.97,
-      "change_pct": 3.17
+      "price": 2465.37,
+      "change_pct": 4.69
     },
     {
       "symbol": "SOL",
-      "price": 106.2,
-      "change_pct": 3.48
+      "price": 105.66,
+      "change_pct": 3.7
     },
     {
       "symbol": "HYPE",
-      "price": 81.17,
-      "change_pct": 1.4
+      "price": 81.26,
+      "change_pct": 3.68
     },
     {
       "symbol": "ZEC",
-      "price": 1223.34,
-      "change_pct": 10.97
+      "price": 1221.37,
+      "change_pct": 12.4
     },
     {
       "symbol": "TAO",
-      "price": 288.09,
-      "change_pct": 10.09
+      "price": 285.17,
+      "change_pct": 9.82
     },
     {
       "symbol": "SKY",
-      "price": 1662.34,
-      "change_pct": 4.66
+      "price": 1663.79,
+      "change_pct": 5.21
     },
     {
       "symbol": "AAVE",
-      "price": 161.39,
-      "change_pct": 7.35
+      "price": 161.58,
+      "change_pct": 8.99
     },
     {
       "symbol": "BNB",
-      "price": 730.47,
-      "change_pct": 1.43
+      "price": 727.6,
+      "change_pct": 1.16
     },
     {
       "symbol": "NEAR",
-      "price": 5.21,
-      "change_pct": 11.28
+      "price": 5.24,
+      "change_pct": 14.54
     },
     {
       "symbol": "DOGE",
-      "price": 0.082104,
-      "change_pct": 2.44
+      "price": 0.081778,
+      "change_pct": 2.07
     },
     {
       "symbol": "SPACEX",
-      "price": 618.74,
-      "change_pct": -0.44
+      "price": 612.58,
+      "change_pct": -0.74
     }
   ],
   "earnings": {
@@ -474,8 +474,152 @@
   },
   "news": [
     {
-      "headline": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
-      "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
+      "headline": "Solana 的刘表示上海活动因报名激增而推迟",
+      "summary": "Solana 基金会主席 Lily Liu 表示，登记人数一夜之间翻了两番，超过了地方当局登记的出席人数限制。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792149767,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "交易者很快就能押注 Coinbase、Robinhood 和 Marathon 是否会实现他们的目标",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "datetime": 1792149300,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "挪威2万亿美元的财富基金被冻结在主要国防公司之外。这可能即将改变",
+      "summary": "现有的道德规则意味着该基金不得投资洛克希德·马丁公司和波音公司等公司。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html",
+      "datetime": 1792148207,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "随着全球稳定币需求增长，Circle 瞄准 40 个新市场",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+      "datetime": 1792148075,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "量子联盟成立，警告 640 万比特币面临未来量子威胁",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+      "datetime": 1792147946,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着埃隆·马斯克 (Elon Musk) 推出由 SpaceX 驱动的飞行 Roadster 原型车，代币化的特斯拉 (Tesla) 飙升",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+      "datetime": 1792147729,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Celestia 上涨 16%，山寨币超越比特币，Warsh 对利率计划保持沉默",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+      "datetime": 1792147263,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "CONNECT 回顾：流动性是代币化的下一个挑战，日常稳定币",
+      "summary": "Cointelegraph 新加坡 CONNECT 活动的小组成员探讨了代币化市场的机遇、日常稳定币支付的未来以及加密货币投资者不断变化的格局。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792146438,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "诈骗者因 Ledger 间谍芯片漏洞而被骗，损失了近 500 万美元的比特币",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+      "datetime": 1792146270,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "实时更新：比特币重回 82,000 美元上方，随着 ETF 持续流出，ZEC 上涨 11%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+      "datetime": 1792144094,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管 CFTC 支持，美国法官仍驳回 Gemini 撤销 500 万美元和解金的上诉",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+      "datetime": 1792143381,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Solana 的基本面受到不利的宏观和地缘政治条件的影响。接下来怎么办？",
+      "summary": "<p class=\"MsoNormal\" style=\"font-family: Aptos, sans-serif; margin: 7px 0; font-size: 15px;\">Solana 过去一直承受着压力\n        几周以来，随着宏观经济形势的恶化，更广泛的加密货币市场\n        形势和油价上涨打压了风险情绪。 </p><p类=",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/solana-s-fundamentals-are-clouded-by-negative-macro-and-geopolitical-conditions-what-s-next/",
+      "datetime": 1792143002,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "CryptoQuant：比特币可能会在新纪录高点之前寻求20个月趋势线的回收",
+      "summary": "比特币的市场周期信号工具显示，比特币的价格走势正在复制历史，可能准备在测试新高之前收回关键移动平均线。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792142533,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "MSCI 批准将 Strategy 和 Metaplanet 从股票指数中剔除的规则",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "datetime": 1792139688,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Capital B 报告称，由于比特币减值费用，上半年亏损 7800 万美元",
+      "summary": "尽管报告了 7500 万美元的比特币减值损失，但欧洲第二大比特币金库在 2026 年上半年筹集了 3000 万美元，并将其比特币持有量增加了 11%。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792137586,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "法官驳回 CFTC 和 Gemini 撤销 500 万美元和解协议的请求",
+      "summary": "法官裁定 CFTC 执法优先事项的变化以及对其执法部门不当行为的指控不足以推翻 Gemini 2025 年 1 月的和解协议。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792136609,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "OpenAI 模型帮助自己测试网络加密，然后对此保持沉默",
+      "summary": "OpenAI 研究模型检查了 362 个钱包地址，质疑使用这些资金是否道德，并继续进行了一项后来在最终任务摘要中省略的交易。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792131082,
@@ -483,7 +627,7 @@
       "related": ""
     },
     {
-      "headline": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "headline": "XRP 未能像比特币和以太币那样让持有者致富。原因如下",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
@@ -492,8 +636,8 @@
       "related": ""
     },
     {
-      "headline": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
-      "summary": "Network School founder Balaji Srinivasan wants to turn Farcaster into a haven for well-mannered techno-optimists. He had to do a bit of housekeeping first.",
+      "headline": "巴拉吉的“社交媒体新加坡”始于一波禁令",
+      "summary": "Network School 创始人巴拉吉·斯里尼瓦桑 (Balaji Srinivasan) 希望将 Farcaster 打造成有礼貌的技术乐观主义者的避风港。他必须先做一些家务。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792127771,
@@ -501,16 +645,7 @@
       "related": ""
     },
     {
-      "headline": "Stablecoin transactions are booming, but why isn't more money flowing into crypto?",
-      "summary": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Picture this for a second. You and a group of friends are sitting on a table and you are passing around a single $100 bill between each other. You use it to pay someone for a meal, who then uses it to settle a debt with another friend, who then passes it along to someone else - and so forth.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">By the time everyone is done, let's say that same $100 bill changed hands ten times. That means you would have recorded $1,000 worth of transactions. But here's the catch, there is still just only $100 sitting around that table. That is a relatively simple example but it does offer some insight into what is happening with the crypto market right now.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">Earlier this week, Standard Chartered reported that <a href=\"https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578\" rel=\"follow\">monthly stablecoin transfers have averaged nearly $10 trillion this year</a>. That figure is more than double the $4 trillion average recorded last year. That sounds pretty great, no? Not quite.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">Even with that whopping figure, the total supply of stablecoins has barely grown at all. Standard Chartered estimates that stablecoin supply has remained between $300 billion and $320 billion over the past twelve months. And that has even prompted the bank to push back its $2 trillion market forecast from 2028 to 2030.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">So the question is, how can transaction volumes be booming when the amount of money in the system isn't?</p><p class=\"text-align-justify\" style=\"text-align: justify;\">That brings us back to the example above. The difference essentially comes down to how much money there is and how often that money changes hands. In financial terms, how frequently money changes hands is called 'velocity'. And Standard Chartered estimates that average monthly stablecoin 'velocity' has doubled from around 15 times last year to roughly 30 times this year.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">For some context, stablecoins such as USDT and USDC are just like ordinary dollars as they can be used repeatedly without creating new money - despite being digital tokens.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">Anyway, what the doubling in 'velocity' might be suggesting is that existing stablecoins are being used more actively rather than just sitting idle in digital wallets. However, there is a catch to that.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">More transactions doesn't necessarily mean that we are seeing more users, more real-world payments, or fresh money entering crypto. Some of that activity could simply be more trading involvement, more automated transfers, or funds moving between wallets.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">As such, it would be too hasty to take booming transaction volumes as proof that stablecoin adoption is suddenly taking off. For that, it would need to come with sustained growth in stablecoin supply alongside more evidence of genuine payments and economic activity.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">And for now, it would seem that we are not quite there yet.</p><p class=\"text-align-justify\" style=\"text-align: justify;\"></p>\n                            This article was written by Justin Low at investinglive.com.",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/stablecoin-transactions-are-booming-but-why-isn-t-more-money-flowing-into-crypto/",
-      "datetime": 1792126244,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "headline": "OpenAI 代理耗尽了以太坊资金，并从不属于它的钱包中取出",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
@@ -519,7 +654,7 @@
       "related": ""
     },
     {
-      "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "headline": "随着亚洲股市反弹，比特币买家抢购短暂跌破 80,000 美元的比特币",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
@@ -528,8 +663,8 @@
       "related": ""
     },
     {
-      "headline": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-      "summary": "Warsh said he's optimistic that AI will make economies that use it well more productive and wealthier, warning the road there will be \"very bumpy.\"",
+      "headline": "美联储沃什表示人工智能之路将“非常坎坷”，但最终对财富“非常有利”",
+      "summary": "沃什表示，他乐观地认为人工智能将使充分利用人工智能的经济体变得更有生产力、更富裕，并警告说这条道路将“非常崎岖”。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
       "datetime": 1792123707,
@@ -537,8 +672,8 @@
       "related": ""
     },
     {
-      "headline": "MSCI adopts index exclusion rules that could oust Strategy",
-      "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11.",
+      "headline": "MSCI 采用指数排除规则可能会驱逐 Strategy 公司",
+      "summary": "Strategy、Metaplanet 和 Upexi 此前已根据该方法被确定删除，MSCI 将于 11 月 11 日公布其最终名单。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792111700,
@@ -546,8 +681,8 @@
       "related": ""
     },
     {
-      "headline": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+      "headline": "澳大利亚发布法案草案采用经合组织加密货币税务报告框架",
+      "summary": "澳大利亚是致力于采用 CARF 的 77 个司法管辖区之一，预计将于 2028 年首次进行加密税务数据国际交换。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792107259,
@@ -555,8 +690,8 @@
       "related": ""
     },
     {
-      "headline": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+      "headline": "骗子损失了存储在被篡改账本上的 480 万美元：Asia Express",
+      "summary": "据报道，一名诈骗者将资金存储在被篡改的账本上后损失了 480 万美元的赃款。比特币和以太坊 ETF 在泰国和韩国的 27 个交易所推出交易。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792104178,
@@ -564,8 +699,8 @@
       "related": ""
     },
     {
-      "headline": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance’s 2023 settlement with US authorities.",
+      "headline": "Binance.US 在潜在的 1 亿美元融资轮中寻求 10 亿美元估值：报告",
+      "summary": "据报道，在币安 2023 年与美国当局达成和解后，该加密货币交易所正寻求利用额外资金重新夺回市场份额。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1792095671,
@@ -573,8 +708,8 @@
       "related": ""
     },
     {
-      "headline": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-      "summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+      "headline": "肯德基几十年来首次在美国餐厅改用可口可乐饮料",
+      "summary": "肯德基正在从百事可乐转向可口可乐作为美国餐厅的饮料供应商。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
       "datetime": 1792094021,
@@ -582,8 +717,8 @@
       "related": ""
     },
     {
-      "headline": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-      "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+      "headline": "英伟达和思科确认向特朗普的白宫舞厅捐赠数百万美元",
+      "summary": "文件显示，大型科技公司向特朗普的白宫宴会厅捐赠了数百万美元",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
       "datetime": 1792093420,
@@ -591,8 +726,8 @@
       "related": ""
     },
     {
-      "headline": "Some 'classic' money advice is actually pretty new—and not all of it is worthwhile, says historian",
-      "summary": "A historian explains why housing, investing and budgeting advice has changed over time — and what that can teach you about money today.",
+      "headline": "历史学家表示，一些“经典”的理财建议实际上是相当新颖的，而且并非所有建议都值得",
+      "summary": "一位历史学家解释了为什么住房、投资和预算建议会随着时间的推移而发生变化，以及这些建议可以教会您今天关于金钱的哪些知识。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/make-it/2026/10/15/money-advice-history-joseph-moore.html",
       "datetime": 1792092653,
@@ -600,160 +735,31 @@
       "related": ""
     },
     {
-      "headline": "At the White House, crypto policy vacancy looms large",
+      "headline": "在白宫，加密货币政策空缺迫在眉睫",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
       "datetime": 1792090082,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'",
-      "summary": "Anduril CEO Brian Schimpf says contracts are won 'on the merits' amid ethics questions over co-founder Palmer Luckey's Pentagon role",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html",
-      "datetime": 1792086171,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792084485,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "How to weather the current AI stock storm that we were all dreading",
-      "summary": "We are at that moment.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
-      "datetime": 1792083977,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "summary": "Sweden’s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792082999,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
-      "summary": "JetBlue announced that BlueFirst, its new domestic first class option, is available for booking on more than 30 routes. It launches December 8.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
-      "datetime": 1792080813,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "Mastercard brings stablecoin balances into traditional banking and card payments",
-      "summary": "The launch of Global Money Platform marks Mastercard’s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792079165,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "We're trimming a rallying defensive stock and buying other on a muted earnings move",
-      "summary": "A major rotation is happening in the market on Thursday, and we're capitalizing on it.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/15/were-trimming-a-rallying-defensive-stock-and-buying-other-on-a-muted-earnings-move.html",
-      "datetime": 1792077434,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Bitcoin slips under $80K after US PPI gains most in four years",
-      "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792077044,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-      "datetime": 1792076400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Southwest is overhauling its frequent flyer program. Here's what's changing",
-      "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
-      "datetime": 1792074301,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
-      "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792074163,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792073815,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-      "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the “anti-crypto army”?",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792071000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-      "summary": "Treasury yields slide as investors flee to safety of bonds amid tech rout.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-      "datetime": 1792068998,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "summary": "This is a fulcrum day for the market.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "datetime": 1792068870,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": []
+      "news": [
+        {
+          "headline": "随着埃隆·马斯克 (Elon Musk) 推出由 SpaceX 驱动的飞行 Roadster 原型车，代币化的特斯拉 (Tesla) 飙升",
+          "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+          "datetime": 1792147729
+        }
+      ]
     },
     {
       "company": "Anthropic",
       "news": [
         {
-          "headline": "Anthropic results may aid IPO but not AI trade, analysts say",
+          "headline": "分析师称，人为结果可能有助于首次公开募股，但无助于人工智能贸易",
           "url": "https://www.bloomberg.com/news/articles/2026-10-15/anthropic-results-may-aid-ipo-but-not-ai-trade-analysts-say",
           "datetime": 1792044525
         }
@@ -763,17 +769,17 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+          "headline": "OpenAI 模型帮助自己测试网络加密，然后对此保持沉默",
           "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1792131082
         },
         {
-          "headline": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+          "headline": "OpenAI 代理耗尽了以太坊资金，并从不属于它的钱包中取出",
           "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
           "datetime": 1792124959
         },
         {
-          "headline": "OpenAI vows not to use trade secrets allegedly taken from Apple",
+          "headline": "OpenAI 发誓不会使用据称从苹果窃取的商业机密",
           "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
           "datetime": 1792036018
         }
@@ -801,12 +807,12 @@
     }
   ],
   "btc_score": {
-    "score": 37.6,
+    "score": 37.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.3,
-    "weekly_score": 24.3,
-    "btc_price": 82224.6,
+    "daily_score": 13.2,
+    "weekly_score": 24.5,
+    "btc_price": 82036,
     "fear_greed": 51,
     "indicators": [
       {
@@ -825,15 +831,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006899,
-        "score": 48,
+        "value": 0.002341,
+        "score": 46,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.55,
-        "score": 70,
+        "value": 1.58,
+        "score": 72,
         "weight": 3,
         "group": "daily"
       },
@@ -846,7 +852,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.66,
+        "value": 1.67,
         "score": 39,
         "weight": 12,
         "group": "weekly"
@@ -895,15 +901,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.6,
+        "value": 62.3,
         "score": 71,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -54.8,
-        "score": 30,
+        "value": -34.9,
+        "score": 35,
         "weight": 4,
         "group": "weekly"
       }
@@ -1021,14 +1027,14 @@
         "text": "My, what big bounce you have.",
         "url": "https://x.com/cburniske/status/2110782103029977567",
         "time": "Thu Oct 15 17:17:24 +0000 2026",
-        "likes": 656,
-        "retweets": 16
+        "likes": 675,
+        "retweets": 19
       },
       {
         "text": "Crypto in its value era, while AI is in its inflated token era. \n\nValue tends to be where few are looking.",
         "url": "https://x.com/cburniske/status/2110158205208895689",
         "time": "Tue Oct 13 23:58:15 +0000 2026",
-        "likes": 1456,
+        "likes": 1457,
         "retweets": 119
       },
       {
@@ -1058,7 +1064,7 @@
         "text": "when valuing anthropic's ipo, don't forget to include p(boom) and p(doom) in ur ev calculus:\n\np(boom): they get us to infinite abundance, in which case money doesn't matter anymore\n\np(doom): they kill us all, in which case money doesn't matter anymore\n\ni put p(boom or doom) at",
         "url": "https://x.com/QwQiao/status/2110680296379052493",
         "time": "Thu Oct 15 10:32:51 +0000 2026",
-        "likes": 140,
+        "likes": 145,
         "retweets": 4
       },
       {
@@ -1072,7 +1078,7 @@
         "text": "by the time ur kids enter adulthood there will be nearly no moats left:\n\n- intelligence commoditized by ai\n\n- looking jacked and sexy commoditized by glp-1s and myostatin inhibitors\n\n- agency and resilience commoditized by dopamine and prefrontal modulators\n\n- being fun to be",
         "url": "https://x.com/QwQiao/status/2109682480965996586",
         "time": "Mon Oct 12 16:27:54 +0000 2026",
-        "likes": 1375,
+        "likes": 1376,
         "retweets": 96
       },
       {
@@ -1092,39 +1098,39 @@
     ],
     "saylor": [
       {
+        "text": "Addressing the bear case. https://t.co/XGFVSIzrjt",
+        "url": "https://x.com/saylor/status/2111065132877189537",
+        "time": "Fri Oct 16 12:02:04 +0000 2026",
+        "likes": 1422,
+        "retweets": 144
+      },
+      {
         "text": "I’ve done the math. https://t.co/VyucFDRwqJ",
         "url": "https://x.com/saylor/status/2110784638310638037",
         "time": "Thu Oct 15 17:27:28 +0000 2026",
-        "likes": 5415,
-        "retweets": 407
+        "likes": 5778,
+        "retweets": 433
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit and Digital Equity. $BTC $STRC $MSTR https://t.co/iXEnFt8mpN",
         "url": "https://x.com/saylor/status/2110722489160732892",
         "time": "Thu Oct 15 13:20:31 +0000 2026",
-        "likes": 2771,
-        "retweets": 282
+        "likes": 2909,
+        "retweets": 297
       },
       {
         "text": "Digital Credit, powered by Bitcoin. Our most senior preferred stock, $STRF (“Strife”), explained in three minutes. https://t.co/Aue0f3Guvi",
         "url": "https://x.com/saylor/status/2110460760531021924",
         "time": "Wed Oct 14 20:00:30 +0000 2026",
-        "likes": 2437,
-        "retweets": 217
+        "likes": 2471,
+        "retweets": 218
       },
       {
         "text": "Just getting my steps in. https://t.co/wBvWhDBMvQ",
         "url": "https://x.com/saylor/status/2110345003322999188",
         "time": "Wed Oct 14 12:20:31 +0000 2026",
-        "likes": 8758,
-        "retweets": 726
-      },
-      {
-        "text": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes.",
-        "url": "https://x.com/saylor/status/2040438683380146574",
-        "time": "Sat Apr 04 14:37:46 +0000 2026",
-        "likes": 31922,
-        "retweets": 4667
+        "likes": 8877,
+        "retweets": 741
       }
     ],
     "viktorfischer": [
@@ -1168,97 +1174,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Here's What a $1,500, $2,000, and $3,000 Social Security Check Will Become After the 2027 Cost-of-Living Adjustment (COLA)",
-        "url": "https://finnhub.io/api/news?id=e83a58715928179c4278ad41b26d6ddbc2b92c2142403342affb4c52cb212e29",
-        "datetime": 1792129800,
+        "headline": "Germany Reportedly Picks Nvidia for Its Industrial AI Push, but the Money Barely Matters",
+        "url": "https://finnhub.io/api/news?id=dad4a6918e7649c4022150986432a571f76052889033b6f5e9075fab4faf567a",
+        "datetime": 1792150953,
         "source": "Yahoo"
       },
       {
-        "headline": "XRP Treasury Company Evernorth Just Went Public on Nasdaq. Here's How It Could Impact the Price of XRP.",
-        "url": "https://finnhub.io/api/news?id=1c6b2b2d08ae90df3db24d759354ae23303c027fabd84aae8d4af0bb57720901",
-        "datetime": 1792128000,
+        "headline": "Even Tesla’s Flying Car Can’t Lift the Tech Stock Gloom",
+        "url": "https://finnhub.io/api/news?id=611a24f156557a28fe955e88638ca35ffb266e720cb64ca6451cb632682fb617",
+        "datetime": 1792150920,
         "source": "Yahoo"
       },
       {
-        "headline": "Micron Is Down 23% From Its High. History Suggests This Is What Happens Next.",
-        "url": "https://finnhub.io/api/news?id=0096f2c35550e2e4636f4fe6f4e79eccdd8a4f536d122848ae11a11fcc141901",
-        "datetime": 1792126200,
+        "headline": "CFTC Chairman Michael Selig Says New Crypto Rules Are Coming Soon. Here's What Crypto Investors Need to Know.",
+        "url": "https://finnhub.io/api/news?id=fb87b3433897228f8a73b05bcac6287f04853625d08f82f9959cd340cc7aab44",
+        "datetime": 1792150800,
         "source": "Yahoo"
       },
       {
-        "headline": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock.",
-        "url": "https://finnhub.io/api/news?id=58f9605afd93eb910807bcf391644fa2054a0a536ab615f5e8e2c050e94e8596",
-        "datetime": 1792123562,
+        "headline": "CoreWeave Stock Is Crashing. This Could Be Great News for SpaceX Investors.",
+        "url": "https://finnhub.io/api/news?id=d72382dc56f60f8da2ab9c8bc1c9aab720543957b7339571a44add58d9ff5163",
+        "datetime": 1792150500,
         "source": "Yahoo"
       },
       {
-        "headline": "CRWV Stock Slips Overnight: Analyst Calls CoreWeave Debt Worries ‘Fearmongering,’ Reaffirms 150% Upside Target",
-        "url": "https://finnhub.io/api/news?id=91b79dd9bbe3deab067c3180dbd52ed415d107ce6eb18f46c01dc31d7066a594",
-        "datetime": 1792123342,
+        "headline": "Oracle's Cloud Backlog Just Hit $664 Billion. Here's What a $1,000 Investment Could Be Worth If It Converts to Revenue on Schedule.",
+        "url": "https://finnhub.io/api/news?id=b53aafbc8eac5514b5937c825f7bab75e9609e8f1db92827cdf33b8f33730070",
+        "datetime": 1792150500,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Google’s Quantum Breakthrough Puts Bitcoin in Trouble? Analyst Says Not Today, but ‘Gap Is Getting Smaller’",
-        "url": "https://finnhub.io/api/news?id=0683c198480ea0b9fc5e952b8be8b3889f0ff13fe2ab370e85df4e50031dbbe1",
-        "datetime": 1792126511,
+        "headline": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+        "url": "https://finnhub.io/api/news?id=66efda7912ce05c2f029c9f4f2aac4f712d340766de5904755098e34bdfa71cd",
+        "datetime": 1792151214,
         "source": "Yahoo"
       },
       {
-        "headline": "Samsung’s AI glasses make a bold bet against Meta",
-        "url": "https://finnhub.io/api/news?id=fe53d404751ff87063d198f644e97dfcba92a40df8b1ba376ae84499751c82b9",
-        "datetime": 1792116180,
+        "headline": "Google Just Cut a Major Quantum Computing Error Rate by 40 Times",
+        "url": "https://finnhub.io/api/news?id=af21dffc9b275171dcb107f0512ad4b3f94f98dfcc0dc5789ab23730cc47ffa5",
+        "datetime": 1792149312,
         "source": "Yahoo"
       },
       {
-        "headline": "Zohran Mamdani Says Quantum Is Poised to Become a ‘Multi-Trillion Dollar Industry’ and New Yorkers Should ‘Share in That Profit’",
-        "url": "https://finnhub.io/api/news?id=6128dce73d78769bff36c7ab42b008b27ee55a2b25be44f0de27ccbf84e18037",
-        "datetime": 1792115194,
+        "headline": "As Robotaxis Spread, Carmakers Must Choose Between Owning the Customer and Selling the Car",
+        "url": "https://finnhub.io/api/news?id=23101597e7efe01bec4486085545076f9ef68de290b5ee64da708c6763f5a741",
+        "datetime": 1792148400,
         "source": "Yahoo"
       },
       {
-        "headline": "Jim Cramer's Rate Test: Why He Backs Reddit but Passes on SiTime",
-        "url": "https://finnhub.io/api/news?id=1a58fa8dc53f82c5bef81464f6723d553b571f813f235346065f41ef7659722b",
-        "datetime": 1792113685,
+        "headline": "How an OpenAI model caught a spy inside its HQ",
+        "url": "https://finnhub.io/api/news?id=ad2b0f4a97846f14546a346614f7a03d74c2d3791a28170adc47cc715423d57f",
+        "datetime": 1792148400,
         "source": "Yahoo"
       },
       {
-        "headline": "Should You Buy Adobe Stock For Its Cash?",
-        "url": "https://finnhub.io/api/news?id=c81a82ce23251632b994d0dddc4d22e700e88d7e6492cf55d5f751a01c607e0e",
-        "datetime": 1792111712,
+        "headline": "This Dividend King Is Getting In on the AI Energy Boom With Its Recent Deal with Google. Is It a Buy?",
+        "url": "https://finnhub.io/api/news?id=9ab78e65e0d3de3d1b8faad5c5e0b0f9bd52ccd4d0654bfb5e4b662b770abc0f",
+        "datetime": 1792146900,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Top 3 Founder Led Stocks To Watch In October 2026",
-        "url": "https://finnhub.io/api/news?id=91d8eb0209206d2ef28fbd16e21b36f5cb44e490ad7814731428c9a4a4cf9ad1",
-        "datetime": 1792127875,
+        "headline": "Which S&P500 stocks are moving before the opening bell on Friday?",
+        "url": "https://finnhub.io/api/news?id=1be597016230dcc6ba391c3113a096c01eebf1818b2bfa757921088a17d36176",
+        "datetime": 1792154100,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "Dow Jones Futures: Tesla Flies On Roadster As Investors Question Anthropic Valuation",
+        "url": "https://finnhub.io/api/news?id=d78d1fa5be9c22396cee977372dab78a6f60e643ed111a4de35a5d38bab6327f",
+        "datetime": 1792151751,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla unveils ‘flying’ sports car",
-        "url": "https://finnhub.io/api/news?id=ac51c6d894607c928a5463545f431f1599594cad86fba4cc1aef9ef0b00566cf",
-        "datetime": 1792126827,
+        "headline": "Tesla Jumps On Flying Roadster Demo; Musk Cites Collaboration With SpaceX",
+        "url": "https://finnhub.io/api/news?id=f6c096593eee940fa0940960895ad0001feb2b7c75de872c7fa76258e91785e4",
+        "datetime": 1792151152,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk Unveils Tesla Roadster That Can Fly, Drive Upside Down and Barrel Roll With SpaceX Thrusters",
-        "url": "https://finnhub.io/api/news?id=a3d9cfd42f9151275de4d68543169520e0370e056149bfbcd17f2e2a76f2266a",
-        "datetime": 1792125293,
+        "headline": "Tesla’s New Roadster Can Fly in Short Bursts. It Won’t Be Built Until 2028",
+        "url": "https://finnhub.io/api/news?id=562e75eddfd2f5cb07409ea9b2bc8ea5053dc1bd2b91e32d8595e6577ec4d950",
+        "datetime": 1792151115,
         "source": "Yahoo"
       },
       {
-        "headline": "TSLA Stock Gets Some Thrust From ‘Flying’ Roadster Reveal — Munster Calls It ‘Engineering Flex’ With A Tesla-SpaceX Clue",
-        "url": "https://finnhub.io/api/news?id=a0a6bb0767d88cd66b9a35939cf167c42877776558c0eb4d8898ce9d81a72869",
-        "datetime": 1792122775,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Dow Jones Futures Rise; Anthropic Valuation Report, Flying Tesla Roadster In Focus",
-        "url": "https://finnhub.io/api/news?id=5a3901a5c8c9cd38d1ff5b442fae2be315fcddadd1c4983cea8191af9b03307c",
-        "datetime": 1792120317,
+        "headline": "Even Tesla’s Flying Car Can’t Lift the Tech Stock Gloom",
+        "url": "https://finnhub.io/api/news?id=611a24f156557a28fe955e88638ca35ffb266e720cb64ca6451cb632682fb617",
+        "datetime": 1792150920,
         "source": "Yahoo"
       }
     ],
@@ -1297,34 +1303,34 @@
     "LKNCY": [],
     "BTC": [
       {
-        "headline": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-        "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-        "datetime": 1792130038,
+        "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+        "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+        "datetime": 1792147946,
         "source": "CoinDesk"
       },
       {
-        "headline": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-        "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
-        "datetime": 1792124062,
+        "headline": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+        "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+        "datetime": 1792147263,
         "source": "CoinDesk"
       },
       {
-        "headline": "Bitcoin slips under $80K after US PPI gains most in four years",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1792077044,
+        "headline": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+        "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+        "datetime": 1792146270,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",
+        "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+        "datetime": 1792144094,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+        "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1792142533,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin, copper, stocks, yields all fall; gold rises",
-        "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-        "datetime": 1792062900,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-        "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-        "datetime": 1792061531,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1343,16 +1349,16 @@
     ],
     "SOL": [
       {
-        "headline": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-        "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-        "datetime": 1791951076,
-        "source": "CoinDesk"
+        "headline": "Solana’s Liu says Shanghai event postponed over registration surge",
+        "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1792149767,
+        "source": "Cointelegraph"
       },
       {
-        "headline": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
-        "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1791920886,
-        "source": "Cointelegraph"
+        "headline": "Solana's fundamentals are clouded by negative macro and geopolitical conditions. What's next?",
+        "url": "https://investinglive.com/cryptocurrency/solana-s-fundamentals-are-clouded-by-negative-macro-and-geopolitical-conditions-what-s-next/",
+        "datetime": 1792143002,
+        "source": "Forexlive"
       }
     ],
     "AAVE": [
@@ -1444,6 +1450,13 @@
       }
     ],
     "ZEC": [],
-    "SPACEX": []
+    "SPACEX": [
+      {
+        "headline": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+        "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+        "datetime": 1792147729,
+        "source": "CoinDesk"
+      }
+    ]
   }
 }
