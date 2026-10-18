@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T12:19:51.064Z",
+  "updated_at": "2026-10-18T16:16:31.710Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81983,
-      "change_pct": 0.64
+      "price": 81069,
+      "change_pct": -0.29
     },
     {
       "symbol": "ETH",
-      "price": 2415.58,
-      "change_pct": -0.56
+      "price": 2370.61,
+      "change_pct": -1.57
     },
     {
       "symbol": "SOL",
-      "price": 104.12,
-      "change_pct": -0.16
+      "price": 101.98,
+      "change_pct": -1.67
     },
     {
       "symbol": "HYPE",
-      "price": 79.19,
-      "change_pct": 0.54
+      "price": 77.24,
+      "change_pct": -1.77
     },
     {
       "symbol": "ZEC",
-      "price": 1132.14,
-      "change_pct": -2.97
+      "price": 1080.89,
+      "change_pct": -5.28
     },
     {
       "symbol": "TAO",
-      "price": 269.02,
-      "change_pct": -1.15
+      "price": 260.57,
+      "change_pct": -2.97
     },
     {
       "symbol": "SKY",
-      "price": 1597.5,
-      "change_pct": -1.55
+      "price": 1568.63,
+      "change_pct": -2.44
     },
     {
       "symbol": "AAVE",
-      "price": 153.96,
-      "change_pct": -0.47
+      "price": 149.52,
+      "change_pct": -1.96
     },
     {
       "symbol": "BNB",
-      "price": 723.1,
-      "change_pct": 0.5
+      "price": 711.25,
+      "change_pct": -0.42
     },
     {
       "symbol": "NEAR",
-      "price": 4.93,
-      "change_pct": -3.23
+      "price": 4.73,
+      "change_pct": -4.12
     },
     {
       "symbol": "DOGE",
-      "price": 0.079511,
-      "change_pct": -0.64
+      "price": 0.077526,
+      "change_pct": -2.19
     },
     {
       "symbol": "SPACEX",
-      "price": 603.46,
-      "change_pct": -1.67
+      "price": 603.07,
+      "change_pct": -0.95
     }
   ],
   "earnings": {
@@ -474,6 +474,69 @@
   },
   "news": [
     {
+      "headline": "这是本周我们在股市中关注的三件大事",
+      "summary": "Meta 和 Capital One 将公布收益。我们还将听到俱乐部投资组合之外的许多重要公司的声音。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/10/18/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
+      "datetime": 1792337077,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "稳定币供应停滞，但随着 Visa、Mastercard 和 Stripe 将加密货币与现金连接起来，付款额猛增 45%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "datetime": 1792332000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "大多数接受调查的美国人反对押注选举：路透社",
+      "summary": "预测市场行业使人们能够对美国选举和体育赛事进行投注。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792331110,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "我研究了 200 多个孩子——抚养出坚韧、成功的孩子的父母会在早期就教给他们这 6 堂课",
+      "summary": "育儿教练雷姆·拉乌达（Reem Raouda）分享课程，帮助孩子们无论取得什么成就都感到自己是有价值的，并处理失望、分歧和困难的感受。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+      "datetime": 1792330621,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "哈肯表示，加密货币审计给投资者带来了错误的安全感，因为第三季度的黑客攻击造成了 11.8 亿美元的损失",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "datetime": 1792328400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于通货膨胀给前景蒙上阴影，比特币年底有望达到 10 万美元，分析师对此存在分歧",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "datetime": 1792328400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币交易所 Binance、Coinbase 加入西非诈骗团伙，损失 1100 万美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "datetime": 1792324800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Cysic 加密桥在未经授权铸造 10M CYS 后停止",
       "summary": "Cysic 表示，该事件仅限于桥接消息处理和铸币，不会影响主网或其他操作系统。",
       "source": "Cointelegraph",
@@ -679,69 +742,6 @@
       "datetime": 1792176379,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "NBA收紧投注规则，开发人工智能来标记可疑投注",
-      "summary": "根据 CNBC 获得的两份文件，NBA 正在收紧对投注的限制，并部署人工智能来帮助识别可疑投注。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
-      "datetime": 1792173050,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "加密货币政治行动委员会在俄亥俄州参议院竞选中加大了对谢罗德·布朗的支出",
-      "summary": "至少两个与行业结盟的 PAC 已投入超过 5200 万美元反对谢罗德·布朗重返参议院。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792171809,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "报告发现，稳定币汇款成本比传统转账低 84%",
-      "summary": "Borderless.xyz 数据显示，跨境商业支付可节省大量资金，稳定币转账的结算速度也比传统国际银行电汇更快。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792171305,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "以下是 Netflix 刚刚聘请的负责内容运营的人员，以及这对流媒体意味着什么",
-      "summary": "彼得·赖斯 (Peter Rice) 在电视和电影领域拥有丰富的经验，包括有脚本和无脚本的节目、体育直播、知名电视和戏剧发行。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-      "datetime": 1792170170,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "施瓦布将制定“税务意识”策略，吸引了数十亿富有的投资者",
-      "summary": "富有的投资者纷纷涌向具有税收意识的多头空头策略，在这些超级版本的税收损失收获账户中增加了数十亿美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/16/tax-strategies-capital-gains-wealthy-investors-schwab.html",
-      "datetime": 1792167674,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "第一资本和 Meta 下周公布财报时我们希望看到什么",
-      "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/16/what-we-want-to-see-when-capital-one-and-meta-report-earnings-next-week-.html",
-      "datetime": 1792166789,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Crypto Biz：华尔街收盘于 4 点。代币化股票继续交易",
-      "summary": "代币化股票正在吸引华尔街交易时间以外的交易活动，而比特币矿商面临着成本高昂的人工智能扩张，而新的会计规则可能有利于稳定币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792165948,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -812,12 +812,12 @@
     }
   ],
   "btc_score": {
-    "score": 36.9,
+    "score": 36.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 12.9,
-    "weekly_score": 24,
-    "btc_price": 82040.4,
+    "daily_score": 13.1,
+    "weekly_score": 23.5,
+    "btc_price": 81090.1,
     "fear_greed": 48,
     "indicators": [
       {
@@ -836,15 +836,15 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.005364,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.62,
-        "score": 75,
+        "value": 1.78,
+        "score": 85,
         "weight": 3,
         "group": "daily"
       },
@@ -906,15 +906,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 62.3,
-        "score": 71,
+        "value": 60.1,
+        "score": 67,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -70.6,
-        "score": 26,
+        "value": -97.2,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1032,7 +1032,7 @@
         "text": "My, what big bounce you have.",
         "url": "https://x.com/cburniske/status/2110782103029977567",
         "time": "Thu Oct 15 17:17:24 +0000 2026",
-        "likes": 706,
+        "likes": 707,
         "retweets": 19
       },
       {
@@ -1046,14 +1046,14 @@
         "text": "The accelerating rate of software development is going to close the gap between blockchains and meatspace accounting systems (finance, legal, health, etc) shockingly fast.",
         "url": "https://x.com/cburniske/status/2109654111973253341",
         "time": "Mon Oct 12 14:35:10 +0000 2026",
-        "likes": 546,
+        "likes": 547,
         "retweets": 33
       },
       {
         "text": "UX, integrations, maintenance, etc - it used to feel like it would take decades, now it will take years. \n\nEspecially once people realize the machines prefer, and are native to, blockchains.",
         "url": "https://x.com/cburniske/status/2109654113617166818",
         "time": "Mon Oct 12 14:35:10 +0000 2026",
-        "likes": 103,
+        "likes": 105,
         "retweets": 2
       },
       {
@@ -1069,28 +1069,28 @@
         "text": "we can debate fundamentals all we want but ive seen charts like this maybe a hundred times and cant recall a single case this doesnt retrace 70% of the parabola https://t.co/fzh8cLRZj1",
         "url": "https://x.com/QwQiao/status/2111150457552818643",
         "time": "Fri Oct 16 17:41:07 +0000 2026",
-        "likes": 730,
+        "likes": 729,
         "retweets": 35
       },
       {
         "text": "when valuing anthropic's ipo, don't forget to include p(boom) and p(doom) in ur ev calculus:\n\np(boom): they get us to infinite abundance, in which case money doesn't matter anymore\n\np(doom): they kill us all, in which case money doesn't matter anymore\n\ni put p(boom or doom) at",
         "url": "https://x.com/QwQiao/status/2110680296379052493",
         "time": "Thu Oct 15 10:32:51 +0000 2026",
-        "likes": 148,
+        "likes": 149,
         "retweets": 4
       },
       {
         "text": "actually i forget the ability not to get triggered by random jokes on the internet remains a moat",
         "url": "https://x.com/QwQiao/status/2109697729207448001",
         "time": "Mon Oct 12 17:28:29 +0000 2026",
-        "likes": 91,
+        "likes": 90,
         "retweets": 0
       },
       {
         "text": "by the time ur kids enter adulthood there will be nearly no moats left:\n\n- intelligence commoditized by ai\n\n- looking jacked and sexy commoditized by glp-1s and myostatin inhibitors\n\n- agency and resilience commoditized by dopamine and prefrontal modulators\n\n- being fun to be",
         "url": "https://x.com/QwQiao/status/2109682480965996586",
         "time": "Mon Oct 12 16:27:54 +0000 2026",
-        "likes": 1375,
+        "likes": 1374,
         "retweets": 96
       },
       {
@@ -1103,39 +1103,39 @@
     ],
     "saylor": [
       {
+        "text": "We found room for more orange. https://t.co/XAgiEZbXgO",
+        "url": "https://x.com/saylor/status/2111800758576574624",
+        "time": "Sun Oct 18 12:45:10 +0000 2026",
+        "likes": 7926,
+        "retweets": 737
+      },
+      {
         "text": "Their first mistake was letting me talk. https://t.co/bzwpUk0Quj",
         "url": "https://x.com/saylor/status/2111562980374855916",
         "time": "Sat Oct 17 21:00:20 +0000 2026",
-        "likes": 4521,
-        "retweets": 472
+        "likes": 5066,
+        "retweets": 543
       },
       {
         "text": "Watch the full conversation with @dgt10011 on YouTube: https://t.co/RVeO25bH9Y https://t.co/WZlTAFKONz",
         "url": "https://x.com/saylor/status/2111538821837848958",
         "time": "Sat Oct 17 19:24:20 +0000 2026",
-        "likes": 153,
-        "retweets": 14
+        "likes": 176,
+        "retweets": 15
       },
       {
         "text": "At the ParaFi Investor Day this week, I presented an overview of digital capital, credit and equity, and then joined Jeff Park (@dgt10011) for a fireside chat on digital assets, digital intelligence, and the future of finance.\n\n01:23 – Bitcoin as Digital Capital: bull market https://t.co/fjYATg4SEl",
         "url": "https://x.com/saylor/status/2111478644249899171",
         "time": "Sat Oct 17 15:25:12 +0000 2026",
-        "likes": 1927,
-        "retweets": 280
+        "likes": 2045,
+        "retweets": 296
       },
       {
         "text": "₿uy the Flying Car. https://t.co/bjRvh6jvGK",
         "url": "https://x.com/saylor/status/2111125711104995478",
         "time": "Fri Oct 16 16:02:47 +0000 2026",
-        "likes": 34451,
-        "retweets": 2755
-      },
-      {
-        "text": "Addressing the bear case. https://t.co/XGFVSIzrjt",
-        "url": "https://x.com/saylor/status/2111065132877189537",
-        "time": "Fri Oct 16 12:02:04 +0000 2026",
-        "likes": 5766,
-        "retweets": 534
+        "likes": 34857,
+        "retweets": 2786
       }
     ],
     "viktorfischer": [
@@ -1179,98 +1179,98 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Warren Buffett Says He Has \"Never Felt Better\" About Berkshire Hathaway's Future as He Steps Down as Chairman at 96",
-        "url": "https://finnhub.io/api/news?id=20b3248aa26392d4663278bc6d5be6fa65d0e4e80fee8891e032764d2f58a8ec",
-        "datetime": 1792324200,
+        "headline": "Warren Buffett's Market Warning Is Hard to Ignore. But I'd Buy These 3 Stocks Anyway.",
+        "url": "https://finnhub.io/api/news?id=422ae045d89dd4f5bec6ff82b07059b62d89bedca11b9a6f9d924de8da3d1d30",
+        "datetime": 1792337820,
         "source": "Yahoo"
       },
       {
-        "headline": "Breakfast News: The Sunday Edition",
-        "url": "https://finnhub.io/api/news?id=f42465dbd8bdde835610af1c070990e1212143e1c10e1cddd6dce0452489f705",
-        "datetime": 1792324200,
+        "headline": "The 10-Year Treasury Is Above 5% for the First Time in Almost 20 Years. History Says This Is How the S&P 500 Index Will Perform Over the Next 12 Months.",
+        "url": "https://finnhub.io/api/news?id=33c05a3e197319288144ff4a593a2ce406c654a411462557c2f8b634fbba235e",
+        "datetime": 1792336020,
         "source": "Yahoo"
       },
       {
-        "headline": "NASA to Buy a New Space Station. Price Tag: $34.1 Billion",
-        "url": "https://finnhub.io/api/news?id=5f4af7981b8ea836f05935a20ca737c765e87221d1d477a6aa6c22ff490e14ad",
-        "datetime": 1792322820,
+        "headline": "TSMC Is Spending up to $64 Billion This Year. Here's Why That's Great News for Investors.",
+        "url": "https://finnhub.io/api/news?id=c3f4ff3eb435387eeb234e2598da3b17f6e16ca029383249111a536d890446a9",
+        "datetime": 1792335180,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Bought More CRISPR Therapeutics Stock 2 Days in a Row. Here's What She Sees in the Biotech Stock.",
-        "url": "https://finnhub.io/api/news?id=a17342c01986484a9cb93f40b6ab82d2decc2b5b16eba0c7b3ecd4fe51a86222",
-        "datetime": 1792321800,
+        "headline": "SpaceX Is Buying Airwaves to Take On the Wireless Carriers. Is the Stock a Buy?",
+        "url": "https://finnhub.io/api/news?id=32e7df69acfaee61384de29c2a5f2766c832ff0a80a1e543771ce17af61e42d2",
+        "datetime": 1792334581,
         "source": "Yahoo"
       },
       {
-        "headline": "Richard Branson's Virgin Galactic Reopened Ticket Sales at $750,000 a Seat in 2026, Up From the $600,000 It Charged for 700 Previously Sold Seats. Is SPCE Stock's Pricing Power Finally Catching Up to Its Cash Burn?",
-        "url": "https://finnhub.io/api/news?id=5c5136f6101527fe4bf643d9a7b189970c6adac5fbe820bfe47549209b394d80",
-        "datetime": 1792321320,
+        "headline": "Taiwan Semiconductor’s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
+        "url": "https://finnhub.io/api/news?id=95ffac3e554a60ea084b112a2ab80b6599dc625942d23a70c55c3cabc1479544",
+        "datetime": 1792334061,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Verizon launches generous customer perks after raising prices",
+        "url": "https://finnhub.io/api/news?id=d5ae848f6317f89a74e9831a13be514ef02e6d4f447d230f5092a6f02b3ff018",
+        "datetime": 1792337580,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
+        "url": "https://finnhub.io/api/news?id=343a8280b97ee2beb305a37aaf5d5e4c490fd1015eb7a8ba8b6f108526c1474a",
+        "datetime": 1792334690,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
+        "url": "https://finnhub.io/api/news?id=d5410d27a5c388affec84b6dc135d9690205e35718a016773b86c19991aa0743",
+        "datetime": 1792334348,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Prediction: Alphabet Will Report Google Cloud Revenue Growth Exceeding 100% on Oct. 28.",
+        "url": "https://finnhub.io/api/news?id=64b2f1d7bfd5a1883444e989aef4e1cd76e381fb854de4004b425c6b26331531",
+        "datetime": 1792325100,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Mastercard’s New Agent Detection Score Asks a Question No Card Network Has Asked Before",
         "url": "https://finnhub.io/api/news?id=5b747c632b1a670299f078c78779a1b4e5080c8980bd5f369e857539c8ca7082",
         "datetime": 1792321707,
         "source": "Yahoo"
-      },
-      {
-        "headline": "3 Cash Flow Stocks To Watch In October 2026",
-        "url": "https://finnhub.io/api/news?id=4426b4cfdc3e8ca9cab9314c511bda73d20d05614c496b90d220e747bd179ab4",
-        "datetime": 1792318307,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Can Alphabet Stock Double By 2030?",
-        "url": "https://finnhub.io/api/news?id=18df35bcc0aa4377e01a31faeefff54f886da52e850d32cb24658b577848939d",
-        "datetime": 1792317000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
-        "url": "https://finnhub.io/api/news?id=8522880567ed0bba6d5d8b0f3acb9b39a3e40fb07418a5a1d7341721efa72a22",
-        "datetime": 1792314000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "AI Investment Impact Understated In U.S. 'It' Market: Texas Reveals",
-        "url": "https://finnhub.io/api/news?id=03fd4bc2999d901f5bc2e52183f24910137f24e6e0bdaed3e6c5c60e0fd0eeab",
-        "datetime": 1792303200,
-        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
+        "url": "https://finnhub.io/api/news?id=bf38862e3ff00e62c969aa6be700ecb30acee5237891c13ab3b2baeec2ca5ea9",
+        "datetime": 1792336329,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla's flying Roadster requires a $50,000 deposit — but even Musk isn't sure it's street-legal",
+        "url": "https://finnhub.io/api/news?id=bb81054c22168935d82d74e710cdb2ef81a10c24048748b816d4a6a0a5e5a14d",
+        "datetime": 1792335000,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "What To Expect In Markets This Week: SPCX, TSLA, META, NFLX, IBM Earnings And More",
+        "url": "https://finnhub.io/api/news?id=fe42684d497baae3aaa7a1e0479172e0b96dc0a4986224d8f5f570d83db2b753",
+        "datetime": 1792331896,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "US Appeals Court Overturns Class Action Lawsuit Over Tesla Self-Driving Claims",
+        "url": "https://finnhub.io/api/news?id=c1ba5c18726c68dff6b17dfcfa67e62c474e17b682835d5f8f1abbff0a7e872b",
+        "datetime": 1792328102,
+        "source": "Yahoo"
+      },
       {
         "headline": "CoreWeave Heads These 3 High Growth Insider Stocks To Watch",
         "url": "https://finnhub.io/api/news?id=237af556abe923b261264e64611bf37836e6b579190d5e3616f561eb04b7d170",
         "datetime": 1792321777,
         "source": "Yahoo"
-      },
-      {
-        "headline": "TSLA, CSIQ Stocks In Focus As China Tightens Solar Manufacturing Technology Exports",
-        "url": "https://finnhub.io/api/news?id=9d5c976d51356ee0a515d470c7e2a799a285f10f97e13c1bcb5b2b5deccd9d9a",
-        "datetime": 1792318581,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What to Expect in Markets This Week: Meta, Tesla Report; Airlines, Streaming Giants’ Results Due",
-        "url": "https://finnhub.io/api/news?id=8522880567ed0bba6d5d8b0f3acb9b39a3e40fb07418a5a1d7341721efa72a22",
-        "datetime": 1792314000,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
-        "url": "https://finnhub.io/api/news?id=0361792884d13193f142b06e8fd8d60a4422616d7c80c60ebca82133aa938f87",
-        "datetime": 1792308300,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Wall Street Week Ahead",
-        "url": "https://finnhub.io/api/news?id=b003098e70a6cdd7a3ab60fb61978bd51c28cff1b3b3250070bf025dbecfc5c3",
-        "datetime": 1792304769,
-        "source": "SeekingAlpha"
       }
     ],
     "CRCL": [
@@ -1308,6 +1308,12 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+        "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+        "datetime": 1792328400,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
         "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
         "datetime": 1792204200,
@@ -1329,12 +1335,6 @@
         "headline": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
         "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
         "datetime": 1792147946,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-        "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-        "datetime": 1792147263,
         "source": "CoinDesk"
       }
     ],
