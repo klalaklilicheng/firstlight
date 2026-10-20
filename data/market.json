@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:24:15.202Z",
+  "updated_at": "2026-10-20T06:55:49.468Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 32.78,
-      "change_pct": -1.56
+      "price": 33.78,
+      "change_pct": 3.05
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81361,
-      "change_pct": -1.26
+      "price": 81733,
+      "change_pct": -1.2
     },
     {
       "symbol": "ETH",
-      "price": 2384.45,
-      "change_pct": -1.5
+      "price": 2397.05,
+      "change_pct": -1.27
     },
     {
       "symbol": "SOL",
-      "price": 104.1,
-      "change_pct": -0.48
+      "price": 104.6,
+      "change_pct": -1.05
     },
     {
       "symbol": "HYPE",
-      "price": 78.68,
-      "change_pct": -0.53
+      "price": 78.92,
+      "change_pct": -1.65
     },
     {
       "symbol": "ZEC",
-      "price": 1127.84,
-      "change_pct": -2.36
+      "price": 1137.1,
+      "change_pct": -2.15
     },
     {
       "symbol": "TAO",
-      "price": 264.55,
-      "change_pct": -2.18
+      "price": 265.43,
+      "change_pct": -2.98
     },
     {
       "symbol": "SKY",
-      "price": 1613.4,
-      "change_pct": 1.07
+      "price": 1634.4,
+      "change_pct": 2.63
     },
     {
       "symbol": "AAVE",
-      "price": 147.94,
-      "change_pct": -3.07
+      "price": 149.66,
+      "change_pct": -2.1
     },
     {
       "symbol": "BNB",
-      "price": 726.42,
-      "change_pct": 0.16
+      "price": 729.37,
+      "change_pct": 0.33
     },
     {
       "symbol": "NEAR",
-      "price": 4.82,
-      "change_pct": -4.41
+      "price": 4.78,
+      "change_pct": -5.28
     },
     {
       "symbol": "DOGE",
-      "price": 0.078809,
-      "change_pct": -1.07
+      "price": 0.079305,
+      "change_pct": -0.54
     },
     {
       "symbol": "SPACEX",
-      "price": 609.27,
-      "change_pct": 0.25
+      "price": 602.23,
+      "change_pct": -1.23
     }
   ],
   "earnings": {
@@ -474,6 +474,42 @@
   },
   "news": [
     {
+      "headline": "美国比特币 ETF 吸金 5.27 亿美元，创 9 月以来最大表现",
+      "summary": "贝莱德 (BlackRock) 的 IBIT 以 6.652 亿美元的流入领涨，抵消了富达 (Fidelity) 和灰度 (Grayscale) 的撤资，而其他基金则没有净流入。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792474760,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Sophon 在主网关闭之前设定 11 月 25 日提款截止日期",
+      "summary": "6 月，Sophon 的开发人员表示，维护独立区块链的成本不再证明其好处，并宣布计划专注于 Base 上的消费金融和人工智能应用。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792473251,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国禁止 DeepSeek 使用民用机构 IT 系统",
+      "summary": "由于担心 DeepSeek 可能向中国泄露联邦信息，这些限制延续了美国国防和安全机构此前的禁令。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792469278,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "比特币反弹可能会重振国债购买，但宽松货币时代已经结束",
+      "summary": "Bitfinex 衍生品主管贾格·库纳 (Jag Kooner) 表示：“看起来不太可能恢复去年不加区别的融资。”",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792460100,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "摩根大通将 JPM Coin 引入以太坊主网：发生了什么变化以及这对 ETH 意味着什么",
       "summary": "<p dir=\"ltr\">摩根大通已将其美元存款代币 JPM Coin（股票代码 JPMD）扩展到以太坊主网。经批准的机构客户现在拥有第二个公共网络，可以全天候转移美元。彭博社于 10 月 19 日星期一报道了这一举措，援引该银行和以太坊的消息",
       "source": "Forexlive",
@@ -547,7 +583,7 @@
     },
     {
       "headline": "科技股重挫反弹——此外，新的医生调查让我们对礼来公司持乐观态度",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
       "datetime": 1792435955,
@@ -609,7 +645,7 @@
       "related": ""
     },
     {
-      "headline": "在另一股悬而未决的问题解除之前，我们将买入更多遭受重创的股票",
+      "headline": "在另一个悬而未决的问题解除之前，我们将购买更多遭受重创的股票",
       "summary": "该股较 8 月 5 日收盘价仍大幅下跌。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
@@ -618,7 +654,7 @@
       "related": ""
     },
     {
-      "headline": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
+      "headline": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
@@ -706,42 +742,6 @@
       "datetime": 1792407954,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "随着股市反弹，比特币延续反弹至 82,000 美元上方，DeFi 代币引领山寨币上涨",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-      "datetime": 1792405593,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "法国推进稳定币税，着眼于自我托管钱包和退出税提案",
-      "summary": "法国国民议会通过了一项针对某些稳定币互换的加密货币税修正案，而有关退出税和自我托管钱包报告的单独提案仍在考虑中。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792405350,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "股市反弹至关键科技股盈利：本周比特币需要了解的三件事",
-      "summary": "分析师预计，随着股市试图收复上周的损失，比特币将再次测试 80,000 美元的支撑位。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792405200,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "BingX、YouHodler 在最新更新中添加到 ESMA MiCA 注册中",
-      "summary": "ESMA 最新的 MiCA 注册更新包括 BingX、YouHodler 和桑坦德银行的 Openbank，使独特的 CASP 总数达到 375 个。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792404780,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -812,12 +812,12 @@
     }
   ],
   "btc_score": {
-    "score": 36.5,
+    "score": 40.6,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 12.7,
-    "weekly_score": 23.8,
-    "btc_price": 81445.3,
+    "daily_score": 16.7,
+    "weekly_score": 23.9,
+    "btc_price": 81826.9,
     "fear_greed": 49,
     "indicators": [
       {
@@ -829,22 +829,22 @@
       },
       {
         "name": "ETF 每日净流入",
-        "value": -138500000,
-        "score": 41,
+        "value": 526700000,
+        "score": 85,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.008466,
-        "score": 49,
+        "value": 0.009592,
+        "score": 50,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.7,
-        "score": 80,
+        "value": 1.72,
+        "score": 81,
         "weight": 3,
         "group": "daily"
       },
@@ -857,7 +857,7 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.66,
+        "value": 1.67,
         "score": 39,
         "weight": 12,
         "group": "weekly"
@@ -906,15 +906,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 60.5,
+        "value": 60.9,
         "score": 68,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -82.8,
-        "score": 22,
+        "value": -72.8,
+        "score": 25,
         "weight": 4,
         "group": "weekly"
       }
@@ -1032,7 +1032,7 @@
         "text": "In times like this, if you're a long term investor, you don't want to be waffling about being in or out, you want to be stacking units systematically. Don't get confused by the traders, it's a separate game.\n\nOn unit accumulation, depending on how long you've been in the game,",
         "url": "https://x.com/cburniske/status/2111895750510825630",
         "time": "Sun Oct 18 19:02:38 +0000 2026",
-        "likes": 1324,
+        "likes": 1335,
         "retweets": 129
       },
       {
@@ -1046,7 +1046,7 @@
         "text": "Crypto in its value era, while AI is in its inflated token era. \n\nValue tends to be where few are looking.",
         "url": "https://x.com/cburniske/status/2110158205208895689",
         "time": "Tue Oct 13 23:58:15 +0000 2026",
-        "likes": 1473,
+        "likes": 1472,
         "retweets": 121
       },
       {
@@ -1076,21 +1076,21 @@
         "text": "when valuing anthropic's ipo, don't forget to include p(boom) and p(doom) in ur ev calculus:\n\np(boom): they get us to infinite abundance, in which case money doesn't matter anymore\n\np(doom): they kill us all, in which case money doesn't matter anymore\n\ni put p(boom or doom) at",
         "url": "https://x.com/QwQiao/status/2110680296379052493",
         "time": "Thu Oct 15 10:32:51 +0000 2026",
-        "likes": 150,
+        "likes": 151,
         "retweets": 4
       },
       {
         "text": "actually i forget the ability not to get triggered by random jokes on the internet remains a moat",
         "url": "https://x.com/QwQiao/status/2109697729207448001",
         "time": "Mon Oct 12 17:28:29 +0000 2026",
-        "likes": 91,
+        "likes": 92,
         "retweets": 0
       },
       {
         "text": "by the time ur kids enter adulthood there will be nearly no moats left:\n\n- intelligence commoditized by ai\n\n- looking jacked and sexy commoditized by glp-1s and myostatin inhibitors\n\n- agency and resilience commoditized by dopamine and prefrontal modulators\n\n- being fun to be",
         "url": "https://x.com/QwQiao/status/2109682480965996586",
         "time": "Mon Oct 12 16:27:54 +0000 2026",
-        "likes": 1377,
+        "likes": 1378,
         "retweets": 96
       },
       {
@@ -1106,36 +1106,36 @@
         "text": "Just another day at the office. https://t.co/4xy7UfA5TG",
         "url": "https://x.com/saylor/status/2112244839186076145",
         "time": "Mon Oct 19 18:09:47 +0000 2026",
-        "likes": 4139,
-        "retweets": 280
+        "likes": 5005,
+        "retweets": 335
       },
       {
         "text": "USD Duration is 3.4 yrs and STRC's BTC Credit is 53 bps assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $81,468. Learn more about Strategy's credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2112152620638851211",
         "time": "Mon Oct 19 12:03:21 +0000 2026",
-        "likes": 468,
-        "retweets": 31
+        "likes": 482,
+        "retweets": 32
       },
       {
         "text": "Strategy has repurchased $193M of $STRC and acquired 267 $BTC. As of 10/18/26, we hold 848,517 BTC and $5.3B of USD Assets. We have also increased the size of our Digital Credit Securities Repurchase Program from $2.0B to $3.0B. $MSTR https://t.co/ea29gd1OO5",
         "url": "https://x.com/saylor/status/2112152618835558767",
         "time": "Mon Oct 19 12:03:20 +0000 2026",
-        "likes": 7757,
-        "retweets": 857
+        "likes": 8124,
+        "retweets": 896
       },
       {
         "text": "Plan ₿. https://t.co/U3h7yoSIjY",
         "url": "https://x.com/saylor/status/2111924502607384925",
         "time": "Sun Oct 18 20:56:53 +0000 2026",
-        "likes": 11323,
-        "retweets": 1018
+        "likes": 11556,
+        "retweets": 1041
       },
       {
         "text": "We found room for more orange. https://t.co/XAgiEZbXgO",
         "url": "https://x.com/saylor/status/2111800758576574624",
         "time": "Sun Oct 18 12:45:10 +0000 2026",
-        "likes": 13808,
-        "retweets": 1260
+        "likes": 13914,
+        "retweets": 1269
       }
     ],
     "viktorfischer": [
@@ -1179,69 +1179,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It's a Buy in October.",
-        "url": "https://finnhub.io/api/news?id=3662b0b01932967bf839eb4e4d7f7803679863dfb0f752a99292f079a773a980",
-        "datetime": 1792453800,
+        "headline": "Compound Interest Will Create More Millionaires by 2030 Than Any Other Strategy",
+        "url": "https://finnhub.io/api/news?id=8b62f0ab6a7ee296cdf7e223bf35eb4dbca86a9be0ce99a32b7ee12856fa35a9",
+        "datetime": 1792473600,
         "source": "Yahoo"
       },
       {
-        "headline": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious",
-        "url": "https://finnhub.io/api/news?id=a861ca801b42e146b564f5e989e7c083ea7be47ca4cd27e5ec6db1b7a25a5b3d",
-        "datetime": 1792452540,
+        "headline": "3 European AI Factory Automation Stocks Retail Investors Should Watch Now",
+        "url": "https://finnhub.io/api/news?id=308625a4a359c754ae835b5322b6bd36c0d664cf2e33330af13fdf4bc4975a25",
+        "datetime": 1792473314,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: Here's What a $5,000 Investment in Joby Aviation Will Be Worth in 10 Years",
-        "url": "https://finnhub.io/api/news?id=4d3dd464d71f83a2bacee80996d0aa8225d1377920fbb60e87ea25e7c31b6653",
-        "datetime": 1792452300,
+        "headline": "Should You Buy Netflix Stock Before Its Earnings Report After Hours Today?",
+        "url": "https://finnhub.io/api/news?id=1177a2f08fc687f49a1a8eba968bc0c6b4aba59b4e5f4446ad5535ee35290c51",
+        "datetime": 1792471801,
         "source": "Yahoo"
       },
       {
-        "headline": "Market Chatter: Nscale in Talks for $45 Billion Anthropic Computing Deal",
-        "url": "https://finnhub.io/api/news?id=a43c1fcb67680e3493d7cdbff8590064fc49e48cca7376c0f94cbc2cb081bb69",
-        "datetime": 1792450932,
+        "headline": "If I Could Only Buy 1 Quantum Computing Stock With $1,000, It Would Be This One.",
+        "url": "https://finnhub.io/api/news?id=65d9a2da95f377610ad73a4c6fdcd14f166bb8e2f24eb98bb31f75ca07b964e0",
+        "datetime": 1792470000,
         "source": "Yahoo"
       },
       {
-        "headline": "Pre-IPO Anduril Stock Climbs 50% in 5 Months",
-        "url": "https://finnhub.io/api/news?id=e87eeeccdd859d1bb06b1f45068d7e1d6a439203e303289b4d58bf80345cb8e7",
-        "datetime": 1792450200,
+        "headline": "Bitmine Immersion Technologies And 2 Top Growth Stocks To Watch",
+        "url": "https://finnhub.io/api/news?id=8acc0016c8fecf3450b3108a695c98046aa9a00478cf881db89ba05df238113f",
+        "datetime": 1792469916,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Eric Schmidt Wrote a Check to Anthropic Before the AI Boom: Here’s How Big the Payoff Could Get",
+        "url": "https://finnhub.io/api/news?id=28cd537ce4e1ad9a4ba044ef5ecb3512a306a715f20b0b007596c8455ace2a92",
+        "datetime": 1792470833,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Will Slower Growth Outlook Change Reddit Stock Narrative",
+        "url": "https://finnhub.io/api/news?id=181935c40abdc8751adb1cb6315c7f08e4edf86e5d83516f80a703c1abb70590",
+        "datetime": 1792462161,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "MIPI Alliance Announces Board Leadership Appointments",
+        "url": "https://finnhub.io/api/news?id=138837307abb3a94bd706d3a4ae2eb45ed0f785b557805b60bfa2848c7206f1b",
+        "datetime": 1792462020,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla Stock At $4,400? Cathie Wood's ARK Pins Hopes On Robotaxis, Sees SpaceX Merger In 5 Years",
+        "url": "https://finnhub.io/api/news?id=5df4c728ae44da93d4fecb87dd9219fb0c1bf9e1c9b3a357f8432c382cb93acd",
+        "datetime": 1792460624,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Ex-Google CEO Eric Schmidt Reportedly Owns 1% Of Anthropic",
         "url": "https://finnhub.io/api/news?id=318796c3847247ec9d3888a2c6c9706ec0d1d4f938c43c3007c743b486529c9a",
         "datetime": 1792452514,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
-        "url": "https://finnhub.io/api/news?id=9e78550d83ba9d1786aec829a1c1e34d9f4ccce64dcac9901ef0ae4bbdbb3177",
-        "datetime": 1792449780,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Eric Schmidt’s 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg",
-        "url": "https://finnhub.io/api/news?id=ec3e1a77be963cac51864e2ec0943b19939f8209f152efb04b6d66f276f70ad8",
-        "datetime": 1792448765,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "GPIX Out-Yielded JEPI and Returned 17.37% to Its 9.33%. JEPI Is Still 9.5 Times Bigger",
-        "url": "https://finnhub.io/api/news?id=474d8c1a04257bccad1db173261e20deb67dc3db0abecc7bc43f02656bded33a",
-        "datetime": 1792447417,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
-        "url": "https://finnhub.io/api/news?id=a139c8e472ae6059b9be8564cf6efbe69069460e8698377098c7300a062d83a7",
-        "datetime": 1792442563,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus",
+        "url": "https://finnhub.io/api/news?id=16e5bc7a300093ae230836abdc7cafb5c4cf229188872e8713eb6684efdf28f0",
+        "datetime": 1792467116,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla Stock At $4,400? Cathie Wood's ARK Pins Hopes On Robotaxis, Sees SpaceX Merger In 5 Years",
+        "url": "https://finnhub.io/api/news?id=5df4c728ae44da93d4fecb87dd9219fb0c1bf9e1c9b3a357f8432c382cb93acd",
+        "datetime": 1792460624,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+        "url": "https://finnhub.io/api/news?id=41724bb84af09d9cea19cdbbd4d08b92bcd0b2aaf3e28f6c099dc9c83b772282",
+        "datetime": 1792456860,
+        "source": "Yahoo"
+      },
       {
         "headline": "SpaceX, Tesla Earnings on Deck: Key Metrics to Watch",
         "url": "https://finnhub.io/api/news?id=f1b423bf0376dad3bdf1dbf34ee9c2bc39797f7005729d05b40b0a450e6b2a2e",
@@ -1252,24 +1270,6 @@
         "headline": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
         "url": "https://finnhub.io/api/news?id=b2c49c35a756adb72db9233d431d447e8200033fa768a6a031f1d0857617d958",
         "datetime": 1792450823,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
-        "url": "https://finnhub.io/api/news?id=d1dbea3756529f0c1b3e9b9f037511d22104aacabeb39bc6eae426f082d5c958",
-        "datetime": 1792448139,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-        "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a",
-        "datetime": 1792445414,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "5 Must-See Earnings Charts This Week",
-        "url": "https://finnhub.io/api/news?id=c878392c10dac719bbf97e2bd1838cb6a8f940a2e51b27b9121d818006d61c36",
-        "datetime": 1792444320,
         "source": "Yahoo"
       }
     ],
@@ -1308,6 +1308,18 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "US Bitcoin ETFs draw $527M in biggest showing since September",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1792474760,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Bitcoin rally could revive treasury buying, but easy-money days over",
+        "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1792460100,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
         "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792427418,
@@ -1324,18 +1336,6 @@
         "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792412500,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
-        "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-        "datetime": 1792408500,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
-        "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-        "datetime": 1792407954,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
