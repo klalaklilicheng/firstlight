@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:43:01.954Z",
+  "updated_at": "2026-10-20T01:24:15.202Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 82020,
-      "change_pct": 0.48
+      "price": 81361,
+      "change_pct": -1.26
     },
     {
       "symbol": "ETH",
-      "price": 2406.01,
-      "change_pct": 0.62
+      "price": 2384.45,
+      "change_pct": -1.5
     },
     {
       "symbol": "SOL",
-      "price": 105.08,
-      "change_pct": 1.66
+      "price": 104.1,
+      "change_pct": -0.48
     },
     {
       "symbol": "HYPE",
-      "price": 79.16,
-      "change_pct": 1.15
+      "price": 78.68,
+      "change_pct": -0.53
     },
     {
       "symbol": "ZEC",
-      "price": 1154.8,
-      "change_pct": 3.72
+      "price": 1127.84,
+      "change_pct": -2.36
     },
     {
       "symbol": "TAO",
-      "price": 267.76,
-      "change_pct": 0.66
+      "price": 264.55,
+      "change_pct": -2.18
     },
     {
       "symbol": "SKY",
-      "price": 1602.95,
-      "change_pct": 2.42
+      "price": 1613.4,
+      "change_pct": 1.07
     },
     {
       "symbol": "AAVE",
-      "price": 149.67,
-      "change_pct": -0.84
+      "price": 147.94,
+      "change_pct": -3.07
     },
     {
       "symbol": "BNB",
-      "price": 730.44,
-      "change_pct": 1.69
+      "price": 726.42,
+      "change_pct": 0.16
     },
     {
       "symbol": "NEAR",
-      "price": 4.94,
-      "change_pct": 0.14
+      "price": 4.82,
+      "change_pct": -4.41
     },
     {
       "symbol": "DOGE",
-      "price": 0.079725,
-      "change_pct": 0.98
+      "price": 0.078809,
+      "change_pct": -1.07
     },
     {
       "symbol": "SPACEX",
-      "price": 612.96,
-      "change_pct": 2.83
+      "price": 609.27,
+      "change_pct": 0.25
     }
   ],
   "earnings": {
@@ -143,6 +143,14 @@
           "surprise_pct": 3.8159
         },
         {
+          "period": "2026-09-30",
+          "quarter": 2,
+          "year": 2026,
+          "actual": 2.22,
+          "estimate": 2.1384,
+          "surprise_pct": 3.8159
+        },
+        {
           "period": "2026-06-30",
           "quarter": 1,
           "year": 2027,
@@ -151,20 +159,12 @@
           "surprise_pct": 4.341
         },
         {
-          "period": "2026-03-31",
-          "quarter": 4,
+          "period": "2026-06-30",
+          "quarter": 1,
           "year": 2026,
-          "actual": 1.62,
-          "estimate": 1.5634,
-          "surprise_pct": 3.6203
-        },
-        {
-          "period": "2025-12-31",
-          "quarter": 3,
-          "year": 2026,
-          "actual": 1.3,
-          "estimate": 1.2746,
-          "surprise_pct": 1.9928
+          "actual": 1.87,
+          "estimate": 1.7922,
+          "surprise_pct": 4.341
         }
       ],
       "comment": "连续4季超预期 (+3.8%)"
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "摩根大通将 JPM Coin 引入以太坊主网：发生了什么变化以及这对 ETH 意味着什么",
+      "summary": "<p dir=\"ltr\">摩根大通已将其美元存款代币 JPM Coin（股票代码 JPMD）扩展到以太坊主网。经批准的机构客户现在拥有第二个公共网络，可以全天候转移美元。彭博社于 10 月 19 日星期一报道了这一举措，援引该银行和以太坊的消息",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/jpmorgan-brings-jpm-coin-to-ethereum-mainnet-what-changes-and-what-it-means-for-eth/",
+      "datetime": 1792453852,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Solana 财务公司 SkyAI 出售所有 SOL 股份，启动 2.01 亿美元的回购",
       "summary": "这家前医疗设备制造商已清算其 Solana 金库，并提议使用其持有的 2.238 亿美元现金回购股票和认股权证。",
       "source": "Cointelegraph",
@@ -538,7 +547,7 @@
     },
     {
       "headline": "科技股重挫反弹——此外，新的医生调查让我们对礼来公司持乐观态度",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
       "datetime": 1792435955,
@@ -600,7 +609,7 @@
       "related": ""
     },
     {
-      "headline": "在另一个悬而未决的问题解除之前，我们将购买更多遭受重创的股票",
+      "headline": "在另一股悬而未决的问题解除之前，我们将买入更多遭受重创的股票",
       "summary": "该股较 8 月 5 日收盘价仍大幅下跌。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/19/were-buying-more-of-a-beaten-up-stock-before-another-overhang-is-lifted.html",
@@ -609,16 +618,7 @@
       "related": ""
     },
     {
-      "headline": "随着买家和卖家继续解决他们的战斗，比特币在中立的技术领域进行交易",
-      "summary": "<p>比特币今天走高，但买家还有一些工作要做。</p><p>在突破 100 小时和 200 小时移动均线并达到 83,075 美元后，价格在这些技术水平之间回落。这使得短期偏见回到中性区域，交易者正在等待",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/bitcoin-trades-in-a-neutral-technical-territory-as-the-buyers-and-sellers-continue-to-resolve-their-battle/",
-      "datetime": 1792423746,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Zerohash 推出了一种新工具，无需复制钱包地址即可移动加密货币",
+      "headline": "Zerohash 推出了一款无需复制钱包地址即可移动加密货币的新工具",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
@@ -726,7 +726,7 @@
       "related": ""
     },
     {
-      "headline": "股市反弹至关键科技股：本周比特币需要了解的三件事",
+      "headline": "股市反弹至关键科技股盈利：本周比特币需要了解的三件事",
       "summary": "分析师预计，随着股市试图收复上周的损失，比特币将再次测试 80,000 美元的支撑位。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -812,39 +812,39 @@
     }
   ],
   "btc_score": {
-    "score": 36.9,
+    "score": 36.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 13.1,
+    "daily_score": 12.7,
     "weekly_score": 23.8,
-    "btc_price": 82066.5,
+    "btc_price": 81445.3,
     "fear_greed": 49,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.5178,
+        "value": 0.5146,
         "score": 17,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": -54900000,
-        "score": 46,
+        "value": -138500000,
+        "score": 41,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.008466,
+        "score": 49,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 1.65,
-        "score": 77,
+        "value": 1.7,
+        "score": 80,
         "weight": 3,
         "group": "daily"
       },
@@ -864,7 +864,7 @@
       },
       {
         "name": "NUPL",
-        "value": 0.342,
+        "value": 0.341,
         "score": 59,
         "weight": 11,
         "group": "weekly"
@@ -906,15 +906,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 61.2,
-        "score": 69,
+        "value": 60.5,
+        "score": 68,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -90.2,
-        "score": 20,
+        "value": -82.8,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -923,7 +923,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 9
+      "days_until": 8
     },
     "schedule": [
       "2025-01-29",
@@ -1032,14 +1032,14 @@
         "text": "In times like this, if you're a long term investor, you don't want to be waffling about being in or out, you want to be stacking units systematically. Don't get confused by the traders, it's a separate game.\n\nOn unit accumulation, depending on how long you've been in the game,",
         "url": "https://x.com/cburniske/status/2111895750510825630",
         "time": "Sun Oct 18 19:02:38 +0000 2026",
-        "likes": 1316,
+        "likes": 1324,
         "retweets": 129
       },
       {
         "text": "My, what big bounce you have.",
         "url": "https://x.com/cburniske/status/2110782103029977567",
         "time": "Thu Oct 15 17:17:24 +0000 2026",
-        "likes": 716,
+        "likes": 717,
         "retweets": 20
       },
       {
@@ -1090,7 +1090,7 @@
         "text": "by the time ur kids enter adulthood there will be nearly no moats left:\n\n- intelligence commoditized by ai\n\n- looking jacked and sexy commoditized by glp-1s and myostatin inhibitors\n\n- agency and resilience commoditized by dopamine and prefrontal modulators\n\n- being fun to be",
         "url": "https://x.com/QwQiao/status/2109682480965996586",
         "time": "Mon Oct 12 16:27:54 +0000 2026",
-        "likes": 1376,
+        "likes": 1377,
         "retweets": 96
       },
       {
@@ -1106,36 +1106,36 @@
         "text": "Just another day at the office. https://t.co/4xy7UfA5TG",
         "url": "https://x.com/saylor/status/2112244839186076145",
         "time": "Mon Oct 19 18:09:47 +0000 2026",
-        "likes": 3476,
-        "retweets": 219
+        "likes": 4139,
+        "retweets": 280
       },
       {
         "text": "USD Duration is 3.4 yrs and STRC's BTC Credit is 53 bps assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $81,468. Learn more about Strategy's credit metrics: https://t.co/H0Xmf1wEF5",
         "url": "https://x.com/saylor/status/2112152620638851211",
         "time": "Mon Oct 19 12:03:21 +0000 2026",
-        "likes": 448,
-        "retweets": 29
+        "likes": 468,
+        "retweets": 31
       },
       {
         "text": "Strategy has repurchased $193M of $STRC and acquired 267 $BTC. As of 10/18/26, we hold 848,517 BTC and $5.3B of USD Assets. We have also increased the size of our Digital Credit Securities Repurchase Program from $2.0B to $3.0B. $MSTR https://t.co/ea29gd1OO5",
         "url": "https://x.com/saylor/status/2112152618835558767",
         "time": "Mon Oct 19 12:03:20 +0000 2026",
-        "likes": 7475,
-        "retweets": 833
+        "likes": 7757,
+        "retweets": 857
       },
       {
         "text": "Plan ₿. https://t.co/U3h7yoSIjY",
         "url": "https://x.com/saylor/status/2111924502607384925",
         "time": "Sun Oct 18 20:56:53 +0000 2026",
-        "likes": 11180,
-        "retweets": 1003
+        "likes": 11323,
+        "retweets": 1018
       },
       {
         "text": "We found room for more orange. https://t.co/XAgiEZbXgO",
         "url": "https://x.com/saylor/status/2111800758576574624",
         "time": "Sun Oct 18 12:45:10 +0000 2026",
-        "likes": 13733,
-        "retweets": 1256
+        "likes": 13808,
+        "retweets": 1260
       }
     ],
     "viktorfischer": [
@@ -1179,69 +1179,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Pfizer's Stock Is Finally Showing Signs of Life. Could This Be the Start of a Much Bigger Rally?",
-        "url": "https://finnhub.io/api/news?id=77759d1ec4bc5a7bdfa717de130bd443250a2d353c6e10c8bec9c6ce8ff292d2",
-        "datetime": 1792446421,
+        "headline": "Meet the Dividend King Stock That Yields More Than Quintuple the Nasdaq-100. Here's Why It's a Buy in October.",
+        "url": "https://finnhub.io/api/news?id=3662b0b01932967bf839eb4e4d7f7803679863dfb0f752a99292f079a773a980",
+        "datetime": 1792453800,
         "source": "Yahoo"
       },
       {
-        "headline": "Where Will VTI Be in 20 Years? Here's What History Suggests",
-        "url": "https://finnhub.io/api/news?id=43d9eb7fc6a53496074d521aa474f67828c84250ab6d1af4e30d014450c0bcc2",
-        "datetime": 1792446180,
+        "headline": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious",
+        "url": "https://finnhub.io/api/news?id=a861ca801b42e146b564f5e989e7c083ea7be47ca4cd27e5ec6db1b7a25a5b3d",
+        "datetime": 1792452540,
         "source": "Yahoo"
       },
       {
-        "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
-        "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a",
-        "datetime": 1792445414,
+        "headline": "Prediction: Here's What a $5,000 Investment in Joby Aviation Will Be Worth in 10 Years",
+        "url": "https://finnhub.io/api/news?id=4d3dd464d71f83a2bacee80996d0aa8225d1377920fbb60e87ea25e7c31b6653",
+        "datetime": 1792452300,
         "source": "Yahoo"
       },
       {
-        "headline": "2 Stocks Down About 70% to Buy Now and Hold for the Next Decade",
-        "url": "https://finnhub.io/api/news?id=5fe838e5ae84140759c674fac1e524c6b5c96181af9404c17dbaec90bc6de425",
-        "datetime": 1792445100,
+        "headline": "Market Chatter: Nscale in Talks for $45 Billion Anthropic Computing Deal",
+        "url": "https://finnhub.io/api/news?id=a43c1fcb67680e3493d7cdbff8590064fc49e48cca7376c0f94cbc2cb081bb69",
+        "datetime": 1792450932,
         "source": "Yahoo"
       },
       {
-        "headline": "NVIDIA Deal Highlights Value of Tiny's Early Poolside Investment",
-        "url": "https://finnhub.io/api/news?id=32791da660ac6326069f650aedaedef3fd85b93865f200a413f63bda30a4bd34",
-        "datetime": 1792444740,
+        "headline": "Pre-IPO Anduril Stock Climbs 50% in 5 Months",
+        "url": "https://finnhub.io/api/news?id=e87eeeccdd859d1bb06b1f45068d7e1d6a439203e303289b4d58bf80345cb8e7",
+        "datetime": 1792450200,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Ex-Google CEO Eric Schmidt Reportedly Owns 1% Of Anthropic",
+        "url": "https://finnhub.io/api/news?id=318796c3847247ec9d3888a2c6c9706ec0d1d4f938c43c3007c743b486529c9a",
+        "datetime": 1792452514,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet Stock Slipped After Q2 Earnings. Here's What Investors Need to See in Q3.",
+        "url": "https://finnhub.io/api/news?id=9e78550d83ba9d1786aec829a1c1e34d9f4ccce64dcac9901ef0ae4bbdbb3177",
+        "datetime": 1792449780,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Eric Schmidt’s 1% Anthropic stake sets up massive windfall ahead of IPO -Bloomberg",
+        "url": "https://finnhub.io/api/news?id=ec3e1a77be963cac51864e2ec0943b19939f8209f152efb04b6d66f276f70ad8",
+        "datetime": 1792448765,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "GPIX Out-Yielded JEPI and Returned 17.37% to Its 9.33%. JEPI Is Still 9.5 Times Bigger",
+        "url": "https://finnhub.io/api/news?id=474d8c1a04257bccad1db173261e20deb67dc3db0abecc7bc43f02656bded33a",
+        "datetime": 1792447417,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Update: Tech-Heavy Nasdaq Leads Wall Street's Relief Rally Ahead of Key Earnings",
         "url": "https://finnhub.io/api/news?id=a139c8e472ae6059b9be8564cf6efbe69069460e8698377098c7300a062d83a7",
         "datetime": 1792442563,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Alphabet (GOOGL) Pushes Into Carbon Removal Power Markets And Quantum AI",
-        "url": "https://finnhub.io/api/news?id=a1acc452505d211b7347123461ac729ef4cf2bbf0fa8605b9bed30db56ce503c",
-        "datetime": 1792440694,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "A $1.5 Trillion Anthropic IPO Still Pays Off for Google: “They’re Gonna Be Fine”",
-        "url": "https://finnhub.io/api/news?id=18e72b814343b1ffb34ab4d7ad4fddab0d68d71b6b54645cce845a7321725dec",
-        "datetime": 1792436048,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Are You Overpaying For Reddit Stock Versus Its Rivals?",
-        "url": "https://finnhub.io/api/news?id=7380b348eaef6d369593412d1f317c9a59e1ba2b7f482b59bc8b12ad955d7eb3",
-        "datetime": 1792435552,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Why Is Everyone Ignoring Trade Desk Stock's High Cash Yield?",
-        "url": "https://finnhub.io/api/news?id=53b56f0e608b39d16235263c21fffbe5d1b2c13f69e2b1f3abbbe2eb0722a046",
-        "datetime": 1792434469,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "SpaceX, Tesla Earnings on Deck: Key Metrics to Watch",
+        "url": "https://finnhub.io/api/news?id=f1b423bf0376dad3bdf1dbf34ee9c2bc39797f7005729d05b40b0a450e6b2a2e",
+        "datetime": 1792452240,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Nasdaq 100 Sees Best Day In Nearly A Month As AI Rout Cools — AMZN, BE, CRWV, AAPL, PLTR In Focus",
+        "url": "https://finnhub.io/api/news?id=b2c49c35a756adb72db9233d431d447e8200033fa768a6a031f1d0857617d958",
+        "datetime": 1792450823,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Did Foundry Win Just Shift Intel (INTC) Investment Narrative?",
+        "url": "https://finnhub.io/api/news?id=d1dbea3756529f0c1b3e9b9f037511d22104aacabeb39bc6eae426f082d5c958",
+        "datetime": 1792448139,
+        "source": "Yahoo"
+      },
       {
         "headline": "Dow Jones Futures: AMD, Nvidia Lead AI Trade Higher; Meta, Netflix, SpaceX, Tesla Earnings On Deck",
         "url": "https://finnhub.io/api/news?id=0e89d884f4dae74cae42a9e4c1ebd99c70ba069b9909f908a2dbd34d54a36a5a",
@@ -1249,59 +1267,41 @@
         "source": "Yahoo"
       },
       {
-        "headline": "Warren Buffett Should Emulate Musk and Give Berkshire Stock to America’s Kids",
-        "url": "https://finnhub.io/api/news?id=7f0b261a9e21ebd5c32b0bc4ff4e146e098bfb49e882e6eb049ca5a8e7bdad8a",
-        "datetime": 1792442400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Buy Top-Ranked Tech Stock TSMC Now on the Dip and Hold",
-        "url": "https://finnhub.io/api/news?id=a8a1543f56ffcbbc00d53ba49d94e631ebb86566d8f007f4bf76d9b98c652bc2",
-        "datetime": 1792441560,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Anthropic's 5% stock pledge raises big questions about who controls AI",
-        "url": "https://finnhub.io/api/news?id=3e7a02e09887d25e287da6ba02cc3b0d746bb20c7c64e0108bb02049c39b9f6e",
-        "datetime": 1792441199,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Rises on a Foundry Agreement With Intel as JPMorgan Upgrades the Stock",
-        "url": "https://finnhub.io/api/news?id=1bb54ff3683b83061badd91f3a125a0617189000da3f2260cf75bdd41478f462",
-        "datetime": 1792440467,
+        "headline": "5 Must-See Earnings Charts This Week",
+        "url": "https://finnhub.io/api/news?id=c878392c10dac719bbf97e2bd1838cb6a8f940a2e51b27b9121d818006d61c36",
+        "datetime": 1792444320,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
-        "headline": "Why Is Circle Internet Group (CRCL) Now Under Direct EU Banking Oversight?",
-        "url": "https://finnhub.io/api/news?id=82e5752509b8e8adf753b7bbaa9d479d3617a84ed9a27ae9a712588719b02080",
-        "datetime": 1792357891,
+        "headline": "Citi reveals top crypto stock picks ahead of Q3 earnings",
+        "url": "https://finnhub.io/api/news?id=a3ddb4b9cfbdcaed92789042803a1d4d831fd23c765ac801d0e4aad5c0cda9c3",
+        "datetime": 1792432341,
         "source": "Yahoo"
       },
       {
-        "headline": "Does Circle Internet Group (CRCL) Look Fully Valued After Its 35% Slide?",
-        "url": "https://finnhub.io/api/news?id=4eb3926cad45a9a330b1a6b0a8d8e737cacd5bef313d6b5bd9ae9ac5e876fd41",
-        "datetime": 1792354377,
+        "headline": "Circle, Hyperliquid Buck The Trend as Most Crypto IPO Stocks Plunge",
+        "url": "https://finnhub.io/api/news?id=4663ee4f1b7b17bf1ec12a855bdd81b0376cb4bbfa355e82f8a1fad92416a096",
+        "datetime": 1792429920,
         "source": "Yahoo"
       },
       {
-        "headline": "Ondo’s Tokenized Treasury Product Just Passed BlackRock’s BUIDL. Is ONDO Undervalued?",
-        "url": "https://finnhub.io/api/news?id=475a02d9998e2748ee6920dc26f879c26e321dcc11310d7ba0677f2133b2f54b",
-        "datetime": 1792350273,
+        "headline": "USDC More Vulnerable Than USDT? BIS Uncovers Stablecoins' Banking Connection",
+        "url": "https://finnhub.io/api/news?id=58434aafe77ed4dc7f757693de88570b5711574418fecdf92939ca95db11425b",
+        "datetime": 1792414335,
         "source": "Yahoo"
       },
       {
-        "headline": "Stablecoin Giant Circle Expands Into 40 Emerging Markets Amid Global Adoption",
-        "url": "https://finnhub.io/api/news?id=5508b51c1d9ddb114e165319fcf31a1cf97c7616a2c9b5e0acfdcbddbb8e7e95",
-        "datetime": 1792330345,
+        "headline": "Hyperliquid’s CEO Explained How Americans Could Legally Use It. What Would US Access Mean for HYPE?",
+        "url": "https://finnhub.io/api/news?id=3faec05f8638f63a02ae0ae107379431530d752e2c51a637f1251cecf37cdc0a",
+        "datetime": 1792413048,
         "source": "Yahoo"
       },
       {
-        "headline": "Circle Paid Its Partners $819 Million in Six Months. Can Ripple’s RLUSD Compete?",
-        "url": "https://finnhub.io/api/news?id=847f184921f1a081ca411e600a78029c93394e0428d91fb03e661913f6623afa",
-        "datetime": 1792326692,
+        "headline": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+        "url": "https://finnhub.io/api/news?id=35f0ae25325cdc1ffd052ac1f09da78758d65e6a8244cb3d1196432cebc6cf7d",
+        "datetime": 1792412379,
         "source": "Yahoo"
       }
     ],
@@ -1320,12 +1320,6 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Bitcoin trades in a neutral technical territory as the buyers and sellers continue to resolve their battle",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-trades-in-a-neutral-technical-territory-as-the-buyers-and-sellers-continue-to-resolve-their-battle/",
-        "datetime": 1792423746,
-        "source": "Forexlive"
-      },
-      {
         "headline": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
         "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792412500,
@@ -1336,9 +1330,21 @@
         "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
         "datetime": 1792408500,
         "source": "CoinDesk"
+      },
+      {
+        "headline": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+        "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+        "datetime": 1792407954,
+        "source": "CoinDesk"
       }
     ],
     "ETH": [
+      {
+        "headline": "JPMorgan brings JPM Coin to Ethereum mainnet: what changes, and what it means for ETH",
+        "url": "https://investinglive.com/cryptocurrency/jpmorgan-brings-jpm-coin-to-ethereum-mainnet-what-changes-and-what-it-means-for-eth/",
+        "datetime": 1792453852,
+        "source": "Forexlive"
+      },
       {
         "headline": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
         "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
@@ -1429,6 +1435,12 @@
     ],
     "NEAR": [
       {
+        "headline": "New jobs have hit the NEAR Agent Market.\n\nBuild out the directory of independent agents you can hire by job. What you build remains yours, and you earn every time someone hires it.",
+        "url": "https://x.com/NEARProtocol/status/2112316433669726437",
+        "datetime": 1792450457,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Everything you need to get started building beyond boundaries:",
         "url": "https://x.com/NEARProtocol/status/2112272627398221903",
         "datetime": 1792440013,
@@ -1438,12 +1450,6 @@
         "headline": "Mert will also judge the upcoming NEAR Hackathon, alongside @ilblackdragon and builders and investors from a16z crypto, Electric Capital, Dragonfly, and more.\n\nBuild cross-chain markets and agentic ap",
         "url": "https://x.com/NEARProtocol/status/2112272622079664420",
         "datetime": 1792440011,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "NEAR HACKATHON is now live with $250K+ in prizes.\n\nNo signup. Just ship a public repo + public demo post between November 1st &amp; Nov 14, 23:59 UTC.\n\nBuild on NEAR Intents, chain signatures, chain a",
-        "url": "https://x.com/NEARProtocol/status/2112257967818997891",
-        "datetime": 1792436518,
         "source": "@NEARProtocol"
       }
     ],
