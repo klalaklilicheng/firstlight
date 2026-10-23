@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:02:08.416Z",
+  "updated_at": "2026-10-23T00:17:19.884Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81179,
-      "change_pct": -4.05
+      "price": 81107,
+      "change_pct": -3.67
     },
     {
       "symbol": "ETH",
-      "price": 2379.77,
-      "change_pct": -4.43
+      "price": 2383.14,
+      "change_pct": -3.82
     },
     {
       "symbol": "SOL",
-      "price": 103.27,
-      "change_pct": -4.36
+      "price": 103.46,
+      "change_pct": -3.48
     },
     {
       "symbol": "HYPE",
-      "price": 77.2,
-      "change_pct": -4.93
+      "price": 77.39,
+      "change_pct": -4.39
     },
     {
       "symbol": "ZEC",
-      "price": 1210.53,
-      "change_pct": -10.06
+      "price": 1217.63,
+      "change_pct": -8.13
     },
     {
       "symbol": "TAO",
-      "price": 256.29,
-      "change_pct": -6.77
+      "price": 257.06,
+      "change_pct": -5.85
     },
     {
       "symbol": "SKY",
-      "price": 1667.06,
-      "change_pct": -4.26
+      "price": 1664.42,
+      "change_pct": -3.98
     },
     {
       "symbol": "AAVE",
-      "price": 146.28,
-      "change_pct": -6.78
+      "price": 146.54,
+      "change_pct": -5.92
     },
     {
       "symbol": "BNB",
-      "price": 729.43,
-      "change_pct": -2.62
+      "price": 729.69,
+      "change_pct": -2.45
     },
     {
       "symbol": "NEAR",
-      "price": 4.87,
-      "change_pct": -7.6
+      "price": 4.88,
+      "change_pct": -7.69
     },
     {
       "symbol": "DOGE",
-      "price": 0.078277,
-      "change_pct": -5.54
+      "price": 0.078708,
+      "change_pct": -4.15
     },
     {
       "symbol": "SPACEX",
-      "price": 612.89,
-      "change_pct": -2.53
+      "price": 613.56,
+      "change_pct": -1.76
     }
   ],
   "earnings": {
@@ -143,14 +143,6 @@
           "surprise_pct": 3.8159
         },
         {
-          "period": "2026-09-30",
-          "quarter": 2,
-          "year": 2026,
-          "actual": 2.22,
-          "estimate": 2.1384,
-          "surprise_pct": 3.8159
-        },
-        {
           "period": "2026-06-30",
           "quarter": 1,
           "year": 2027,
@@ -165,6 +157,14 @@
           "actual": 1.87,
           "estimate": 1.7922,
           "surprise_pct": 4.341
+        },
+        {
+          "period": "2026-03-31",
+          "quarter": 4,
+          "year": 2026,
+          "actual": 1.62,
+          "estimate": 1.5634,
+          "surprise_pct": 3.6203
         }
       ],
       "comment": "连续4季超预期 (+3.8%)"
@@ -474,6 +474,42 @@
   },
   "news": [
     {
+      "headline": "五角大楼禁止美军利用军事信息在预测市场下注",
+      "summary": "赫格斯警告说，预测市场赌注可能会将军事行动暴露给对手。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792713042,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国新的 DeepSeek 禁令加深了瑞士与亚洲的加密货币关系：亚洲快报",
+      "summary": "由于担心从事间谍活动，DeepSeek 被美国联邦民事机构禁止使用。瑞士与越南在加密技术领域开展合作，新加坡公司支持欧洲首个现货比特币 ETF。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792709422,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "参议院民主党首席调查员正在调查 Tether 向博·海因斯公司支付的款项",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+      "datetime": 1792709016,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Circle 股东就加密交易起诉特朗普、World Liberty 和 Steve Witkoff",
+      "summary": "据一位 Circle 股东表示，美国总统通过 1 美元的“腐败”导致该公司无法与稳定币竞争，从而损害了 USDC。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792705158,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Dune 推出覆盖 200 个链上交易场所的实时数据源",
       "summary": "随着代币化股票市场的扩张并面临越来越严格的审查，这项新服务旨在将链上交易数据引入机构金融系统。",
       "source": "Cointelegraph",
@@ -510,7 +546,7 @@
       "related": ""
     },
     {
-      "headline": "A16z 是最新一家将赌注从加密领域扩大到人工智能和新兴技术的风险投资巨头",
+      "headline": "A16z 是最新一家将赌注扩大到加密货币之外、进入人工智能和新兴技术领域的风险投资巨头",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
@@ -520,7 +556,7 @@
     },
     {
       "headline": "纳斯达克暴跌背后的完美风暴——加上市场上的一些亮点",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
       "datetime": 1792693385,
@@ -663,7 +699,7 @@
       "related": ""
     },
     {
-      "headline": "SoFi 推出银行为有收益的加密基金发行的代币化存款",
+      "headline": "SoFi 推出银行发行的用于收益加密基金的代币化存款",
       "summary": "SoFi Bank 推出了 SoFi Earn，这是一种代币化存款，年利率为 4.40%，受 FDIC 覆盖，允许用户 24/7 将资金转换为稳定币。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -705,42 +741,6 @@
       "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
       "datetime": 1792671269,
       "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国运通将 Airbnb 预订和奖励引入美国运通旅游平台",
-      "summary": "现在有超过 100 万个 Airbnb 房源可供通过 Amex Travel 预订，客户可以通过预付费预订赚取会员积分。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
-      "datetime": 1792670402,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "英国需要一条可行的途径来监管 DeFi 访问",
-      "summary": "Coinbase 的欧洲政策主管凯蒂·哈里斯 (Katie Harries) 认为，英国 2027 年的加密规则可能会事实上禁止受监管公司提供 DeFi 服务。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792670400,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "康卡斯特盈利超出预期，媒体收入抵消了连接方面的疲软",
-      "summary": "康卡斯特正在将其媒体业务分拆为一家独立的上市公司。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/comcast-cmcsa-earnings-q3-2026.html",
-      "datetime": 1792669346,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "中期选举临近，特朗普对经济的支持率创历史新低：CNBC调查",
-      "summary": "现在，十分之八的美国人将经济评为一般或较差，这是 CNBC 民意调查的多项发现之一，显示了共和党候选人为何面临艰苦的斗争。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "datetime": 1792669201,
-      "category": "top news",
       "related": ""
     }
   ],
@@ -812,46 +812,46 @@
     }
   ],
   "btc_score": {
-    "score": 43.6,
+    "score": 39.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 17.6,
-    "weekly_score": 26,
-    "btc_price": 81274.7,
-    "fear_greed": 54,
+    "daily_score": 13,
+    "weekly_score": 26.1,
+    "btc_price": 81238.7,
+    "fear_greed": 48,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.5401,
-        "score": 18,
+        "value": 0.5049,
+        "score": 17,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": 524800000,
-        "score": 85,
+        "value": -164000000,
+        "score": 39,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.005904,
+        "value": 0.005774,
         "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.04,
+        "value": 2.1,
         "score": 100,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 54,
-        "score": 54,
+        "value": 48,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
@@ -913,8 +913,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -84.3,
-        "score": 22,
+        "value": -78.3,
+        "score": 23,
         "weight": 4,
         "group": "weekly"
       }
@@ -923,7 +923,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 6
+      "days_until": 5
     },
     "schedule": [
       "2025-01-29",
@@ -1039,7 +1039,7 @@
         "text": "In times like this, if you're a long term investor, you don't want to be waffling about being in or out, you want to be stacking units systematically. Don't get confused by the traders, it's a separate game.\n\nOn unit accumulation, depending on how long you've been in the game,",
         "url": "https://x.com/cburniske/status/2111895750510825630",
         "time": "Sun Oct 18 19:02:38 +0000 2026",
-        "likes": 1343,
+        "likes": 1344,
         "retweets": 132
       },
       {
@@ -1053,7 +1053,7 @@
         "text": "Crypto in its value era, while AI is in its inflated token era. \n\nValue tends to be where few are looking.",
         "url": "https://x.com/cburniske/status/2110158205208895689",
         "time": "Tue Oct 13 23:58:15 +0000 2026",
-        "likes": 1470,
+        "likes": 1471,
         "retweets": 121
       },
       {
@@ -1069,15 +1069,15 @@
         "text": "If u listen carefully this is the sound of ppl capitulating on the ai trade and coming back to crypto https://t.co/uTn8EC3n2Z",
         "url": "https://x.com/QwQiao/status/2113303538734678497",
         "time": "Thu Oct 22 16:16:41 +0000 2026",
-        "likes": 50,
-        "retweets": 0
+        "likes": 62,
+        "retweets": 1
       },
       {
         "text": "the ai trade is extremely uninteresting compared to crypto at this moment and by 2028 crypto will remind everyone who the greatest market on earth is",
         "url": "https://x.com/QwQiao/status/2113298833820291525",
         "time": "Thu Oct 22 15:57:59 +0000 2026",
-        "likes": 494,
-        "retweets": 52
+        "likes": 594,
+        "retweets": 63
       },
       {
         "text": "from now to q day there will be nonstop quantum fud. im put it at 99% probability that btc will transition fine but every round of fud is fuel for zcash to rerate higher as ppl learn it has the best quantum roadmap.",
@@ -1097,7 +1097,7 @@
         "text": "shower thought: public opposition to ai will flip 180 once physical ai reaches the masses.\n\nfor most ppl digital ai is either just a nice-to-have or an existential threat to their job. physical ai actually removes real stress from daily life.\n\ncase in point, tesla fsd has already",
         "url": "https://x.com/QwQiao/status/2112582527055479171",
         "time": "Tue Oct 20 16:31:38 +0000 2026",
-        "likes": 172,
+        "likes": 174,
         "retweets": 6
       }
     ],
@@ -1106,36 +1106,36 @@
         "text": "Corporate training. https://t.co/TLNTVQkUZS",
         "url": "https://x.com/saylor/status/2113249665303167005",
         "time": "Thu Oct 22 12:42:37 +0000 2026",
-        "likes": 2370,
-        "retweets": 210
+        "likes": 2598,
+        "retweets": 235
       },
       {
         "text": "The bull market is calling. https://t.co/Oqd7cr6LKH",
         "url": "https://x.com/saylor/status/2112892556396962226",
         "time": "Wed Oct 21 13:03:35 +0000 2026",
-        "likes": 13931,
-        "retweets": 1458
+        "likes": 14051,
+        "retweets": 1469
       },
       {
         "text": "Source: J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions. See pages 46–47 for the Bitcoin analysis, assumptions and return comparison. https://t.co/WWDHD4DJmw",
         "url": "https://x.com/saylor/status/2112587715732820465",
         "time": "Tue Oct 20 16:52:16 +0000 2026",
-        "likes": 650,
+        "likes": 653,
         "retweets": 70
       },
       {
         "text": "J.P. Morgan Asset Management’s base case projects Bitcoin to outperform U.S. stocks, bonds and gold over the next decade. Wall Street is doing the math. https://t.co/xGnbwYcVjN",
         "url": "https://x.com/saylor/status/2112587713060757820",
         "time": "Tue Oct 20 16:52:15 +0000 2026",
-        "likes": 8445,
+        "likes": 8454,
         "retweets": 1136
       },
       {
-        "text": "It's going up forever, Laura. https://t.co/nEWDOQGGRO",
-        "url": "https://x.com/saylor/status/2112523560413507602",
-        "time": "Tue Oct 20 12:37:20 +0000 2026",
-        "likes": 6142,
-        "retweets": 698
+        "text": "Bitcoin has won. Global consensus is that $BTC is digital capital. The four-year cycle is dead. Price is now driven by capital flows. Bank and digital credit will determine Bitcoin’s growth trajectory. The biggest risk is bad ideas driving iatrogenic protocol changes.",
+        "url": "https://x.com/saylor/status/2040438683380146574",
+        "time": "Sat Apr 04 14:37:46 +0000 2026",
+        "likes": 31549,
+        "retweets": 4664
       }
     ],
     "viktorfischer": [
@@ -1144,7 +1144,7 @@
         "url": "https://x.com/viktorfischer/status/2113213828167016522",
         "time": "Thu Oct 22 10:20:12 +0000 2026",
         "likes": 8,
-        "retweets": 0
+        "retweets": 1
       },
       {
         "text": "Privacy + @HyperliquidX = @silhouette_ex \n\nYou want to have privacy on @HyperliquidX (so that your competitors cannot see your trades)? Use @silhouette_ex !",
@@ -1179,129 +1179,129 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Meta stock falls despite Wall Street analysts raising price targets",
-        "url": "https://finnhub.io/api/news?id=00f3b6822563f8c9ab80f47603d3869b30ceea3ee38a944f1e817a6235965cb9",
-        "datetime": 1792698653,
+        "headline": "Why Spotify Stock Popped Today",
+        "url": "https://finnhub.io/api/news?id=15914c7f59a293dabcafe195080a4b394a11e1339fe43bad634e0053c65f1b82",
+        "datetime": 1792706008,
         "source": "Yahoo"
       },
       {
-        "headline": "Uranium Is Near $90 a Pound. Here's My Prediction for What's Ahead for the Fuel.",
-        "url": "https://finnhub.io/api/news?id=bff11f7c703635aea11711bb38056ff31f388f1ea1b0127dd3bf19de1de8775a",
-        "datetime": 1792698600,
+        "headline": "Stock Market Today, Oct. 22: CoreWeave Slides on Bernstein Downgrade and Financing Worries",
+        "url": "https://finnhub.io/api/news?id=468b448105d7fd3d73979c524a079d021603b30583eb8b266a4028d76ab9d3ab",
+        "datetime": 1792705872,
         "source": "Yahoo"
       },
       {
-        "headline": "Vertiv, Nvidia target 10-week cut in AI power, cooling setup",
-        "url": "https://finnhub.io/api/news?id=8a50ebd79af547e0ca96287af0003f685083379d3157a8a03ca0ed9baa654b68",
-        "datetime": 1792698420,
+        "headline": "Up 3,700%, Should You Buy Sandisk Right Now?",
+        "url": "https://finnhub.io/api/news?id=c380d3e0754099b3cdbcc893decdeebc3d3d5ebd0c5cc9c87c46de5e3f65c10c",
+        "datetime": 1792705800,
         "source": "Yahoo"
       },
       {
-        "headline": "Why HubSpot Stock Rallied Today",
-        "url": "https://finnhub.io/api/news?id=2764c7154990f871919fa0c463eec204b521af4956f2f163335eaf8387882630",
-        "datetime": 1792697019,
+        "headline": "FirstService Corporation Q3 2026 Earnings Call Summary",
+        "url": "https://finnhub.io/api/news?id=784e37c10c8b58d61ed4e7d1dfd6c2dea393a94be5651701df00cd7b98b541af",
+        "datetime": 1792704422,
         "source": "Yahoo"
       },
       {
-        "headline": "The Truth About Netflix’s Massive Stock Buybacks",
-        "url": "https://finnhub.io/api/news?id=5e16eb9dd72b240a6cc21c6ac132e80aae3917698587e7c2894147e99acb61b4",
-        "datetime": 1792696982,
+        "headline": "Valero Energy Corporation Q3 2026 Earnings Call Summary",
+        "url": "https://finnhub.io/api/news?id=8e034b3563a54ea6ecdda35671d3209a0f693d856415d9629993eb0efe0c9e12",
+        "datetime": 1792704348,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Stock Market Today: Nasdaq-100 Drop Tops 3%; FirstCash, Southern Copper, Meta Lead Sell-Off (Live Coverage)",
-        "url": "https://finnhub.io/api/news?id=a28a1706345bc9a53f7e6e82ee8c36e6e1a40add7558e2547dfe0eb9119e1dec",
-        "datetime": 1792698600,
+        "headline": "When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window",
+        "url": "https://finnhub.io/api/news?id=665da1c032a734b3885e822c7838da315e193cf4e02dd35d5325d09ab0727d7c",
+        "datetime": 1792706443,
         "source": "Yahoo"
       },
       {
-        "headline": "UBS portfolio manager: S&P 500 could hit 9,500 by June 2027 on AI, longevity, energy boom",
-        "url": "https://finnhub.io/api/news?id=10676d383b0f1ee8c764b7a1ca8e5d42cb0dc60e93732b81133aa8a5d1937c1a",
-        "datetime": 1792696531,
+        "headline": "Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer",
+        "url": "https://finnhub.io/api/news?id=03304755e1669e8fa539e66a0f637158ca3612fb620abed9e8de2eade97bf3b5",
+        "datetime": 1792701840,
         "source": "Yahoo"
       },
       {
-        "headline": "Better Buffett Stock: Alphabet vs. Apple",
-        "url": "https://finnhub.io/api/news?id=fa5cb76eff5b363fcec2b7513f817c3604956306ad87ffdd6fdade675cc0a8b1",
-        "datetime": 1792695900,
+        "headline": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
+        "url": "https://finnhub.io/api/news?id=8918fe9b02dcaac773f9afd01247d9275f4396c6f76b0963a58492a348dc920f",
+        "datetime": 1792701593,
         "source": "Yahoo"
       },
       {
-        "headline": "Ted Sarandos Says Netflix 'Could Do Better’ as YouTube, TikTok Threaten to Steal Viewers: Time to Take Shows and Movies 'To The Next Level'",
-        "url": "https://finnhub.io/api/news?id=1ae4de9015e87b101362b46dd02b4cd8df5d2d12cda916a53912d3aa775785dc",
-        "datetime": 1792693812,
+        "headline": "Apple’s foldable iPhone has a $2,000 app problem",
+        "url": "https://finnhub.io/api/news?id=44f7e2c85ac670d2eca210b86d3ddd07a722d4b77e3c3685c25fb464e0f88e87",
+        "datetime": 1792701258,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta, AI Stocks Tumble As AI Spending Fears Reignite",
-        "url": "https://finnhub.io/api/news?id=b2d13986b6ba08633a0952821918a8c2ffdd91b2df4527f4e8b2d73e77c61000",
-        "datetime": 1792693760,
+        "headline": "Musk Says AI Is Short on Power. Here’s Why Constellation Energy Still Has a Rules Problem",
+        "url": "https://finnhub.io/api/news?id=f16a00de444a6d6fca384b08a91a2ad9f20054ef46b5fe741b893d91aef60ee6",
+        "datetime": 1792700944,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Stock Market Today: Nasdaq-100 Drop Tops 3%; FirstCash, Southern Copper, Meta Lead Sell-Off (Live Coverage)",
-        "url": "https://finnhub.io/api/news?id=a28a1706345bc9a53f7e6e82ee8c36e6e1a40add7558e2547dfe0eb9119e1dec",
-        "datetime": 1792698600,
+        "headline": "Musk wants to merge SpaceX and Tesla: Here's what to know",
+        "url": "https://finnhub.io/api/news?id=794a2a1fd4f13b1235098299f312d5f3f3bccb5556be569d9ffc46c67b9afe28",
+        "datetime": 1792703454,
         "source": "Yahoo"
       },
       {
-        "headline": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-        "url": "https://finnhub.io/api/news?id=698b31f03a2ae3cf3449e64ad77001c33edc6c2570641af92c58001d0251fca6",
-        "datetime": 1792698446,
+        "headline": "Twist Bioscience Sinks 9%, Illumina Down 5% as AI and Genomics Stocks Slide",
+        "url": "https://finnhub.io/api/news?id=a8822131cc0256814d08037c0bf91856c6dec41e407a8b45db7d0badcb253d5f",
+        "datetime": 1792701183,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk invests $1bn in CNN-owner Skydance",
-        "url": "https://finnhub.io/api/news?id=f1855b3913dd8c86c3db3d624c44cf6276790400de853182e4a6b3930a79933f",
-        "datetime": 1792697746,
+        "headline": "US Equity Markets End Lower After Meta, Tesla Fail to Meet Expectations, Higher Crude Oil Prices",
+        "url": "https://finnhub.io/api/news?id=390113b174c8bd97681373d15237f454c8b8c868fe766884a6028125b5888ede",
+        "datetime": 1792700852,
         "source": "Yahoo"
       },
       {
-        "headline": "This level-headed Tesla bull still expects 5 million Cybercabs by 2040",
-        "url": "https://finnhub.io/api/news?id=f7fff0a7aeae0733c53871069f774311b2ff206a52ad9ac9ba1d246ac8c4019a",
-        "datetime": 1792696541,
+        "headline": "A SpaceX-Tesla Merger Feels Inevitable. Is It Actually a Good Deal?",
+        "url": "https://finnhub.io/api/news?id=00ca5133cd19784f257d244b06dd9c7fab734d26923ee41247c288b6f8ab04dd",
+        "datetime": 1792700160,
         "source": "Yahoo"
       },
       {
-        "headline": "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping",
-        "url": "https://finnhub.io/api/news?id=0b9b9452c34e7b3c08b6bd11d2c9a12f4cff549ec9af0cd7bdb6857286862cc4",
-        "datetime": 1792695660,
+        "headline": "Update: US Equity Indexes Retreat as AI Trade Falters, Crude Oil Surges Amid Iran's Invasion Warning to Mid-East Neighbors",
+        "url": "https://finnhub.io/api/news?id=8451cc7a428f4b7e02014cf45080c286b75074d0e50be828d648948c280734bb",
+        "datetime": 1792698771,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
-        "headline": "'Long Coins, Short Stocks': Expert Bullish on Bitcoin, Cautious on XRP, Coinbase, Circle",
-        "url": "https://finnhub.io/api/news?id=c8858ce86c29d2ca3500977a65d5dbfd845e5a785418f5d368141aabc266a5ab",
-        "datetime": 1792661604,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "GENIUS Act Rules Are Reshaping the USDC vs. USDT Battle",
-        "url": "https://finnhub.io/api/news?id=f1c6fd2bb26941a096f17a3b76c3eeaadd5ab7610f0db1ee8f2188596f814a95",
-        "datetime": 1792655136,
+        "headline": "Simplifying Cross-Border Payments: Nium CFO Andre Mancl, Live from Money 20/20 2026",
+        "url": "https://finnhub.io/api/news?id=f1f9b4489877d00ebffe9976aa8d31b77fcd77e6dbc1272c6cff31b4c69a6073",
+        "datetime": 1792711499,
         "source": "Yahoo"
       },
       {
-        "headline": "Circle CEO Shrugs Off Bitcoin's Slump and Pitches Digital Dollars for the AI Era",
-        "url": "https://finnhub.io/api/news?id=dc01ea5713adf403e2c12f8a728b124febf2e711a941b42af7560622a6b649a1",
-        "datetime": 1792638780,
+        "headline": "Intelligent Payments: MoneyGram Chairman & CEO Anthony Soohoo, Live from Money20/20 2026",
+        "url": "https://finnhub.io/api/news?id=dfd1a41222caf56cc03832eb135a5f99766a89b48ce9b7daafe2c6f648e7da14",
+        "datetime": 1792697271,
         "source": "Yahoo"
       },
       {
-        "headline": "OCC Says Crypto Platforms Can Keep Offering Yield-Like Rewards",
-        "url": "https://finnhub.io/api/news?id=f2962004fb47eacac8de2dc37b3dd1254041badcacb46ada290ba5343476eb35",
-        "datetime": 1792630440,
+        "headline": "Circle Internet Group (CRCL) Ties Digital Identity To USDC Payments On An Undervalued View",
+        "url": "https://finnhub.io/api/news?id=1b23aea6097f7daecd2948413f589f47c518cde075386130310ce657cfb47898",
+        "datetime": 1792696333,
         "source": "Yahoo"
       },
       {
-        "headline": "Proof and Circle Demonstrate End-to-End Agentic Commerce: The x401/x402 Handshake",
-        "url": "https://finnhub.io/api/news?id=8136a16214f85079e8c9c509c10a3837e706ac07b7b2e780d6cbc642a1480c01",
-        "datetime": 1792626912,
+        "headline": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
+        "url": "https://finnhub.io/api/news?id=5ed25dec36b78286edefacce085070665f37a32585478c368c926ae48870de3c",
+        "datetime": 1792694413,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "OCC leads the way as first agency to finalize regulations",
+        "url": "https://finnhub.io/api/news?id=15195cc3ba9ffc3890670fd23fbd2310b11974e1ea722856a15ccb26b9de88b6",
+        "datetime": 1792692000,
         "source": "Yahoo"
       }
     ],
@@ -1436,6 +1436,12 @@
     ],
     "NEAR": [
       {
+        "headline": "DeepSeek V4.1 Flash just went live on NEAR AI Cloud.\n\nNot all models are private, if you are looking for fully private inference look for Private TEE models listed in the catalog.",
+        "url": "https://x.com/NEARProtocol/status/2113403771837718773",
+        "datetime": 1792709699,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "@ilblackdragon @matthew_d_white @build_planet @near_ai @open_intel_fdn Event details:",
         "url": "https://x.com/NEARProtocol/status/2113323510642729289",
         "datetime": 1792690563,
@@ -1445,12 +1451,6 @@
         "headline": "Open Source AI Summit #12 takes place today in SF.\n\n@ilblackdragon is on stage multiple times:\n\n- Fireside with @matthew_d_white on Benefits and Risks of Open Models  \n- Solo talk: “What can’t your AI",
         "url": "https://x.com/NEARProtocol/status/2113323412244562341",
         "datetime": 1792690539,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "CROSS MARGIN NOW LIVE\n\nPositions now share your perps balance as margin instead of each holding its own. Confidential as always: nobody can tell they’re yours.\n\nOnly on  powered by @HyperliquidX",
-        "url": "https://x.com/NEARProtocol/status/2113303122516787432",
-        "datetime": 1792685702,
         "source": "@NEARProtocol"
       }
     ],
