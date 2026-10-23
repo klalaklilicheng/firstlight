@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T05:36:48.262Z",
+  "updated_at": "2026-10-23T10:46:32.691Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 81659,
-      "change_pct": -1.37
+      "price": 81623,
+      "change_pct": -0.47
     },
     {
       "symbol": "ETH",
-      "price": 2399.79,
-      "change_pct": -1.67
+      "price": 2397.79,
+      "change_pct": -0.29
     },
     {
       "symbol": "SOL",
-      "price": 104.36,
-      "change_pct": -0.77
+      "price": 104.09,
+      "change_pct": -0.42
     },
     {
       "symbol": "HYPE",
-      "price": 78,
-      "change_pct": -1.04
+      "price": 77.93,
+      "change_pct": -0.79
     },
     {
       "symbol": "ZEC",
-      "price": 1226.65,
-      "change_pct": -4.09
+      "price": 1211.35,
+      "change_pct": -3.5
     },
     {
       "symbol": "TAO",
-      "price": 262.81,
-      "change_pct": -0.64
+      "price": 260.5,
+      "change_pct": 0.17
     },
     {
       "symbol": "SKY",
-      "price": 1668.27,
-      "change_pct": -2.49
+      "price": 1659.98,
+      "change_pct": -2.58
     },
     {
       "symbol": "AAVE",
-      "price": 149.46,
-      "change_pct": -0.24
+      "price": 148.1,
+      "change_pct": 0.28
     },
     {
       "symbol": "BNB",
-      "price": 741.05,
-      "change_pct": 0.3
+      "price": 746.61,
+      "change_pct": 1.73
     },
     {
       "symbol": "NEAR",
-      "price": 4.97,
-      "change_pct": -1.43
+      "price": 4.9,
+      "change_pct": -1.9
     },
     {
       "symbol": "DOGE",
-      "price": 0.079787,
-      "change_pct": -0.19
+      "price": 0.080048,
+      "change_pct": 1.06
     },
     {
       "symbol": "SPACEX",
-      "price": 611.76,
-      "change_pct": 0.17
+      "price": 612.84,
+      "change_pct": -3.6
     }
   ],
   "earnings": {
@@ -474,6 +474,87 @@
   },
   "news": [
     {
+      "headline": "Cysic 悬赏 10% 赏金，黑客将战利品投入 Tornado Cash",
+      "summary": "攻击者利用 Cysic 桥在 BNB 智能链上铸造 1000 万枚代币后，将 744,000 美元的 ETH 和 BNB 转移到 Tornado Cash。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792750386,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bybit 获得迪拜首个现货交易服务完整牌照",
+      "summary": "Bybit 的新 VARA 许可证授权在迪拜提供现货交易服务，但该交易所在推出之前必须完成额外的监管要求。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792749004,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "尽管美国斡旋的和平谈判重新得到推动，俄罗斯和乌克兰仍进行了新的打击",
+      "summary": "普京和泽连斯基周四均表示，尽管他们连夜继续进行罢工，但他们对和平谈判持开放态度。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "datetime": 1792747709,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "由于增长担忧导致广泛的避险情绪，比特币抹去了所有每周涨幅。接下来怎么办？",
+      "summary": "<p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 106%; font-family: Aptos, sans-serif; font-size: 15px;\">比特币抹去了过去几天的所有每周涨幅，因为\n        普遍的避险情绪给加密货币市场带来压力。避险资金流\n        周三晚些时候开始跟随",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bitcoin-erases-all-the-weekly-gains-as-growth-concerns-lead-to-widespread-risk-aversion-what-s-next/",
+      "datetime": 1792746276,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着稳定币和数字欧元的出现，瑞典央行重启电子克朗争论",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "datetime": 1792745854,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "汇丰银行推出用于零售支付的港元稳定币",
+      "summary": "汇丰银行正在向 PayMe 用户推出 RedCoin 钱包，计划支持代币化投资订阅并扩展到机构用途。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792745254,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "印度最大交易所否认遭黑客攻击 侦探指出 1600 万美元资金外流可疑",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+      "datetime": 1792742555,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "马来西亚、泰国加入新加坡跨境稳定币推广计划",
+      "summary": "BLOOM 寻求通过帮助金融机构协调稳定币和代币化存款的跨境使用来降低成本。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792739753,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "10 月份比特币 ETF 亏损 6.35 亿美元",
+      "summary": "周四的提款结束了连续三天的资金流入，并使美国现货比特币 ETF 10 月份净流出 1.75 亿美元。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792739379,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "以太坊因安全风险推迟 Glamsterdam Hoodi 测试网启动",
       "summary": "ChainSecurity 表示，它确定了 13 个可能受到 Glamsterdam 天然气变化影响的智能合约的现实例子，并正在与受影响的项目协调负责任的披露。",
       "source": "Cointelegraph",
@@ -524,15 +605,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
       "datetime": 1792725181,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "汇丰银行的 RedCoin 稳定币在香港上线：发布解决了什么问题，以及仍然没有解决什么问题",
-      "summary": "据《南华早报》报道，汇丰银行已开始向其 PayMe 支付应用程序的超过 330 万用户推出其港元支持的稳定币 RedCoin。分阶段启动于 10 月 23 日星期五开始，首先是用户之间的转账和向商家的付款",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/hsbc-s-redcoin-stablecoin-goes-live-in-hong-kong-what-the-launch-answers-and-what-it-still-doesn-t/",
-      "datetime": 1792723940,
       "category": "crypto",
       "related": ""
     },
@@ -670,78 +742,6 @@
       "datetime": 1792686035,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "肯德基在美国改用可口可乐几天后，百事可乐与塔可钟续签了合同。",
-      "summary": "尽管姊妹连锁店肯德基转投可口可乐，但塔可钟仍坚持与长期饮料供应商百事可乐合作。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "datetime": 1792684320,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "随着防御性的上升，人工智能股票暴跌。它对这个不稳定的市场有何评价",
-      "summary": "投资俱乐部在每个工作日上午 10:20（东部时间）举行“晨会”。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/22/ai-stocks-tumble-as-the-defensives-rise-what-it-says-about-this-uneasy-market.html",
-      "datetime": 1792683957,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "爱尔兰央行因资金保障失败对 Coinbase Ireland 罚款 360 万美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-      "datetime": 1792683625,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "邮轮公司以每晚高达 25,000 美元的套房价格追逐豪华旅客",
-      "summary": "CNBC 参观了丽晶套房，这是丽晶七大洋辉煌号上的顶级套房，每晚售价 15,000 美元。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/luxury-cruise-suites-regent-seven-seas.html",
-      "datetime": 1792682208,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "顾问的加密货币：稳定币已准备好迎接黄金时段",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-      "datetime": 1792681111,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Fireblocks 对 $2.5B Visa 收购谈判的报道提出异议",
-      "summary": "Fireblocks 告诉 Cointelegraph，有关 Visa 可能以 25 亿美元收购的报道“目前并不属实”，而 Visa 拒绝对报道的谈判发表评论。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792679940,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "加密货币托管专家 Fireblocks 否认正在与 Visa 洽谈收购事宜",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "datetime": 1792679832,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "CryptoQuant首席执行官称比特币算力上升是来自机构的“间接看涨信号”",
-      "summary": "CryptoQuant 的 Ki Young Ju 表示，主要 TradFi 参与者支持的公共矿工正在重新上线，从而提高了比特币的哈希率，这对 BTC 的基本面来说是一个积极的信号。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1792676554,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -815,9 +815,9 @@
     "score": 38.3,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 10.3,
-    "weekly_score": 28,
-    "btc_price": 81717.9,
+    "daily_score": 10.2,
+    "weekly_score": 28.1,
+    "btc_price": 81711.6,
     "fear_greed": 48,
     "indicators": [
       {
@@ -836,14 +836,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007823,
-        "score": 49,
+        "value": 0.006356,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.2,
+        "value": 2.19,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -857,8 +857,8 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.71,
-        "score": 40,
+        "value": 1.66,
+        "score": 39,
         "weight": 12,
         "group": "weekly"
       },
@@ -885,7 +885,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 82.5,
+        "value": 82.4,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -913,8 +913,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -67.7,
-        "score": 26,
+        "value": -53,
+        "score": 30,
         "weight": 4,
         "group": "weekly"
       }
@@ -1069,15 +1069,15 @@
         "text": "If u listen carefully this is the sound of ppl capitulating on the ai trade and coming back to crypto https://t.co/uTn8EC3n2Z",
         "url": "https://x.com/QwQiao/status/2113303538734678497",
         "time": "Thu Oct 22 16:16:41 +0000 2026",
-        "likes": 73,
+        "likes": 77,
         "retweets": 2
       },
       {
         "text": "the ai trade is extremely uninteresting compared to crypto at this moment and by 2028 crypto will remind everyone who the greatest market on earth is",
         "url": "https://x.com/QwQiao/status/2113298833820291525",
         "time": "Thu Oct 22 15:57:59 +0000 2026",
-        "likes": 653,
-        "retweets": 68
+        "likes": 700,
+        "retweets": 75
       },
       {
         "text": "from now to q day there will be nonstop quantum fud. im put it at 99% probability that btc will transition fine but every round of fud is fuel for zcash to rerate higher as ppl learn it has the best quantum roadmap.",
@@ -1106,28 +1106,28 @@
         "text": "Corporate training. https://t.co/TLNTVQkUZS",
         "url": "https://x.com/saylor/status/2113249665303167005",
         "time": "Thu Oct 22 12:42:37 +0000 2026",
-        "likes": 2793,
-        "retweets": 252
+        "likes": 2913,
+        "retweets": 263
       },
       {
         "text": "The bull market is calling. https://t.co/Oqd7cr6LKH",
         "url": "https://x.com/saylor/status/2112892556396962226",
         "time": "Wed Oct 21 13:03:35 +0000 2026",
-        "likes": 14214,
-        "retweets": 1482
+        "likes": 14372,
+        "retweets": 1503
       },
       {
         "text": "Source: J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions. See pages 46–47 for the Bitcoin analysis, assumptions and return comparison. https://t.co/WWDHD4DJmw",
         "url": "https://x.com/saylor/status/2112587715732820465",
         "time": "Tue Oct 20 16:52:16 +0000 2026",
-        "likes": 655,
+        "likes": 656,
         "retweets": 70
       },
       {
         "text": "J.P. Morgan Asset Management’s base case projects Bitcoin to outperform U.S. stocks, bonds and gold over the next decade. Wall Street is doing the math. https://t.co/xGnbwYcVjN",
         "url": "https://x.com/saylor/status/2112587713060757820",
         "time": "Tue Oct 20 16:52:15 +0000 2026",
-        "likes": 8456,
+        "likes": 8462,
         "retweets": 1135
       },
       {
@@ -1135,7 +1135,7 @@
         "url": "https://x.com/saylor/status/2040438683380146574",
         "time": "Sat Apr 04 14:37:46 +0000 2026",
         "likes": 31549,
-        "retweets": 4664
+        "retweets": 4663
       }
     ],
     "viktorfischer": [
@@ -1179,97 +1179,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
-        "url": "https://finnhub.io/api/news?id=87418e93c483f0725ea3cc079b37a08e1424c82cd6c7c6e5331ff95628227ab8",
-        "datetime": 1792726442,
+        "headline": "Is 2027 the Turnaround Year for These 4 EV and Air Taxi Stocks?",
+        "url": "https://finnhub.io/api/news?id=f8ab12d2a9bc9096bcaf9fe3f8b4a4388cac90c435e7fcbec812e69b457b4ea9",
+        "datetime": 1792749000,
         "source": "Yahoo"
       },
       {
-        "headline": "PepsiCo Renews Partnership With Taco Bell for 11 More Years. Here’s What Investors Need to Know.",
-        "url": "https://finnhub.io/api/news?id=d5d7abb15006216199f8392cc17ff25a83423db45da0451094a4ccd204bb9d70",
-        "datetime": 1792725477,
+        "headline": "Stock market today: Dow, S&P 500, Nasdaq wobble after sharp tech sell-off",
+        "url": "https://finnhub.io/api/news?id=64f359e94d3ed0066bbd65d828d998be7fd851d4b983c57810f439c03cb94519",
+        "datetime": 1792747800,
         "source": "Yahoo"
       },
       {
-        "headline": "3 AI Stocks Under 27x P E",
-        "url": "https://finnhub.io/api/news?id=618ba5cff17ba876b2df627e220e35648b4517c3bb233068cd8cbfd0b7babe06",
-        "datetime": 1792725467,
+        "headline": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
+        "url": "https://finnhub.io/api/news?id=5869c31ebbd906bee0b5a029869b823ba5828c65c6baa2f9d25e7da98c4efd8c",
+        "datetime": 1792747561,
         "source": "Yahoo"
       },
       {
-        "headline": "Google’s AI chip could become a $75 billion business",
-        "url": "https://finnhub.io/api/news?id=a66362dbb043c2a4c05a77ab0bd4e74d737a875a4553ea7aa2a52322bff40291",
-        "datetime": 1792724820,
+        "headline": "Stock-Split Watch: Is ASML Next?",
+        "url": "https://finnhub.io/api/news?id=df1b4305efeba0256231e68e7a2690442268f38add6fe5458fbcb690c3db0639",
+        "datetime": 1792747260,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
-        "url": "https://finnhub.io/api/news?id=4c326fb47d5f2809337f65fd4a6939cd9a1ba936d74dd9b9e30006b686145bcc",
-        "datetime": 1792722002,
+        "headline": "Better Memory Stock: Micron vs. Sandisk",
+        "url": "https://finnhub.io/api/news?id=940739524acba0d8f2b5e26d880ba582742a081c819751c86648ca6ba4ca158c",
+        "datetime": 1792746240,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Google’s AI chip could become a $75 billion business",
-        "url": "https://finnhub.io/api/news?id=a66362dbb043c2a4c05a77ab0bd4e74d737a875a4553ea7aa2a52322bff40291",
-        "datetime": 1792724820,
+        "headline": "Alphabet Inc-CL C (NASDAQ:GOOG) Fits the GARP Mold With Durable Growth",
+        "url": "https://finnhub.io/api/news?id=a510b0e5a11815e6a9e180f188f2cb0bb01251967ae155d584b8b92367a8d024",
+        "datetime": 1792750242,
+        "source": "ChartMill"
+      },
+      {
+        "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+        "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373",
+        "datetime": 1792749061,
         "source": "Yahoo"
       },
       {
-        "headline": "3 Undervalued Stocks With At Least 33% Fair Value Upside",
-        "url": "https://finnhub.io/api/news?id=32f6bf95a7167446e02a3cd63c856eff8de8032c16d5623ab656e088000f6bd8",
-        "datetime": 1792717991,
+        "headline": "Warren Buffett's Successor, Greg Abel, Has 32% of Berkshire Hathaway's $364 Billion Portfolio Invested in 3 Unstoppable AI Stocks",
+        "url": "https://finnhub.io/api/news?id=5869c31ebbd906bee0b5a029869b823ba5828c65c6baa2f9d25e7da98c4efd8c",
+        "datetime": 1792747561,
         "source": "Yahoo"
       },
       {
-        "headline": "When Could Quantum Computers or AI Break Bitcoin? An Updated Threat Window",
-        "url": "https://finnhub.io/api/news?id=665da1c032a734b3885e822c7838da315e193cf4e02dd35d5325d09ab0727d7c",
-        "datetime": 1792706443,
+        "headline": "Why Is Rigetti Computing Stock Falling?",
+        "url": "https://finnhub.io/api/news?id=0defb313042b97de347002e8170ba71c94e4a25cf3183bc4889d2ad4f782045d",
+        "datetime": 1792746125,
         "source": "Yahoo"
       },
       {
-        "headline": "Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer",
-        "url": "https://finnhub.io/api/news?id=03304755e1669e8fa539e66a0f637158ca3612fb620abed9e8de2eade97bf3b5",
-        "datetime": 1792701840,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Roundtable CEO, Coinbase's D'Agostino discuss USDC \"forcing function\" partnership",
-        "url": "https://finnhub.io/api/news?id=8918fe9b02dcaac773f9afd01247d9275f4396c6f76b0963a58492a348dc920f",
-        "datetime": 1792701593,
+        "headline": "Could You Have Seen The Run In Microsoft Stock Coming?",
+        "url": "https://finnhub.io/api/news?id=d2b1c0af1de2ab92b38536d7cce6f82fae6ce2b9cf8d500ccaeb0ae964669ea2",
+        "datetime": 1792746113,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "I've Covered Tesla for Over a Decade. Here's Whether It's a Stock to Buy More Than 21% Below Its Record.",
-        "url": "https://finnhub.io/api/news?id=87418e93c483f0725ea3cc079b37a08e1424c82cd6c7c6e5331ff95628227ab8",
-        "datetime": 1792726442,
+        "headline": "AI stock bears probably just missed this point on Tesla in their run for the exits",
+        "url": "https://finnhub.io/api/news?id=581439e0b96ce18fe4837cafb51f2bd19a57d17e00b04ebcb72d95496fc01373",
+        "datetime": 1792749061,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Just Bought Netflix Stock. Should You Follow Her?",
-        "url": "https://finnhub.io/api/news?id=4c326fb47d5f2809337f65fd4a6939cd9a1ba936d74dd9b9e30006b686145bcc",
-        "datetime": 1792722002,
+        "headline": "Is 2027 the Turnaround Year for These 4 EV and Air Taxi Stocks?",
+        "url": "https://finnhub.io/api/news?id=f8ab12d2a9bc9096bcaf9fe3f8b4a4388cac90c435e7fcbec812e69b457b4ea9",
+        "datetime": 1792749000,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Trump Can't Afford to Lose The Rare Earth Race",
-        "url": "https://finnhub.io/api/news?id=469e9f794e7c8b19f5baf54a8873cc359d9d26a0468087fef6813f6a032afbdf",
-        "datetime": 1792720800,
+        "headline": "Stocktwits Wall Street Wrap: Analysts Turn Bullish On SpaceX, Tesla, But Netflix And Chipotle Face Fresh Downgrades Amid Growth Concerns",
+        "url": "https://finnhub.io/api/news?id=18e666fc20e742f51e3c4ed05064556aacaf90cadfb3a0dc68f59161565bcd79",
+        "datetime": 1792747854,
         "source": "Yahoo"
       },
       {
-        "headline": "Why a Merger With Tesla Could Be a Disaster for SpaceX",
-        "url": "https://finnhub.io/api/news?id=48d9534fd64679531b2267313c94c3146b3983583724be821263d045ca6eb2e4",
-        "datetime": 1792718402,
+        "headline": "Stock market today: Dow, S&P 500, Nasdaq wobble after sharp tech sell-off",
+        "url": "https://finnhub.io/api/news?id=64f359e94d3ed0066bbd65d828d998be7fd851d4b983c57810f439c03cb94519",
+        "datetime": 1792747800,
         "source": "Yahoo"
       },
       {
-        "headline": "3 Hurdles Could Complicate a Tesla and SpaceX Merger, Says Ex-Tesla Director",
-        "url": "https://finnhub.io/api/news?id=cc101f17f68e402b1c51d2435e8af65370856747121aa86f221cfc9100a29115",
-        "datetime": 1792717500,
+        "headline": "Tesla (TSLA) Stock Could Be Above Fair Value After Merger Talks",
+        "url": "https://finnhub.io/api/news?id=dcf7aee7d1dbe100d9b82cf16255649a004d2d4b73f51539aa897a4746aa6fb5",
+        "datetime": 1792746821,
         "source": "Yahoo"
       }
     ],
@@ -1308,6 +1308,18 @@
     "LKNCY": [],
     "BTC": [
       {
+        "headline": "Bitcoin erases all the weekly gains as growth concerns lead to widespread risk aversion. What's next?",
+        "url": "https://investinglive.com/cryptocurrency/bitcoin-erases-all-the-weekly-gains-as-growth-concerns-lead-to-widespread-risk-aversion-what-s-next/",
+        "datetime": 1792746276,
+        "source": "Forexlive"
+      },
+      {
+        "headline": "Bitcoin ETFs bleed $635M as October slides back into the red",
+        "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1792739379,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Bitcoin Core changes security policy as AI makes bugs easier to find",
         "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792730054,
@@ -1323,18 +1335,6 @@
         "headline": "Switzerland approves first spot Bitcoin ETF for retail investors",
         "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792717175,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-        "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1792687851,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-        "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1792686035,
         "source": "Cointelegraph"
       }
     ],
@@ -1376,12 +1376,6 @@
         "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1792591034,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-        "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-        "datetime": 1792557352,
-        "source": "CoinDesk"
       }
     ],
     "AAVE": [
