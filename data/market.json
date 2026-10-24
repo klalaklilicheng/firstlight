@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T06:43:00.486Z",
+  "updated_at": "2026-10-24T11:45:19.151Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 80714,
-      "change_pct": -1.31
+      "price": 80537,
+      "change_pct": -1.34
     },
     {
       "symbol": "ETH",
-      "price": 2376.91,
-      "change_pct": -1.14
+      "price": 2363.25,
+      "change_pct": -1.55
     },
     {
       "symbol": "SOL",
-      "price": 102.08,
-      "change_pct": -2.23
+      "price": 101.29,
+      "change_pct": -2.94
     },
     {
       "symbol": "HYPE",
-      "price": 77.04,
-      "change_pct": -1.6
+      "price": 75.53,
+      "change_pct": -3.11
     },
     {
       "symbol": "ZEC",
-      "price": 1171.51,
-      "change_pct": -4.58
+      "price": 1152.69,
+      "change_pct": -6.12
     },
     {
       "symbol": "TAO",
-      "price": 252.65,
-      "change_pct": -3.82
+      "price": 248.5,
+      "change_pct": -4.66
     },
     {
       "symbol": "SKY",
-      "price": 1622.93,
-      "change_pct": -2.84
+      "price": 1598.48,
+      "change_pct": -3.99
     },
     {
       "symbol": "AAVE",
-      "price": 143.05,
-      "change_pct": -4.34
+      "price": 140.13,
+      "change_pct": -5.45
     },
     {
       "symbol": "BNB",
-      "price": 738.17,
-      "change_pct": -0.64
+      "price": 731.38,
+      "change_pct": -1.91
     },
     {
       "symbol": "NEAR",
-      "price": 4.63,
-      "change_pct": -6.9
+      "price": 4.49,
+      "change_pct": -8.78
     },
     {
       "symbol": "DOGE",
-      "price": 0.078323,
-      "change_pct": -1.97
+      "price": 0.077438,
+      "change_pct": -3.56
     },
     {
       "symbol": "SPACEX",
-      "price": 620.83,
-      "change_pct": 1.47
+      "price": 516.95,
+      "change_pct": -15.64
     }
   ],
   "earnings": {
@@ -483,7 +483,7 @@
       "related": ""
     },
     {
-      "headline": "穆迪维持法国信用评级稳定，因该国正努力应对动荡和收益率上升",
+      "headline": "穆迪维持法国信用评级不变，因该国正努力应对动荡和收益率上升",
       "summary": "穆迪将法国信用评级维持在 Aa3，让该国在一周的动荡中得到了一些缓解。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
@@ -511,7 +511,7 @@
     },
     {
       "headline": "CrowdStrike 首席执行官的惊人预测——此外，抛售范围超出了科技领域",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html",
       "datetime": 1792781396,
@@ -600,7 +600,7 @@
       "related": ""
     },
     {
-      "headline": "随着交易者超越体育领域，Robinhood 预计比特币和黄金预测市场将激增",
+      "headline": "随着交易者超越体育领域，罗宾汉预计比特币和黄金预测市场将激增",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
@@ -785,12 +785,12 @@
     }
   ],
   "btc_score": {
-    "score": 37.8,
+    "score": 37.9,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 13.1,
-    "weekly_score": 24.7,
-    "btc_price": 80786.6,
+    "weekly_score": 24.8,
+    "btc_price": 80620.3,
     "fear_greed": 47,
     "indicators": [
       {
@@ -809,14 +809,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006071,
-        "score": 48,
+        "value": 0.00353,
+        "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.16,
+        "value": 2.2,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -858,7 +858,7 @@
       },
       {
         "name": "LTH 持有者占比",
-        "value": 82.4,
+        "value": 82.3,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 59.6,
+        "value": 59.3,
         "score": 66,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -69.4,
-        "score": 26,
+        "value": -59.6,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1042,35 +1042,35 @@
         "text": "btw best way to doxx urself as a dumb investor is to say “micron is cheap with a  fwd pe of 5”",
         "url": "https://x.com/QwQiao/status/2113652699124359296",
         "time": "Fri Oct 23 15:24:07 +0000 2026",
-        "likes": 33,
+        "likes": 34,
         "retweets": 0
       },
       {
         "text": "not to sound hyperbolic but the dumbest investors i know are currently in micron while the smartest investors i know are in zcash\n\n2nd inning",
         "url": "https://x.com/QwQiao/status/2113651553206763788",
         "time": "Fri Oct 23 15:19:34 +0000 2026",
-        "likes": 436,
-        "retweets": 26
+        "likes": 453,
+        "retweets": 28
       },
       {
         "text": "state of the market right now from my pov:\n\nai: infinite good news, shit dumps \n\ncrypto: infinite bad news, shit pumps",
         "url": "https://x.com/QwQiao/status/2113615395076886723",
         "time": "Fri Oct 23 12:55:53 +0000 2026",
-        "likes": 385,
+        "likes": 402,
         "retweets": 20
       },
       {
         "text": "If u listen carefully this is the sound of ppl capitulating on the ai trade and coming back to crypto https://t.co/uTn8EC3n2Z",
         "url": "https://x.com/QwQiao/status/2113303538734678497",
         "time": "Thu Oct 22 16:16:41 +0000 2026",
-        "likes": 97,
+        "likes": 100,
         "retweets": 3
       },
       {
         "text": "the ai trade is extremely uninteresting compared to crypto at this moment and by 2028 crypto will remind everyone who the greatest market on earth is",
         "url": "https://x.com/QwQiao/status/2113298833820291525",
         "time": "Thu Oct 22 15:57:59 +0000 2026",
-        "likes": 823,
+        "likes": 836,
         "retweets": 86
       }
     ],
@@ -1079,36 +1079,36 @@
         "text": "Just resolving a few Bitcoin matters behind closed doors. https://t.co/pIBoyRujwX",
         "url": "https://x.com/saylor/status/2113676245745696934",
         "time": "Fri Oct 23 16:57:41 +0000 2026",
-        "likes": 6733,
-        "retweets": 544
+        "likes": 7701,
+        "retweets": 624
       },
       {
         "text": "Watch the $MSTR explainer on YouTube: https://t.co/mxcb724hVL https://t.co/OdJ5ux6UxJ",
         "url": "https://x.com/saylor/status/2113618631749730435",
         "time": "Fri Oct 23 13:08:45 +0000 2026",
-        "likes": 96,
+        "likes": 99,
         "retweets": 4
       },
       {
         "text": "For those who prefer to read, our $MSTR Investor Briefing covers Bitcoin per share, Digital Credit, and our capital structure. PDF: https://t.co/FVrMloIB6k",
         "url": "https://x.com/saylor/status/2113609513895166340",
         "time": "Fri Oct 23 12:32:31 +0000 2026",
-        "likes": 137,
-        "retweets": 20
+        "likes": 148,
+        "retweets": 22
       },
       {
         "text": "Our goal is to grow Bitcoin per share. Here’s how Strategy puts Digital Capital, Digital Credit, and Digital Equity to work. $MSTR https://t.co/mYbbrmxu6U",
         "url": "https://x.com/saylor/status/2113607634611732614",
         "time": "Fri Oct 23 12:25:03 +0000 2026",
-        "likes": 3532,
-        "retweets": 418
+        "likes": 3715,
+        "retweets": 440
       },
       {
         "text": "Corporate training. https://t.co/TLNTVQkUZS",
         "url": "https://x.com/saylor/status/2113249665303167005",
         "time": "Thu Oct 22 12:42:37 +0000 2026",
-        "likes": 3095,
-        "retweets": 285
+        "likes": 3125,
+        "retweets": 286
       }
     ],
     "viktorfischer": [
@@ -1138,13 +1138,13 @@
         "url": "https://x.com/viktorfischer/status/2109641671378117026",
         "time": "Mon Oct 12 13:45:44 +0000 2026",
         "likes": 3,
-        "retweets": 1
+        "retweets": 0
       },
       {
         "text": "Intersection of AI x Crypto? Of course, Venice base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf . Below our updated model: fair price $51.79 because we're estimating they are now up to $164M in annualized revenue 🚀\n\nNFA",
         "url": "https://x.com/viktorfischer/status/2109640837206622525",
         "time": "Mon Oct 12 13:42:25 +0000 2026",
-        "likes": 5,
+        "likes": 4,
         "retweets": 2
       }
     ]
@@ -1152,37 +1152,49 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "If History Is Any Guide, This Cryptocurrency Is About to Go Parabolic in 2027",
-        "url": "https://finnhub.io/api/news?id=aee1255ffee2ea6db0bfdefde060f7d7b0dde48c0c0c356f325eb891040f2e8b",
-        "datetime": 1792820100,
+        "headline": "2 Unloved Stocks of 2026 to Consider Buying Now",
+        "url": "https://finnhub.io/api/news?id=3e8c0e3e93b8389eb3ec947af95880dbf0029eefa141288a8bc98b46ce1c6855",
+        "datetime": 1792834982,
         "source": "Yahoo"
       },
       {
-        "headline": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
-        "url": "https://finnhub.io/api/news?id=1ff27f18d4eec3d96f1abfdd672d9921b8020c6c93d4f9625bb82e683401dd32",
-        "datetime": 1792815900,
+        "headline": "History Says Nvidia Rarely Trades This Cheaply. Here's What Happened the Last Time.",
+        "url": "https://finnhub.io/api/news?id=187b221aaeb6142d18c930e9911f6cb80281c657c8020c1a2b0097bc77c2c2c8",
+        "datetime": 1792834980,
         "source": "Yahoo"
       },
       {
-        "headline": "TSMC or Nvidia: If I Could Only Own 1 for the Next 5 Years, It Would Be This 1.",
-        "url": "https://finnhub.io/api/news?id=ad89f690c50c89b4e20fc0ddbef098ae4bd22de2dedc3344e9fa4879ebde00bb",
-        "datetime": 1792815600,
+        "headline": "Prediction: Here’s Where SpaceX Stock Will Trade on Its 1-Year IPO Anniversary",
+        "url": "https://finnhub.io/api/news?id=1ac74d44118ddd7a5ba45b664c4bbcd5af87988b88b2a42bee3e1eed2a911672",
+        "datetime": 1792834562,
         "source": "Yahoo"
       },
       {
-        "headline": "How AI Power Board Launches At Navitas Semiconductor (NVTS) Has Changed Its Investment Story",
-        "url": "https://finnhub.io/api/news?id=95e623ac70c9e2428925ed750bdf6b9dce41fa9820ce00522a8fcf730cffa832",
-        "datetime": 1792811814,
+        "headline": "I'm Calling It: Bloom Energy Will Be the Biggest Winner of the AI Power Crunch for 1 Reason",
+        "url": "https://finnhub.io/api/news?id=68266170d15255910a2f999beb3ec35887acca823edcf9903df351717e890cea",
+        "datetime": 1792834380,
         "source": "Yahoo"
       },
       {
-        "headline": "Memory Stocks Are Plummetting. Jensen Huang Says the Bears Have It Wrong.",
-        "url": "https://finnhub.io/api/news?id=81e94f6362f7236c1f1602757a1707f95ac8f04f1d6a2f461d256c9d427d5b86",
-        "datetime": 1792811750,
+        "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
+        "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c",
+        "datetime": 1792834202,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "3 Key Things to Monitor When Tech Giants Report Earnings",
+        "url": "https://finnhub.io/api/news?id=2cc210c91662fdb57b6dc07c2747408f4720d25b8fcdd934a132a0479237a982",
+        "datetime": 1792836300,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Billionaire Ken Griffin Says We May Be in a Bubble. Here’s What History Says Happens Next.",
+        "url": "https://finnhub.io/api/news?id=d94cb68b89d4269b47f38a20a48c19634c53b951418fd5968385492a971d6c3c",
+        "datetime": 1792834202,
+        "source": "Yahoo"
+      },
       {
         "headline": "Cathie Wood-Led Ark Invest Sells PLTR, GOOG, SHOP Stocks — But Loads Up On PACB, FRNM And Other Biotech Firms",
         "url": "https://finnhub.io/api/news?id=33927fa26277641fa5b6f5fa1c4dc824ca3cd17137af270649e92bc55f0e321e",
@@ -1200,21 +1212,21 @@
         "url": "https://finnhub.io/api/news?id=5d50513ee9ab80d4a6558f84928b40123746ae6d0d5bfe14f5bbf6ad8db0f66e",
         "datetime": 1792804225,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Amazon Stock And Other Mega Cap Tech Names For The AI Infrastructure Reset",
-        "url": "https://finnhub.io/api/news?id=5d9cfa3db05e84304826567e2a3eb67c61a31aa6f37b389438a18388db476246",
-        "datetime": 1792801184,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Review & Preview: The Dow’s Turn",
-        "url": "https://finnhub.io/api/news?id=634bf953dddc277a9bb6aa89e74779c6a639c71b4a3adc6344ed4f540f9f4c95",
-        "datetime": 1792799700,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Elon Musk threatens Democrats who plan to launch investigations into him if they win back congressional power",
+        "url": "https://finnhub.io/api/news?id=f6f7a48ca5866664a1a65e874f396e71cb561603ec4d78c1c84857daee61ca59",
+        "datetime": 1792834200,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "3 EV Stocks To Watch With Revenue Growth Up To 33%",
+        "url": "https://finnhub.io/api/news?id=2db7f5570f1b440ca57ea79283fbababcda6dcd4b6f4890ec17c6fcb8dc5dbf7",
+        "datetime": 1792833128,
+        "source": "Yahoo"
+      },
       {
         "headline": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
         "url": "https://finnhub.io/api/news?id=e3e0ad7ae6a9bbaedaa80e3a437cc0401075f210f16a7033e2257a8cb8c5a594",
@@ -1231,18 +1243,6 @@
         "headline": "Mercari And 2 Other High Growth Insider Stocks",
         "url": "https://finnhub.io/api/news?id=9e40d0d97263390f3ba7c190aa8b61f78aabb90181302f4b22e0380a34bbbf78",
         "datetime": 1792804441,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla wants to sell a car with no steering wheel this year",
-        "url": "https://finnhub.io/api/news?id=5227c464fb7ab75975e47c25a6b81e3fed3307002e40948f401139dfc0a01b38",
-        "datetime": 1792803780,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Stocktwits Zero To Sixty: Tesla And SpaceX Form Merger Committees As Profits Drop, While Rivian Buys AI Startup And GM, Ford Advance EV Plans",
-        "url": "https://finnhub.io/api/news?id=bdf4029342356d46de87cb7734aa5432d39fb6215e8001b0b219bc26e159bad7",
-        "datetime": 1792803538,
         "source": "Yahoo"
       }
     ],
