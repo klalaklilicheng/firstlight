@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:58:38.719Z",
+  "updated_at": "2026-10-25T12:57:24.870Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 80615,
-      "change_pct": -0.06
+      "price": 80360,
+      "change_pct": -0.46
     },
     {
       "symbol": "ETH",
-      "price": 2345.96,
-      "change_pct": -1.16
+      "price": 2331.89,
+      "change_pct": -1.55
     },
     {
       "symbol": "SOL",
-      "price": 101.59,
-      "change_pct": -0.25
+      "price": 100.93,
+      "change_pct": -0.61
     },
     {
       "symbol": "HYPE",
-      "price": 76.11,
-      "change_pct": -0.16
+      "price": 76.47,
+      "change_pct": 0.85
     },
     {
       "symbol": "ZEC",
-      "price": 1196.17,
-      "change_pct": 2.84
+      "price": 1212.13,
+      "change_pct": 4.21
     },
     {
       "symbol": "TAO",
-      "price": 248.65,
-      "change_pct": -0.67
+      "price": 248.85,
+      "change_pct": -0.38
     },
     {
       "symbol": "SKY",
-      "price": 1586.81,
-      "change_pct": -1.63
+      "price": 1573.97,
+      "change_pct": -1.46
     },
     {
       "symbol": "AAVE",
-      "price": 136.77,
-      "change_pct": -3.39
+      "price": 135.89,
+      "change_pct": -2.98
     },
     {
       "symbol": "BNB",
-      "price": 744,
-      "change_pct": 1.17
+      "price": 738.98,
+      "change_pct": 0.97
     },
     {
       "symbol": "NEAR",
-      "price": 4.44,
-      "change_pct": -2.84
+      "price": 4.46,
+      "change_pct": -0.37
     },
     {
       "symbol": "DOGE",
-      "price": 0.076896,
-      "change_pct": -1.34
+      "price": 0.076643,
+      "change_pct": -1.2
     },
     {
       "symbol": "SPACEX",
-      "price": 607.55,
-      "change_pct": 0.98
+      "price": 608.57,
+      "change_pct": 16.4
     }
   ],
   "earnings": {
@@ -474,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "内塔尼亚胡提议使用区块链作为潜在金融制裁的解决方案",
+      "summary": "选举前，总理本杰明·内塔尼亚胡表示，以色列可能会转向区块链和加密货币来规避潜在的国际制裁，这令反对者和该国央行行长感到沮丧。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1792928483,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "人工智能融资的担忧令华尔街感到不安。以下是我们调整投资组合的方式",
       "summary": "人工智能股票的轮换使几支防御性俱乐部股票受益。",
       "source": "CNBC",
@@ -627,7 +636,7 @@
       "related": ""
     },
     {
-      "headline": "穆迪维持法国信用评级不变，因该国正努力应对动荡和收益率上升",
+      "headline": "穆迪维持法国信用评级稳定，因该国正努力应对动荡和收益率上升",
       "summary": "穆迪将法国信用评级维持在 Aa3，让该国在一周的动荡中得到了一些缓解。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
@@ -733,15 +742,6 @@
       "datetime": 1792769957,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "人工智能代理可能会扰乱银行存款。为什么华尔街可能反应过度",
-      "summary": "分析师表示，目前对人工智能代理可能扰乱银行业的担忧有些言过其实。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/23/ai-agents-could-disrupt-bank-deposits-why-wall-street-may-be-overreacting.html",
-      "datetime": 1792767597,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -785,12 +785,12 @@
     }
   ],
   "btc_score": {
-    "score": 37.6,
+    "score": 37.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 13.1,
-    "weekly_score": 24.5,
-    "btc_price": 80712.4,
+    "weekly_score": 24.6,
+    "btc_price": 80454.6,
     "fear_greed": 46,
     "indicators": [
       {
@@ -809,8 +809,8 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.006189,
-        "score": 48,
+        "value": 0.007778,
+        "score": 49,
         "weight": 5,
         "group": "daily"
       },
@@ -879,15 +879,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 59.5,
-        "score": 66,
+        "value": 59.1,
+        "score": 65,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -68.5,
-        "score": 26,
+        "value": -60.7,
+        "score": 28,
         "weight": 4,
         "group": "weekly"
       }
@@ -1012,7 +1012,7 @@
         "text": "In times like this, if you're a long term investor, you don't want to be waffling about being in or out, you want to be stacking units systematically. Don't get confused by the traders, it's a separate game.\n\nOn unit accumulation, depending on how long you've been in the game,",
         "url": "https://x.com/cburniske/status/2111895750510825630",
         "time": "Sun Oct 18 19:02:38 +0000 2026",
-        "likes": 1351,
+        "likes": 1350,
         "retweets": 132
       },
       {
@@ -1039,39 +1039,39 @@
     ],
     "QwQiao": [
       {
+        "text": "my read is the west coast and the private market are in a giant bubble. public market looks a bit expensive but is generally ok except for a few pockets like the semis supply chain, as the east coast is somewhat skeptical of ai. so the public market could correct but it won’t be",
+        "url": "https://x.com/QwQiao/status/2114340055594520742",
+        "time": "Sun Oct 25 12:55:26 +0000 2026",
+        "likes": 0,
+        "retweets": 0
+      },
+      {
+        "text": "it’s not so much the insane range of companies getting funded at insane valuations as a general sense of … call it “irrational exuberance” when u talk to ppl there",
+        "url": "https://x.com/QwQiao/status/2114334953462812758",
+        "time": "Sun Oct 25 12:35:10 +0000 2026",
+        "likes": 7,
+        "retweets": 0
+      },
+      {
+        "text": "multiple friends went to silicon valley recently came back and 2-3x’ed their p(bubble). one of them is a crypto person and said it reminds him of december 2021",
+        "url": "https://x.com/QwQiao/status/2114333290345951707",
+        "time": "Sun Oct 25 12:28:33 +0000 2026",
+        "likes": 33,
+        "retweets": 2
+      },
+      {
         "text": "btw best way to doxx urself as a dumb investor is to say “micron is cheap with a  fwd pe of 5”",
         "url": "https://x.com/QwQiao/status/2113652699124359296",
         "time": "Fri Oct 23 15:24:07 +0000 2026",
-        "likes": 38,
+        "likes": 39,
         "retweets": 0
       },
       {
         "text": "not to sound hyperbolic but the dumbest investors i know are currently in micron while the smartest investors i know are in zcash\n\n2nd inning",
         "url": "https://x.com/QwQiao/status/2113651553206763788",
         "time": "Fri Oct 23 15:19:34 +0000 2026",
-        "likes": 484,
+        "likes": 485,
         "retweets": 35
-      },
-      {
-        "text": "state of the market right now from my pov:\n\nai: infinite good news, shit dumps \n\ncrypto: infinite bad news, shit pumps",
-        "url": "https://x.com/QwQiao/status/2113615395076886723",
-        "time": "Fri Oct 23 12:55:53 +0000 2026",
-        "likes": 425,
-        "retweets": 20
-      },
-      {
-        "text": "If u listen carefully this is the sound of ppl capitulating on the ai trade and coming back to crypto https://t.co/uTn8EC3n2Z",
-        "url": "https://x.com/QwQiao/status/2113303538734678497",
-        "time": "Thu Oct 22 16:16:41 +0000 2026",
-        "likes": 102,
-        "retweets": 3
-      },
-      {
-        "text": "the ai trade is extremely uninteresting compared to crypto at this moment and by 2028 crypto will remind everyone who the greatest market on earth is",
-        "url": "https://x.com/QwQiao/status/2113298833820291525",
-        "time": "Thu Oct 22 15:57:59 +0000 2026",
-        "likes": 841,
-        "retweets": 87
       }
     ],
     "saylor": [
@@ -1079,22 +1079,22 @@
         "text": "A quiet word about Bitcoin. https://t.co/IwBUGV0iwr",
         "url": "https://x.com/saylor/status/2114163106624508173",
         "time": "Sun Oct 25 01:12:18 +0000 2026",
-        "likes": 2807,
-        "retweets": 211
+        "likes": 3530,
+        "retweets": 282
       },
       {
         "text": "Four months ago, we launched our Digital Credit Capital Framework. It’s delivering. Programmatic $STRC buybacks have helped strengthen our credit markets and support $MSTR. We manage the entire capital structure to create long-term shareholder value. https://t.co/mEbbnzcQCp",
         "url": "https://x.com/saylor/status/2114030733811388709",
         "time": "Sat Oct 24 16:26:18 +0000 2026",
-        "likes": 2736,
-        "retweets": 246
+        "likes": 2913,
+        "retweets": 259
       },
       {
         "text": "Just resolving a few Bitcoin matters behind closed doors. https://t.co/pIBoyRujwX",
         "url": "https://x.com/saylor/status/2113676245745696934",
         "time": "Fri Oct 23 16:57:41 +0000 2026",
-        "likes": 9889,
-        "retweets": 799
+        "likes": 10114,
+        "retweets": 818
       },
       {
         "text": "Watch the $MSTR explainer on YouTube: https://t.co/mxcb724hVL https://t.co/OdJ5ux6UxJ",
@@ -1107,7 +1107,7 @@
         "text": "For those who prefer to read, our $MSTR Investor Briefing covers Bitcoin per share, Digital Credit, and our capital structure. PDF: https://t.co/FVrMloIB6k",
         "url": "https://x.com/saylor/status/2113609513895166340",
         "time": "Fri Oct 23 12:32:31 +0000 2026",
-        "likes": 178,
+        "likes": 182,
         "retweets": 27
       }
     ],
@@ -1137,14 +1137,14 @@
         "text": "Whoa this was packed. Lots of interest in https://t.co/kfyFK6WgNa (RWA yield onchain) 💸",
         "url": "https://x.com/viktorfischer/status/2109641671378117026",
         "time": "Mon Oct 12 13:45:44 +0000 2026",
-        "likes": 2,
-        "retweets": 0
+        "likes": 3,
+        "retweets": 1
       },
       {
         "text": "Intersection of AI x Crypto? Of course, Venice base:0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf . Below our updated model: fair price $51.79 because we're estimating they are now up to $164M in annualized revenue 🚀\n\nNFA",
         "url": "https://x.com/viktorfischer/status/2109640837206622525",
         "time": "Mon Oct 12 13:42:25 +0000 2026",
-        "likes": 4,
+        "likes": 5,
         "retweets": 2
       }
     ]
@@ -1152,69 +1152,81 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Meet the Ultra-High-Yield Dividend Stock That Has Doubled the S&P 500's Returns This Year",
-        "url": "https://finnhub.io/api/news?id=a21cf69b2ea91e1d030a8f8dfaa184953d15b578bbaf75b16b89165557b3049d",
-        "datetime": 1792906680,
+        "headline": "Elon Musk Just Delivered Spectacular News for SpaceX Stock Investors",
+        "url": "https://finnhub.io/api/news?id=cfd5ea00b760e9578befeeb541a9a9722b252ea02a0d2ecf23c7367b632b85ae",
+        "datetime": 1792927800,
         "source": "Yahoo"
       },
       {
-        "headline": "Warren Buffett Won His 10-Year Bet Against Hedge Funds. Here's What the S&P 500 Has Done Since It Ended.",
-        "url": "https://finnhub.io/api/news?id=834490624b695cac65c96666afc921f3e195d6ba6243616b885600a5e95f0862",
-        "datetime": 1792904461,
+        "headline": "AI Debt Has Exploded 4X To Nearly $500 Billion: What It Means For NVDA, ORCL And CRWV, According To IO Fund",
+        "url": "https://finnhub.io/api/news?id=c6150d3bf4e767a2ddf4ad75e4fca0f20042666d1ebbf5a30866306b60176e37",
+        "datetime": 1792927477,
         "source": "Yahoo"
       },
       {
-        "headline": "As AI Labs Burn Cash, the Real Question Is Which Suppliers Get Paid",
-        "url": "https://finnhub.io/api/news?id=22ef461b8323a95c91831b0dff38219f5c4c771696048820243ac36ae2560a1c",
-        "datetime": 1792902000,
+        "headline": "Netflix Is Shaking Up Its Content Leadership. Here's What Needs to Happen Next.",
+        "url": "https://finnhub.io/api/news?id=b13328897b36b5cbc4ccfd5d34d8e48e180f2b08f0feeaf91ab6afde671e08d6",
+        "datetime": 1792927260,
         "source": "Yahoo"
       },
       {
-        "headline": "Should Investors Buy the Meta Platforms Dip?",
-        "url": "https://finnhub.io/api/news?id=1a5047d420722fa683a4e4667ad8252d7ced1c8c06e667d396e21b196a7f43ab",
-        "datetime": 1792898400,
+        "headline": "Good News for Tesla Investors: 3 Key Benchmarks Elon Musk's Company Delivered On in the Third Quarter",
+        "url": "https://finnhub.io/api/news?id=e8560872ff85ea9c8654be33f68ff72a12faba2d543012c43683d437052f5190",
+        "datetime": 1792926600,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: The Stock Market Will Soar After Midterm Elections",
-        "url": "https://finnhub.io/api/news?id=c09bb498a25a966a9a154ea539f92a0bfe312a9f3b376f40574f5f503737f117",
-        "datetime": 1792897500,
+        "headline": "Where Will Neurocrine Biosciences Be in 5 Years?",
+        "url": "https://finnhub.io/api/news?id=919a04b055d23a12e1b5f994226f995bfbc2b059d8c9280889b57c227930dfa1",
+        "datetime": 1792926300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Google’s Ex-CEO Says China Trails US by 6 Months in AI Race, but Could Still Win Due to This Strategy: ‘We’re Already Losing’",
-        "url": "https://finnhub.io/api/news?id=7acf48d0fbcf5bd7cee1d3dee3590948c434b244b11672bc3bfd7d7a36facb06",
-        "datetime": 1792899016,
+        "headline": "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
+        "url": "https://finnhub.io/api/news?id=f5336236e700318c2cf2666aa031fed703571756ed421fb993e4d3861ee39af8",
+        "datetime": 1792928909,
         "source": "Yahoo"
       },
       {
-        "headline": "Is the AI Bubble About to Burst? Plus, Apple Bets on Doorbells.",
-        "url": "https://finnhub.io/api/news?id=07647077dba6d2ee6be52046ca470b17d16108b443389f355ca686e32171a59b",
-        "datetime": 1792887722,
+        "headline": "4 California billionaires saw their wealth soar 322% over the past two years — but paid 0.04% a year in state income tax",
+        "url": "https://finnhub.io/api/news?id=0475de019519b1cf017349d9396141955b088b6a5359174468108e0f164a67bc",
+        "datetime": 1792925100,
         "source": "Yahoo"
       },
       {
-        "headline": "Booking vs. Chewy: Do Pet Treats or Plane Tickets Make for a Better Stock in 2026?",
-        "url": "https://finnhub.io/api/news?id=9253850c4f08b7d3d8f6363bca015460b4c18d5f356221c31b2abe5ae1517ee2",
-        "datetime": 1792883522,
+        "headline": "The Enterprise Agent Price Nobody Will Show You",
+        "url": "https://finnhub.io/api/news?id=3b461b20a8ab503e9e6ea6f2fee4b2c56f0471989bc07931ac2d1aa2601fa503",
+        "datetime": 1792922364,
         "source": "Yahoo"
       },
       {
-        "headline": "Broadcom Stock Is Down 7% in a Year. Cheap for a Reason or Too Cheap to Ignore?",
-        "url": "https://finnhub.io/api/news?id=7b7a02c5e2d96788542778e3db38bff7062b38eb3cc1e82e81eada4fabc9b5bd",
-        "datetime": 1792864453,
+        "headline": "Alphabet's 2 Classes of Common Stock Trade About 1% Apart. Here's the One I'd Buy.",
+        "url": "https://finnhub.io/api/news?id=b66d88e5da794c5994d5e350edadeb632842453e66787920819dde0fafedd002",
+        "datetime": 1792914841,
         "source": "Yahoo"
       },
       {
-        "headline": "Bro went from a 700-person village in Slovakia to Google then built an app that makes $2k/day",
-        "url": "https://finnhub.io/api/news?id=522babba2cb0e50f874d039b5d843e5320736608ca235ccf745872ba57df436c",
-        "datetime": 1792863083,
-        "source": "Yahoo"
+        "headline": "Wall Street Week Ahead",
+        "url": "https://finnhub.io/api/news?id=c445e63593ddae017438db65d785f64622a4901f01875a722b3d91243f3cb4d5",
+        "datetime": 1792911546,
+        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Good News for Tesla Investors: 3 Key Benchmarks Elon Musk's Company Delivered On in the Third Quarter",
+        "url": "https://finnhub.io/api/news?id=e8560872ff85ea9c8654be33f68ff72a12faba2d543012c43683d437052f5190",
+        "datetime": 1792926600,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Elon Musk Wants to Give Every American Child a Share of SpaceX. Here's What It Would Cost -- and What It Means for Everyone Else Holding the Stock",
+        "url": "https://finnhub.io/api/news?id=4ecb7bc1475412be2de82eebc55e91d25b707ebf37b60c7cb873913c6b031b54",
+        "datetime": 1792919220,
+        "source": "Yahoo"
+      },
       {
         "headline": "GM Just Announced a $20 Billion Buyback. Tesla Trades at 350 Times Earnings. Here's Which Auto Stock I'd Buy Today.",
         "url": "https://finnhub.io/api/news?id=665ca2406b45703c147072223103005d8408b7b5fa09db2c9cb33a8a4948908f",
@@ -1231,18 +1243,6 @@
         "headline": "Bank of America resets Tesla forecast as Robotaxi miles double",
         "url": "https://finnhub.io/api/news?id=6053477add1825e82da18aeb39c9aef7b8488cdcb59f30516c7e91d4fd8c931a",
         "datetime": 1792890180,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX’s $1 Trillion Revenue Ambition: Can Elon Musk Deliver?",
-        "url": "https://finnhub.io/api/news?id=5b6b1d068491757f32ab450a24208537401ebe6376894d0b27febce0541283c7",
-        "datetime": 1792887602,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "3 EV Supply Chain Stocks Facing The China Threat In US Manufacturing",
-        "url": "https://finnhub.io/api/news?id=cb73bd0e2b09d09d6411f89dd02c82e3e9e2ea56041a6f0e4c68a3c0fe81544e",
-        "datetime": 1792858354,
         "source": "Yahoo"
       }
     ],
@@ -1345,21 +1345,21 @@
         "source": "CoinDesk"
       },
       {
+        "headline": "“If I could give one piece of advice to anybody that wants to be a part of this ecosystem, it’s show up to Solana Hacker House.” - @Amystreet \n\n@HackerHouses London Special Edition 🇬🇧\nNov 1–12, righ",
+        "url": "https://x.com/solana/status/2114303454961365044",
+        "datetime": 1792924200,
+        "source": "@solana"
+      },
+      {
+        "headline": "Builders, operators, anyone in the ecosystem. Come through.",
+        "url": "https://x.com/solana/status/2114303455322165652",
+        "datetime": 1792924200,
+        "source": "@solana"
+      },
+      {
         "headline": "150ms",
         "url": "https://x.com/solana/status/2114255670510043628",
         "datetime": 1792912807,
-        "source": "@solana"
-      },
-      {
-        "headline": "JUST IN: 14M+ stablecoin holders on Solana",
-        "url": "https://x.com/solana/status/2114128183197147383",
-        "datetime": 1792882412,
-        "source": "@solana"
-      },
-      {
-        "headline": "",
-        "url": "https://x.com/solana/status/2113963979236331925",
-        "datetime": 1792843262,
         "source": "@solana"
       }
     ],
