@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:24:24.082Z",
+  "updated_at": "2026-10-28T03:16:58.936Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 32.24,
-      "change_pct": -0.8
+      "price": 31.85,
+      "change_pct": -1.21
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 80782,
-      "change_pct": 1.22
+      "price": 80838,
+      "change_pct": 1.57
     },
     {
       "symbol": "ETH",
-      "price": 2345.96,
-      "change_pct": 1.61
+      "price": 2354.44,
+      "change_pct": 2.05
     },
     {
       "symbol": "SOL",
-      "price": 101.14,
-      "change_pct": 0.82
+      "price": 101.6,
+      "change_pct": 1.74
     },
     {
       "symbol": "HYPE",
-      "price": 81.42,
-      "change_pct": 4.62
+      "price": 81.27,
+      "change_pct": 4.8
     },
     {
       "symbol": "ZEC",
-      "price": 1310.65,
-      "change_pct": 7.37
+      "price": 1310.93,
+      "change_pct": 7.61
     },
     {
       "symbol": "TAO",
-      "price": 254.82,
-      "change_pct": 2.17
+      "price": 257.98,
+      "change_pct": 4.22
     },
     {
       "symbol": "SKY",
-      "price": 1485.28,
-      "change_pct": -4.58
+      "price": 1521.96,
+      "change_pct": 2.59
     },
     {
       "symbol": "AAVE",
-      "price": 133.24,
-      "change_pct": -1.06
+      "price": 134.94,
+      "change_pct": 1.77
     },
     {
       "symbol": "BNB",
-      "price": 743.98,
-      "change_pct": 0.52
+      "price": 744.38,
+      "change_pct": 0.92
     },
     {
       "symbol": "NEAR",
-      "price": 4.68,
-      "change_pct": 4.71
+      "price": 4.7,
+      "change_pct": 6.86
     },
     {
       "symbol": "DOGE",
-      "price": 0.078694,
-      "change_pct": 1.91
+      "price": 0.07941,
+      "change_pct": 3
     },
     {
       "symbol": "SPACEX",
-      "price": 613.99,
-      "change_pct": 1.3
+      "price": 604.91,
+      "change_pct": -0.13
     }
   ],
   "earnings": {
@@ -171,10 +171,11 @@
     },
     "TSLA": {
       "next": {
-        "date": "2027-02-18",
+        "date": "2027-01-26",
         "quarter": 4,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": 0.4596,
+        "revenue_estimate": 29488824566
       },
       "history": [
         {
@@ -474,6 +475,33 @@
   },
   "news": [
     {
+      "headline": "Bithumb 披露内部系统泄露后数据泄露：报告",
+      "summary": "此次泄露影响了员工用于工作和信息共享的内部移动系统。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1793153927,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Discord 正在使公共聊天可在 Google 上搜索：如何选择退出",
+      "summary": "大型公共服务器上的不和谐对话很快就会影响到远远超出其社区的受众，从而引发隐私问题。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1793148424,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Bessent 表示 SEC 和 CFTC 可以填补《清晰法案》的空白，但机构规则存在到期风险",
+      "summary": "<p dir=\"ltr\">美国财政部长 Scott Bessent 表示，华盛顿仍然可以在没有国会的情况下制定加密货币规则。他在 Ripple 的 Swell 会议上发表讲话时表示，参议院未能通过《澄清法案》令人失望，但财政部将利用其召集权推动监管框架",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bessent-says-sec-and-cftc-can-fill-the-clarity-act-gap-but-agency-rules-come-with-an-expiry-risk/",
+      "datetime": 1793139879,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "VanEck 推出多元化 ETF，结合股票、债券和比特币敞口",
       "summary": "VanEck 的新 Wealth Builder ETF 目标是 2% 的比特币配置，允许范围为 1% 至 5%，通过现货比特币 ETP 获得敞口。",
       "source": "Cointelegraph",
@@ -565,7 +593,7 @@
     },
     {
       "headline": "人工智能贸易卷土重来的背后是什么——另外，我们对英特尔最新交易的看法",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/10/27/the-ai-trade-comeback-plus-our-take-on-latest-intel-deal.html",
       "datetime": 1793124831,
@@ -610,7 +638,7 @@
     },
     {
       "headline": "专家表示，随着假日购物的临近，季节性招聘发出了“复杂的信号”",
-      "summary": "受非零售岗位的推动，2026 年企业发布的季节性岗位数量将多于 2025 年。相反，主要零售商依赖固定员工。",
+      "summary": "受非零售岗位的推动，2026 年企业发布的季节性岗位数量比 2025 年更多。相反，主要零售商依赖固定员工。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/make-it/2026/10/27/seasonal-hiring-2026-holiday-jobs.html",
       "datetime": 1793119257,
@@ -663,7 +691,7 @@
       "related": ""
     },
     {
-      "headline": "Janus Henderson 和 Centrifuge 推出首只授权基金，纳斯达克 100 指数上线",
+      "headline": "Janus Henderson 和 Centrifuge 推出首支授权基金，纳斯达克 100 指数上线",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
@@ -681,16 +709,7 @@
       "related": ""
     },
     {
-      "headline": "比特币在 80,000 美元上下的窄幅区间内交易。  什么能让数字货币摆脱困境？",
-      "summary": "自 9 月和 10 月高点在 87,374 美元附近形成上限以来，比特币一直在走低。接近该水平的反复失败给卖家提供了一个明确的可以依靠的区域。买家有机会扩大上涨空间，但他们无法维持突破。价格已自",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/bitcoin-trades-in-a-narrow-range-above-and-below-80-000-what-would-get-the-digital-currency-out-of-its-rut/",
-      "datetime": 1793108687,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "华尔街资深人士乔迪·维瑟 (Jordi Visser) 表示，加密货币可能跑赢人工智能股票",
+      "headline": "加密货币可能跑赢人工智能股票：华尔街资深人士乔迪·维瑟 (Jordi Visser)",
       "summary": "摩根士丹利和 Weiss 前高管 Jordi Visser 表示，随着他将持有的资产扩展到比特币、以太币和 Solana 之外，人工智能代理正在推动对加密货币的需求。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -724,24 +743,6 @@
       "datetime": 1793106060,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周二股市最值得关注的 10 件事",
-      "summary": "Broadcom 为 Anthropic 安排了芯片融资，Meta 扩大了其二级股票销售。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/10/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "datetime": 1793105476,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Santoli：我们正接近人工智能行业反弹的关键时刻",
-      "summary": "帮宝适优于人工智能？宝洁公司的估值超过了 Alphabet。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html",
-      "datetime": 1793104432,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -754,7 +755,7 @@
           "datetime": 1793102401
         },
         {
-          "headline": "埃隆·马斯克确认 SpaceX 斥资 400 亿美元收购人工智能芯片债务，警告新云将面临洗牌",
+          "headline": "埃隆·马斯克 (Elon Musk) 确认 SpaceX 400 亿美元债务收购人工智能芯片，警告新云将面临洗牌",
           "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
           "datetime": 1792984299
         }
@@ -806,46 +807,46 @@
     }
   ],
   "btc_score": {
-    "score": 38.3,
+    "score": 37.8,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 14.3,
-    "weekly_score": 24,
-    "btc_price": 80804.8,
-    "fear_greed": 43,
+    "daily_score": 14,
+    "weekly_score": 23.8,
+    "btc_price": 80963.3,
+    "fear_greed": 45,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.4866,
-        "score": 16,
+        "value": 0.495,
+        "score": 17,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": 110300000,
-        "score": 57,
+        "value": 24500000,
+        "score": 52,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.006599,
-        "score": 48,
+        "value": 0.004273,
+        "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.06,
-        "score": 100,
+        "value": 1.98,
+        "score": 99,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 43,
-        "score": 43,
+        "value": 45,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
@@ -858,15 +859,15 @@
       },
       {
         "name": "NUPL",
-        "value": 0.324,
-        "score": 57,
+        "value": 0.33,
+        "score": 58,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.162,
-        "score": 15,
+        "value": 1.01,
+        "score": 11,
         "weight": 9,
         "group": "weekly"
       },
@@ -893,22 +894,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.19,
+        "value": 1.2,
         "score": 23,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 57.8,
+        "value": 58,
         "score": 63,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -76,
-        "score": 24,
+        "value": -65.2,
+        "score": 27,
         "weight": 4,
         "group": "weekly"
       }
@@ -917,7 +918,7 @@
   "fomc": {
     "next": {
       "date": "2026-10-28",
-      "days_until": 1
+      "days_until": 0
     },
     "schedule": [
       "2025-01-29",
@@ -1026,8 +1027,8 @@
         "text": "No doubt a choppy market, but lots of budding strength in the long-tail while $BTC bleeds, suggests to me the market isn't losing its risk appetite, rather long-term oriented investors continue building positions in places where they see value. There's a formidable wall of worry",
         "url": "https://x.com/cburniske/status/2114800328956940404",
         "time": "Mon Oct 26 19:24:24 +0000 2026",
-        "likes": 1016,
-        "retweets": 60
+        "likes": 1019,
+        "retweets": 62
       },
       {
         "text": "Worth reflecting on who you are at the bar",
@@ -1063,35 +1064,35 @@
         "text": "my first point (no einstein) is less obv than my second point (physical constraints), and im also less sure of it, but\n\nwhen coding agents first came out end of last year, i said to myself \"solving math\" was only a matter of time. solving existing math (vs creating new axioms and",
         "url": "https://x.com/QwQiao/status/2115093142584058101",
         "time": "Tue Oct 27 14:47:56 +0000 2026",
-        "likes": 18,
+        "likes": 20,
         "retweets": 0
       },
       {
         "text": "birds eye view of what’s happening and what’s about to happen in ai x hard science:\n\nai is making really impressive progress in pure math (quasi riemann), theoretical cs (eth), theoretical physics (yang-mills), and foundational biochem (the alphafolds of the world).\n\nwhat it",
         "url": "https://x.com/QwQiao/status/2115068968587166194",
         "time": "Tue Oct 27 13:11:52 +0000 2026",
-        "likes": 367,
-        "retweets": 29
+        "likes": 393,
+        "retweets": 30
       },
       {
         "text": "it should also make u realize that everyone has a worlds leading expert in virtually every domain in their pocket, but most ppl are too lazy to use them, let alone smart enough to ask the right questions.\n\nwith ai smart ppl get smarter and dumb ppl get dumber. \n\nk-shaped economy.",
         "url": "https://x.com/QwQiao/status/2115034356204831093",
         "time": "Tue Oct 27 10:54:20 +0000 2026",
-        "likes": 46,
+        "likes": 48,
         "retweets": 4
       },
       {
         "text": "it takes 5min of talking to ur fav ai to know that:\n\nthe latest math results from openai have no direct impact whatsoever to deployed cryptography systems, but they do strengthen the case for crypto-agility.\n\nie, long zcash.",
         "url": "https://x.com/QwQiao/status/2115033118893625451",
         "time": "Tue Oct 27 10:49:25 +0000 2026",
-        "likes": 366,
+        "likes": 374,
         "retweets": 24
       },
       {
         "text": "not only am i not worried about the crypto community's ability to handle the upcoming ai/quantum threat, i will venture to say that in the next 2 yrs the world will realize crypto is far better prepared for it than the rest of the internet and finance. we've had a trillion dollar",
         "url": "https://x.com/QwQiao/status/2114409961824682322",
         "time": "Sun Oct 25 17:33:13 +0000 2026",
-        "likes": 2350,
+        "likes": 2351,
         "retweets": 292
       }
     ],
@@ -1100,35 +1101,35 @@
         "text": "Saying there’s no reason to buy Bitcoin because anyone can create a cryptocurrency is like saying there’s no reason to learn English because anyone can invent a language.",
         "url": "https://x.com/saylor/status/2115061421843087541",
         "time": "Tue Oct 27 12:41:53 +0000 2026",
-        "likes": 16292,
-        "retweets": 1394
+        "likes": 17768,
+        "retweets": 1523
       },
       {
         "text": "Passive income should be passive. $STRC https://t.co/rHGug9GNWZ",
         "url": "https://x.com/saylor/status/2114779048245362723",
         "time": "Mon Oct 26 17:59:50 +0000 2026",
-        "likes": 3276,
-        "retweets": 260
+        "likes": 3370,
+        "retweets": 265
       },
       {
         "text": "USD Duration is 3.4 yrs and STRC's BTC Credit is 54 bps assuming 10% BTC ARR, 40% BTC Vol, and a BTC price of $81,200. Learn more about Strategy's credit metrics: https://t.co/H0Xmf1xcuD",
         "url": "https://x.com/saylor/status/2114701495019192603",
         "time": "Mon Oct 26 12:51:40 +0000 2026",
-        "likes": 353,
+        "likes": 358,
         "retweets": 13
       },
       {
         "text": "Strategy has repurchased $205M of $STRC. As of 10/25/26, we hold 848,517 $BTC and $5.1B of USD Assets. $MSTR https://t.co/XTTFEh0rSc",
         "url": "https://x.com/saylor/status/2114701492443635943",
         "time": "Mon Oct 26 12:51:39 +0000 2026",
-        "likes": 6882,
-        "retweets": 618
+        "likes": 6954,
+        "retweets": 627
       },
       {
         "text": "Financial freedom should come with free time. $STRC https://t.co/6TOSden13b",
         "url": "https://x.com/saylor/status/2114366597674524846",
         "time": "Sun Oct 25 14:40:54 +0000 2026",
-        "likes": 3007,
+        "likes": 3011,
         "retweets": 255
       }
     ],
@@ -1137,7 +1138,7 @@
         "text": "Whoa - for those who want to understand how we run \"propAMM for RWAs\" for instant liquidity on both SVM and EVM -&gt; tune in!",
         "url": "https://x.com/viktorfischer/status/2115173617222779269",
         "time": "Tue Oct 27 20:07:43 +0000 2026",
-        "likes": 1,
+        "likes": 2,
         "retweets": 1
       },
       {
@@ -1173,73 +1174,85 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
-        "url": "https://finnhub.io/api/news?id=995b09e1776ebfbb47f422fd5d6dadf7dcb149e84ac3a45287398f342a51db9e",
-        "datetime": 1793137201,
+        "headline": "Here's How Many Shares of Procter & Gamble It Would Take to Fund an Annual $3,000 Vacation From Dividends",
+        "url": "https://finnhub.io/api/news?id=c27fe9df0a064cfd7d7e42cc110fb80dbfc8688f979b7d203c86d5c31ed22ff5",
+        "datetime": 1793151840,
         "source": "Yahoo"
       },
       {
-        "headline": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
-        "url": "https://finnhub.io/api/news?id=2bd5147d1bbd37ead4a993d669e21660010ab4ba55377370ce14f8c7ee422eff",
-        "datetime": 1793137140,
+        "headline": "Does Super Micro Computer (SMCI) Have A Bigger AI Infrastructure Story Now?",
+        "url": "https://finnhub.io/api/news?id=f3d491d4ad0372eb91f9bf43fd9b5c52cdbe3c46d12d1ed788943b874d72e5e7",
+        "datetime": 1793150011,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Noble Stock Tumbled on Tuesday",
-        "url": "https://finnhub.io/api/news?id=4da90b1ccec4100fd423b694bcc179267f47ab1f1419cb54bef134987c307db9",
-        "datetime": 1793136876,
+        "headline": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
+        "url": "https://finnhub.io/api/news?id=1c264da3f069b150f75ed0ed246be4dfae2254d257e9bec269e57f3d83e2a3d4",
+        "datetime": 1793147998,
         "source": "Yahoo"
       },
       {
-        "headline": "NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means",
-        "url": "https://finnhub.io/api/news?id=67efecb897dc4a3fe14157c8f0124022052a3997d1028ec4b6d4d9017d1a3618",
-        "datetime": 1793136004,
+        "headline": "RBC Says SpaceX Stock Has 50% Upside. S&P Global Just Warned About Its Hidden AI Debt. Here's Who I Think Is Right.",
+        "url": "https://finnhub.io/api/news?id=fbfc90c14780894be50e98b773f45d84ed6fe929dad9c881f61456613f29ccc7",
+        "datetime": 1793147400,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
-        "url": "https://finnhub.io/api/news?id=e9fbfac689c4f6b9e750a8ac7270e5d1bcaeefd6f25760c5067178e33f65db96",
-        "datetime": 1793135287,
+        "headline": "British Growth Stocks To Watch In October 2026",
+        "url": "https://finnhub.io/api/news?id=c0758966ef271b3cce6c08cfe0d31406c93dfa7f8848022c13f1d214eeec192d",
+        "datetime": 1793146677,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
-        "url": "https://finnhub.io/api/news?id=363fe5f026f80084da7451505ae7875524746e78d1f0ea26c24554aeddd0a3fe",
-        "datetime": 1793137442,
+        "headline": "Anthropic's record IPO faces some big questions",
+        "url": "https://finnhub.io/api/news?id=825e15342c1e37728478723a29e60c2ec84cf9fcbaeba8fe19dfb85d639c79cb",
+        "datetime": 1793151518,
         "source": "Yahoo"
       },
       {
-        "headline": "Stock Market Today, Oct. 27: Meta Raises Largest-Ever Equity Offering to Nearly $98 Billion to Fund AI Infrastructure Bet",
-        "url": "https://finnhub.io/api/news?id=d8a00036d046a15237a68479e7cf1e499c211e45810a35fe286c0604e4aab05b",
-        "datetime": 1793137002,
+        "headline": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO",
+        "url": "https://finnhub.io/api/news?id=1c264da3f069b150f75ed0ed246be4dfae2254d257e9bec269e57f3d83e2a3d4",
+        "datetime": 1793147998,
         "source": "Yahoo"
       },
       {
-        "headline": "Artificial Intelligence (AI) in Pharmacovigilance Global Market Report 2026 | Capitalize on 19.6% CAGR to 2030 as Oracle, Microsoft, Google and IQVIA Accelerate Automation",
-        "url": "https://finnhub.io/api/news?id=1c79530695d2e9d5090330d0bd015375fec18faf4d5acc083878152523df9e9b",
-        "datetime": 1793135400,
+        "headline": "Review & Preview: The AI Rollercoaster",
+        "url": "https://finnhub.io/api/news?id=d9eb7483ea6504acbb508e97f16dfea1486fcfae95ddfa3e30a198ab3c99bad5",
+        "datetime": 1793146080,
         "source": "Yahoo"
       },
       {
-        "headline": "Global Green Information Technology (IT) for Insurers Market Report 2026 | Capitalize on 13.6% CAGR as Microsoft, AWS, Google, and Dell Scale Green Cloud Adoption",
-        "url": "https://finnhub.io/api/news?id=4046ffa28eb3a9e951c45dde526361e57280514979dee70bceec6072bf3a51d2",
-        "datetime": 1793134920,
+        "headline": "Earnings from Google and Microsoft and a Fed rate decision: What to Watch",
+        "url": "https://finnhub.io/api/news?id=c60939b1b9fe15180efb44703d810296acbba0f4a1a4499416d67c410272c441",
+        "datetime": 1793145600,
         "source": "Yahoo"
       },
       {
-        "headline": "Global Application Integration and Collaboration Market Report 2026 | Capitalize on 9% CAGR to $152.23B by 2030 as Microsoft, Google, AWS and Oracle Accelerate AI and API Integration",
-        "url": "https://finnhub.io/api/news?id=d704e16450c9bd8d11e8222661c03aa4a2acf9c1e6076b47a8043d122d2d7852",
-        "datetime": 1793134860,
+        "headline": "'We're Trading Them Like Baseball Cards': Mark Cuban Warns ‘Everything’s a Meme Stock’ as AAPL, GOOGL and MU Fuel Market Bubble Fears",
+        "url": "https://finnhub.io/api/news?id=5a20a5cb48520ed92950f4dd08f36ce8d4b73664df81de2dc9b8ffe307a0fbd4",
+        "datetime": 1793138434,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "TSLA Stock Rises As Cybercabs Overtake Model Ys In Authorized Texas Robotaxi Fleet",
+        "url": "https://finnhub.io/api/news?id=7c825f029e8330132ccfe3e197e72ba477cb571cf9fca63b7e2d744da2f3c72c",
+        "datetime": 1793140797,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Dow Jones Futures: Growth Stocks Rally, Tesla Clears Buy Point; Fed, Microsoft, Google On Tap",
         "url": "https://finnhub.io/api/news?id=363fe5f026f80084da7451505ae7875524746e78d1f0ea26c24554aeddd0a3fe",
         "datetime": 1793137442,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Scott Galloway Warns Tesla Is the ‘Patient’ and SpaceX Its ‘Organ Donor’ in Elon Musk’s $3.5 Trillion Merger Plan: 'Real Merger With a Fake Premise'",
+        "url": "https://finnhub.io/api/news?id=de2291ef2da80073ad9dcfdd68aa6f628147156f6f38d35988723bd4605b65be",
+        "datetime": 1793136618,
         "source": "Yahoo"
       },
       {
@@ -1253,53 +1266,48 @@
         "url": "https://finnhub.io/api/news?id=4f9d3299f0b123580d53b9c810dc964ea3240559631413db5cb41a71d0f3afe9",
         "datetime": 1793133784,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Tech stocks post best 3-day rally in 5 weeks",
-        "url": "https://finnhub.io/api/news?id=6cbfdd72331af7a73dc7463f592135c6c38abf8b6d7bb9d8aeb2816f1ebbb38b",
-        "datetime": 1793132541,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Why Anthropic's IPO contrasts the 'cult of Elon Musk' at SpaceX and Tesla",
-        "url": "https://finnhub.io/api/news?id=e936a5f1f81193a9616a078b2a6e1d53ce1bc5296d2b80ba9fe640ce56cab2d1",
-        "datetime": 1793129064,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
-        "headline": "Ripple, Robinhood Partner to Expand RLUSD Use for Institutional Settlement",
-        "url": "https://finnhub.io/api/news?id=1d99199b69bb16e8ff301a0cce0c9325c9570de3f4dae6201ee2417c62b84317",
-        "datetime": 1793098378,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Circle’s AI Opportunity Turns Into a ‘Marked Risk,’ Mizuho Warns",
-        "url": "https://finnhub.io/api/news?id=a8ce58787ea4403ce265cb53f42796f108f698f859e9a8196338b270a3e0ee3b",
-        "datetime": 1793089514,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "ACI Worldwide Partners With Circle Internet Group To Integrate Stablecoin Settlement Into Existing Banking And Payment Infrastructure",
-        "url": "https://finnhub.io/api/news?id=e1b2af895284eb24779e1f606212c4c4834f62cec2b553d2be2904b857217e99",
-        "datetime": 1793081316,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Who Gains From Ripple’s New Bank Charter? XRP Holders May Be Last in Line",
-        "url": "https://finnhub.io/api/news?id=5eac088bfc009444e902701c7532137532699a075a3ff2b15c7d5919d633670f",
-        "datetime": 1793077621,
+        "headline": "Chatbots Would Rather You Skip USDC, Mizuho Finds, Cutting Circle Target to $43",
+        "url": "https://finnhub.io/api/news?id=1578685e5373730c2b3d6aa94535f33ece0c5054d84e7cca0263a88a706cd792",
+        "datetime": 1793149080,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Buys Joby, Archer Aviation as Air Taxi Bets Grow, Ark Pounces on Nu Holdings Stock After Lula’s Brazil Win",
-        "url": "https://finnhub.io/api/news?id=00ca5c8ef520a2ac947878b0b64c81df7ede3a623bc4d4b8a405f900046d6179",
-        "datetime": 1793052982,
-        "source": "Benzinga"
+        "headline": "Robinhood Is Bringing Ripple’s RLUSD to Millions of Users. Could XRP Get Back to $3?",
+        "url": "https://finnhub.io/api/news?id=c99a70afc5c68a63a76c94bf63ff90c66bfe34c1bd6a6e56d9e7a7f73d9ccc08",
+        "datetime": 1793140638,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Going Public: OpenPayd CEO Iana Dimitrova, Live from Money 20/20 2026",
+        "url": "https://finnhub.io/api/news?id=20aa98833abfc37038c40736b757c97358c694f138a0c4ba11ef3e97a0eb78f6",
+        "datetime": 1793134296,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "AI Reshaping Payments Industry: Finix Head of Finance Emanuel Pleitez, Live from Money 20/20 2026",
+        "url": "https://finnhub.io/api/news?id=66a4530e72f7293313f74780392c56dc631606368e963d8b38850064f252d02f",
+        "datetime": 1793134227,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Cathie Wood sells Bitcoin, buys $5.2 million of sinking stock",
+        "url": "https://finnhub.io/api/news?id=ad213cf324f7d923f2df8cf527b9af1508a0852996dc5fa74568d585063df244",
+        "datetime": 1793121262,
+        "source": "Yahoo"
       }
     ],
-    "LKNCY": [],
+    "LKNCY": [
+      {
+        "headline": "Luckin Coffee to Announce Third Quarter 2026 Financial Results on November 3, 2026",
+        "url": "https://finnhub.io/api/news?id=adea5771a03bd29b605e05ccec153efa5f290c1d66c5e9550ad8fdc529dbb9d6",
+        "datetime": 1793098800,
+        "source": "Yahoo"
+      }
+    ],
     "BTC": [
       {
         "headline": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
@@ -1314,12 +1322,6 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Bitcoin trades in a narrow range above and below $80,000.  What would get the digital currency out of its rut?",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-trades-in-a-narrow-range-above-and-below-80-000-what-would-get-the-digital-currency-out-of-its-rut/",
-        "datetime": 1793108687,
-        "source": "Forexlive"
-      },
-      {
         "headline": "Bitcoin miners' move into AI is creating a new market for trading computing power",
         "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
         "datetime": 1793106830,
@@ -1329,6 +1331,12 @@
         "headline": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
         "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1793106060,
+        "source": "Cointelegraph"
+      },
+      {
+        "headline": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+        "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1793103504,
         "source": "Cointelegraph"
       }
     ],
