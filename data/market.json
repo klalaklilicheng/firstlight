@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:00:47.239Z",
+  "updated_at": "2026-11-01T23:26:23.844Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,72 +65,73 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 77706,
-      "change_pct": 0.27
+      "price": 78051,
+      "change_pct": 0.75
     },
     {
       "symbol": "ETH",
-      "price": 2256.07,
-      "change_pct": 0.18
+      "price": 2266.09,
+      "change_pct": 0.53
     },
     {
       "symbol": "SOL",
-      "price": 93.84,
-      "change_pct": -1.98
+      "price": 94.12,
+      "change_pct": -1.36
     },
     {
       "symbol": "HYPE",
-      "price": 86.79,
-      "change_pct": -1.28
+      "price": 87.5,
+      "change_pct": -0.15
     },
     {
       "symbol": "ZEC",
-      "price": 1216.73,
-      "change_pct": -4.41
+      "price": 1228.73,
+      "change_pct": -1.7
     },
     {
       "symbol": "TAO",
-      "price": 232.03,
-      "change_pct": -2.15
+      "price": 233.14,
+      "change_pct": -1.49
     },
     {
       "symbol": "SKY",
-      "price": 1542.22,
-      "change_pct": -0.17
+      "price": 1546.3,
+      "change_pct": 0.23
     },
     {
       "symbol": "AAVE",
-      "price": 133.73,
-      "change_pct": -0.45
+      "price": 134.71,
+      "change_pct": 0.6
     },
     {
       "symbol": "BNB",
-      "price": 707.78,
-      "change_pct": 0.33
+      "price": 708.8,
+      "change_pct": 0.95
     },
     {
       "symbol": "NEAR",
-      "price": 4.26,
-      "change_pct": -3.97
+      "price": 4.27,
+      "change_pct": -3.49
     },
     {
       "symbol": "DOGE",
-      "price": 0.075005,
-      "change_pct": -1
+      "price": 0.075267,
+      "change_pct": -0.34
     },
     {
       "symbol": "SPACEX",
-      "price": 539.86,
-      "change_pct": -3.05
+      "price": 539.9,
+      "change_pct": -2.99
     }
   ],
   "earnings": {
     "NVDA": {
       "next": {
-        "date": "2027-02-18",
+        "date": "2026-11-17",
         "quarter": 3,
         "year": 2027,
-        "is_estimate": true
+        "eps_estimate": 2.5263,
+        "revenue_estimate": 111356225808
       },
       "history": [
         {
@@ -473,6 +474,15 @@
   },
   "news": [
     {
+      "headline": "2026 年中期选举加密货币读者指南：加密货币现状",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "datetime": 1793561400,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "以下是未来一周我们在股市中关注的三件大事",
       "summary": "未来几天市场可能会迎来一些胜利，其中将充满更多的收益、选举和就业数据。",
       "source": "CNBC",
@@ -732,15 +742,6 @@
       "datetime": 1793451600,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "纳斯达克上市公司可能以币安黑客攻击和量子恐惧为由出售 4.5 亿美元的比特币",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-      "datetime": 1793450987,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -811,12 +812,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.9,
+    "score": 32,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 9.5,
-    "weekly_score": 22.4,
-    "btc_price": 77814.4,
+    "weekly_score": 22.5,
+    "btc_price": 78110.1,
     "fear_greed": 36,
     "indicators": [
       {
@@ -842,7 +843,7 @@
       },
       {
         "name": "多空比",
-        "value": 2.25,
+        "value": 2.27,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -905,15 +906,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 50.8,
-        "score": 51,
+        "value": 51.2,
+        "score": 52,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -91.3,
-        "score": 20,
+        "value": -84.5,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1031,14 +1032,14 @@
         "text": "if anything, it feeds off it",
         "url": "https://x.com/cburniske/status/2116355338924703948",
         "time": "Sat Oct 31 02:23:27 +0000 2026",
-        "likes": 89,
+        "likes": 88,
         "retweets": 1
       },
       {
         "text": "$ZECBTC dgaf about any of the worry out there https://t.co/SVD00kucBJ",
         "url": "https://x.com/cburniske/status/2116354669798973705",
         "time": "Sat Oct 31 02:20:47 +0000 2026",
-        "likes": 638,
+        "likes": 642,
         "retweets": 49
       },
       {
@@ -1059,7 +1060,7 @@
         "text": "In times like this, if you're a long term investor, you don't want to be waffling about being in or out, you want to be stacking units systematically. Don't get confused by the traders, it's a separate game.\n\nOn unit accumulation, depending on how long you've been in the game,",
         "url": "https://x.com/cburniske/status/2111895750510825630",
         "time": "Sun Oct 18 19:02:38 +0000 2026",
-        "likes": 1357,
+        "likes": 1356,
         "retweets": 133
       }
     ],
@@ -1068,8 +1069,8 @@
         "text": "market views https://t.co/ydTL7NFzed",
         "url": "https://x.com/QwQiao/status/2116849900541616275",
         "time": "Sun Nov 01 11:08:40 +0000 2026",
-        "likes": 329,
-        "retweets": 33
+        "likes": 342,
+        "retweets": 35
       },
       {
         "text": "wall of worry \n\nsend the coins to new highs",
@@ -1089,7 +1090,7 @@
         "text": "will add my goog position tmrw for the first time since bottom ticking it last year at the liberation day low \n\nthe thesis remains the same: goog is the best-positioned company in the world to win ai, the very thing that the market believes its threatening its search business.",
         "url": "https://x.com/QwQiao/status/2115565097443611070",
         "time": "Wed Oct 28 22:03:19 +0000 2026",
-        "likes": 299,
+        "likes": 298,
         "retweets": 10
       },
       {
@@ -1105,36 +1106,36 @@
         "text": "We found room for even more orange. https://t.co/Pim20wkhrN",
         "url": "https://x.com/saylor/status/2116874067353469187",
         "time": "Sun Nov 01 12:44:41 +0000 2026",
-        "likes": 10695,
-        "retweets": 941
+        "likes": 11904,
+        "retweets": 1029
       },
       {
         "text": "18 years ago this minute, Satoshi lit a fire in cyberspace. https://t.co/Ptd05clYAE",
         "url": "https://x.com/saylor/status/2116593602310865070",
         "time": "Sat Oct 31 18:10:13 +0000 2026",
-        "likes": 9603,
-        "retweets": 1254
+        "likes": 9857,
+        "retweets": 1283
       },
       {
         "text": "Go Deeper @ElonMusk 🧡 https://t.co/vXYv2iGeHe",
         "url": "https://x.com/saylor/status/2116529129562730563",
         "time": "Sat Oct 31 13:54:02 +0000 2026",
-        "likes": 6066,
-        "retweets": 640
+        "likes": 6186,
+        "retweets": 653
       },
       {
         "text": "Binance has committed its own balance sheet to making customers whole. I expect it to deliver. Our industry will learn from this incident, strengthen security, and emerge stronger and more resilient.",
         "url": "https://x.com/saylor/status/2116167566406160732",
         "time": "Fri Oct 30 13:57:18 +0000 2026",
-        "likes": 17432,
-        "retweets": 1468
+        "likes": 17434,
+        "retweets": 1471
       },
       {
         "text": "Our Q3 2026 $MSTR Earnings Call covered record financial results, Digital Capital, Digital Equity, Digital Credit, tokenization, and our strategy for the next bull market.\n\nAndrew Kang | Q3 Financial Results\n00:01:32 - Q3 highlights: 848,517 BTC, record earnings, and treasury https://t.co/uqC8rhfm9V",
         "url": "https://x.com/saylor/status/2115976277366571300",
         "time": "Fri Oct 30 01:17:12 +0000 2026",
-        "likes": 2680,
-        "retweets": 242
+        "likes": 2682,
+        "retweets": 244
       }
     ],
     "viktorfischer": [
@@ -1142,7 +1143,7 @@
         "text": "Good read. Belief tokens ($BTC, $ETH, $SOL) vs cash flow tokens ($PUMP, $HYPE)\n\nI'd add: unless you have a religious cult leader who appeals to TradFi (@saylor for $BTC, @fundstrat for $ETH), only cash flow tokens appeal to TradFi investors\n\nTLDR for @solana : get a TradFi cult",
         "url": "https://x.com/viktorfischer/status/2116885320834978148",
         "time": "Sun Nov 01 13:29:24 +0000 2026",
-        "likes": 11,
+        "likes": 12,
         "retweets": 0
       },
       {
@@ -1178,37 +1179,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "How Many AGNC Shares It Takes to Earn $500 a Month in Dividends",
-        "url": "https://finnhub.io/api/news?id=aaf003b278f682441f2647811a54d1f109e351f0b37b3235d33c878757b4b58d",
-        "datetime": 1793555280,
+        "headline": "MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.",
+        "url": "https://finnhub.io/api/news?id=c22f964050220e627765ddd033f4202dd91e4968c1ca146c5c4518b5b7b90734",
+        "datetime": 1793568481,
         "source": "Yahoo"
       },
       {
-        "headline": "Copper Is Priced Like an AI Stock Now. What the Sell-off Means for Freeport-McMoRan.",
-        "url": "https://finnhub.io/api/news?id=82442dbbe1a1ca97db21c1f712099d8e49e2b2fef5f8147b7414f3ed0775d880",
-        "datetime": 1793554980,
+        "headline": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine?",
+        "url": "https://finnhub.io/api/news?id=d9528a177bc8d7a4eb625bea056bfd9a31f096980b2df27490ba5814c6e7069a",
+        "datetime": 1793568120,
         "source": "Yahoo"
       },
       {
-        "headline": "Could Apple's Latest iPhone Be Its Biggest Growth Catalyst in Years?",
-        "url": "https://finnhub.io/api/news?id=6f3ec7ce6e72f17b0ad4a2fb3ea8f14ebe35380a42293db2b5308756ff6f10c6",
-        "datetime": 1793554141,
+        "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
+        "url": "https://finnhub.io/api/news?id=bd3f88ac456fcaf4decb061e7e61e6100b2aa8ec471a83096350fb887480ba20",
+        "datetime": 1793567100,
         "source": "Yahoo"
       },
       {
-        "headline": "GE & GM Earnings, Plus Deals, Deals, Deals",
-        "url": "https://finnhub.io/api/news?id=e45c71a7c1dfd8d468bebb2ff1e53065f986c0f93b62ecdd8b04b47755f44d99",
-        "datetime": 1793553238,
+        "headline": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
+        "url": "https://finnhub.io/api/news?id=b19ec3d2520c7c0fa2c15d06c3c36b6b66325ddfb2428e827f6e7028d645341a",
+        "datetime": 1793566920,
         "source": "Yahoo"
       },
       {
-        "headline": "Warren Buffett's Apple Bet Is Still Berkshire Hathaway's Biggest Stock Holding at 22% of the Portfolio",
-        "url": "https://finnhub.io/api/news?id=b015edc796747750dd064c84a9ddc9e73119788ec452fa3bc6c2f53296954f35",
-        "datetime": 1793552700,
+        "headline": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17",
+        "url": "https://finnhub.io/api/news?id=1d25c2867215135d29b53e471f206146b60efb8d8172d7dad34f8672e295eca4",
+        "datetime": 1793566140,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+        "url": "https://finnhub.io/api/news?id=296f1b1163841a1dc813faa8e77cf25dc03e4939ab3a3f7042d94234d9df6bc4",
+        "datetime": 1793559600,
+        "source": "Yahoo"
+      },
       {
         "headline": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
         "url": "https://finnhub.io/api/news?id=d905681cc62753e68d7454680c9d0c65fc4786a36a86fee302fd0efdae4ffcfc",
@@ -1232,19 +1239,25 @@
         "url": "https://finnhub.io/api/news?id=760ede8e33b4b9c9a20b9d851e3ad0897c8fce99a7cf9a6be9fd568289d67c0c",
         "datetime": 1793550240,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Greg Abel Just Spent $330 Million on This Tech Stock. Here's What It Means for Investors.",
-        "url": "https://finnhub.io/api/news?id=dd1845888cb5b38ddb4efa44d580623c2a4257ad2ddf04fb95fa1b71d77bfd08",
-        "datetime": 1793548200,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
+        "url": "https://finnhub.io/api/news?id=bd3f88ac456fcaf4decb061e7e61e6100b2aa8ec471a83096350fb887480ba20",
+        "datetime": 1793567100,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Rivian Earnings Don’t Mask Stock Collapse",
         "url": "https://finnhub.io/api/news?id=779b90c63706f375025c29929982e948807476b57dd47bec37547f5812dcbfab",
         "datetime": 1793550414,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
+        "url": "https://finnhub.io/api/news?id=9af05fe07b887e1f36664d4037cbb7e15f3603af54898753e6f37ce2e3d92b08",
+        "datetime": 1793546102,
         "source": "Yahoo"
       },
       {
@@ -1258,18 +1271,6 @@
         "url": "https://finnhub.io/api/news?id=a1e2e2c1ed1647ffd16306a1ac1a613d1b73d3dba42b8366f5cff37eda65683d",
         "datetime": 1793532480,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Rivian CEO Says Autonomy Could Drive ‘Huge Changes’ in Market Share as Tesla FSD Rival Emerges",
-        "url": "https://finnhub.io/api/news?id=22842534ce1221342eceb947886e741f432c8b0b803c81ae817aceccf7c4651d",
-        "datetime": 1793529907,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "This Week in TSLA: Elon Musk's Apple Mac Studio Jibe, Former Autopilot Lead's Vision-Only Criticism and More",
-        "url": "https://finnhub.io/api/news?id=aef905fdf49e69dc3b56a11f5d4609b4a922fdb38bf4e96ee0d4a9082b101237",
-        "datetime": 1793527465,
-        "source": "Benzinga"
       }
     ],
     "CRCL": [
