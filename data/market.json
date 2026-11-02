@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T23:26:23.844Z",
+  "updated_at": "2026-11-02T03:39:55.710Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 78051,
-      "change_pct": 0.75
+      "price": 78604,
+      "change_pct": 1.15
     },
     {
       "symbol": "ETH",
-      "price": 2266.09,
-      "change_pct": 0.53
+      "price": 2309.12,
+      "change_pct": 1.85
     },
     {
       "symbol": "SOL",
-      "price": 94.12,
-      "change_pct": -1.36
+      "price": 95.69,
+      "change_pct": 0.08
     },
     {
       "symbol": "HYPE",
-      "price": 87.5,
-      "change_pct": -0.15
+      "price": 88.15,
+      "change_pct": 0.18
     },
     {
       "symbol": "ZEC",
-      "price": 1228.73,
-      "change_pct": -1.7
+      "price": 1271.49,
+      "change_pct": 1.99
     },
     {
       "symbol": "TAO",
-      "price": 233.14,
-      "change_pct": -1.49
+      "price": 234,
+      "change_pct": -1.05
     },
     {
       "symbol": "SKY",
-      "price": 1546.3,
-      "change_pct": 0.23
+      "price": 1563.61,
+      "change_pct": 0.16
     },
     {
       "symbol": "AAVE",
-      "price": 134.71,
-      "change_pct": 0.6
+      "price": 135.55,
+      "change_pct": -2.03
     },
     {
       "symbol": "BNB",
-      "price": 708.8,
-      "change_pct": 0.95
+      "price": 714.71,
+      "change_pct": 1.61
     },
     {
       "symbol": "NEAR",
-      "price": 4.27,
-      "change_pct": -3.49
+      "price": 4.32,
+      "change_pct": -2.27
     },
     {
       "symbol": "DOGE",
-      "price": 0.075267,
-      "change_pct": -0.34
+      "price": 0.076153,
+      "change_pct": 0.84
     },
     {
       "symbol": "SPACEX",
-      "price": 539.9,
-      "change_pct": -2.99
+      "price": 539.84,
+      "change_pct": -3.03
     }
   ],
   "earnings": {
@@ -174,8 +174,8 @@
         "date": "2027-01-26",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 0.4596,
-        "revenue_estimate": 29488824566
+        "eps_estimate": 0.4629,
+        "revenue_estimate": 29641523258
       },
       "history": [
         {
@@ -225,9 +225,9 @@
           "period": "2026-09-30",
           "quarter": 3,
           "year": 2026,
-          "actual": 2.12,
-          "estimate": 3.1095,
-          "surprise_pct": -31.8218
+          "actual": 2.67,
+          "estimate": 3.1081,
+          "surprise_pct": -14.0954
         },
         {
           "period": "2026-06-30",
@@ -254,7 +254,7 @@
           "surprise_pct": 4.2013
         }
       ],
-      "comment": "上季不及预期 (-31.8%)"
+      "comment": "上季不及预期 (-14.1%)"
     },
     "RKLB": {
       "next": {
@@ -398,8 +398,8 @@
           "quarter": 3,
           "year": 2026,
           "actual": 44.75,
-          "estimate": 8.3382,
-          "surprise_pct": 436.6866
+          "estimate": 24.4997,
+          "surprise_pct": 82.6553
         },
         {
           "period": "2026-06-30",
@@ -426,7 +426,7 @@
           "surprise_pct": -1517.908
         }
       ],
-      "comment": "上季超预期 (+436.7%)"
+      "comment": "上季超预期 (+82.7%)"
     },
     "LKNCY": {
       "next": {
@@ -473,6 +473,42 @@
     }
   },
   "news": [
+    {
+      "headline": "今日比特币预测：反弹看起来更好，但79,000美元才是真正的考验",
+      "summary": "<p>今天的比特币预测：反弹看起来更好，但 79,000 美元才是真正的考验</p><p>市场在本周伊始就出现了一些值得投资直播关注的有趣进展。</p><p><a href=\"https://investinglive.com/commodities/oil-slips-as-iran-says-qatar-brokered-plan-could-reopen-ho",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-the-rebound-looks-better-but-79-000-is-the-real-test/",
+      "datetime": 1793585688,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "THORChain 在区块重组错误后停止交换，减缓了币安黑客的攻击速度",
+      "summary": "THORChain 节点运营商暂停了涉及比特币、以太坊、Solana 和 Tron 等 10 个网络上资产的交换。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1793584308,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "创纪录的黑客攻击后提款恢复，币安净流出激增至 $5.8B",
+      "summary": "该交易所表示，部分服务恢复后，提款量激增，但此后有所放缓，资金流出仅占其约 1,710 亿美元客户资产的一小部分。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1793577567,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "币安重新开放后 3.6B 美元逃离币安，THORChain 联合创始人反对冻结代币：Hodler’s Digest",
+      "summary": "在全球有史以来最大规模的黑客攻击之后，币安网重新开放了提款服务，THORChain 联合创始人认为，它不应该为了遵守 FBI 的要求而停止该协议。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1793574553,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "2026 年中期选举加密货币读者指南：加密货币现状",
       "summary": "",
@@ -587,15 +623,6 @@
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
       "datetime": 1793495405,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Bit Digital宣布召开2026年度股东大会",
-      "summary": "纽约，2026 年 6 月 17 日 /美通社/ — Bit Digital, Inc.（纳斯达克股票代码：BTBT）（“Bit Digital”或“公司”）今天宣布，其 2026 年年度股东大会（“AGM”）将于美国东部时间 2026 年 7 月 29 日上午 9:00 举行，并已向",
-      "source": "Cryptocurrency News",
-      "url": "https://cryptocurrencynews.com/crypto/bit-digital-announces-2026-annual-general-meeting-of-shareholders/",
-      "datetime": 1793474953,
       "category": "crypto",
       "related": ""
     },
@@ -715,33 +742,6 @@
       "datetime": 1793453869,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "继韦尔之后，一位法律招聘人员提出了在公司倒闭中幸存下来的建议",
-      "summary": "法律招聘人员 Danielle Thompson 向 Weil, Gotshal & Manges 的员工以及其他面临公司倒闭或解散的人分享了她的最佳建议。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
-      "datetime": 1793452021,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "35 岁的她背负了 2 万美元的债务，在自己的餐厅里创办了一家企业，现在每年能带来 8 位数的收入",
-      "summary": "Set Active 创始人 Lindsey Carter 分享了她在发展运动休闲公司的同时如何学会将职业压力与个人生活分开。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/10/31/set-active-lindsey-carter-entrepreneurship.html",
-      "datetime": 1793451901,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "18年过去了，比特币到底做了什么？",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "datetime": 1793451600,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -812,17 +812,17 @@
     }
   ],
   "btc_score": {
-    "score": 32,
+    "score": 32.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 9.5,
-    "weekly_score": 22.5,
-    "btc_price": 78110.1,
+    "weekly_score": 22.6,
+    "btc_price": 78729.4,
     "fear_greed": 36,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.4526,
+        "value": 0.4617,
         "score": 15,
         "weight": 10,
         "group": "daily"
@@ -836,14 +836,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
+        "value": 0.009587,
         "score": 50,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.27,
+        "value": 2.21,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -864,22 +864,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.302,
-        "score": 55,
+        "value": 0.307,
+        "score": 56,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.184,
-        "score": 15,
+        "value": 0.827,
+        "score": 7,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.999,
-        "score": 49,
+        "value": 1.004,
+        "score": 54,
         "weight": 8,
         "group": "weekly"
       },
@@ -899,22 +899,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.15,
+        "value": 1.16,
         "score": 22,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 51.2,
-        "score": 52,
+        "value": 52.1,
+        "score": 54,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -84.5,
-        "score": 22,
+        "value": -68.6,
+        "score": 26,
         "weight": 4,
         "group": "weekly"
       }
@@ -923,7 +923,7 @@
   "fomc": {
     "next": {
       "date": "2026-12-09",
-      "days_until": 38
+      "days_until": 37
     },
     "schedule": [
       "2025-01-29",
@@ -1032,21 +1032,21 @@
         "text": "if anything, it feeds off it",
         "url": "https://x.com/cburniske/status/2116355338924703948",
         "time": "Sat Oct 31 02:23:27 +0000 2026",
-        "likes": 88,
+        "likes": 91,
         "retweets": 1
       },
       {
         "text": "$ZECBTC dgaf about any of the worry out there https://t.co/SVD00kucBJ",
         "url": "https://x.com/cburniske/status/2116354669798973705",
         "time": "Sat Oct 31 02:20:47 +0000 2026",
-        "likes": 642,
+        "likes": 647,
         "retweets": 49
       },
       {
         "text": "No doubt a choppy market, but lots of budding strength in the long-tail while $BTC bleeds, suggests to me the market isn't losing its risk appetite, rather long-term oriented investors continue building positions in places where they see value. There's a formidable wall of worry",
         "url": "https://x.com/cburniske/status/2114800328956940404",
         "time": "Mon Oct 26 19:24:24 +0000 2026",
-        "likes": 1039,
+        "likes": 1040,
         "retweets": 64
       },
       {
@@ -1069,21 +1069,21 @@
         "text": "market views https://t.co/ydTL7NFzed",
         "url": "https://x.com/QwQiao/status/2116849900541616275",
         "time": "Sun Nov 01 11:08:40 +0000 2026",
-        "likes": 342,
-        "retweets": 35
+        "likes": 369,
+        "retweets": 37
       },
       {
         "text": "wall of worry \n\nsend the coins to new highs",
         "url": "https://x.com/QwQiao/status/2115920044278288597",
         "time": "Thu Oct 29 21:33:45 +0000 2026",
-        "likes": 413,
+        "likes": 414,
         "retweets": 29
       },
       {
         "text": "\"taste\" is just a catch-all word for things that ai can't do yet but humans can do.\n\nin machine learning terms, \"taste\" is just the residual error that the model can't fully explain.\n\nbut with every new release that residual is rapidly approaching 0.",
         "url": "https://x.com/QwQiao/status/2115759964191064070",
         "time": "Thu Oct 29 10:57:39 +0000 2026",
-        "likes": 123,
+        "likes": 124,
         "retweets": 6
       },
       {
@@ -1106,35 +1106,35 @@
         "text": "We found room for even more orange. https://t.co/Pim20wkhrN",
         "url": "https://x.com/saylor/status/2116874067353469187",
         "time": "Sun Nov 01 12:44:41 +0000 2026",
-        "likes": 11904,
-        "retweets": 1029
+        "likes": 12666,
+        "retweets": 1080
       },
       {
         "text": "18 years ago this minute, Satoshi lit a fire in cyberspace. https://t.co/Ptd05clYAE",
         "url": "https://x.com/saylor/status/2116593602310865070",
         "time": "Sat Oct 31 18:10:13 +0000 2026",
-        "likes": 9857,
-        "retweets": 1283
+        "likes": 10121,
+        "retweets": 1312
       },
       {
         "text": "Go Deeper @ElonMusk 🧡 https://t.co/vXYv2iGeHe",
         "url": "https://x.com/saylor/status/2116529129562730563",
         "time": "Sat Oct 31 13:54:02 +0000 2026",
-        "likes": 6186,
-        "retweets": 653
+        "likes": 6308,
+        "retweets": 659
       },
       {
         "text": "Binance has committed its own balance sheet to making customers whole. I expect it to deliver. Our industry will learn from this incident, strengthen security, and emerge stronger and more resilient.",
         "url": "https://x.com/saylor/status/2116167566406160732",
         "time": "Fri Oct 30 13:57:18 +0000 2026",
-        "likes": 17434,
+        "likes": 17435,
         "retweets": 1471
       },
       {
         "text": "Our Q3 2026 $MSTR Earnings Call covered record financial results, Digital Capital, Digital Equity, Digital Credit, tokenization, and our strategy for the next bull market.\n\nAndrew Kang | Q3 Financial Results\n00:01:32 - Q3 highlights: 848,517 BTC, record earnings, and treasury https://t.co/uqC8rhfm9V",
         "url": "https://x.com/saylor/status/2115976277366571300",
         "time": "Fri Oct 30 01:17:12 +0000 2026",
-        "likes": 2682,
+        "likes": 2683,
         "retweets": 244
       }
     ],
@@ -1179,69 +1179,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "MPLX Reports Earnings on Nov. 3, 2026. Here's What Investors Should Be Watching.",
-        "url": "https://finnhub.io/api/news?id=c22f964050220e627765ddd033f4202dd91e4968c1ca146c5c4518b5b7b90734",
-        "datetime": 1793568481,
+        "headline": "Here's My Top Reason to Buy SpaceX Stock Right Now",
+        "url": "https://finnhub.io/api/news?id=179f8d5da52ba57e2c94870100aeeaf4fb917675995cbfd4b74e31f98fea58a0",
+        "datetime": 1793583120,
         "source": "Yahoo"
       },
       {
-        "headline": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine?",
-        "url": "https://finnhub.io/api/news?id=d9528a177bc8d7a4eb625bea056bfd9a31f096980b2df27490ba5814c6e7069a",
-        "datetime": 1793568120,
+        "headline": "If I Could Only Buy and Hold 1 \"Magnificent Seven\" Stock Through 2030, It Would Be This One",
+        "url": "https://finnhub.io/api/news?id=86238f52cd0dcededdc1690a10478824dd4c39213b45341a85181f66b6c800fc",
+        "datetime": 1793579280,
         "source": "Yahoo"
       },
       {
-        "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
-        "url": "https://finnhub.io/api/news?id=bd3f88ac456fcaf4decb061e7e61e6100b2aa8ec471a83096350fb887480ba20",
-        "datetime": 1793567100,
+        "headline": "SK Hynix Sees the Memory Shortage Lasting Through 2030. 2 Memory Stocks to Buy and Hold Until Then.",
+        "url": "https://finnhub.io/api/news?id=2496b253f07b2b49f6713af683ae930ce4873112db8bc4aeb12f13b8c036cdf1",
+        "datetime": 1793576462,
         "source": "Yahoo"
       },
       {
-        "headline": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
-        "url": "https://finnhub.io/api/news?id=b19ec3d2520c7c0fa2c15d06c3c36b6b66325ddfb2428e827f6e7028d645341a",
-        "datetime": 1793566920,
+        "headline": "Should You Buy PayPal Stock at About 10 Times Its Expected 2026 Earnings?",
+        "url": "https://finnhub.io/api/news?id=fb3d8801380880fe8e10bb375ef101ab5e97d97a1e1ba920422ff9b0db85e81c",
+        "datetime": 1793575200,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: Nvidia Stock Is Going to Soar After Nov. 17",
-        "url": "https://finnhub.io/api/news?id=1d25c2867215135d29b53e471f206146b60efb8d8172d7dad34f8672e295eca4",
-        "datetime": 1793566140,
+        "headline": "Netflix Stock Is Trading at a Historically Low Valuation. Is This a Generational Buying Opportunity?",
+        "url": "https://finnhub.io/api/news?id=6e3aefd21eda6c67d51af229ed6a11801d46c7f578aeb39aec7e3d5cce9e948d",
+        "datetime": 1793573281,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-        "url": "https://finnhub.io/api/news?id=296f1b1163841a1dc813faa8e77cf25dc03e4939ab3a3f7042d94234d9df6bc4",
-        "datetime": 1793559600,
+        "headline": "What Gave Alphabet Stock Its Edge Over Zillow?",
+        "url": "https://finnhub.io/api/news?id=f62309ec3c7d512c310ad84b4bc35e0a823af0935c0734e63b741d1daf58a026",
+        "datetime": 1793582587,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Did Alphabet (GOOGL) Shares Fall After Its $500 Billion Value Wipeout?",
-        "url": "https://finnhub.io/api/news?id=d905681cc62753e68d7454680c9d0c65fc4786a36a86fee302fd0efdae4ffcfc",
-        "datetime": 1793552891,
+        "headline": "If I Could Only Buy and Hold 1 \"Magnificent Seven\" Stock Through 2030, It Would Be This One",
+        "url": "https://finnhub.io/api/news?id=86238f52cd0dcededdc1690a10478824dd4c39213b45341a85181f66b6c800fc",
+        "datetime": 1793579280,
         "source": "Yahoo"
       },
       {
-        "headline": "ICE And OKX's Tokenized Stock Venue Hits A Wall As Nvidia, Nike Join Growing List Of Objectors",
-        "url": "https://finnhub.io/api/news?id=ba33dd86bcf8ef35db0525dca4f22a652e4d3873ea62e17b14253d720436c1bb",
-        "datetime": 1793552257,
+        "headline": "Learjet Plummets to Ground in Florida Neighborhood",
+        "url": "https://finnhub.io/api/news?id=f75a909c0533cd8a53da62a91afd81043257aff69d58156e299a490840aa00b7",
+        "datetime": 1793577129,
         "source": "Yahoo"
       },
       {
-        "headline": "Reddit vs. The Trade Desk: One's Revenue Growth Overtook the Other's Lead",
-        "url": "https://finnhub.io/api/news?id=5697cf44430ded9ffd95971cc2399a3a4900b9c4a2e03147738e1c26fcb29249",
-        "datetime": 1793551328,
+        "headline": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
+        "url": "https://finnhub.io/api/news?id=cd33dadb4d9f3c4752e0327e1dfeed8f7b5b893fd4079006e9f5a9eb8b73a1f2",
+        "datetime": 1793576833,
         "source": "Yahoo"
       },
       {
-        "headline": "5 Huge Winners From Anthropic's IPO",
-        "url": "https://finnhub.io/api/news?id=760ede8e33b4b9c9a20b9d851e3ad0897c8fce99a7cf9a6be9fd568289d67c0c",
-        "datetime": 1793550240,
+        "headline": "Reddit Stock Crashed 29%: Is Google AI Coming for More Stocks?",
+        "url": "https://finnhub.io/api/news?id=2a7b51f237569433e197364b781c0be6aece6004c3bf52aae8e841bccb7ca4af",
+        "datetime": 1793574000,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "If I Could Only Buy and Hold 1 \"Magnificent Seven\" Stock Through 2030, It Would Be This One",
+        "url": "https://finnhub.io/api/news?id=86238f52cd0dcededdc1690a10478824dd4c39213b45341a85181f66b6c800fc",
+        "datetime": 1793579280,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
+        "url": "https://finnhub.io/api/news?id=cd33dadb4d9f3c4752e0327e1dfeed8f7b5b893fd4079006e9f5a9eb8b73a1f2",
+        "datetime": 1793576833,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Can General Motors and Ford Survive the Flood of Cheap Chinese EVs?",
+        "url": "https://finnhub.io/api/news?id=9b93f47dbcebc2234a81890056957674508c6a78aa93cbbc5accdb16883dd452",
+        "datetime": 1793568900,
+        "source": "Yahoo"
+      },
       {
         "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
         "url": "https://finnhub.io/api/news?id=bd3f88ac456fcaf4decb061e7e61e6100b2aa8ec471a83096350fb887480ba20",
@@ -1253,27 +1271,21 @@
         "url": "https://finnhub.io/api/news?id=779b90c63706f375025c29929982e948807476b57dd47bec37547f5812dcbfab",
         "datetime": 1793550414,
         "source": "Yahoo"
-      },
-      {
-        "headline": "AI Stocks Are Getting a Reality Check, But Don’t Count the Trade Out Just Yet. Here’s Why.",
-        "url": "https://finnhub.io/api/news?id=9af05fe07b887e1f36664d4037cbb7e15f3603af54898753e6f37ce2e3d92b08",
-        "datetime": 1793546102,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla China EV Rivals BYD, Xiaomi, XPeng Report Strong Sales As Year-End Push Begins",
-        "url": "https://finnhub.io/api/news?id=fb3ae35c9f38d3b0b0cdc568dc40cf0678d9aeaf7b1fff0c446e2dd9a99e7a24",
-        "datetime": 1793539547,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "The First U.S. Humanoid Robot Stock Starts Trading in November. Here's Why I'd Wait for the De-SPAC Dip.",
-        "url": "https://finnhub.io/api/news?id=a1e2e2c1ed1647ffd16306a1ac1a613d1b73d3dba42b8366f5cff37eda65683d",
-        "datetime": 1793532480,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Wall Street Says One Election Result Gives Bitcoin Its Best Chance at $100,000",
+        "url": "https://finnhub.io/api/news?id=7e35d784dff7576418e91c06d4a00363e9d20b04d13b003d6d9751e6da86c493",
+        "datetime": 1793563107,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Binance Phases in Customer Withdrawals Days After Massive Hack",
+        "url": "https://finnhub.io/api/news?id=a81f32c03b041a3b8a80e53c914b6541003fd3cf4695637d17ca0ad4d37946ad",
+        "datetime": 1793551319,
+        "source": "Yahoo"
+      },
       {
         "headline": "The SEC Chair Says Most Crypto Assets Are Not Securities. What Does That Mean for XRP After Its 5-Year Fight?",
         "url": "https://finnhub.io/api/news?id=cce1b9a8424dfe25b477b5f1613496256182b564e56a84a7d469c4258f09d4bd",
@@ -1291,18 +1303,6 @@
         "url": "https://finnhub.io/api/news?id=3133507a67799bb06ba42ef14f1373c7b72cac9849e22f03be0a72f41c3f1f43",
         "datetime": 1793452355,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Circle Stock Fell 9% in a Day as the Binance Hack Hit Crypto Stocks. Here’s Where the Stock Could Go by 2030",
-        "url": "https://finnhub.io/api/news?id=4ad8ae4f86b076163e5e458a15d9d43bdd7158b2d1cd3d645b6d336a43f6e537",
-        "datetime": 1793429256,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Crypto ETFs Already Go Far Beyond Bitcoin. The SEC Wants to Know If Its Rules Have Kept Up",
-        "url": "https://finnhub.io/api/news?id=9b3901e8975a1dfc856854de6d73d35c7bd1b1aa37a610ed97ada650517cf22d",
-        "datetime": 1793410380,
-        "source": "Yahoo"
       }
     ],
     "LKNCY": [
@@ -1314,6 +1314,12 @@
       }
     ],
     "BTC": [
+      {
+        "headline": "Bitcoin forecast today: The rebound looks better, but $79,000 is the real test",
+        "url": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-the-rebound-looks-better-but-79-000-is-the-real-test/",
+        "datetime": 1793585688,
+        "source": "Forexlive"
+      },
       {
         "headline": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
         "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
@@ -1337,12 +1343,6 @@
         "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1793456872,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-        "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-        "datetime": 1793455200,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1380,12 +1380,6 @@
       }
     ],
     "AAVE": [
-      {
-        "headline": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
-        "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
-        "datetime": 1793283300,
-        "source": "CoinDesk"
-      },
       {
         "headline": "Please visit @aave 👻",
         "url": "https://x.com/AaveAave/status/1721121202507317273",
