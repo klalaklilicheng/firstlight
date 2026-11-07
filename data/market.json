@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:59:57.097Z",
+  "updated_at": "2026-11-07T23:29:53.199Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 75725,
-      "change_pct": -0.05
+      "price": 75704,
+      "change_pct": -0.2
     },
     {
       "symbol": "ETH",
-      "price": 2233.09,
-      "change_pct": 0.05
+      "price": 2231.65,
+      "change_pct": -0.16
     },
     {
       "symbol": "SOL",
-      "price": 89.56,
-      "change_pct": -0.48
+      "price": 89.32,
+      "change_pct": -0.81
     },
     {
       "symbol": "HYPE",
-      "price": 77.43,
-      "change_pct": -1.19
+      "price": 77.41,
+      "change_pct": -1.22
     },
     {
       "symbol": "ZEC",
-      "price": 1266.3,
-      "change_pct": -5.77
+      "price": 1254.28,
+      "change_pct": -4.86
     },
     {
       "symbol": "TAO",
-      "price": 223.53,
-      "change_pct": -0.83
+      "price": 222.77,
+      "change_pct": -0.28
     },
     {
       "symbol": "SKY",
-      "price": 1467.94,
-      "change_pct": -1.94
+      "price": 1468.44,
+      "change_pct": -1.48
     },
     {
       "symbol": "AAVE",
-      "price": 131.24,
-      "change_pct": 0.56
+      "price": 130.55,
+      "change_pct": -0.14
     },
     {
       "symbol": "BNB",
-      "price": 696.04,
-      "change_pct": 0.44
+      "price": 694.46,
+      "change_pct": 0.29
     },
     {
       "symbol": "NEAR",
-      "price": 3.65,
-      "change_pct": -2.11
+      "price": 3.7,
+      "change_pct": -0.17
     },
     {
       "symbol": "DOGE",
-      "price": 0.071738,
-      "change_pct": -1.44
+      "price": 0.07136,
+      "change_pct": -1.34
     },
     {
       "symbol": "SPACEX",
-      "price": 536.33,
-      "change_pct": 0.83
+      "price": 531.62,
+      "change_pct": -0.06
     }
   ],
   "earnings": {
@@ -475,6 +475,15 @@
   },
   "news": [
     {
+      "headline": "特朗普针对斯洛特金呼吁司法部调查所谓的民主党对共和党的威胁",
+      "summary": "特朗普命令司法部调查针对共和党人的威胁，同时点名斯洛特金。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+      "datetime": 1794083297,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "一些欧洲国家的币安用户被告知在收费开始前提取加密货币，账户将在年底前关闭",
       "summary": "",
       "source": "CoinDesk",
@@ -646,7 +655,7 @@
       "related": ""
     },
     {
-      "headline": "苹果、Meta 拒绝 OKX-ICE 代币化股票计划，让加密货币公司成为值得​​关注的对象",
+      "headline": "苹果、Meta 拒绝 OKX-ICE 代币化股票计划，让加密货币公司成为值得关注的对象",
       "summary": "",
       "source": "CoinDesk",
       "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
@@ -734,15 +743,6 @@
       "datetime": 1793981806,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "数据中心加倍努力：哈塞特表示 Blue Wave 不会阻止人工智能的发展",
-      "summary": "数据中心是唐纳德·特朗普总统推动赢得全球人工智能竞赛的重要组成部分，尽管取得了中期结果，但这场竞赛仍在继续。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-      "datetime": 1793980548,
-      "category": "top news",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.6,
+    "score": 30.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 10.4,
-    "weekly_score": 20.2,
-    "btc_price": 75805.4,
+    "weekly_score": 20.3,
+    "btc_price": 75788.5,
     "fear_greed": 31,
     "indicators": [
       {
@@ -826,14 +826,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005842,
+        "value": 0.006009,
         "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.06,
+        "value": 3.13,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -896,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 48,
+        "value": 47.9,
         "score": 47,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -97.7,
-        "score": 18,
+        "value": -93.5,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,15 +1059,15 @@
         "text": "i don’t think anyone can confidently say that ai stonks are currently expensive, cheap, or fairly priced. that requires a crystal ball in future ai breakthroughs, the supply chain, credit markets, politics, and macro. and such a person simply does not exist.\n\nhowever, charts,",
         "url": "https://x.com/QwQiao/status/2119071998986822060",
         "time": "Sat Nov 07 14:18:29 +0000 2026",
-        "likes": 225,
-        "retweets": 11
+        "likes": 262,
+        "retweets": 14
       },
       {
         "text": "the ai trade won’t bottom until market participants finally learn *not* to value companies based on fwd pe. \n\na fwd pe of 40 is not necessarily expensive if earnings grow durably over decades. a fwd pe of 4 is not cheap if earnings last 18mo then go down 90%.\n\na company’s value",
         "url": "https://x.com/QwQiao/status/2119013601235157120",
         "time": "Sat Nov 07 10:26:26 +0000 2026",
-        "likes": 255,
-        "retweets": 22
+        "likes": 266,
+        "retweets": 24
       },
       {
         "text": "2nd inning was memory burned to the ground while zcash consolidates \n\nbase case for 3rd inning is memory relief bounces while zcash prints a series of god candles",
@@ -1093,39 +1093,39 @@
     ],
     "saylor": [
       {
+        "text": "Digital credit took four centuries to make possible. From the Dutch East India Company to Bitcoin, this is the story of the ten foundations that brought us here. $STRC",
+        "url": "https://x.com/saylor/status/2119203067015098830",
+        "time": "Sat Nov 07 22:59:18 +0000 2026",
+        "likes": 539,
+        "retweets": 60
+      },
+      {
         "text": "Helping bears think long term. One session at a time. https://t.co/DzQCv3evAa",
         "url": "https://x.com/saylor/status/2119129992135397422",
         "time": "Sat Nov 07 18:08:56 +0000 2026",
-        "likes": 2125,
-        "retweets": 197
+        "likes": 3306,
+        "retweets": 300
       },
       {
         "text": "https://t.co/LhjAn80Bob",
         "url": "https://x.com/saylor/status/2119069635534361025",
         "time": "Sat Nov 07 14:09:06 +0000 2026",
-        "likes": 1518,
-        "retweets": 211
+        "likes": 1705,
+        "retweets": 234
       },
       {
         "text": "You can’t print another day. https://t.co/aQDR4RpgtP",
         "url": "https://x.com/saylor/status/2118744937210548649",
         "time": "Fri Nov 06 16:38:52 +0000 2026",
-        "likes": 3167,
-        "retweets": 362
+        "likes": 3226,
+        "retweets": 368
       },
       {
         "text": "Digital Credit is ₿etter. https://t.co/xkNR3D0ZWf",
         "url": "https://x.com/saylor/status/2118693794619015248",
         "time": "Fri Nov 06 13:15:38 +0000 2026",
-        "likes": 2831,
-        "retweets": 245
-      },
-      {
-        "text": "Today was a 4σ day for equities. The S&amp;P 500 fell 4.4% and the Nasdaq fell 5.5%, a decline seen roughly once every 19 months. Bitcoin fell about 5%. $STRC closed at $99.56, just 44 cents below par.",
-        "url": "https://x.com/saylor/status/2118456848252891379",
-        "time": "Thu Nov 05 21:34:06 +0000 2026",
-        "likes": 8983,
-        "retweets": 572
+        "likes": 2874,
+        "retweets": 248
       }
     ],
     "viktorfischer": [
@@ -1169,65 +1169,65 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "This Dividend King Yielding 2X the S&P 500 Looks Like a Buy in November.",
-        "url": "https://finnhub.io/api/news?id=0b3b4a72d22b2b842d7ae1929527e6dbd1f8f55bb53b971c8e9eec3fe9c2610b",
-        "datetime": 1794072900,
+        "headline": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next.",
+        "url": "https://finnhub.io/api/news?id=963a8e40366df8fd0ba147d8a1c8afcb55803cbae5cfd6e51e823261e3dc89a1",
+        "datetime": 1794085500,
         "source": "Yahoo"
       },
       {
-        "headline": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
-        "url": "https://finnhub.io/api/news?id=186506439d25e16e97211b934892117bb52c2ed737fcbc060d5479e24e4fa543",
-        "datetime": 1794072819,
+        "headline": "This Warren Buffett Dividend Stock Is the One I'd Buy With $1,000 in November",
+        "url": "https://finnhub.io/api/news?id=17aa70afb07682f6336391da4add5e5a6e4c578ce7bcfa0ccf43e40aa514c36d",
+        "datetime": 1794084600,
         "source": "Yahoo"
       },
       {
-        "headline": "Here's How Many Shares of PepsiCo You'd Need for $500 in Yearly Dividends",
-        "url": "https://finnhub.io/api/news?id=e15568e3658bcc8d815ea1fe0a06e003fb3b58411f7e9d76eedad379b137fac0",
-        "datetime": 1794072540,
+        "headline": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
+        "url": "https://finnhub.io/api/news?id=3c81c35275dc44ad2289f8f7be4f7a18fffe86c6fb06c78cd85b88a1acd06c6c",
+        "datetime": 1794083700,
         "source": "Yahoo"
       },
       {
-        "headline": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
-        "url": "https://finnhub.io/api/news?id=1a0ac8edb07f455721f4b3a6c111074af341f7d906d9eff411e4783cb762e8ff",
-        "datetime": 1794072000,
+        "headline": "Palantir Stock Just Fell 8 Days in a Row. History Says What Followed Its Only 2 Longer Losing Streaks.",
+        "url": "https://finnhub.io/api/news?id=f11674e9a0322b0ac5de3fc125d90edf58c59ebbd3a3362aeeac2e1b81409c45",
+        "datetime": 1794081362,
         "source": "Yahoo"
       },
       {
-        "headline": "Jim Cramer sends a strong signal to Nvidia stock investors",
-        "url": "https://finnhub.io/api/news?id=c2a43711c21a7077233129392b60a0a3d8722e423b16fb58f6f17bc6c344e3f5",
-        "datetime": 1794071820,
+        "headline": "Here's What $10,000 Invested in Bloom Energy (BE) Stock Could Be Worth in 3 Years",
+        "url": "https://finnhub.io/api/news?id=69b853f15be7c71f5e1a6cba873603b105ca418779e65726db4cc823adf44c33",
+        "datetime": 1794081000,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
+        "url": "https://finnhub.io/api/news?id=cfeff1f94c74f447d43caf974defab3b4205ef22685380d888a5bc884b228853",
+        "datetime": 1794087600,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
+        "url": "https://finnhub.io/api/news?id=b89420935173bba0427950fcb986ce3a0a23423423f23bde00e6cd7c83248640",
+        "datetime": 1794078704,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Why Billionaire Armitage Trims but Still Keeps Alphabet (GOOGL) as a Core Hyperscaler Exposure",
+        "url": "https://finnhub.io/api/news?id=f2ce585029cdcde780fdb828ab79c39de9e54b88ab59ddb2c0625e065750f418",
+        "datetime": 1794077718,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Micron and Sandisk Lead the Memory Market. 1 Stock Has Far Greater Upside.",
+        "url": "https://finnhub.io/api/news?id=b8bea66c6ab8fed942f389dbbc127646cba68ac45be18790471f1c9ba7639a9b",
+        "datetime": 1794073800,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
         "url": "https://finnhub.io/api/news?id=ceca23beb1416d552b3ee4a5a04b40eb978bede81ef8f0570bdf3f2ed7f3a114",
         "datetime": 1794070863,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "AST SpaceMobile Is Building Its Own Reusable Rocket to Rely Less on SpaceX",
-        "url": "https://finnhub.io/api/news?id=56161e7b4fb3dd4b7ed9237c2174b66e2a8c9f8d15b83c280914a44c5a71959a",
-        "datetime": 1794070182,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants",
-        "url": "https://finnhub.io/api/news?id=174929522c25ab1889259f93f164d38283188ecee20e75bde4c417a5ef1506c3",
-        "datetime": 1794066840,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
-        "url": "https://finnhub.io/api/news?id=bf1da8d5e8d34a150b4f2ed762821c66cb0ba1735cfe7c2ea16cda9d547d0f7b",
-        "datetime": 1794065192,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Pinterest CEO: The EU Hit Was “Greater Than We Anticipated.” Its Q4 Guide Sits $70 Million Light",
-        "url": "https://finnhub.io/api/news?id=b4158cef95a874881da342365ea8e1b65a5e485dacdf2cfb15f6162b6d0cb5ab",
-        "datetime": 1794063816,
         "source": "Yahoo"
       }
     ],
@@ -1457,6 +1457,12 @@
     ],
     "NEAR": [
       {
+        "headline": "Only 7 days left to submit to the NEAR Hackathon. \n\n$250K in prizes across 13 tracks.\n\nNo sign-up. Just ship and post by November 14, 23:59 UTC.",
+        "url": "https://x.com/NEARProtocol/status/2119163723998761371",
+        "datetime": 1794082978,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "RHEA Finance is adding to the NEAR Hackathon prize pool.\n\nBuild cross-chain DeFi with the RHEA X Chain SDK, powered by NEAR Intents.",
         "url": "https://x.com/NEARProtocol/status/2118840299757920305",
         "datetime": 1794005868,
@@ -1466,12 +1472,6 @@
         "headline": "NEAR AI Cloud’s model selection continues to expand with Qwen 3.8 27B Abliterated now live.\n\nTest it out for free 👇",
         "url": "https://x.com/NEARProtocol/status/2118790710929273104",
         "datetime": 1793994045,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Yesterday $RELIANCE. Today $JIO.\n\nIndia’s biggest IPO ever. Trade the perp 24/7, out of public view.\n\nOnly on  Powered by @HyperliquidX &amp; @tradexyz",
-        "url": "https://x.com/NEARProtocol/status/2118757169633882343",
-        "datetime": 1793986048,
         "source": "@NEARProtocol"
       }
     ],
