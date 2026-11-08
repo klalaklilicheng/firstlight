@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:56:51.223Z",
+  "updated_at": "2026-11-08T16:54:09.086Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 75814,
-      "change_pct": -0.11
+      "price": 75734,
+      "change_pct": 0.08
     },
     {
       "symbol": "ETH",
-      "price": 2233.65,
-      "change_pct": -0.42
+      "price": 2229.16,
+      "change_pct": -0.13
     },
     {
       "symbol": "SOL",
-      "price": 89.13,
-      "change_pct": -0.78
+      "price": 89.05,
+      "change_pct": -0.47
     },
     {
       "symbol": "HYPE",
-      "price": 77.04,
-      "change_pct": -1.46
+      "price": 76.81,
+      "change_pct": -0.62
     },
     {
       "symbol": "ZEC",
-      "price": 1262.48,
-      "change_pct": -2.51
+      "price": 1248.44,
+      "change_pct": -1.11
     },
     {
       "symbol": "TAO",
-      "price": 222.78,
-      "change_pct": -0.74
+      "price": 223.82,
+      "change_pct": 0.71
     },
     {
       "symbol": "SKY",
-      "price": 1465.9,
-      "change_pct": 0.05
-    },
-    {
-      "symbol": "AAVE",
-      "price": 130.24,
-      "change_pct": -0.76
-    },
-    {
-      "symbol": "BNB",
-      "price": 696.39,
+      "price": 1469.34,
       "change_pct": 0.42
     },
     {
+      "symbol": "AAVE",
+      "price": 128.67,
+      "change_pct": -2.14
+    },
+    {
+      "symbol": "BNB",
+      "price": 695.5,
+      "change_pct": 0.3
+    },
+    {
       "symbol": "NEAR",
-      "price": 3.71,
-      "change_pct": 0.54
+      "price": 3.62,
+      "change_pct": -0.64
     },
     {
       "symbol": "DOGE",
-      "price": 0.070837,
-      "change_pct": -1.42
+      "price": 0.070993,
+      "change_pct": -0.82
     },
     {
       "symbol": "SPACEX",
-      "price": 530.13,
-      "change_pct": -1.2
+      "price": 530.97,
+      "change_pct": -0.02
     }
   ],
   "earnings": {
@@ -310,9 +310,9 @@
           "period": "2026-09-30",
           "quarter": 3,
           "year": 2026,
-          "actual": 0.84,
-          "estimate": 0.3696,
-          "surprise_pct": 127.2727
+          "actual": 0.878,
+          "estimate": 0.377,
+          "surprise_pct": 132.8912
         },
         {
           "period": "2026-06-30",
@@ -339,15 +339,15 @@
           "surprise_pct": 43.4263
         }
       ],
-      "comment": "连续4季超预期 (+127.3%)"
+      "comment": "连续4季超预期 (+132.9%)"
     },
     "PLTR": {
       "next": {
         "date": "2027-02-01",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 0.4719,
-        "revenue_estimate": 2504704778
+        "eps_estimate": 0.5229,
+        "revenue_estimate": 2691028382
       },
       "history": [
         {
@@ -390,8 +390,8 @@
         "date": "2027-02-03",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 12.601,
-        "revenue_estimate": 128537513
+        "eps_estimate": 16.4334,
+        "revenue_estimate": 129265956
       },
       "history": [
         {
@@ -431,12 +431,20 @@
     },
     "LKNCY": {
       "next": {
-        "date": "2026-11-19",
-        "quarter": 3,
+        "date": "2027-02-18",
+        "quarter": 4,
         "year": 2026,
         "is_estimate": true
       },
       "history": [
+        {
+          "period": "2026-09-30",
+          "quarter": 3,
+          "year": 2026,
+          "actual": 5.92,
+          "estimate": 6.4525,
+          "surprise_pct": -8.2526
+        },
         {
           "period": "2026-06-30",
           "quarter": 2,
@@ -460,20 +468,48 @@
           "actual": 0.32,
           "estimate": 0.3886,
           "surprise_pct": -17.6531
-        },
-        {
-          "period": "2025-09-30",
-          "quarter": 3,
-          "year": 2025,
-          "actual": 0.615,
-          "estimate": 0.6928,
-          "surprise_pct": -11.2298
         }
       ],
-      "comment": "上季超预期 (+2.5%)"
+      "comment": "上季不及预期 (-8.3%)"
     }
   },
   "news": [
+    {
+      "headline": "使用里程飞行感恩节？这些是最贵和最便宜的路线",
+      "summary": "随着票价上涨和需求持续强劲，感恩节机票价格将比去年更高。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+      "datetime": 1794142801,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "品牌正在赞助 IRL 社区。一些专家表示，这可能意味着他们的终结",
+      "summary": "品牌正在赞助读书俱乐部和其他当地团体，为组织者带来新的收入，同时引发有关信任和社区的问题。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/make-it/2026/11/08/brand-sponsorship-local-communities.html",
+      "datetime": 1794142801,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "Binance France 通过电子邮件宣布将于 12 月 31 日关闭其用户账户",
+      "summary": "该公司表示，从 11 月 29 日开始，留在交易所的任何资产都将按月收取费用。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794142671,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "这些芬兰家庭从比特币矿工那里获得免费供暖（只要比特币保持在 70,000 美元以上）",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "datetime": 1794142559,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "阿姆斯特丹抗议者闯入微软数据中心建筑工地：报告",
       "summary": "荷兰警方表示，他们在抗议期间以非法侵入罪拘留了 150 至 200 人。",
@@ -707,42 +743,6 @@
       "datetime": 1793992196,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "俄罗斯在 11 月 17 日推出之前敲定加密货币交易规则",
-      "summary": "该规则允许散户投资者通过受监管的中介机构交易 BTC、ETH 和 USDT，莫斯科交易所计划于 12 月推出加密货币交易。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793990865,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Strive 10 月份购买了 15,124 枚比特币，接近顶级国债持有者",
-      "summary": "比特币财务公司 Strive 报告第三季度净利润为 5.09 亿美元，并在 10 月份购买了 15,124 比特币，使其总持有量达到 43,124 比特币。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793989362,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "人工智能粉碎正在推动一只股票估值达到天价",
-      "summary": "尽管估值极高，迈克·库认为好市多的股票可能会带来令人信服的买入机会。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/ai-crush-is-powering-one-stock-to-sky-high-valuations.html",
-      "datetime": 1793988944,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "由于加密货币市场错过科技股反弹，比特币价格跌至 7.5 万美元以下",
-      "summary": "在美国非农就业数据大幅超出预期后，比特币价格走势保持疲软，增加了 12 月加息的押注。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793987373,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -802,12 +802,12 @@
     }
   ],
   "btc_score": {
-    "score": 30.9,
+    "score": 30.5,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 10.4,
-    "weekly_score": 20.5,
-    "btc_price": 75893.6,
+    "weekly_score": 20.1,
+    "btc_price": 75805.4,
     "fear_greed": 32,
     "indicators": [
       {
@@ -826,14 +826,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004947,
+        "value": 0.00327,
         "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.09,
+        "value": 3.02,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -896,15 +896,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 48.1,
-        "score": 47,
+        "value": 46.5,
+        "score": 44,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -78,
-        "score": 24,
+        "value": -98.6,
+        "score": 18,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,14 +1059,14 @@
         "text": "i don’t think anyone can confidently say that ai stonks are currently expensive, cheap, or fairly priced. that requires a crystal ball in future ai breakthroughs, the supply chain, credit markets, politics, and macro. and such a person simply does not exist.\n\nhowever, charts,",
         "url": "https://x.com/QwQiao/status/2119071998986822060",
         "time": "Sat Nov 07 14:18:29 +0000 2026",
-        "likes": 331,
+        "likes": 347,
         "retweets": 22
       },
       {
         "text": "the ai trade won’t bottom until market participants finally learn *not* to value companies based on fwd pe. \n\na fwd pe of 40 is not necessarily expensive if earnings grow durably over decades. a fwd pe of 4 is not cheap if earnings last 18mo then go down 90%.\n\na company’s value",
         "url": "https://x.com/QwQiao/status/2119013601235157120",
         "time": "Sat Nov 07 10:26:26 +0000 2026",
-        "likes": 314,
+        "likes": 321,
         "retweets": 25
       },
       {
@@ -1093,39 +1093,39 @@
     ],
     "saylor": [
       {
+        "text": "Connecting the dots. https://t.co/mID8wo0WHq",
+        "url": "https://x.com/saylor/status/2119414787134083540",
+        "time": "Sun Nov 08 13:00:36 +0000 2026",
+        "likes": 6985,
+        "retweets": 629
+      },
+      {
         "text": "Digital credit took four centuries to make possible. From the Dutch East India Company to Bitcoin, this is the story of the ten foundations that brought us here. $STRC",
         "url": "https://x.com/saylor/status/2119203067015098830",
         "time": "Sat Nov 07 22:59:18 +0000 2026",
-        "likes": 2051,
-        "retweets": 219
+        "likes": 2579,
+        "retweets": 277
       },
       {
         "text": "Helping bears think long term. One session at a time. https://t.co/DzQCv3evAa",
         "url": "https://x.com/saylor/status/2119129992135397422",
         "time": "Sat Nov 07 18:08:56 +0000 2026",
-        "likes": 4888,
-        "retweets": 444
+        "likes": 5610,
+        "retweets": 502
       },
       {
         "text": "https://t.co/LhjAn80Bob",
         "url": "https://x.com/saylor/status/2119069635534361025",
         "time": "Sat Nov 07 14:09:06 +0000 2026",
-        "likes": 1934,
-        "retweets": 273
+        "likes": 2065,
+        "retweets": 293
       },
       {
         "text": "You can’t print another day. https://t.co/aQDR4RpgtP",
         "url": "https://x.com/saylor/status/2118744937210548649",
         "time": "Fri Nov 06 16:38:52 +0000 2026",
-        "likes": 3347,
-        "retweets": 379
-      },
-      {
-        "text": "Digital Credit is ₿etter. https://t.co/xkNR3D0ZWf",
-        "url": "https://x.com/saylor/status/2118693794619015248",
-        "time": "Fri Nov 06 13:15:38 +0000 2026",
-        "likes": 2954,
-        "retweets": 257
+        "likes": 3402,
+        "retweets": 391
       }
     ],
     "viktorfischer": [
@@ -1133,7 +1133,7 @@
         "text": "Finally a good trading app. On Solana. 🚀",
         "url": "https://x.com/viktorfischer/status/2118598459557372365",
         "time": "Fri Nov 06 06:56:49 +0000 2026",
-        "likes": 6,
+        "likes": 7,
         "retweets": 0
       },
       {
@@ -1169,37 +1169,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "The Trade Desk Stock Has Lost About 89% Since the End of 2024. Its Nov. 9 Report Is the Next Test.",
-        "url": "https://finnhub.io/api/news?id=6a51792f85cde477a23fe56cf98f19a586362a455e756204c72eae0f9728b806",
-        "datetime": 1794130922,
+        "headline": "Broadcom Stock Has Lost Nearly 40% From Its Record. I'd Buy It Now.",
+        "url": "https://finnhub.io/api/news?id=8dbb9db305872f03f3245c71bef19f16a0edff119ccd1572ad1bbfd9db0b8bbc",
+        "datetime": 1794152582,
         "source": "Yahoo"
       },
       {
-        "headline": "Billionaires Warren Buffett and Bill Ackman Deliver a Similar, Shocking Warning to Wall Street. Here’s 1 Thing Investors Should Do Now.",
-        "url": "https://finnhub.io/api/news?id=ce535436efd3f43cb99165aaf0f31250abeb12f8bda69241e3c4c492cfeee678",
-        "datetime": 1794130502,
+        "headline": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
+        "url": "https://finnhub.io/api/news?id=f18a7f2ffe8c6939b9125f91cec4ee40c27bf55bb64e902000d5c9441aa32166",
+        "datetime": 1794152073,
         "source": "Yahoo"
       },
       {
-        "headline": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
-        "url": "https://finnhub.io/api/news?id=8a0e31e1d929089c24079101285f3084e51ef00e8896467070e357f7da5b2cd1",
-        "datetime": 1794130020,
+        "headline": "SpaceX Stock Fell After the Midterm Elections. Is This a Buying Opportunity?",
+        "url": "https://finnhub.io/api/news?id=89ed777116a0f1f6e2c205cd35bb033b251d9cdb1cb5c7e89082eea8c178a3e9",
+        "datetime": 1794151202,
         "source": "Yahoo"
       },
       {
-        "headline": "Donald Trump Claims He'll Become \"Mr. Veto\" After Midterm Elections, but the Results Put the President and Wall Street in a Precarious Situation",
-        "url": "https://finnhub.io/api/news?id=0aa3b0aeb9b9b8e670abbef6ffffff607d5bc9d4d8c4c501bb43f88ce27d362a",
-        "datetime": 1794129962,
+        "headline": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
+        "url": "https://finnhub.io/api/news?id=7867867ed2816b9aff0f990938cffbe228f5b86d34af5486daa2798043e66bf1",
+        "datetime": 1794150600,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Aurora Innovation Stock Lagged the Market Last Month",
-        "url": "https://finnhub.io/api/news?id=35d1111e569d4bb061b7a2bc26a06b14ca5c63e4d19ddf68eb946f219882758a",
-        "datetime": 1794128925,
+        "headline": "How These 4 Transportation Stocks Move the Economy",
+        "url": "https://finnhub.io/api/news?id=2362b8d89427be5e9eb0817fab378ae264bc5e7e39fa6f72b3dadfba1d902321",
+        "datetime": 1794150300,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "EXCLUSIVE: Democrats Took Congress. But AI's Spending Binge Isn't Going Anywhere, This CEO Says",
+        "url": "https://finnhub.io/api/news?id=672ad686b709e9351bcac15fb01b81d16506361ded66760238567d43b1f929cc",
+        "datetime": 1794138306,
+        "source": "Yahoo"
+      },
       {
         "headline": "These AI Stocks To Improve Your Portfolio In November 2026",
         "url": "https://finnhub.io/api/news?id=984564c4aa7aa5881d9870dd8c6abfbf4690e8c64507068331b37d24c6427e4d",
@@ -1213,53 +1219,47 @@
         "source": "Yahoo"
       },
       {
+        "headline": "Josh Brown Warns Alphabet Stock “Could Go Down 50%.” Here’s Where He’d Buy It",
+        "url": "https://finnhub.io/api/news?id=5bfb907f7362c7c10452e04e8e4a5218eb5368c44f6a1781dbb0412dcedef656",
+        "datetime": 1794104565,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Alphabet's $15 Billion Investment in Malaysia Data Centers Shows That Midterm Results Won't Stop the AI Boom",
         "url": "https://finnhub.io/api/news?id=c9e0d62a85e4caec45401642c9eb518977595b14072f1fd62f51f8dcb21ddef0",
         "datetime": 1794100800,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "5 Best Dow Stocks to Buy for 2027",
-        "url": "https://finnhub.io/api/news?id=132d072b239c0ed35f9dd55be8bd8588938c2bc53c26b7cfc330a2b204bb7002",
-        "datetime": 1794093499,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
-        "url": "https://finnhub.io/api/news?id=cfeff1f94c74f447d43caf974defab3b4205ef22685380d888a5bc884b228853",
-        "datetime": 1794087600,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
-        "url": "https://finnhub.io/api/news?id=5db675a16d937dacfa09678316c388a2c2d3b9a167995d9284a9278b90251188",
-        "datetime": 1794088862,
+        "headline": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
+        "url": "https://finnhub.io/api/news?id=7867867ed2816b9aff0f990938cffbe228f5b86d34af5486daa2798043e66bf1",
+        "datetime": 1794150600,
         "source": "Yahoo"
       },
       {
-        "headline": "Every Humanoid Robot Needs Rare-Earth Magnets. Here's the American Stock Positioned to Sell Them -- and It's Down 62%.",
-        "url": "https://finnhub.io/api/news?id=1a0ac8edb07f455721f4b3a6c111074af341f7d906d9eff411e4783cb762e8ff",
-        "datetime": 1794072000,
+        "headline": "Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waited For",
+        "url": "https://finnhub.io/api/news?id=be931c4a5d0ea8e964b8acaa5006944924c7cef5fa955fc3fec5312803ede5c0",
+        "datetime": 1794143370,
         "source": "Yahoo"
       },
       {
-        "headline": "Musk Says His Terafab Chip Plant Could Cost $1 Trillion",
-        "url": "https://finnhub.io/api/news?id=931c69f37cfec21c3082101e18ee340c0eb49bba17092ae9f07bd655310c7638",
-        "datetime": 1794071801,
+        "headline": "Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why",
+        "url": "https://finnhub.io/api/news?id=350363f6d1ed8db3fe1aa3e965668e6c4ea2c7dbf5ff059d81dd814b91a6a664",
+        "datetime": 1794142380,
         "source": "Yahoo"
       },
       {
-        "headline": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-        "url": "https://finnhub.io/api/news?id=ceca23beb1416d552b3ee4a5a04b40eb978bede81ef8f0570bdf3f2ed7f3a114",
-        "datetime": 1794070863,
+        "headline": "Tesla (TSLA) To End Cybertruck Production In 2027 As Cybercab Takes Priority",
+        "url": "https://finnhub.io/api/news?id=a23de8ca5071451aabce980736d8f1c87ca76c94689e8ac5fdb3ee1da7bcfc8e",
+        "datetime": 1794139744,
         "source": "Yahoo"
       },
       {
-        "headline": "Prediction: Here's What a $1,000 Investment in Rivian Will Be Worth by 2030 if the R2 Ramp Holds",
-        "url": "https://finnhub.io/api/news?id=64f407e6adc4712501fbdd3049a9ef47beaecacd8cf3dbf5e222bbd6addb7260",
-        "datetime": 1794069300,
+        "headline": "Tesla Stock Hasn't Closed at a Record in Nearly 11 Months. Here's How Its Past Record Droughts Ended.",
+        "url": "https://finnhub.io/api/news?id=9bde60ba87ad89677c6d942a36c8ce4f538b51555a387e8ebd7657a85c2b6f92",
+        "datetime": 1794137822,
         "source": "Yahoo"
       }
     ],
@@ -1329,6 +1329,12 @@
     ],
     "BTC": [
       {
+        "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+        "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+        "datetime": 1794142559,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Bitcoin holders have received eCash — What can you do with it?",
         "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1794058200,
@@ -1351,12 +1357,6 @@
         "url": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
         "datetime": 1793981806,
         "source": "Forexlive"
-      },
-      {
-        "headline": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-        "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-        "datetime": 1793965775,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
@@ -1381,21 +1381,21 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Big week in London 🇬🇧\n\nHacker House, Nov 1–12\nDemo Day, Nov 12\nSolana Intelligence Summit, Nov 13\nCommunity Awards, Nov 13\n200ms, Nov 13\nSolana Ecosystem Call | London Special, Nov 13\nScale or Die, ",
-        "url": "https://x.com/solana/status/2119342911384944658",
-        "datetime": 1794125700,
+        "headline": "This time next week, you’ll be collecting your Breakpoint badge.\n\nIf you thought the ecosystem was saving everything for London, you forgot Solana builders are built different. A phone giant, a paymen",
+        "url": "https://x.com/solana/status/2119429739760755105",
+        "datetime": 1794146401,
         "source": "@solana"
       },
       {
-        "headline": "Find all the side events happening in London on Luma:",
-        "url": "https://x.com/solana/status/2119342911644917771",
-        "datetime": 1794125700,
+        "headline": "New report from Fidelity Digital Assets: Solana’s Competitive Advantage in Onchain Trading.\n\n→ 15% of all major US exchange activity, up from 0.30% in 2022\n→ Briefly passed the NYSE on weekly executio",
+        "url": "https://x.com/solana/status/2119384450933162180",
+        "datetime": 1794135604,
         "source": "@solana"
       },
       {
-        "headline": "Armani Ferrante, CEO of Backpack, on opening up the entire global stock market on Solana\n\n\"Right now we have a set of symbols on Solana. It’s not just about those symbols. I want everything you can ac",
-        "url": "https://x.com/solana/status/2119112644325965973",
-        "datetime": 1794070800,
+        "headline": "Read the full report from @DigitalAssets:",
+        "url": "https://x.com/solana/status/2119384451646169181",
+        "datetime": 1794135604,
         "source": "@solana"
       }
     ],
