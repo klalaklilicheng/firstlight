@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:55:34.280Z",
+  "updated_at": "2026-11-09T00:23:18.776Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 75714,
-      "change_pct": 0.19
+      "price": 74655,
+      "change_pct": -1.41
     },
     {
       "symbol": "ETH",
-      "price": 2225.45,
-      "change_pct": 0.01
+      "price": 2128.12,
+      "change_pct": -4.8
     },
     {
       "symbol": "SOL",
-      "price": 89.23,
-      "change_pct": 0.32
+      "price": 86.64,
+      "change_pct": -3.23
     },
     {
       "symbol": "HYPE",
-      "price": 76.36,
-      "change_pct": -0.71
+      "price": 74.6,
+      "change_pct": -3.92
     },
     {
       "symbol": "ZEC",
-      "price": 1243.03,
-      "change_pct": 0.08
+      "price": 1220.47,
+      "change_pct": -2.53
     },
     {
       "symbol": "TAO",
-      "price": 223.22,
-      "change_pct": 0.59
+      "price": 217.27,
+      "change_pct": -2.29
     },
     {
       "symbol": "SKY",
-      "price": 1458.85,
-      "change_pct": -0.31
+      "price": 1421.41,
+      "change_pct": -3.39
     },
     {
       "symbol": "AAVE",
-      "price": 129.13,
-      "change_pct": -0.46
+      "price": 126.47,
+      "change_pct": -3.54
     },
     {
       "symbol": "BNB",
-      "price": 696.46,
-      "change_pct": 0.3
+      "price": 684.61,
+      "change_pct": -1.55
     },
     {
       "symbol": "NEAR",
-      "price": 3.63,
-      "change_pct": -0.11
+      "price": 3.6,
+      "change_pct": -2.79
     },
     {
       "symbol": "DOGE",
-      "price": 0.071082,
-      "change_pct": -0.23
+      "price": 0.068929,
+      "change_pct": -3.59
     },
     {
       "symbol": "SPACEX",
-      "price": 531.47,
-      "change_pct": -0.96
+      "price": 532.19,
+      "change_pct": 0.18
     }
   ],
   "earnings": {
@@ -465,15 +465,33 @@
           "period": "2025-12-31",
           "quarter": 4,
           "year": 2025,
-          "actual": 0.32,
-          "estimate": 0.3886,
-          "surprise_pct": -17.6531
+          "actual": 2.26786,
+          "estimate": 2.6963,
+          "surprise_pct": -15.8899
         }
       ],
       "comment": "上季不及预期 (-8.3%)"
     }
   },
   "news": [
+    {
+      "headline": "Vitalik 将 ETH 转向价值存储，美国中期选举后加密货币遭受重创：Hodler 文摘",
+      "summary": "Vitalik Buterin 希望以太坊拥抱价值储存的叙事，这会扰乱比特币的马克西斯。美国大选后，加密行业面临着不确定的未来。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794178746,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着权力转移，布卢门撒尔为币安、Tether 和特朗普加密货币公司设定了 1 月 4 日的最后期限",
+      "summary": "<p dir=\"ltr\">交易员已基本消化了政治转变。现在更大的风险是时机：市场结构法案可能会从议程中滑落，而新的多数党会优先考虑调查。稳定币流动性是值得关注的压力点，因为 Tether 位于加密货币的中心",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms-as-power-shifts/",
+      "datetime": 1794178493,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "选举结果对加密货币意味着什么：加密货币现状",
       "summary": "",
@@ -610,7 +628,7 @@
       "related": ""
     },
     {
-      "headline": "前 FBI 反情报特工偷走了近 250 万美元的加密货币",
+      "headline": "前 FBI 反情报特工窃取了近 250 万美元的加密货币",
       "summary": "亚罗克还清了债务，并打算用所得资金资助在葡萄牙的新生活，他计划在那里购买一座葡萄园。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -637,7 +655,7 @@
       "related": ""
     },
     {
-      "headline": "世界第一餐厅因竞争受到越来越严格的审查而加冕",
+      "headline": "世界第一餐厅加冕，竞赛受到越来越多的关注",
       "summary": "根据公布 2026 年榜单的 50 家最佳餐厅，位于西班牙 Atxondo 的 Asador Etxebarri 是世界顶级餐厅。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
@@ -691,7 +709,7 @@
       "related": ""
     },
     {
-      "headline": "美国财政部因涉嫌 16B 美元非法交易而切断 MEXC 的交易",
+      "headline": "美国财政部因涉嫌 160 亿美元非法交易而切断 MEXC 的交易",
       "summary": "美国财政部 FinCEN 周五命令美国金融机构停止处理涉及 MEXC Global 的转账。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -709,7 +727,7 @@
       "related": ""
     },
     {
-      "headline": "Gnosis Pay 泄露导致银行卡详细信息、个人数据和加密钱包信息暴露",
+      "headline": "Gnosis Pay 违规暴露了卡详细信息、个人数据和加密钱包信息",
       "summary": "这家加密借记卡提供商表示，尽管敏感的财务和个人信息被曝光，但客户资金仍然安全。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -723,24 +741,6 @@
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1793997385,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "以下是我们所有 31 支股票的快速更新，其中 2 支股票现在就可以购买",
-      "summary": "周五，我们在纽约证券交易所举行的投资俱乐部第四届年会上结束了疯狂的市场一周。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/06/heres-a-rapid-fire-update-on-our-31-stocks-including-2-to-buy-now.html",
-      "datetime": 1793997363,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "苹果、Meta 拒绝 OKX-ICE 代币化股票计划，让加密货币公司成为值得​​关注的对象",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-      "datetime": 1793995758,
       "category": "crypto",
       "related": ""
     }
@@ -774,7 +774,7 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "OpenAI 表示，其人工智能可以大规模侵入 Linux。这对加密货币意味着什么",
+          "headline": "OpenAI 表示，其人工智能可以大规模侵入 Linux。这对加密意味着什么",
           "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
           "datetime": 1793867186
         }
@@ -802,17 +802,17 @@
     }
   ],
   "btc_score": {
-    "score": 30.5,
+    "score": 31.1,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 10.4,
-    "weekly_score": 20.1,
-    "btc_price": 75785.1,
-    "fear_greed": 32,
+    "weekly_score": 20.7,
+    "btc_price": 74927.1,
+    "fear_greed": 29,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.4302,
+        "value": 0.4182,
         "score": 14,
         "weight": 10,
         "group": "daily"
@@ -826,22 +826,22 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.004015,
-        "score": 47,
+        "value": 0.007263,
+        "score": 49,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.05,
+        "value": 2.83,
         "score": 100,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 32,
-        "score": 32,
+        "value": 29,
+        "score": 29,
         "weight": 5,
         "group": "daily"
       },
@@ -889,22 +889,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 1.12,
-        "score": 21,
+        "value": 1.1,
+        "score": 20,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 46.5,
-        "score": 44,
+        "value": 45.3,
+        "score": 42,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -92.5,
-        "score": 20,
+        "value": -30.8,
+        "score": 37,
         "weight": 4,
         "group": "weekly"
       }
@@ -913,7 +913,7 @@
   "fomc": {
     "next": {
       "date": "2026-12-09",
-      "days_until": 31
+      "days_until": 30
     },
     "schedule": [
       "2025-01-29",
@@ -1022,7 +1022,7 @@
         "text": "Still the only chart that matters as it shows what comes next https://t.co/gp1gVQDJoB",
         "url": "https://x.com/cburniske/status/2118523942973718800",
         "time": "Fri Nov 06 02:00:42 +0000 2026",
-        "likes": 644,
+        "likes": 643,
         "retweets": 58
       },
       {
@@ -1036,7 +1036,7 @@
         "text": "$ZECBTC dgaf about any of the worry out there https://t.co/SVD00kucBJ",
         "url": "https://x.com/cburniske/status/2116354669798973705",
         "time": "Sat Oct 31 02:20:47 +0000 2026",
-        "likes": 666,
+        "likes": 665,
         "retweets": 51
       },
       {
@@ -1059,14 +1059,14 @@
         "text": "i don’t think anyone can confidently say that ai stonks are currently expensive, cheap, or fairly priced. that requires a crystal ball in future ai breakthroughs, the supply chain, credit markets, politics, and macro. and such a person simply does not exist.\n\nhowever, charts,",
         "url": "https://x.com/QwQiao/status/2119071998986822060",
         "time": "Sat Nov 07 14:18:29 +0000 2026",
-        "likes": 351,
+        "likes": 353,
         "retweets": 22
       },
       {
         "text": "the ai trade won’t bottom until market participants finally learn *not* to value companies based on fwd pe. \n\na fwd pe of 40 is not necessarily expensive if earnings grow durably over decades. a fwd pe of 4 is not cheap if earnings last 18mo then go down 90%.\n\na company’s value",
         "url": "https://x.com/QwQiao/status/2119013601235157120",
         "time": "Sat Nov 07 10:26:26 +0000 2026",
-        "likes": 323,
+        "likes": 326,
         "retweets": 25
       },
       {
@@ -1096,36 +1096,36 @@
         "text": "AI can make me rap. It can’t print Bitcoin. https://t.co/iyODsqPhIJ",
         "url": "https://x.com/saylor/status/2119488660428988740",
         "time": "Sun Nov 08 17:54:09 +0000 2026",
-        "likes": 2589,
-        "retweets": 240
+        "likes": 3370,
+        "retweets": 322
       },
       {
         "text": "Connecting the dots. https://t.co/mID8wo0WHq",
         "url": "https://x.com/saylor/status/2119414787134083540",
         "time": "Sun Nov 08 13:00:36 +0000 2026",
-        "likes": 8964,
-        "retweets": 823
+        "likes": 9817,
+        "retweets": 887
       },
       {
         "text": "Digital credit took four centuries to make possible. From the Dutch East India Company to Bitcoin, this is the story of the ten foundations that brought us here. $STRC",
         "url": "https://x.com/saylor/status/2119203067015098830",
         "time": "Sat Nov 07 22:59:18 +0000 2026",
-        "likes": 2807,
-        "retweets": 315
+        "likes": 2925,
+        "retweets": 330
       },
       {
         "text": "Helping bears think long term. One session at a time. https://t.co/DzQCv3evAa",
         "url": "https://x.com/saylor/status/2119129992135397422",
         "time": "Sat Nov 07 18:08:56 +0000 2026",
-        "likes": 5883,
-        "retweets": 520
+        "likes": 6014,
+        "retweets": 532
       },
       {
         "text": "https://t.co/LhjAn80Bob",
         "url": "https://x.com/saylor/status/2119069635534361025",
         "time": "Sat Nov 07 14:09:06 +0000 2026",
-        "likes": 2119,
-        "retweets": 301
+        "likes": 2147,
+        "retweets": 302
       }
     ],
     "viktorfischer": [
@@ -1169,97 +1169,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Why Centrus Energy Stock Crashed 26% in October",
-        "url": "https://finnhub.io/api/news?id=1eda83b84371e6893d668cec27357d7e9bb65be66b94313bffc4a9b4676f4fe0",
-        "datetime": 1794165972,
+        "headline": "Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Yearly Dividend Income.",
+        "url": "https://finnhub.io/api/news?id=84f4800adf8febd696471db77487468b6014ea8e83fd6cb34642315c4fe9ec05",
+        "datetime": 1794181800,
         "source": "Yahoo"
       },
       {
-        "headline": "Here's How Much $10,000 in Altria Stock Pays You Each Year",
-        "url": "https://finnhub.io/api/news?id=8de179c70d750c6ffed61ffed7657a4a2330572aa371bc9dd7b0ec7bc5b6070e",
-        "datetime": 1794165360,
+        "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
+        "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055",
+        "datetime": 1794181582,
         "source": "Yahoo"
       },
       {
-        "headline": "AppLovin Shares Surge as Revenue Continues to Soar. Is It Too Late to Buy the Stock?",
-        "url": "https://finnhub.io/api/news?id=d40cb5a5ed2361f3636b0c15326ba84223b0dacb0cebc8ed85bfab6390ca7caa",
-        "datetime": 1794164100,
+        "headline": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
+        "url": "https://finnhub.io/api/news?id=1b98bfb21ff6c681e69b848b9d909fc75fb2be02165e4dea39b6fb9183f3cc10",
+        "datetime": 1794180000,
         "source": "Yahoo"
       },
       {
-        "headline": "This Stock Is a Nearly Guaranteed Winner From the AI Infrastructure Buildout",
-        "url": "https://finnhub.io/api/news?id=a7d105a120881bba58a1262d60f9bfa7fe8c886e730bae751cb6c6db5149f488",
-        "datetime": 1794163320,
+        "headline": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
+        "url": "https://finnhub.io/api/news?id=fda419df3926ba7c9f341c3a4b7b95b80ea84b9b19b275ec3ce38902b6a53f64",
+        "datetime": 1794179100,
         "source": "Yahoo"
       },
       {
-        "headline": "A Stock Market Crash Could Be Life-Changing for Investors Who Have These 3 Things",
-        "url": "https://finnhub.io/api/news?id=ae5e8ca6e04b2ad3ca8471ba40c9b8e1408d7f42e309006c32a78714ef135486",
-        "datetime": 1794162900,
+        "headline": "This Semiconductor ETF Just Had Its Worst Day Since March 2020",
+        "url": "https://finnhub.io/api/news?id=de784888e40f271d4b5e6dcbb3a3cc93b43b5993a766522607a96ee102f24562",
+        "datetime": 1794176400,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "Could HBF be the solution to the Memory bottleneck?",
+        "url": "https://finnhub.io/api/news?id=10fa7341af6a49b7bdf4732ddc2b8a99a17c6d65dbeeae26aa9cf19518da2696",
+        "datetime": 1794177623,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story",
+        "url": "https://finnhub.io/api/news?id=7c6b267aa5979eb57e3c9cffd6e28f87ff74592d2ec55dfce6a4fb165068e053",
+        "datetime": 1794175598,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
+        "url": "https://finnhub.io/api/news?id=f8f4ac784be758266254436840fe11617d7ffddeebbb34942bb16ecd5347602d",
+        "datetime": 1794175593,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla Isn’t a Mag-7 Stock. This Is.",
+        "url": "https://finnhub.io/api/news?id=20ea7793c01218522a8165d0e48c334d81e3794d4702c1fbfa6effe2caab0f91",
+        "datetime": 1794167040,
+        "source": "Yahoo"
+      },
+      {
         "headline": "What Tenaris (TS) Said on Its Q3 Earnings Call",
         "url": "https://finnhub.io/api/news?id=a87c563b070538160931c16c376287792b60dfe95fdb716917b4826ab91821e1",
         "datetime": 1794165263,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Why AI investors may favor established data-center owners",
-        "url": "https://finnhub.io/api/news?id=30a0e00aaf87eeb397f0f9dcc10c7369b6f3b443b35252b5c74e8b872246ced5",
-        "datetime": 1794164100,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Isn’t a Mag-Y Stock. This Is.",
-        "url": "https://finnhub.io/api/news?id=44102834bcf3134059ce41a03f2583b1b1acfe310cf78b8d00fdb17a1fc49bee",
-        "datetime": 1794158580,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "How sustainable is the AI investment boom after Thursday’s selloff?",
-        "url": "https://finnhub.io/api/news?id=def6c476f008a9b78908b5b02e978248f5cc2da1f287f9861587749aeb5fea8a",
-        "datetime": 1794156431,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
-        "url": "https://finnhub.io/api/news?id=3c9fd35628ddbb54e240ea72060692c87817ae644ff46644ba6b407f65cc44df",
-        "datetime": 1794154841,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Tesla Isn’t a Mag-Y Stock. This Is.",
-        "url": "https://finnhub.io/api/news?id=44102834bcf3134059ce41a03f2583b1b1acfe310cf78b8d00fdb17a1fc49bee",
-        "datetime": 1794158580,
+        "headline": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
+        "url": "https://finnhub.io/api/news?id=1b98bfb21ff6c681e69b848b9d909fc75fb2be02165e4dea39b6fb9183f3cc10",
+        "datetime": 1794180000,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla's FSD (Supervised) Attach Rate Hit 75% on New Vehicles. Here's Why That Single Number Could Matter More Than Robotaxi for the Stock in 2027.",
-        "url": "https://finnhub.io/api/news?id=7867867ed2816b9aff0f990938cffbe228f5b86d34af5486daa2798043e66bf1",
-        "datetime": 1794150600,
+        "headline": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative'",
+        "url": "https://finnhub.io/api/news?id=068f765375af1b629737a59f6afddd26d5385be6f5f9415c3d77b7fd482172b5",
+        "datetime": 1794177005,
         "source": "Yahoo"
       },
       {
-        "headline": "It’s Game Over for DJT Stock as Trump Becomes a Lame-Duck President Following Midterm Losses",
-        "url": "https://finnhub.io/api/news?id=edcb3cdde01a89a9b09d47236d2eddf3f3359cf25db491c79fe9b8797380615a",
-        "datetime": 1794144452,
+        "headline": "Mark Cuban Says Elon Musk Is Amazing and the ‘Best Entrepreneur of Our Lifetime,’ But He’s a Salesman — ‘He’s Gotta Sell What He’s Got to Sell’",
+        "url": "https://finnhub.io/api/news?id=82c75bf32125d7b845bd6ab1fbd55c06160b30048b4580b6858149fc70de71f9",
+        "datetime": 1794173406,
         "source": "Yahoo"
       },
       {
-        "headline": "Cathie Wood Sees Tesla’s Robotaxi Business Taking Off — Says This Is The Moment Investors Have Waited For",
-        "url": "https://finnhub.io/api/news?id=be931c4a5d0ea8e964b8acaa5006944924c7cef5fa955fc3fec5312803ede5c0",
-        "datetime": 1794143370,
+        "headline": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
+        "url": "https://finnhub.io/api/news?id=1d48e3a793e3b8cd9704132729a6cda17a0b4740df050cb1c993eeb8ba36152e",
+        "datetime": 1794167400,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk Says Tesla Will End Cybertruck Production -- Here's Why",
-        "url": "https://finnhub.io/api/news?id=350363f6d1ed8db3fe1aa3e965668e6c4ea2c7dbf5ff059d81dd814b91a6a664",
-        "datetime": 1794142380,
+        "headline": "Tesla Isn’t a Mag-7 Stock. This Is.",
+        "url": "https://finnhub.io/api/news?id=20ea7793c01218522a8165d0e48c334d81e3794d4702c1fbfa6effe2caab0f91",
+        "datetime": 1794167040,
         "source": "Yahoo"
       }
     ],
@@ -1353,10 +1353,10 @@
         "source": "Cointelegraph"
       },
       {
-        "headline": "Bitcoin testing a key support target.  What needs to happen to give buyers some relief?",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
-        "datetime": 1793981806,
-        "source": "Forexlive"
+        "headline": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+        "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+        "datetime": 1793965775,
+        "source": "CoinDesk"
       }
     ],
     "ETH": [
