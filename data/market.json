@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:23:18.776Z",
+  "updated_at": "2026-11-09T07:30:02.637Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 74655,
-      "change_pct": -1.41
+      "price": 73890,
+      "change_pct": -2.49
     },
     {
       "symbol": "ETH",
-      "price": 2128.12,
-      "change_pct": -4.8
+      "price": 2089.73,
+      "change_pct": -6.43
     },
     {
       "symbol": "SOL",
-      "price": 86.64,
-      "change_pct": -3.23
+      "price": 85.41,
+      "change_pct": -4.08
     },
     {
       "symbol": "HYPE",
-      "price": 74.6,
-      "change_pct": -3.92
+      "price": 73.43,
+      "change_pct": -4.85
     },
     {
       "symbol": "ZEC",
-      "price": 1220.47,
-      "change_pct": -2.53
+      "price": 1195.84,
+      "change_pct": -5.23
     },
     {
       "symbol": "TAO",
-      "price": 217.27,
-      "change_pct": -2.29
+      "price": 213.02,
+      "change_pct": -4.09
     },
     {
       "symbol": "SKY",
-      "price": 1421.41,
-      "change_pct": -3.39
+      "price": 1408.6,
+      "change_pct": -3.8
     },
     {
       "symbol": "AAVE",
-      "price": 126.47,
-      "change_pct": -3.54
+      "price": 127.23,
+      "change_pct": -2.43
     },
     {
       "symbol": "BNB",
-      "price": 684.61,
-      "change_pct": -1.55
+      "price": 676.06,
+      "change_pct": -3.11
     },
     {
       "symbol": "NEAR",
-      "price": 3.6,
-      "change_pct": -2.79
+      "price": 3.49,
+      "change_pct": -5.75
     },
     {
       "symbol": "DOGE",
-      "price": 0.068929,
-      "change_pct": -3.59
+      "price": 0.068197,
+      "change_pct": -4.05
     },
     {
       "symbol": "SPACEX",
-      "price": 532.19,
-      "change_pct": 0.18
+      "price": 529.15,
+      "change_pct": -0.4
     }
   ],
   "earnings": {
@@ -475,6 +475,69 @@
   },
   "news": [
     {
+      "headline": "SpaceX 提议在德克萨斯州建造价值 240 亿美元的超级计算机，其价值是其比特币储备的 17 倍",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "datetime": 1794207281,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Solana 采取行动废除价值 2.7 亿美元的 Drift 黑客攻击中使用的交易功能",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "datetime": 1794206205,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Zcash 开发者提议在 NU7 升级几天后再次削减区块时间",
+      "summary": "拟议的减少旨在缩短交易确认时间并改善销售点支付、交易所存款和跨链交换的用户体验。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794202568,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "两项相互竞争的以太坊提案旨在阻止 Glamsterdam 违反旧合约",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "datetime": 1794201414,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着关闭临近，币安比特币矿池一周内仅发现一个区块",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "datetime": 1794200079,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "1.2 亿美元的 Aave 储备金仍处于冻结状态，tBTC 桥部分恢复",
+      "summary": "Threshold 于 10 月 30 日停止了其 tBTC 桥接，因为运营商解决了一个关键的 Linux 内核漏洞，该漏洞可能允许攻击者在未修补的服务器上执行代码。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794196988,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于英伟达作弊丑闻和伊朗谈判失败引发波动，比特币先跌后涨",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "datetime": 1794194509,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Vitalik 将 ETH 转向价值存储，美国中期选举后加密货币遭受重创：Hodler 文摘",
       "summary": "Vitalik Buterin 希望以太坊拥抱价值储存的叙事，这会扰乱比特币的马克西斯。美国大选后，加密行业面临着不确定的未来。",
       "source": "Cointelegraph",
@@ -628,7 +691,7 @@
       "related": ""
     },
     {
-      "headline": "前 FBI 反情报特工窃取了近 250 万美元的加密货币",
+      "headline": "前 FBI 反情报特工偷走了近 250 万美元的加密货币",
       "summary": "亚罗克还清了债务，并打算用所得资金资助在葡萄牙的新生活，他计划在那里购买一座葡萄园。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -655,7 +718,7 @@
       "related": ""
     },
     {
-      "headline": "世界第一餐厅加冕，竞赛受到越来越多的关注",
+      "headline": "世界第一餐厅因竞争受到越来越严格的审查而加冕",
       "summary": "根据公布 2026 年榜单的 50 家最佳餐厅，位于西班牙 Atxondo 的 Asador Etxebarri 是世界顶级餐厅。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
@@ -680,75 +743,18 @@
       "datetime": 1794056401,
       "category": "business",
       "related": ""
-    },
-    {
-      "headline": "美国因伊朗关系制裁加拿大货币兑换公司",
-      "summary": "美国还提供高达 2000 万美元的资金，并可能转移有关伊朗核计划的信息。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1794049847,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "选举民意调查发布前出现可疑的预测市场活动：纽约时报",
-      "summary": "据报道，在《纽约时报》/锡耶纳最近的两项政治民意调查向公众发布之前不久就下了赌注。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1794042635,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "英伟达可能面临选举后华盛顿更加敌对的情况：报告",
-      "summary": "塞马福表示，首席执行官黄仁勋与唐纳德·特朗普总统的关系可能无法将公司从更具敌意的华盛顿手中拯救出来。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1794037524,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "美国财政部因涉嫌 160 亿美元非法交易而切断 MEXC 的交易",
-      "summary": "美国财政部 FinCEN 周五命令美国金融机构停止处理涉及 MEXC Global 的转账。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793999125,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "参议员克里斯·墨菲中风后出院，在康复过程中将缺席“数周”投票",
-      "summary": "康涅狄格州民主党人墨菲已被讨论为 2028 年白宫的可能候选人。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-      "datetime": 1793998393,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Gnosis Pay 违规暴露了卡详细信息、个人数据和加密钱包信息",
-      "summary": "这家加密借记卡提供商表示，尽管敏感的财务和个人信息被曝光，但客户资金仍然安全。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793998283,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "TRM Labs 高管表示，币安黑客攻击是“网络战争”",
-      "summary": "TRM Labs 高管阿里·雷德博德 (Ari Redbord) 呼吁各国政府在币安遭受创纪录的 63 亿美元盗窃案后对朝鲜黑客采取进攻行动。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1793997385,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
     {
       "company": "SpaceX",
-      "news": []
+      "news": [
+        {
+          "headline": "SpaceX 提议在德克萨斯州建造价值 240 亿美元的超级计算机，其价值是其比特币储备的 17 倍",
+          "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+          "datetime": 1794207281
+        }
+      ]
     },
     {
       "company": "Anthropic",
@@ -774,7 +780,7 @@
       "company": "OpenAI",
       "news": [
         {
-          "headline": "OpenAI 表示，其人工智能可以大规模侵入 Linux。这对加密意味着什么",
+          "headline": "OpenAI 表示，其人工智能可以大规模侵入 Linux。这对加密货币意味着什么",
           "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
           "datetime": 1793867186
         }
@@ -802,12 +808,12 @@
     }
   ],
   "btc_score": {
-    "score": 31.1,
+    "score": 32,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
     "daily_score": 10.4,
-    "weekly_score": 20.7,
-    "btc_price": 74927.1,
+    "weekly_score": 21.6,
+    "btc_price": 73906.6,
     "fear_greed": 29,
     "indicators": [
       {
@@ -826,14 +832,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.007263,
-        "score": 49,
+        "value": 0.01,
+        "score": 50,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.83,
+        "value": 2.86,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -847,35 +853,35 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.55,
-        "score": 35,
+        "value": 1.53,
+        "score": 34,
         "weight": 12,
         "group": "weekly"
       },
       {
         "name": "NUPL",
-        "value": 0.288,
-        "score": 54,
+        "value": 0.281,
+        "score": 53,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.936,
+        "value": 0.939,
         "score": 10,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.985,
-        "score": 35,
+        "value": 0.996,
+        "score": 46,
         "weight": 8,
         "group": "weekly"
       },
       {
         "name": "LTH 持有者占比",
-        "value": 81.9,
+        "value": 82,
         "score": 0,
         "weight": 7,
         "group": "weekly"
@@ -896,15 +902,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 45.3,
-        "score": 42,
+        "value": 44,
+        "score": 40,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -30.8,
-        "score": 37,
+        "value": 5,
+        "score": 46,
         "weight": 4,
         "group": "weekly"
       }
@@ -1059,14 +1065,14 @@
         "text": "i don’t think anyone can confidently say that ai stonks are currently expensive, cheap, or fairly priced. that requires a crystal ball in future ai breakthroughs, the supply chain, credit markets, politics, and macro. and such a person simply does not exist.\n\nhowever, charts,",
         "url": "https://x.com/QwQiao/status/2119071998986822060",
         "time": "Sat Nov 07 14:18:29 +0000 2026",
-        "likes": 353,
-        "retweets": 22
+        "likes": 354,
+        "retweets": 23
       },
       {
         "text": "the ai trade won’t bottom until market participants finally learn *not* to value companies based on fwd pe. \n\na fwd pe of 40 is not necessarily expensive if earnings grow durably over decades. a fwd pe of 4 is not cheap if earnings last 18mo then go down 90%.\n\na company’s value",
         "url": "https://x.com/QwQiao/status/2119013601235157120",
         "time": "Sat Nov 07 10:26:26 +0000 2026",
-        "likes": 326,
+        "likes": 328,
         "retweets": 25
       },
       {
@@ -1096,36 +1102,36 @@
         "text": "AI can make me rap. It can’t print Bitcoin. https://t.co/iyODsqPhIJ",
         "url": "https://x.com/saylor/status/2119488660428988740",
         "time": "Sun Nov 08 17:54:09 +0000 2026",
-        "likes": 3370,
-        "retweets": 322
+        "likes": 4032,
+        "retweets": 376
       },
       {
         "text": "Connecting the dots. https://t.co/mID8wo0WHq",
         "url": "https://x.com/saylor/status/2119414787134083540",
         "time": "Sun Nov 08 13:00:36 +0000 2026",
-        "likes": 9817,
-        "retweets": 887
+        "likes": 10650,
+        "retweets": 954
       },
       {
         "text": "Digital credit took four centuries to make possible. From the Dutch East India Company to Bitcoin, this is the story of the ten foundations that brought us here. $STRC",
         "url": "https://x.com/saylor/status/2119203067015098830",
         "time": "Sat Nov 07 22:59:18 +0000 2026",
-        "likes": 2925,
-        "retweets": 330
+        "likes": 3058,
+        "retweets": 346
       },
       {
         "text": "Helping bears think long term. One session at a time. https://t.co/DzQCv3evAa",
         "url": "https://x.com/saylor/status/2119129992135397422",
         "time": "Sat Nov 07 18:08:56 +0000 2026",
-        "likes": 6014,
-        "retweets": 532
+        "likes": 6200,
+        "retweets": 550
       },
       {
         "text": "https://t.co/LhjAn80Bob",
         "url": "https://x.com/saylor/status/2119069635534361025",
         "time": "Sat Nov 07 14:09:06 +0000 2026",
-        "likes": 2147,
-        "retweets": 302
+        "likes": 2179,
+        "retweets": 305
       }
     ],
     "viktorfischer": [
@@ -1169,74 +1175,86 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Procter & Gamble's Dividend Has Survived 26 Recessions. Here's What $10,000 Now Earns in Yearly Dividend Income.",
-        "url": "https://finnhub.io/api/news?id=84f4800adf8febd696471db77487468b6014ea8e83fd6cb34642315c4fe9ec05",
-        "datetime": 1794181800,
+        "headline": "Oracle Stock Is on Pace for Its Worst Year Since 2001. Here's What Followed Its Only 2 Worse Years.",
+        "url": "https://finnhub.io/api/news?id=0771c2a1a2b01d7dfb14473c795afe02c07b98141a6cea954cc602d5932f5fa0",
+        "datetime": 1794202802,
         "source": "Yahoo"
       },
       {
-        "headline": "Dow Jones Futures Rise, Techs Slide A Nvidia Probes CEO Jensen Huang Spying Case",
-        "url": "https://finnhub.io/api/news?id=24653445a5a0e34e7dfc21bd125509eb61f0d042362e1adaf459de03fb6b6055",
-        "datetime": 1794181582,
+        "headline": "Nvidia Slips 3% Overnight as Board Probes Jensen Huang: “No Reason to Believe” Secrets Were Compromised",
+        "url": "https://finnhub.io/api/news?id=c13c032679426ca93ee7e1ef0faf4ba295472fdd802c245863080cae6909ce3f",
+        "datetime": 1794201685,
         "source": "Yahoo"
       },
       {
-        "headline": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
-        "url": "https://finnhub.io/api/news?id=1b98bfb21ff6c681e69b848b9d909fc75fb2be02165e4dea39b6fb9183f3cc10",
-        "datetime": 1794180000,
+        "headline": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash?",
+        "url": "https://finnhub.io/api/news?id=e2262beebe7b4fc2eaf357810278f268bceb3efdd11abecf5d08302846259410",
+        "datetime": 1794201600,
         "source": "Yahoo"
       },
       {
-        "headline": "AMD or Nvidia: Which AI Chip Stock Would I Buy With $1,000 Today?",
-        "url": "https://finnhub.io/api/news?id=fda419df3926ba7c9f341c3a4b7b95b80ea84b9b19b275ec3ce38902b6a53f64",
-        "datetime": 1794179100,
+        "headline": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+        "url": "https://finnhub.io/api/news?id=22c079a07f82077e30c15547c11d3d940f9dc5649fc6ecc31a1668e1caea7153",
+        "datetime": 1794201156,
         "source": "Yahoo"
       },
       {
-        "headline": "This Semiconductor ETF Just Had Its Worst Day Since March 2020",
-        "url": "https://finnhub.io/api/news?id=de784888e40f271d4b5e6dcbb3a3cc93b43b5993a766522607a96ee102f24562",
-        "datetime": 1794176400,
+        "headline": "Taiwan shares rally 6% as short-sale curbs and NT$500 bln fund lift sentiment",
+        "url": "https://finnhub.io/api/news?id=37d4db0ade97f22bef1377dbdcb443ea86b7331fa70d23b62963d4e9208bbb03",
+        "datetime": 1794200431,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
+        "headline": "5 Stocks I am Retiring On",
+        "url": "https://finnhub.io/api/news?id=c893003f374a85aa3738a001574d0ab22174a508075b21e875ffb832fc0170ad",
+        "datetime": 1794185383,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Bloom Energy Stock Fell 16% on the Same Day 2 Giant Data Center Deals Named It. Is It a Buy?",
+        "url": "https://finnhub.io/api/news?id=3df1a3b295068778e71084a55585d8dba03f2025fb5339fb376aa3266b95ede5",
+        "datetime": 1794184562,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Cathie Wood buys $17.2 million of tumbling tech stock",
+        "url": "https://finnhub.io/api/news?id=b5894f4e22ab72f7b62ec5b1c72a55b7ec0fe909299178b21fde59ae1857cf7e",
+        "datetime": 1794182800,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "How to Buy YouTube Stock as It Dominates US Television",
+        "url": "https://finnhub.io/api/news?id=4d3e09c9b7da3fc9bbaa506c0a28ed63dc7470b525d9e326c4fe9780d54913ee",
+        "datetime": 1794179030,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Could HBF be the solution to the Memory bottleneck?",
         "url": "https://finnhub.io/api/news?id=10fa7341af6a49b7bdf4732ddc2b8a99a17c6d65dbeeae26aa9cf19518da2696",
         "datetime": 1794177623,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story",
-        "url": "https://finnhub.io/api/news?id=7c6b267aa5979eb57e3c9cffd6e28f87ff74592d2ec55dfce6a4fb165068e053",
-        "datetime": 1794175598,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
-        "url": "https://finnhub.io/api/news?id=f8f4ac784be758266254436840fe11617d7ffddeebbb34942bb16ecd5347602d",
-        "datetime": 1794175593,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Isn’t a Mag-7 Stock. This Is.",
-        "url": "https://finnhub.io/api/news?id=20ea7793c01218522a8165d0e48c334d81e3794d4702c1fbfa6effe2caab0f91",
-        "datetime": 1794167040,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What Tenaris (TS) Said on Its Q3 Earnings Call",
-        "url": "https://finnhub.io/api/news?id=a87c563b070538160931c16c376287792b60dfe95fdb716917b4826ab91821e1",
-        "datetime": 1794165263,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "Ross Gerber Says Tesla's 'Good Old Days' Ended When Elon Musk Started Selling Shares to Buy Twitter",
+        "url": "https://finnhub.io/api/news?id=b9501a70d950ec42db42edbb9d3cda8a1c396297570cb83d3081957473085bb5",
+        "datetime": 1794191405,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Here's What a $1,000 Investment in Tesla Stock Could Be Worth in 5 Years",
         "url": "https://finnhub.io/api/news?id=1b98bfb21ff6c681e69b848b9d909fc75fb2be02165e4dea39b6fb9183f3cc10",
         "datetime": 1794180000,
         "source": "Yahoo"
+      },
+      {
+        "headline": "EV Company News For The Month Of October 2026",
+        "url": "https://finnhub.io/api/news?id=0df355ef4d97d302f00835da7fe6e66ad22fa0cfa9ce13c597f7d784387ffcef",
+        "datetime": 1794179192,
+        "source": "SeekingAlpha"
       },
       {
         "headline": "Tesla Bulls Could Get Burned? Gary Black Sees Trouble With SpaceX All-Stock Merger: Warns 24% Premium 'Can Quickly Go Negative'",
@@ -1249,21 +1267,21 @@
         "url": "https://finnhub.io/api/news?id=82c75bf32125d7b845bd6ab1fbd55c06160b30048b4580b6858149fc70de71f9",
         "datetime": 1794173406,
         "source": "Yahoo"
-      },
-      {
-        "headline": "This Is the Best-Performing Magnificent Seven Stock of 2026. Is It Still a Buy?",
-        "url": "https://finnhub.io/api/news?id=1d48e3a793e3b8cd9704132729a6cda17a0b4740df050cb1c993eeb8ba36152e",
-        "datetime": 1794167400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Isn’t a Mag-7 Stock. This Is.",
-        "url": "https://finnhub.io/api/news?id=20ea7793c01218522a8165d0e48c334d81e3794d4702c1fbfa6effe2caab0f91",
-        "datetime": 1794167040,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "3 Stocks Investors Watch When Demand For U.S. Dollar Safety Rises",
+        "url": "https://finnhub.io/api/news?id=b99cf528e715f2cba2ca7de288888cac9ff108c0648054fa3c7dbafa8d7caa6a",
+        "datetime": 1794143344,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Coinbase Just Hit a New 52-Week Low After Losing 16% Since Earnings. Is the Selling Overdone?",
+        "url": "https://finnhub.io/api/news?id=0840ae9e673468d275cf661c431d0ec40e95cc192377d59df634d6667a2a3126",
+        "datetime": 1794110633,
+        "source": "Yahoo"
+      },
       {
         "headline": "What Just Happened With Circle Internet Group (CRCL) Shares?",
         "url": "https://finnhub.io/api/news?id=8c2d6ddf04d7239166a68f20345fff3f06125960eb69116644184450d03117d0",
@@ -1280,18 +1298,6 @@
         "headline": "Weekly Wrap: Bitcoin Falls as U.S. Market Crashes",
         "url": "https://finnhub.io/api/news?id=887bd021ad84631fc785c43768d7512533dca499811334d812976fcfff6df321",
         "datetime": 1794005400,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Bitcoin Tumbles On ETF Flows, Liquidations. IREN Leads Miner Rebound Attempt.",
-        "url": "https://finnhub.io/api/news?id=d777ef4efb8bfbdbf3175bffc326bf1b3a7d8126ec3a2f0964e09c036a570737",
-        "datetime": 1794000644,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "What If the Only Companies That Let Their Stocks Be Tokenized Are Crypto Firms?",
-        "url": "https://finnhub.io/api/news?id=501481f586490aa51d276df9867cffdbb32b731cf51e38bb0c88b1de332b66cb",
-        "datetime": 1793991420,
         "source": "Yahoo"
       }
     ],
@@ -1329,6 +1335,24 @@
     ],
     "BTC": [
       {
+        "headline": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+        "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+        "datetime": 1794207281,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+        "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+        "datetime": 1794200079,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+        "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+        "datetime": 1794194509,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
         "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
         "datetime": 1794142559,
@@ -1339,27 +1363,15 @@
         "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1794058200,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-        "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1793989362,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1793987373,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-        "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-        "datetime": 1793965775,
-        "source": "CoinDesk"
       }
     ],
     "ETH": [
+      {
+        "headline": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+        "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+        "datetime": 1794201414,
+        "source": "CoinDesk"
+      },
       {
         "headline": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
         "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1375,42 +1387,30 @@
     ],
     "SOL": [
       {
+        "headline": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+        "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+        "datetime": 1794206205,
+        "source": "CoinDesk"
+      },
+      {
         "headline": "Solana’s Shanghai event halted over unauthorized promotion: Report",
         "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1793967328,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "This time next week, you’ll be collecting your Breakpoint badge.\n\nIf you thought the ecosystem was saving everything for London, you forgot Solana builders are built different. A phone giant, a paymen",
-        "url": "https://x.com/solana/status/2119429739760755105",
-        "datetime": 1794146401,
-        "source": "@solana"
-      },
-      {
-        "headline": "New report from Fidelity Digital Assets: Solana’s Competitive Advantage in Onchain Trading.\n\n→ 15% of all major US exchange activity, up from 0.30% in 2022\n→ Briefly passed the NYSE on weekly executio",
-        "url": "https://x.com/solana/status/2119384450933162180",
-        "datetime": 1794135604,
-        "source": "@solana"
-      },
-      {
-        "headline": "Read the full report from @DigitalAssets:",
-        "url": "https://x.com/solana/status/2119384451646169181",
-        "datetime": 1794135604,
-        "source": "@solana"
       }
     ],
     "AAVE": [
+      {
+        "headline": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+        "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1794196988,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
         "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
         "datetime": 1793887200,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Please visit @aave 👻",
-        "url": "https://x.com/AaveAave/status/1721121202507317273",
-        "datetime": 1699182246,
-        "source": "@AaveAave"
       }
     ],
     "DOGE": [
@@ -1477,6 +1477,12 @@
     ],
     "ZEC": [
       {
+        "headline": "Zcash devs propose another block time cut days after NU7 upgrade",
+        "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1794202568,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
         "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1793955636,
@@ -1487,20 +1493,15 @@
         "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
         "datetime": 1793942088,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Zcash is about to freeze $16 million in its oldest privacy pool",
-        "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-        "datetime": 1793857621,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-        "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-        "datetime": 1793855625,
-        "source": "CoinDesk"
       }
     ],
-    "SPACEX": []
+    "SPACEX": [
+      {
+        "headline": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+        "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+        "datetime": 1794207281,
+        "source": "CoinDesk"
+      }
+    ]
   }
 }
