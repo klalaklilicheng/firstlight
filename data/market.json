@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:01:20.859Z",
+  "updated_at": "2026-11-13T04:20:25.104Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 36.87,
-      "change_pct": 0.6
+      "price": 36.42,
+      "change_pct": -1.22
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 71378,
-      "change_pct": -3.35
+      "price": 68916,
+      "change_pct": -6.49
     },
     {
       "symbol": "ETH",
-      "price": 2012.62,
-      "change_pct": -2.02
+      "price": 1936.39,
+      "change_pct": -5.64
     },
     {
       "symbol": "SOL",
-      "price": 81.37,
-      "change_pct": -2.39
+      "price": 78.46,
+      "change_pct": -5.58
     },
     {
       "symbol": "HYPE",
-      "price": 71.99,
-      "change_pct": 0.59
+      "price": 70.86,
+      "change_pct": -1.84
     },
     {
       "symbol": "ZEC",
-      "price": 947.21,
-      "change_pct": -2.91
+      "price": 929.94,
+      "change_pct": -5.5
     },
     {
       "symbol": "TAO",
-      "price": 212.34,
-      "change_pct": -1.7
+      "price": 203.96,
+      "change_pct": -5.16
     },
     {
       "symbol": "SKY",
-      "price": 1332.89,
-      "change_pct": -0.33
+      "price": 1307.9,
+      "change_pct": -2.53
     },
     {
       "symbol": "AAVE",
-      "price": 113.83,
-      "change_pct": -5.35
+      "price": 110.74,
+      "change_pct": -6.73
     },
     {
       "symbol": "BNB",
-      "price": 653.5,
-      "change_pct": -3.94
+      "price": 634.62,
+      "change_pct": -6.34
     },
     {
       "symbol": "NEAR",
-      "price": 3.4,
-      "change_pct": -5.43
+      "price": 3.32,
+      "change_pct": -6.63
     },
     {
       "symbol": "DOGE",
-      "price": 0.06625,
-      "change_pct": -1.68
+      "price": 0.063638,
+      "change_pct": -5.24
     },
     {
       "symbol": "SPACEX",
-      "price": 560.14,
-      "change_pct": 1.31
+      "price": 554.49,
+      "change_pct": 0.35
     }
   ],
   "earnings": {
@@ -346,7 +346,7 @@
         "date": "2027-02-01",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 0.5229,
+        "eps_estimate": 0.5261,
         "revenue_estimate": 2691028382
       },
       "history": [
@@ -390,7 +390,7 @@
         "date": "2027-02-03",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 16.4334,
+        "eps_estimate": 16.2855,
         "revenue_estimate": 129265956
       },
       "history": [
@@ -450,16 +450,16 @@
           "quarter": 2,
           "year": 2026,
           "actual": 4.35548,
-          "estimate": 4.2475,
-          "surprise_pct": 2.5422
+          "estimate": 3.3092,
+          "surprise_pct": 31.6173
         },
         {
           "period": "2026-03-31",
           "quarter": 1,
           "year": 2026,
           "actual": 1.66174,
-          "estimate": 1.2397,
-          "surprise_pct": 34.0437
+          "estimate": 0.6662,
+          "surprise_pct": 149.4356
         },
         {
           "period": "2025-12-31",
@@ -474,6 +474,69 @@
     }
   },
   "news": [
+    {
+      "headline": "随着抛售步伐加快，比特币跌破 70,000 美元",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "datetime": 1794541020,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "特朗普在 SEC 和 CFTC 人选中提名 Hester Peirce 继任者",
+      "summary": "白宫还任命了一名前 CFTC 专员和两名 CLARITY Act 资深人士作为提名人，以填补 SEC 和 CFTC 的空缺。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794536967,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "英伟达前首席执行官黄有第三次被指控的婚外情：路透社",
+      "summary": "据路透社报道，黄仁勋辞去首席执行官职务数小时后，与另一名英伟达员工发生了关系。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794533187,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Gemini季度零售交易量跌至3年低点",
+      "summary": "Gemini 零售交易的下滑反映出竞争对手加密货币交易所的疲软，一些交易所开始依靠预测市场来抵消交易活动的疲软。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794531162,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "Maple Finance的战略分歧导致联合创始人、首席运营官退出",
+      "summary": "Maple Finance 联合创始人乔·弗拉纳根 (Joe Flanagan) 和首席运营官瑞安·奥谢 (Ryan O’Shea) 因对公司发展方向存在分歧而离职，尽管收入增长，但 SYRUP 却出现下滑。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794525175,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "朝鲜币安黑客攻击事件面临美国打击，司法部目标追缴价值 12 亿美元的被盗加密货币",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "datetime": 1794524152,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美国总统特朗普一年来首次提名 CFTC 和 SEC 提名人",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "datetime": 1794523661,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "NK 黑客加入 memecoin 战壕，xStocks 增加香港股市：亚洲快报",
       "summary": "朝鲜黑客推出模因币来洗钱币安黑客事件中被盗的资金，而 xStocks 计划在未来几周内增加数百只在香港上市的股票。",
@@ -680,69 +743,6 @@
       "datetime": 1794497669,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "1997 年的抵押贷款利率也是 7%——这就是为什么今天买房感觉更贵的原因",
-      "summary": "即使抵押贷款利率相同，今天购买一套普通住房所占用的家庭收入比例也比 30 年前大得多。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/mortgage-rates-home-affordability-1997.html",
-      "datetime": 1794495601,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Jupiter 将 Anchorage 支持的 USDGO 添加到其价值 10 亿美元的 Solana 借贷平台中",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "datetime": 1794494700,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "下一届国会将为人工智能和新兴技术制定规则。他们应该先使用这些东西。",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "datetime": 1794493491,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "Jensen 和 Lori Huang 共同控制着 Nvidia 的财富。既然他辞职了，事情就变得复杂了",
-      "summary": "黄仁勋在 Nvidia 价值 1400 亿美元的股份主要由他与妻子洛丽 (Lori) 共同拥有的信托基金持有，这给他的财务未来带来了更多的不确定性。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
-      "datetime": 1794492795,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周四股市最值得关注的 10 件事",
-      "summary": "英伟达首席执行官黄仁勋在这家芯片制造商的前途未卜。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "datetime": 1794492019,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "作为多年电影协议的一部分，迪士尼《星球大战》将在 50 周年纪念日前登陆 Cosm Dome",
-      "summary": "Cosm 与迪士尼建立了新的工作室合作伙伴关系，作为多年多电影合作的一部分，将把《星球大战：新希望》带到迪士尼的穹顶。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/12/star-wars-cosm-dome-screenings.html",
-      "datetime": 1794492001,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "黄仁勋辞去 NVIDIA 首席执行官兼董事会成员职务",
-      "summary": "科莱特·克雷斯 (Colette Kress) 将继续担任英伟达首席财务官，同时在董事会寻找永久继任者期间担任临时首席执行官。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1794491942,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -791,46 +791,46 @@
     }
   ],
   "btc_score": {
-    "score": 31,
+    "score": 30.7,
     "level": "偏恐慌",
     "suggestion": "市场偏冷，可适度布局",
-    "daily_score": 10.9,
-    "weekly_score": 20.1,
-    "btc_price": 71453.9,
-    "fear_greed": 26,
+    "daily_score": 12,
+    "weekly_score": 18.7,
+    "btc_price": 69007.1,
+    "fear_greed": 22,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.4082,
-        "score": 14,
+        "value": 0.3803,
+        "score": 13,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": -299800000,
-        "score": 30,
+        "value": -47700000,
+        "score": 47,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.004738,
+        "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.19,
+        "value": 2.98,
         "score": 100,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 26,
-        "score": 26,
+        "value": 22,
+        "score": 22,
         "weight": 5,
         "group": "daily"
       },
@@ -843,22 +843,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.271,
-        "score": 52,
+        "value": 0.245,
+        "score": 50,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 1.152,
-        "score": 14,
+        "value": 0.948,
+        "score": 10,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.989,
-        "score": 39,
+        "value": 0.975,
+        "score": 25,
         "weight": 8,
         "group": "weekly"
       },
@@ -871,29 +871,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.99,
-        "score": 33,
+        "value": 0.97,
+        "score": 31,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 1.09,
-        "score": 20,
+        "value": 1.05,
+        "score": 18,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 41.2,
-        "score": 35,
+        "value": 38.7,
+        "score": 31,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -72.1,
-        "score": 25,
+        "value": -7.4,
+        "score": 43,
         "weight": 4,
         "group": "weekly"
       }
@@ -902,7 +902,7 @@
   "fomc": {
     "next": {
       "date": "2026-12-09",
-      "days_until": 27
+      "days_until": 26
     },
     "schedule": [
       "2025-01-29",
@@ -1011,7 +1011,7 @@
         "text": "Don't let fear blind you now.",
         "url": "https://x.com/cburniske/status/2120249560023154909",
         "time": "Tue Nov 10 20:17:42 +0000 2026",
-        "likes": 1089,
+        "likes": 1088,
         "retweets": 109
       },
       {
@@ -1048,36 +1048,36 @@
         "text": "in the 1950-80s, morris chang joined texas instrument as a young enginerer, rose to run the entire semiconductor business, and built it into the largest in the world. he expected the top job but the ceo succession went to someone else instead and he effectively got forced out of",
         "url": "https://x.com/QwQiao/status/2120934636092084527",
         "time": "Thu Nov 12 17:39:56 +0000 2026",
-        "likes": 289,
-        "retweets": 31
+        "likes": 351,
+        "retweets": 36
       },
       {
         "text": "this is deeply upsetting in so many ways. as an nvidia shareholder. as an asian american. his messy personal life. the way entrepreneurs are treated by the powers that be. the suicidal national ai strategy. \n\ni wish him the best.",
         "url": "https://x.com/QwQiao/status/2120888822477341181",
         "time": "Thu Nov 12 14:37:54 +0000 2026",
-        "likes": 208,
-        "retweets": 10
+        "likes": 219,
+        "retweets": 11
       },
       {
         "text": "jensen is not the type of guy who gives up so easily. hes already planning his revenge arc. either team up with elon, build the terrafab, and makes the nvidia board regret for the betrayal, or take morris chang's 2013 offer, become tsmc ceo, and stick it to the us deep state.",
         "url": "https://x.com/QwQiao/status/2120883669975834805",
         "time": "Thu Nov 12 14:17:25 +0000 2026",
-        "likes": 1848,
-        "retweets": 79
+        "likes": 1928,
+        "retweets": 80
       },
       {
         "text": "honorable mention: zuck. greatest m&amp;a ceo of all time. instagram, whatsapp, manus, scaleai. meta ai would be nowhere near frontier without zuck",
         "url": "https://x.com/QwQiao/status/2120860993622626519",
         "time": "Thu Nov 12 12:47:19 +0000 2026",
-        "likes": 93,
+        "likes": 112,
         "retweets": 2
       },
       {
         "text": "top 5 irreplaceable ceos in history \n\n1) elon. as much as i love tesla and spacex, both are effectively elon meme stocks. if elon were somehow ousted, both would instantly fall at least 50%.\n\n2) jensen. 60 direct reports. entire ai supply chain. tsmc relationship. everything he",
         "url": "https://x.com/QwQiao/status/2120851984982896680",
         "time": "Thu Nov 12 12:11:31 +0000 2026",
-        "likes": 1080,
-        "retweets": 52
+        "likes": 1372,
+        "retweets": 59
       }
     ],
     "saylor": [
@@ -1085,35 +1085,35 @@
         "text": "Let $STRC do the heavy lifting. https://t.co/BvWWj65Cit",
         "url": "https://x.com/saylor/status/2120860530986336551",
         "time": "Thu Nov 12 12:45:28 +0000 2026",
-        "likes": 2667,
-        "retweets": 204
+        "likes": 2914,
+        "retweets": 223
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit and Digital Equity. Bringing $STRC and $MSTR onchain is another step toward capital markets that never close.\nhttps://t.co/nWVyRfRGjU",
         "url": "https://x.com/saylor/status/2120580116963004755",
         "time": "Wed Nov 11 18:11:13 +0000 2026",
-        "likes": 2687,
-        "retweets": 251
+        "likes": 2726,
+        "retweets": 256
       },
       {
         "text": "Deutsche ₿ank. https://t.co/k0gKuWaW4U",
         "url": "https://x.com/saylor/status/2120525843558781180",
         "time": "Wed Nov 11 14:35:33 +0000 2026",
-        "likes": 5455,
-        "retweets": 581
+        "likes": 5499,
+        "retweets": 586
       },
       {
         "text": "₿aby Bear gets it. https://t.co/LUe0u6VvVp",
         "url": "https://x.com/saylor/status/2120158698278682752",
         "time": "Tue Nov 10 14:16:38 +0000 2026",
-        "likes": 3327,
-        "retweets": 315
+        "likes": 3332,
+        "retweets": 316
       },
       {
         "text": "Look ₿oth Ways https://t.co/43KfTIRr9o",
         "url": "https://x.com/saylor/status/2119864764167798873",
         "time": "Mon Nov 09 18:48:39 +0000 2026",
-        "likes": 4966,
+        "likes": 4970,
         "retweets": 469
       }
     ],
@@ -1122,14 +1122,14 @@
         "text": "Finally a good trading app. On Solana. 🚀",
         "url": "https://x.com/viktorfischer/status/2118598459557372365",
         "time": "Fri Nov 06 06:56:49 +0000 2026",
-        "likes": 9,
+        "likes": 10,
         "retweets": 0
       },
       {
         "text": "Want yield on your SOL? onycSOL - combining RWA and staking yield 🚀",
         "url": "https://x.com/viktorfischer/status/2118197726806688133",
         "time": "Thu Nov 05 04:24:26 +0000 2026",
-        "likes": 12,
+        "likes": 13,
         "retweets": 4
       },
       {
@@ -1158,101 +1158,113 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "If the Fed Keeps Cutting Rates, History Says These 3 Industrial Stocks Win",
-        "url": "https://finnhub.io/api/news?id=62e92b2a233bd2313af1b9d9ab36b89c8d5da2ba297942c8d66ea6ca370a21be",
-        "datetime": 1794520203,
+        "headline": "Why Did NVDA, ALT, PLUG Stocks Plunge To 52-Week Lows Today?",
+        "url": "https://finnhub.io/api/news?id=1e4b82a0ace4b010bdf96f7a712cce37a0102fc08bb5a1e5d528184d00cb5b2c",
+        "datetime": 1794541474,
         "source": "Yahoo"
       },
       {
-        "headline": "Jensen Huang Is Out as Nvidia CEO. Could These 3 Industrial Stocks Pay the Price?",
-        "url": "https://finnhub.io/api/news?id=f5711c68af11a0805d8c5dfc570d970f75b0b87684dafe0080a597994c9e82ef",
-        "datetime": 1794520203,
+        "headline": "AMAT CEO Says Chip Demand Robust, Adds ‘Multiyear’ Fab Investments Are Needed – Shares See Modest Rise After Sharp Run-Up",
+        "url": "https://finnhub.io/api/news?id=d3e24cc16c5c5ec2e548596801f0878922864882659191718530aec7e4ae177d",
+        "datetime": 1794541349,
         "source": "Yahoo"
       },
       {
-        "headline": "2 No-Brainer Warren Buffett Stocks to Buy in the Post-Election Market Sell-Off and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=ae04a92c68088971daa1da6c5a1be973dcf2f33db7d88a9ae10a0459aef98bdf",
-        "datetime": 1794520202,
+        "headline": "SoundHound AI Stock Is Down Almost 60% in 2026, but Wall Street Thinks It Can Soar 155% By the End of 2027. Here’s Why It Could Be One of the Best Buys Amid the Tech Sell-Off.",
+        "url": "https://finnhub.io/api/news?id=c6a0f82c523817942f39fa8ffcb28156e194aa6413824cd18f3beb8e221cfaa2",
+        "datetime": 1794540662,
         "source": "Yahoo"
       },
       {
-        "headline": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
-        "url": "https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349",
-        "datetime": 1794520032,
+        "headline": "NVDA Stock Heads for Worst Week In Over A Year As Jensen Huang’s CEO Saga Ends: Are Retail Traders Still Buying The Dip?",
+        "url": "https://finnhub.io/api/news?id=eeea67b8a8098645abee08ad9a730d7955126373e667affe0da0ec0fe30351ba",
+        "datetime": 1794540540,
         "source": "Yahoo"
       },
       {
-        "headline": "Anthropic IPO demand jumps to six times available shares",
-        "url": "https://finnhub.io/api/news?id=582523704ef3141ae52bb1fe11ac263421e597d5f458e197768f0052e5fa1d49",
-        "datetime": 1794520028,
+        "headline": "Is Nvidia Undervalued?",
+        "url": "https://finnhub.io/api/news?id=116208f7e168ccc699f65db5e26662ed69efb901a847a39064c4abbb72acbe93",
+        "datetime": 1794540002,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "2 No-Brainer Warren Buffett Stocks to Buy in the Post-Election Market Sell-Off and Hold Forever",
-        "url": "https://finnhub.io/api/news?id=ae04a92c68088971daa1da6c5a1be973dcf2f33db7d88a9ae10a0459aef98bdf",
-        "datetime": 1794520202,
+        "headline": "American Electric Power Company (AEP) Stock Looks Above Fair Value On Dividends",
+        "url": "https://finnhub.io/api/news?id=7766cee1973a4821db01b71e4fe90c131b331b0183e4940ba336d43011e33178",
+        "datetime": 1794540082,
         "source": "Yahoo"
       },
       {
-        "headline": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
-        "url": "https://finnhub.io/api/news?id=9cc5160a2ebbc741b7bb755b0106c2e460c494be74f1523adbd24f7348b85482",
-        "datetime": 1794519340,
+        "headline": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers?",
+        "url": "https://finnhub.io/api/news?id=65d72a35d6bd8753f397a3e903a5bba97273876b4c189482e737a2395d9d5608",
+        "datetime": 1794535442,
         "source": "Yahoo"
       },
       {
-        "headline": "Billionaire investor Bill Ackman on why he's staying bullish on Netflix",
-        "url": "https://finnhub.io/api/news?id=494d53ce91bfa517de80779ecf12199e5fd5bcbbd9d8ae3626526155046f25ff",
-        "datetime": 1794519295,
+        "headline": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
+        "url": "https://finnhub.io/api/news?id=9fcddf73069c0e54b249e2127a900f4a0832203896a98872889b0c0d96f6a59a",
+        "datetime": 1794529435,
         "source": "Yahoo"
       },
       {
-        "headline": "5 Best Stocks to Buy After Democrats’ Election Sweep, According to CIBC",
-        "url": "https://finnhub.io/api/news?id=233d081d7fbdbbf5050d52e6733f63763896f7d1e3d008944f49f5ab8040d182",
-        "datetime": 1794517809,
+        "headline": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
+        "url": "https://finnhub.io/api/news?id=daa90c1d1f6c5ec205943cb155fd28ce4c805e74b0bc3b80e9d77b70fe7ef925",
+        "datetime": 1794528000,
         "source": "Yahoo"
       },
       {
-        "headline": "System1 Announces Third Quarter 2026 Financial Results",
-        "url": "https://finnhub.io/api/news?id=9cfe1663155974a4e24203b3e211a1cb31fdc2bac81e4add6d9c52153edd7e0b",
-        "datetime": 1794517500,
+        "headline": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
+        "url": "https://finnhub.io/api/news?id=9065d293b3155149849b94771ecd903e2f64bab5f1f307bd32ecf4c084ce1640",
+        "datetime": 1794524759,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "Cathie Wood: After Huang, AI push isn’t ‘going to stop’",
-        "url": "https://finnhub.io/api/news?id=96a3c94e620a3cdd8be380153753add42b7976f2c99c68d0337d459531d2c518",
-        "datetime": 1794519660,
+        "headline": "Cathie Wood Calls Humanoid Robots a '$26 Trillion Opportunity' Over the Next 15 Years: 'Embodied AI' Could Eventually Equal '20% of Global GDP'",
+        "url": "https://finnhub.io/api/news?id=121236996a63f20c4d6cce9b68192771a6b5bdd699109a56994abc7e044df84b",
+        "datetime": 1794537017,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk Could Announce Tesla-SpaceX Merger By December: Report",
-        "url": "https://finnhub.io/api/news?id=cae1890b6bdbcde16195731b5449768b20558754f10ae6aa9aff4cc0c9e36730",
-        "datetime": 1794519332,
+        "headline": "Musk gives Cybertruck a reprieve, but many will still get refunds",
+        "url": "https://finnhub.io/api/news?id=dd022054a39b2ab6fbc63da9610f736be68168ae4afb3394057d6f0e7d16e2e2",
+        "datetime": 1794531780,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX, Telsa merger talks begin to take shape",
-        "url": "https://finnhub.io/api/news?id=f5810fcab3190306697068b352844163d0cac5eb2aca95b2f659ba0846200666",
-        "datetime": 1794518404,
+        "headline": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
+        "url": "https://finnhub.io/api/news?id=383ecf6f897beec4320ed48bd9da1a155c4211611ff169f0435fe4be0923459c",
+        "datetime": 1794529140,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX-Tesla Merger Could Come Soon: What Do Shareholders Get?",
-        "url": "https://finnhub.io/api/news?id=d96a18a8e99d730fedeceff412c836776761febfb788b277e2bdd329d6d6ec96",
-        "datetime": 1794517988,
+        "headline": "A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares",
+        "url": "https://finnhub.io/api/news?id=fd7dca6e2cff478b81ec240578b63bb0f12b3c90c2485400c6178d99bbc5a878",
+        "datetime": 1794529020,
         "source": "Yahoo"
       },
       {
-        "headline": "Musk’s SpaceX-Tesla empire moves closer, but China and Washington loom large",
-        "url": "https://finnhub.io/api/news?id=30f9e71bc86630cbaf71162c6cc6d82ca9768fe938c835f8efbd44f9fe567f87",
-        "datetime": 1794516813,
+        "headline": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
+        "url": "https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f",
+        "datetime": 1794527272,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Coinbase Fell 22% in a Month Before Its Charter Win: Is It Time to Sell, or Load Up?",
+        "url": "https://finnhub.io/api/news?id=bfa26d41fafc2dbe06656fad719651ace3363f5b607652dbd0e11b9258b67b13",
+        "datetime": 1794501339,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Coinbase’s Bank Charter Is Bad News for Circle. Here’s the $1.4 Billion That Matters",
+        "url": "https://finnhub.io/api/news?id=065e0d232b05fe20b0824d30a9fb6ea57f6c8629f9981855536edcab10878f21",
+        "datetime": 1794476421,
+        "source": "Yahoo"
+      },
       {
         "headline": "Circle Internet Group (CRCL) Expands USDC Payments And Financial Skills Across Africa",
         "url": "https://finnhub.io/api/news?id=c6e1bc8f6cc714898903e078ebf9f3f3936ec1ec75809c0d3c070d46d60cbcc7",
@@ -1270,21 +1282,21 @@
         "url": "https://finnhub.io/api/news?id=9cac6026bc5b6781aa9fe06a6b370f908bda5c158814a4a3140afc82523fedc0",
         "datetime": 1794424548,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-        "url": "https://finnhub.io/api/news?id=73bf1cd1ff93958fbd072faa91c313f72ad8dd21ffb6808f0d23bb78e9a89713",
-        "datetime": 1794423962,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "OKXICE Gets Ready for 24/7 Markets",
-        "url": "https://finnhub.io/api/news?id=f9ea0f3dd9bcc374ade8debf4b8ad6c11aea6050534eafa1798fdf426a799947",
-        "datetime": 1794422167,
-        "source": "Yahoo"
       }
     ],
     "LKNCY": [
+      {
+        "headline": "Can Keurig's New Fountain Distribution Gains Boost Its Reach?",
+        "url": "https://finnhub.io/api/news?id=cdc8f325a916884bf06f395a8a8637487bb60469bde572c9b862bbd3cb280c67",
+        "datetime": 1794503340,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Luckin Coffee Inc. Sponsored ADR (LKNCY)'s Technical Outlook is Bright After Key Golden Cross",
+        "url": "https://finnhub.io/api/news?id=01c6ab352cc4839f94cbb474d7a3df27565382cd02ad77e0db84e61e3364bc4a",
+        "datetime": 1794491701,
+        "source": "Yahoo"
+      },
       {
         "headline": "Wall Street Analysts Predict a 28.89% Upside in Luckin Coffee (LKNCY): Here's  What You Should Know",
         "url": "https://finnhub.io/api/news?id=129744aeaabd4238ee615774c6f6091da34260afbce2582efea2dde636378b8f",
@@ -1302,21 +1314,15 @@
         "url": "https://finnhub.io/api/news?id=640c219fa3e727e636d9af51dac2c8c775d812efae5701927322c2bb8fcd6321",
         "datetime": 1794415501,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Earnings Estimates Rising for Luckin Coffee (LKNCY): Will It Gain?",
-        "url": "https://finnhub.io/api/news?id=75f153d3bf5fecf84da7e0d158d194cc592aeea26946178f3ff2807de79d2129",
-        "datetime": 1794414002,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "LKNCY vs. CCEP: Which Stock Is the Better Value Option?",
-        "url": "https://finnhub.io/api/news?id=b8bd198e4b16f99016b16852f0736c96399dd4e6d55e436b994334c351777acf",
-        "datetime": 1794411604,
-        "source": "Yahoo"
       }
     ],
     "BTC": [
+      {
+        "headline": "Bitcoin dips below $70,000 as selloff gathers pace",
+        "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+        "datetime": 1794541020,
+        "source": "CoinDesk"
+      },
       {
         "headline": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
         "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1340,12 +1346,6 @@
         "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
         "datetime": 1794483000,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-        "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1794470808,
-        "source": "Cointelegraph"
       }
     ],
     "ETH": [
@@ -1414,6 +1414,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "User-owned AI, now on your Mac.\n\nNEAR AI Gateway brings private models to Claude Code, Codex and OpenCode. You decide what leaves your machine, and the traces you choose to share earn NEAR AI Cloud cr",
+        "url": "https://x.com/NEARProtocol/status/2121041723992216043",
+        "datetime": 1794530728,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "NEAR Hackathon Track: Investment Thesis.\n⠀\nMake the long-term case for NEAR and back it with onchain analytics, live dashboards and models anyone can re-run.\n⠀\nJudged on the evidence, not the convicti",
         "url": "https://x.com/NEARProtocol/status/2121012411637387347",
         "datetime": 1794523740,
@@ -1423,12 +1429,6 @@
         "headline": "Hack Your Own Code With Private Uncensored AI",
         "url": "https://x.com/NEARProtocol/status/2120939838295699670",
         "datetime": 1794506437,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Live Security Webinar today at 1PM EST.\n\nJoin @zmanian as he audits his code live with private, uncensored models on @near_ai.\n\nYou’ll see:\n• How to use AI from triage → investigation\n• Why untrusted ",
-        "url": "https://x.com/NEARProtocol/status/2120926650590237109",
-        "datetime": 1794503293,
         "source": "@NEARProtocol"
       }
     ],
