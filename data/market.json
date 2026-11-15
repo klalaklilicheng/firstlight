@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:34:26.063Z",
+  "updated_at": "2026-11-15T07:23:49.404Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 63778,
-      "change_pct": -6.41
+      "price": 64460,
+      "change_pct": -3.94
     },
     {
       "symbol": "ETH",
-      "price": 1754.04,
-      "change_pct": -8.94
+      "price": 1793.78,
+      "change_pct": -5.18
     },
     {
       "symbol": "SOL",
-      "price": 69.82,
-      "change_pct": -10.5
+      "price": 70.43,
+      "change_pct": -6.3
     },
     {
       "symbol": "HYPE",
-      "price": 64.42,
-      "change_pct": -10.04
+      "price": 65.37,
+      "change_pct": -5.5
     },
     {
       "symbol": "ZEC",
-      "price": 858.41,
-      "change_pct": -7.68
+      "price": 898.23,
+      "change_pct": -0.92
     },
     {
       "symbol": "TAO",
-      "price": 183.4,
-      "change_pct": -14.47
+      "price": 187.61,
+      "change_pct": -8.99
     },
     {
       "symbol": "SKY",
-      "price": 1185.8,
-      "change_pct": -9.4
+      "price": 1275.22,
+      "change_pct": -1.13
     },
     {
       "symbol": "AAVE",
-      "price": 99.45,
-      "change_pct": -10.88
+      "price": 105.42,
+      "change_pct": -2.09
     },
     {
       "symbol": "BNB",
-      "price": 577.17,
-      "change_pct": -8.34
+      "price": 590.49,
+      "change_pct": -4.05
     },
     {
       "symbol": "NEAR",
-      "price": 3.03,
-      "change_pct": -11.98
+      "price": 3.14,
+      "change_pct": -5.64
     },
     {
       "symbol": "DOGE",
-      "price": 0.057235,
-      "change_pct": -11.12
+      "price": 0.057927,
+      "change_pct": -7.18
     },
     {
       "symbol": "SPACEX",
-      "price": 526.11,
-      "change_pct": -2.15
+      "price": 529.25,
+      "change_pct": -0.23
     }
   ],
   "earnings": {
@@ -475,6 +475,24 @@
   },
   "news": [
     {
+      "headline": "RWA 协议 stUSDT 在 TVL 达到 $2.3B 峰值三年后逐渐退出",
+      "summary": "stUSDT 团队没有透露终止 RWA 协议的原因，但向持有者保证所有基础资产仍得到充分支持。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1794724046,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "随着资金撤离加密货币，XRP 跌至 2024 年 11 月以来的最低水平",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "datetime": 1794711057,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "SpaceX 历史性地首次登上了 Starship 火箭的上级",
       "summary": "Starship Test Flight 15 标志着埃隆·马斯克的公司首次尝试同时捕获火箭的助推器和上部级。",
       "source": "CNBC",
@@ -725,24 +743,6 @@
       "datetime": 1794597587,
       "category": "top news",
       "related": ""
-    },
-    {
-      "headline": "高盛希望通过 Anthropic 的 IPO 两次获利。以下是如何以及还有谁想要这样做",
-      "summary": "在共同主导此次发行的同时，高盛还希望尝试管理该交易创造的数十亿美元的新财富。这不是唯一的一个。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
-      "datetime": 1794595445,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "Anthropic IPO 狂潮加剧市场不安，比特币暴跌至 68,000 美元",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-      "datetime": 1794595198,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -813,12 +813,12 @@
     }
   ],
   "btc_score": {
-    "score": 26.9,
+    "score": 28,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 10.5,
-    "weekly_score": 16.4,
-    "btc_price": 64195.2,
+    "weekly_score": 17.5,
+    "btc_price": 64476,
     "fear_greed": 14,
     "indicators": [
       {
@@ -837,14 +837,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": 0.005768,
-        "score": 48,
+        "value": 0.004003,
+        "score": 47,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.11,
+        "value": 2.72,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -858,29 +858,29 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.4,
-        "score": 30,
+        "value": 1.32,
+        "score": 27,
         "weight": 12,
         "group": "weekly"
       },
       {
         "name": "NUPL",
-        "value": 0.211,
-        "score": 46,
+        "value": 0.161,
+        "score": 41,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.942,
-        "score": 10,
+        "value": 1.049,
+        "score": 12,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.966,
-        "score": 16,
+        "value": 0.977,
+        "score": 27,
         "weight": 8,
         "group": "weekly"
       },
@@ -907,15 +907,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.7,
+        "value": 34.9,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -12.3,
-        "score": 42,
+        "value": 71.2,
+        "score": 65,
         "weight": 4,
         "group": "weekly"
       }
@@ -1061,7 +1061,7 @@
         "text": "No doubt a choppy market, but lots of budding strength in the long-tail while $BTC bleeds, suggests to me the market isn't losing its risk appetite, rather long-term oriented investors continue building positions in places where they see value. There's a formidable wall of worry",
         "url": "https://x.com/cburniske/status/2114800328956940404",
         "time": "Mon Oct 26 19:24:24 +0000 2026",
-        "likes": 1042,
+        "likes": 1041,
         "retweets": 65
       }
     ],
@@ -1070,28 +1070,28 @@
         "text": "most ppl can’t comprehend the level this man operates both at the macro (above tweet) and the micro:",
         "url": "https://x.com/QwQiao/status/2121575579912671477",
         "time": "Sat Nov 14 12:06:49 +0000 2026",
-        "likes": 20,
+        "likes": 22,
         "retweets": 1
       },
       {
         "text": "before i became an nvidia shareholder i watched every jensen huang appearance i could find. its mind boggling how almost every prediction over he made the past 3 decades panned out.\n\nhad ai compile the list:\n\n1/ 1999, GeForce 256 launch: \"The GPU is a major breakthrough for the",
         "url": "https://x.com/QwQiao/status/2121575116676980935",
         "time": "Sat Nov 14 12:04:59 +0000 2026",
-        "likes": 201,
-        "retweets": 18
+        "likes": 229,
+        "retweets": 21
       },
       {
         "text": "epitome of founder mode\n\nthis man jensen huang is IRREPLACEABLE https://t.co/tYvvSYuS34",
         "url": "https://x.com/QwQiao/status/2121304444637958579",
         "time": "Fri Nov 13 18:09:26 +0000 2026",
-        "likes": 11569,
-        "retweets": 670
+        "likes": 11600,
+        "retweets": 671
       },
       {
         "text": "i argued many years ago that jensen was on the right side of history to want to sell chips to china (and ofc got a lot of shit for saying this).\n\nwe can debate theory all we want, but the clearest empirical evidence from the past year is that the chinese gov explicitly and",
         "url": "https://x.com/QwQiao/status/2121229280545780006",
         "time": "Fri Nov 13 13:10:45 +0000 2026",
-        "likes": 656,
+        "likes": 657,
         "retweets": 31
       },
       {
@@ -1107,35 +1107,35 @@
         "text": "See you next ₿lock, Laura. https://t.co/PiJNP1Jc0V",
         "url": "https://x.com/saylor/status/2121724034715144572",
         "time": "Sat Nov 14 21:56:44 +0000 2026",
-        "likes": 2360,
-        "retweets": 191
+        "likes": 3265,
+        "retweets": 268
       },
       {
         "text": "Watch my full Cantor Convergence keynote on YouTube. https://t.co/k58mg2Zdyk https://t.co/ROJ37PArpG",
         "url": "https://x.com/saylor/status/2121656320449249354",
         "time": "Sat Nov 14 17:27:39 +0000 2026",
-        "likes": 236,
+        "likes": 265,
         "retweets": 30
       },
       {
         "text": "On Wednesday at @Official_Cantor Convergence, I discussed how bank adoption could drive Bitcoin’s next bull market and how Strategy transforms Digital Capital into Digital Credit and Digital Equity.\n\n00:23 - Bitcoin’s next bull market: bank adoption, macro tailwinds, and https://t.co/5bLiEnLUxj",
         "url": "https://x.com/saylor/status/2121650989782425631",
         "time": "Sat Nov 14 17:06:28 +0000 2026",
-        "likes": 1647,
-        "retweets": 230
+        "likes": 1905,
+        "retweets": 252
       },
       {
         "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit. Over the past month, Bitcoin fell 17.3%. STRC’s price was essentially flat, and dividends brought its total return to +1.0%. https://t.co/zzDGHuvIC0",
         "url": "https://x.com/saylor/status/2121599681427869760",
         "time": "Sat Nov 14 13:42:36 +0000 2026",
-        "likes": 3555,
-        "retweets": 309
+        "likes": 3826,
+        "retweets": 340
       },
       {
         "text": "Let $STRC do the heavy lifting. https://t.co/BvWWj65Cit",
         "url": "https://x.com/saylor/status/2120860530986336551",
         "time": "Thu Nov 12 12:45:28 +0000 2026",
-        "likes": 3629,
+        "likes": 3632,
         "retweets": 300
       }
     ],
@@ -1180,37 +1180,43 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Dan Ives Valued Nvidia at “$225 Without Jensen.” Now the Stock Trades Below It",
-        "url": "https://finnhub.io/api/news?id=e208f3bae3edea9ffc60d15be033e3cbd0a48280a24bcdf9b42ea60c6f03e5f1",
-        "datetime": 1794697902,
+        "headline": "Nvidia earnings — along with the baggage — top next week's markets",
+        "url": "https://finnhub.io/api/news?id=01ca3b198fea0fa72d3fcc4221047ebb5717a29bf9944e80c9e69c051e493825",
+        "datetime": 1794721020,
         "source": "Yahoo"
       },
       {
-        "headline": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
-        "url": "https://finnhub.io/api/news?id=c7be7c32e8bc27764d4320a46a303663edd66c474c3d83d179f58655546a67d7",
-        "datetime": 1794696482,
+        "headline": "1 ETF That Can Turn $500 Monthly Into a $600,000 Portfolio That Pays Out $18,000 Annually",
+        "url": "https://finnhub.io/api/news?id=52dcda090087f56c379acfecb0d2755600092da568eb73f782a17eea74ab787e",
+        "datetime": 1794716401,
         "source": "Yahoo"
       },
       {
-        "headline": "George Soros’ firm builds $340 million stake in a resurgent tech stock",
-        "url": "https://finnhub.io/api/news?id=d7262d4eb0d70c8e057d59dec33965a05b699c02e5697b3acf538552c63e2c4a",
-        "datetime": 1794695580,
+        "headline": "Dow Jones Futures Loom, Bitcoin Dives In Shaky Market Rally; Nvidia Earnings, Anthropic IPO Ahead",
+        "url": "https://finnhub.io/api/news?id=1a0c0b07d6c3fd14e68239d94818345e89fa07396ce155ed23b8a21510c9b31d",
+        "datetime": 1794715544,
         "source": "Yahoo"
       },
       {
-        "headline": "ASML vs. NVIDIA: Which Technology Stock Is a Better Buy for 2027?",
-        "url": "https://finnhub.io/api/news?id=2a652f9ff4264cf0c0451a92ef62c2ddde9638eaa4effc94da3629e4648b211c",
-        "datetime": 1794694442,
+        "headline": "Michael Burry sees 2 chip winners in Nvidia’s shake-up",
+        "url": "https://finnhub.io/api/news?id=61e6a922ed970c7c60dcb0ef95fb9974c12a06e543706e494078e0b639bec088",
+        "datetime": 1794713580,
         "source": "Yahoo"
       },
       {
-        "headline": "3 AI Chip Stocks Retail Investors May Be Missing Beyond Nvidia",
-        "url": "https://finnhub.io/api/news?id=f342e107bafaec9331f93d75814d0bc8af1c75422a14e3d29269ae8979138e32",
-        "datetime": 1794694146,
+        "headline": "Nov. 25 Will Be a Critical Day for the Stock Market",
+        "url": "https://finnhub.io/api/news?id=0c14b900197487a3f5f130cbc7b1f9ff5bafa2c4916fb6cd29ee6f1948948d01",
+        "datetime": 1794712802,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
+      {
+        "headline": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+        "url": "https://finnhub.io/api/news?id=928cc090be6e7173e47fbce046ee83a59fef5534dcc5e978df97418e315fcf12",
+        "datetime": 1794713438,
+        "source": "Yahoo"
+      },
       {
         "headline": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
         "url": "https://finnhub.io/api/news?id=f108095735710df780cee5d95409e144ce4f3de40be2a78e4c0e20c0bb6ab9a8",
@@ -1234,15 +1240,21 @@
         "url": "https://finnhub.io/api/news?id=903bf309c05b3b6dcdc4f12da127f74fda96c206911028f773cce73acac473f7",
         "datetime": 1794671431,
         "source": "Yahoo"
-      },
-      {
-        "headline": "AMD Just Beat Nvidia by the Widest Margin Since 1999",
-        "url": "https://finnhub.io/api/news?id=710af67290595198117a8ecffe16cbd172e6d557c721cf6073c755cb6692621c",
-        "datetime": 1794668869,
-        "source": "Yahoo"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+        "url": "https://finnhub.io/api/news?id=928cc090be6e7173e47fbce046ee83a59fef5534dcc5e978df97418e315fcf12",
+        "datetime": 1794713438,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tesla makes major Cybercab announcement as driverless vehicle goes on sale",
+        "url": "https://finnhub.io/api/news?id=338e012d30a344c4ab17d41a803a29240bd9e46362df7220609bc2d202a9a259",
+        "datetime": 1794707368,
+        "source": "Yahoo"
+      },
       {
         "headline": "Elon Musk's Tesla and SpaceX Lost More Than $420 Billion in Combined Market Value in Two Days After Democrats Swept the Midterms, With Investors Fearing New Congressional Probes. Here's Why That Political Risk Matters for Shareholders",
         "url": "https://finnhub.io/api/news?id=c7be7c32e8bc27764d4320a46a303663edd66c474c3d83d179f58655546a67d7",
@@ -1259,18 +1271,6 @@
         "headline": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
         "url": "https://finnhub.io/api/news?id=1f79e4195114993cee92157d7a418ddd5f20890d4ef7e5497e0321b2ce899249",
         "datetime": 1794686684,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla (TSLA) Breaks Ground On $10 Billion Texas Solar Factory As EU Approvals Advance",
-        "url": "https://finnhub.io/api/news?id=9a6c04727c122700b7fd39085c59e940444030fd2153180e0b2ba6fe603aa0fd",
-        "datetime": 1794683248,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Just Started Taking Orders for a Car With No Steering Wheel",
-        "url": "https://finnhub.io/api/news?id=46a8d4fac9cd14a2a54c3ab392f2bee87cabf97174c3b5fdb6e0e9cca0025391",
-        "datetime": 1794678537,
         "source": "Yahoo"
       }
     ],
