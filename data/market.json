@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:08:48.018Z",
+  "updated_at": "2026-11-15T20:41:27.522Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 64589,
-      "change_pct": -1.96
+      "price": 65055,
+      "change_pct": -0.68
     },
     {
       "symbol": "ETH",
-      "price": 1801.98,
-      "change_pct": -2.71
+      "price": 1829.94,
+      "change_pct": 0.3
     },
     {
       "symbol": "SOL",
-      "price": 71.15,
-      "change_pct": -4.02
+      "price": 71.91,
+      "change_pct": 0.26
     },
     {
       "symbol": "HYPE",
-      "price": 67.24,
-      "change_pct": -0.14
+      "price": 67.7,
+      "change_pct": 5.49
     },
     {
       "symbol": "ZEC",
-      "price": 888.55,
-      "change_pct": 0.64
+      "price": 909.88,
+      "change_pct": 9.14
     },
     {
       "symbol": "TAO",
-      "price": 189.95,
-      "change_pct": -4.9
+      "price": 192.94,
+      "change_pct": 1.69
     },
     {
       "symbol": "SKY",
-      "price": 1231.33,
-      "change_pct": -2.3
+      "price": 1252.85,
+      "change_pct": 1.44
     },
     {
       "symbol": "AAVE",
-      "price": 105.98,
-      "change_pct": 1.99
+      "price": 109,
+      "change_pct": 8.09
     },
     {
       "symbol": "BNB",
-      "price": 589.01,
-      "change_pct": -1.67
+      "price": 593.03,
+      "change_pct": 1.03
     },
     {
       "symbol": "NEAR",
-      "price": 3.11,
-      "change_pct": -3.12
+      "price": 3.2,
+      "change_pct": 5.72
     },
     {
       "symbol": "DOGE",
-      "price": 0.058291,
-      "change_pct": -4.89
+      "price": 0.05899,
+      "change_pct": 0.04
     },
     {
       "symbol": "SPACEX",
-      "price": 534.22,
-      "change_pct": 1.11
+      "price": 536.79,
+      "change_pct": 1.26
     }
   ],
   "earnings": {
@@ -475,11 +475,29 @@
   },
   "news": [
     {
+      "headline": "未来一周我们在股市中关注的三件大事",
+      "summary": "Nvidia 和 Anthropic 将在人工智能行业的关键一周分享焦点。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "datetime": 1794756380,
+      "category": "top news",
+      "related": ""
+    },
+    {
       "headline": "企业区块链将起死回生",
       "summary": "随着可扩展性、隐私工具和链上流动性的改善，企业最终可能拥有使企业区块链发挥作用的基础设施。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1794753000,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币内部人士并不指望国会“跛脚鸭”会议上的一线希望",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "datetime": 1794751200,
       "category": "crypto",
       "related": ""
     },
@@ -725,24 +743,6 @@
       "datetime": 1794606567,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "他们培训人们避免“蜜罐”诈骗——以下是他们发现的常见危险信号：“被通缉的感觉真好”",
-      "summary": "企业安全公司对公司及其员工进行有关警惕蜜罐和其他社会工程攻击的策略的培训。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/make-it/2026/11/13/honeypot-scam-red-flags.html",
-      "datetime": 1794603985,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "由于交易放缓影响盈利，Kraken 母公司 Payward 扩大市场份额",
-      "summary": "尽管其在全球现货交易中的份额几乎翻倍且收费服务有所扩张，但无限循环无限发展有限公司的调整后 EBITDA 仍同比下降 66% 至 6,000 万美元。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1794603699,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -765,6 +765,11 @@
       "company": "Anthropic",
       "news": [
         {
+          "headline": "未来一周我们在股市中关注的三件大事",
+          "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+          "datetime": 1794756380
+        },
+        {
           "headline": "认识 Anthropic 的七位联合创始人",
           "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
           "datetime": 1794657601
@@ -773,11 +778,6 @@
           "headline": "高盛希望通过 Anthropic 的 IPO 两次获利。以下是如何以及还有谁想要这样做",
           "url": "https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html",
           "datetime": 1794595445
-        },
-        {
-          "headline": "Anthropic IPO 狂潮加剧市场不安，比特币暴跌至 68,000 美元",
-          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-          "datetime": 1794595198
         }
       ]
     },
@@ -813,12 +813,12 @@
     }
   ],
   "btc_score": {
-    "score": 28.4,
+    "score": 26.2,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
     "daily_score": 10.4,
-    "weekly_score": 18,
-    "btc_price": 64549.3,
+    "weekly_score": 15.8,
+    "btc_price": 65078.2,
     "fear_greed": 14,
     "indicators": [
       {
@@ -837,14 +837,14 @@
       },
       {
         "name": "Funding Rate",
-        "value": -0.000174,
+        "value": 0.000952,
         "score": 45,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 2.74,
+        "value": 2.96,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -907,15 +907,15 @@
       },
       {
         "name": "周线 RSI",
-        "value": 34.9,
+        "value": 35.2,
         "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": 115.8,
-        "score": 77,
+        "value": -85.4,
+        "score": 22,
         "weight": 4,
         "group": "weekly"
       }
@@ -1070,73 +1070,73 @@
         "text": "i think ppl tend to underestimate the importance of a generational leader long term, and overestimate it short term.",
         "url": "https://x.com/QwQiao/status/2121954877249056898",
         "time": "Sun Nov 15 13:14:01 +0000 2026",
-        "likes": 10,
+        "likes": 25,
         "retweets": 0
       },
       {
         "text": "nvda with jensen is a stock u can hold for 10-20 yrs and sleep well at night (he’s only 63).\n\nnvda without jensen is probably still going to do well over the next 3-5 years. the engineering talent, the cuda moat, and the supply chain integration don’t go away overnight.\n\nalso",
         "url": "https://x.com/QwQiao/status/2121941178459283640",
         "time": "Sun Nov 15 12:19:35 +0000 2026",
-        "likes": 153,
-        "retweets": 8
+        "likes": 241,
+        "retweets": 10
       },
       {
         "text": "most ppl can’t comprehend the level this man operates both at the macro (above tweet) and the micro:",
         "url": "https://x.com/QwQiao/status/2121575579912671477",
         "time": "Sat Nov 14 12:06:49 +0000 2026",
-        "likes": 23,
+        "likes": 24,
         "retweets": 1
       },
       {
         "text": "before i became an nvidia shareholder i watched every jensen huang appearance i could find. its mind boggling how almost every prediction over he made the past 3 decades panned out.\n\nhad ai compile the list:\n\n1/ 1999, GeForce 256 launch: \"The GPU is a major breakthrough for the",
         "url": "https://x.com/QwQiao/status/2121575116676980935",
         "time": "Sat Nov 14 12:04:59 +0000 2026",
-        "likes": 237,
+        "likes": 239,
         "retweets": 21
       },
       {
         "text": "epitome of founder mode\n\nthis man jensen huang is IRREPLACEABLE https://t.co/tYvvSYuS34",
         "url": "https://x.com/QwQiao/status/2121304444637958579",
         "time": "Fri Nov 13 18:09:26 +0000 2026",
-        "likes": 11608,
-        "retweets": 673
+        "likes": 11610,
+        "retweets": 674
       }
     ],
     "saylor": [
       {
+        "text": "When you want to understand what’s happening with Bitcoin, start with the data. Strategy’s Bitcoin dashboard brings the key metrics into focus. https://t.co/rXyEcWbRTF https://t.co/HYHwr4cHBn",
+        "url": "https://x.com/saylor/status/2122062138126823754",
+        "time": "Sun Nov 15 20:20:14 +0000 2026",
+        "likes": 849,
+        "retweets": 79
+      },
+      {
         "text": "This dip could use a little orange. https://t.co/b0LzB94RAP",
         "url": "https://x.com/saylor/status/2121960852643545184",
         "time": "Sun Nov 15 13:37:46 +0000 2026",
-        "likes": 6966,
-        "retweets": 570
+        "likes": 13752,
+        "retweets": 1006
       },
       {
         "text": "See you next ₿lock, Laura. https://t.co/PiJNP1Jc0V",
         "url": "https://x.com/saylor/status/2121724034715144572",
         "time": "Sat Nov 14 21:56:44 +0000 2026",
-        "likes": 3858,
-        "retweets": 339
+        "likes": 4095,
+        "retweets": 367
       },
       {
         "text": "Watch my full Cantor Convergence keynote on YouTube. https://t.co/k58mg2Zdyk https://t.co/ROJ37PArpG",
         "url": "https://x.com/saylor/status/2121656320449249354",
         "time": "Sat Nov 14 17:27:39 +0000 2026",
-        "likes": 297,
-        "retweets": 33
+        "likes": 319,
+        "retweets": 35
       },
       {
         "text": "On Wednesday at @Official_Cantor Convergence, I discussed how bank adoption could drive Bitcoin’s next bull market and how Strategy transforms Digital Capital into Digital Credit and Digital Equity.\n\n00:23 - Bitcoin’s next bull market: bank adoption, macro tailwinds, and https://t.co/5bLiEnLUxj",
         "url": "https://x.com/saylor/status/2121650989782425631",
         "time": "Sat Nov 14 17:06:28 +0000 2026",
-        "likes": 2110,
-        "retweets": 284
-      },
-      {
-        "text": "Bitcoin is Digital Capital. Strategy transforms it into Digital Credit. Over the past month, Bitcoin fell 17.3%. STRC’s price was essentially flat, and dividends brought its total return to +1.0%. https://t.co/zzDGHuvIC0",
-        "url": "https://x.com/saylor/status/2121599681427869760",
-        "time": "Sat Nov 14 13:42:36 +0000 2026",
-        "likes": 4109,
-        "retweets": 362
+        "likes": 2231,
+        "retweets": 302
       }
     ],
     "viktorfischer": [
@@ -1180,97 +1180,97 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "The Evidence Is Piling Up: AMD Could Be the Best Artificial Intelligence (AI) Stock to Buy Amid the Sell-Off",
-        "url": "https://finnhub.io/api/news?id=365cb4847dedc12dec199cd1cecdb5de0fe1be57cf84f44c9e8875c061be7966",
-        "datetime": 1794750302,
+        "headline": "This 27-Year-Old Warning From Warren Buffett Is More Important Than Ever for Investors Today",
+        "url": "https://finnhub.io/api/news?id=9f49210e3f889fa554811f726c03408d4f7531344288b48e785fc1e79a53cd60",
+        "datetime": 1794772201,
         "source": "Yahoo"
       },
       {
-        "headline": "Dow Jones Futures Loom For Shaky Market Rally As Bitcoin Dives; Nvidia Earnings, Anthropic IPO Ahead",
-        "url": "https://finnhub.io/api/news?id=085080e8fea49ccfc95b6d9529e3d067eeca739a00fb426f27df40995d12f239",
-        "datetime": 1794750154,
+        "headline": "Should You Buy Sandisk Before Its 8-for-1 Stock Split on Nov. 19?",
+        "url": "https://finnhub.io/api/news?id=ca4e51f29289099ef98c71ce6fad0d063d75f0d46283280ecf12ab2419131a09",
+        "datetime": 1794772142,
         "source": "Yahoo"
       },
       {
-        "headline": "Over 100,000 Want Jensen Huang Back. Nvidia Stock’s Real Test Comes Tuesday.",
-        "url": "https://finnhub.io/api/news?id=8682e1b0f854345d23c2d567a37fae8346cdfd86b2d95b6b22ad6345509b6f27",
-        "datetime": 1794749828,
+        "headline": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
+        "url": "https://finnhub.io/api/news?id=918b3d9964d145ca3570ca6ae9bf7d64b5d0152d70f9ad8abe18cc6f64c29061",
+        "datetime": 1794770629,
         "source": "Yahoo"
       },
       {
-        "headline": "Why falling AI token prices aren’t the negative for AI providers one might assume",
-        "url": "https://finnhub.io/api/news?id=0b52d7c3d6ba80ab544b060245abeda90b01818616a3b08ebcdd2389cfc3201b",
-        "datetime": 1794749731,
+        "headline": "Nike’s First Investor Day in 9 Years Is Days Away: 3 Numbers You Need to Know Before Nov. 17",
+        "url": "https://finnhub.io/api/news?id=62210c42f7a3f644e6c41cf5566068147a3dab79080f0a0b93f454b9610f02a5",
+        "datetime": 1794770402,
         "source": "Yahoo"
       },
       {
-        "headline": "Bitcoin ETF Flows Can Whipsaw: How to Know If You Should Ride It Out",
-        "url": "https://finnhub.io/api/news?id=1d7ecbc063f71d4f1934bdcd86e960530746a545ef0fbd15f1c09ec0e6780337",
-        "datetime": 1794749702,
+        "headline": "SoFi Expects About 50% Earnings Growth in 2027 and Says It Won't Need to Raise New Capital",
+        "url": "https://finnhub.io/api/news?id=545b0b8cfb8234721ccad5ede442d24d9f7ffad0018e0c60935e8ffd0fc8aaa5",
+        "datetime": 1794770340,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Why falling AI token prices aren’t the negative for AI providers one might assume",
-        "url": "https://finnhub.io/api/news?id=0b52d7c3d6ba80ab544b060245abeda90b01818616a3b08ebcdd2389cfc3201b",
-        "datetime": 1794749731,
+        "headline": "Why Fervo Energy Stock Surged This Week",
+        "url": "https://finnhub.io/api/news?id=136a8fcef04f1c9b3b3aa9bf45315a5c9f88dd5aca05f8db9e72e09386884cd5",
+        "datetime": 1794769324,
         "source": "Yahoo"
       },
       {
-        "headline": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
-        "url": "https://finnhub.io/api/news?id=928cc090be6e7173e47fbce046ee83a59fef5534dcc5e978df97418e315fcf12",
-        "datetime": 1794713438,
+        "headline": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+        "url": "https://finnhub.io/api/news?id=f373592a9b43826f58bad7f61b2f82fb7fc0b1604518e1ffbbe05428883b5a17",
+        "datetime": 1794766190,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX’s Starship Makes History With First-Ever Mechazilla Catch — Musk, Hegseth and Trump Jr. React",
-        "url": "https://finnhub.io/api/news?id=1ac5d899dd98b6f5637b2e531c68ef36166a30c89f80b02aabb2e06f02aa49cf",
-        "datetime": 1794708899,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% Drop Could Cost Him $2,076",
-        "url": "https://finnhub.io/api/news?id=f108095735710df780cee5d95409e144ce4f3de40be2a78e4c0e20c0bb6ab9a8",
-        "datetime": 1794697426,
+        "headline": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
+        "url": "https://finnhub.io/api/news?id=d6da09e81d986bd3e0e36c533b314401a7763bf13c8fad26304d4c785bce04ec",
+        "datetime": 1794765900,
         "source": "Yahoo"
       },
       {
-        "headline": "Planet Labs PBC vs. Red Cat: Which Industrials Stock Is a Better Buy for 2027?",
-        "url": "https://finnhub.io/api/news?id=9ad4592475103d0ad1cfe53f215ec0b342314746fefe601f503228e370c0d137",
-        "datetime": 1794680402,
+        "headline": "Elon Musk Warns Nvidia Will Lose ‘Critical Deals’ Without Jensen Huang",
+        "url": "https://finnhub.io/api/news?id=5b28d62004f77a88654d9aef711d24dc3f7e8b8feac6e07ab1a73626a0fc95da",
+        "datetime": 1794761946,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Michael Burry Warned AI Chips Would Lose Value Fast. New Data Suggests He Was Wrong",
+        "url": "https://finnhub.io/api/news?id=d11164976634e178daa1ce40db9fac30670449db2ba1df283c2bdc1cc249e813",
+        "datetime": 1794760628,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "3 Growth Stocks With Revenue Growth Over 18%",
-        "url": "https://finnhub.io/api/news?id=03c256afc4b77507719bba0f815cc6e6a894eed2f3ed8051ec65aa9e74395c2b",
-        "datetime": 1794741038,
+        "headline": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
+        "url": "https://finnhub.io/api/news?id=d6da09e81d986bd3e0e36c533b314401a7763bf13c8fad26304d4c785bce04ec",
+        "datetime": 1794765900,
         "source": "Yahoo"
       },
       {
-        "headline": "This Week in TSLA: 24/7 Robotaxis, Cybertruck-Based SUV, $10 Billion Solar Bet and More",
-        "url": "https://finnhub.io/api/news?id=ca8329334eddb57be756137561b2eb7fab2d51a7155690f3d2a55aa7179f7797",
-        "datetime": 1794736755,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Son of ex-Alamo Rent a Car owner went from hip hop label founder to lithium leader. He’s even eyeing the White House",
-        "url": "https://finnhub.io/api/news?id=574a92ea5892bdf0341a4e8a3a61ea18b017fe8c492f25f0822bcaab3e908b8c",
-        "datetime": 1794729900,
+        "headline": "Why Dec. 9 Could Be a Huge Day for Rivian Investors",
+        "url": "https://finnhub.io/api/news?id=38ab1ef25864ad4d32abfffe3fb50fdc101fae3ceabe27aba224e24236239b4a",
+        "datetime": 1794760502,
         "source": "Yahoo"
       },
       {
-        "headline": "‘Tesla of China’ could make cars in Britain as Burnham considers tariffs",
-        "url": "https://finnhub.io/api/news?id=a8043e4806f892a1b5ae43b199e5303cec6df49f77240f099c3a9ee71e390bf2",
-        "datetime": 1794726000,
+        "headline": "‘No further investment without Jensen’: Billionaire stops buying Nvidia as Musk and top funds rally behind Huang",
+        "url": "https://finnhub.io/api/news?id=d569d565d2c99a108b930f26e3cfcf73e26cb030803bf9e2cbf44f8bdb964a15",
+        "datetime": 1794760500,
         "source": "Yahoo"
       },
       {
-        "headline": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
-        "url": "https://finnhub.io/api/news?id=928cc090be6e7173e47fbce046ee83a59fef5534dcc5e978df97418e315fcf12",
-        "datetime": 1794713438,
+        "headline": "Tesla Is Down 13% in 2026 While the S&P 500 Is Up. Here’s the 1 Catalyst Left This Year That Could Flip That.",
+        "url": "https://finnhub.io/api/news?id=172f9229c30ad2e88799f58ef01c51cd4b7633aa1e88b2b95df75b694dab996e",
+        "datetime": 1794752102,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "A Tesla-SpaceX Merger Could Create the World’s Biggest Company, Fulfilling Musk’s Old Fascination",
+        "url": "https://finnhub.io/api/news?id=d029597fcbc7d6e6e4a94ba6b6118ad0edfa7ea6d981e52f69eadd5332a59fbf",
+        "datetime": 1794750126,
         "source": "Yahoo"
       }
     ],
@@ -1457,7 +1457,20 @@
       }
     ],
     "HYPE": [],
-    "TAO": [],
+    "TAO": [
+      {
+        "headline": "The internet’s computer, run by everyone.\n#sn24",
+        "url": "https://x.com/bittensor/status/2122048970130116900",
+        "datetime": 1794770874,
+        "source": "@bittensor"
+      },
+      {
+        "headline": "SN116",
+        "url": "https://x.com/bittensor/status/2122021230480081088",
+        "datetime": 1794764261,
+        "source": "@bittensor"
+      }
+    ],
     "NEAR": [
       {
         "headline": "October was the highest revenue-generating month all-time for NEAR Intents.",
