@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:04:34.611Z",
+  "updated_at": "2026-11-20T07:55:38.164Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 36.66,
-      "change_pct": 1.38
+      "price": 37.67,
+      "change_pct": 2.75
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 61999,
-      "change_pct": -1.37
+      "price": 61857,
+      "change_pct": -2.83
     },
     {
       "symbol": "ETH",
-      "price": 1758.97,
-      "change_pct": -0.79
+      "price": 1752,
+      "change_pct": -2.73
     },
     {
       "symbol": "SOL",
-      "price": 73.18,
-      "change_pct": -0.25
+      "price": 72.69,
+      "change_pct": -2.77
     },
     {
       "symbol": "HYPE",
-      "price": 67,
-      "change_pct": 0.3
+      "price": 66.03,
+      "change_pct": -3.08
     },
     {
       "symbol": "ZEC",
-      "price": 894.94,
-      "change_pct": -1.75
+      "price": 852.37,
+      "change_pct": -9.2
     },
     {
       "symbol": "TAO",
-      "price": 192.65,
-      "change_pct": 0.49
+      "price": 187.37,
+      "change_pct": -4.77
     },
     {
       "symbol": "SKY",
-      "price": 1077.94,
-      "change_pct": -7.31
+      "price": 1019.46,
+      "change_pct": -6.69
     },
     {
       "symbol": "AAVE",
-      "price": 104.74,
-      "change_pct": -3.85
+      "price": 103.71,
+      "change_pct": -5.11
     },
     {
       "symbol": "BNB",
-      "price": 580.64,
-      "change_pct": -0.08
+      "price": 571.89,
+      "change_pct": -2.88
     },
     {
       "symbol": "NEAR",
-      "price": 3.21,
-      "change_pct": -2.32
+      "price": 3.05,
+      "change_pct": -10.82
     },
     {
       "symbol": "DOGE",
-      "price": 0.058255,
-      "change_pct": -0.68
+      "price": 0.057561,
+      "change_pct": -3.13
     },
     {
       "symbol": "SPACEX",
-      "price": 554.88,
-      "change_pct": -2.88
+      "price": 545.73,
+      "change_pct": -4.91
     }
   ],
   "earnings": {
@@ -474,11 +474,101 @@
   },
   "news": [
     {
+      "headline": "Anthropic 81B 美元的 IPO 吸引了 SpaceX 一半的净零售购买",
+      "summary": "周四，散户投资者交易了 7.72 亿美元的 Anthropic 股票，这是 Vanda Research 自 2012 年以来首次上市交易的最高记录。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795155881,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "这就是黄金暴跌的原因，也可能对比特币造成压力",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "datetime": 1795155135,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "加密货币期货显示 Anthropic 股价周五开盘可能下跌 5%",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "datetime": 1795154908,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "这位比特币矿工出售了 267 个比特币来偿还 2200 万美元的债务。或许还是无法生存",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+      "datetime": 1795152745,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "大资金在第三季度净买入 40 亿美元的比特币基金，结束了 9 个月的抛售",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+      "datetime": 1795152051,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "以太坊的下一次重大升级被其可能破坏的应用程序推迟到 2027 年",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "datetime": 1795150688,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "VanEck 不再担任 Gemini 的比特币、以太币和 SOL ETF 托管人",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "datetime": 1795148932,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "在连续抛售之后，机构在第三季度重新买入美国比特币 ETF",
+      "summary": "资产管理公司第三季度在其美国比特币 ETF 持有量中增加了相当于 49,229 枚比特币，扭转了三个季度的净抛售情况。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795145602,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "由于科技股萎靡，Anthropic 首次公开募股后比特币触及四个月低点",
+      "summary": "",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "datetime": 1795145550,
+      "category": "crypto",
+      "related": ""
+    },
+    {
       "headline": "Ledger 首席技术官 Charles Guillemet 在公司工作九年后离职",
       "summary": "Guillemet 帮助建立了 Ledger 的 Donjon 安全实验室，并表示他的离开已经计划了几个月。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1795131842,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "美联储加息言论与华尔街股市暴跌相撞，比特币跌至 7 月以来最低水平",
+      "summary": "<p dir=\"ltr\">利率信息（如下所示：<a href=\"https://investinglive.com/central-banks/j-p-morgan-now-sees-third-straight-fed-hikes-dropping-its-december-and-done-call\" rel=\"follow\" target=\"_blank\">摩根大通现在预计美联储将连续三次加息，放弃“12 月结束”的呼吁</a>）击中",
+      "source": "Forexlive",
+      "url": "https://investinglive.com/cryptocurrency/bitcoin-hits-lowest-since-july-as-fed-hike-talk-and-a-wall-street-rout-collide/",
+      "datetime": 1795130143,
       "category": "crypto",
       "related": ""
     },
@@ -547,7 +637,7 @@
     },
     {
       "headline": "标准普尔 500 指数将连续第六次下跌。此外，强生还推出了两款关键产品",
-      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；下午交易最后一小时的可行更新。",
+      "summary": "每个工作日，投资俱乐部都会发布最后冲刺；及时发布可操作的下午更新，正好赶上交易的最后一个小时。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
       "datetime": 1795117926,
@@ -555,7 +645,7 @@
       "related": ""
     },
     {
-      "headline": "由于赛诺菲的庞贝药物短缺问题持续存在，一些患者难以获得治疗",
+      "headline": "由于赛诺菲的庞贝药物短缺持续存在，一些患者难以获得治疗",
       "summary": "赛诺菲的庞贝氏症治疗药物持续短缺，迫使一些患者错过关键剂量。他们担心自己的健康受到威胁。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
@@ -636,8 +726,8 @@
       "related": ""
     },
     {
-      "headline": "亚马逊在纽约市推出应用内推送反对 Mamdani 支持的送货法案",
-      "summary": "亚马逊大力游说反对这项拟议的立法，而纽约市市长佐赫兰·马姆达尼 (Zohran Mamdani) 今年早些时候支持该法案。",
+      "headline": "亚马逊在纽约市推出应用内推送，反对 Mamdani 支持的送货法案",
+      "summary": "亚马逊大力游说反对这项拟议的立法，而纽约市市长佐兰·马姆达尼 (Zohran Mamdani) 今年早些时候支持该法案。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
       "datetime": 1795104940,
@@ -652,96 +742,6 @@
       "datetime": 1795104568,
       "category": "crypto",
       "related": ""
-    },
-    {
-      "headline": "Anthropic 股价开盘预计较 83 美元 IPO 价格上涨 26.5%",
-      "summary": "在这家 Claude 制造商发行 813 亿美元的股票之际，OKX 在纳斯达克首次亮相之前报告其 IPO 前合约存在溢价。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1795104471,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "币安赢得针对加密货币最大盗窃案背后黑客的 65 亿美元罚款令",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-      "datetime": 1795101638,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "由于市场提示超卖，我们将买入 1 只非科技股和 1 只科技股",
-      "summary": "现在是投入资金的时候了，因为标准普尔短期振荡器终于进入了超卖区域。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/were-buying-1-non-tech-stock-and-1-tech-stock-as-the-market-tips-oversold.html",
-      "datetime": 1795098423,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "比特币买家在摇摆区域支撑下发挥作用。  买家必须做什么才能增加上涨潜力？",
-      "summary": "<p>买家倾向于四小时波动区域</p><p>比特币于 11 月 15 日星期日跌至 61,947 美元的低点并反弹，但在卖家回归之前，反弹幅度较小，至 66069 美元。  这些卖家将价格拉回到周日的低点，并在周三晚些时候几乎与价格持平。然而，",
-      "source": "Forexlive",
-      "url": "https://investinglive.com/cryptocurrency/bitcoin-buyers-make-a-play-off-swing-area-support-what-do-buyers-have-to-do-to-increase-upside-potential/",
-      "datetime": 1795097903,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "吉姆·克莱默 (Jim Cramer) 周四股市最值得关注的 10 件事",
-      "summary": "Anthropic 即将在纳斯达克创纪录地首次亮相。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "datetime": 1795096811,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "人类首次公开募股、人工智能财富催生了一种新的、更精简的家族办公室",
-      "summary": "Anthropic 的 IPO 和大量的人工智能财富正在刺激为人工智能时代而建立的新家族办公室的创建。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office.html",
-      "datetime": 1795096801,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "黄金的糟糕年份正在变得更糟。其价格为何持续下跌",
-      "summary": "由于利率上升和美元走强改变了贵金属的投资理由，金价已从 1 月份的记录大幅下跌。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "datetime": 1795095472,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "以太坊新的 DeFi 安全工具引发审查制度质疑",
-      "summary": "Phylax 的系统让去中心化协议阻止潜在有害的交易，但引发了有关潜在审查制度和以太坊集中化建设者市场的问题。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1795095000,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "加密货币交易员与华尔街：OKX 的人性化市场将 IPO 定价置于考验之中",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-      "datetime": 1795093891,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "香港将 Hyperliquid 添加到“可疑”加密平台名单中",
-      "summary": "香港证券监管机构表示，Hyperliquid 没有本地牌照，可能已向香港投资者推广其交易服务。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1795092246,
-      "category": "crypto",
-      "related": ""
     }
   ],
   "ipo_watch": [
@@ -749,14 +749,14 @@
       "company": "SpaceX",
       "news": [
         {
+          "headline": "Anthropic 81B 美元的 IPO 吸引了 SpaceX 一半的净零售购买",
+          "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1795155881
+        },
+        {
           "headline": "随着代币化股票受到关注，Anthropic 的 1070 亿美元销售额将超过 SpaceX 的 IPO",
           "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
           "datetime": 1795086373
-        },
-        {
-          "headline": "小投资者对 Anthropic IPO 的热情可与 SpaceX 首次亮相相媲美",
-          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-          "datetime": 1795010957
         }
       ]
     },
@@ -764,19 +764,19 @@
       "company": "Anthropic",
       "news": [
         {
-          "headline": "Hyperliquid Anthropic 期货价格与纳斯达克开盘价相差 1% 以内",
-          "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "datetime": 1795120404
+          "headline": "Anthropic 81B 美元的 IPO 吸引了 SpaceX 一半的净零售购买",
+          "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "datetime": 1795155881
         },
         {
-          "headline": "Anthropic 历史性的 IPO 对这 12 只投资组合股票来说是一个福音。这是他们如何受益的",
-          "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
-          "datetime": 1795114109
+          "headline": "加密货币期货显示 Anthropic 股价周五开盘可能下跌 5%",
+          "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+          "datetime": 1795154908
         },
         {
-          "headline": "ANT 股价跌破 100 美元，比特币价格无视 Anthropic 首次亮相",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "datetime": 1795111610
+          "headline": "由于科技股萎靡，Anthropic 首次公开募股后比特币触及四个月低点",
+          "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+          "datetime": 1795145550
         }
       ]
     },
@@ -806,12 +806,12 @@
     }
   ],
   "btc_score": {
-    "score": 26.1,
+    "score": 22.1,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 11.5,
-    "weekly_score": 14.6,
-    "btc_price": 62064,
+    "daily_score": 7.8,
+    "weekly_score": 14.3,
+    "btc_price": 61810.9,
     "fear_greed": 10,
     "indicators": [
       {
@@ -823,21 +823,21 @@
       },
       {
         "name": "ETF 每日净流入",
-        "value": 35700000,
-        "score": 52,
+        "value": -582300000,
+        "score": 12,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.002047,
-        "score": 46,
+        "value": 0.000596,
+        "score": 45,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "多空比",
-        "value": 3.44,
+        "value": 3.37,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -851,29 +851,29 @@
       },
       {
         "name": "LTH-MVRV",
-        "value": 1.3,
-        "score": 27,
+        "value": 1.28,
+        "score": 26,
         "weight": 12,
         "group": "weekly"
       },
       {
         "name": "NUPL",
-        "value": 0.15,
-        "score": 40,
+        "value": 0.137,
+        "score": 39,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.732,
-        "score": 5,
+        "value": 0.77,
+        "score": 6,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.979,
-        "score": 29,
+        "value": 0.972,
+        "score": 22,
         "weight": 8,
         "group": "weekly"
       },
@@ -893,22 +893,22 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 0.93,
+        "value": 0.91,
         "score": 14,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 36,
-        "score": 27,
+        "value": 35.8,
+        "score": 26,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -99.9,
-        "score": 18,
+        "value": -60,
+        "score": 29,
         "weight": 4,
         "group": "weekly"
       }
@@ -1026,21 +1026,21 @@
         "text": "Every bear the final boss gets bigger.\n\nLast bear Uncle Sam threatened to take us down, this bear it’s the Silicon Gods that people say will send us to zero. \n\nFear is most deranged at the bottom. And in times like this, everyone is leveled to one question: do you believe?",
         "url": "https://x.com/cburniske/status/2123096787766612158",
         "time": "Wed Nov 18 16:51:34 +0000 2026",
-        "likes": 1644,
-        "retweets": 117
+        "likes": 1657,
+        "retweets": 119
       },
       {
         "text": "Don't let fear blind you now.",
         "url": "https://x.com/cburniske/status/2120249560023154909",
         "time": "Tue Nov 10 20:17:42 +0000 2026",
-        "likes": 1119,
+        "likes": 1121,
         "retweets": 117
       },
       {
         "text": "Still the only chart that matters as it shows what comes next https://t.co/gp1gVQDJoB",
         "url": "https://x.com/cburniske/status/2118523942973718800",
         "time": "Fri Nov 06 02:00:42 +0000 2026",
-        "likes": 656,
+        "likes": 657,
         "retweets": 58
       },
       {
@@ -1063,73 +1063,73 @@
         "text": "if pearl launched in 2012 it would’ve been a top 3 most interesting alt alongside the likes of namecoin and peercoin. but it arrived 14 years too late. the fact that crypto market participants are obsessed with sov betas is mainly a symptom of the lack of exciting narratives",
         "url": "https://x.com/QwQiao/status/2123439170613866707",
         "time": "Thu Nov 19 15:32:04 +0000 2026",
-        "likes": 38,
+        "likes": 50,
         "retweets": 2
       },
       {
         "text": "since theres a lot of talks about pearl lately, heres my view on pearl vs zcash:\n\npearl is a trade.  zcash is an investment.\n\npearl is 7mo old. zcash is lindy. (critical for sov).\n\npearl's core holder base is a bunch of speculators who missed zcash. zcash core holder base is",
         "url": "https://x.com/QwQiao/status/2123416504121037009",
         "time": "Thu Nov 19 14:02:00 +0000 2026",
-        "likes": 473,
-        "retweets": 34
+        "likes": 514,
+        "retweets": 38
       },
       {
         "text": "personally i certainly do not want to be shareholder of a company that 1) is anti open source 2) reminds us every week that agi will take our jobs and kill us all 3) rush to get there anyway and 4) do so because they believe they are morally superior and solely qualified to be",
         "url": "https://x.com/QwQiao/status/2123355503816249598",
         "time": "Thu Nov 19 09:59:36 +0000 2026",
-        "likes": 72,
+        "likes": 76,
         "retweets": 2
       },
       {
         "text": "on this historic day let me remind u that ipos have an extremely poor track record. the median ipo returns -25% over 3 years, with an expected max drawdown of 50%.\n\nit’s one of the worst adverse selection setups in the entire market. the seller sets the price, the quantity, *and*",
         "url": "https://x.com/QwQiao/status/2123352494923304988",
         "time": "Thu Nov 19 09:47:39 +0000 2026",
-        "likes": 329,
-        "retweets": 18
+        "likes": 345,
+        "retweets": 19
       },
       {
         "text": "s&amp;p500 valuation looks right around 50ish percentile compared to the past 5-10 yrs. (looks expensive if u look at fcf, cheap if u look at earnings, and avg if u adjust reasonably for capex)\n\nbtc has a lot of bids around 60k and sentiment is dead.\n\nthere are some macro-related",
         "url": "https://x.com/QwQiao/status/2123029963787919788",
         "time": "Wed Nov 18 12:26:02 +0000 2026",
-        "likes": 377,
+        "likes": 378,
         "retweets": 23
       }
     ],
     "saylor": [
       {
+        "text": "You can also watch our full Q3 2026 Investor Q&amp;A on YouTube. https://t.co/P0Zs1V6wbv https://t.co/qbCk9j2iJ3",
+        "url": "https://x.com/saylor/status/2123577772601696480",
+        "time": "Fri Nov 20 00:42:49 +0000 2026",
+        "likes": 216,
+        "retweets": 12
+      },
+      {
+        "text": "How do we decide when to buy Bitcoin and when to buy back $STRC? In Strategy’s Q3 2026 Investor Q&amp;A with @NatBrunell, @PhongLe and I answered your questions about Bitcoin Per Share, funding dividends through a downturn, and creating long-term value for $MSTR shareholders.\n\n02:05 https://t.co/zCqAdqS8qd",
+        "url": "https://x.com/saylor/status/2123577768914923974",
+        "time": "Fri Nov 20 00:42:48 +0000 2026",
+        "likes": 1920,
+        "retweets": 230
+      },
+      {
         "text": "$STRC traded over $600M yesterday, the only one of 456 U.S.-listed income preferreds to do so this year. We intend to keep buying below $100. Repurchases facilitate liquidity and lower dividend obligations. We believe they strengthen the credit and benefit common shareholders.",
         "url": "https://x.com/saylor/status/2123420518967591217",
         "time": "Thu Nov 19 14:17:57 +0000 2026",
-        "likes": 5158,
-        "retweets": 375
+        "likes": 5834,
+        "retweets": 422
       },
       {
         "text": "Seller exhaustion will come long before Saylor exhaustion.",
         "url": "https://x.com/saylor/status/2123098624204710141",
         "time": "Wed Nov 18 16:58:51 +0000 2026",
-        "likes": 23426,
-        "retweets": 1610
+        "likes": 24175,
+        "retweets": 1651
       },
       {
         "text": "At this rate, everyone will be smart enough to buy Bitcoin.",
         "url": "https://x.com/saylor/status/2122761335834624196",
         "time": "Tue Nov 17 18:38:36 +0000 2026",
-        "likes": 3989,
-        "retweets": 246
-      },
-      {
-        "text": "Banks are bringing Bitcoin to their clients. Wells Fargo reported 49.58 million shares of BlackRock’s Bitcoin ETF as of September 30, up 103% from June. Those shares were worth $2.35 billion. https://t.co/ABCmSP4dsm",
-        "url": "https://x.com/saylor/status/2122685864421843248",
-        "time": "Tue Nov 17 13:38:42 +0000 2026",
-        "likes": 5864,
-        "retweets": 620
-      },
-      {
-        "text": "We’ve added USD Strength to the Strategy dashboard. At today’s rates, our USD assets can fund 3.4 years of interest and dividends. That’s 41% of the weighted duration of our Digital Credit. https://t.co/RsyMiNESxU https://t.co/XyFVbVCFCM",
-        "url": "https://x.com/saylor/status/2122459084599197886",
-        "time": "Mon Nov 16 22:37:33 +0000 2026",
-        "likes": 4143,
-        "retweets": 352
+        "likes": 3999,
+        "retweets": 245
       }
     ],
     "viktorfischer": [
@@ -1137,14 +1137,14 @@
         "text": "Finally a good trading app. On Solana. 🚀",
         "url": "https://x.com/viktorfischer/status/2118598459557372365",
         "time": "Fri Nov 06 06:56:49 +0000 2026",
-        "likes": 14,
+        "likes": 15,
         "retweets": 0
       },
       {
         "text": "Want yield on your SOL? onycSOL - combining RWA and staking yield 🚀",
         "url": "https://x.com/viktorfischer/status/2118197726806688133",
         "time": "Thu Nov 05 04:24:26 +0000 2026",
-        "likes": 14,
+        "likes": 15,
         "retweets": 4
       },
       {
@@ -1173,129 +1173,129 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "The Crypto Bear Market Could Be Back. Here’s What I’m Doing About It.",
-        "url": "https://finnhub.io/api/news?id=b4ca2b67322a7d8ca50e0b0fb52548804c1f2ab7402487d53f5fc46f1a436dcf",
-        "datetime": 1795125182,
+        "headline": "AI Token Prices Are Tumbling. Is It a Red Flag for Anthropic Stock?",
+        "url": "https://finnhub.io/api/news?id=a35fcbae6274f1876a3bddbd5a1d9120833b507f260129f1073b5665f292c9c1",
+        "datetime": 1795153802,
         "source": "Yahoo"
       },
       {
-        "headline": "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
-        "url": "https://finnhub.io/api/news?id=69bbf58b91dbdb01dff38a7d669d331425154da8f5881991f205ab376c7c0be3",
-        "datetime": 1795125140,
+        "headline": "Stocks, gold and silver fall after blockbuster Anthropic IPO",
+        "url": "https://finnhub.io/api/news?id=21b022f583b05a1a881834a83aee5f3340a88935dd59d0676f07175fba883432",
+        "datetime": 1795153718,
         "source": "Yahoo"
       },
       {
-        "headline": "Is a Bloom Energy Stock Crash Coming? 1 Warning Sign Investors Shouldn’t Ignore.",
-        "url": "https://finnhub.io/api/news?id=a82fe4732c9d5f1880ec5f5e0698cd5b9ee475dd4db153b0f27ee14970858830",
-        "datetime": 1795125002,
+        "headline": "Cathie Wood’s ARK Invest Loads Up $90M In Anthropic Shares, Dumps Nvidia As China Chip Sale Woes Deepen",
+        "url": "https://finnhub.io/api/news?id=f42226fd128d9e32b0dcf295a8e40e4e52dbdd4dfd1ddeb5905db899180a262d",
+        "datetime": 1795152126,
         "source": "Yahoo"
       },
       {
-        "headline": "\"The Big Short's\" Michael Burry Issued a Blunt Warning about Anthropic",
-        "url": "https://finnhub.io/api/news?id=4869dc00f2ee14ff17ef591cabf575c28d1460ed714f01e9277446cd81d57c44",
-        "datetime": 1795124882,
+        "headline": "‘Bright Red Flags’: Nvidia Subpoenaed By California, Attorney General Also Probing Jensen Huang’s ‘Actions’",
+        "url": "https://finnhub.io/api/news?id=4706f6c3053986a8d9c65f9d2a97525bbeb1be75d7d0583aab5249a976395bdf",
+        "datetime": 1795150550,
         "source": "Yahoo"
       },
       {
-        "headline": "Update: Wall Street Tumbles Despite Anthropic's Blockbuster Market Debut",
-        "url": "https://finnhub.io/api/news?id=969f610c9ce566f817b43e7266a3b9db57457079e74c89802c2d70960b056030",
-        "datetime": 1795124155,
+        "headline": "AI sell-off: These sectors held firm as tech slumped in Oct, Nov",
+        "url": "https://finnhub.io/api/news?id=f495f8db97fb4f933d5c17e934cebb09d1be507454f4b3d31d31a26efb598188",
+        "datetime": 1795149923,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today’s Market",
-        "url": "https://finnhub.io/api/news?id=95b7d457c2f06088bbba42d7f818bf650bbf4afb8c98db8ab1e3103814fb6d5e",
-        "datetime": 1795124820,
+        "headline": "How High Can ANT Stock Go? Wall Street Debut Sparks Valuation Debate – One Analyst Sees Amazon-Google Scale Opportunity In Anthropic",
+        "url": "https://finnhub.io/api/news?id=0b444deb956e3539dd1fef6e6045135e63d56e729af95d8b18d954e81d8b166a",
+        "datetime": 1795141435,
         "source": "Yahoo"
       },
       {
-        "headline": "Google’s SpaceX Stake Lost More Than $10 Billion in Value Last Quarter While Its Share Count Edged Up",
-        "url": "https://finnhub.io/api/news?id=17465fe88f66f99ed48f9c5ee7afd564448d171d38996a1f044063ff93b0e4fe",
-        "datetime": 1795123698,
+        "headline": "Nvidia Backed AI Data Center Demand Puts Schneider Electric Stock In Focus",
+        "url": "https://finnhub.io/api/news?id=6eb61559029685f5d53ec19588d290644998b371b835605b796bc0e613c3cbff",
+        "datetime": 1795140860,
         "source": "Yahoo"
       },
       {
-        "headline": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
-        "url": "https://finnhub.io/api/news?id=ca982ca003caf78ae6c117f89c4276531cf9e98070ad945b6c2b69782b95d0d3",
-        "datetime": 1795122820,
+        "headline": "Is Your VOO Fund Secretly An AI Bet?",
+        "url": "https://finnhub.io/api/news?id=a84cb0af38b4db0b1a93b068ca3f457cf4b052302ff50dd4a9e7bb392c639711",
+        "datetime": 1795136300,
         "source": "Yahoo"
       },
       {
-        "headline": "3 British Lithium Stocks To Watch With Revenue Under $1 Million",
-        "url": "https://finnhub.io/api/news?id=c7ca8b94a187618c80d1cb0d9fca05859e893b540ab513083853355ed572f6f3",
-        "datetime": 1795122714,
+        "headline": "Anthropic’s Margins Will Be “Probably Better Than a Hyperscaler,” Says Its Most Bullish Analyst. Here’s What That Takes",
+        "url": "https://finnhub.io/api/news?id=0899efafce23e477b15f3b3113b90c761654443a76e14ad6798ea3b3f14c2066",
+        "datetime": 1795133116,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.",
-        "url": "https://finnhub.io/api/news?id=892b3116a8ad46bf5fbd12ee785218668b2a2a94c44efdcaba77d9c5eeaa88af",
-        "datetime": 1795122420,
+        "headline": "Anthropic Just Went Public at $1.5 Trillion. VOO Won’t Own a Share Until Late 2027 at the Earliest",
+        "url": "https://finnhub.io/api/news?id=6879c1afabd2b6dc2e4ea3b4fa07bacb2ea361a808a183ac5269f14f705a51f9",
+        "datetime": 1795132361,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
+        "headline": "What Tesla (TSLA)'s Shanghai Expansion Means For Shareholders",
+        "url": "https://finnhub.io/api/news?id=ca719277d886342e5dac67720976fa298c507719ee6ccef83ba2901a6d402827",
+        "datetime": 1795149058,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Tech takes a beating as AI trade comes unstuck despite Anthropic surge",
+        "url": "https://finnhub.io/api/news?id=072f02f894dda6fdda0cf11cbe0670c8d323d9bf0ff7bcd9cfdd0d5943c9feb1",
+        "datetime": 1795143777,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
+        "url": "https://finnhub.io/api/news?id=0c9c05ee98c603a6323a9897edbca2b2d31586779b2a43f36d4fbd4e84e793c2",
+        "datetime": 1795128039,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Musk Says Optimus Will Do the Dishes “Within 12-18 Months.” Here’s Where Tesla’s Robot Stands",
+        "url": "https://finnhub.io/api/news?id=dd74d28559bec84f4c46227cb73510d7487f9bc66c19c0b60587bed0093d601c",
+        "datetime": 1795127872,
+        "source": "Yahoo"
+      },
+      {
         "headline": "Tesla Robo-Taxi Expands to Dallas. It Isn’t Enough.",
         "url": "https://finnhub.io/api/news?id=892b3116a8ad46bf5fbd12ee785218668b2a2a94c44efdcaba77d9c5eeaa88af",
         "datetime": 1795122420,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Michael Burry Adds To Tesla Rival BYD At Five-Year Lows",
-        "url": "https://finnhub.io/api/news?id=d966caca80fd1f875e7b3f4892cc1860d993e47a984b893ef22b0b23d8850c6d",
-        "datetime": 1795122391,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Trump Just Disclosed Tesla and SpaceX Stock Purchases. Here's What His Portfolio Moves Reveal",
-        "url": "https://finnhub.io/api/news?id=6840c108a45ed797d63267f40c668143ab0a4fd22cc0dbfbd991390cb4facfb0",
-        "datetime": 1795120171,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Inside Brad Gerstner’s Portfolio: Every Move He Made in the Third Quarter",
-        "url": "https://finnhub.io/api/news?id=1cada50a94c693f2f2a479b299ccd1f02e21ffbd6d640f378f00733a58ca9977",
-        "datetime": 1795118722,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Expands Cybercab To Dallas In First Move Outside Austin",
-        "url": "https://finnhub.io/api/news?id=a1126f422a4eca4488ad9080349ab3346412f12c56c10b2fe36184b8a522ca08",
-        "datetime": 1795118117,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
-        "headline": "Bitcoin Price: Heading For The $50,000s?",
-        "url": "https://finnhub.io/api/news?id=42fadab59deee11aac3ff9bb6cbc4547b8f00764f21a8ae3117e633e1a37ad49",
-        "datetime": 1795086109,
+        "headline": "CRCL Has Fallen 36.8% in a Month: Is Circle Stock Ready to Rebound?",
+        "url": "https://finnhub.io/api/news?id=17237bf611b8aaee177056319b94091fa003d2dd4d169c4a88224eb939df8d62",
+        "datetime": 1795109580,
         "source": "Yahoo"
       },
       {
-        "headline": "Abu Dhabi Ruling Gives Binance a Legal Path to Reclaim Billions Frozen in Its Hack",
-        "url": "https://finnhub.io/api/news?id=0bbbb7f7fb75ed7db6a311253331d0f1f63add156e49fe4c826c78c5b41abdf8",
-        "datetime": 1795085130,
+        "headline": "Coinbase Global vs. Interactive Brokers Group: Which Financial Stock Is a Better Buy for 2027?",
+        "url": "https://finnhub.io/api/news?id=de0f62cf650e3db115698bc10e24096624d4299209e64ac0fc111ed99c78927e",
+        "datetime": 1795108802,
         "source": "Yahoo"
       },
       {
-        "headline": "Bitcoin in the 'Value Zone' but Anthropic IPO Bounce Could Trap Bulls",
-        "url": "https://finnhub.io/api/news?id=5cd86ad8803fe994beae13d072992a6adecc74913f26d382478d6250727e9c84",
-        "datetime": 1795083188,
-        "source": "Benzinga"
-      },
-      {
-        "headline": "Circle Internet Group (CRCL) Ties USDC Push In Africa To A Multi Year Deal",
-        "url": "https://finnhub.io/api/news?id=533da8662d97905de8ae096bb5f7b0fc26b71bd8d3c7b9ff1d6752320ef33d98",
-        "datetime": 1795072466,
+        "headline": "Coinbase CEO Predicts 99.999% of Financial Transactions Will Happen “Between Agents” Within 10 Years",
+        "url": "https://finnhub.io/api/news?id=8423899e69ba6163a8e647287e0a2c11f177accf25adef3c08661acb48d9e322",
+        "datetime": 1795108206,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Did Cathie Wood Sell Nvidia Before Earnings and Buy Crypto Stocks?",
-        "url": "https://finnhub.io/api/news?id=04eec56be3a947472808df27b48c8dc27aa88eb932946df328fe17a67e8d0082",
-        "datetime": 1795064400,
+        "headline": "Coinbase Global vs. S&P Global: Which Financial Stock Is a Better Buy for 2027?",
+        "url": "https://finnhub.io/api/news?id=f52cee63f3a163f7dad9fad917d78cd48e2aa1c292e3d14765faf7fe3641ee16",
+        "datetime": 1795107002,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Coinbase Global vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
+        "url": "https://finnhub.io/api/news?id=4b3a26352e01ab9b9140a1bdd3ec0a4861a495441a29cd712f8fe3d16b27f803",
+        "datetime": 1795105202,
         "source": "Yahoo"
       }
     ],
@@ -1321,37 +1321,43 @@
     ],
     "BTC": [
       {
-        "headline": "Why higher rates could slow Bitcoin buying at treasury firms",
-        "url": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1795111772,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-        "url": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "datetime": 1795111610,
-        "source": "Cointelegraph"
-      },
-      {
-        "headline": "Bitcoin buyers make a play off swing area support.  What do buyers have to do to increase upside potential?",
-        "url": "https://investinglive.com/cryptocurrency/bitcoin-buyers-make-a-play-off-swing-area-support-what-do-buyers-have-to-do-to-increase-upside-potential/",
-        "datetime": 1795097903,
-        "source": "Forexlive"
-      },
-      {
-        "headline": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
-        "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
-        "datetime": 1795092012,
+        "headline": "Here's what's crashing gold and likely weighing on bitcoin too",
+        "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+        "datetime": 1795155135,
         "source": "CoinDesk"
       },
       {
-        "headline": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-        "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-        "datetime": 1795090839,
+        "headline": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+        "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+        "datetime": 1795152745,
         "source": "CoinDesk"
+      },
+      {
+        "headline": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+        "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+        "datetime": 1795152051,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+        "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+        "datetime": 1795148932,
+        "source": "CoinDesk"
+      },
+      {
+        "headline": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+        "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1795145602,
+        "source": "Cointelegraph"
       }
     ],
     "ETH": [
+      {
+        "headline": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+        "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+        "datetime": 1795150688,
+        "source": "CoinDesk"
+      },
       {
         "headline": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
         "url": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -1375,12 +1381,6 @@
         "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "datetime": 1795021504,
         "source": "Cointelegraph"
-      },
-      {
-        "headline": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-        "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
-        "datetime": 1794979810,
-        "source": "CoinDesk"
       }
     ],
     "SOL": [
@@ -1448,6 +1448,12 @@
     "TAO": [],
     "NEAR": [
       {
+        "headline": "The market of markets.",
+        "url": "https://x.com/NEARProtocol/status/2123573587684868145",
+        "datetime": 1795134372,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "More privacy for the Zcash ecosystem.\n\nVizor Wallet, the Zcash Wallet, now brings Confidential Intents to its users, enabling confidential cross-chain swaps powered by NEAR Intents.",
         "url": "https://x.com/NEARProtocol/status/2123499943579070585",
         "datetime": 1795116813,
@@ -1457,12 +1463,6 @@
         "headline": "Builders can now bring ANTon, along with 100+ other tokenized assets, into their products through the NEAR Intents 1Click Swap API.\n\nExplore the docs: \n\nNeed help with the integration? Reach out to us",
         "url": "https://x.com/NEARProtocol/status/2123470063407927483",
         "datetime": 1795109689,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "ANTon, tokenized Anthropic stock by @Ondo, is now listed on \n\nThe same account you use for crypto. No broker, no bridging. Trade 24/7 with 1Click swaps across 100+ native crypto assets and tokenized s",
-        "url": "https://x.com/NEARProtocol/status/2123470059045539979",
-        "datetime": 1795109688,
         "source": "@NEARProtocol"
       }
     ],
@@ -1476,16 +1476,16 @@
     ],
     "SPACEX": [
       {
+        "headline": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+        "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1795155881,
+        "source": "Cointelegraph"
+      },
+      {
         "headline": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
         "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
         "datetime": 1795086373,
         "source": "CoinDesk"
-      },
-      {
-        "headline": "Small investor enthusiasm for Anthropic IPO to rival SpaceX debut",
-        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
-        "datetime": 1795010957,
-        "source": "CNBC"
       }
     ]
   }
