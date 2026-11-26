@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-25T20:54:15.872Z",
+  "updated_at": "2026-11-26T03:19:31.415Z",
   "stocks": [
     {
       "symbol": "VOO",
-      "price": 659.39,
-      "change_pct": -0.2
+      "price": 658.87,
+      "change_pct": -0.28
     },
     {
       "symbol": "QQQ",
-      "price": 633.52,
-      "change_pct": -0.72
+      "price": 633.93,
+      "change_pct": -0.65
     },
     {
       "symbol": "QQQM",
-      "price": 260.54,
-      "change_pct": -0.85
+      "price": 261.05,
+      "change_pct": -0.66
     },
     {
       "symbol": "NVDA",
-      "price": 149.06,
-      "change_pct": -4.07
+      "price": 149.3,
+      "change_pct": -3.91
     },
     {
       "symbol": "TSLA",
-      "price": 380.98,
-      "change_pct": -0.96
+      "price": 380.14,
+      "change_pct": -1.18
     },
     {
       "symbol": "GOOG",
-      "price": 270.47,
-      "change_pct": -2.21
+      "price": 270.98,
+      "change_pct": -2.02
     },
     {
       "symbol": "RKLB",
-      "price": 47.06,
-      "change_pct": 2.35
+      "price": 47.02,
+      "change_pct": 2.26
     },
     {
       "symbol": "CRCL",
-      "price": 48.29,
-      "change_pct": 1.19
+      "price": 48.27,
+      "change_pct": 1.15
     },
     {
       "symbol": "PLTR",
-      "price": 163.88,
-      "change_pct": 1.68
+      "price": 163.59,
+      "change_pct": 1.5
     },
     {
       "symbol": "MSTR",
-      "price": 79.86,
-      "change_pct": 2.98
+      "price": 79.96,
+      "change_pct": 3.11
     },
     {
       "symbol": "GLD",
-      "price": 327.6,
-      "change_pct": 0.66
+      "price": 327.45,
+      "change_pct": 0.61
     },
     {
       "symbol": "LKNCY",
@@ -65,63 +65,63 @@
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 60136,
-      "change_pct": 0.59
+      "price": 60698,
+      "change_pct": 2.16
     },
     {
       "symbol": "ETH",
-      "price": 1685.74,
-      "change_pct": 0.43
+      "price": 1696.88,
+      "change_pct": 2.11
     },
     {
       "symbol": "SOL",
-      "price": 70.42,
-      "change_pct": 1.45
+      "price": 71.2,
+      "change_pct": 2.9
     },
     {
       "symbol": "HYPE",
-      "price": 61.57,
-      "change_pct": 2.72
+      "price": 61.87,
+      "change_pct": 4.51
     },
     {
       "symbol": "ZEC",
-      "price": 757.71,
-      "change_pct": 3.73
+      "price": 778.36,
+      "change_pct": 6.68
     },
     {
       "symbol": "TAO",
-      "price": 182.11,
-      "change_pct": 0.85
+      "price": 185.01,
+      "change_pct": 4.07
     },
     {
       "symbol": "SKY",
-      "price": 978.77,
-      "change_pct": 1.08
+      "price": 1000,
+      "change_pct": 4.05
     },
     {
       "symbol": "AAVE",
-      "price": 95.44,
-      "change_pct": 2.07
+      "price": 96.26,
+      "change_pct": 3.23
     },
     {
       "symbol": "BNB",
-      "price": 553.07,
-      "change_pct": 0.71
+      "price": 558.21,
+      "change_pct": 2.84
     },
     {
       "symbol": "NEAR",
-      "price": 3,
-      "change_pct": 4.43
+      "price": 3.08,
+      "change_pct": 7.78
     },
     {
       "symbol": "DOGE",
-      "price": 0.055785,
-      "change_pct": 0.71
+      "price": 0.056783,
+      "change_pct": 3.59
     },
     {
       "symbol": "SPACEX",
-      "price": 104.36,
-      "change_pct": 0.27
+      "price": 107.03,
+      "change_pct": 4.57
     }
   ],
   "earnings": {
@@ -257,10 +257,11 @@
     },
     "RKLB": {
       "next": {
-        "date": "2027-02-18",
+        "date": "2027-02-24",
         "quarter": 4,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": -0.038,
+        "revenue_estimate": 288061066
       },
       "history": [
         {
@@ -387,11 +388,10 @@
     },
     "MSTR": {
       "next": {
-        "date": "2027-02-03",
+        "date": "2027-02-18",
         "quarter": 4,
         "year": 2026,
-        "eps_estimate": 4.0402,
-        "revenue_estimate": 131737080
+        "is_estimate": true
       },
       "history": [
         {
@@ -431,10 +431,11 @@
     },
     "LKNCY": {
       "next": {
-        "date": "2027-02-18",
+        "date": "2027-02-24",
         "quarter": 4,
         "year": 2026,
-        "is_estimate": true
+        "eps_estimate": 3.3276,
+        "revenue_estimate": 16428878010
       },
       "history": [
         {
@@ -474,6 +475,60 @@
     }
   },
   "news": [
+    {
+      "headline": "标准普尔警告英伟达信用评级可能因“上升”的管理和治理风险而被下调",
+      "summary": "标准普尔全球评级表示，英伟达的信用评级可能会被下调一级，因为它指出这家芯片制造商的管理和治理风险“上升”。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "datetime": 1795661852,
+      "category": "top news",
+      "related": ""
+    },
+    {
+      "headline": "计算机科学家表示，人工智能实验室可能坐拥密码学“重磅炸弹”",
+      "summary": "人工智能正在推动数学突破的巨大浪潮，这可能会对密码学产生影响。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795656800,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "瑞士批准 57 个司法管辖区允许加密货币税务数据共享",
+      "summary": "此举为瑞士从 2028 年开始与外国当局交换加密货币税务数据铺平了道路，作为全球打击逃税行为的一部分。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795643618,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "梅西百货因恶劣天气推迟感恩节游行",
+      "summary": "梅西百货周三宣布，由于恶劣天气，一年一度的感恩节游行将推迟至周六。",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "datetime": 1795641996,
+      "category": "business",
+      "related": ""
+    },
+    {
+      "headline": "Braiins 警告比特币挖矿攻击影响超过 1,000 个站点",
+      "summary": "比特币矿池运营商 Braiins 警告称，攻击者正在利用不安全的连接来劫持矿工的计算能力并可能窃取奖励。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795641739,
+      "category": "crypto",
+      "related": ""
+    },
+    {
+      "headline": "为什么欧洲央行的抵押品资格可以增加对代币化债券的需求",
+      "summary": "欧洲央行过去的决定为使用债券作为抵押品的价值提供了线索，而美国衍生品交易所对其持有的比特币则面临着不同的计算。",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "datetime": 1795641099,
+      "category": "crypto",
+      "related": ""
+    },
     {
       "headline": "万斯表示，他确信黄仁勋没有受到司法部调查",
       "summary": "特朗普政府是否调查黄仁勋潜在的国家安全风险一直是人们质疑的话题。",
@@ -583,7 +638,7 @@
       "related": ""
     },
     {
-      "headline": "FCC 授权 SpaceX 为轨道 AI 数据中心部署 100 万颗卫星",
+      "headline": "FCC 授权 SpaceX 为轨道人工智能数据中心部署 100 万颗卫星",
       "summary": "随着对人工智能计算能力的需求持续增长，计划中的 Starmind 星座将在轨道上处理数据以供在地球上使用。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -665,7 +720,7 @@
     },
     {
       "headline": "由于收益率居高不下，富有的投资者寻求从市政债券中节省税收",
-      "summary": "如果做得好，债券可以用来减少税收而不是推迟税收。",
+      "summary": "如果处理得当，债券可以用来减税而不是推迟纳税。",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html",
       "datetime": 1795618801,
@@ -682,65 +737,11 @@
       "related": ""
     },
     {
-      "headline": "前 FTX 首席运营官因 CZ 的“亚洲黑手党”形象而批评 Netflix",
+      "headline": "前 FTX 首席运营官批评 Netflix 对 CZ 的“亚洲黑手党”描绘",
       "summary": "Constance Waing 表示，Netflix 在描绘 CZ 时使用了种族主义刻板印象，并歪曲了 FTX 交易所倒闭前的生活。",
       "source": "Cointelegraph",
       "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "datetime": 1795616496,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "周三股市最值得关注的 10 件事",
-      "summary": "华尔街将大幅低开。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "datetime": 1795616130,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "乌克兰通过加密货币合法化法案，利润税率为 23%",
-      "summary": "经过三年的立法工作，乌克兰议会通过了一项加密货币监管法案，新规则将于 2027 年 7 月生效。",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "datetime": 1795611729,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "莱斯曼：英伟达的鞭打测试了凯文·沃什（Kevin Warsh）解读市场信号的努力",
-      "summary": "上周市场的极端波动和围绕英伟达的戏剧性事件凸显了美联储主席凯文·沃什面临的困境。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "datetime": 1795609601,
-      "category": "top news",
-      "related": ""
-    },
-    {
-      "headline": "美联储首选通胀指标落地，12 月加息已计入市场",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "datetime": 1795609126,
-      "category": "crypto",
-      "related": ""
-    },
-    {
-      "headline": "随着消费者寻求价值，二手购物将成为这个假期的主流",
-      "summary": "这个假期，越来越多的消费者开始进行二手购物，因为他们强调购买的价值和独特性。",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "datetime": 1795608001,
-      "category": "business",
-      "related": ""
-    },
-    {
-      "headline": "随着股票抛售的恢复，以太币、DeFi 的跌幅是比特币的两倍",
-      "summary": "",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-      "datetime": 1795607870,
       "category": "crypto",
       "related": ""
     }
@@ -760,7 +761,7 @@
           "datetime": 1795630979
         },
         {
-          "headline": "FCC 授权 SpaceX 为轨道 AI 数据中心部署 100 万颗卫星",
+          "headline": "FCC 授权 SpaceX 为轨道人工智能数据中心部署 100 万颗卫星",
           "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "datetime": 1795626653
         }
@@ -812,38 +813,38 @@
     }
   ],
   "btc_score": {
-    "score": 24.2,
+    "score": 24.1,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 10,
-    "weekly_score": 14.2,
-    "btc_price": 60205.5,
+    "daily_score": 10.6,
+    "weekly_score": 13.5,
+    "btc_price": 60793.8,
     "fear_greed": 9,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.2674,
+        "value": 0.2728,
         "score": 9,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": -231400000,
-        "score": 35,
+        "value": -123300000,
+        "score": 42,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.01,
-        "score": 50,
+        "value": 0.008571,
+        "score": 49,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "币安 BTC 合约多空账户比",
-        "value": 2.89,
+        "value": 2.8,
         "score": 100,
         "weight": 3,
         "group": "daily"
@@ -864,22 +865,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.111,
-        "score": 36,
+        "value": 0.121,
+        "score": 37,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.713,
-        "score": 5,
+        "value": 0.762,
+        "score": 6,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.976,
-        "score": 26,
+        "value": 0.972,
+        "score": 22,
         "weight": 8,
         "group": "weekly"
       },
@@ -892,29 +893,29 @@
       },
       {
         "name": "365日均线倍数",
-        "value": 0.8,
-        "score": 20,
+        "value": 0.81,
+        "score": 21,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "200周均线倍数",
-        "value": 0.88,
+        "value": 0.89,
         "score": 13,
         "weight": 6,
         "group": "weekly"
       },
       {
         "name": "周线 RSI",
-        "value": 34.6,
-        "score": 24,
+        "value": 35,
+        "score": 25,
         "weight": 5,
         "group": "weekly"
       },
       {
         "name": "成交量变化",
-        "value": -22.5,
-        "score": 39,
+        "value": -88.7,
+        "score": 21,
         "weight": 4,
         "group": "weekly"
       }
@@ -923,7 +924,7 @@
   "fomc": {
     "next": {
       "date": "2026-12-09",
-      "days_until": 14
+      "days_until": 13
     },
     "schedule": [
       "2025-01-29",
@@ -1046,14 +1047,14 @@
         "text": "Every bear the final boss gets bigger.\n\nLast bear Uncle Sam threatened to take us down, this bear it’s the Silicon Gods that people say will send us to zero. \n\nFear is most deranged at the bottom. And in times like this, everyone is leveled to one question: do you believe?",
         "url": "https://x.com/cburniske/status/2123096787766612158",
         "time": "Wed Nov 18 16:51:34 +0000 2026",
-        "likes": 1708,
-        "retweets": 124
+        "likes": 1742,
+        "retweets": 131
       },
       {
         "text": "Don't let fear blind you now.",
         "url": "https://x.com/cburniske/status/2120249560023154909",
         "time": "Tue Nov 10 20:17:42 +0000 2026",
-        "likes": 1129,
+        "likes": 1130,
         "retweets": 116
       },
       {
@@ -1069,29 +1070,29 @@
         "text": "laws of the universe that makes this is simulation fun:\n\n- 2nd law of thermodynamics: entropy always rises, time only moves forward, actions cannot be undone. u can’t save the game and load later if u fuck up.\n\n- speed of light: you can’t be everywhere at once, so there's always",
         "url": "https://x.com/QwQiao/status/2125659847945298224",
         "time": "Wed Nov 25 18:36:15 +0000 2026",
-        "likes": 16,
+        "likes": 25,
         "retweets": 1
       },
       {
         "text": "if i were the creator, i'd make computational asymmetry a fundamental property of the universe. same tier as the speed of light and entropy.\n\nthe simulation would not be nearly as entertaining if finding answers were as easy as checking them.",
         "url": "https://x.com/QwQiao/status/2125657908327465352",
         "time": "Wed Nov 25 18:28:32 +0000 2026",
-        "likes": 43,
-        "retweets": 1
+        "likes": 81,
+        "retweets": 4
       },
       {
         "text": "we are currently thru a period of peak fed hawkishness and peak ai psychosis imo, which will revert to the mean in the next 1-2 yrs.",
         "url": "https://x.com/QwQiao/status/2125632819582091595",
         "time": "Wed Nov 25 16:48:51 +0000 2026",
-        "likes": 52,
-        "retweets": 1
+        "likes": 73,
+        "retweets": 2
       },
       {
         "text": "every bear market has a \"this time it's fatal\" story.\n\n2011: gox got hacked 2015: gox is gone 2018: miner death spiral, tether unbacked, sec kills icos 2022: 3ac, genesis, ftx 2026: ai breaks cryptography\n\nis the risk zero? no. but 5 min with a frontier ai on max effort will",
         "url": "https://x.com/QwQiao/status/2125631863167258707",
         "time": "Wed Nov 25 16:45:03 +0000 2026",
-        "likes": 410,
-        "retweets": 36
+        "likes": 567,
+        "retweets": 51
       },
       {
         "text": "jensen added $3t to the us stock market",
@@ -1106,36 +1107,36 @@
         "text": "Stretch ($STRC) returned 13.24% over the past year, beating all seven fixed-income ETFs in this comparison. The closest was Treasury bills at 3.67%. All returns include distributions. https://t.co/5aLFmek8ah",
         "url": "https://x.com/saylor/status/2125603699204497670",
         "time": "Wed Nov 25 14:53:08 +0000 2026",
-        "likes": 1679,
-        "retweets": 166
+        "likes": 1994,
+        "retweets": 199
       },
       {
         "text": "Stretch ($STRC) returned 13% over the past year, leading all six benchmarks shown. The S&amp;P 500 ETF gained 9%, while Bitcoin fell 32%. https://t.co/e7eSGCJUWk",
         "url": "https://x.com/saylor/status/2125574561735520444",
         "time": "Wed Nov 25 12:57:21 +0000 2026",
-        "likes": 2451,
-        "retweets": 195
+        "likes": 2727,
+        "retweets": 216
       },
       {
         "text": "Stretch ($STRC) led the asset benchmarks shown on risk-adjusted returns over the past year. Its Sharpe ratio was +0.57, ahead of the S&amp;P 500 ETF at +0.47 and Bitcoin at −0.77. https://t.co/fCsoKxM1U5",
         "url": "https://x.com/saylor/status/2125390580305846369",
         "time": "Wed Nov 25 00:46:16 +0000 2026",
-        "likes": 1752,
-        "retweets": 169
+        "likes": 1792,
+        "retweets": 173
       },
       {
         "text": "Stretch ($STRC) led this fixed-income comparison on risk-adjusted returns over the past year. Its Sharpe ratio was +0.57, while all seven ETFs were below zero. https://t.co/30Kiyh1DNR",
         "url": "https://x.com/saylor/status/2125341642756354145",
         "time": "Tue Nov 24 21:31:49 +0000 2026",
-        "likes": 1714,
-        "retweets": 169
+        "likes": 1758,
+        "retweets": 173
       },
       {
         "text": "Bitcoin is Digital Capital. CFTC staff now recognize that U.S. derivatives exchanges and clearinghouses can count Bitcoin toward their operating reserves, subject to haircuts. The next phase of adoption is putting Bitcoin to work.",
         "url": "https://x.com/saylor/status/2125228316986646901",
         "time": "Tue Nov 24 14:01:30 +0000 2026",
-        "likes": 5656,
-        "retweets": 553
+        "likes": 5768,
+        "retweets": 564
       }
     ],
     "viktorfischer": [
@@ -1179,129 +1180,129 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Walmart+ Members Spend 4 Times As Much As Non-Members. The Retailer’s New $120 Bundle Could Unlock More Growth.",
-        "url": "https://finnhub.io/api/news?id=12e7e5b9e3bf3c011c1d8d923dcdfbb8f07ebee53cde15816c047afa7e9c5b44",
-        "datetime": 1795636202,
+        "headline": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+        "url": "https://finnhub.io/api/news?id=6cadcf9d3c05ee8fb7a66fd6666a88fbea8f25e033ef5f7b932745f9cb58ecdb",
+        "datetime": 1795654982,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Lucid Stock Is Moving in Reverse Today",
-        "url": "https://finnhub.io/api/news?id=d45256d49ddc955b12369b4e0693d2392192e8519c8be660246e13adeb5335c0",
-        "datetime": 1795635539,
+        "headline": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+        "url": "https://finnhub.io/api/news?id=6f393e1fab1b62c1644942b6aa5fccf3176a6f8d0b74f8d155f48dc81e146e9a",
+        "datetime": 1795654800,
         "source": "Yahoo"
       },
       {
-        "headline": "Abercrombie & Fitch Grew Sales for the 16th Straight Quarter as Earnings Jumped 62%. Here's What's Behind the Streak.",
-        "url": "https://finnhub.io/api/news?id=dc2e3efa2f101918ded91e3730bcbb4f89d0cde5bfef8e80849e5afb30833894",
-        "datetime": 1795635362,
+        "headline": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+        "url": "https://finnhub.io/api/news?id=8b493a0aabf1e7a97892b2891e9cfeccb44d087bf39cb88af27632f46e461646",
+        "datetime": 1795654800,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-        "url": "https://finnhub.io/api/news?id=2eb13ea8d0cf206f3d06f5b54bca93bf8cd03d9677e225e6ce2082cdce8beeb8",
-        "datetime": 1795634934,
+        "headline": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+        "url": "https://finnhub.io/api/news?id=44a96bba1bfc393fcabed4ca3666db1b64e5fa8d9c85f7a1ac35285748b71fbf",
+        "datetime": 1795654616,
         "source": "Yahoo"
       },
       {
-        "headline": "S&P puts NVIDIA on CreditWatch over governance concerns",
-        "url": "https://finnhub.io/api/news?id=fedb1048ba81036332171ebeadd7997e0f975f25fa3865d9031463308bd55bff",
-        "datetime": 1795634785,
+        "headline": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
+        "url": "https://finnhub.io/api/news?id=a48962df6df8632af96aac9c5be9da2c2de84ea5f72262d51d7f590333a0eb10",
+        "datetime": 1795653120,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Why Alphabet Stock Is Down Today",
-        "url": "https://finnhub.io/api/news?id=7c2ba8001fe5e027f0278058684c71484bd4b88d24dff7dc137038885d37efe0",
-        "datetime": 1795634101,
+        "headline": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+        "url": "https://finnhub.io/api/news?id=8b493a0aabf1e7a97892b2891e9cfeccb44d087bf39cb88af27632f46e461646",
+        "datetime": 1795654800,
         "source": "Yahoo"
       },
       {
-        "headline": "Why SpaceX Stock Is Down Today",
-        "url": "https://finnhub.io/api/news?id=857375062a659391798caccb54549cfbf933656fd1bf2c4454f6a1e334541235",
-        "datetime": 1795633502,
+        "headline": "5 Best Strong Buy Growth Stocks to Buy for 2027",
+        "url": "https://finnhub.io/api/news?id=f80a409f77ebfeca0eea15bfc9771d4508ae1544fa5233f50fe5ec2d616252c0",
+        "datetime": 1795653970,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Nvidia Stock Is Falling Again",
-        "url": "https://finnhub.io/api/news?id=3bacccc4e803421b72eb521768a18a422836d6a158d7493919d8567d0608fa63",
-        "datetime": 1795632782,
+        "headline": "SpaceX wins approval to launch one million AI data centre satellites",
+        "url": "https://finnhub.io/api/news?id=50f3014ec0c0b6641eec1db93964e051f97afa0ddad0c12ef0cf4f72265db4d9",
+        "datetime": 1795652820,
         "source": "Yahoo"
       },
       {
-        "headline": "Why Alphabet Stock Fell Today (Hint: It's AI-Related)",
-        "url": "https://finnhub.io/api/news?id=9bf991379dc71e3f6d3c656c8e03e89e80654a53cf26aede48bb038bf0742c72",
-        "datetime": 1795632731,
+        "headline": "Bill Gurley: Investors Weren’t “Scrambling to Actually Own Anthropic.” That’s a Problem for Amazon and Alphabet",
+        "url": "https://finnhub.io/api/news?id=ccb83e0bd6299a160bd26c2c7dab41080b62eb966bf96d125c76f3e43f010e28",
+        "datetime": 1795650186,
         "source": "Yahoo"
       },
       {
-        "headline": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
-        "url": "https://finnhub.io/api/news?id=f8dcc7d48ac9ead2e365a3247433dcc5e2283cab1dc0a625b27cfcb709893e60",
-        "datetime": 1795628665,
+        "headline": "Trump Has A Message for Big Tech Firms Like Amazon, Google and Microsoft Building Data Centers Abroad: ‘We’re Going to Put A Tremendous Tax On Them’",
+        "url": "https://finnhub.io/api/news?id=195e3e45f2885f755c5d6f09edc3485c0c9e2872ce5260249ee876020113cfa8",
+        "datetime": 1795645805,
         "source": "Yahoo"
       }
     ],
     "TSLA": [
       {
-        "headline": "AST SpaceMobile Surges 9%, Erasing Early Losses as Space Stocks Diverge; SpaceX Eases, Rocket Lab Holds Steady",
-        "url": "https://finnhub.io/api/news?id=4541db3e4c52fd046321f88f2955ff19b6b79ad19f8bc9f14156faed290740c5",
-        "datetime": 1795633350,
+        "headline": "Elon Musk tells Tesla investors there is 'only one way' to eliminate poverty",
+        "url": "https://finnhub.io/api/news?id=1579fa9f77d05dff05f06632abd4653fe397f4e4df6f5e03425344a278fa0279",
+        "datetime": 1795653420,
         "source": "Yahoo"
       },
       {
-        "headline": "SpaceX stock pares losses following FCC approval for data centers in space",
-        "url": "https://finnhub.io/api/news?id=44747c069a89c839679df0dcdf7be8c7d36fed9e7af2908f250523c73afbebcb",
-        "datetime": 1795631877,
+        "headline": "If SpaceX and Tesla Merge Next Year, Here's What a $5,000 Investment in the Combined Company Could Be Worth by the End of 2028",
+        "url": "https://finnhub.io/api/news?id=8a2eabaa38ae683f5b381fa2bd037834f64aaa8817158e22d3902f54fba446c9",
+        "datetime": 1795649042,
         "source": "Yahoo"
       },
       {
-        "headline": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market",
-        "url": "https://finnhub.io/api/news?id=e90ca90663abae20139ce2648b22ce7adbf2bd644711c46aac6dfa4457875169",
-        "datetime": 1795631820,
+        "headline": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
+        "url": "https://finnhub.io/api/news?id=57423974c39a5788070df93a39570953d50651c621f2813f64d7461c476724f7",
+        "datetime": 1795641107,
         "source": "Yahoo"
       },
       {
-        "headline": "Ford Motor vs. Tesla: Which Automaker Stock Is a Better Buy for 2027?",
-        "url": "https://finnhub.io/api/news?id=20f4f00b72c95809bf9240cd0a0f8701c7bb841c37671053599cf3f0ffb87d30",
-        "datetime": 1795630381,
+        "headline": "SpaceX stock price crashes on concerns over compute demand",
+        "url": "https://finnhub.io/api/news?id=37dc7ebbc91e3296a2278578b5b0084d9b60856569f48c577f60b12b4bbcca24",
+        "datetime": 1795638730,
         "source": "Yahoo"
       },
       {
-        "headline": "Tesla Sinks 5%, Sandisk Down 13% as AI Selloff Deepens and EU Stalls FSD Approval",
-        "url": "https://finnhub.io/api/news?id=92f351eadad0432cc90d3b37f23e944b7e27bd16708e901c04486fc6938c6efe",
-        "datetime": 1795624301,
+        "headline": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+        "url": "https://finnhub.io/api/news?id=8dddda9e784ea509d9f37136165d64d0c78e37e7811e2b73b98aa8e65a9423a5",
+        "datetime": 1795638121,
         "source": "Yahoo"
       }
     ],
     "CRCL": [
       {
+        "headline": "Circle Is Down 13% in a Week and Just Hit a New 52-Week Low. Is the Selling Overdone?",
+        "url": "https://finnhub.io/api/news?id=4f307f6d1f9ab60202f71c933eccf3215df05c3b06ee6f79ac87a8005ee60119",
+        "datetime": 1795649689,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "A Token Presale Drove Circle’s Revenue Growth. Can Payments Make Up for Falling Reserve Income?",
+        "url": "https://finnhub.io/api/news?id=82470b9141f1851fc42fab7ddfa38a90cf19a7a2ddfd39c746cb70b24e74e7a8",
+        "datetime": 1795632919,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
+        "url": "https://finnhub.io/api/news?id=9ccc975e6ade593d3e40763dc293cc0c486efe9ba81c2e4e799ea3868621b1e5",
+        "datetime": 1795624557,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Stablecoin Redemptions Hit $12 Billion As Crypto Prices Fall",
+        "url": "https://finnhub.io/api/news?id=16ded01f659311cd883bcd60156890208f221f68124c52149a90fe795df8b6ec",
+        "datetime": 1795619100,
+        "source": "Yahoo"
+      },
+      {
         "headline": "HOOD, COIN Get Wedbush Outperform Ratings: Here’s What The Firm Sees In Fintech’s Next Growth Phase",
         "url": "https://finnhub.io/api/news?id=748d8098e363d5ced162d0613f6ac19b132a3f1806a7f84156acb8fbf27c28d9",
         "datetime": 1795581191,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Is Circle One of the Best Bitcoin and Blockchain Stocks to Buy As Per Wall Street Analysts?",
-        "url": "https://finnhub.io/api/news?id=403d5c73a1ff887d2947ecbef2504f8387f261d8fd7dba1cfd88f6934c6041c3",
-        "datetime": 1795553121,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Bitcoin now counts as collateral: From the CFTC to the ECB",
-        "url": "https://finnhub.io/api/news?id=17dd4fdd9bec23f5933d8a3512090717126397062070b6c04137c891ac5c22e0",
-        "datetime": 1795541822,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "DOJ files action to recover $1B in crypto stolen in Binance hack",
-        "url": "https://finnhub.io/api/news?id=a0f6a5fb93117db5f022d34897e1057dff9cd4a4271738dabb6d08df9134204e",
-        "datetime": 1795538484,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Jensen Huang to testify before Senate over spy scandal",
-        "url": "https://finnhub.io/api/news?id=0f145ebc7b42b85e22be2a43fc10dfd6f1289dad1e422c160f4c1a310aeb924b",
-        "datetime": 1795536923,
         "source": "Yahoo"
       }
     ],
@@ -1320,6 +1321,12 @@
       }
     ],
     "BTC": [
+      {
+        "headline": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+        "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "datetime": 1795641739,
+        "source": "Cointelegraph"
+      },
       {
         "headline": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
         "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
@@ -1342,12 +1349,6 @@
         "headline": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
         "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
         "datetime": 1795607870,
-        "source": "CoinDesk"
-      },
-      {
-        "headline": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-        "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-        "datetime": 1795607514,
         "source": "CoinDesk"
       }
     ],
@@ -1436,6 +1437,12 @@
     ],
     "NEAR": [
       {
+        "headline": "If you’re looking for private and verifiable inference, it’s NEAR.",
+        "url": "https://x.com/NEARProtocol/status/2125770716394193401",
+        "datetime": 1795658208,
+        "source": "@NEARProtocol"
+      },
+      {
         "headline": "Confidentially moving across chains. NEAR is connection.",
         "url": "https://x.com/NEARProtocol/status/2125684446666031383",
         "datetime": 1795637640,
@@ -1445,12 +1452,6 @@
         "headline": "Agents need a neutral, battle tested coordination layer. NEAR is built for it.",
         "url": "https://x.com/NEARProtocol/status/2125616751413002677",
         "datetime": 1795621500,
-        "source": "@NEARProtocol"
-      },
-      {
-        "headline": "Over $1B moved through NEAR Intents in a single week.\n⠀\nMore than $153M a day, on top of $40B all-time. NEAR is connection.",
-        "url": "https://x.com/NEARProtocol/status/2125597877229478110",
-        "datetime": 1795617000,
         "source": "@NEARProtocol"
       }
     ],
