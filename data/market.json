@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T23:06:11.515Z",
+  "updated_at": "2026-11-28T05:41:26.239Z",
   "stocks": [
     {
       "symbol": "VOO",
@@ -58,70 +58,70 @@
     },
     {
       "symbol": "LKNCY",
-      "price": 37.83,
-      "change_pct": -0.16
+      "price": 37.81,
+      "change_pct": -0.05
     }
   ],
   "crypto": [
     {
       "symbol": "BTC",
-      "price": 59808,
-      "change_pct": -1.08
+      "price": 59701,
+      "change_pct": -3.21
     },
     {
       "symbol": "ETH",
-      "price": 1658.26,
-      "change_pct": -1.91
+      "price": 1654.85,
+      "change_pct": -4.96
     },
     {
       "symbol": "SOL",
-      "price": 71.58,
-      "change_pct": 0.71
+      "price": 71.23,
+      "change_pct": -2.51
     },
     {
       "symbol": "HYPE",
-      "price": 63.83,
-      "change_pct": 2.46
+      "price": 63.21,
+      "change_pct": -3.91
     },
     {
       "symbol": "ZEC",
-      "price": 730.52,
-      "change_pct": 5.27
+      "price": 742,
+      "change_pct": -2.22
     },
     {
       "symbol": "TAO",
-      "price": 186.28,
-      "change_pct": 1.38
+      "price": 185.38,
+      "change_pct": -1.23
     },
     {
       "symbol": "SKY",
-      "price": 1194.21,
-      "change_pct": 12.18
+      "price": 1153.28,
+      "change_pct": 7.43
     },
     {
       "symbol": "AAVE",
-      "price": 95.66,
-      "change_pct": 1.22
+      "price": 92.87,
+      "change_pct": -3.87
     },
     {
       "symbol": "BNB",
-      "price": 552.93,
-      "change_pct": -0.07
+      "price": 551.67,
+      "change_pct": -2.46
     },
     {
       "symbol": "NEAR",
-      "price": 3.04,
-      "change_pct": -0.63
+      "price": 3.01,
+      "change_pct": -2.97
     },
     {
       "symbol": "DOGE",
-      "price": 0.057558,
-      "change_pct": 1.98
+      "price": 0.056787,
+      "change_pct": -1.89
     },
     {
       "symbol": "SPACEX",
-      "price": 110.14,
-      "change_pct": 2.27
+      "price": 110.27,
+      "change_pct": -0.19
     }
   ],
   "earnings": {
@@ -798,46 +798,46 @@
     }
   ],
   "btc_score": {
-    "score": 25.2,
+    "score": 23,
     "level": "恐慌",
     "suggestion": "市场低估，适合分批建仓或加仓",
-    "daily_score": 8.7,
-    "weekly_score": 16.5,
-    "btc_price": 59847.2,
-    "fear_greed": 10,
+    "daily_score": 8.9,
+    "weekly_score": 14.1,
+    "btc_price": 59786.5,
+    "fear_greed": 9,
     "indicators": [
       {
         "name": "AHR999",
-        "value": 0.2743,
+        "value": 0.2686,
         "score": 9,
         "weight": 10,
         "group": "daily"
       },
       {
         "name": "ETF 每日净流入",
-        "value": -453000000,
-        "score": 20,
+        "value": -389000000,
+        "score": 24,
         "weight": 9,
         "group": "daily"
       },
       {
         "name": "Funding Rate",
-        "value": 0.008568,
-        "score": 49,
+        "value": 0.005919,
+        "score": 48,
         "weight": 5,
         "group": "daily"
       },
       {
         "name": "币安 BTC 合约多空账户比",
-        "value": 2.97,
+        "value": 2.91,
         "score": 100,
         "weight": 3,
         "group": "daily"
       },
       {
         "name": "恐惧贪婪指数",
-        "value": 10,
-        "score": 10,
+        "value": 9,
+        "score": 9,
         "weight": 5,
         "group": "daily"
       },
@@ -850,22 +850,22 @@
       },
       {
         "name": "NUPL",
-        "value": 0.122,
-        "score": 37,
+        "value": 0.114,
+        "score": 36,
         "weight": 11,
         "group": "weekly"
       },
       {
         "name": "LTH-SOPR",
-        "value": 0.926,
-        "score": 9,
+        "value": 0.764,
+        "score": 6,
         "weight": 9,
         "group": "weekly"
       },
       {
         "name": "STH-SOPR",
-        "value": 0.997,
-        "score": 47,
+        "value": 0.983,
+        "score": 33,
         "weight": 8,
         "group": "weekly"
       },
@@ -885,7 +885,7 @@
       },
       {
         "name": "200周均线倍数",
-        "value": 0.89,
+        "value": 0.88,
         "score": 13,
         "weight": 6,
         "group": "weekly"
@@ -899,8 +899,8 @@
       },
       {
         "name": "成交量变化",
-        "value": -16.3,
-        "score": 41,
+        "value": -95.4,
+        "score": 19,
         "weight": 4,
         "group": "weekly"
       }
@@ -909,7 +909,7 @@
   "fomc": {
     "next": {
       "date": "2026-12-09",
-      "days_until": 12
+      "days_until": 11
     },
     "schedule": [
       "2025-01-29",
@@ -1015,39 +1015,39 @@
   "tweets": {
     "cburniske": [
       {
+        "text": "Noticing a lot of complacency in folks expecting lower, while prices are already below what many forecast as the worst for this bear. I can always be wrong, but this type of attitude will create a chase upward if prices don't go lower and we've instead already found bottom.",
+        "url": "https://x.com/cburniske/status/2126487851575706053",
+        "time": "Sat Nov 28 01:26:26 +0000 2026",
+        "likes": 624,
+        "retweets": 44
+      },
+      {
         "text": "As open systems that represent large honey-pots, blockchains will be tested first, but also hardened first - always been this way. \n\nWhile people at the frontier may worry about blockchains now, in a few years' time, they'll view them as one of the safest digital venues around.",
         "url": "https://x.com/cburniske/status/2126432267816055151",
         "time": "Fri Nov 27 21:45:34 +0000 2026",
-        "likes": 241,
-        "retweets": 25
+        "likes": 505,
+        "retweets": 53
       },
       {
         "text": "Great entries always occur in a time of doubt",
         "url": "https://x.com/cburniske/status/2126431133604941854",
         "time": "Fri Nov 27 21:41:04 +0000 2026",
-        "likes": 255,
-        "retweets": 15
+        "likes": 439,
+        "retweets": 26
       },
       {
         "text": "$BTC sub $60K.\n$ZEC sub $750.\n$ETH sub $1700.\n$SOL sub $75.\n\nBlack Friday 2026 will be one to remember, with discounts ranging from 60-90% off what buyers will pay in a few years' time.",
         "url": "https://x.com/cburniske/status/2126407503705723019",
         "time": "Fri Nov 27 20:07:10 +0000 2026",
-        "likes": 901,
-        "retweets": 74
+        "likes": 1366,
+        "retweets": 106
       },
       {
         "text": "The antagonist of the bear, becomes the protagonist of the bull.",
         "url": "https://x.com/cburniske/status/2126075655062487520",
         "time": "Thu Nov 26 22:08:31 +0000 2026",
-        "likes": 321,
+        "likes": 320,
         "retweets": 19
-      },
-      {
-        "text": "To humans, a blockchain is an abstraction of reality. \n\nTo non-human sentients, a blockchain is verifiable reality, and one where they can manage the resources they need to \"stay alive.\" \n\nWithout knowing it, we may be forming habitable economic environments for non-biological",
-        "url": "https://x.com/cburniske/status/2126073166447640769",
-        "time": "Thu Nov 26 21:58:38 +0000 2026",
-        "likes": 243,
-        "retweets": 22
       }
     ],
     "QwQiao": [
@@ -1055,22 +1055,22 @@
         "text": "(im not a cryptographer but do have a math degree from a good school so im capable of arriving at these conclusions with the help of fable/astra)",
         "url": "https://x.com/QwQiao/status/2126363594770018386",
         "time": "Fri Nov 27 17:12:41 +0000 2026",
-        "likes": 30,
-        "retweets": 0
+        "likes": 36,
+        "retweets": 1
       },
       {
         "text": "widespread misconceptions about ai breaking crypto (cryptography):\n\n1. if ai proves n = np, crypto is automatically broken.\n\n2. as ai gets smarter, sooner or later it’ll break all cryptography.\n\nthe reality:\n\n1. most likely p ≠ np\n\n2. even if p = np, the proof may not be",
         "url": "https://x.com/QwQiao/status/2126360634656715189",
         "time": "Fri Nov 27 17:00:55 +0000 2026",
-        "likes": 356,
-        "retweets": 36
+        "likes": 531,
+        "retweets": 47
       },
       {
         "text": "base case for equities:\n\nwe’ll have at least 2-3 good months. the index will likely make a new high (s&amp;p over 8000). bears capitulate. and that will conclude the bull market that started in 2022.\n\nrationale being this recent selloff has been extreme (40 vix). the rally will be",
         "url": "https://x.com/QwQiao/status/2126304192176242811",
         "time": "Fri Nov 27 13:16:38 +0000 2026",
-        "likes": 469,
-        "retweets": 24
+        "likes": 516,
+        "retweets": 26
       },
       {
         "text": "laws of the universe that makes this is simulation fun:\n\n- 2nd law of thermodynamics: entropy always rises, time only moves forward, actions cannot be undone. u can’t save the game and load later if u fuck up.\n\n- speed of light: you can’t be everywhere at once, so there's always",
@@ -1092,36 +1092,36 @@
         "text": "On Nov. 25, the 13-week U.S. Treasury bill (IRX), a three-month benchmark for dollar credit, was quoted at a 4.16% discount rate. Stretch ($STRC) had a 12.24% effective yield. Our ambition is for Stretch to become the three-month benchmark for Digital Credit built on Bitcoin.",
         "url": "https://x.com/saylor/status/2126326029728063994",
         "time": "Fri Nov 27 14:43:25 +0000 2026",
-        "likes": 3438,
-        "retweets": 282
+        "likes": 3815,
+        "retweets": 308
       },
       {
         "text": "https://t.co/3ODgwVqibK",
         "url": "https://x.com/saylor/status/2126009248190800326",
         "time": "Thu Nov 26 17:44:38 +0000 2026",
-        "likes": 315,
-        "retweets": 34
+        "likes": 324,
+        "retweets": 36
       },
       {
         "text": "Fix the Money, Fix the World https://t.co/oDMci9tM6D",
         "url": "https://x.com/saylor/status/2126008963850518995",
         "time": "Thu Nov 26 17:43:30 +0000 2026",
-        "likes": 3277,
-        "retweets": 420
+        "likes": 3387,
+        "retweets": 434
       },
       {
         "text": "Relative to market cap, $MSTR had 4.4× the options open interest of Tesla, the leader among the Magnificent Seven. Open contracts on $MSTR represented 61.2% of its market cap, versus 13.8% for $TSLA. https://t.co/AKT2A9nCAs",
         "url": "https://x.com/saylor/status/2125941406128607460",
         "time": "Thu Nov 26 13:15:03 +0000 2026",
-        "likes": 3240,
-        "retweets": 327
+        "likes": 3304,
+        "retweets": 341
       },
       {
         "text": "Stretch ($STRC) returned 13.24% over the past year, beating all seven fixed-income ETFs in this comparison. The closest was Treasury bills at 3.67%. All returns include distributions. https://t.co/5aLFmek8ah",
         "url": "https://x.com/saylor/status/2125603699204497670",
         "time": "Wed Nov 25 14:53:08 +0000 2026",
-        "likes": 2567,
-        "retweets": 273
+        "likes": 2570,
+        "retweets": 275
       }
     ],
     "viktorfischer": [
@@ -1165,69 +1165,87 @@
   "portfolio_news": {
     "NVDA": [
       {
-        "headline": "Billionaire Chase Coleman’s Tiger Global Raised Its Cerebras Stake 48% to $790 Million",
-        "url": "https://finnhub.io/api/news?id=157bab7006e16a9eaba041f568718eced7841420efee12833f6fe2254f526c93",
-        "datetime": 1795815477,
+        "headline": "Nvidia Stock Has Swung 5% or More in a Single Day 5 Times in November. Here's How Big a Position I Think Makes Sense.",
+        "url": "https://finnhub.io/api/news?id=f97997723386d88a9c7bb62e87e71611a60ced291cf5b2fd34d5202b15e17fe0",
+        "datetime": 1795835582,
         "source": "Yahoo"
       },
       {
-        "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
-        "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
-        "datetime": 1795813560,
+        "headline": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now",
+        "url": "https://finnhub.io/api/news?id=c945706249628a613e103f9976532b2584d97741036e44de0e3c8d0add656436",
+        "datetime": 1795832124,
         "source": "Yahoo"
       },
       {
-        "headline": "Can Record Black Friday Spending Lift Amazon Stock?",
-        "url": "https://finnhub.io/api/news?id=7aa445f3c05f8dbd715315f2c351988e8a2e6eb98f4c2803720b3f3d8d50d033",
-        "datetime": 1795811700,
+        "headline": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
+        "url": "https://finnhub.io/api/news?id=99b36f5e91cfa5424783695ea2d69d16329b9a486abca7ca930c536d37fbae7d",
+        "datetime": 1795828750,
         "source": "Yahoo"
       },
       {
-        "headline": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
-        "url": "https://finnhub.io/api/news?id=ca84633dd52240b00db7b72a75d92570875cda4eec12ac7da9ffc80aa5298d64",
-        "datetime": 1795809354,
+        "headline": "Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027.",
+        "url": "https://finnhub.io/api/news?id=e07d3a43315060afd5e0d3bc3c2192d50d0b4a848235681d146e184299fe362c",
+        "datetime": 1795828280,
         "source": "Yahoo"
       },
       {
-        "headline": "Nvidia Stocks Slip 1.66% as S&P Weighs Downgrade Over Key-Man Risk",
-        "url": "https://finnhub.io/api/news?id=6e3204be59ea37f81ad7a186dc63f1972f26ae9d79b0bd5267c3f24444d438ca",
-        "datetime": 1795808976,
+        "headline": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
+        "url": "https://finnhub.io/api/news?id=8a9bc66e9716dd14bf14d42e26a153ca10dfa86e3292230084d6f99d149b9846",
+        "datetime": 1795828142,
         "source": "Yahoo"
       }
     ],
     "GOOG": [
       {
-        "headline": "Jensen Huang Is Back. Nvidia’s (NVDA) Bull Case Remains",
-        "url": "https://finnhub.io/api/news?id=a3adb5dfaf174dffb6f21e2a31c6eadd3eb5208d57c2c682d0a5fd92dc772fb4",
-        "datetime": 1795813560,
+        "headline": "BCV: Good For Diversification, But Still Impacted By Tech Worries",
+        "url": "https://finnhub.io/api/news?id=3bef52650256eb7c435927d4ca10162b37462ebc15b3c058acc289d269286803",
+        "datetime": 1795821939,
+        "source": "SeekingAlpha"
+      },
+      {
+        "headline": "Plot Twist: Nvidia’s Vera Rubin Gets 2-6.5x GB300’s Tokens per Dollar. Amazon’s Trainium Edge Was Against the Old Chip",
+        "url": "https://finnhub.io/api/news?id=e299fe88567a7a659bfd5f2a6daa4f621b9279aa134e42209b2c5a991d644c68",
+        "datetime": 1795821835,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet Down Nearly 20%: What Would Its CEO Say?",
-        "url": "https://finnhub.io/api/news?id=29855fa31f3e1aeb9b90a71c6ac4405c1d0fe62c74956217a16b9e1ffff9d6c3",
-        "datetime": 1795811113,
+        "headline": "Amazon Hits Its Lowest P/E Ever. Jim Cramer Predicts It Will “Prove to Be the Winner”",
+        "url": "https://finnhub.io/api/news?id=2c8719ae3e9df30828f37aa996a5510f5dcc46ef776688975e731fc800aae5a0",
+        "datetime": 1795821761,
         "source": "Yahoo"
       },
       {
-        "headline": "Alphabet Stocks Move Lower as Record Credit Spreads Shadow AI Spending",
-        "url": "https://finnhub.io/api/news?id=c4f248232a08a6eeada46dedfc8efb6cc06860300056a0f6da493d69ad558f9f",
-        "datetime": 1795807119,
+        "headline": "Warning for Alphabet Investors: MScience Data Show Q4 Search Revenue Tracking Below Consensus",
+        "url": "https://finnhub.io/api/news?id=8153645d613ea30a27601556b33d74a143425db59f257658d76f0f4af8743e36",
+        "datetime": 1795821683,
         "source": "Yahoo"
       },
       {
-        "headline": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
-        "url": "https://finnhub.io/api/news?id=aa66c798afc8263a9b4653b973996f8039704ac7c6ec480edbb30dbda5100594",
-        "datetime": 1795805361,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Top Stock Reports for Alphabet, Meta & Bank of America",
-        "url": "https://finnhub.io/api/news?id=f91b2d3ba76cb8fb0419b65518914d1a60d5f0a1610c8c71cda29eab59fb8c9a",
-        "datetime": 1795804860,
-        "source": "Yahoo"
+        "headline": "Tracking David Tepper's Appaloosa Management Portfolio - Q3 2026 Update",
+        "url": "https://finnhub.io/api/news?id=93e15087d8c657014617ad52b0e55f08fbd14d968fcdebdfe496c189ad3145fc",
+        "datetime": 1795816267,
+        "source": "SeekingAlpha"
       }
     ],
     "TSLA": [
+      {
+        "headline": "Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",
+        "url": "https://finnhub.io/api/news?id=36329ce322fbf824276b93fb1d9e4c5a3683727ae39880d6f064e01dd35a8e71",
+        "datetime": 1795824747,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Texas Is Racing to Approve SpaceX’s $24 Billion Starbase Data Center Before Its New Governor Can Halt It",
+        "url": "https://finnhub.io/api/news?id=b8662ce9fbd9bd9ec9c2bf6f2a7c453d6ab05570c641e66cfcbffcd3b80119e6",
+        "datetime": 1795821602,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
+        "url": "https://finnhub.io/api/news?id=062c6dc9674f05d9484818878dd1f4fe3421a09d91f9f95f021d086f85ff05c8",
+        "datetime": 1795814986,
+        "source": "Yahoo"
+      },
       {
         "headline": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",
         "url": "https://finnhub.io/api/news?id=ca84633dd52240b00db7b72a75d92570875cda4eec12ac7da9ffc80aa5298d64",
@@ -1239,69 +1257,51 @@
         "url": "https://finnhub.io/api/news?id=126cc66e9d953c9bb16d9401242ac8190d5d0bd2982e39f54e833a14a4715a66",
         "datetime": 1795807162,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
-        "url": "https://finnhub.io/api/news?id=daa551d96a3a7a3a1f9668075bf933140959befbc52062dc93c5be0e73509c6f",
-        "datetime": 1795805323,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Tesla Takes 1.2M SF at Houston’s Cedar Port Industrial Park",
-        "url": "https://finnhub.io/api/news?id=7fd8c6e6ffe50a23e4ca0f5932edfd10af5f0440eaba43b41f1d32c515f970df",
-        "datetime": 1795803114,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Dow Adds 592 Points on Black Friday as AI Fear Fades: Stock Market Today",
-        "url": "https://finnhub.io/api/news?id=5e2d7546a7eb131dd6af8de91ee80a0908f0f441cb7b0ca0474cd150b0387cd8",
-        "datetime": 1795803091,
-        "source": "Yahoo"
       }
     ],
     "CRCL": [
+      {
+        "headline": "Weekly Wrap: Bitcoin Struggles As Latest Rally Fails",
+        "url": "https://finnhub.io/api/news?id=ed9ddebb2d7cc8d11f4b1ed76d484e00acd05e89a43514583894a82584ea6323",
+        "datetime": 1795810740,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Coinbase Global vs. Upstart: Which Financial Stock Is a Better Buy for 2027?",
+        "url": "https://finnhub.io/api/news?id=6a7c681898304c16a8a8e14f3261b982c80aec2812805ab43de1a8f7c16106d7",
+        "datetime": 1795799915,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "3 Founder Led Stocks With Revenue Growth Up To 26%",
+        "url": "https://finnhub.io/api/news?id=7d9a62cfc96f424ec30e2653e21c44b2584659492896ae53fd283ae43f201db6",
+        "datetime": 1795795961,
+        "source": "Yahoo"
+      },
+      {
+        "headline": "Circle's Arc Gains Traction: Can It Fuel Revenue Growth?",
+        "url": "https://finnhub.io/api/news?id=67b93c7b0d115108081c24ab549b6db06119589d73ec63c5d5806040be755829",
+        "datetime": 1795778520,
+        "source": "Yahoo"
+      },
       {
         "headline": "Circle Is Down 66% From Its May High: Is It Time to Sell, or Load Up?",
         "url": "https://finnhub.io/api/news?id=1854e608288a16fa540c14b99c51659ed607890e48d31309ff1366b8749e547b",
         "datetime": 1795687674,
         "source": "Yahoo"
-      },
-      {
-        "headline": "Circle Is Down 13% in a Week and Just Hit a New 52-Week Low. Is the Selling Overdone?",
-        "url": "https://finnhub.io/api/news?id=4f307f6d1f9ab60202f71c933eccf3215df05c3b06ee6f79ac87a8005ee60119",
-        "datetime": 1795649689,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "A Token Presale Drove Circle’s Revenue Growth. Can Payments Make Up for Falling Reserve Income?",
-        "url": "https://finnhub.io/api/news?id=82470b9141f1851fc42fab7ddfa38a90cf19a7a2ddfd39c746cb70b24e74e7a8",
-        "datetime": 1795632919,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
-        "url": "https://finnhub.io/api/news?id=9ccc975e6ade593d3e40763dc293cc0c486efe9ba81c2e4e799ea3868621b1e5",
-        "datetime": 1795624557,
-        "source": "Yahoo"
-      },
-      {
-        "headline": "Stablecoin Redemptions Hit $12 Billion As Crypto Prices Fall",
-        "url": "https://finnhub.io/api/news?id=16ded01f659311cd883bcd60156890208f221f68124c52149a90fe795df8b6ec",
-        "datetime": 1795619100,
-        "source": "Yahoo"
       }
     ],
     "LKNCY": [
       {
-        "headline": "Keurig's U.S. Beverage Sales Rise 10.9%: Can This Momentum Last?",
-        "url": "https://finnhub.io/api/news?id=1cd8f35737204650075c14c5435663b732df463adae3acacc07f58c9c2a7709b",
-        "datetime": 1795189320,
+        "headline": "Is Luckin Coffee (LKNCY) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+        "url": "https://finnhub.io/api/news?id=5c279d08927b1e71aab756b0a94d1f91d230914ab468393c9765c6fb0811f975",
+        "datetime": 1795797902,
         "source": "Yahoo"
       },
       {
-        "headline": "Is Coca Cola Femsa (KOF) Stock Outpacing Its Consumer Staples Peers This Year?",
-        "url": "https://finnhub.io/api/news?id=2c08a9ae171f156e642ce1e45c60bea309fca9ea4fe4367c90c7cc114881db10",
-        "datetime": 1795182003,
+        "headline": "LKNCY or MNST: Which Is the Better Value Stock Right Now?",
+        "url": "https://finnhub.io/api/news?id=382e1a39f41ebb59134279c2466cee5540b59dd1ef68e0d5ef41d4c2b79fbc22",
+        "datetime": 1795794002,
         "source": "Yahoo"
       }
     ],
@@ -1365,6 +1365,12 @@
         "source": "Cointelegraph"
       },
       {
+        "headline": "I don't think people understand that what is happening on Solana",
+        "url": "https://x.com/solana/status/2126513280323932411",
+        "datetime": 1795835249,
+        "source": "@solana"
+      },
+      {
         "headline": "400,000 collectors track 13 million bottles on @BAXUSco. One seller is 87 and has no idea he's using Solana.",
         "url": "https://x.com/solana/status/2126333022660395198",
         "datetime": 1795792272,
@@ -1374,12 +1380,6 @@
         "headline": "One of the world's largest insurance brokers has settled its first stablecoin premiums on Solana",
         "url": "https://x.com/solana/status/2126248458759840072",
         "datetime": 1795772111,
-        "source": "@solana"
-      },
-      {
-        "headline": "Introducing Solana Playground - where you learn, build and deploy Solana programs right in your browser. An AI agent explains the code and edits it with you. \n\nStart here:",
-        "url": "https://x.com/solana/status/2126148670769009006",
-        "datetime": 1795748319,
         "source": "@solana"
       }
     ],
